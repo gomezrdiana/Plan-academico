@@ -1,0 +1,29 @@
+# =====================================================
+# .gitignore Heiiu — versionado local de guías y material
+# =====================================================
+
+# REPORTES INDIVIDUALES POR ESTUDIANTE (1.1 GB — fotos / PDFs personales)
+# Si necesitas versionar alguno específico, lo agregamos manualmente
+B2/reportes/
+
+# BACKUP HISTÓRICO antes del clean (1.6 MB — ya es backup, no versionar de nuevo)
+backup_pre_clean/
+
+# PYTHON
+__pycache__/
+*.pyc
+*.pyo
+
+# TEMPORALES Y BORRADORES
+*.tmp.pdf
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# CONFIG LOCAL DE CLAUDE CODE
+.claude/
+
+# LOGS / SALIDAS
+*.log

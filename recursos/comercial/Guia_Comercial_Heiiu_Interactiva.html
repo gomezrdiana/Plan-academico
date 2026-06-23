@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HEIIU — Guía Comercial Equipo de Ventas</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700&family=Playfair+Display:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
+<style>
+:root {
+  --orange: #E8871E;
+  --orange-light: #FFF5EB;
+  --orange-dark: #C46E10;
+  --dark: #1a1a1a;
+  --gray: #666;
+  --light: #f9f9f9;
+  --white: #fff;
+  --red: #e74c3c;
+  --green: #27ae60;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: var(--light);
+  color: var(--dark);
+  line-height: 1.7;
+}
+
+/* SIDEBAR NAV */
+.sidebar {
+  position: fixed;
+  left: 0; top: 0; bottom: 0;
+  width: 280px;
+  background: var(--dark);
+  padding: 30px 20px;
+  overflow-y: auto;
+  z-index: 100;
+  transition: transform 0.3s;
+}
+
+.sidebar-logo {
+  font-family: 'Playfair Display', serif;
+  color: var(--orange);
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.sidebar-sub {
+  color: #888;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #333;
+}
+
+.nav-item {
+  display: block;
+  color: #aaa;
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 8px;
+  font-size: 14px;
+  margin-bottom: 2px;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.nav-item:hover, .nav-item.active {
+  color: var(--white);
+  background: rgba(232,135,30,0.15);
+}
+
+.nav-item.active {
+  border-left: 3px solid var(--orange);
+  color: var(--orange);
+  font-weight: 700;
+}
+
+.nav-number {
+  display: inline-block;
+  width: 24px;
+  color: var(--orange);
+  font-weight: 700;
+}
+
+/* MOBILE TOGGLE */
+.menu-toggle {
+  display: none;
+  position: fixed;
+  top: 15px; left: 15px;
+  z-index: 200;
+  background: var(--orange);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+/* MAIN */
+.main {
+  margin-left: 280px;
+  padding: 40px 60px;
+  max-width: 900px;
+}
+
+/* COVER */
+.cover {
+  text-align: center;
+  padding: 80px 0;
+  margin-bottom: 40px;
+}
+
+.cover h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 48px;
+  color: var(--orange);
+  margin-bottom: 15px;
+}
+
+.cover .divider {
+  width: 80px;
+  height: 3px;
+  background: var(--orange);
+  margin: 20px auto;
+}
+
+.cover h2 {
+  font-size: 22px;
+  font-weight: 400;
+  color: var(--dark);
+}
+
+.cover .tagline {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  color: var(--orange);
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.cover .meta {
+  color: var(--gray);
+  font-size: 13px;
+  margin-top: 30px;
+}
+
+/* SECTIONS */
+.section {
+  margin-bottom: 20px;
+  background: var(--white);
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  overflow: hidden;
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  padding: 20px 25px;
+  cursor: pointer;
+  transition: background 0.2s;
+  user-select: none;
+}
+
+.section-header:hover {
+  background: var(--orange-light);
+}
+
+.section-number {
+  font-family: 'Playfair Display', serif;
+  font-size: 32px;
+  color: var(--orange);
+  font-weight: 700;
+  margin-right: 20px;
+  min-width: 45px;
+}
+
+.section-title {
+  font-size: 18px;
+  font-weight: 700;
+  flex: 1;
+}
+
+.section-arrow {
+  font-size: 24px;
+  color: var(--orange);
+  transition: transform 0.3s;
+}
+
+.section.open .section-arrow {
+  transform: rotate(180deg);
+}
+
+.section-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease;
+  padding: 0 25px;
+}
+
+.section.open .section-content {
+  max-height: 50000px;
+  padding: 0 25px 30px;
+}
+
+/* CONTENT ELEMENTS */
+h3 {
+  font-size: 16px;
+  color: var(--orange);
+  margin: 25px 0 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+p { margin-bottom: 14px; font-size: 15px; }
+
+.highlight {
+  background: var(--orange-light);
+  border-left: 4px solid var(--orange);
+  padding: 15px 20px;
+  border-radius: 0 8px 8px 0;
+  margin: 15px 0;
+  font-style: italic;
+}
+
+.highlight.mission {
+  background: var(--dark);
+  color: var(--white);
+  border-left-color: var(--orange);
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 10px;
+  padding: 8px 0;
+}
+
+.item-icon {
+  min-width: 28px;
+  font-size: 16px;
+  margin-top: 2px;
+}
+
+.item-icon.check { color: var(--green); }
+.item-icon.cross { color: var(--red); }
+
+.item-text { flex: 1; font-size: 15px; }
+.item-text strong { color: var(--dark); }
+.item-text .deprecated { text-decoration: line-through; color: #999; }
+.item-text .note { color: #999; font-size: 13px; font-style: italic; }
+
+/* TABLES */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 15px 0;
+  font-size: 14px;
+}
+
+thead th {
+  background: var(--orange);
+  color: white;
+  padding: 12px 15px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+tbody td {
+  padding: 10px 15px;
+  border-bottom: 1px solid #eee;
+}
+
+tbody tr:hover {
+  background: var(--orange-light);
+}
+
+tbody tr:nth-child(even) {
+  background: #fafafa;
+}
+
+tbody tr:nth-child(even):hover {
+  background: var(--orange-light);
+}
+
+.price-big {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--orange);
+}
+
+/* SCRIPT BLOCKS */
+.script {
+  background: #f0f4f8;
+  border-radius: 8px;
+  padding: 15px 20px;
+  margin: 12px 0;
+  font-style: italic;
+  border-left: 3px solid #4a90d9;
+  font-size: 14px;
+}
+
+.script .label {
+  font-style: normal;
+  font-weight: 700;
+  color: #4a90d9;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 5px;
+}
+
+/* RULE CARDS */
+.rule {
+  display: flex;
+  align-items: flex-start;
+  padding: 12px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.rule:last-child { border-bottom: none; }
+
+.rule-number {
+  background: var(--orange);
+  color: white;
+  font-weight: 700;
+  font-size: 14px;
+  min-width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 15px;
+  margin-top: 2px;
+}
+
+.rule-text { flex: 1; font-size: 15px; }
+.rule-text strong { color: var(--dark); }
+
+/* URGENT BANNER */
+.urgent {
+  background: linear-gradient(135deg, var(--orange), var(--orange-dark));
+  color: white;
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.urgent h3 {
+  color: white;
+  font-size: 24px;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.urgent p {
+  color: rgba(255,255,255,0.9);
+  font-size: 16px;
+}
+
+/* PENDING */
+.pending-item {
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.pending-check {
+  width: 22px;
+  height: 22px;
+  border: 2px solid var(--orange);
+  border-radius: 4px;
+  margin-right: 12px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+}
+
+.pending-check.done {
+  background: var(--orange);
+  color: white;
+}
+
+/* FOOTER */
+.footer {
+  text-align: center;
+  padding: 60px 0 40px;
+  color: var(--gray);
+}
+
+.footer .frase {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  color: var(--orange);
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.footer .firma {
+  font-weight: 700;
+  color: var(--dark);
+  margin-top: 20px;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .sidebar { transform: translateX(-100%); }
+  .sidebar.open { transform: translateX(0); }
+  .menu-toggle { display: block; }
+  .main { margin-left: 0; padding: 70px 20px 40px; }
+  .cover h1 { font-size: 32px; }
+  table { font-size: 12px; }
+  thead th, tbody td { padding: 8px 10px; }
+}
+</style>
+</head>
+<body>
+
+<button class="menu-toggle" onclick="document.querySelector('.sidebar').classList.toggle('open')">☰</button>
+
+<nav class="sidebar">
+  <div class="sidebar-logo">HEIIU</div>
+  <div class="sidebar-sub">Guía Comercial 2026</div>
+  <a class="nav-item active" onclick="openSection(0)" style="color:var(--orange);font-weight:700"><span class="nav-number">🚨</span> URGENTE: A1</a>
+  <a class="nav-item" onclick="openSection(1)"><span class="nav-number">2.</span> De dónde venimos</a>
+  <a class="nav-item" onclick="openSection(2)"><span class="nav-number">3.</span> Qué es vender Heiiu</a>
+  <a class="nav-item" onclick="openSection(3)"><span class="nav-number">4.</span> Ser más íntegro</a>
+  <a class="nav-item" onclick="openSection(4)"><span class="nav-number">5.</span> El patrocinio</a>
+  <a class="nav-item" onclick="openSection(5)"><span class="nav-number">6.</span> Perfil que buscamos</a>
+  <a class="nav-item" onclick="openSection(6)"><span class="nav-number">7.</span> Precios y patrocinio</a>
+  <a class="nav-item" onclick="openSection(7)"><span class="nav-number">8.</span> Llamada precalificación</a>
+  <a class="nav-item" onclick="openSection(8)"><span class="nav-number">9.</span> Reglas del proceso</a>
+  <a class="nav-item" onclick="openSection(9)"><span class="nav-number">10.</span> Protocolo de cita</a>
+  <a class="nav-item" onclick="openSection(10)"><span class="nav-number">11.</span> Reglas que no se rompen</a>
+  <a class="nav-item" onclick="openSection(11)"><span class="nav-number">12.</span> Nuestro rol</a>
+</nav>
+
+<div class="main">
+
+<div class="cover">
+  <h1>HEIIU</h1>
+  <div class="divider"></div>
+  <h2>Guía Comercial — Equipo de Ventas</h2>
+  <div class="tagline">Ser exigentes es lo que nos hace diferentes.</div>
+  <div class="meta">Documento de inducción · Marzo 2026 · Confidencial</div>
+</div>
+
+<!-- SECTION 1: URGENTE -->
+<div class="section" id="s1">
+  <div class="section-header" onclick="toggleSection(1)" style="background:linear-gradient(135deg, var(--orange), var(--orange-dark));">
+    <div class="section-number" style="color:white">01</div>
+    <div class="section-title" style="color:white">🚨 URGENTE: A1 ABRE 6 DE ABRIL</div>
+    <div class="section-arrow" style="color:white">▼</div>
+  </div>
+  <div class="section-content">
+    <div class="urgent">
+      <h3>Necesitamos alumnos para abrir A1 el lunes 6 de abril</h3>
+      <p>Base de datos de 1000 contactos. Meta: agendar citas o cerrar por teléfono desde el sábado 28 de marzo.</p>
+      <p style="margin-top:15px;font-size:18px;font-weight:700">Referencia María Eugenia: 50 llamadas en 4 horas · 4-5 agendas con leads fríos</p>
+    </div>
+  </div>
+</div>
+
+
+<!-- SECTION 1 -->
+<div class="section" id="s2">
+  <div class="section-header" onclick="toggleSection(2)">
+    <div class="section-number">02</div>
+    <div class="section-title">DE DÓNDE VENIMOS</div>
+    <div class="section-arrow">▼</div>
+  </div>
+  <div class="section-content">
+    <p>Heiiu nació en 2017 como una fundación en Barro Blanco, Piedecuesta con el genuino deseo de ayudar. El inglés viene con muchas creencias negativas, frustraciones, intentos, fracasos, etc y es muy seguramente lo que siente la gran mayoría de personas inclusive en colegios bilingües de alta categoría.... lo digo con certeza.</p>
+    <p><strong>¿Cómo podemos ayudar a las personas y creer que hay potencial en cada una? Brindándoles la mayor estructura posible.</strong></p>
+    <h3>De ahí sale TODO lo que Heiiu es hoy:</h3>
+    <div class="item"><div class="item-icon check">✓</div><div class="item-text"><strong>Llamemos al estudiante si no viene</strong> — estemos pendientes de él</div></div>
+    <div class="item"><div class="item-icon cross">✗</div><div class="item-text"><span class="deprecated">Si no aprendió, vuelva y repita sin costo</span><br><span class="note">Ya no existe — ahora hay nivelación estructurada con costo</span></div></div>
+    <div class="item"><div class="item-icon cross">✗</div><div class="item-text"><span class="deprecated">Pasémoslo al siguiente nivel con supletorio gratis</span><br><span class="note">Ya no existe — ahora hay 6 horas de refuerzo + supletorio con costo</span></div></div>
+    <div class="item"><div class="item-icon cross">✗</div><div class="item-text"><span class="deprecated">Si se arrepiente, le devuelvo la plata</span><br><span class="note">Ya no existe — el contrato es claro desde la firma</span></div></div>
+    <div class="item"><div class="item-icon check">✓</div><div class="item-text"><strong>Atémoslo a oportunidades reales</strong> — alianzas, empleabilidad, crecimiento</div></div>
+    <div class="item"><div class="item-icon check">✓</div><div class="item-text"><strong>Si cumple y no aprende, le devuelvo la plata.</strong> Esa es nuestra garantía. <strong>Esta SÍ existe y debe ofrecerse sin miedo.</strong></div></div>
+    <div class="item"><div class="item-icon check">✓</div><div class="item-text">Autoevaluaciones tanto para estudiantes como profesores</div></div>
+    <div class="item"><div class="item-icon check">✓</div><div class="item-text">Proyectos por nivel</div></div>
+    <div class="item"><div class="item-icon check">✓</div><div class="item-text">Investigación e integración de metodologías mundiales</div></div>
+  </div>
+</div>
+
+<!-- SECTION 2 -->
+<div class="section" id="s3">
+  <div class="section-header" onclick="toggleSection(3)">
+    <div class="section-number">03</div>
+    <div class="section-title">QUÉ ES VENDER HEIIU</div>
+    <div class="section-arrow">▼</div>
+  </div>
+  <div class="section-content">
+    <p>Vender Heiiu es entender que la competencia siempre es con uno mismo. Con su propio proceso y sabiendo que querer rendirse es más común que querer seguir. Pero CONVENCIDOS que juntos y estructurados logramos la meta de que el estudiante va a aprender inglés.</p>
+    <p>Yo pongo la cara por esto. Cada estudiante que se matricula confía en mí. Confía en usted. Y es por esto que <strong style="color:var(--orange)">no debemos convencer a nadie.</strong> Si no está seguro, si no cree que se puede comprometer, si es el deseo del otro, si tiene viajes, si estudia y le puede cambiar el horario, <strong style="color:var(--orange)">DETÉNGASE</strong>, y no se apresure a vender. Porque eso nos puede generar un problema administrativo, logístico y de reputación.</p>
+    <div class="highlight">Si usted está convencido que estamos ayudando al cliente y puede transmitir que todos como equipo queremos ayudarle a ese estudiante a ser una persona más íntegra a través del aprendizaje del inglés, <strong>bienvenida al equipo.</strong></div>
+  </div>
+</div>
+
+<!-- SECTION 3 -->
+<div class="section" id="s4">
+  <div class="section-header" onclick="toggleSection(4)">
+    <div class="section-number">04</div>
+    <div class="section-title">CÓMO LO AYUDAMOS A SER MÁS ÍNTEGRO</div>
+    <div class="section-arrow">▼</div>
+  </div>
+  <div class="section-content">
+    <p>A través del compromiso diario con su propio proceso:</p>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">●</div><div class="item-text"><strong>Siendo responsable:</strong> asistiendo a clase, llegando puntual, avisando si no puede ir</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">●</div><div class="item-text"><strong>Siendo honesto:</strong> haciendo autoevaluaciones donde él mismo define a qué se compromete</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">●</div><div class="item-text"><strong>Siendo valiente:</strong> saliendo de la zona de confort — hablando aunque se equivoque</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">●</div><div class="item-text"><strong>Siendo solidario:</strong> ayudando a un compañero, enseñándole lo que ya aprendió</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">●</div><div class="item-text"><strong>Siendo disciplinado:</strong> practicando en casa, haciendo sus tareas, grabando sus videos de progreso</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">●</div><div class="item-text"><strong>Siendo perseverante:</strong> no abandonando cuando se siente frustrado — porque ahí es cuando más crece</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">●</div><div class="item-text"><strong>Creando sus proyectos:</strong> en cada nivel construye algo propio que demuestra lo que aprendió</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">●</div><div class="item-text"><strong>Guardando su celular:</strong> su atención está en la clase, no en Instagram</div></div>
+    <p style="margin-top:15px">Y nosotros hacemos nuestra parte: somos estrictos con estructura, el seguimiento, las autoevaluaciones, los profesores, la metodología y aseguramos todo con una garantía real: si el estudiante cumple, nosotros cumplimos.</p>
+    <div class="highlight mission">Nuestra misión: Formar personas que sean capaces a través de nuestra estructura académica a negociar, liderar, conectar y convencer — que es todo lo que la IA no puede hacer. En inglés.</div>
+  </div>
+</div>
+
+<!-- SECTION 4 -->
+<div class="section" id="s5">
+  <div class="section-header" onclick="toggleSection(5)">
+    <div class="section-number">05</div>
+    <div class="section-title">QUÉ ES EL PATROCINIO — LA VERDAD</div>
+    <div class="section-arrow">▼</div>
+  </div>
+  <div class="section-content">
+    <p>Heiiu cuenta con el respaldo de un <strong>patrocinador internacional</strong> que cree en nuestra misión. Esta persona, radicada en Canadá, invierte en el programa porque cree que el inglés transforma vidas — y exige resultados a cambio.</p>
+    <p><strong>El patrocinio NO es un descuento. NO es una promoción.</strong> Es una inversión real de un tercero que asume parte del costo del programa para que personas comprometidas puedan acceder a él. El patrocinador exige resultados. Si el estudiante no cumple, el patrocinador se retira y el beneficio se pierde.</p>
+    <h3>Lo que el patrocinio NO es:</h3>
+    <div class="item"><div class="item-icon cross">✗</div><div class="item-text"><strong>No es un descuento.</strong> Es un beneficio que alguien más está financiando y que se gana con compromiso.</div></div>
+    <div class="item"><div class="item-icon cross">✗</div><div class="item-text"><strong>No es una promoción.</strong> No es "por tiempo limitado" ni un gancho para curiosos. Es un modelo con condiciones serias.</div></div>
+    <div class="item"><div class="item-icon cross">✗</div><div class="item-text"><strong>No es para todo el mundo.</strong> Es para personas que demuestren compromiso real.</div></div>
+    
+    <h3>Cómo se mantiene y cómo se pierde:</h3>
+    <div class="highlight">"El patrocinio se mantiene mientras tú cumplas. Si en algún momento dejas de cumplir, el patrocinador se retira y los siguientes niveles los pagarías a precio normal."</div>
+    <div class="item"><div class="item-icon cross">⚠</div><div class="item-text"><strong>Inasistencia mayor al 20%</strong> → pierde patrocinio automáticamente</div></div>
+    <div class="item"><div class="item-icon cross">⚠</div><div class="item-text"><strong>Dejar de pagar</strong> → pierde patrocinio sin excepciones</div></div>
+    <div class="item"><div class="item-icon cross">⚠</div><div class="item-text"><strong>3 strikes por comportamiento</strong> (celular, no participar, no entregar tareas)</div></div>
+    
+    <h3>Reprobar un nivel:</h3>
+    <p>NO pierde el patrocinio del resto del paquete. PERO el nivel que perdió lo paga a precio full sin patrocinio. Si perdió entre 60-69 tiene opción de nivelación (6 horas en 3 días + supletorio). Si perdió por debajo de 60, repite el nivel completo a precio full. El patrocinio sigue aplicando para los demás niveles del paquete.</p>
+    <div class="highlight"><strong>Ser exigentes no es nuestro defecto. Es nuestro mayor diferenciador. Y es lo que el patrocinador valora.</strong></div>
+  </div>
+</div>
+
+<!-- SECTION 5 -->
+<div class="section" id="s6">
+  <div class="section-header" onclick="toggleSection(6)">
+    <div class="section-number">06</div>
+    <div class="section-title">EL PERFIL QUE BUSCAMOS</div>
+    <div class="section-arrow">▼</div>
+  </div>
+  <div class="section-content">
+    <p>Buscamos personas con actitud:</p>
+    <div class="item"><div class="item-icon check">✓</div><div class="item-text"><strong>Quiere aprender de verdad.</strong> No está "mirando a ver." Quiere empezar.</div></div>
+    <div class="item"><div class="item-icon check">✓</div><div class="item-text"><strong>Tiene disponibilidad real.</strong> Puede asistir en alguno de los horarios.</div></div>
+    <div class="item"><div class="item-icon check">✓</div><div class="item-text"><strong>Vive en Bucaramanga o área metropolitana.</strong> Clases presenciales.</div></div>
+    <div class="item"><div class="item-icon check">✓</div><div class="item-text"><strong>Respeta el proceso.</strong> Si se agenda una llamada, contesta. Si se agenda una cita, asiste.</div></div>
+    <div class="highlight"><strong>El patrocinio es para personas que demuestren con ACCIONES que lo quieren. No con palabras.</strong></div>
+  </div>
+</div>
+
+<!-- SECTION 6 -->
+<div class="section" id="s7">
+  <div class="section-header" onclick="toggleSection(7)">
+    <div class="section-number">07</div>
+    <div class="section-title">PRECIOS Y PATROCINIO</div>
+    <div class="section-arrow">▼</div>
+  </div>
+  <div class="section-content">
+    <h3>Precios por nivel:</h3>
+    <table><thead><tr><th>Nivel</th><th>Precio full</th><th>Horas</th></tr></thead><tbody>
+    <tr><td>A1</td><td>$1.596.000</td><td>90h</td></tr>
+    <tr><td>A2</td><td>$1.915.000</td><td>110h</td></tr>
+    <tr><td>B1</td><td>$2.842.000</td><td>175h</td></tr>
+    <tr><td>B2</td><td>$2.343.000</td><td>200h</td></tr>
+    </tbody></table>
+
+    <h3>Paquetes con patrocinio:</h3>
+    <table><thead><tr><th>Paquete</th><th>Precio full</th><th>Patr. contado</th><th>Precio contado</th><th>Patr. crédito</th><th>Crédito +1.9%/mes</th></tr></thead><tbody>
+    <tr><td><strong>A1-B2</strong></td><td>$8.696.000</td><td><strong>45%</strong></td><td class="price-big">$4.782.800</td><td><strong>35%</strong></td><td>$5.652.400 + int.</td></tr>
+    <tr><td><strong>A2-B2</strong></td><td>$7.100.000</td><td><strong>35%</strong></td><td class="price-big">$4.615.000</td><td><strong>25%</strong></td><td>$5.325.000 + int.</td></tr>
+    <tr><td><strong>B1-B2</strong></td><td>$5.185.000</td><td><strong>25%</strong></td><td class="price-big">$3.888.750</td><td><strong>15%</strong></td><td>$4.407.250 + int.</td></tr>
+    </tbody></table>
+    <div class="highlight">"Entre más camino recorras con nosotros, más invierte Heiiu en ti. Por eso quien empieza de cero recibe el mayor beneficio."</div>
+
+    <h3>Nivel individual con patrocinio:</h3>
+    <table><thead><tr><th>Nivel</th><th>Precio full</th><th>Contado (20%)</th><th>Crédito (10%) +1.9%/mes</th></tr></thead><tbody>
+    <tr><td>A1</td><td>$1.596.000</td><td>$1.276.800</td><td>$1.436.400 + int.</td></tr>
+    <tr><td>A2</td><td>$1.915.000</td><td>$1.532.000</td><td>$1.723.500 + int.</td></tr>
+    <tr><td>B1</td><td>$2.842.000</td><td>$2.273.600</td><td>$2.557.800 + int.</td></tr>
+    <tr><td>B2</td><td>$2.343.000</td><td>$1.874.400</td><td>$2.108.700 + int.</td></tr>
+    </tbody></table>
+
+    <h3>Regla del patrocinio:</h3>
+    <table><thead><tr><th>Situación</th><th>Patrocinio</th></tr></thead><tbody>
+    <tr><td>Asiste a la cita programada</td><td><strong style="color:var(--green)">45%</strong></td></tr>
+    <tr><td>No asiste pero AVISA</td><td><strong>45% — una sola oportunidad más</strong></td></tr>
+    <tr><td>No asiste SIN avisar</td><td><strong style="color:var(--orange)">Baja a 35%</strong></td></tr>
+    <tr><td>Falla segunda vez</td><td><strong style="color:var(--red)">Baja a 20%</strong></td></tr>
+    </tbody></table>
+
+    <p><strong>Sábados:</strong> solo por nivel individual, NO paquete. Patrocinio 20% contado / 10% crédito.</p>
+    <p><strong>Crédito directo:</strong> 1.9% mensual sobre el saldo.</p>
+
+    <h3>Horarios presenciales:</h3>
+    <table><thead><tr><th>Horario</th><th>Intensidad</th><th>Duración programa</th></tr></thead><tbody>
+    <tr><td>L-V 8:00 AM - 12:00 PM</td><td>20h/semana</td><td>~7 meses</td></tr>
+    <tr><td>L-V 2:00 - 6:00 PM (se puede abrir)</td><td>20h/semana</td><td>~7 meses</td></tr>
+    <tr><td>L-V 6:30 - 8:30 PM</td><td>10h/semana</td><td>~14 meses</td></tr>
+    <tr><td>Sábados mañana</td><td>4h/semana</td><td>~36 meses (solo por nivel)</td></tr>
+    </tbody></table>
+    <p style="font-size:13px;color:var(--gray);font-style:italic;">Se pueden abrir cursos en otros horarios de las mismas intensidades. Mañanas de dos horas, o tardes 4 horas. Todos siguen las mismas estructuras.</p>
+
+    <h3>Programa Virtual:</h3>
+    <table><thead><tr><th>Detalle</th><th>Info</th></tr></thead><tbody>
+    <tr><td>Niveles disponibles</td><td>Solo A1 (A1-1 y A1-2) por ahora</td></tr>
+    <tr><td>Horario</td><td>L-M-V 7:00 - 8:30 PM (hora Colombia)</td></tr>
+    <tr><td>Duración</td><td>3 meses por nivel</td></tr>
+    <tr><td>Máximo estudiantes</td><td>6 por grupo</td></tr>
+    <tr><td>Plataforma</td><td>Zoom en vivo — cámara obligatoria</td></tr>
+    <tr><td>Precio</td><td class="price-big">$1.200.000 por nivel</td></tr>
+    <tr><td>Pago en cuotas</td><td>2 cuotas de $650.000 ó 3 de $450.000</td></tr>
+    <tr><td>Patrocinio</td><td><strong style="color:var(--red)">NO aplica — solo presencial</strong></td></tr>
+    </tbody></table>
+    <div class="highlight">El 90% de cursos virtuales terminan en deserción. Nosotros compartimos responsabilidad. Por eso somos selectivos.</div>
+
+    <h3>Opciones de pago:</h3>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">💰</div><div class="item-text"><strong>Contado</strong> — pago completo</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">💰</div><div class="item-text"><strong>Efectivo o transferencia</strong></div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">💰</div><div class="item-text"><strong>Cesantías</strong> — el fondo gira directo a Heiiu (Ley 1064/2006)</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--green)">⭐</div><div class="item-text"><strong>Libranza Cajasan — OPCIÓN GANADORA</strong> — descuento por nómina. Puede ser familiar/amigo. Requisito: 1 año de empleo, no reportado</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">💰</div><div class="item-text"><strong>Comultrasan</strong> — crédito educativo</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">💰</div><div class="item-text"><strong>Tarjeta de crédito</strong></div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">💰</div><div class="item-text"><strong>Cualquier banco</strong> de su preferencia por crédito directo</div></div>
+    <div class="highlight mission">SIEMPRE pregunta: "¿Estás empleado o alguien de tu familia está empleado?" Si dice sí → cesantías o libranza. Convierte "no tengo plata" en "no sale de mi bolsillo."</div>
+  </div>
+</div>
+
+<!-- SECTION 7 -->
+<div class="section" id="s8">
+  <div class="section-header" onclick="toggleSection(8)">
+    <div class="section-number">08</div>
+    <div class="section-title">LA LLAMADA DE PRECALIFICACIÓN</div>
+    <div class="section-arrow">▼</div>
+  </div>
+  <div class="section-content">
+    <p><strong>Esta NO es una conversación libre. Es un filtro. Tú no estás vendiendo. Estás evaluando si esa persona califica.</strong></p>
+    
+    <h3>Apertura:</h3>
+    <div class="script"><div class="label">Script</div>"Hola [nombre], te llamo de Heiiu English Academy. Te contacto porque mostraste interés en aprender inglés. Antes de avanzar, necesito hacerte unas preguntas rápidas para ver si cumples con el perfil para nuestro programa de patrocinio. ¿Tienes un momento?"</div>
+
+    <h3>Las preguntas (si alguna es NO → no califica para 45%):</h3>
+    <p><strong>1. ¿Vives en Bucaramanga o el área metropolitana?</strong> <span style="color:var(--gray)">(Si no: no califica.)</span></p>
+    <p><strong>2. ¿Por qué quieres aprender inglés?</strong> <span style="color:var(--gray)">(Si dice algo genérico como "quiero viajar", profundiza: "¿Y qué harías diferente si hablaras inglés? ¿Qué oportunidad concreta estás perdiendo hoy?" Si tampoco tiene respuesta clara → es un curioso.)</span></p>
+    <p><strong>3. ¿Tienes disponibilidad entre semana?</strong> <span style="color:var(--gray)">(Si no: ofrecer sabatino con patrocinio individual.)</span></p>
+    <p><strong>4. ¿Podrías iniciar pronto?</strong> <span style="color:var(--gray)">(Si dice "más adelante": no es el momento. Siguiente.)</span></p>
+    <p><strong>5. ¿Entiendes que el patrocinio requiere compromiso?</strong> <span style="color:var(--gray)">(Si duda: explícale.)</span></p>
+    <p><strong>6. ¿Eres dependiente financieramente?</strong> <span style="color:var(--gray)">(Si alguien paga por él, debe asistir con esa persona a la cita.)</span></p>
+    <p><strong>7. ¿Eres afiliado a Cajasan?</strong> <span style="color:var(--gray)">(Si sí: alianza para libranza.)</span></p>
+
+    <h3>Si contesta SÍ a todo:</h3>
+    <div class="script"><div class="label">Script</div>"Por lo que me cuentas, cumples con el perfil para el patrocinio. El siguiente paso es que vengas a la academia para una cita de evaluación. No es para inscribirte — es para que tanto tú como nosotros veamos si podemos trabajar juntos. ¿Te funciona [fecha]?"</div>
+    <div class="script"><div class="label">Antes de colgar</div>"Si por alguna razón no puedes venir, por favor avísanos. Que tú tomes la iniciativa de comunicarnos es importante. Las oportunidades no esperan, y los cupos son limitados."</div>
+
+    <h3>Si no puede entre semana:</h3>
+    <div class="script"><div class="label">Script</div>"Entiendo. El patrocinio completo aplica solo entre semana. Pero tenemos sábados en la mañana con patrocinio del 20% por nivel. ¿Te interesa?"</div>
+
+    <h3>Si la respuesta es NO:</h3>
+    <div class="script"><div class="label">Script</div>"Entiendo. Si en el futuro te interesa, nos puedes escribir. ¡Mucho éxito!" — Y se pasa al siguiente lead.</div>
+  </div>
+</div>
+
+<!-- SECTION 8 -->
+<div class="section" id="s9">
+  <div class="section-header" onclick="toggleSection(9)">
+    <div class="section-number">09</div>
+    <div class="section-title">REGLAS DEL PROCESO COMERCIAL</div>
+    <div class="section-arrow">▼</div>
+  </div>
+  <div class="section-content">
+    <p><strong>Primer contacto:</strong> Lead llega → se contacta en máximo 24 horas.</p>
+    
+    <h3>Escalamiento del patrocinio por inasistencia:</h3>
+    <table><thead><tr><th>Oportunidad</th><th>Patrocinio</th></tr></thead><tbody>
+    <tr><td>Primera (asiste)</td><td><strong style="color:var(--green)">45%</strong></td></tr>
+    <tr><td>No asiste pero avisa</td><td><strong>45% — una vez más</strong></td></tr>
+    <tr><td>No asiste sin avisar</td><td><strong style="color:var(--orange)">35%</strong></td></tr>
+    <tr><td>Vuelve a buscar después</td><td><strong style="color:var(--red)">20%</strong></td></tr>
+    </tbody></table>
+
+    <h3>Lo que NO hacemos:</h3>
+    <div class="item"><div class="item-icon cross">✗</div><div class="item-text"><strong>No perseguimos.</strong> Dos faltas sin resultado → cupo se abre para otro.</div></div>
+    <div class="item"><div class="item-icon cross">✗</div><div class="item-text"><strong>No rogamos.</strong> El patrocinio tiene valor real. No necesita trucos.</div></div>
+    <div class="item"><div class="item-icon cross">✗</div><div class="item-text"><strong>No justificamos la inasistencia.</strong> El beneficio baja. Las oportunidades no esperan.</div></div>
+    <div class="highlight mission">Nuestro trabajo no es convencer a nadie. Es encontrar a las personas que ya quieren esto y darles el camino.</div>
+  </div>
+</div>
+
+<!-- SECTION 9 -->
+<div class="section" id="s10">
+  <div class="section-header" onclick="toggleSection(10)">
+    <div class="section-number">10</div>
+    <div class="section-title">PROTOCOLO DE LA CITA PRESENCIAL (45-55 min)</div>
+    <div class="section-arrow">▼</div>
+  </div>
+  <div class="section-content">
+    <h3>Paso 1 — Bienvenida (5 min)</h3>
+    <div class="script"><div class="label">Script</div>"Hola [nombre], qué bueno que viniste. Siéntate. Hoy vamos a hacer una prueba de nivel, te explico el programa, y miramos si podemos trabajar juntos."</div>
+
+    <h3>Paso 2 — Prueba de clasificación (10-15 min)</h3>
+    <p>Se ofrece, no se obliga. Si quiere empezar desde cero, se respeta. Pero se le advierte que si tiene nivel de inglés y rechaza la prueba, no podremos hacer nada. Esto ya está en el contrato.</p>
+
+    <h3>Paso 3 — Presentación del programa (10 min)</h3>
+    <p>Antes de precios: que entienda QUÉ va a recibir.</p>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">→</div><div class="item-text">Niveles y horas según su punto de entrada</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">→</div><div class="item-text">Metodología: proyectos, dinámicas, Gringo Nights, autoevaluaciones diarias</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">→</div><div class="item-text">Horarios disponibles</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">→</div><div class="item-text">El compromiso: asistencia, puntualidad, dedicación, trabajo en casa, buena actitud, perseverancia</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">→</div><div class="item-text">El acompañamiento: si no va, lo llamamos. No es un gimnasio.</div></div>
+
+    <h3>Paso 4 — Patrocinio y precios (10 min)</h3>
+    <div class="script"><div class="label">Script</div>"Todo lo que te acabo de explicar tiene un valor de $8.696.000. Pero como pasaste la precalificación y tu perfil cumple, puedes acceder a un patrocinio del [X]%. Tu inversión queda en $[precio con patrocinio]."</div>
+    <div class="script"><div class="label">Mantener el patrocinio</div>"El patrocinio se mantiene mientras tú cumplas. Si dejas de cumplir, el patrocinio se retira."</div>
+    <p><strong>Cómo se pierde:</strong> Inasistencia >20% · Dejar de pagar · 3 strikes por comportamiento</p>
+    <p><strong>Reprobar nivel:</strong> NO pierde patrocinio del resto del paquete. PERO paga el nivel perdido a precio full.</p>
+
+    <h3>Paso 5 — Recorrido por instalaciones (5 min)</h3>
+    <h3>Paso 6 — Resolver dudas (5 min)</h3>
+    <p>Si la duda es sobre precio, no negocies. El patrocinio ya es el beneficio.</p>
+
+    <h3>Paso 7 — Cierre (5-10 min)</h3>
+    <div class="script"><div class="label">Script cierre</div>"Tú viniste hoy, y eso ya nos dice mucho de ti. ¿Te gustaría arrancar?"</div>
+    <p><strong>Si dice SÍ:</strong> firma contrato ahí mismo.</p>
+    <p><strong>Si necesita cuotas:</strong> "Para apartar tu cupo con el patrocinio necesitamos un abono hoy o máximo mañana al medio día."</p>
+    <p><strong>Si dice "tengo que pensarlo":</strong> "Tómate tu tiempo. Solo ten en cuenta que el patrocinio que te ofrecí hoy es porque viniste y pasaste la precalificación. Si no la tomas ahora, el porcentaje puede cambiar."</p>
+    <div class="highlight"><strong>No le ruegues. Seguimiento a las 48 horas y ya.</strong></div>
+  </div>
+</div>
+
+<!-- SECTION 10 -->
+<div class="section" id="s11">
+  <div class="section-header" onclick="toggleSection(11)">
+    <div class="section-number">11</div>
+    <div class="section-title">REGLAS QUE NO SE ROMPEN</div>
+    <div class="section-arrow">▼</div>
+  </div>
+  <div class="section-content">
+    <div class="rule"><div class="rule-number">1</div><div class="rule-text"><strong>Nunca prometas empleo.</strong> Heiiu PREPARA, no garantiza trabajo.</div></div>
+    <div class="rule"><div class="rule-number">2</div><div class="rule-text"><strong>Nunca bajes el precio</strong> por debajo del porcentaje de patrocinio asignado.</div></div>
+    <div class="rule"><div class="rule-number">3</div><div class="rule-text"><strong>El patrocinio se gana asistiendo a la cita.</strong> Si no asiste, pierde oportunidad a menos que avise.</div></div>
+    <div class="rule"><div class="rule-number">4</div><div class="rule-text"><strong>No vendas lo que no existe.</strong> Si no estás segura: "Déjame confirmarlo con la gerencia."</div></div>
+    <div class="rule"><div class="rule-number">5</div><div class="rule-text"><strong>No vendas por vender.</strong> Es peor un estudiante que deserta que uno que no se matricula.</div></div>
+    <div class="rule"><div class="rule-number">6</div><div class="rule-text"><strong>No perseguimos, no rogamos.</strong> Filtramos.</div></div>
+    <div class="rule"><div class="rule-number">7</div><div class="rule-text"><strong>CRM WhatsApp: 314 853 1288</strong> — Siempre redirecciona al CRM, si el cliente escribe se habilita la conversación por 24 horas. Y así nos queda la información a todos para apoyarnos.</div></div>
+    <div class="rule"><div class="rule-number">8</div><div class="rule-text"><strong>Visitas a domicilio:</strong> SOLO para cerrar con el acudiente o financiador (papá, mamá, familiar que paga). NUNCA para reemplazar la cita del estudiante en la academia. El estudiante SIEMPRE debe haber venido primero.</div></div>
+  </div>
+</div>
+
+<!-- SECTION 11 -->
+<div class="section" id="s11">
+  <div class="section-header" onclick="toggleSection(11)">
+    <div class="section-number">12</div>
+    <div class="section-title">NUESTRO ROL COMO EQUIPO COMERCIAL</div>
+    <div class="section-arrow">▼</div>
+  </div>
+  <div class="section-content">
+    <p><strong>No somos vendedores. Somos las personas que evalúan si alguien merece acceder al patrocinio:</strong></p>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">●</div><div class="item-text"><strong>No vendemos barato.</strong> Alguien más pone el restante por ellos. Ofrecemos un beneficio valioso.</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">●</div><div class="item-text"><strong>No convencemos.</strong> Preguntamos, escuchamos, decidimos.</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">●</div><div class="item-text"><strong>No perseguimos.</strong> Filtramos.</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--orange)">●</div><div class="item-text"><strong>No nos sentimos mal por soltar a alguien.</strong> Cada lead que soltamos es un cupo para alguien que sí lo aprovecha.</div></div>
+    <div class="item"><div class="item-icon" style="color:var(--green)">⭐</div><div class="item-text"><strong>Única academia con convenio Cajasan</strong> — por algo será.</div></div>
+    <div class="highlight mission">Las oportunidades no esperan. El patrocinio tampoco.</div>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<div class="footer">
+  <div class="frase">"Formamos personas que negocian, lideran, conectan y convencen — lo que la IA no puede hacer. En inglés."</div>
+  <p>No enseñamos inglés, transformamos futuros.<br>Pero solo de quienes están dispuestos a transformarse.</p>
+  <p style="margin-top:15px"><strong style="color:var(--orange)">Ser exigentes es lo que nos hace diferentes. No lo olvidemos nunca.</strong></p>
+  <div class="firma">Diana Gómez — Gerente y CEO, Heiiu English Academy</div>
+</div>
+
+<!-- PENDIENTES -->
+<div class="section" id="s12">
+  <div class="section-header" onclick="toggleSection(12)">
+    <div class="section-number" style="font-size:20px">📋</div>
+    <div class="section-title">PENDIENTES POR ANEXAR</div>
+    <div class="section-arrow">▼</div>
+  </div>
+  <div class="section-content">
+    <div class="pending-item" onclick="this.querySelector('.pending-check').classList.toggle('done')"><div class="pending-check"></div><div>Video del patrocinador en Canadá (2 minutos, apoyando la misión de Heiiu)</div></div>
+    <div class="pending-item" onclick="this.querySelector('.pending-check').classList.toggle('done')"><div class="pending-check"></div><div>Carta firmada del patrocinador (respaldo formal del programa de patrocinio)</div></div>
+    <div class="pending-item" onclick="this.querySelector('.pending-check').classList.toggle('done')"><div class="pending-check"></div><div>Formalizar acuerdo entre patrocinador y Heiiu</div></div>
+    <div class="pending-item" onclick="this.querySelector('.pending-check').classList.toggle('done')"><div class="pending-check"></div><div>Agregar nombre e imagen del patrocinador a la página web como "aliado internacional"</div></div>
+  </div>
+</div>
+
+</div>
+
+<script>
+function toggleSection(idx) {
+  const section = document.getElementById('s' + idx);
+  section.classList.toggle('open');
+  
+  // Update nav
+  document.querySelectorAll('.nav-item').forEach((item, i) => {
+    item.classList.toggle('active', i === idx);
+  });
+}
+
+function openSection(idx) {
+  // Close all
+  document.querySelectorAll('.section').forEach(s => s.classList.remove('open'));
+  // Open target
+  const section = document.getElementById('s' + idx);
+  section.classList.add('open');
+  section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  
+  // Update nav
+  document.querySelectorAll('.nav-item').forEach((item, i) => {
+    item.classList.toggle('active', i === idx);
+  });
+  
+  // Close mobile sidebar
+  document.querySelector('.sidebar').classList.remove('open');
+}
+
+// Pending checkboxes visual feedback
+document.querySelectorAll('.pending-check').forEach(check => {
+  check.addEventListener('click', function() {
+    this.innerHTML = this.classList.contains('done') ? '' : '✓';
+  });
+});
+</script>
+</body>
+</html><!-- FOOTER -->
+<div class="footer">
+  <div class="frase">"Formamos personas que negocian, lideran, conectan y convencen — lo que la IA no puede hacer. En inglés."</div>
+  <p>No enseñamos inglés, transformamos futuros.<br>Pero solo de quienes están dispuestos a transformarse.</p>
+  <p style="margin-top:15px"><strong style="color:var(--orange)">Ser exigentes es lo que nos hace diferentes. No lo olvidemos nunca.</strong></p>
+  <div class="firma">Diana Gómez — Gerente y CEO, Heiiu English Academy</div>
+</div>
+
+<!-- PENDIENTES -->
+<div class="section" id="s12">
+  <div class="section-header" onclick="toggleSection(12)">
+    <div class="section-number" style="font-size:20px">📋</div>
+    <div class="section-title">PENDIENTES POR ANEXAR</div>
+    <div class="section-arrow">▼</div>
+  </div>
+  <div class="section-content">
+    <div class="pending-item" onclick="this.querySelector('.pending-check').classList.toggle('done')"><div class="pending-check"></div><div>Video del patrocinador en Canadá (2 minutos, apoyando la misión de Heiiu)</div></div>
+    <div class="pending-item" onclick="this.querySelector('.pending-check').classList.toggle('done')"><div class="pending-check"></div><div>Carta firmada del patrocinador (respaldo formal del programa de patrocinio)</div></div>
+    <div class="pending-item" onclick="this.querySelector('.pending-check').classList.toggle('done')"><div class="pending-check"></div><div>Formalizar acuerdo entre patrocinador y Heiiu</div></div>
+    <div class="pending-item" onclick="this.querySelector('.pending-check').classList.toggle('done')"><div class="pending-check"></div><div>Agregar nombre e imagen del patrocinador a la página web como "aliado internacional"</div></div>
+  </div>
+</div>
+
+</div>
+
+<script>
+function toggleSection(idx) {
+  const section = document.getElementById('s' + idx);
+  section.classList.toggle('open');
+  
+  // Update nav
+  document.querySelectorAll('.nav-item').forEach((item, i) => {
+    item.classList.toggle('active', i === idx);
+  });
+}
+
+function openSection(idx) {
+  // Close all
+  document.querySelectorAll('.section').forEach(s => s.classList.remove('open'));
+  // Open target
+  const section = document.getElementById('s' + idx);
+  section.classList.add('open');
+  section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  
+  // Update nav
+  document.querySelectorAll('.nav-item').forEach((item, i) => {
+    item.classList.toggle('active', i === idx);
+  });
+  
+  // Close mobile sidebar
+  document.querySelector('.sidebar').classList.remove('open');
+}
+
+// Pending checkboxes visual feedback
+document.querySelectorAll('.pending-check').forEach(check => {
+  check.addEventListener('click', function() {
+    this.innerHTML = this.classList.contains('done') ? '' : '✓';
+  });
+});
+</script>
+</body>
+</html>
