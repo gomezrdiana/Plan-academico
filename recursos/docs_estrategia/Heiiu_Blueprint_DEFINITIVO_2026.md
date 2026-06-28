@@ -276,33 +276,7 @@ B. RUTINAS DIARIAS DE CONSOLIDACIÓN
 
 NO son metodologías — son HÁBITOS de consolidación que el estudiante practica regularmente.
 
-Goldlist Method (DIARIO, obligatorio): Aprendizaje inconsciente de vocabulario y frases a largo plazo. Basado en el método de David James (Huliganov).
-
-**Proceso en clase (~10 min al final de cada clase):**
-0. ANTES DE CLASE o durante una actividad donde no se use el tablero, el profesor escribe las 20 frases (inglés + español) en una sección del tablero. AMBOS IDIOMAS deben estar escritos — el profesor NO traduce de memoria, copia de la guía. El tablero puede dividirse para tener las frases listas desde el inicio.
-1. Cuando llega el momento del GoldList, los estudiantes toman su cuaderno (que se queda en la academia), escriben la fecha, y copian A MANO las 20 frases del tablero: inglés a la izquierda, español a la derecha. (~8 min)
-2. Al terminar, leen la lista completa UNA sola vez en voz alta con el profesor. (~2 min)
-3. Cierran el cuaderno. NO estudian. NO repasan. NO miran la lista de nuevo.
-4. **El cuaderno de GoldList SE QUEDA EN LA ACADEMIA.** El profesor recoge todos los cuadernos al final de la clase. Los estudiantes NO se los llevan a casa. Esto garantiza que no estudien las frases (lo cual arruinaría el método) y que el cuaderno esté disponible para la siguiente clase.
-
-**Destilación (cada 14 días):**
-1. Después de mínimo 14 días, los estudiantes vuelven a la lista.
-2. Cubren la columna en inglés. Intentan recordar desde el español.
-3. Eliminan las que ya saben (~30% / ~7-8 frases).
-4. Reescriben SOLO las que NO saben en una nueva sección.
-5. Repiten el proceso cada 14 días hasta que todas están aprendidas.
-
-**Regla cardinal:** PROHIBIDO estudiar, repasar o memorizar conscientemente entre destilaciones. El método depende de la memoria a largo plazo inconsciente. El acto de escribir a mano + el intervalo de tiempo hace el trabajo.
-
-**Rol del profesor (clave Heiiu):** A partir de la clase donde se escriben las frases, el profesor las usa NATURALMENTE en todas las clases siguientes — sin decir "esto es de tu GoldList." Ejemplos: si un estudiante pide ir al baño en español, el profesor dice "In English?" y espera. En discusiones, modela "What do you think about...?" o "That makes sense." Esta exposición inconsciente acelera la absorción.
-
-**Contenido por nivel:**
-- A1: Frases de supervivencia (Can I go to the bathroom?, I don't understand, How do you say ___ in English?, Nice to meet you, etc.)
-- A2: Frases de conversación intermedia (I think that's a good idea, I disagree because..., It depends on..., Let me think about it, That makes sense, etc.)
-- B1: Frases de argumentación y descripción (se definirán al crear los planes)
-- B2: Frases académicas y profesionales (se definirán al crear los planes)
-
-**Programación de destilaciones:** Cada ~14 clases (equivalente a ~14 días), se programa una actividad de destilación dentro de la clase. El profesor guía el proceso de revisión.
+Goldlist Method (DIARIO, obligatorio): Vocabulario a largo plazo. 20-25 palabras nuevas, revisión a intervalos crecientes. 10-15 min diarios.
 
 Shadowing (FRECUENTE, no necesariamente diario): Repetir en voz alta con audio modelo. Pronunciación, ritmo, fluidez. 5-10 min, 3-4 veces/semana.
 
@@ -1332,7 +1306,7 @@ El programa completo A1→B2 son 575 horas. En términos prácticos, eso equival
 La queja *'no me retan'* solo es válida si demuestras dominio de lo básico. Si todavía dudas en estructuras de A1 o A2, *'querer frases más elaboradas'* es contradicción. **Consolidación antes de complejidad. Más no siempre es mejor.** Una frase simple dicha sin pensar vale más que una frase compleja dicha titubeando.
 
 **4. EL MÉTODO SE EJECUTA. NO SE VOTA.**
-GoldList, VATS, Error Paper, Shadowing, Mini-Pitch, presentaciones y proyectos son obligatorios. La pedagogía no se ajusta a la preferencia del estudiante. Sí escuchamos retroalimentación. Sí ajustamos contenido. Pero la estructura del método no es negociable. Coordinación decide. No el cohorte.
+Frase del Día, VATS, Error Paper, Shadowing, Mini-Pitch, presentaciones y proyectos son obligatorios. La pedagogía no se ajusta a la preferencia del estudiante. Sí escuchamos retroalimentación. Sí ajustamos contenido. Pero la estructura del método no es negociable. Coordinación decide. No el cohorte.
 
 **5. LAS VIRTUDES SON CENTRALES, NO DECORACIÓN.**
 Heiiu enseña inglés mientras forma carácter. Las cuatro virtudes cardinales (prudencia, templanza, justicia, fortaleza) son tema diario en clase. No para predicar — para reflexionar. **La fluidez sin carácter es ruido elegante. El carácter sin fluidez es silencio.** Buscamos las dos.
@@ -1403,29 +1377,29 @@ Métricas a seguir: Seguidores nuevos/semana, views promedio por reel, saves y s
 
 ## 13.8 CONTENIDO GRATUITO COMO FUNNEL DE VENTAS
 
-El contenido gratis NO es caridad — es la parte superior del embudo de ventas. Todo contenido gratuito debe tener UN call-to-action claro: 'Agenda tu cita' o 'Escríbenos al WhatsApp.'
+Platzi lo demostró: regalar contenido de calidad genera leads que se convierten en clientes de pago. El 'contenido gratis' NO es caridad — es la parte superior del embudo de ventas. La idea es simple: la gente prueba algo de Heiiu GRATIS, ve que es diferente a todo lo demás, y quiere más.
 
+Formato 1 — Workshop mensual gratuito (presencial, 60-90 min):
 
+Nombre sugerido: 'Inglés para tu Primera Entrevista' o 'Sobrevive tu Primer Día en Inglés' o 'Descubre tus Fortalezas en Inglés' (este último incluye la encuesta VIA — ver Parte 8.4).
 
+Cómo funciona: Evento abierto al público, 1 vez al mes, en la sede de Heiiu. Se promueve en redes (la Embajadora lo anuncia). El profesor da una clase REAL de 45 minutos usando las metodologías de Heiiu (TBLT, Gamificación, Process Drama). Los asistentes EXPERIMENTAN la diferencia. Al final, 15 minutos de Q&A + invitación a la cita de venta individual.
 
+Meta: 20-30 asistentes/mes. Si el 20% agenda cita = 4-6 citas nuevas/mes. Si la tasa de cierre es 50% = 2-3 matrículas/mes SOLO de este canal. Costo: $0 (se usa el aula y el profesor que ya tienes).
 
+Formato 2 — Contenido digital gratuito (redes sociales):
 
+Tips semanales de la Embajadora: Ya cubierto en la sección 13.7. Cada video de tip de inglés es contenido gratuito que genera valor y posiciona a Heiiu como experto.
 
+Mini-curso gratuito de 5 días por WhatsApp: '5 Días para Hablar Inglés sin Miedo.' Cada día llega un audio de 3 min + 1 ejercicio. Al final del día 5: invitación al workshop presencial o a la cita. Se promueve en redes. Se recopilan números de WhatsApp = base de datos de leads calificados.
 
+Guía descargable: 'Las 10 Frases que Necesitas para tu Primera Entrevista en Inglés' (PDF). Se descarga a cambio del email y WhatsApp. Alimenta la base de datos del CRM (HubSpot gratuito).
 
+Formato 3 — Clase de prueba individual (presencial):
 
+Invitar al prospecto a ASISTIR a una clase real como observador o participante. Esto es más poderoso que cualquier brochure. El prospecto ve con sus propios ojos que Heiiu es diferente. Se coordina con el profesor del grupo. La Dir. Comercial acompaña al prospecto y responde preguntas después. Limitado a 1-2 observadores por clase para no afectar la dinámica del grupo.
 
-
-
-
-
-
-
-
-
-
-
-
+Regla del funnel: Todo contenido gratuito debe tener UN call-to-action claro. No 'síguenos en redes.' Sino: 'Agenda tu cita aquí' o 'Escríbenos al WhatsApp +57...' o 'Ven al workshop del sábado.' Sin call-to-action, el contenido gratuito es entretenimiento, no funnel.
 
 ## 13.9 MAPA COMPETITIVO DE BUCARAMANGA — CONTRA QUIÉN COMPITES Y QUÉ DECIR
 
@@ -1667,41 +1641,47 @@ Ratio instrucción-práctica: 10-15% instrucción directa ('I Do') → 25-30% pr
 
 ### Fase 4 — B2 (Sem 20-28, 190h): Proyectos: #9 'Social Enterprise Plan' (20-21) + #10 'Capstone Project' (24-25). Sem 22-23: CV, cover letter, LinkedIn. Sem 26-27: consolidación, mock interviews, portafolio final. Sem 28: examen final B2 + defensa de capstone + defensa de portafolio. Todas las 12 habilidades a nivel avanzado. Debates bi-semanales. Competencia formal de debate sem 24-25. Graduación semana 29.
 
-## 14.9B CÁLCULO DE CLASES POR NIVEL — DISTRIBUCIÓN CONTENIDO vs EVALUACIÓN
+## 14.9B CÁLCULO DE CLASES POR NIVEL — CLASES DE CONTENIDO vs EVALUACIÓN
 
-No todas las clases son de contenido. Hay que descontar: exámenes escritos (midterm 2h + final 2h = 4h por nivel), presentaciones orales (midterm + final — cada estudiante presenta y los demás formulan preguntas, evaluando speaking y listening), y Gringo Nights para nocturnos (~1/mes).
+No todas las clases son de contenido. Hay que descontar: exámenes escritos (midterm + final = 2 clases de 2h por nivel), presentaciones orales (midterm + final, evaluando speaking y listening — cada estudiante presenta y los demás formulan preguntas), y Gringo Nights para los nocturnos (~1 por mes).
 
+TIEMPOS DE PRESENTACIÓN POR NIVEL (presentación + Q&A por estudiante):
+A1: Midterm 5 min + 2 min Q&A = 7 min/estudiante · Final 10 min + 3 min Q&A = 13 min/estudiante
+A2: Midterm 10 min + 3 min Q&A = 13 min/estudiante · Final 15 min + 4 min Q&A = 19 min/estudiante
+B1: Midterm 15 min + 4 min Q&A = 19 min/estudiante · Final 20 min + 5 min Q&A = 25 min/estudiante
+B2: Midterm 15 min + 4 min Q&A = 19 min/estudiante · Final 30 min + 5 min Q&A = 35 min/estudiante
+Nota: Los tiempos de presentación (5, 10, 15, 20, 30 min) son de la presentación completa SIN incluir preguntas y respuestas.
 
+CLASES NECESARIAS PARA PRESENTACIONES (con 16 estudiantes, clases de 2h = 120 min):
+A1: Midterm 1 clase (112 min) · Final 2 clases (208 min) = 3 clases
+A2: Midterm 2 clases (208 min) · Final 3 clases (304 min) = 5 clases
+B1: Midterm 3 clases (304 min) · Final 4 clases (400 min) = 7 clases
+B2: Midterm 3 clases (304 min) · Final 5 clases (560 min) = 8 clases
 
+### DISTRIBUCIÓN FINAL — CALCULADA POR HORAS (no por bloques) PARA MAYOR PRECISIÓN:
 
+Horas de evaluación por nivel (exámenes escritos 4h + presentaciones orales):
+A1: 4h exámenes + 5.3h presentaciones = 9.3h evaluación → 80.7h de contenido
+A2: 4h exámenes + 8.5h presentaciones = 12.5h evaluación → 97.5h de contenido
+B1: 4h exámenes + 11.7h presentaciones = 15.7h evaluación → 159.3h de contenido
+B2: 4h exámenes + 14.4h presentaciones = 18.4h evaluación → 181.6h de contenido
 
-### DISTRIBUCIÓN FINAL DE CLASES POR NIVEL — NOCTURNO 2h/clase (10h/sem):
-1 módulo por clase. Gringo Nights: A2 máximo 2 por nivel. Con 16 estudiantes.
+### SUPER INTENSIVO (4h/día, 20h/sem, L-V 8am-12pm) — Sin Gringo Nights:
+A1 (90h): 22 días totales → 20 días de contenido
+A2 (110h): 28 días totales → 24 días de contenido
+B1 (175h): 44 días totales → 40 días de contenido
+B2 (200h): 50 días totales → 45 días de contenido
+Nota: Examen escrito (2h) + presentaciones se combinan en los mismos días de 4h para optimizar.
 
-A1 (90h, 34 módulos, ~2 meses): 45 clases total − 2 exámenes escritos (mid 2h + final 2h = 4h) − 3 presentaciones (6h) − 2 Gringo Nights = 38 clases contenido. 34 módulos en 38 clases ✓
-A2 (110h, 44 módulos, ~2.75 meses): 55 clases total − 2 exámenes escritos (mid 2h + final 2h = 4h) − 5 presentaciones (10h) − 2 Gringo Nights (máx) = 46 clases contenido. 44 módulos en 46 clases ✓
-B1 (175h, módulos TBD, ~4.5 meses): 88 clases total − 2 exámenes escritos (mid 2h + final 2h = 4h) − 7 presentaciones (14h) − 4 Gringo Nights = 75 clases contenido. B1 se divide en 2: gramática (repaso A1+A2 seleccionados) + conversacional (blending sin gramática). Midterm marca la transición. Módulos TBD.
-B2 (200h, 12 módulos, ~5 meses): 100 clases total − 2 exámenes escritos (mid 2h + final 2h = 4h) − 8 presentaciones (16h) − 5 Gringo Nights = 85 clases contenido. 12 módulos en 85 clases ✓
+INTENSIVO NOCTURNO (2h/clase, 10h/sem, L-V 6:30-8:30pm) — Restar Gringo Nights (~1/mes):
+A1 (90h, ~4.5 meses): 45 clases totales → 40 contenido − 4-5 Gringo Nights = 35-36 clases de contenido
+A2 (110h, ~5.5 meses): 55 clases totales → 49 contenido − 5-6 Gringo Nights = 43-44 clases de contenido
+B1 (175h, ~9 meses): 88 clases totales → 80 contenido − 8-9 Gringo Nights = 71-72 clases de contenido
+B2 (200h, ~10 meses): 100 clases totales → 91 contenido − 9-10 Gringo Nights = 81-82 clases de contenido
 
-### DISTRIBUCIÓN FINAL DE CLASES POR NIVEL — SUPER INTENSIVO 4h/día (20h/sem):
-A1-A2: 2 módulos por día. B1-B2: 1 módulo por día. Sin Gringo Nights. Examen (2h) + presentaciones se combinan en mismos días de 4h. Exámenes escritos: midterm 2h + final 2h = 4h por nivel (2 medios días).
+SABATINO: Modelo continuo (estudiantes avanzan a diferente ritmo, 2-3 pasan de nivel a la vez). Requiere su propia lógica de evaluación. Se define aparte.
 
-A1 (90h, 34 módulos, ~1 mes): 23 días total − 10h evaluación (4h exámenes + 6h presentaciones) = 20 días contenido. 34 módulos en 20 días (2/día = 17 días necesarios) ✓
-A2 (110h, 44 módulos, ~1.5 meses): 28 días total − 14h evaluación (4h exámenes + 10h presentaciones) = 24 días contenido. 44 módulos en 24 días (2/día = 22 días necesarios) ✓
-B1 (175h, módulos TBD, ~2.5 meses): 44 días total − 17h evaluación (4h exámenes + 13h presentaciones) = 40 días contenido. B1 dividido en gramática + conversacional. Midterm marca transición. Módulos TBD.
-B2 (200h, 12 módulos, ~2.5 meses): 50 días total − 20h evaluación (4h exámenes + 16h presentaciones) = 45 días contenido. 12 módulos en 45 días (1/día) ✓
-
-PRESENTACIONES POR NIVEL (con 16 estudiantes):
-A1: Midterm 5 min + 2 min Q&A = 7 min/est (112 min total) · Final 10 min + 3 min Q&A = 13 min/est (208 min total)
-A2: Midterm 10 min + 3 min Q&A = 13 min/est (208 min total) · Final 15 min + 4 min Q&A = 19 min/est (304 min total)
-B1: Midterm 15 min + 4 min Q&A = 19 min/est (304 min total) · Final 20 min + 5 min Q&A = 25 min/est (400 min total)
-B2: Midterm 15 min + 4 min Q&A = 19 min/est (304 min total) · Final 30 min + 5 min Q&A = 35 min/est (560 min total)
-
-NOTAS:
-B1 se divide en 2 mitades: gramática (repaso módulos A1+A2 seleccionados) + conversacional (blending). Midterm marca la transición.
-A2 nocturno: máximo 2 Gringo Nights por nivel para proteger los 44 módulos.
-SABATINO: Modelo continuo — se define aparte.
-Las guías día a día se generan para las clases de contenido. Exámenes, presentaciones y Gringo Nights se calendarizan aparte.
+IMPORTANTE: Las guías día a día se arman sobre las clases/días de contenido. Exámenes, presentaciones y Gringo Nights se calendarizan aparte.
 
 ## 14.10 CONSTRUCCIÓN DEL PORTAFOLIO PROFESIONAL
 
@@ -1867,6 +1847,23 @@ Nivel 3 Ejecutivo | 15% beca | $7,395,000 | Grupos 6-8 | 625h + coaching | Premi
 
 Nivel 4 Inversión Completa | 0% beca | $8,700,000 | Grupos 6-8 | 625h + 1-a-1 | VIP + impacto social
 
+## 15.3-BIS PRECIOS 2026 POR NIVEL INDIVIDUAL (compra de un solo nivel)
+
+Cuando un estudiante compra un solo nivel (no el paquete completo 575h), los precios oficiales 2026 son:
+
+| Nivel | Horas | Precio 2026 | $/hora |
+|---|---|---|---|
+| A1 | ~90 h | COP **$1,597,000** | ~$17,744 /h |
+| A2 | ~110 h | COP **$1,915,000** | ~$17,409 /h |
+| B1 | ~175 h | COP **$2,842,000** | ~$16,240 /h |
+| B2 | ~200 h | COP **$2,344,000** | ~$11,720 /h |
+| **TOTAL (A1+A2+B1+B2 sueltos)** | **~575 h** | **COP $8,698,000** | **~$15,127 /h** |
+
+Notas:
+- La suma de los 4 niveles sueltos = $8,698,000 ≈ precio Nivel 4 'Inversión Completa' ($8,700,000) del paquete unificado. Coherente: no hay descuento adicional por paquete vs niveles sueltos a precio pleno.
+- El B2 individual ($11.7K/h) es el nivel más eficiente por hora — refleja que es más conversacional y autónomo, menor carga de profesor por estudiante.
+- Estos precios funcionan como REFERENCIA para diseñar productos cortos / complementarios. Cualquier producto corto debe cobrar PRIMA por hora vs el nivel individual respectivo (justificable por brevedad + valor concentrado).
+
 ## 15.4 CÓMO SE PRESENTA EN LA CITA (ver Parte 8.2 para framework SPIN completo)
 
 Paso 1 — Siempre anclar al precio alto: 'Nuestro programa completo vale COP $8,700,000. Eso equivale a menos de $15,200 por hora — comparado con tutorías privadas de $80-120K la hora.'
@@ -2009,11 +2006,11 @@ Estructura de grupos: 1) Comunidad WhatsApp general para anuncios. 2) Grupo por 
 
 Total semanal: ~2-2.5 horas (100-130 min). Sesiones de 10-20 minutos. En ~45 semanas activas = ~90-112 horas adicionales de práctica (ver 16.6B para política de calendario, festivos y recesos).
 
-Lunes — Vocabulario: Sesión Goldlist en casa (escribir 20 frases nuevas con traducción, leer UNA vez, cerrar cuaderno — NO estudiar). 15 min.
+Lunes — Vocabulario: Sesión Goldlist (20 palabras nuevas). 20 min.
 
 Martes — Escucha + Habla: Shadowing de audio/video asignado. 15 min.
 
-Miércoles — Vocabulario: Destilación Goldlist (revisar lista de hace 14+ días, eliminar las que ya saben, reescribir solo las que no). 15 min.
+Miércoles — Vocabulario: Destilación Goldlist + mini-quiz. 20 min.
 
 Jueves — Lectura + Escritura: Artículo corto + resumen escrito. 20 min.
 
