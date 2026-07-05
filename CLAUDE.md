@@ -1,0 +1,46 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Qué es este repo
+
+Sistema de generación de material pedagógico de **Heiiu** (escuela de inglés). NO es software tradicional: scripts de Python renderizan **guías de clase (GUIA.pdf)** y **reportes (REPORTE.pdf)** a partir de archivos markdown (**PRINT.md**). El markdown es la fuente de verdad; los PDF se generan, nunca se editan a mano.
+
+## Documento norte — leer SIEMPRE antes de generar una guía
+
+`documentos_operativos/MASTER_BLUEPRINT_HEIIU.md` consolida estrategia, niveles, sistema de virtudes y los no-negociables. Consúltalo antes de crear cualquier guía nueva. Es el archivo que no se puede perder.
+
+## Regla de oro del contenido
+
+El contenido pedagógico sale del **libro oficial** (carpeta `Libros/`) tal cual: se sigue la secuencia, se **salta** el módulo que no exista, y **NUNCA se inventa** ni se infiere. Se cita verbatim (título, página, reglas, vocabulario, ejemplos). Marca lo que asumas como `SUPUESTO DE PLANEACIÓN — verificar`.
+
+## Flujo de generación de PDFs
+
+Dependencia: **reportlab** (no hay `requirements.txt`; asúmelo instalado). Entorno **Windows**; los scripts corren desde la raíz con `python gen_xxx.py`.
+
+- `md_to_pdf(md_path, pdf_path, max_lines_per_section=None, compact=False)` — de `gen_a1_a2_clases_pdfs.py`. Renderiza un PRINT.md a GUIA.pdf B&N. Soporta `#`/`##`/`###`, bloques de código ` ``` ` (para mapas y frases), listas `-`, `**negrita**`, tablas, blockquote `>`, y el marcador `[PAGEBREAK]`. Bloques de código muy largos (>~60 líneas) se parten solos.
+- `get_styles()` + `build_report_v2(filename, title, subtitle, activities_checklist, deliverables, selfeval, styles)` — de `generate_pdfs.py`. Genera el REPORTE.pdf de 1 página (checklist editable).
+- **Generador por clase** = un `gen_*.py` que importa ambas y las llama. Copia uno reciente (p. ej. `gen_b1_cl20.py`) como plantilla. **B1 Mastery = 2 tracks** (CONV + GRAMMAR) → 4 PDFs por clase.
+- Tras generar, **verifica en disco**: guías ~20–25 KB, reportes ~6 KB.
+
+## Convenciones de nombres
+
+- Fuente: `{NIVEL}_Clase{N}_{TRACK}_PRINT.md` (o `Class{N}` en A1/A2). Salida: `_GUIA.pdf` y `_REPORTE.pdf`.
+- Generadores: `gen_{nivel}_cl{N}.py`.
+- B1 va dividido en `B1_conversacional_*` y `B1_gramatica_*`, con versiones `_V1` / `_V2` (V2 = vigente).
+
+## Numeración y virtudes
+
+Número de clase **absoluto** por nivel (A1 1–45, A2 1–55, B1 1–44). La **virtud** se asigna por número de clase en bloques de 5, en **calendario absoluto** — no se desplaza por festivos ni clases canceladas.
+
+## No-negociables Heiiu (detalle en el Blueprint)
+
+Frase del Día en el tablero (NO existe GoldList) · numeración consecutiva · **sin nombres de estudiantes** en guías reutilizables · **sin nombres de metodologías** · los profes **no comunican** evaluaciones (eso es coordinación) · modelo inmersivo de 4 bloques largos · sin material impreso preparado (todo en tablero o tarea, con Plan B) · tarea estricta (due date explícita, no fragmentada) · error paper físico anónimo + reporte con nombres para coordinación · simulaciones profesionales realistas · **B1**: PASE bidireccional Conv↔Grammar, Grammar ~70–86% de pie · **B2 (Amina)**: banco de vocabulario + trabalenguas + fase · Final del nivel lo aplica evaluador externo (no generar guía ese día).
+
+## Agentes especializados (globales, uno por modelo)
+
+Para delegar y ahorrar tokens: **sidis** (Fable, estrategia pura — cara, usar poco), **einstein** (Opus, redactar guías + investigación profunda), **tesla** (Sonnet, leer/extraer del libro), **mark** (Haiku, correr scripts / generar PDFs / verificar). También existe la skill `/clases` para generar el material diario de los 5 cohortes.
+
+## Nota
+
+El `.gitignore` ignora `.claude/` (skills, hooks y settings quedan **solo locales**, no se suben) y `B2/reportes/` (fotos/PDF personales de estudiantes).

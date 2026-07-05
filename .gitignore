@@ -27,3 +27,6 @@ Thumbs.db
 
 # LOGS / SALIDAS
 *.log
+
+# PREFERENCIAS PERSONALES CLAUDE (privado)
+CLAUDE.local.md
