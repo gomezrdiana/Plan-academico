@@ -16,17 +16,19 @@ El contenido pedagógico sale del **libro oficial** (carpeta `Libros/`) tal cual
 
 ## Flujo de generación de PDFs
 
-Dependencia: **reportlab** (no hay `requirements.txt`; asúmelo instalado). Entorno **Windows**; los scripts corren desde la raíz con `python gen_xxx.py`.
+Dependencia: **reportlab** (no hay `requirements.txt`; asúmelo instalado). Entorno **Windows**.
+
+**Estructura:** los 2 motores (`gen_a1_a2_clases_pdfs.py` y `generate_pdfs.py`) viven en la **raíz**; todos los generadores por clase están en **`generadores/`**. Siempre se corren **desde la raíz**: `python generadores/gen_xxx.py` (cada generador mete la raíz en `sys.path` y escribe sus PDFs en las carpetas de nivel `A1/ A2/ B1/ B2/`). NO ejecutar con `cd generadores/`.
 
 - `md_to_pdf(md_path, pdf_path, max_lines_per_section=None, compact=False)` — de `gen_a1_a2_clases_pdfs.py`. Renderiza un PRINT.md a GUIA.pdf B&N. Soporta `#`/`##`/`###`, bloques de código ` ``` ` (para mapas y frases), listas `-`, `**negrita**`, tablas, blockquote `>`, y el marcador `[PAGEBREAK]`. Bloques de código muy largos (>~60 líneas) se parten solos.
 - `get_styles()` + `build_report_v2(filename, title, subtitle, activities_checklist, deliverables, selfeval, styles)` — de `generate_pdfs.py`. Genera el REPORTE.pdf de 1 página (checklist editable).
-- **Generador por clase** = un `gen_*.py` que importa ambas y las llama. Copia uno reciente (p. ej. `gen_b1_cl20.py`) como plantilla. **B1 Mastery = 2 tracks** (CONV + GRAMMAR) → 4 PDFs por clase.
+- **Generador por clase** = un `gen_*.py` en `generadores/` que importa ambas y las llama. Copia uno reciente (p. ej. `generadores/gen_b1_cl20.py`) como plantilla y guárdalo también en `generadores/`. **B1 Mastery = 2 tracks** (CONV + GRAMMAR) → 4 PDFs por clase.
 - Tras generar, **verifica en disco**: guías ~20–25 KB, reportes ~6 KB.
 
 ## Convenciones de nombres
 
 - Fuente: `{NIVEL}_Clase{N}_{TRACK}_PRINT.md` (o `Class{N}` en A1/A2). Salida: `_GUIA.pdf` y `_REPORTE.pdf`.
-- Generadores: `gen_{nivel}_cl{N}.py`.
+- Generadores: `gen_{nivel}_cl{N}.py`, todos dentro de `generadores/`.
 - B1 va dividido en `B1_conversacional_*` y `B1_gramatica_*`, con versiones `_V1` / `_V2` (V2 = vigente).
 
 ## Numeración y virtudes
