@@ -10,6 +10,10 @@ Sistema de generación de material pedagógico de **Heiiu** (escuela de inglés)
 
 `documentos_operativos/MASTER_BLUEPRINT_HEIIU.md` consolida estrategia, niveles, sistema de virtudes y los no-negociables. Consúltalo antes de crear cualquier guía nueva. Es el archivo que no se puede perder.
 
+## Workflow de trabajo con Claude
+
+`documentos_operativos/WORKFLOW_CLAUDE_HEIIU.md` (entrevista 05/07/2026) define el sistema de trabajo: rutina de batch semanal + toques diarios, formato **hoja de ruta 1 página** para guías nuevas (tope 5 págs con anexo), dashboard semanal de supervivencia, reglas de protección IP para material entregado a profes, ciclo de reporte de profes, **auditoría del aprendizaje** (ticket de salida diario + portafolio de audios/videos + recuperación espaciada N-3/N-7 + ficha viva por estudiante + triangulación profe↔estudiante↔error paper), y prioridades comerciales. Las sesiones deben servir a dos metas: subir números (caja/matrículas) y que la experiencia élite llegue al aula.
+
 ## Regla de oro del contenido
 
 El contenido pedagógico sale del **libro oficial** (carpeta `Libros/`) tal cual: se sigue la secuencia, se **salta** el módulo que no exista, y **NUNCA se inventa** ni se infiere. Se cita verbatim (título, página, reglas, vocabulario, ejemplos). Marca lo que asumas como `SUPUESTO DE PLANEACIÓN — verificar`.
