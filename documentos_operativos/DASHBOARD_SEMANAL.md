@@ -25,8 +25,9 @@ Con "financiación 100% propia", cada deserción de un estudiante financiado con
 
 - **Paquetes completos A1→B2**: 5 de 13 ventas — la mayoría a $4.782.x00 = precio **Beca Transformación 45%** (el tope era "máx 30% de matrícula nueva por trimestre" — se está vendiendo casi todo al nivel de beca máxima ⚠️). Solo 1 venta (~$5.9M) cerca del **Nivel 2 "Profesional" 32%** que el Blueprint define como target de la MAYORÍA.
 - **Personalizadas (1-a-1): 3 ventas en 2 meses SIN marketing** ($600k, $2.215M, $1.2M=30h×$40k) — confirma la palanca detectada en la estrategia. Con campaña, este producto escala.
-- Sueltas: B2 intensivo $1.44M · B2 $1.64M · **A1 Sabatino $1.33M** ⚠️ (producto/cohorte sabatino NO existe en arquitectura ni en tabla de precios — ¿cohorte nuevo por documentar?).
-- **Precios negociados caso a caso confirmados**: "A1 y A2 intensivo" se vendió a $4.782.000 (×2) Y a $2.457.700 — mismo concepto, mitad de precio. La tabla única de precios (estrategia §3) no está operando en la venta real.
+- Sueltas: B2 intensivo $1.44M · B2 $1.64M · **A1 Sabatino $1.33M ✓ dentro de política** (modalidad sabatina: nivel individual con descuento máx 20% — regla documentada 07/07, ARQUITECTURA §2-QUATER; $1.33M = A1 con ~17%).
+- **Precios negociados caso a caso confirmados** (fuera del sabatino): "A1 y A2 intensivo" se vendió a $4.782.000 (×2) Y a $2.457.700 — mismo concepto, mitad de precio. La tabla única de precios (estrategia §3) no está operando en la venta real.
+- **Compradores en espera de cohorte**: contrato 2425 (B2 intensivo 4h — cohorte no existe aún) · verificar si los compradores de "A1 y A2 intensivo" de junio (2430, 2432, 2433, 2434) son los estudiantes del nuevo cohorte A1 4h AM. Dinero cobrado por cohortes futuros = obligación de abrirlos a tiempo.
 
 ## 4. Embudo (pauta → WhatsApp → cita → cierre)
 
@@ -52,7 +53,8 @@ Pedido al account manager (07/07): inversión, leads, costo/lead, **citas agenda
 | B1 Mastery cohorte 2 | Activo — midterm Cl 22 esta semana | Cl 25 (hoja de ruta) |
 | A1 4h AM (nuevo) | Arrancando | Cl 1-5 (hoja de ruta) |
 | A1 noche · A2 4h AM · B2 Amina | Terminados | — |
-| ¿A1 Sabatino? ¿B2 intensivo? | **SIN DATO — ventas los mencionan, no hay guías ni fila en arquitectura** | — |
+| A1 Sabatino (grupo continuo) | Activo (venta contrato 2424) — **sin guías en repo; sin REGISTRO SABATINO** → crear ambos | — |
+| B2 4h (intensivo) | No abierto — 1 comprador en espera (contrato 2425) | — |
 
 Señales de aprendizaje (tickets/portafolio): SIN DATO — primera recolección esta semana; primer mapa en la sesión batch del fin de semana.
 

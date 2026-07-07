@@ -34,6 +34,8 @@
 ## 3. HIGIENE PREVIA A ESCALAR (semana 1)
 
 - **Una sola tabla de precios** (hay 3 cifras distintas por producto entre documentos). Canónica: Blueprint 15.3-BIS — Express $700.000 (20h) · A1 $1.597.000 (90h) · A2 $1.915.000 (110h) · B1 $2.842.000 (175h) · B2 $2.344.000 (200h) · B2+ Fluido $1.200.000 (24h) · Completo $8.698.000 · A1 Virtual $1.200.000 (máx 6). Documento con otra cifra: se corrige o se archiva (Opus/mark).
+- **Modalidad SABATINA (regla Diana 07/07):** solo niveles individuales (sin paquete), grupo continuo de puerta abierta (entra cualquier sábado, sale al completar horas + examen individual), **descuento máx 20%** como táctica de cierre autorizada — es la ÚNICA excepción formal a la tabla. Operación: ARQUITECTURA §2-QUATER.
+- **Compradores en espera de cohorte** (rastrear en el dashboard): quien compra un nivel/formato cuyo cohorte aún no abre (ej. "B2 intensivo") entra a una lista de espera visible — es la señal de qué cohorte abrir después y plata ya cobrada que obliga a cumplir.
 - **Dos "Blueprints"**: para lo comercial la fuente es `Heiiu_Blueprint_DEFINITIVO_2026.md` + este documento (ya anotado en CLAUDE.md).
 - **Cláusula de condiciones de beca en el contrato de matrícula** antes de relanzar narrativa (pendiente heredado del v15 — ahora se resuelve con el reglamento del Fondo).
 

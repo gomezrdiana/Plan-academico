@@ -135,6 +135,19 @@ Aplica al producto virtual (grupo **máx 6**, videollamada en vivo, **cámara ob
 
 Reglas duras del formato virtual: sesión NUNCA se graba (ni profe ni estudiantes) · máx 6 estudiantes · la clase virtual exige MÁS rotación de turnos, no menos (con 6, cada estudiante produce cada ≤10 min) · deserción se reporta a coordinación a la SEGUNDA ausencia (el riesgo del formato es el goteo silencioso) · todo lo demás (tarea estricta, due dates, virtudes, Frase del Día, sin metodologías, sin comunicar evaluaciones) aplica sin cambios.
 
+## 2-QUATER. MODALIDAD SABATINA (grupo continuo de puerta abierta — Diana 07/07/2026)
+
+Los sábados operan distinto y la arquitectura lo reconoce como modalidad propia (4h cada sábado, un grupo por nivel, SIEMPRE abierto):
+
+- **Comercial:** se vende SOLO el nivel individual (nunca paquete — a 4h/sem un nivel tarda meses); descuento máximo autorizado **20%** como táctica de cierre (cupo en grupo abierto = costo marginal cero). Entrada cualquier sábado.
+- **Reloj individual, grupo continuo:** cada estudiante acumula SUS horas (A1 90h ≈ 23 sábados); el grupo recorre el libro en ciclo continuo y no tiene "Cl 1" ni "final de cohorte".
+- **Numeración y virtud:** las sesiones se numeran de forma continua e infinita (S1, S2, … Sn) y la virtud rota por bloques de 5 sobre ese número — calendario absoluto, igual que siempre.
+- **Guía:** una hoja de ruta por sesión (formato 4h de §2-BIS, patrones del nivel), igual que cualquier cohorte. La recuperación N-3/N-7 aplica sobre las sesiones del grupo.
+- **Hitos INDIVIDUALES (no de cohorte):** al ingresar → Carta a Mi Yo del Futuro + presentación de rituales EN SU PRIMERA SESIÓN (el profe lo hace en 1-a-1 breve mientras el grupo trabaja — instrucción en la hoja cuando coordinación avise ingreso); proyecto del nivel personal con su propio arco; **examen final individual** cuando completa las horas — lo aplica evaluador externo, agendado por coordinación (nunca en la sesión regular ni por el profe).
+- **Artefacto obligatorio de coordinación: REGISTRO SABATINO** (1 tabla por nivel): estudiante · fecha de ingreso · sesión de ingreso · horas acumuladas · módulos ya vistos · fecha estimada de completar horas · examen agendado. Sin este registro el modelo pierde control — se actualiza en la sesión batch semanal con el reporte del profe.
+- **Módulos que el estudiante no vio** (por entrar a mitad de ciclo): los cubre cuando el ciclo vuelve a pasar por ellos; si completa horas con módulos pendientes, coordinación decide extensión o refuerzo autónomo (skill repaso-ausente) — `SUPUESTO DE PLANEACIÓN — verificar política exacta con Diana`.
+- Tickets, portafolio, error paper, tarea estricta: idénticos a cualquier cohorte.
+
 **Selector de patrón según el contenido del módulo (regla determinística para Opus):**
 - Regla gramatical nueva → P11 o P2 (introducir) + P6 (aplicar) + P4 (consolidar después).
 - Vocabulario/campo léxico → P9 + P3 (usarlo en escenario).
