@@ -49,7 +49,12 @@ Reglas de mensaje: pertenencia y exigencia como núcleo (la beca refuerza, nunca
 - **S2 · Sin-tiempo → 1-a-1 premium** (ya existe y es rentable): **$40.000/h profe colombiano · $70.000/h nativo · paquetes mínimo 30h prepagados** (≈$1.200.000 / $2.100.000). Formalizar = publicar tarifa única SIN negociación caso a caso, vigencia 90 días, y venderlo activo: a la base actual/exalumnos, y a todo lead del bot que diga "no tengo tiempo" (hoy se pierde). Pago al profe solo por hora dictada y cobrada — riesgo de nómina cero.
 - **S3 · Empresas (B2B)** → Nivel 4 sin beca + 1-a-1 nativo para ejecutivos. Un pagador elimina el miedo deserción-vs-nómina. (Pitch = entregable #3.)
 - **S4 · Padres de adolescentes** → compran futuro y disciplina, no cursos; el portafolio diario y las presentaciones son la evidencia.
-- **Post-B2 (fuga descubierta):** los graduados del paquete completo se van y no hay nada que venderles. Diseñar (cuando la caja respire) el producto alumni: mantenimiento de fluidez / club de conversación mensual / 1-a-1 de mantenimiento. Mientras tanto, **cada graduado sale con: testimonio grabado + solicitud de 2 referidos**. Son tu mejor canal y hoy se van sin pedirles nada.
+- **Post-B2 (fuga descubierta):** los graduados del paquete completo se van y no hay nada que venderles. Escalera diseñada (06/07, Fable) — se lanza cuando la operación lo permita, en este orden:
+  1. **Membresía Alumni** (prioridad): 1 sesión semanal de conversación/simulación en grupo ≤8 (presencial o virtual, en vivo) + vocabulario que sigue creciendo, cobro mensual recurrente. Ancla de precio: hora grupal premium $50k → membresía 4 sesiones/mes ~$150-250k/mes (fijar con margen real). Ingreso predecible + testimonios y referidores se quedan en casa. **Piloto natural: los 5 graduados del cohorte Amina — 5 llamadas de María Eugenia, cero desarrollo.**
+  2. **Sprints profesionales 24h** (la maquinaria B2+ Fluido reapuntada): Entrevistas / Presentaciones / Negociación — mismo formato 24h·2sem·4-6px·$1.2M; sirve a graduados Y a B2B con el mismo material (~10-12 hojas de ruta con patrones existentes).
+  3. **Fellowship Heiiu**: mejores graduados como monitores de cohortes inferiores — cantera de futuros profes formados en el método + estatus élite (no es producto de caja, es pipeline docente).
+  - **NO ahora:** nivel C1 completo (200h de currículo sin demanda probada, exige profes nativos) ni producto formal TOEFL/IELTS (océano rojo; solo 1-a-1 si alguien lo pide).
+  - Mientras tanto, **cada graduado sale con: testimonio grabado + solicitud de 2 referidos**. Son tu mejor canal y hoy se van sin pedirles nada.
 
 ## 6. PRUEBA SOCIAL = LOS CREATIVOS QUE BRIAN NECESITA
 
