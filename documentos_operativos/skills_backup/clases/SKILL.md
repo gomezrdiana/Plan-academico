@@ -63,6 +63,8 @@ Virtud: {virtud} · Frase del Día: "{frase}"
 - **4 bloques largos, NO 12-13 actividades cortas** (regla 18/06 — el modelo inmersivo).
 - **Cero material físico del profe/academia** (sin liquidez): cualquier objeto (cartas, sobres, props) = el profe lo pide al estudiante con anticipación como tarea, con Plan B escrito en la hoja.
 
+- **Bloques 2 y 3 SOLO se construyen con patrones del catálogo cerrado** de `documentos_operativos/ARQUITECTURA_ACADEMICA_HEIIU.md` (P1-P14), combinados según la tabla por cohorte y el selector por tipo de contenido (§2 de ese doc). PROHIBIDO inventar tipos de actividad o mutar la estructura de un patrón — se varía contenido (módulo, vocabulario, escenario), no estructura. La guía NUNCA menciona nombres de patrón (ni "P3") — solo instrucciones concretas. Si el módulo no encaja en ningún patrón: `SUPUESTO DE PLANEACIÓN — verificar`, no improvisar.
+
 **Anexo opcional (máx 3-4 págs, tras `[PAGEBREAK]`):** SOLO cuando el módulo es nuevo/difícil y el verbatim del libro no cabe en la hoja: reglas y ejemplos completos citados del libro, Plan B extendido, NOTA INTERNA. Si la hoja se basta sola, NO generes anexo.
 
 **Tope duro: 5 páginas totales por PDF.** Si sale más largo, recorta el anexo — jamás la hoja.
@@ -141,6 +143,7 @@ Cada prompt de agente debe incluir: **la plantilla hoja de ruta de §2 con sus r
 
 Después de cada día (o al cierre del rango):
 1. Verifica en disco que existan los PDFs esperados (guía + reporte por cohorte; B1 doble: Conv + Grammar). Guías **≤5 páginas** y >2KB (si una guía pesa como las viejas de 12 págs, se rehace); reportes ~6KB.
+1-bis. **Corre el CONTRATO DE VALIDACIÓN V1-V20** de `ARQUITECTURA_ACADEMICA_HEIIU.md` §3 sobre cada PRINT.md (lo puede correr mark leyendo el archivo). 1 falla = la hoja se corrige y regenera antes de reportar.
 2. Reporta una tabla compacta:
 
 | Cohorte | Clase | Módulo / contenido | Virtud | Frase del Día (resumida) | Recuperación (N-3/N-7) | Págs guía (≤5) | Supuestos |
@@ -150,6 +153,7 @@ Después de cada día (o al cierre del rango):
 
 ## 9. Fuentes canónicas
 
+- **ARQUITECTURA ACADÉMICA (LEY para bloques 2-3):** `documentos_operativos/ARQUITECTURA_ACADEMICA_HEIIU.md` — catálogo P1-P14, gramática por cohorte, selector, contrato V1-V20, plantillas. Opus ejecuta este diseño, no lo modifica.
 - **Master Blueprint:** `documentos_operativos/MASTER_BLUEPRINT_HEIIU.md` (norte operativo).
 - **Workflow y formato hoja de ruta:** `documentos_operativos/WORKFLOW_CLAUDE_HEIIU.md` (§5 formato, §9 auditoría del aprendizaje).
 - **Libros:** `recursos/docs_estrategia/A1 Book.md`, `recursos/docs_estrategia/A2 Book.md`.
@@ -164,6 +168,7 @@ Después de cada día (o al cierre del rango):
 ## 10. Qué NO hacer
 
 - NO copiar el formato largo de las guías previas al 06/07 — son solo fuente de continuidad.
+- NO inventar tipos de actividad ni mutar patrones del catálogo (ARQUITECTURA §1) — combinar sí, crear no.
 - NO generar anexo cuando la hoja se basta sola; NO pasar de 5 páginas totales.
 - NO inventar módulos cuando el libro no los tiene (saltar al siguiente que existe).
 - NO citar tickets/errores de la semana si no hay mapa semanal procesado — la recuperación usa entonces los módulos de N-3/N-7.
