@@ -1,6 +1,6 @@
 # ARQUITECTURA ACADÉMICA HEIIU — catálogo cerrado de patrones
 
-> v1 — 06/07/2026 (diseñado con Fable; Opus EJECUTA, no rediseña).
+> v1.1 — 06/07/2026 (diseñado con Fable; Opus EJECUTA, no rediseña). v1.1 agrega §2-BIS (matriz genérica nivel × formato) y §2-TER (virtualidad grupal).
 > **Documento interno de coordinación. NUNCA se entrega a profesores** (los patrones encarnan las metodologías del método Heiiu — IP). Las hojas de ruta describen QUÉ hacer; jamás nombran patrón ni metodología.
 > Regla de inviolabilidad: **los Bloques 2 y 3 de toda hoja de ruta SOLO pueden construirse con patrones de este catálogo.** Opus varía el contenido (módulo, vocabulario, escenario), NUNCA la estructura de un patrón ni inventa tipos de actividad nuevos. Patrón nuevo o modificado = solo Diana en sesión de diseño (Fable/sidis). Si un módulo no encaja en ningún patrón → `SUPUESTO DE PLANEACIÓN — verificar` y pregunta a Diana; no improvisar.
 
@@ -93,6 +93,47 @@ Esqueleto universal (de la hoja de ruta): **B1 Apertura → B2 Contenido → B3 
 | **B1 GRAMMAR (Juan Diego/Tomás)** | ídem + PASE recibido de Conv | P11 (default) · P4 · P6 | P11+P3 combinados · P5 | ídem + PASE para Conv del día sig. | **≥70% de pie** (piso 86%); consolidación antes de complejidad; 100% inglés; objetivo de cada bloque en 1 línea |
 | **B2 PM Amina** (2h) | ídem + lectura nominal de no-entregas | P9 (OBLIGATORIO cada clase: Set #N + trabalenguas) · P6 · P4 | P3 física (default) · P10 (obligatorio frecuente) · P7 (Why Colombia) | ídem + cuenta regresiva + 2 strikes → coordinación | Fase vigente manda (F2: 94% oral; F3+: escritura a mano en clase, anti-fraude); tarea 4 componentes 45-60 min |
 
+## 2-BIS. MATRIZ GENÉRICA — cualquier nivel × cualquier formato (para cohortes nuevos)
+
+La tabla de §2 rige los cohortes ACTIVOS (con sus particularidades de profe/fase). Todo **cohorte nuevo** se instancia desde esta matriz. Hitos de evaluación: tabla genérica del `MAPA_MAESTRO_HEIIU.md` §9 (mini-pres 25% · midterm 50% en 2 días · mini-pres 75% · final 100% en 2 días, aplicado por evaluador externo).
+
+**Reparto de tiempos por formato (los 4 bloques NUNCA cambian de orden ni se fusionan):**
+
+| Formato | Bloque 1 | Bloque 2 | Bloque 3 | Bloque 4 |
+|---|---|---|---|---|
+| **2h** (120') | 20-25' | 40-45' | 35-40' | 15-20' |
+| **4h** (240') | 30-35' | 80-90' | 80-90' | 25-30' |
+
+En 4h, los Bloques 2 y 3 se componen de DOS patrones encadenados cada uno (ej. P2→P6, P11→P3) — siguen siendo bloques largos, no 12 actividades sueltas. Si el cohorte tiene pausa establecida, va entre B2 y B3 y no cuenta en los tiempos.
+
+**Defaults por nivel (aplican en 2h y 4h; solo cambia el reparto de arriba):**
+
+| Nivel | B2 Contenido — default y permitidos | B3 Producción — default y permitidos | Reglas del nivel |
+|---|---|---|---|
+| **A1** | P2 (default) · P6 · P4 | P3 simple (default) · P11 · P8 | Lenguaje ultra simple; historias como vehículo; simulaciones de supervivencia cotidiana (tienda, saludo, direcciones) |
+| **A2** | P6 (default) · P2 · P4 | P3 (default) · P11 · P8 | Sigue libro A2 (M4/M9/M19/M25/M31/M35/M40 saltados); tras agotar libro → arco de repaso con P4 default en B2 |
+| **B1** | P6 (default) · P11 · P4 · P5 | P3 (default) · P10 · P7 · P8 | Si es doble track (4h: Conv+Grammar) → PASE bidireccional obligatorio y Grammar con P11 default ≥70% de pie. **Si es track único (2h/día): días alternos Grammar/Conv con PASE entre días — `SUPUESTO DE PLANEACIÓN — verificar` con Diana al abrir el primer cohorte así** |
+| **B2** | P9 (OBLIGATORIO cada clase: Set #N de 6 + 3-4 trabalenguas) · P6 · P4 | P3 física (default) · P10 (frecuente obligatorio) · P7 | Escritura evaluable SIEMPRE a mano en clase (anti-fraude); simulaciones físicas reales, no roleplay sentado; bridge formal↔casual permanente. La "fase", cuenta regresiva y 2-strikes del cohorte Amina son de ESE cohorte — un B2 nuevo arranca con estas reglas genéricas + proyecto final desde Cl 1 |
+
+Universales de todo cohorte nuevo (cualquier nivel/formato): Bloque 1 = P13+P1+portafolio · Bloque 4 = P14+tarea+error paper · proyecto del nivel arranca en las primeras clases (P7) · virtud por bloques de 5 · Carta del Yo del Futuro en Cl 1 · cronograma de evaluaciones anunciado en la guía de Cl 1 (modelo B1).
+
+## 2-TER. VIRTUALIDAD GRUPAL (grupos pequeños en vivo — el mismo método en pantalla)
+
+Aplica al producto virtual (grupo **máx 6**, videollamada en vivo, **cámara obligatoria**, **NADA grabado** — decisión Diana). El esqueleto, los patrones, la matriz por nivel (§2-BIS) y el contrato V1-V20 aplican COMPLETOS; solo cambia la fisicalidad:
+
+| Elemento presencial | Adaptación virtual (única permitida) |
+|---|---|
+| Tablero | Pantalla compartida del profe (o tablero físico ante su cámara). Cero materiales igual. |
+| P1/P11 "de pie" | El movimiento se conserva: estudiantes DE PIE frente a su cámara cuando el patrón lo pide; drills de traer-objeto ("bring something red and name it"), respuesta física visible en cámara, cadenas nominadas a ritmo. Prohibido convertir el drill en quiz de chat. |
+| P3 simulación | Mismo guest-observer: 1 guest en cámara, observers con tarea escrita, profe coach. Con máx 6 no se usan breakout rooms — todo en sala única. |
+| Ticket de salida (P14) | Se escribe A MANO en papel, se muestra a cámara y se envía foto INMEDIATA al WhatsApp de coordinación antes de salir de la llamada. (Excepción virtual al protocolo físico presencial — la señal no se pierde.) |
+| Error paper | El profe lleva su libreta igual (errores con nombre a coordinación); la versión anónima se trabaja en pantalla compartida (P4). |
+| Portafolio diario | Idéntico — ya es remoto por naturaleza. |
+| Chequeo de asistencia/atención | Cámara encendida es condición de asistencia (regla del programa virtual existente); cámara apagada sin aviso = ausencia parcial reportada. |
+| GRABO / Shadowing | Iguales — el estudiante se graba en su casa como siempre. |
+
+Reglas duras del formato virtual: sesión NUNCA se graba (ni profe ni estudiantes) · máx 6 estudiantes · la clase virtual exige MÁS rotación de turnos, no menos (con 6, cada estudiante produce cada ≤10 min) · deserción se reporta a coordinación a la SEGUNDA ausencia (el riesgo del formato es el goteo silencioso) · todo lo demás (tarea estricta, due dates, virtudes, Frase del Día, sin metodologías, sin comunicar evaluaciones) aplica sin cambios.
+
 **Selector de patrón según el contenido del módulo (regla determinística para Opus):**
 - Regla gramatical nueva → P11 o P2 (introducir) + P6 (aplicar) + P4 (consolidar después).
 - Vocabulario/campo léxico → P9 + P3 (usarlo en escenario).
@@ -106,7 +147,7 @@ Esqueleto universal (de la hoja de ruta): **B1 Apertura → B2 Contenido → B3 
 **V1** Página 1 contiene los 4 bloques con duración, y la suma de tiempos = duración de la clase (±5 min).
 **V2** Bloque 1 abre con P1 (recuperación Cl N-3/N-7 con instrucción exacta) + chequeo de portafolio + P13.
 **V3** Bloque 4 cierra con P14 antes de tarea y error paper.
-**V4** Bloques 2 y 3 solo contienen actividades trazables a patrones P1-P14 según la tabla del cohorte (§2).
+**V4** Bloques 2 y 3 solo contienen actividades trazables a patrones P1-P14 según la tabla del cohorte (§2); cohortes nuevos → matriz §2-BIS; virtual → además las adaptaciones §2-TER (y SOLO esas).
 **V5** Tarea con due date explícita ("Cl N+1 antes de las 7:00 PM"; B2 = 6:00 PM) + componente portafolio (audio/video diario) + tiempo dentro del rango del nivel.
 **V6** PDF ≤5 páginas; guía >2KB; sospechar formato largo si >15KB.
 **V7** CERO nombres de estudiantes; errores citados siempre anónimos.
@@ -138,6 +179,7 @@ Por cohorte: errores comunes de tickets (top 3-5, anónimos, con estructura impl
 ## 5. GOBERNANZA
 
 - Opus/einstein y la skill `/clases` tratan este documento como **ley**: pueden combinar patrones según §2, jamás crear, mutar o renombrar patrones.
-- Cambios al catálogo: solo Diana, en sesión de diseño, y quedan versionados aquí (v1 → v2 con fecha y qué cambió).
+- Cambios al catálogo: solo Diana, en sesión de diseño, y quedan versionados aquí (v1 → v2 con fecha y qué cambió). *Historial: v1 06/07 catálogo+cohortes activos · v1.1 06/07 matriz genérica nivel×formato + virtualidad grupal.*
+- Al abrir un cohorte nuevo (cualquier nivel/formato/modalidad): se instancia desde §2-BIS (+§2-TER si virtual), se agrega su fila a §2 con sus particularidades, y se anuncia el cronograma de evaluaciones en la guía de Cl 1.
 - Si el feedback de campo sugiere que un patrón falla, se registra en memoria (`feedback-*`) y se trae a la siguiente sesión de diseño — mientras tanto el patrón vigente se sigue ejecutando.
 - Este documento NO se imprime ni se comparte con profesores; su contenido llega a ellos solo como instrucciones concretas dentro de las hojas de ruta.

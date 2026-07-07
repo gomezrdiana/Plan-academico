@@ -153,7 +153,7 @@ Después de cada día (o al cierre del rango):
 
 ## 9. Fuentes canónicas
 
-- **ARQUITECTURA ACADÉMICA (LEY para bloques 2-3):** `documentos_operativos/ARQUITECTURA_ACADEMICA_HEIIU.md` — catálogo P1-P14, gramática por cohorte, selector, contrato V1-V20, plantillas. Opus ejecuta este diseño, no lo modifica.
+- **ARQUITECTURA ACADÉMICA (LEY para bloques 2-3):** `documentos_operativos/ARQUITECTURA_ACADEMICA_HEIIU.md` — catálogo P1-P14, gramática por cohorte (§2), matriz genérica nivel×formato para cohortes nuevos (§2-BIS), virtualidad grupal (§2-TER), selector, contrato V1-V20, plantillas. Opus ejecuta este diseño, no lo modifica. Si Diana pide un cohorte que no está en §1 de esta skill (nuevo nivel/formato/virtual), instancia desde §2-BIS/§2-TER y agrega la fila.
 - **Master Blueprint:** `documentos_operativos/MASTER_BLUEPRINT_HEIIU.md` (norte operativo).
 - **Workflow y formato hoja de ruta:** `documentos_operativos/WORKFLOW_CLAUDE_HEIIU.md` (§5 formato, §9 auditoría del aprendizaje).
 - **Libros:** `recursos/docs_estrategia/A1 Book.md`, `recursos/docs_estrategia/A2 Book.md`.
