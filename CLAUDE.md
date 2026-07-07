@@ -50,3 +50,5 @@ Para delegar y ahorrar tokens: **sidis** (Fable, estrategia pura — cara, usar 
 ## Nota
 
 El `.gitignore` ignora `.claude/` (skills, hooks y settings quedan **solo locales**, no se suben) y `B2/reportes/` (fotos/PDF personales de estudiantes).
+
+**Respaldo de skills:** `documentos_operativos/skills_backup/` versiona copias de los `SKILL.md` de `.claude/skills/`. Cada vez que se modifique una skill, copiar el `SKILL.md` actualizado a esa carpeta en la misma sesión (y actualizar la fecha en su README).
