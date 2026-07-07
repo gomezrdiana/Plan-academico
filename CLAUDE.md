@@ -10,6 +10,8 @@ Sistema de generación de material pedagógico de **Heiiu** (escuela de inglés)
 
 `documentos_operativos/MASTER_BLUEPRINT_HEIIU.md` consolida estrategia, niveles, sistema de virtudes y los no-negociables. Consúltalo antes de crear cualquier guía nueva. Es el archivo que no se puede perder.
 
+**Ojo — hay DOS "Blueprints":** el MASTER (pedagógico, arriba) y `recursos/docs_estrategia/Heiiu_Blueprint_DEFINITIVO_2026.md` (estratégico/comercial: precios 15.3-BIS, becas 15.2, funnel 13.8, roles 15.6). Para TODO lo comercial la fuente es el DEFINITIVO + `documentos_operativos/ESTRATEGIA_VENTAS_2026.md`.
+
 ## Workflow de trabajo con Claude
 
 `documentos_operativos/WORKFLOW_CLAUDE_HEIIU.md` (entrevista 05/07/2026) define el sistema de trabajo: rutina de batch semanal + toques diarios, formato **hoja de ruta 1 página** para guías nuevas (tope 5 págs con anexo), dashboard semanal de supervivencia, reglas de protección IP para material entregado a profes, ciclo de reporte de profes, **auditoría del aprendizaje** (ticket de salida diario + portafolio de audios/videos + recuperación espaciada N-3/N-7 + ficha viva por estudiante + triangulación profe↔estudiante↔error paper), y prioridades comerciales. Las sesiones deben servir a dos metas: subir números (caja/matrículas) y que la experiencia élite llegue al aula.

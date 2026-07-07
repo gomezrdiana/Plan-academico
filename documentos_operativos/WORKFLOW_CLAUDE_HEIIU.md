@@ -134,6 +134,18 @@ El §8 audita lo que el profe *dice* que hizo; esta sección audita lo que el es
 6. Diseñar el **grupo virtual pequeño premium** con lo aprendido en las 1-a-1: formato **cohorte corto prepagado** (tipo bootcamp de 8 semanas pagado completo) para neutralizar el miedo deserción-vs-nómina. sidis/Fable se usa aquí.
 7. Triage del backlog del Blueprint: solo se ejecuta lo que vende o retiene; el resto queda en "si sobrevivimos".
 
+## 10-BIS. Backlog del programa — ejecutar con OPUS (decisión 06/07/2026: full ventas primero)
+
+Diana pausó el desarrollo del programa: "con más ventas más fácil implementar el programa". Todo lo de abajo ya está especificado en este documento y se ejecuta con **Opus (einstein)** en sesiones normales, sin Fable, cuando el frente comercial lo permita:
+
+- [ ] Primer día completo de guías en formato **hoja de ruta** (§5) — piloto de los 5 cohortes, revisar tiempos de bloque antes de imprimir semana completa. (Skill /clases ya actualizada.)
+- [ ] **Plantilla de reporte del profe** 1 hoja (§8): checkbox por bloque + 3 errores + asistencia — generarla como PDF estático y pilotear con Tomás.
+- [ ] **Fichas vivas por estudiante** (§9): crear carpeta + plantilla + primera carga con lo que ya se sabe (sin inventar).
+- [ ] **DASHBOARD_SEMANAL.md** v1 (§6) — arranca cuando la auxiliar contable entregue el primer corte.
+- [ ] Marca de agua "Uso exclusivo {profe}" en `md_to_pdf` (§7) — cambio pequeño al motor.
+- [ ] Revisar si el contrato de estudiante (31 cláusulas) cubre el portafolio diario como obligación.
+- [ ] Cláusula IP/confidencialidad en contrato profesor (base: plantilla hora-cátedra v2).
+
 ## 11. Higiene del sistema (mantenimiento mínimo)
 
 - **Push a GitHub en cada sesión grande** — el repo es el negocio y vive en una sola máquina (carpeta Downloads).
