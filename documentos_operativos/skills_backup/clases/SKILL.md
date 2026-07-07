@@ -18,11 +18,12 @@ Si la fecha es ambigua, resuélvela con el contexto (`currentDate` del entorno +
 
 | Cohorte | Profe(s) | Formato | Total nivel | Archivos |
 |---|---|---|---|---|
-| **A2 4h AM** intensivo | Tomás | 4h · 28 cl · A2 110h | 110h | `A2/A2_4h_Class{N}_PRINT.md` → `_GUIA.pdf` · `A2/reportes/A2_4h_Class{N}_REPORTE.pdf` |
+| **A2 4h AM** intensivo | Tomás | 4h · 28 cl · A2 110h | 110h | `A2/A2_4h_Class{N}_PRINT.md` — **TERMINADO (Cl 28/28, final 29/05)** |
 | **B1 Mastery 4h AM** | Danna Conv 8-10 + Juan Diego Grammar 10-12 | 4h = 2 bloques · 44 ses · B1 175h | 175h | `B1/B1_Clase{N}_CONV_PRINT.md` y `B1/B1_Clase{N}_GRAMMAR_PRINT.md` + GUIA + REPORTE en `B1/reportes/` |
-| **A1 noche** | Christian (cohorte de 6) | 2h · 45 cl | 90h | `A1/A1_Class{N}_PRINT.md` |
-| **A2 PM noche** | Tomás | 2h · 55 cl | 110h | `A2/A2_Class{N}_PRINT.md` |
-| **B2 PM Amina** | Amina | 2h · arco 72h restantes con Amina · 36 ses | B2 nominal 200h | `B2/B2_PM_Amina_Clase{N}_PRINT.md` |
+| **A1 noche** | Christian (cohorte de 6) | 2h · 45 cl | 90h | `A1/A1_Class{N}_PRINT.md` — **TERMINADO (Cl 45/45)** |
+| **A1 4h AM** (nuevo desde 06/07/2026) | (por confirmar) | 4h · ~22-23 cl | 90h | `A1/4h/A1_4h_Class{N}_PRINT.md` → GUIA/REPORTE en `A1/4h/` · hitos: mini-pres Cl 6 · midterm Cl 11-12 · final Cl 22-23 · proyecto "MY WORLD" (supuesto por confirmar) |
+| **A2 PM noche (cohorte nuevo desde ~15/06)** | Tomás | 2h · 55 cl | 110h | `A2/V2/A2_Class{N}_PRINT.md` → GUIA/REPORTE en `A2/V2/` (Cl 14-18 ya en hoja de ruta) |
+| **B2 PM Amina** | Amina | 2h · 36 ses | 72h con Amina | `B2/B2_PM_Amina_Clase{N}_PRINT.md` — **TERMINADO (Cl 35 + Final Cl 36 evaluador externo)** |
 
 ## 2. Formato HOJA DE RUTA (obligatorio para toda guía nueva)
 

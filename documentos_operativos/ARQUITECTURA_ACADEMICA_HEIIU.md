@@ -87,6 +87,7 @@ Esqueleto universal (de la hoja de ruta): **B1 Apertura → B2 Contenido → B3 
 | Cohorte | Bloque 1 (fijo) | Bloque 2 — permitidos | Bloque 3 — permitidos | Bloque 4 (fijo) | Reglas propias del cohorte |
 |---|---|---|---|---|---|
 | **A1 noche** (2h) | P13 + P1 + chequeo portafolio | P2 (default) · P6 · P4 | P3 (escenarios simples) · P11 · P8 | tarea + error paper + P14 | Lenguaje ultra simple; historias como vehículo principal |
+| **A1 4h AM** (nuevo 06/07/2026, Cl 1-5 generadas) | ídem | P2 (default) · P6 · P4 — dos patrones encadenados (formato 4h) | P3 simple · P11 · P8 — dos encadenados | ídem | Instanciado desde §2-BIS; ~22-23 cl; hitos: mini-pres Cl 6 · midterm Cl 11-12 · mini-pres Cl 17 · FINAL Cl 22-23 (evaluador externo); proyecto "MY WORLD" `SUPUESTO — verificar tema` |
 | **A2 4h AM** (Cl 21-28 arco repaso) | ídem | P4 (default del arco) · P6 · P5 | P3 · P11 · P8 | ídem | Clusters de error del arco (mapa en memoria); libro agotado en M44 — NO módulos nuevos |
 | **A2 PM noche** (2h) | ídem | P6 (default) · P2 · P4 | P3 · P11 · P8 | ídem | Sigue libro A2; arco de cierre Cl 42-55 según plan |
 | **B1 CONV (Danna)** | ídem + PASE recibido de Grammar | P6 (default) · P5 · P2 | P3 (default) · P10 · P7 · P8 | ídem + PASE escrito para Grammar | Proyecto MY STORY vivo → P7 frecuente |
