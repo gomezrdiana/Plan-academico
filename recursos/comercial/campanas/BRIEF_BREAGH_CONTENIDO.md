@@ -55,12 +55,29 @@ Su ausencia solo bloquea GRABAR CARAS NUEVAS — editar, programar y mirar métr
 4. Cada pieza cierra con UN llamado simple: "escríbenos" / "ven por tu clase de cortesía" / "empieza este sábado" (rotar).
 5. Estudiantes solo voluntarios; menores solo con matrícula firmada por acudiente; externos firman formato.
 
+## CADENCIA: VOLUMEN ALTO SIN MIEDO (decisión Diana 07/07)
+
+Cuenta nueva y academia sin visibilidad física = publicar MUCHO. La saturación no es riesgo todavía; la invisibilidad sí. El truco para que sea sostenible: **3 capas, y solo una necesita la cara de Breagh**:
+
+**Capa 1 — DIARIA SIN CARA (sostenible para siempre, incluso sin Breagh):**
+- **La Frase del Día como post** (foto del tablero o tarjeta de texto) — ya se produce en cada clase, cuesta CERO.
+- **El error del día en texto/foto-post** (modo foto de TikTok + carrusel IG): "❌ my's house → ✅ my house" — Claude genera lotes de 30 de una sola vez.
+- Encuestas en historias ("¿cómo se dice…?" con 2 opciones — la gente ama votar).
+- La puede publicar Breagh remoto en minutos, o María Eugenia/Diana si Breagh no está.
+
+**Capa 2 — REELS/TIKTOKS DEL BANCO (la cara de Breagh): 1 por día.**
+A ese ritmo el banco debe ser más grande: **meta de julio sube a 80-100 crudos** — es alcanzable porque las piezas son de 15-30 seg: 3 sesiones/semana × 10-12 piezas por sesión (mismo fondo, cambia el tema; los guiones nunca serán el límite — Claude entrega los que hagan falta). Multiplicadores: una toma de 3 min = 3 piezas; una pieza buena se REPUBLICA a las 4-6 semanas (TikTok lo tolera y premia).
+
+**Capa 3 — HISTORIAS (24h): 3-6 por día entre TikTok e IG.**
+Mezcla diaria: 1-2 de valor (frase, error, encuesta) + 1 de prueba (clip de clase, ticket bonito sin nombre) + 1 de CTA con sticker de enlace al WhatsApp ("quedan 3 cupos este sábado" / "clase de cortesía esta semana"). Las historias son las que CONVIERTEN: el enlace directo al bot es el puente contenido→cita. Remoto en 5 min/día; las de cupos las puede subir María Eugenia.
+
+**Reparto semanal objetivo (ambas plataformas):** 7 reels + 7-10 posts sin cara + 25-40 historias. Claude entrega cada semana: tanda nueva de errores (de los tickets) + lote de tarjetas/textos de Capa 1 + 2 ganchos/captions por pieza (TikTok e IG) + análisis de métricas de la semana anterior.
+
 ## Calendario del sprint (julio)
 
-- **Semana 1 (ya):** mañana con Brian → guiones de pauta + arrancar F1 (primera tanda de errores) + F4 (sede).
-- **Semanas 2-4:** 2 sesiones/semana de 2-3 horas: una en la mañana (F2 con estudiantes voluntarios al cierre de clases) + una casual (F1 + F3 en tandas de 5-8 piezas por sesión — mismo fondo, cambia el tema).
-- **Meta al 31/07: 40+ piezas en el banco.** Brian las dosifica 3-4/semana hasta noviembre. Las visitas esporádicas de Breagh = tandas extra de F1/F3.
-- Claude entrega cada semana: lista de errores reales para F1 + 3 variantes de copy/caption por pieza publicada.
+- **Semana 1 (ya):** jornada con Brian (pauta) + primeras sesiones F1/F4 de Breagh + arranca Capa 1 diaria.
+- **Semanas 2-4:** 3 sesiones de grabación/semana (una en la mañana con estudiantes voluntarios F2; dos casuales F1/F3/F5 de 10-12 piezas).
+- **Meta al 31/07: 80-100 crudos en el banco + AGOSTO COMPLETO PROGRAMADO.** Las visitas esporádicas = tandas extra.
 
 ## Métrica (para saber si "viral" está pasando)
 
