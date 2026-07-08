@@ -1,6 +1,8 @@
-# BRIEF PARA BRIAN — Jornada de grabación + nueva tanda de creativos
+# BRIEF PARA BRIAN — Producción de pauta (guiones + testimonios + b-roll)
 
-> 07/07/2026 · Válido para la grabación de mañana y las próximas semanas. Versión básica para arrancar YA; se afina cuando entreguemos el reporte del embudo.
+> 07/07/2026 v3 · Válido para la grabación de mañana y las próximas semanas. **PRESENTADORA CONFIRMADA: BREAGH** (habla inglés y español perfectos — puede grabar cada guion en ambos idiomas si el tiempo da).
+> El contenido casual de Breagh con estudiantes tiene SU PROPIO brief aparte: `BRIEF_BREAGH_CONTENIDO.md` — este documento es SOLO producción de pauta.
+> ⏰ **Ventana crítica: Breagh está disponible hasta el 31 de JULIO.** Todo lo que la necesite a cámara se graba en julio — el banco debe quedar hecho.
 
 ## LA IDEA EN UNA FRASE
 
@@ -12,7 +14,7 @@ Dejamos de competir por precio y empezamos a vender **evidencia**: Heiiu es la �
 
 **A. Guiones a cámara (el plato fuerte — los guiones del 26/06 fueron diseñados para esto):**
 - Grabar los guiones ya escritos de **"3 preguntas antes de pagar academia"**, **Bootcamp Express** y **B2+ Fluido** + los 2 NUEVOS de la sección 1-BIS (Mentoría 1-a-1 y Sabatino).
-- **Quién presenta (en orden de preferencia):** Breagh (su rol definido es exactamente contenido pregrabado con guion) → un profesor con carisma que quiera → María Eugenia. **Si nadie está disponible mañana: voz en off + b-roll + subtítulos** — los guiones ya traen la columna de subtítulos y efectos; funcionan sin rostro.
+- **Presenta BREAGH** (confirmado por Diana 07/07). Grabar cada guion en tandas: todas las tomas de un mismo fondo/outfit seguidas. Si el tiempo alcanza, versión en inglés de los guiones clave (ya existe el guion 7 en inglés como modelo) — el bilingüismo de Breagh ES el diferencial visual de la marca.
 - Diana NO aparece en cámara (decisión firme). Si se quiere su presencia, máximo VOZ en off sin rostro — opcional, no necesario.
 
 **B. Testimonios agendados (la joya de la tarde — no necesitan clase):**
