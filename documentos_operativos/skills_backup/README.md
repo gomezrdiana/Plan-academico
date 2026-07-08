@@ -9,3 +9,4 @@ Las skills vivas están en `.claude/skills/` (ignorado por git). Esta carpeta es
 |---|---|
 | `clases` | 06/07/2026 — hoja de ruta + amarrada a ARQUITECTURA_ACADEMICA (P1-P14, V1-V20) |
 | `repaso-ausente` | 06/07/2026 |
+| `semanal` | 07/07/2026 — playbook sesión batch completa para Opus |
