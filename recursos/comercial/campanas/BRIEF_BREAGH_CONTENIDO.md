@@ -47,6 +47,14 @@ Su ausencia solo bloquea GRABAR CARAS NUEVAS — editar, programar y mirar métr
 4. **Colchón**: en la última semana de julio se deja PROGRAMADO al menos agosto completo — si un mes no puede tocar nada, el canal no se apaga.
 5. Claude sigue todo el tiempo: tanda de errores nueva cada semana (de los tickets), ganchos/captions por plataforma, y **análisis de métricas**: Breagh manda pantallazos o export semanal → Claude responde qué funcionó (retención, guardados, compartidos), qué matar y cómo abrir la siguiente tanda.
 
+## LÍNEA ROJA DE CONTENIDO — qué se publica y qué JAMÁS (protección del Blueprint)
+
+**Se publican los FRUTOS del sistema, nunca el sistema:**
+- ✅ SÍ: la frase del día (la frase sola, sin explicar su rol interno) · errores corregidos · resultados y testimonios · clips de clase (el QUÉ) · historias de transformación · la exigencia como valor.
+- ❌ JAMÁS: cómo se construye la frase (módulo+virtud+vocab) · el sistema de virtudes y su calendario · los patrones/estructuras de las clases · los rituales completos (tickets, error paper, recuperación, PASE) · secuencias, módulos y arquitectura · nombres de metodologías · cualquier página de guía, hoja de ruta o del Blueprint en pantalla.
+- Prueba del ácido antes de publicar: *"¿Esto le enseña a otra academia CÓMO operamos, o solo le muestra QUE funcionamos?"* Si enseña el cómo, no sale.
+- Contexto: el diferencial incopiable no es el formato (eso lo copia cualquiera y lo abandona en 3 semanas) — es la cadena de suministro (errores reales del aula cada semana, a costo cero), la cara (Breagh) y la evidencia (estudiantes reales). Eso no se transfiere por imitación.
+
 ## Reglas (protegen a Breagh y a la marca)
 
 1. **Todo se graba y se cura ANTES de publicar** — nada de lives improvisados ni interacción en vivo con desconocidos. Brian edita, Diana aprueba las primeras tandas; después de calibrar, aprueba solo formatos nuevos.
