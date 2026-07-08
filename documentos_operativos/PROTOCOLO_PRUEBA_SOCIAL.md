@@ -11,10 +11,10 @@
 
 ## 2. Base legal de la autorización
 
-**La autorización principal YA EXISTE: cláusula 26 del contrato de matrícula** (versión 31 cláusulas 2026): *"El ESTUDIANTE autoriza a Heiiu a grabar, tomar fotos y usar material con su participación con fines publicitarios, conforme a la Ley 1581 de 2012"* (+ cláusula 25, habeas data). Quien firmó ese contrato (o su acudiente, en menores) está cubierto — **no se le pide firma adicional**.
+**La autorización principal YA EXISTE en AMBAS versiones del contrato de matrícula** (verificado 07/07/2026): versión 24 cláusulas → **cláusula 24**; versión 31 cláusulas → **cláusula 26** (texto casi idéntico: autoriza grabar, tomar fotos y usar material con fines publicitarios, Ley 1581). Quien firmó cualquiera de los dos (o su acudiente, en menores) está cubierto — **no se le pide firma adicional**.
 
 **El formato suelto de abajo (`AUTORIZACION_IMAGEN.pdf`) es solo para excepciones:**
-1. Estudiantes matriculados con **versiones viejas del contrato** que no tengan la cláusula 26 — pedir a la auxiliar la lista de quién firmó qué versión; solo esos firman el formato.
+1. Estudiantes matriculados con alguna versión aún más vieja sin esa cláusula (confirmar con la auxiliar si existe alguna).
 2. **Personas no matriculadas** que aparezcan en material (invitados, asistentes a eventos abiertos tipo Gringo Night).
 3. Buena práctica opcional: cuando una pieza de **pauta paga destaque el rostro de UNA persona** como protagonista, reconfirmar con el formato — una autorización específica pesa más que la cláusula general si alguien reclama.
 
