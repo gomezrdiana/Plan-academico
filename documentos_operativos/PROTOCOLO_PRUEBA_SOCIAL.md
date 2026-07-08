@@ -9,9 +9,16 @@
 
 **Nada se publica sin autorización firmada. Nada se fabrica.** Un testimonio editado que exagera vale menos que uno real imperfecto — y el real no genera riesgo. Estudiante que no firma: no aparece (o solo de espaldas/sin rostro en tomas grupales). Menores de edad: firma SIEMPRE el acudiente.
 
-## 2. Formato de autorización (imprimir y usar desde ya)
+## 2. Base legal de la autorización
 
-Texto listo — 1 página, dos firmas posibles (mayor de edad / acudiente):
+**La autorización principal YA EXISTE: cláusula 26 del contrato de matrícula** (versión 31 cláusulas 2026): *"El ESTUDIANTE autoriza a Heiiu a grabar, tomar fotos y usar material con su participación con fines publicitarios, conforme a la Ley 1581 de 2012"* (+ cláusula 25, habeas data). Quien firmó ese contrato (o su acudiente, en menores) está cubierto — **no se le pide firma adicional**.
+
+**El formato suelto de abajo (`AUTORIZACION_IMAGEN.pdf`) es solo para excepciones:**
+1. Estudiantes matriculados con **versiones viejas del contrato** que no tengan la cláusula 26 — pedir a la auxiliar la lista de quién firmó qué versión; solo esos firman el formato.
+2. **Personas no matriculadas** que aparezcan en material (invitados, asistentes a eventos abiertos tipo Gringo Night).
+3. Buena práctica opcional: cuando una pieza de **pauta paga destaque el rostro de UNA persona** como protagonista, reconfirmar con el formato — una autorización específica pesa más que la cláusula general si alguien reclama.
+
+Texto del formato — 1 página, dos firmas posibles (mayor de edad / acudiente):
 
 ```
 AUTORIZACIÓN DE USO DE IMAGEN Y TESTIMONIO — HEIIU ENGLISH ACADEMY
