@@ -28,12 +28,24 @@ No solo tips — historias con arco (gancho → conflicto → giro → resoluci�
 - **Micro-historias de aula**: "esta semana un estudiante dijo X y pasó Y" (anónimo, real, con moraleja de aprendizaje).
 - Regla narrativa: cada historia deja UNA emoción (orgullo, identificación, ganas) — no un argumento de venta. La venta va en el caption, no en el relato.
 
-## CÓMO SE GRABA (Brian NO tiene que estar)
+## ROLES (corregido 07/07 — Diana)
 
-**Breagh se autograba** — es el flujo estándar de cualquier creadora y da más volumen que depender de agenda ajena:
-- F1, F3, F4 y F5: celular apoyado (vaso, libros, mini-trípode de $30 mil), cámara frontal, luz de ventana, audio cerca. Graba tandas de 5-8 piezas por sesión.
-- F2 (con estudiantes): ella misma sostiene el celular — el formato selfie-casual es parte del encanto.
-- **Brian recibe el material crudo (Drive/WhatsApp) y su rol es EDITAR y PUBLICAR**: cortes, subtítulos, portada, calendario. Solo necesita estar presente en la jornada de pauta (guiones a cámara) — para todo lo demás, Breagh es autónoma.
+- **Breagh es dueña de TODO lo orgánico**: graba, edita, publica y mira métricas. Autónoma de punta a punta.
+- **Brian es SOLO pauta**: graba a Breagh/estudiantes/testimonios con su equipo audiovisual para los anuncios, edita y publica pauta, maneja campañas. Los dos mundos no se cruzan salvo en la jornada de guiones de pauta (donde Brian graba a Breagh).
+- Autograbación orgánica: celular apoyado, cámara frontal, luz de ventana, tandas de 5-8 piezas por sesión. Con estudiantes, ella sostiene el celular — el selfie-casual es parte del encanto.
+
+## TIKTOK-FIRST (regla de plataforma)
+
+Lo de Instagram NO pega en TikTok (comprobado por Heiiu). Por eso el banco se graba **en gramática TikTok**: crudo, gancho en el primer segundo, hablado a cámara, sin producción — y de ahí sale el corte para IG (igual o apenas pulido), nunca al revés. Claude entrega para cada pieza **2 ganchos y 2 captions distintos: uno TikTok, uno IG/Reels**.
+
+## AGOSTO–NOVIEMBRE: Breagh fuera de la ciudad — plan de operación remota
+
+Su ausencia solo bloquea GRABAR CARAS NUEVAS — editar, programar y mirar métricas son tareas de portátil que se hacen desde cualquier lugar:
+1. **Julio = grabar el banco** (40+ crudos). Es lo único que exige presencia física.
+2. **Ago-Nov = Breagh opera remoto 2-3 horas/semana**: edita del banco, programa (TikTok Studio web y Meta Business Suite programan con semanas de anticipación) y revisa métricas.
+3. **Sus 1-2 visitas** = tandas nuevas de grabación (se agenda la sesión ANTES de que llegue, con la lista de piezas lista).
+4. **Colchón**: en la última semana de julio se deja PROGRAMADO al menos agosto completo — si un mes no puede tocar nada, el canal no se apaga.
+5. Claude sigue todo el tiempo: tanda de errores nueva cada semana (de los tickets), ganchos/captions por plataforma, y **análisis de métricas**: Breagh manda pantallazos o export semanal → Claude responde qué funcionó (retención, guardados, compartidos), qué matar y cómo abrir la siguiente tanda.
 
 ## Reglas (protegen a Breagh y a la marca)
 
