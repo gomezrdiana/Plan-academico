@@ -21,6 +21,20 @@ Piezas donde alterna inglés/español natural: "cómo pedir un aumento en inglé
 **F4 · "Un día en Heiiu" / detrás de cámaras**
 La sede, el tablero con la Frase del Día, los rituales (sin explicar el método — se muestra el QUÉ, jamás el CÓMO pedagógico), su propia historia con el inglés. Humaniza sin regalar la IP.
 
+**F5 · STORYTELLING (el pegamento de todo el banco)**
+No solo tips — historias con arco (gancho → conflicto → giro → resolución → CTA suave):
+- **La historia de Breagh por capítulos**: qué significa crecer bilingüe, el momento en que el inglés le abrió una puerta, qué le diría a su yo de 15 años. Ella ES la historia de la marca — se cuenta en serie (cap. 1, 2, 3…), no en un solo video.
+- **Arcos de estudiantes** (con su consentimiento): "llegó sin poder pedir un café → hoy presentó 7 minutos en inglés". Se cuentan con la voz de Breagh + clips/fotos del estudiante; el antes/después ES el arco.
+- **Micro-historias de aula**: "esta semana un estudiante dijo X y pasó Y" (anónimo, real, con moraleja de aprendizaje).
+- Regla narrativa: cada historia deja UNA emoción (orgullo, identificación, ganas) — no un argumento de venta. La venta va en el caption, no en el relato.
+
+## CÓMO SE GRABA (Brian NO tiene que estar)
+
+**Breagh se autograba** — es el flujo estándar de cualquier creadora y da más volumen que depender de agenda ajena:
+- F1, F3, F4 y F5: celular apoyado (vaso, libros, mini-trípode de $30 mil), cámara frontal, luz de ventana, audio cerca. Graba tandas de 5-8 piezas por sesión.
+- F2 (con estudiantes): ella misma sostiene el celular — el formato selfie-casual es parte del encanto.
+- **Brian recibe el material crudo (Drive/WhatsApp) y su rol es EDITAR y PUBLICAR**: cortes, subtítulos, portada, calendario. Solo necesita estar presente en la jornada de pauta (guiones a cámara) — para todo lo demás, Breagh es autónoma.
+
 ## Reglas (protegen a Breagh y a la marca)
 
 1. **Todo se graba y se cura ANTES de publicar** — nada de lives improvisados ni interacción en vivo con desconocidos. Brian edita, Diana aprueba las primeras tandas; después de calibrar, aprueba solo formatos nuevos.

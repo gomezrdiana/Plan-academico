@@ -67,6 +67,7 @@ Regla: se publica lo que la persona DIJO. Se puede cortar, no reescribir.
 ## 5. Pipeline semanal (entra al ritmo comercial de la sesión batch)
 
 1. **Captura** → carpeta `recursos/prueba_social/{cohorte}/{fecha}/` (crudo + autorización escaneada juntas — sin autorización el archivo no entra).
+   - **Quién sube qué (regla de acceso):** los profesores NUNCA tocan el repositorio ni carpetas compartidas (protección IP) — ellos solo ENTREGAN físico (reportes, tickets, error papers) o envían foto al WhatsApp de coordinación. **La administrativa (auxiliar) o Diana** fotografían/recogen y suben a UNA carpeta de intercambio (Drive de coordinación), y Diana la baja al repo en la sesión semanal. Un solo canal de entrada, cero acceso de profes.
 2. **Procesa Claude (Opus):** por cada pieza → copy para pauta (3 variantes), caption orgánico, y 1 "tarjeta de cierre" (frase + dato real) para María Eugenia.
 3. **Brian** convierte en creativos de pauta y mide cuál rinde (entra al reporte del embudo).
 4. **María Eugenia** mantiene en su celular las 5 mejores piezas vigentes para mostrar EN la cita (mostrar > contar).
