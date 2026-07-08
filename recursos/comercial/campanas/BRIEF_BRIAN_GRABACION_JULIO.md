@@ -8,28 +8,46 @@ Dejamos de competir por precio y empezamos a vender **evidencia**: Heiiu es la �
 
 ---
 
-## 1. QUÉ GRABAR MAÑANA (una sola visita, con celular basta)
+## 1. QUÉ GRABAR MAÑANA — jornada de TARDE, SIN clases en vivo, SIN Diana en cámara
 
-**A. Clase viva (lo más importante — 30-60 seg por clip, mínimo 4-5 clips)**
-- Una **simulación en acción**: estudiantes de pie haciendo una entrevista de trabajo / atención a cliente simulada. Grabar 2-3 min corridos y luego cortamos.
-- El **drill de movimiento**: estudiantes de pie respondiendo en cadena, con ritmo. Transmite energía — es lo contrario a la academia de pupitre y cuaderno.
-- El **tablero con la Frase del Día** y estudiantes usándola.
-- Momento de **corrección colectiva**: el profe construyendo en tablero desde errores (sin mostrar nombres).
-- Regla de oro: la clase NO se interrumpe ni se actúa. Se graba lo que pasa. Si se ve imperfecto, mejor — imperfecto real vende más que actuado.
+**A. Guiones a cámara (el plato fuerte — los guiones del 26/06 fueron diseñados para esto):**
+- Grabar los guiones ya escritos de **"3 preguntas antes de pagar academia"**, **Bootcamp Express** y **B2+ Fluido** + los 2 NUEVOS de la sección 1-BIS (Mentoría 1-a-1 y Sabatino).
+- **Quién presenta (en orden de preferencia):** Breagh (su rol definido es exactamente contenido pregrabado con guion) → un profesor con carisma que quiera → María Eugenia. **Si nadie está disponible mañana: voz en off + b-roll + subtítulos** — los guiones ya traen la columna de subtítulos y efectos; funcionan sin rostro.
+- Diana NO aparece en cámara (decisión firme). Si se quiere su presencia, máximo VOZ en off sin rostro — opcional, no necesario.
 
-**B. Testimonios (60-90 seg c/u, mínimo 2-3)**
-- Estudiantes actuales con buena historia + si se puede, **1-2 graduados del B2 que terminaron en junio** (Diana los invita — son la prueba de resultado final).
-- Las 4 preguntas (quien graba las hace fuera de cámara, el estudiante responde mirando a cámara o a quien pregunta):
+**B. Testimonios agendados (la joya de la tarde — no necesitan clase):**
+- Diana invita a **2-3 personas a la sede a la hora de la grabación**: idealmente 1-2 **graduados del B2 de junio** + 1 estudiante actual con buena historia. 10-15 min por persona.
+- Las 4 preguntas (se hacen fuera de cámara; la persona responde natural):
   1. ¿Cómo era tu inglés (o tu miedo) cuando llegaste a Heiiu?
   2. ¿Qué fue lo más difícil y qué te sorprendió del método?
   3. ¿Qué has logrado? (algo concreto: presentación, entrevista, conversación real)
   4. ¿A quién se lo recomendarías y por qué?
 - Se publica lo que la persona DIJO. Se puede cortar, jamás reescribir ni exagerar.
 
-**C. Diana fundadora (60-90 seg, 1 sola toma buena)**
-- A cámara, sin guion rígido: por qué existe Heiiu, qué exige de sus estudiantes, y la garantía real ("si cumples tu parte y no aprendes, te devolvemos tu dinero"). La exigencia ES el mensaje — atrae al que paga y espanta al que deserta.
+**C. B-roll completo de sede (media hora, sirve para TODOS los videos futuros):**
+- Salones y espacios; **tablero con la Frase del Día escrita** (escribirla antes de grabar); libros oficiales; tickets/error papers apilados (sin nombres legibles); fachada/entrada; detalles de marca.
 
-**D. B-roll (tomas de relleno, 5-10 seg c/u)**: fachada/sede, salones, libros oficiales, tickets/error papers en manos (sin nombres legibles), profe coacheando.
+**D. Clase viva = FASE 2 (no mañana):** los clips de simulaciones y drills reales se capturan después, en una mañana, SOLO con estudiantes voluntarios (se les presenta con el discurso de siempre: grabarse es fortaleza y tu historia ayuda al siguiente; el que no quiera, no sale — ángulos de espalda para el resto). Puede grabarlos Diana con su celular en cualquier clase de la mañana y enviárselos a Brian para edición — no requiere otra visita.
+
+## 1-BIS. LOS 2 GUIONES NUEVOS (mismo formato de los del 26/06 — listos para grabar mañana)
+
+**GUION 8 — Mentoría 1-a-1 (producto nunca pautado):**
+
+| Seg | Voz | Subtítulos | Efectos/CTA |
+|---|---|---|---|
+| 00-08 | ¿Quieres aprender inglés pero tu agenda no te deja? No necesitas un grupo. Necesitas un mentor. | ¿SIN TIEMPO? Mentor propio. | Texto overlay grande. |
+| 08-18 | Clases uno a uno con un profesor solo para ti. En vivo, presencial o virtual. Tu horario, tu ritmo, tus temas — las conversaciones de TU trabajo. | 1 PROFESOR SOLO PARA TI · Tu horario · Tu ritmo | Aparición progresiva. |
+| 18-25 | Paquetes desde 30 horas. Empiezas esta misma semana, sin esperar a que se abra un grupo. | PAQUETES 30 HORAS · Empieza esta semana | Cifra en pantalla. |
+| 25-30 | Toca el botón y agenda tu primera sesión. | AGENDA TU SESIÓN. Toca aquí. | CTA: 'Enviar mensaje'. Cupos limitados. |
+
+**GUION 9 — Sabatino (entrada continua = urgencia real cada semana):**
+
+| Seg | Voz | Subtítulos | Efectos/CTA |
+|---|---|---|---|
+| 00-08 | ¿Solo tienes los sábados? Con eso basta. Y no tienes que esperar a que empiece un grupo. | SOLO SÁBADOS · Sin esperar | Texto overlay grande. |
+| 08-18 | En Heiiu los sábados entras CUALQUIER semana: avanzas a tu propio ritmo, con profesor en vivo, hasta completar tu nivel. | ENTRA CUALQUIER SÁBADO · Tu ritmo · Profe en vivo | Animación calendario. |
+| 18-25 | Cuatro horas cada sábado. Tu nivel completo, certificado. Sin paquetes, sin ataduras: un nivel a la vez. | 4 HORAS/SÁBADO · Un nivel a la vez | Aparición progresiva. |
+| 25-30 | Empieza ESTE sábado. Toca el botón y aparta tu cupo. | EMPIEZA ESTE SÁBADO. Toca aquí. | CTA: 'Enviar mensaje'. Cupos limitados. |
 
 ## 2. REGLAS LEGALES Y DE MARCA (no negociables)
 
