@@ -13,14 +13,14 @@
 | | | | | ____ / 110 | | |
 | | | | | ____ / 110 | | |
 
-\* Tipo: **R** = sabatino regular · **REC** = recuperador de entre semana (máx 2/mes, avisado a coordinación) · **C** = continuidad juvenil
+(*) Tipo: **R** = sabatino regular · **REC** = recuperador de entre semana (máx 2/mes, avisado a coordinación) · **C** = continuidad juvenil
 
-\** Estado: **N** = nuevo (primera sesión: Carta del Futuro + rituales) · **M** = en módulo · **PF** = proyecto final · **PE** = pre-examen (repaso dirigido)
+(**) Estado: **N** = nuevo (primera sesión: Carta del Futuro + rituales) · **M** = en módulo · **PF** = proyecto final · **PE** = pre-examen (repaso dirigido)
 
 **Recordatorio del libro A2:** 37 módulos reales — M4, M9, M19, M25, M31, M35 y M40 NO existen: se saltan al siguiente. Nunca se inventa contenido.
 
 **Notas del sábado (profe):** módulos avanzados por cada estudiante hoy + horas firmadas:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+________________________________________________________________________
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+________________________________________________________________________
