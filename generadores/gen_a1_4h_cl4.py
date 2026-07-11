@@ -11,10 +11,10 @@ from generate_pdfs import get_styles, build_report_v2
 
 S = get_styles()
 D = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-A1_4H = os.path.join(D, 'A1', '4h')
+A1_4H = os.path.join(D, 'VERSION_2', 'A1_4H')
 os.makedirs(A1_4H, exist_ok=True)
 
-md_to_pdf(os.path.join(A1_4H, 'A1_4h_Class4_PRINT.md'), os.path.join(A1_4H, 'A1_4h_Class4_GUIA.pdf'))
+md_to_pdf(os.path.join(A1_4H, 'A1_4h_Class4_PRINT.md'), os.path.join(A1_4H, 'GUIAS', 'A1_4h_Class4_GUIA.pdf'))
 print('OK: A1_4h_Class4_GUIA.pdf')
 
 act = [
@@ -55,7 +55,7 @@ ev = [
     'NO comente nada de evaluaciones',
     'Anuncie Cl 5 = Where do we eat? - the present (M8 del libro)',
 ]
-build_report_v2(os.path.join(A1_4H, 'A1_4h_Class4_REPORTE.pdf'),
+build_report_v2(os.path.join(A1_4H, 'REPORTES', 'A1_4h_Class4_REPORTE.pdf'),
     'A1 INTENSIVO 4H | Clase 4 | M6 WILL + WHAT TIME + M7 THE + PLACES | PRUDENCIA v1 | FRASE DEL DIA',
     'M6 futuro simple will/won\'t + what time + at (p.73) con rutina diaria (p.72) + M7 articulo the (tha/thiy) + lugares house/apartment/school/park/office/pool/restaurant + swim/work/eat (p.90) + MY PLAN TODAY (p.75) + simulacion HOTEL FRONT DESK + MY WORLD pieza 4',
     act, deliv, ev, S)

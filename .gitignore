@@ -4,7 +4,7 @@
 
 # REPORTES INDIVIDUALES POR ESTUDIANTE (1.1 GB — fotos / PDFs personales)
 # Si necesitas versionar alguno específico, lo agregamos manualmente
-B2/reportes/
+VERSION_1/B2/reportes/
 
 # BACKUP HISTÓRICO antes del clean (1.6 MB — ya es backup, no versionar de nuevo)
 backup_pre_clean/

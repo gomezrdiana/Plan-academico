@@ -12,10 +12,10 @@ from generate_pdfs import get_styles, build_report_v2
 
 S = get_styles()
 D = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-A1_4H = os.path.join(D, 'A1', '4h')
+A1_4H = os.path.join(D, 'VERSION_2', 'A1_4H')
 os.makedirs(A1_4H, exist_ok=True)
 
-md_to_pdf(os.path.join(A1_4H, 'A1_4h_Class1_PRINT.md'), os.path.join(A1_4H, 'A1_4h_Class1_GUIA.pdf'))
+md_to_pdf(os.path.join(A1_4H, 'A1_4h_Class1_PRINT.md'), os.path.join(A1_4H, 'GUIAS', 'A1_4h_Class1_GUIA.pdf'))
 print('OK: A1_4h_Class1_GUIA.pdf')
 
 act = [
@@ -56,7 +56,7 @@ ev = [
     'Cero material impreso preparado: todo en tablero',
     'Anuncie Cl 2 = What can you play? (M2+M3 del libro)',
 ]
-build_report_v2(os.path.join(A1_4H, 'A1_4h_Class1_REPORTE.pdf'),
+build_report_v2(os.path.join(A1_4H, 'REPORTES', 'A1_4h_Class1_REPORTE.pdf'),
     'A1 INTENSIVO 4H | Clase 1 | M0 PRONUNCIACION + M1 CAN - STRUCTURE | PRUDENCIA v1 | FRASE DEL DIA',
     'Primera clase del cohorte: rituales permanentes + cronograma del nivel + M0 8 trucos de pronunciacion (p.4) + M1 marco Sujeto/Ayudante/(Not)/Verbo/Complemento con CAN (p.9) + historia interactiva + simulacion THE SPORTS CLUB + Carta a Mi Yo del Futuro + MY WORLD pieza 1',
     act, deliv, ev, S)

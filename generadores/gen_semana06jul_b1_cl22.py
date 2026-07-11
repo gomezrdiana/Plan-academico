@@ -14,12 +14,12 @@ from generate_pdfs import get_styles, build_report_v2
 
 S = get_styles()
 D = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CV = os.path.join(D, 'B1', 'B1_conversacional_V2')
-GV = os.path.join(D, 'B1', 'B1_gramatica_V2')
+B1 = os.path.join(D, 'VERSION_2', 'B1_4H')
+os.makedirs(B1, exist_ok=True); os.makedirs(os.path.join(B1, 'GUIAS'), exist_ok=True); os.makedirs(os.path.join(B1, 'REPORTES'), exist_ok=True)
 
 # ---------------- CONV ----------------
-md_to_pdf(os.path.join(CV, 'B1_Clase22_CONV_PRINT.md'),
-          os.path.join(CV, 'B1_Clase22_CONV_GUIA.pdf'))
+md_to_pdf(os.path.join(B1, 'B1_Clase22_CONV_PRINT.md'),
+          os.path.join(B1, 'GUIAS', 'B1_Clase22_CONV_GUIA.pdf'))
 print('OK: B1_Clase22_CONV_GUIA.pdf')
 
 act_c = [
@@ -53,15 +53,15 @@ eva_c = [
     'Anuncie Cl 23 (experiencia abierta vs evento fechado)',
 ]
 build_report_v2(
-    os.path.join(CV, 'B1_Clase22_CONV_REPORTE.pdf'),
+    os.path.join(B1, 'REPORTES', 'B1_Clase22_CONV_REPORTE.pdf'),
     'B1 MASTERY | Cl 22 de 44 | CONV | MIDTERM PRESENTATIONS INTEGRADAS | PRUDENCIA v2 dia 2',
     '"My Story, My Goals" 5 min c/u, orden por sorteo, observers con tarea, profe cronometro/coach. SIN rubrica separada, SIN resultados (coordinacion evalua). 1er chequeo publico de portafolio. PASE a Grammar con gaps literales.',
     act_c, del_c, eva_c, S)
 print('OK: B1_Clase22_CONV_REPORTE.pdf')
 
 # ---------------- GRAMMAR ----------------
-md_to_pdf(os.path.join(GV, 'B1_Clase22_GRAMMAR_PRINT.md'),
-          os.path.join(GV, 'B1_Clase22_GRAMMAR_GUIA.pdf'))
+md_to_pdf(os.path.join(B1, 'GUIAS', 'B1_Clase22_GRAMMAR_PRINT.md'),
+          os.path.join(B1, 'GUIAS', 'B1_Clase22_GRAMMAR_GUIA.pdf'))
 print('OK: B1_Clase22_GRAMMAR_GUIA.pdf')
 
 act_g = [
@@ -96,7 +96,7 @@ eva_g = [
     'Virtud PRUDENCIA v2 dia 2; anuncie Cl 23 = M17 (cerrado vs abierto)',
 ]
 build_report_v2(
-    os.path.join(GV, 'B1_Clase22_GRAMMAR_REPORTE.pdf'),
+    os.path.join(B1, 'REPORTES', 'B1_Clase22_GRAMMAR_REPORTE.pdf'),
     'B1 MASTERY | Cl 22 de 44 | GRAMMAR (~86% DE PIE) | M16 PRESENT PERFECT IRREGULAR | clase regular',
     'A2 Book M16 "I Have Gone to Paris" (p.147-150): participios irregulares en papel + The Handover con observadores activos. El midterm corrio en Conv (SUPUESTO: track no especificado en Cl 1); aqui cero comentarios de resultados. PRUDENCIA v2 dia 2.',
     act_g, del_g, eva_g, S)

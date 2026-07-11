@@ -12,10 +12,10 @@ from generate_pdfs import get_styles, build_report_v2
 
 S = get_styles()
 D = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-A1_4H = os.path.join(D, 'A1', '4h')
+A1_4H = os.path.join(D, 'VERSION_2', 'A1_4H')
 os.makedirs(A1_4H, exist_ok=True)
 
-md_to_pdf(os.path.join(A1_4H, 'A1_4h_Class5_PRINT.md'), os.path.join(A1_4H, 'A1_4h_Class5_GUIA.pdf'))
+md_to_pdf(os.path.join(A1_4H, 'A1_4h_Class5_PRINT.md'), os.path.join(A1_4H, 'GUIAS', 'A1_4h_Class5_GUIA.pdf'))
 print('OK: A1_4h_Class5_GUIA.pdf')
 
 act = [
@@ -56,7 +56,7 @@ ev = [
     'Tarea con due date explicito (Cl 6 before 7:00 PM), 15-20 min, NO fragmentada + portafolio diario',
     'Anuncie Cl 6 SOLO como SPECIAL SESSION (cero detalles de formato/contenido/evaluacion)',
 ]
-build_report_v2(os.path.join(A1_4H, 'A1_4h_Class5_REPORTE.pdf'),
+build_report_v2(os.path.join(A1_4H, 'REPORTES', 'A1_4h_Class5_REPORTE.pdf'),
     'A1 INTENSIVO 4H | Clase 5 | M8 SIMPLE PRESENT DO/DOES | PRUDENCIA v1 | FRASE DEL DIA',
     'M8 presente simple con do/does (p.100): unico tiempo con dos auxiliares, tabla he/she/it=does, don\'t/doesn\'t, respuestas cortas + historia rutina del perro + simulacion THE GYM REGISTRATION DESK (formulario oral que integra Cl 1-4) + MY WORLD pieza 5 (my habits) + anuncio Cl 6 special session',
     act, deliv, ev, S)

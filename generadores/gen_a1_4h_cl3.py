@@ -11,10 +11,10 @@ from generate_pdfs import get_styles, build_report_v2
 
 S = get_styles()
 D = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-A1_4H = os.path.join(D, 'A1', '4h')
+A1_4H = os.path.join(D, 'VERSION_2', 'A1_4H')
 os.makedirs(A1_4H, exist_ok=True)
 
-md_to_pdf(os.path.join(A1_4H, 'A1_4h_Class3_PRINT.md'), os.path.join(A1_4H, 'A1_4h_Class3_GUIA.pdf'))
+md_to_pdf(os.path.join(A1_4H, 'A1_4h_Class3_PRINT.md'), os.path.join(A1_4H, 'GUIAS', 'A1_4h_Class3_GUIA.pdf'))
 print('OK: A1_4h_Class3_GUIA.pdf')
 
 act = [
@@ -55,7 +55,7 @@ ev = [
     'Tarea con due date explicito (Cl 4 before 7:00 PM), 15-20 min, NO fragmentada + portafolio diario',
     'Anuncie Cl 4 = What time will you eat lunch? (M6+M7 del libro)',
 ]
-build_report_v2(os.path.join(A1_4H, 'A1_4h_Class3_REPORTE.pdf'),
+build_report_v2(os.path.join(A1_4H, 'REPORTES', 'A1_4h_Class3_REPORTE.pdf'),
     'A1 INTENSIVO 4H | Clase 3 | M4 SHOULD + WHERE + M5 NUMBERS TO 100 | PRUDENCIA v1 | FRASE DEL DIA',
     'M4 recomendaciones con should/shouldn\'t + where + in (p.43) + M5 numeros 0-100, horas (two ten / two oh eight / six o\'clock) y precios (seven thirty-five) (p.62-63) + historia interactiva donde vivir + simulacion THE TRAVEL DESK + MY WORLD pieza 3',
     act, deliv, ev, S)

@@ -9,10 +9,10 @@ from generate_pdfs import get_styles, build_report_v2
 
 S = get_styles()
 D = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-A2V2 = os.path.join(D, 'A2', 'V2')
-os.makedirs(A2V2, exist_ok=True)
+A2_2H = os.path.join(D, 'VERSION_2', 'A2_2H')
+os.makedirs(A2_2H, exist_ok=True)
 
-md_to_pdf(os.path.join(A2V2, 'A2_Class15_PRINT.md'), os.path.join(A2V2, 'A2_Class15_GUIA.pdf'))
+md_to_pdf(os.path.join(A2_2H, 'A2_Class15_PRINT.md'), os.path.join(A2_2H, 'GUIAS', 'A2_Class15_GUIA.pdf'))
 print('OK: A2_Class15_GUIA.pdf')
 
 acts = [
@@ -44,7 +44,7 @@ ev = [
     'CERO material impreso preparado; todo en tablero',
     'NO mencione GoldList; NO comunique nada de evaluaciones (coordinacion)',
 ]
-build_report_v2(os.path.join(A2V2, 'A2_Class15_REPORTE.pdf'),
+build_report_v2(os.path.join(A2_2H, 'REPORTES', 'A2_Class15_REPORTE.pdf'),
     'A2 PM NOCHE | Clase 15 de 55 | M17 PAST SIMPLE vs PRESENT PERFECT | JUSTICIA v1 dia 5',
     'M17 You Didn\'t, or You Haven\'t? (pasado = punto especifico / perfecto = periodo abierto o no especificado, p.163-172) + drill fisico Past side / Perfect side + primer chequeo publico de portafolio',
     acts, deliv, ev, S)

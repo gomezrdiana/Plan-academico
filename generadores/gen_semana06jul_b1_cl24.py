@@ -14,12 +14,12 @@ from generate_pdfs import get_styles, build_report_v2
 
 S = get_styles()
 D = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CV = os.path.join(D, 'B1', 'B1_conversacional_V2')
-GV = os.path.join(D, 'B1', 'B1_gramatica_V2')
+CV = os.path.join(D, 'VERSION_2', 'B1_4H')
+GV = os.path.join(D, 'VERSION_2', 'B1_4H')
 
 # ---------------- CONV ----------------
-md_to_pdf(os.path.join(CV, 'B1_Clase24_CONV_PRINT.md'),
-          os.path.join(CV, 'B1_Clase24_CONV_GUIA.pdf'))
+md_to_pdf(os.path.join(B1, 'B1_Clase24_CONV_PRINT.md'),
+          os.path.join(B1, 'GUIAS', 'B1_Clase24_CONV_GUIA.pdf'))
 print('OK: B1_Clase24_CONV_GUIA.pdf')
 
 act_c = [
@@ -52,15 +52,15 @@ eva_c = [
     'Anuncie Cl 25 (actividades como sujeto)',
 ]
 build_report_v2(
-    os.path.join(CV, 'B1_Clase24_CONV_REPORTE.pdf'),
+    os.path.join(B1, 'REPORTES', 'B1_Clase24_CONV_REPORTE.pdf'),
     'B1 MASTERY | Cl 24 de 44 | CONV | MY WORK EXPLAINED + BRIDGE FORMAL/CASUAL | PRUDENCIA v2 dia 4',
     'Procesos reales en 6 pasos ("the order is received...") + doble produccion formal<->casual con contraste. Grammar formaliza M18 hoy mismo. PASE bidireccional.',
     act_c, del_c, eva_c, S)
 print('OK: B1_Clase24_CONV_REPORTE.pdf')
 
 # ---------------- GRAMMAR ----------------
-md_to_pdf(os.path.join(GV, 'B1_Clase24_GRAMMAR_PRINT.md'),
-          os.path.join(GV, 'B1_Clase24_GRAMMAR_GUIA.pdf'))
+md_to_pdf(os.path.join(B1, 'B1_Clase24_GRAMMAR_PRINT.md'),
+          os.path.join(B1, 'GUIAS', 'B1_Clase24_GRAMMAR_GUIA.pdf'))
 print('OK: B1_Clase24_GRAMMAR_GUIA.pdf')
 
 act_g = [
@@ -94,7 +94,7 @@ eva_g = [
     'Virtud PRUDENCIA v2 dia 4; anuncie Cl 25 = M20 (M19 NO existe — verificado)',
 ]
 build_report_v2(
-    os.path.join(GV, 'B1_Clase24_GRAMMAR_REPORTE.pdf'),
+    os.path.join(B1, 'REPORTES', 'B1_Clase24_GRAMMAR_REPORTE.pdf'),
     'B1 MASTERY | Cl 24 de 44 | GRAMMAR (~86% DE PIE) | M18 PASSIVE VOICE (M19 NO EXISTE)',
     'A2 Book M18 "You Are Loved!" (p.173-175): to be + participio regular, agente con by o eliminado + Company Tour con observadores activos. Anuncio Cl 25 = M20 "Playing is Fun!" (el libro salta M19). PRUDENCIA v2 dia 4.',
     act_g, del_g, eva_g, S)

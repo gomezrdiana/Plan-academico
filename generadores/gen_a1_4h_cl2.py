@@ -11,10 +11,10 @@ from generate_pdfs import get_styles, build_report_v2
 
 S = get_styles()
 D = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-A1_4H = os.path.join(D, 'A1', '4h')
+A1_4H = os.path.join(D, 'VERSION_2', 'A1_4H')
 os.makedirs(A1_4H, exist_ok=True)
 
-md_to_pdf(os.path.join(A1_4H, 'A1_4h_Class2_PRINT.md'), os.path.join(A1_4H, 'A1_4h_Class2_GUIA.pdf'))
+md_to_pdf(os.path.join(A1_4H, 'A1_4h_Class2_PRINT.md'), os.path.join(A1_4H, 'GUIAS', 'A1_4h_Class2_GUIA.pdf'))
 print('OK: A1_4h_Class2_GUIA.pdf')
 
 act = [
@@ -54,7 +54,7 @@ ev = [
     'NO comente nada de evaluaciones (cronograma ya anunciado en Cl 1)',
     'Anuncie Cl 3 = recommendations and numbers (M4+M5 del libro)',
 ]
-build_report_v2(os.path.join(A1_4H, 'A1_4h_Class2_REPORTE.pdf'),
+build_report_v2(os.path.join(A1_4H, 'REPORTES', 'A1_4h_Class2_REPORTE.pdf'),
     'A1 INTENSIVO 4H | Clase 2 | M2 WHAT + PRONOMBRES + M3 SHORT ANSWER | PRUDENCIA v1 | FRASE DEL DIA',
     'M2 palabra interrogativa what + pronombres sujetos I/you/he/she/it/we/they (p.20-21) + M3 respuesta corta Yes I can / No I can\'t (p.34) + historia interactiva con pronombres + simulacion TEAM TRYOUT + MY WORLD pieza 2 (my people)',
     act, deliv, ev, S)

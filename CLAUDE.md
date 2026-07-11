@@ -28,10 +28,14 @@ El contenido pedagógico sale del **libro oficial** (carpeta `Libros/`) tal cual
 
 Dependencia: **reportlab** (no hay `requirements.txt`; asúmelo instalado). Entorno **Windows**.
 
-**Estructura:** los 2 motores (`gen_a1_a2_clases_pdfs.py` y `generate_pdfs.py`) viven en la **raíz**; todos los generadores por clase están en **`generadores/`**. Siempre se corren **desde la raíz**: `python generadores/gen_xxx.py` (cada generador mete la raíz en `sys.path` y escribe sus PDFs en las carpetas de nivel `A1/ A2/ B1/ B2/`). NO ejecutar con `cd generadores/`.
+**Estructura:** los 2 motores (`gen_a1_a2_clases_pdfs.py` y `generate_pdfs.py`) viven en la **raíz**; todos los generadores por clase están en **`generadores/`**. Siempre se corren **desde la raíz**: `python generadores/gen_xxx.py` (cada generador mete la raíz en `sys.path`). NO ejecutar con `cd generadores/`.
+
+**Carpetas de material (desde 10/07/2026):**
+- `VERSION_2/{NIVEL}_{4H|2H}/` = lo **vigente** (formato hoja de ruta): PRINT.md en la raíz del cohorte, PDFs en `GUIAS/` y `REPORTES/`. Las `_4H` cubren entre semana + taller sabatino (B2 no tiene sabatino). Los generadores activos escriben aquí.
+- `VERSION_1/` = **archivo**: cohortes terminados + formato viejo, incluidas las clases pasadas de cohortes activos (A2 PM viejas en `VERSION_1/A2/V2/`, B1 cohorte 2 viejas en `VERSION_1/B1/B1_*_V2/`). De ahí NO se imprime ni se regenera, pero SÍ se lee para continuidad (guía previa, N-3/N-7). Los generadores viejos que apuntan a `A1/ A2/ B1/ B2/` quedaron obsoletos a propósito — no correrlos ni "arreglarlos".
 
 - `md_to_pdf(md_path, pdf_path, max_lines_per_section=None, compact=False)` — de `gen_a1_a2_clases_pdfs.py`. Renderiza un PRINT.md a GUIA.pdf B&N. Soporta `#`/`##`/`###`, bloques de código ` ``` ` (para mapas y frases), listas `-`, `**negrita**`, tablas, blockquote `>`, y el marcador `[PAGEBREAK]`. Bloques de código muy largos (>~60 líneas) se parten solos.
-- `get_styles()` + `build_report_v2(filename, title, subtitle, activities_checklist, deliverables, selfeval, styles)` — de `generate_pdfs.py`. Genera el REPORTE.pdf de 1 página (checklist editable).
+- **Reporte v3 (vigente desde 10/07/2026):** el REPORTE.pdf lo genera `generadores/gen_reporte_v3.py` — parsea cada PRINT.md de VERSION_2 (virtud, módulo, títulos reales de los 4 bloques) y arma cuerpo fijo de plantilla + cabecera por clase. Correr tras escribir el PRINT: `python generadores/gen_reporte_v3.py {COHORTE}` (sin args = todos). (`build_report_v2` de `generate_pdfs.py` quedó obsoleto.) Ojo: el motor NO procesa escapes markdown — las líneas para escribir van con `____` planos, nunca `\_`.
 - **Generador por clase** = un `gen_*.py` en `generadores/` que importa ambas y las llama. Copia uno reciente (p. ej. `generadores/gen_b1_cl20.py`) como plantilla y guárdalo también en `generadores/`. **B1 Mastery = 2 tracks** (CONV + GRAMMAR) → 4 PDFs por clase.
 - Tras generar, **verifica en disco**: guías ~20–25 KB, reportes ~6 KB.
 
@@ -39,7 +43,7 @@ Dependencia: **reportlab** (no hay `requirements.txt`; asúmelo instalado). Ento
 
 - Fuente: `{NIVEL}_Clase{N}_{TRACK}_PRINT.md` (o `Class{N}` en A1/A2). Salida: `_GUIA.pdf` y `_REPORTE.pdf`.
 - Generadores: `gen_{nivel}_cl{N}.py`, todos dentro de `generadores/`.
-- B1 va dividido en `B1_conversacional_*` y `B1_gramatica_*`, con versiones `_V1` / `_V2` (V2 = vigente).
+- B1 lleva el track en el nombre de archivo: `B1_Clase{N}_CONV_*` y `B1_Clase{N}_GRAMMAR_*` (en el archivo VERSION_1 hay carpetas históricas `B1_conversacional_*` / `B1_gramatica_*` con `_V1`/`_V2`).
 
 ## Numeración y virtudes
 
@@ -55,6 +59,6 @@ Para delegar y ahorrar tokens: **sidis** (Fable, estrategia pura — cara, usar 
 
 ## Nota
 
-El `.gitignore` ignora `.claude/` (skills, hooks y settings quedan **solo locales**, no se suben) y `B2/reportes/` (fotos/PDF personales de estudiantes).
+El `.gitignore` ignora `.claude/` (skills, hooks y settings quedan **solo locales**, no se suben) y `VERSION_1/B2/reportes/` (fotos/PDF personales de estudiantes).
 
 **Respaldo de skills:** `documentos_operativos/skills_backup/` versiona copias de los `SKILL.md` de `.claude/skills/`. Cada vez que se modifique una skill, copiar el `SKILL.md` actualizado a esa carpeta en la misma sesión (y actualizar la fecha en su README).
