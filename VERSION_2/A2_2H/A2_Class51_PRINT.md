@@ -1,7 +1,7 @@
 # A2 · Cl 51 — HOJA DE RUTA
 
-**Virtud:** JUSTICIA (v3, dia 1 de 4) · **Contenido:** PREP PROYECTO 1 — se anuncia y se estructura la PRESENTACION FINAL (7-10 min + preguntas por estudiante). Hoy: armar el esqueleto oral (apertura + 3 partes + cierre) y primer ensayo corto en parejas. Tema: la vida real del estudiante. SOLO estructuras del libro A2.
-**Frase del Dia:** *"A fair speaker gives credit and listens well: today we build a talk about our real life — and we help each partner sound their best."*
+**Virtud:** SINTESIS (integracion de las 4 virtudes — dia 1 de 4 del bloque final) · **Contenido:** PREP PROYECTO 1 — se anuncia y se estructura la PRESENTACION FINAL (7-10 min + preguntas por estudiante). Hoy: armar el esqueleto oral (apertura + 3 partes + cierre) y primer ensayo corto en parejas. Tema: la vida real del estudiante. SOLO estructuras del libro A2.
+**Frase del Dia:** *"A prudent speaker plans the talk before speaking; a brave one stands up and shares it — today we build the skeleton of our real story."*
 
 ## BLOQUE 1 (22') — Apertura
 
@@ -53,7 +53,7 @@ HOMEWORK CL 51 — DUE: Cl 52 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion.
-- **VATS (1 pregunta, 2 respuestas max):** *"Who in your life deserves a 'thank you' you haven't given?"* (JUSTICIA) — **Anuncio:** *"Next class: full rehearsal with your classmates as your audience."*
+- **VATS (1 pregunta, 2 respuestas max):** *"When do you need PRUDENCE and COURAGE together?"* (SINTESIS) — **Anuncio:** *"Next class: full rehearsal with your classmates as your audience."*
 
 ____ Reporte firmado  ____ Error papers  ____ Tickets de salida  ____ Fotos/videos
 
@@ -80,6 +80,5 @@ ____ Reporte firmado  ____ Error papers  ____ Tickets de salida  ____ Fotos/vide
 - (SUPUESTO DE PLANEACION — verificar) Tema y formato del proyecto final ("la vida real del estudiante": rutina / trabajo-estudio / experiencias / comparaciones / planes; 7-10 min + preguntas) POR CONFIRMAR POR DIANA. No hay proyecto documentado oficialmente para este cohorte A2 PM; el midterm de Cl 26 uso "sobre ti mismo" 5 min, y esto lo extiende. Si Diana define otro tema/formato, se ajusta Cl 51-53.
 - Arco de cierre: Cl 51 prep 1 (esqueleto) → Cl 52 prep 2 (ensayo general con observers) → Cl 53 PRESENTACIONES → Cl 54 repaso pre-examen → Cl 55 Final (evaluador externo, sin guia).
 - Recuperacion N-3 (Cl 48) = present perfect + comparativos (documentado en la frontera); N-7 (Cl 44) = repaso, familias acumuladas.
-- Virtud: JUSTICIA v3 (Cl 51-54), hoy dia 1. La Frase del Dia y el VATS unen la presentacion (agradecer al publico, ayudar al companero, dar feedback justo) con justicia (gratitud, equipo).
-- (SUPUESTO DE PLANEACION — verificar) La virtud de Cl 51-54 se toma como JUSTICIA v3 por indicacion de la tarea; el CALENDARIO_VIRTUDES canonico marca A2 noche Cl 51-55 como SINTESIS. Confirmar con Diana cual rige.
+- Virtud: SINTESIS (Cl 51-55, integracion de las 4 virtudes — calendario canonico A2 noche), hoy dia 1 de 4 con guia. La Frase del Dia integra PRUDENCIA + FORTALEZA (planear la presentacion y atreverse a darla); el VATS usa una pregunta de sintesis (2 virtudes juntas).
 - NO comunicar nada de notas/criterios de evaluacion del proyecto; coordinacion evalua y comunica.

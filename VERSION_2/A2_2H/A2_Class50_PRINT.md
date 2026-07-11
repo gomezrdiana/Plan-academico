@@ -88,5 +88,5 @@ ____ Reporte firmado  ____ Error papers  ____ Tickets de salida  ____ Fotos/vide
 - Repaso parte 3, clase 2 de 2 — cierra el contenido del libro (M44 es el ultimo modulo, p.352). M40 NO existe (saltado). De aqui en adelante el arco es prep de presentacion + repaso pre-examen.
 - FRONTERA de salida: tarea de HOY = "Someone I Know" (8 frases descriptivas) + portafolio, DUE Cl 51 antes de 7:00 PM; anuncio = construir la presentacion final. Cl 51 arranca la prep del proyecto.
 - (SUPUESTO DE PLANEACION — verificar) Recuperacion N-3 (Cl 47) / N-7 (Cl 43): clases de repaso; temas exactos no documentados bajo el plan vigente → recuperacion apunta a familias acumuladas (cantidades/precios de ayer, comparativos/superlativos). Confirmar con coordinacion.
-- Virtud: TEMPLANZA v3 (Cl 46-50), hoy dia 5 (ultimo). Cierra el bloque: la Frase del Dia y el VATS unen "describir con calma, en orden, sin exagerar" con templanza. Cl 51 abre JUSTICIA v3.
+- Virtud: TEMPLANZA v3 (Cl 46-50), hoy dia 5 (ultimo). Cierra el bloque: la Frase del Dia y el VATS unen "describir con calma, en orden, sin exagerar" con templanza. Cl 51 abre SINTESIS (Cl 51-55, integracion de las 4 virtudes — calendario canonico A2 noche).
 - NO comunicar nada de presentaciones/midterm/final; coordinacion maneja.

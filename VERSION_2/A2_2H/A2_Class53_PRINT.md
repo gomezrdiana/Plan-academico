@@ -1,7 +1,7 @@
 # A2 · Cl 53 — HOJA DE RUTA (PRESENTACIONES FINALES)
 
-**Virtud:** JUSTICIA (v3, dia 3 de 4) · **Contenido:** PRESENTACIONES FINALES — cada estudiante presenta 7-10 min sobre su vida real + 2-3 preguntas del publico (dia completo de protocolo). El profe conduce y cronometra; NO evalua NI comunica resultados.
-**Frase del Dia:** *"We honor each other by listening: every classmate's story deserves our full attention and our gratitude."*
+**Virtud:** SINTESIS (integracion de las 4 virtudes — dia 3 de 4 del bloque final) · **Contenido:** PRESENTACIONES FINALES — cada estudiante presenta 7-10 min sobre su vida real + 2-3 preguntas del publico (dia completo de protocolo). El profe conduce y cronometra; NO evalua NI comunica resultados.
+**Frase del Dia:** *"It takes courage to tell your story, and justice to listen to others with gratitude — today every voice is heard with respect."*
 
 > **HOY NO HAY MODULO NUEVO.** Es el dia de presentaciones finales. TU CONDUCES y CRONOMETRAS; NO evaluas en voz alta, NO das notas, NO comunicas resultados. Tus notas van a tu libreta privada para coordinacion — coordinacion evalua y comunica. Tono de justicia: honramos cada historia escuchando bien.
 
@@ -41,7 +41,7 @@ HOMEWORK CL 53 — DUE: Cl 54 before 7:00 PM · TIME: 15-20 min. NOT fragmented.
     want to keep improving." (No written homework today.)
 ```
 
-- **VATS (1 pregunta, 2 respuestas max):** *"Whose story today taught you something? Thank one classmate."* (JUSTICIA) — **Anuncio:** *"Next class: a full review of everything we have learned this level."*
+- **VATS (1 pregunta, 2 respuestas max):** *"Which classmate showed COURAGE today — and what are you grateful for? (courage + justice, together)"* (SINTESIS) — **Anuncio:** *"Next class: a full review of everything we have learned this level."*
 
 ____ Reporte firmado  ____ Error papers  ____ Tickets de salida  ____ Notas privadas de presentaciones (coordinacion)  ____ Fotos/videos
 
@@ -74,5 +74,5 @@ ____ Reporte firmado  ____ Error papers  ____ Tickets de salida  ____ Notas priv
 - (SUPUESTO DE PLANEACION — verificar) Formato del proyecto final (7-10 min + 2-3 preguntas, tema "vida real del estudiante") por confirmar por Diana. Coherente con el midterm de Cl 26 (5 min sobre si mismo), extendido a presentacion final.
 - Hoy NO hay recuperacion espaciada formal (dia de protocolo, como el midterm Cl 26): la produccion oral de las presentaciones ES la recuperacion integrada de todo el nivel.
 - Numeracion: Cl 53 consume el numero (presentaciones integradas en guia regular, sin marcador separado — regla vigente Diana 31/05).
-- Virtud: JUSTICIA v3 (Cl 51-54), hoy dia 3. Frase del Dia + VATS + cierre = escuchar con respeto, agradecer al companero. (SUPUESTO — verificar con Diana: calendario canonico marca Cl 51-55 SINTESIS; aqui JUSTICIA v3 por indicacion de la tarea.)
+- Virtud: SINTESIS (Cl 51-55, integracion de las 4 virtudes — calendario canonico A2 noche), hoy dia 3 de 4 con guia. La Frase del Dia integra FORTALEZA + JUSTICIA (presentar con valor y escuchar con gratitud); el VATS usa una pregunta de sintesis (2 virtudes juntas).
 - Cl 54 = repaso pre-examen. Cl 55 = Final por evaluador externo (NO se genera guia). El profe NO conoce el instrumento del examen ni comunica resultados — coordinacion maneja.

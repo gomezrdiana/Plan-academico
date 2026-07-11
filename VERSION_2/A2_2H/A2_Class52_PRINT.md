@@ -1,7 +1,7 @@
 # A2 · Cl 52 — HOJA DE RUTA
 
-**Virtud:** JUSTICIA (v3, dia 2 de 4) · **Contenido:** PREP PROYECTO 2 — ensayo general de la presentacion final con observers activos (feedback estructurado anonimo). Se pulen transiciones y las preguntas del publico. SOLO estructuras del libro A2.
-**Frase del Dia:** *"A just audience gives honest, kind feedback: today we rehearse, we listen as a team, and we make every transition smooth."*
+**Virtud:** SINTESIS (integracion de las 4 virtudes — dia 2 de 4 del bloque final) · **Contenido:** PREP PROYECTO 2 — ensayo general de la presentacion final con observers activos (feedback estructurado anonimo). Se pulen transiciones y las preguntas del publico. SOLO estructuras del libro A2.
+**Frase del Dia:** *"A just audience gives honest feedback, and a temperate one gives it calmly and kindly — today we rehearse and make every transition smooth."*
 
 ## BLOQUE 1 (22') — Apertura
 
@@ -48,7 +48,7 @@ HOMEWORK CL 52 — DUE: Cl 53 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion.
-- **VATS (1 pregunta, 2 respuestas max):** *"When did you work well in a team — and when badly?"* (JUSTICIA) — **Anuncio:** *"Next class: presentation day — you tell your story. Rehearse tonight and trust your practice."*
+- **VATS (1 pregunta, 2 respuestas max):** *"TEMPERANCE and JUSTICE — how do they look together?"* (SINTESIS) — **Anuncio:** *"Next class: presentation day — you tell your story. Rehearse tonight and trust your practice."*
 
 ____ Reporte firmado  ____ Error papers  ____ Tickets de salida  ____ Fotos/videos
 
@@ -70,5 +70,5 @@ ____ Reporte firmado  ____ Error papers  ____ Tickets de salida  ____ Fotos/vide
 - (SUPUESTO DE PLANEACION — verificar) Tema/formato del proyecto final por confirmar por Diana (ver NOTA de Cl 51). El ensayo general asume 7-10 min + 2-3 preguntas por estudiante.
 - FRONTERA de salida: la tarea de HOY es ENSAYO FINAL de la presentacion + portafolio, DUE Cl 53 (dia de presentaciones) antes de 7:00 PM. Cl 53 = protocolo de presentaciones finales.
 - Recuperacion N-3 (Cl 49) = cantidades/precios; N-7 (Cl 45) = repaso, familias acumuladas (present perfect).
-- Virtud: JUSTICIA v3 (Cl 51-54), hoy dia 2. La Frase del Dia y el VATS unen el feedback anonimo y el trabajo de la audiencia con justicia (honestidad amable, equipo). (SUPUESTO — verificar con Diana: el calendario canonico marca Cl 51-55 como SINTESIS; aqui se usa JUSTICIA v3 por indicacion de la tarea.)
+- Virtud: SINTESIS (Cl 51-55, integracion de las 4 virtudes — calendario canonico A2 noche), hoy dia 2 de 4 con guia. La Frase del Dia integra JUSTICIA + TEMPLANZA (feedback honesto dado con calma); el VATS usa una pregunta de sintesis (2 virtudes juntas).
 - NO comunicar notas ni criterios de evaluacion; coordinacion evalua.
