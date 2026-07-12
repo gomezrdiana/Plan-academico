@@ -41,7 +41,7 @@ Diana no quiere pagar por referidos (instinto correcto: la gente refiere cuando 
 
 ## ARMA 4 — EVIDENCIA EXTERNA GRATIS YA: EF SET (mientras llega TOEFL)
 
-TOEFL como centro certificado quedó pendiente por caja. Mientras tanto: **EF SET** — test estandarizado online, alineado al MCER, **gratuito**, con certificado digital de URL verificable (`SUPUESTO — verificar vigencia y condiciones actuales de EF SET antes de anunciarlo`).
+TOEFL como centro certificado quedó pendiente por caja. Mientras tanto: **EF SET** — test estandarizado online, alineado al MCER (A1-C2), **gratuito**, 50 minutos (reading + listening adaptativo), con certificado digital de URL verificable para LinkedIn/CV. **VERIFICADO 12/07/2026 en efset.org: sin costo, certificado incluido.**
 
 - Cada estudiante lo presenta al CERRAR su nivel (además del evaluador externo interno): certificado externo compartible en redes/CV desde el primer nivel.
 - Efectos: prueba social espontánea (el estudiante publica su certificado = marketing gratis), progreso A1→B2 auditable por cualquiera, y respuesta a "¿y ustedes qué certifican?". Cuando haya caja, se escala a TOEFL — la base de datos de EF SET servirá para demostrar el histórico.

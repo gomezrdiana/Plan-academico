@@ -26,5 +26,9 @@ El contrato de 24 no tiene NINGUNA cláusula de beca (y casi todo se vende con b
 ## CAMBIO 6 — Menor (consistencia sabatina)
 Cláusula 8/17 hablan de paquetes: añadir remisión "los horarios sabatinos se rigen por la cláusula de venta individual por nivel" (ya implícito en la práctica; en el contrato de 31 es la cláusula 20).
 
+## CAMBIO 7 — Cláusula nueva: GARANTÍA DE RESULTADO CONDICIONADA (agregado 12/07 — ver SISTEMA_EVIDENCIA_HEIIU.md)
+**Texto propuesto:** "GARANTÍA HEIIU: si el ESTUDIANTE acredita (a) asistencia igual o superior al noventa por ciento (90%) de las clases del nivel, (b) cumplimiento de tareas igual o superior al noventa por ciento (90%) y (c) portafolio de práctica al día, todo según los registros de asistencia y reportes de la academia, y no aprueba la evaluación final del nivel aplicada por el evaluador externo, HEIIU proporcionará sin costo adicional las horas de refuerzo necesarias en el horario sabatino hasta la siguiente aplicación de la evaluación, por una única vez por nivel. Esta garantía no comprende devolución de dinero ni extensión de otros beneficios, y se pierde de pleno derecho por el incumplimiento de cualquiera de las condiciones anteriores."
+**Por qué:** convierte la objeción de precio en cierre ("no compras horas, compras un resultado con respaldo"); riesgo financiero acotado a horas de taller sabatino ya existentes (profe por hora); condiciones 100% verificables con los registros del sistema (Ley 1480: solo se promete lo que se puede probar y cumplir).
+
 ## NO CAMBIAR (ya está bien)
 Cláusula 4 (propiedad intelectual del material) · 9 (1-a-1 mínimo 30h) · 23 (habeas data) · 24 (autorización imagen — base de toda la prueba social) · 12 (asistencia 80% — coherente con la condición de beca propuesta).
