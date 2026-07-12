@@ -1,31 +1,23 @@
-# CONTRATO DE PROFESOR — BORRADOR DE CLÁUSULAS PARA EL ABOGADO
+# CONTRATO DE PROFESOR — ESTADO REAL Y 3 VACÍOS (corrige la versión anterior de este doc)
 
-> 12/07/2026. Hoy NO existe contrato de profesor (el de 31/24 cláusulas es del estudiante). Este borrador es la lista de cláusulas que Heiiu necesita — el abogado le da forma legal. **Nada de material global (manuales, banco de guías) se entrega a un profesor sin firma previa.**
+> 12/07/2026. **El contrato SÍ existe:** `contratos/PLANTILLA_CONTRATO_HORA_CATEDRA_HEIIU_2026_v2.md/.docx/.pdf` — y es fuerte: Material Protegido definido (Cl. QUINTA), ejecución obligatoria de la guía del día (Cuarta #16), reporte firmado por clase (Cuarta #18), confidencialidad post-empleo 5 años (SEXTA), devolución de material en 3 días (SÉPTIMA), cláusula penal escalonada 5/15/30 SMLMV (OCTAVA), terminación inmediata por violación IP. Además existe el contrato viejo firmado (Margarita, feb 2025, auditado ICONTEC).
 
-## ADVERTENCIA PREVIA PARA EL ABOGADO
-El modelo actual es pago por hora dictada. Definir con el abogado la figura correcta (prestación de servicios vs laboral) y blindar el **riesgo de "contrato realidad"** (horarios fijos + subordinación pueden configurar relación laboral aunque el papel diga otra cosa). Esa decisión es del abogado; las cláusulas de abajo aplican en cualquiera de las dos figuras.
+## LO QUE REALMENTE FALTA
 
-## CLÁUSULAS QUE HEIIU NECESITA
+### A. LA ACCIÓN (esto es lo urgente, no el documento)
+**¿Quiénes de los profes ACTUALES tienen firmada la v2?** (Tomás, Danna, Juan Diego, Christian, y quien tome A1 4h / sabatino). Hasta donde hay registro, solo Margarita firmó (versión vieja). Sin firma v2: no se entregan manuales globales, no se escala digital, y el "reporte como condición" no es exigible. **Plan: imprimir v2 con datos de cada profe y firmar en la misma semana en que se presenta la plantilla de reporte nueva — un solo momento de "formalización general".**
 
-**1. Propiedad intelectual (la más importante).** Todo material entregado o creado para Heiiu (guías, hojas de ruta, textos, formatos, estructuras de clase, dinámicas) es propiedad exclusiva de Heiiu. El profesor: recibe SOLO el material del día · no lo reproduce, fotografía, comparte ni almacena · lo devuelve físicamente al final de cada clase junto con el reporte · no puede usar material, estructuras ni dinámicas de Heiiu en clases propias o de terceros, durante el contrato y después de terminado.
+### B. TRES CLÁUSULAS QUE LA v2 NO TIENE (pasar al abogado junto con los CAMBIOS 1-7 del contrato de estudiante)
 
-**2. Confidencialidad.** Metodología, formatos, precios, listas y datos de estudiantes, y funcionamiento interno son secreto empresarial. Vigencia: durante el contrato + [2] años.
+**B1. Pago amarrado a entregables.** La Cláusula SEGUNDA paga "horas efectivamente impartidas" pero no define cómo se acredita una hora. Agregar parágrafo: *"Una hora se entiende efectivamente impartida cuando EL CONTRATISTA ha entregado el reporte de clase firmado con sus anexos (tickets de salida y papeles de error) conforme a la obligación Cuarta #18. Las horas sin reporte entregado quedan pendientes de acreditación para pago hasta subsanarse."*
 
-**3. No captación.** Prohibido ofrecer clases particulares o de terceros a estudiantes o exalumnos de Heiiu, o a sus familias, durante el contrato + [2] años. Sanción económica definida (cláusula penal — el abogado fija monto exigible).
+**B2. Autorización de imagen.** No existe. Agregar: *"EL CONTRATISTA autoriza el uso de su imagen y voz en registros fotográficos y audiovisuales institucionales y en los canales de comunicación y redes de GLOBAL TEACHER S.A.S., sin remuneración adicional, durante la vigencia del contrato."* (Necesaria para la prueba social y el contenido orgánico.)
 
-**4. Entregables por clase como condición de pago.** El pago del período se causa contra la entrega completa de: reporte de clase firmado + tickets de salida + error papers de cada sesión dictada. Clase sin reporte = clase no acreditada para pago hasta subsanar. (Esto convierte la triangulación en obligación contractual, no en favor.)
+**B3. No captación de estudiantes.** El contrato viejo la tenía (3.6) y la v2 la perdió — solo aparece implícita en la cláusula penal. Restituir como obligación expresa: *"EL CONTRATISTA se obliga a no ofrecer ni prestar clases, asesorías o tutorías particulares, propias o de terceros, a estudiantes o exalumnos de GLOBAL TEACHER S.A.S. o a sus familias, durante la vigencia del contrato y hasta dos (2) años después de su terminación."*
 
-**5. Comunicación con estudiantes y acudientes.** El profesor NO comunica evaluaciones, notas, resultados, fechas de examen ni decisiones administrativas — todo pasa por coordinación. No mantiene grupos/chats propios con estudiantes; los canales son los institucionales.
+**B4 (menor, opcional).** Hacer explícito el no-negociable de comunicación: *"EL CONTRATISTA no comunica a estudiantes ni acudientes calificaciones, resultados, fechas de evaluación ni decisiones administrativas; toda comunicación de ese tipo corresponde exclusivamente a coordinación."* (Hoy está repartido entre #16, #18 y #21 — mejor una frase directa.)
 
-**6. Autorización de imagen.** El profesor autoriza el uso de su imagen en fotos/videos institucionales y de redes de Heiiu, sin remuneración adicional (necesaria para la prueba social).
-
-**7. Ejecución del modelo.** El profesor se obliga a ejecutar la guía del día como está diseñada (los 4 bloques y sus rituales); las adaptaciones se reportan en el campo "¿qué salté o cambié?" del reporte. La no-ejecución reiterada es incumplimiento.
-
-**8. Habeas data** (tratamiento de datos del profesor y compromiso sobre datos de estudiantes que conozca).
-
-**9. Terminación.** Preaviso de [15] días; a la terminación devuelve TODO material físico; subsisten IP, confidencialidad y no captación.
-
-## SECUENCIA DE FIRMA (sin drama)
-1. Abogado convierte esto en contrato (misma pasada en que revisa los CAMBIOS 1-7 del contrato de estudiante).
-2. Se presenta a los profes como formalización estándar: "estamos formalizando toda la operación — contratos nuevos de estudiantes, del Fondo y del equipo".
-3. Firma ANTES de: entregar cualquier manual/material global, escalar lo digital, o anunciar la garantía (que depende de los reportes del punto 4).
+## SECUENCIA
+1. Abogado: agrega B1-B4 a la v2 (misma pasada de los CAMBIOS 1-7 del contrato de estudiante). 30 minutos de trabajo legal.
+2. Firma de TODOS los profes activos en la semana de "formalización" (contratos + plantilla de reporte + presentación del sistema).
+3. Solo después: manuales globales, garantía anunciada, escalado digital.
