@@ -77,7 +77,7 @@ Patrones orales: (a) "I will to study" (will + to); (b) "in the night" en vez de
 
 **Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + kickoff) ☐ PASE entregado ☐ Conteo portafolio anotado
 
----
+[PAGEBREAK]
 
 ## NOTA INTERNA (no leer en clase)
 

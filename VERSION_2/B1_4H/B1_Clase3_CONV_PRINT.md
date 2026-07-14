@@ -76,7 +76,7 @@ HOY: formaliza should/shouldn't (M4) + numbers/horas/precios (M5) en papel.
 
 **Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + desk) ☐ PASE entregado ☐ Conteo portafolio anotado
 
----
+[PAGEBREAK]
 
 ## NOTA INTERNA (no leer en clase)
 

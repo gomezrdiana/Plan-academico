@@ -49,7 +49,7 @@ Contrast:  weekdays vs weekends -> "On weekdays I start at 7; on weekends I neve
 **Objective: use frequency expressions under pressure in a realistic scheduling scene.**
 
 1. Board: `RECURRING-MEETING SCHEDULING — 3 ROTATIONS — OBSERVERS WORK`
-2. Escenario profesional realista: dos colegas acuerdan cada cuanto pasan las cosas del equipo (reunion, reporte, backup, revision). **1 estudiante = guest** (propone frecuencias reales: *"Let's meet twice a week. I send the report every Friday. We review the numbers once a month."*); otro rota como colega que ajusta ("Once a week is enough. Can we do it three times a month?"); el resto = **OBSERVERS ACTIVOS**: 2 aciertos, 1 error de expresion, 1 pregunta. Tu = COACH — NUNCA guest.
+2. Escenario profesional realista: dos colegas acuerdan cada cuanto pasan las cosas del equipo (reunion, reporte, backup, revision). **1 estudiante = guest** (propone frecuencias reales: *"Let's meet twice a week. I send the report every week. We review the numbers once a month."*); otro rota como colega que ajusta ("Once a week is enough. Can we do it three times a month?"); el resto = **OBSERVERS ACTIVOS**: 2 aciertos, 1 error de expresion, 1 pregunta. Tu = COACH — NUNCA guest.
 3. 3 rotaciones (~8'). Entre rotaciones, 60 seg de cadena rapida ("week -> twice a week").
 4. Debrief (5'): observers reportan TIPOS ("'three times to the week' instead of 'three times a week'"), nunca personas.
 5. Di: *"Temperance set a real, keepable rhythm. Next class we name what is ours — possessives."*

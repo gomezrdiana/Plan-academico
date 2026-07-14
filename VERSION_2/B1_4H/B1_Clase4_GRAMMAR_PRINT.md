@@ -88,7 +88,7 @@ Hoy lockeado will (M6) + at/on/in. Cl 5: simple present (do/does) + 3a persona -
 
 **Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + planning) ☐ PASE entregado ☐ ~86% DE PIE confirmado
 
----
+[PAGEBREAK]
 
 ## ANEXO — M6 + preposiciones verbatim + Plan B (no leer en clase)
 

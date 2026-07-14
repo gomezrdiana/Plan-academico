@@ -77,7 +77,7 @@ machine + schedule coordination. Tu bloque HOY: formaliza simple present (do/doe
 
 **Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + schedule) ☐ PASE entregado ☐ Conteo portafolio anotado
 
----
+[PAGEBREAK]
 
 ## NOTA INTERNA (no leer en clase) — INCLUYE FRONTERA DE SALIDA
 

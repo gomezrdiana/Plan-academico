@@ -18,7 +18,7 @@
    - "Fix it: 'Does she works on Fridays?'" (Cl 6)
 2. **Frase del Dia (4').** Board antes de empezar. 2 lecturas, coro 2, 1 solo. 3+ inserciones; cierre 1 de memoria + 1 nueva.
 3. **Chequeo publico de portafolio (3').** *"Who sent their daily audio since Cl 8?"* Numeros; contenido = coordinacion.
-4. **PASE recibido de Grammar (Cl 8) (3'):** leelo. Bridge: *"You named your rhythm. Today you name what is YOURS — my, her, our — and whose things belong to whom: the boss's office, the cover of the report."*
+4. **PASE recibido de Grammar (Cl 8) (3'):** leelo. Bridge: *"You named your rhythm. Today you name what is YOURS — my, her, our — and who owns what: the boss's office, the cover of the report."*
 
 > [VIRTUD] Escribe "TEMPERANCE — DAY 4" y di: *"Temperance is measure — of ownership too. Her laptop is not my laptop. The manager's office is not mine. Today we name what is ours, cleanly, and claim nothing that isn't."*
 
@@ -38,7 +38,7 @@ NEVER "the my laptop".                  For people prefer 's, not "of".
 3. Modela 60 seg: 3 cosas tuyas (my...) + 2 de colegas (the analyst's..., her...) + 2 de objetos (the cover of the file). Señala: *"Match the OWNER, not the object — 'her car' even if 'car' is masculine in Spanish. People take 's; things take 'of'."*
 4. Preparacion en parejas (8'): cada uno arma 8 frases (3 adjetivo + 3 con 's de personas + 2 con of de cosas), sobre su oficina real.
 5. Ejecucion (18'): A describe su espacio de trabajo y quien posee que; B verifica con checklist oral (3+3+2); cambian, nueva pareja, segunda ronda.
-6. Producto verificable: TODOS dijeron 8 frases. Feedback sobre el LOGRO ("could I see whose things are whose?"), luego la forma.
+6. Producto verificable: TODOS dijeron 8 frases. Feedback sobre el LOGRO ("could I see who owns what?"), luego la forma.
 7. Corrige en board errores en 2+ parejas (anonimos). Nombres a tu cuaderno.
 
 ## BLOQUE 3 — OFFICE INVENTORY HANDOVER (35')
@@ -46,7 +46,7 @@ NEVER "the my laptop".                  For people prefer 's, not "of".
 **Objective: use possessives under pressure in a realistic asset-handover scene.**
 
 1. Board: `OFFICE INVENTORY HANDOVER — 3 ROTATIONS — OBSERVERS WORK`
-2. Escenario profesional realista: alguien entrega el inventario de un escritorio/sala compartida a un colega e indica de quien es cada cosa. **1 estudiante = guest** (entrega el inventario nombrando duenos: *"This is the manager's folder. That's her charger. The cover of the report is torn."*); otro rota como colega que confirma y pregunta ("Is this John's laptop? Whose... — I mean, is it the analyst's?"); el resto = **OBSERVERS ACTIVOS**: 2 aciertos, 1 error (article + adjetivo / 's en cosa), 1 pregunta. Tu = COACH — NUNCA guest.
+2. Escenario profesional realista: alguien entrega el inventario de un escritorio/sala compartida a un colega e indica de quien es cada cosa. **1 estudiante = guest** (entrega el inventario nombrando duenos: *"This is the manager's folder. That's her charger. The cover of the report is torn."*); otro rota como colega que confirma y pregunta ("Is this John's laptop? Is it the analyst's charger?"); el resto = **OBSERVERS ACTIVOS**: 2 aciertos, 1 error (article + adjetivo / 's en cosa), 1 pregunta. Tu = COACH — NUNCA guest.
 3. 3 rotaciones (~8'). Entre rotaciones, 60 seg de cadena rapida ("manager -> the manager's folder").
 4. Debrief (5'): observers reportan TIPOS ("'the book's cover' — should be 'the cover of the book'"), nunca personas.
 5. Di: *"Temperance named ownership clean across three roles. Next class closes the block — object pronouns."*

@@ -77,7 +77,7 @@ los 4 rituales. Tu bloque HOY: formaliza en papel present perfect vs simple past
 
 **Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Cartas cerradas recogidas ☐ Fotos/videos (board + panel) ☐ PASE entregado
 
----
+[PAGEBREAK]
 
 ## NOTA INTERNA (no leer en clase)
 

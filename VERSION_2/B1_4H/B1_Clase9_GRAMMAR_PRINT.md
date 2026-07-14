@@ -56,7 +56,7 @@ OF (things): "the cover OF the report" (things don't own -> use OF)
 
 **Objective: hold the three forms under pressure in a realistic asset-handover.**
 
-1. Board: `HANDOVER BRIEFING — "WHOSE IS THIS?" (name the owner) — 3 ROTATIONS`
+1. Board: `HANDOVER BRIEFING — NAME THE OWNER — 3 ROTATIONS`
 2. Escenario profesional realista: entrega de bienes de un proyecto a un colega. **1 estudiante = guest** (nombra duenos con las 3 formas: *"This is the manager's folder. That's her charger. The cover of the file is here."*); otro rota como colega que confirma/pregunta ("Is this the analyst's laptop? Is it John's?"); el resto = **OBSERVERS ACTIVOS**: 2 errores de forma, 1 acierto, 1 pregunta. Tu = COACH — NUNCA guest.
 3. 3 rotaciones (~8'). Entre rotaciones, 90 seg de cadena rapida ("Peter -> Peter's pen; report -> the cover of the report").
 4. Debrief con lo anotado (tipos, anonimos). Interven si un error aparece 3 veces en la misma pareja: board, coro 2x, sigue.
@@ -71,8 +71,8 @@ TIME: 30-45 min (B1). NOT fragmented.
 (1) WRITE 12 sentences: 4 with adjectives (his/her/our/their),
     4 with 's for people (include 1 plural owner: the managers' desks),
     4 with of for things. No "the my". Underline the possessive form.
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: "Whose things are on my
-    desk and my team's desk". Label: B1-GRAMMAR-9. WhatsApp group.
+(2) PORTFOLIO audio (daily) — 2 min, eyes closed: "The things on my desk
+    and my team's desk, and who owns each". Label: B1-GRAMMAR-9. WhatsApp group.
 (3) Bring the paper to next class.
 ```
 3. **Error paper** fisico anonimo cerrado; nombres + citas en tu reporte.

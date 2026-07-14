@@ -90,7 +90,7 @@ en vez de "Yes, I have"). Hoy quedo lockeada en papel la decision closed vs open
 
 **Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + briefing) ☐ PASE entregado ☐ ~86% DE PIE confirmado
 
----
+[PAGEBREAK]
 
 ## ANEXO — M17 verbatim + Plan B (no leer en clase)
 

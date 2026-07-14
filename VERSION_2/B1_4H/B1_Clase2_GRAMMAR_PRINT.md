@@ -88,7 +88,7 @@ Patrones: (a) "I don't finished"; (b) "he haven't"; (c) short answer larga;
 
 **Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + stand-up) ☐ PASE entregado ☐ ~86% DE PIE confirmado
 
----
+[PAGEBREAK]
 
 ## ANEXO — M17 verbatim (capa 2) + Plan B (no leer en clase)
 

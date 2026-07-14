@@ -77,7 +77,7 @@ negativo/pregunta del perfect + for/since en papel (M17 capa 2).
 
 **Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + review) ☐ PASE entregado ☐ Conteo portafolio anotado
 
----
+[PAGEBREAK]
 
 ## NOTA INTERNA (no leer en clase)
 

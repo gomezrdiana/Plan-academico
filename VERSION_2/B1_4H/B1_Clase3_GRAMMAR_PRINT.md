@@ -91,7 +91,7 @@ Cl 4: will (mismo marco que should/can) + at/on/in.
 
 **Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + consult) ☐ PASE entregado ☐ ~86% DE PIE confirmado
 
----
+[PAGEBREAK]
 
 ## ANEXO — M4 + M5 verbatim + Plan B (no leer en clase)
 
