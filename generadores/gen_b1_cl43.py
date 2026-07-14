@@ -5,7 +5,8 @@ _hsys.path.insert(0, _hos.path.dirname(_hos.path.dirname(_hos.path.abspath(__fil
 (FORTALEZA+JUSTICIA): PRESENTACIONES FINALES.
 - CONV: conduce/cronometra presentaciones 7-10 min + 2-3 preguntas, orden aleatorio,
   NO evalua NI comunica (V13). Audiencia = observers activos.
-- GRAMMAR (segundo bloque del dia): termina pendientes + debrief de fortalezas +
+- GRAMMAR (segundo bloque del dia): termina pendientes + debrief de fortalezas y
+  de las estructuras del curso B1 (M8-M12 + tags/relativos/comparativos) +
   ticket reflexivo + reframe de grabaciones. Sin modulo.
   Frontera: Cl 44 = SOLO CONV (cierre). Final = evaluador externo, sin guia.
 Solo guias (los reportes los hace gen_reporte_v3.py)."""

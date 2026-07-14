@@ -2,9 +2,11 @@
 import os as _hos, sys as _hsys
 _hsys.path.insert(0, _hos.path.dirname(_hos.path.dirname(_hos.path.abspath(__file__))))
 """B1 MASTERY Cl 44 — HOJA DE RUTA CIERRE (SOLO CONV). SINTESIS dia 4
-(PRUDENCIA+TEMPLANZA): consolidacion final del nivel.
-- CONV UNICO: circuito de estaciones con TODAS las familias del curso +
-  Carta a Mi Yo del Futuro (escrita en Cl 1) se devuelve y se lee + ticket final.
+(las 4 virtudes integradas): consolidacion final del nivel.
+- CONV UNICO: circuito de estaciones con TODAS las familias del LIBRO B1
+  (M1-M12: reported/perfect/causative/adjectives/pronouns + tags/relativos/
+  comparativos) + Carta a Mi Yo del Futuro (escrita en Cl 1) se devuelve y se
+  lee + ticket final.
   Sin PASE, sin tarea. PROHIBIDO mencionar el examen (evaluador externo).
   Las Cartas de Cl 1 las trae COORDINACION, no el profe.
 - NO se genera GRAMMAR Cl 44: el segundo bloque del dia (ultimas 2h) es el

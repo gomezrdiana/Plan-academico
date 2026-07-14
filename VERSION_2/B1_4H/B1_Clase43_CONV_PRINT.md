@@ -1,9 +1,9 @@
 # B1 MASTERY — Cl 43/44 — CONV (va PRIMERO) — HOJA DE RUTA (PROTOCOLO)
 
 **Sesion 43/44 · 110 min · Bloques: B1 15' + B2 45' + B3 40' + B4 10' = 110**
-**Focus (1 line):** Conduct the final presentations — each student tells their real story (7-10 min) + 2-3 questions — courageously and fairly. The teacher conducts and times; does NOT evaluate or communicate results.
+**Focus (1 line):** Conduct the final presentations — each student tells their real story (7-10 min) showing the B1 course structures + 2-3 questions — courageously and fairly. The teacher conducts and times; does NOT evaluate or communicate results.
 **Virtud:** SINTESIS — dia 3 de 4 · **FORTALEZA + JUSTICIA integradas**
-**Frase del Dia:** *"Today I stand and speak — courage on my feet, gratitude in my voice: I tell my true story bravely, and I listen to yours fairly."*
+**Frase del Dia:** *"I stand where it is hard and I listen where it is fair: fortitude to tell the story I HAVE lived, justice to honor every classmate WHO walked this road with me."*
 
 > **PROTOCOLO, no clase de modulo.** El profe CONDUCE y CRONOMETRA. NO evalua, NO da notas, NO comunica resultados (coordinacion evalua; el profe lleva notas privadas SOLO para coordinacion). Presentaciones en ORDEN ALEATORIO.
 
@@ -20,8 +20,11 @@
 FINAL PRESENTATION — "MY REAL STORY" (7-10 min + 2-3 questions)
 - Random order (I draw names). Be ready to go anytime.
 - Speak from your skeleton — a structured story, not a read speech.
+- SHOW the course structures: reported speech, a perfect tense,
+  a relative/embedded, a tag, a comparative.
 - AUDIENCE = active, fair observers: each writes for every speaker
-  1 real strength + 1 structure well used + 1 respectful question.
+  1 real strength + which course structures they heard + 1
+  respectful question.
 - I keep time and conduct. I do not grade or comment on results.
 ```
 4. **Sorteo del orden (4'):** saca nombres al azar; anuncia los primeros 2-3. *"Any question about evaluation goes to coordination, not me."*
@@ -32,9 +35,9 @@ FINAL PRESENTATION — "MY REAL STORY" (7-10 min + 2-3 questions)
 
 **Objective: run the first round of presentations with an active, fair audience.**
 
-1. En orden aleatorio, cada estudiante presenta su historia real (7-10 min): quien era al empezar (pasado), que puede hoy en ingles (presente + comparacion), su futuro profesional (futuro + deseos) — SOLO estructuras del curso.
+1. En orden aleatorio, cada estudiante presenta su historia real (7-10 min): quien era al empezar (pasado + reported speech), que ha logrado hoy (perfect + comparacion + tag), a donde va (futuro + relative/embedded) — luciendo las estructuras del curso B1.
 2. Tu CRONOMETRAS (avisa a los 8 min con una señal silenciosa) y CONDUCES. NO interrumpes por errores; NO evaluas en voz alta.
-3. **Audiencia = OBSERVERS ACTIVOS:** cada uno escribe por cada ponente 1 fortaleza + 1 estructura bien usada + 1 pregunta respetuosa (esto alimenta el error paper de observers y el debrief).
+3. **Audiencia = OBSERVERS ACTIVOS:** cada uno escribe por cada ponente 1 fortaleza + cuales estructuras del curso oyo + 1 pregunta respetuosa (esto alimenta el error paper de observers y el debrief).
 4. Al cerrar cada presentacion: 2-3 preguntas de la audiencia (no tuyas) + respuesta breve del ponente.
 5. **Foto/video:** graba cada presentacion (celular del estudiante o de un compañero) — entregable estandar de portafolio. Sin exponer, es evidencia del logro.
 
@@ -49,14 +52,14 @@ FINAL PRESENTATION — "MY REAL STORY" (7-10 min + 2-3 questions)
 
 ## BLOQUE 4 — CIERRE (10')
 
-1. **Ticket de salida (5', sentados):** cada estudiante (ponentes y audiencia) escribe 3-5 frases: que hizo bien hoy + una estructura del curso que domina + a quien agradece. Nombre en el papel. Se recogen TODOS; sin evaluar.
-2. **Error paper de OBSERVERS:** recoge las fichas de audiencia (fortaleza + estructura + pregunta de cada observer); las citas de forma con nombres van a tu cuaderno privado para coordinacion; la version anonima alimenta el debrief del bloque Grammar de hoy.
+1. **Ticket de salida (5', sentados):** cada estudiante (ponentes y audiencia) escribe 3-5 frases: que hizo bien hoy + una estructura del curso B1 que domina + a quien agradece. Nombre en el papel. Se recogen TODOS; sin evaluar.
+2. **Error paper de OBSERVERS:** recoge las fichas de audiencia (fortaleza + estructuras + pregunta de cada observer); las citas de forma con nombres van a tu cuaderno privado para coordinacion; la version anonima alimenta el debrief del bloque Grammar de hoy.
 3. **Tarea (board):**
 ```
 HOMEWORK CL 43 — DUE Cl 44, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
+TIME: 30-45 min (B1). Reflective portfolio only.
 PORTFOLIO reflection (audio, 2-3 min, eyes closed): "Who I was
-when I started this level, and who I am now." Speak from the
+when I started this level, and who I have become." Speak from the
 heart, using course structures. Label: B1-43-REFLECTION.
 WhatsApp group. (No written homework today.)
 ```
@@ -67,6 +70,7 @@ PASE Conv -> Grammar — Cl 43 (mismo dia, protocolo)
 Estudiantes que YA presentaron: ____________________________
 Estudiantes que FALTAN por presentar (pasan al bloque Grammar): __________
 Fortalezas repetidas de la audiencia (para el debrief): ____________
+Estructuras del curso mas escuchadas hoy (para el debrief): ____________
 Bloque Grammar HOY = termina presentaciones pendientes + debrief
 de fortalezas + ticket reflexivo + reframe de las grabaciones.
 Cl 43 = SINTESIS dia 3 (FORTALEZA + JUSTICIA). NO evaluar ni comunicar.
@@ -80,8 +84,9 @@ Cl 43 = SINTESIS dia 3 (FORTALEZA + JUSTICIA). NO evaluar ni comunicar.
 
 - Dia de PRESENTACIONES FINALES (protocolo integrado, sin marcador separado — regla de eventos integrados). Consume el numero de clase Cl 43.
 - **V13 critico:** el profe conduce y cronometra, NO evalua NI comunica notas/resultados. Coordinacion evalua. Las notas privadas del profe (con nombres/citas de forma) van SOLO a coordinacion.
-- Virtud: SINTESIS dia 3 — FORTALEZA + JUSTICIA (calendario absoluto). Canon VATS: reflexion "¿cual virtud trabajaste mas?".
-- Proyecto MY STORY = esta presentacion (formato `SUPUESTO — verificar por Diana`, ver Cl 42). Fotos/videos = entregable estandar (reframe en el bloque Grammar de hoy).
+- Virtud: SINTESIS dia 3 — FORTALEZA + JUSTICIA (calendario absoluto). Canon VATS Q3: "¿cual virtud trabajaste mas este nivel? ¿cual falta?".
+- Proyecto MY STORY = esta presentacion luciendo estructuras del libro B1 (formato `SUPUESTO — verificar por Diana`, ver Cl 42). Fotos/videos = entregable estandar (reframe en el bloque Grammar de hoy).
+- Recuperacion adaptada al repaso integral: dia de protocolo, la reactivacion es la presentacion misma (todas las familias del curso). No hay N-3/N-7 aislada.
 - Error paper de hoy = fichas de la audiencia (observers), doble protocolo (anonimo al debrief; nombres a coordinacion).
 - Cl 44 = solo CONV (cierre). El Final del nivel lo aplica evaluador externo — NO se genera guia ese dia. En Cl 44 NO se menciona el examen.
 - Profe sin material preparado: todo oral + papel del estudiante + celular para grabar.
