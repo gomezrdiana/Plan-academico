@@ -59,7 +59,7 @@ BOOK EXAMPLE PAIRS (Ejemplos 1, p.269):
 **Objective: place so/too/enough at speed, then hold them in a realistic level check.**
 
 1. **Cadena de conversion (12', circulo, DE PIE):** tu cantas un descriptor + situacion ("the plan / ready" -> "the plan is ready enough" o "not ready enough"); estudiante 1 lo juzga con enough/so/too, 2 justifica en 1 linea honesta, 3 lanza el siguiente. Velocidad creciente; ultimo giro: solo situaciones reales de SU trabajo.
-2. **The level check (18'):** escenario profesional realista: revisar si una entrega/carga esta al nivel justo ante el equipo. **1 guest = quien reporta** con el molde (*"The prototype is good enough to test. The timeline is too tight — we're not fast enough for Friday. The team is so committed, but too tired to add scope."*); otro estudiante rota como quien pregunta (*"Is it ready enough? Is it too much for one week?"*); el resto = **OBSERVERS ACTIVOS** (2 errores, 1 acierto, 1 pregunta). Tu = COACH afuera, nunca guest. 3 rotaciones.
+2. **The level check (18'):** escenario profesional realista: revisar si una entrega/carga esta al nivel justo ante el equipo. **1 guest = quien reporta** con el molde (*"The prototype is good enough to test. The timeline is too tight — we're not fast enough for the deadline. The team is so committed, but too tired to add scope."*); otro estudiante rota como quien pregunta (*"Is it ready enough? Is it too much for one week?"*); el resto = **OBSERVERS ACTIVOS** (2 errores, 1 acierto, 1 pregunta). Tu = COACH afuera, nunca guest. 3 rotaciones.
 3. **Cierre JUSTICIA (5'):** *"Justice day three — 'enough' is the just level. Say one thing that is good enough as it is, and one that is too much."* — 2 respuestas maximo.
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS

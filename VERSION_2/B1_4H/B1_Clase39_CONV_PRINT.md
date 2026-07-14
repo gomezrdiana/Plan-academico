@@ -40,7 +40,7 @@ THE THING vs ME (say it, feel it)
 ```
 4. Modela 45 seg: describe 2 cosas reales de tu trabajo (-ing) + como te dejan (-ed): "Long emails are tiring, so I get tired by noon."
 5. **Preparacion en parejas (7'):** cada uno elige 3 cosas reales de su trabajo y las empareja: la cosa (-ing) + su reaccion honesta (-ed).
-6. **Ejecucion (15'):** en cadena de parejas, A dice la situacion "The Monday meeting is ___", B responde con su feeling "I am ___" y agrega por que. Cambio de pareja a mitad. Ojo: no mezclar ("I am boring" = eres aburrido, distinto de "I am bored").
+6. **Ejecucion (15'):** en cadena de parejas, A dice la situacion "The weekly status meeting is ___", B responde con su feeling "I am ___" y agrega por que. Cambio de pareja a mitad. Ojo: no mezclar ("I am boring" = eres aburrido, distinto de "I am bored").
 7. Producto verificable (8'): vuelta completa — cada uno da al grupo UNA pareja situacion+feeling (20 seg), minimo 1 -ing y 1 -ed. Cuentas moldes limpios en el board.
 8. Feedback: logro primero, forma despues. El error clasico "I am boring/exciting" (auto-descripcion no intencional) -> board anonimo; nombres a tu cuaderno.
 

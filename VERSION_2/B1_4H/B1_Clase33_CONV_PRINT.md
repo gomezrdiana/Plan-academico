@@ -50,7 +50,7 @@ JUDGING THE LEVEL FAIRLY
 **Objective: hold a realistic workload/quality review, judging each item's level fairly before deciding.**
 
 1. Board: `WORKLOAD / QUALITY REVIEW — "IS IT ENOUGH? IS IT TOO MUCH?" — 3 ROTATIONS`
-2. Escenario profesional realista (solo tablero y sala): reunion para revisar si una carga o entrega esta al nivel justo. **1 guest = quien reporta** con el molde (*"The design is good enough to ship. The timeline is too tight, though — we're not fast enough for Friday. The team is so committed, but they're too tired to add more."*); otro estudiante rota como el lider que pregunta (*"Is it ready enough? Is the workload too heavy?"*); el resto = **OBSERVERS ACTIVOS** (2 errores, 1 acierto, 1 pregunta). Tu = COACH desde afuera — NUNCA juegas guest.
+2. Escenario profesional realista (solo tablero y sala): reunion para revisar si una carga o entrega esta al nivel justo. **1 guest = quien reporta** con el molde (*"The design is good enough to ship. The timeline is too tight, though — we're not fast enough for the deadline. The team is so committed, but they're too tired to add more."*); otro estudiante rota como el lider que pregunta (*"Is it ready enough? Is the workload too heavy?"*); el resto = **OBSERVERS ACTIVOS** (2 errores, 1 acierto, 1 pregunta). Tu = COACH desde afuera — NUNCA juegas guest.
 3. 3 rotaciones (~9'). Debrief por TIPOS (anonimo): moldes limpios vs "enough good" / "too much tight" / "so much organized" / "very enough".
 4. **Cierre JUSTICIA (3'):** *"Justice day three — name one thing at work that is 'too much' and one that is 'good enough' as it is."* — 2 respuestas maximo.
 
