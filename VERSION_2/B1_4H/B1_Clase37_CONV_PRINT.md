@@ -1,127 +1,118 @@
 # B1 MASTERY — Cl 37/44 — CONV (va PRIMERO) — HOJA DE RUTA
 
 **Sesion 37/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
-**Focus (1 line):** Put every describing word in its right order — a beautiful big blue result, a strong new plan — describe the whole picture clearly.
+**Focus (1 line):** Combine ideas with relative pronouns (who/which/that/where/when/why/how) and ask with courage + courtesy (embedded questions).
 **Virtud:** FORTALEZA v2 — dia 2 de 5
-**Frase del Dia:** *"Strength puts every detail in its right order: a beautiful big blue result, a strong new plan — courage describes the whole picture clearly, one adjective after another."*
+**Frase del Dia:** *"Fortitude asks with courage and courtesy: the person who never gives up is the one who wins — could you tell me how they found the strength to continue?"*
 
 ---
 
 ## BLOQUE 1 — APERTURA (20')
 
-**Objective: reactivate "how many?" and equal comparison, then aim at ordering adjectives.**
+**Objective: reactivate tags/two-option + comparison, then aim relative pronouns + embedded questions.**
 
-1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 34 y Cl 30); errores anonimos al board; 1 min re-produccion:
-   - "One 'how many?' Q&A about your team — many / a few / a lot of." (Cl 34)
-   - "Fix it: 'How much people are there?'" (Cl 34)
-   - "One 'as ... as' and one 'not as ... as' about two options." (Cl 30)
-   - "Fix it: 'This tool is as good than the old one.'" (Cl 30)
-   - "One 'a few' vs 'a lot of' about real work." (Cl 34)
+1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores; errores anonimos al board; 1 min re-produccion:
+   - "Confirm + decide: 'We can take either A or B, can't we?'" (Cl 34 — tags + either/neither/both)
+   - "Fix it: 'neither option is not good.'" (Cl 34)
+   - "Compare two coworkers as equals: 'as ___ as'." (Cl 30 — equal comparatives)
+   - "Fix it: 'She is as tall than me.'" (Cl 30)
 2. **Chequeo publico de portafolio (3'):** conteo en voz alta del audio de ayer; no-envios a tu cuaderno.
-3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"a big BLACK car, a nice NEW house — opinion, size, age, color, in that order. To describe the whole picture clearly takes courage — Fortitude, day two."*
-4. **Revision tarea (3'):** "Describe a colleague / client" (8 lineas ropa + apariencia, de Cl 36) sobre la mesa; recoge. **PASE de Grammar (Cl 36)** leido: hoy cerramos FORTALEZA ordenando los adjetivos (M38).
+3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"'who / which / where' combine ideas into one strong sentence; 'Can you tell me where...?' asks with courtesy. Strong, clear speech is Fortitude, day 2."*
+4. **Revision tarea (3'):** "The setback I beat" (Cl 36, modals + connectors) sobre la mesa; recoge. **PASE de Grammar (Cl 36)** leido: hoy M7.
 
-> [VIRTUD] Board: "FORTITUDE — DAY 2". *"Fortitude describes the full picture in order — nothing hidden, nothing out of place. A beautiful big white house: opinion, size, color, each in its place, said with confidence."*
+> [VIRTUD] Board: "FORTITUDE — DAY 2". *"A strong voice does not fall apart in long sentences — it combines ideas with 'who/which/where' and asks bravely but politely. That is Fortitude in speech."*
 
-## BLOQUE 2 — THE FULL PICTURE, IN ORDER (40')
+## BLOQUE 2 — COMBINING IDEAS: RELATIVE PRONOUNS (40')
 
-**Objective: everyone describes real work things stacking 2-3 adjectives in the traditional order.**
+**Objective: everyone describes real people/places/times at work by combining two ideas into one relative clause.**
 
-1. Meta en 1 linea (arriba). **Avance de proyecto hoy: una linea para MY STORY — "the full picture of who I've become, in order: a stronger, calmer, more confident professional."**
-2. Board — el molde oral (Grammar lo formaliza hoy mismo con M38; aqui NO se enseña la regla):
+1. Meta en 1 linea: *"By the end of this block, everyone has described 4 real work things by combining two ideas with a relative pronoun."*
+2. **Avance MY STORY (2'):** una linea — *"I am someone who kept going — this is the moment when everything changed."*
+3. Board — el molde oral (Grammar formaliza M7 hoy; verbatim en anexo):
 ```
-STACKING ADJECTIVES IN ORDER
-opinion -> size -> age -> shape -> color -> origin/material -> use
-"a beautiful big blue result"    "a great new marketing plan"
-"a small old wooden desk"        "a nice new company laptop"
-"two long important reports"     "a strong young team"
-(most common order; the noun comes last)
+COMBINING WITH RELATIVE PRONOUNS (B1 Book M7, p.63/67)
+who   -> people   "the manager WHO trained me"
+which -> things (+comma, extra info)  "my office, WHICH is small,"
+that  -> necessary info  "the report THAT I sent"
+where/when/why/how  -> place/time/reason/manner
+"I know WHERE the client is."  "the day WHEN we launched"
 ```
-3. Modela 45 seg describiendo 2-3 cosas reales de tu trabajo apilando adjetivos en orden.
-4. Preparacion en parejas (7'): cada uno elige 3 objetos/cosas reales de su trabajo y les pone 2-3 adjetivos en el orden correcto.
-5. Ejecucion (15'): "describe to order/find it" en parejas: A describe un objeto con 2-3 adjetivos en orden ("I need the small black leather folder"); B confirma o pide otro. Cambian roles. Cambio de pareja a mitad.
-6. Producto verificable (10'): vuelta completa — cada estudiante describe al grupo UNA cosa real con 2-3 adjetivos ordenados (20 seg). Tu cuentas moldes limpios en el board.
-7. Feedback: logro primero (¿el orden es claro?), forma despues. Errores 2+ parejas -> board anonimo. Nombres a tu cuaderno.
+4. Modela 30 seg describiendo algo real de tu trabajo combinando dos ideas.
+5. Preparacion en parejas (7'): cada uno elige 4 cosas reales de su trabajo (1 persona, 1 lugar, 1 momento, 1 objeto) y las describe con el relativo correcto.
+6. Ejecucion (15'): A describe combinando ("The client who called us..."); B pregunta para extender ("...the client who called us when?"). Frases largas, claras, sin partirse. Cambio de pareja a mitad.
+7. Producto verificable (10'): vuelta completa — cada estudiante da 1 descripcion combinada real (20 seg). Cuentas relativos limpios en el board.
+8. Feedback: logro primero (¿se combinaron dos ideas con claridad?), forma despues. Errores 2+ parejas -> board anonimo. Nombres a tu cuaderno.
 
-## BLOQUE 3 — THE PRODUCT SPEC / LOST-ITEM DESK (35')
+## BLOQUE 3 — THE COURTEOUS INQUIRY (35')
 
-**Objective: hold a realistic "describe the item precisely" task, ordering adjectives before deciding or finding it.**
+**Objective: hold a realistic information-gathering call using embedded questions politely.**
 
-1. Board: `PRODUCT SPEC / LOST-ITEM DESK — "DESCRIBE IT EXACTLY, IN ORDER" — 3 ROTATIONS`
-2. Escenario profesional realista (solo tablero y sala): describir un producto o un objeto perdido con precision para que se identifique/entregue. **1 guest = quien describe** con el molde (*"It's a small black leather laptop bag. Inside there's a new silver company laptop and two long white charging cables. There's also a nice old brown notebook."*); otro estudiante rota como quien registra y pregunta (*"What color is it? Is it big or small? Old or new?"*); el resto = **OBSERVERS ACTIVOS** (2 errores, 1 acierto, 1 pregunta). Tu = COACH desde afuera — NUNCA juegas guest.
-3. 3 rotaciones (~9'). Debrief por TIPOS (anonimo): moldes limpios vs "a black big car" (orden invertido) / "a car black" / "two olds reports".
-4. **Cierre FORTALEZA (3'):** *"Fortitude, day two — describe one thing you're proud of at work with 2-3 adjectives in order — the full, honest picture."* — 2 respuestas maximo. *"Fortitude continues next class."*
+1. Board: `CLIENT / SUPPLIER INQUIRY CALL — "COULD YOU TELL ME...?" — 3 ROTATIONS`
+2. Escenario profesional realista (solo tablero y sala): una llamada donde se pide informacion con cortesia (a un cliente, proveedor, area interna). **1 guest = quien pide info** con el molde (*"Could you tell me when the order ships? I'd like to know why it was delayed, and whether we can change the address."*); otro estudiante rota como quien responde; el resto = **OBSERVERS ACTIVOS** (2 errores, 1 acierto, 1 pregunta). Tu = COACH desde afuera — NUNCA juegas guest. Ojo al orden afirmativo dentro de la embedded ("...where the office IS", no "where is the office").
+3. 3 rotaciones (~9'). Debrief por TIPOS (anonimo): moldes limpios vs orden de pregunta dentro de la embedded ("tell me where is it") / falta de "if/whether" sin palabra de pregunta.
+4. **Cierre FORTALEZA (3'):** *"Fortitude day two — name one hard question you'll ask this week, politely but bravely."* — 2 respuestas maximo.
 
 ## BLOQUE 4 — CIERRE (15')
 
-1. **Ticket de salida (5', sentados):** 3-5 frases sobre SU trabajo, cada una con 2-3 adjetivos en el orden correcto (minimo 1 con opinion+size+color). Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
+1. **Ticket de salida (5', sentados):** 3-5 frases sobre SU trabajo: minimo 2 con pronombre relativo (who/which/that/where/when) + 2 preguntas embedded ("Could you tell me...", "I'd like to know if..."). Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
 HOMEWORK CL 37 CONV — DUE Cl 38, BEFORE 7:00 PM
 TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE "Describe my workspace" — 8 lines about real things at
-    your work, each with 2-3 adjectives in the traditional order
-    (opinion-size-age-shape-color-material-use). Underline the
-    adjectives.
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: describe 4 real
-    objects and 1 person at your work, adjectives in order.
-    Label: B1-CONV-37. WhatsApp group.
-(3) Bring the paper to next class.
+(1) WRITE "My work, in detail" — 8 lines: 4 describing real
+    people/places/times with relative pronouns (who, which,
+    that, where/when) + 4 courteous embedded questions you
+    would really ask ("Could you tell me...", "I wonder if...").
+(2) PORTFOLIO audio (daily) — 2 min, eyes closed: describe 3
+    key people/places at work (relative clauses) + ask 3
+    polite embedded questions. Label: B1-CONV-37. WhatsApp group.
+(3) Bring the paper and YOUR B1 book to next class.
 ```
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Cl 38: saying what belongs to whom — 'mine, yours, hers, ours'. Fortitude continues. Evaluation questions go to coordination."*
+4. **Proxima clase:** *"Cl 38: the next module in the book — M8 Reported Speech. Fortitude continues, day 3. Evaluation questions go to coordination."*
 5. **PASE a Grammar HOY** (fisico, antes del cambio de bloque):
 ```
 PASE Conv -> Grammar — Cl 37 (mismo dia)
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
-Patrones orales de hoy: (a) orden invertido ("a black big car");
-(b) adjetivo despues del sustantivo ("a car black"); (c) adjetivo
-con -s ("two olds reports"); (d) coma/orden dudoso con 3
-adjetivos.
-Hoy apilaron adjetivos en orden. Tu bloque formaliza M38 "Order
-of Adjectives" (p.313-315): cantidad-opinion-tamano-edad-forma-
-color-origen/material-uso-sustantivo ("a big black car", "a
-beautiful big white house"). Los gaps (a)-(b) son tus blancos.
+Patrones orales de hoy: (a) orden de pregunta dentro de la
+embedded ("tell me where is it"); (b) "who" por "which" (o al
+reves); (c) falta de "if/whether" sin palabra de pregunta;
+(d) "the person which". Hoy combinaron ideas con relativos y
+pidieron info con cortesia. Tu bloque formaliza M7 completo
+(p.63-81): relative pronouns + restrictive/non-restrictive +
+embedded questions.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + product spec desk) ☐ PASE entregado ☐ Conteo portafolio anotado
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board relative clauses + inquiry call) ☐ PASE entregado ☐ Conteo portafolio anotado
 
 [PAGEBREAK]
 
-## ANEXO — molde verbatim + Plan B (no leer literal en clase)
+## ANEXO — VERBATIM DEL LIBRO + PLAN B + NOTA INTERNA
 
-**M38 Order of Adjectives (A2 Book p.313-315):**
-```
-GUIA (p.313): orden tradicional del ingles —
-  Cantidad · Opinion · Tamano · Edad · Forma · Color ·
-  Nacionalidad/Origen/Material · Uso · Sustantivo
-Ejemplos de la tabla: "2 beautiful big round blue eyes" ·
-  "a heavy black American car" · "long straight brown hair" ·
-  "a small square whiteboard eraser"
-EJEMPLOS (p.314-315):
-  "I have a big black car."   "I want a small red car."
-  "I live in an old white house."  "Jenna has long red hair."
-  "You have two beautiful young children."
-  "My friends bought a nice new house."
-  "The president lives in a beautiful big white house."
-  "Ana is a tall slender girl."  "Frank is a short fat man."
-  "The Embraer 190 is a large Brazilian aircraft."
-```
-**Plan B (cero material impreso):** si no traen objetos, se describen cosas del salon o cosas cotidianas conocidas. Board + papel del estudiante como unico soporte.
+### M7 — Relative Pronouns & Embedded Questions (Guides 1-5, p.63-81)
+Cita p.63 (Simple RP): *"A relative pronoun connects two ideas... 'I know where you play.' / 'I know when you play.' / 'I know why you play.' / 'I know how you play.' / 'I know who you play with.' / 'I know what you play.' Notice that 'what' -> 'lo que', not 'that'."*
+Cita p.67 (Restrictive): *"The restrictive relative clause gives information that is necessary for identification. They almost always use 'that' for 'que'. 'The car that I bought is blue.'"*
+Cita p.71 (Non-restrictive): *"Non-restrictive clauses give information that is NOT necessary... separated by commas... almost always use 'which'. 'My house, which is big, is white.'"*
+Cita p.79 (Embedded): *"The relative clause uses the AFFIRMATIVE ORGANIZATION, not the question. CORRECT: 'Can you tell me what you need?' INCORRECT: 'Can you tell me what do you need?'... if there is no question word, we use 'if' or 'whether': 'I wonder if my dad went to the class.'"*
+Ejemplos p.64/68/72/80: *"I told Mary how to find the cat."* · *"The city where I live is beautiful."* · *"My sister, who is my hero, plays soccer."* · *"Do you know what time we are leaving?"* · *"I wonder where Ivan is."*
+
+### PLAN B (sin material)
+- Sin board: profe dicta la lista de relativos + el molde embedded; se practican de memoria en cadena.
+- Grupo chico (<4): en la llamada el profe hace de quien RESPONDE; un guest fijo pide info; el resto observa.
+- Sin dato propio: usa un caso neutro del board ("An order that hasn't arrived").
 
 ## NOTA INTERNA (no leer en clase)
+- Modulo HOY = M7 Relative Pronouns & Embedded Questions (p.63-81), verbatim en anexo. Modulo denso -> sesion de un solo modulo (a diferencia de Cl 34-36 que fueron dobles).
+- Recuperacion N-3 = Cl 34 (tags + either/neither/both, guia propia de este arco); N-7 = Cl 30 (equal comparatives as...as). **(SUPUESTO DE PLANEACIÓN — verificar N-7: cierre A2 Cl 27-33 en re-mapeo paralelo; estructura real del tramo final A2, numero ajustable.)**
+- Virtud: FORTALEZA v2 dia 2 (calendario absoluto). Cl 38 = dia 3.
+- MY STORY vivo rumbo al Final Cl 44 (evaluador externo).
 
-- Modulo ancla de hoy: A2 Book **M38 "Order of Adjectives" (Guia 1 p.313; Ejemplos p.314-315)**. Consolida M36-M37 (Cl 36). Conv lo APLICA oralmente; Grammar lo formaliza hoy mismo. NO enseñar la regla en Conv.
-- Recuperacion N-3 = Cl 34 (M32 how many); N-7 = Cl 30 (M26 equal comparatives). Verificado.
-- Virtud: FORTALEZA v2 dia 2 (calendario absoluto). Cl 36 fue dia 1; el bloque FORTALEZA v2 corre Cl 36-40 (cierra Cl 40).
-- MY STORY vivo rumbo al Final Cl 44 (evaluador externo; ese dia no se genera guia). Avance hoy: "the full picture of who I've become".
-- Profe sin material preparado: todo en tablero + papel del estudiante.
-
-### FRONTERA DE SALIDA (para el agente de Cl 38-44)
-- **Libro queda en:** M38 cerrado hoy (Cl 37). Siguiente modulo = **M39 "possessive pronouns" (mine/yours/hers/ours)** — *(SUPUESTO DE PLANEACION — verificar titulo/paginas verbatim en el A2 Book; M40 es hueco conocido -> saltar).*
-- **Cl 38 = M39** (Grammar formaliza; Conv aplica el mismo tema en produccion oral). Ritmo: 1 modulo existente por sesion salvo emparejamiento por cierre.
-- **Tareas dejadas hoy (ambos tracks, due Cl 38 antes 7 PM):** CONV = "Describe my workspace" 8 lineas con 2-3 adjetivos en orden + audio B1-CONV-37. GRAMMAR = 12 lineas orden de adjetivos + audio B1-GRAMMAR-37.
-- **PASE pendiente:** Grammar Cl 37 -> Conv Cl 38 (ver guia Grammar Cl 37) anuncia M39 y deja los gaps de orden de adjetivos.
-- **Virtud:** FORTALEZA v2 corre Cl 36-40 (hoy dia 2). Cl 38-40 = FORTALEZA v2 dias 3-5; Cl 41-44 = SINTESIS (integracion de las 4 virtudes) — confirmado en CALENDARIO_VIRTUDES_2026.md (B1 daytime; el nivel tiene 44 clases).
-- **Cronograma:** Cl 44 = FINAL (evaluador externo, NO se genera guia ese dia).
+### FRONTERA DE SALIDA (para el agente de Cl 38-41)
+- **Libro B1 queda en: M7 CERRADO hoy (Cl 37).** Siguiente modulo existente = **M8 "Reported Speech — He Said, She Said" (B1 Book p.83+)** — verificar titulo/paginas verbatim en el libro.
+- **Cl 38 = M8** (Grammar formaliza; Conv aplica el mismo tema en produccion oral). Cubierto en Cl 34-37: M1 (Cl34), M2 (Cl34), M3 (Cl35), M4 straight (Cl35), M5 (Cl36), M6 (Cl36), M7 (Cl37). **Ritmo: 2 modulos/sesion en Cl 34-36, 1 modulo en Cl 37 (M7 denso).**
+- **PRIMERA MITAD cubierta = M1-M7 (7 de 12 modulos del libro B1).** El libro tiene **12 modulos, NO 13** (ver indice completo en el reporte). La segunda mitad (Cl 38-41) = **M8-M12 (5 modulos)**: M8 Reported Speech, M9 More About Perfect Tenses, M10 The Causative, M11 Advanced Adjectives, M12 Advanced Pronouns.
+- **Tareas dejadas hoy (ambos tracks, due Cl 38 antes 7 PM):** CONV = "My work, in detail" 8 lineas (relativos + embedded) + audio B1-CONV-37. GRAMMAR = 12 frases (relativos + embedded) + audio B1-GRAMMAR-37. Ambas incluyen portafolio diario.
+- **PASE pendiente:** Grammar Cl 37 -> Conv Cl 38 (ver guia Grammar Cl 37): anuncia M8, deja gaps de M7 (orden en embedded / who-which / if-whether). Conv Cl 38 abre con el tema de M8 en produccion oral.
+- **Virtud:** Cl 36-40 = FORTALEZA v2 (hoy dia 2). Cl 38 = dia 3.
+- **Cronograma:** Cl 44 = FINAL (evaluador externo, NO se genera guia ese dia). M11 "Advanced Adjectives" y M12 "Advanced Pronouns" cierran el libro antes de Cl 44.

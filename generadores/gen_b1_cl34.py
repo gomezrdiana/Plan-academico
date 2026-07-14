@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 import os as _hos, sys as _hsys
 _hsys.path.insert(0, _hos.path.dirname(_hos.path.dirname(_hos.path.abspath(__file__))))
-"""B1 MASTERY Cl 34 — HOJA DE RUTA (2 tracks). JUSTICIA v2 dia 4:
-- CONV (primero): Counting Fairly + Staffing Meeting. Prepara M32 oral.
-- GRAMMAR (segundo, ~86% DE PIE): A2 Book M32 "How Many People Are There?" —
-  countable quantities (how many / many / a few / a lot of, p.273-275).
-  M31 NO existe (salta 30->32).
+"""B1 MASTERY Cl 34 — HOJA DE RUTA (2 tracks). ABRE EL LIBRO B1. JUSTICIA v2 dia 4:
+- CONV (primero): estrena SU libro B1 + Confirming Fairly (tags) + Two-Option Decision.
+- GRAMMAR (segundo, ~86% DE PIE): B1 Book M1 "Question Tags" (p.3-5) + M2 "Either,
+  Neither, Both" (p.7-19).
 Solo guias (los reportes los hace gen_reporte_v3.py)."""
 import os
 from gen_a1_a2_clases_pdfs import md_to_pdf

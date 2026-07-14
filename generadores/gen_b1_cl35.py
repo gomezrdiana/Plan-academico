@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 import os as _hos, sys as _hsys
 _hsys.path.insert(0, _hos.path.dirname(_hos.path.dirname(_hos.path.abspath(__file__))))
-"""B1 MASTERY Cl 35 — HOJA DE RUTA (2 tracks). JUSTICIA v2 dia 5 (CIERRA):
-- CONV (primero): Pricing Fairly + Budget/Quote Meeting. Prepara M33+M34 oral.
-- GRAMMAR (segundo, ~86% DE PIE): A2 Book M33 "How Much Money?" (uncountable,
-  p.283-284) + M34 "How Much Does It Cost?" (prices, p.293-294). Emparejados por cierre.
+"""B1 MASTERY Cl 35 — HOJA DE RUTA (2 tracks). JUSTICIA v2 dia 5 (CIERRA bloque):
+- CONV (primero): Reading the Evidence (deduction) + "What Would You Have Done?".
+- GRAMMAR (segundo, ~86% DE PIE): B1 Book M3 "Deduction" (p.23-25) + M4 "The Third
+  Conditional" straight (p.29-31).
 Solo guias (los reportes los hace gen_reporte_v3.py)."""
 import os
 from gen_a1_a2_clases_pdfs import md_to_pdf
