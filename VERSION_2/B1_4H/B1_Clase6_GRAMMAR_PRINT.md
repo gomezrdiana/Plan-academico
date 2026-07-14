@@ -14,14 +14,15 @@
 
 **Objective: wake the review arc and point it at today's three shapes.**
 
-1. **Recuperacion (10', oral, DE PIE, en cadena, sin cuaderno).** Disparadores de Cl 3 (Cl 6 no tiene N-7); errores al tablero anonimos; 1 min de re-produccion correcta al final:
+1. **Recuperacion (8', oral, DE PIE, en cadena, sin cuaderno).** Disparadores de Cl 3 (Cl 6 no tiene N-7); errores al tablero anonimos; 1 min de re-produccion correcta al final:
    - "Advice + a number: 'You should call before 9.'" (Cl 3)
    - "Say your floor and your extension as real numbers." (Cl 3)
    - "SHOULD or SHOULDN'T: '___ eat at your desk every day?'" (Cl 3)
    - "Fix it: 'You should to arrive early.'" (Cl 3)
 2. **Frase del Dia (4').** Board antes de empezar; 2 lecturas, coro 2x, 1 solo. Insertala 3+ veces; al cierre 1 la dice de memoria + 1 la usa en oracion nueva.
 3. **Chequeo publico de portafolio (3').** *"Who sent their daily audio since last class?"* Anota numeros; no revisas contenido (coordinacion).
-4. **PASE recibido de Conv (hoy) (3'):** lee los 3 gaps en voz alta: *"These came out of your mouths this morning. We seal them on paper now — the -s and the auxiliary."*
+4. **Revision tarea Cl 5 (3').** Sobre la mesa: las 12 frases de rutina del role model (3a persona) + audio diario enviado. Recoge los papeles; no-entregas a tu cuaderno (nombre SOLO ahi).
+5. **PASE recibido de Conv (hoy) (2'):** lee los 3 gaps en voz alta: *"These came out of your mouths this morning. We seal them on paper now — the -s and the auxiliary."*
 
 > [VIRTUD] Board: "TEMPERANCE — DAY 1". Di: *"Temperance holds the rule even when it feels boring. Especially then. Three shapes, one -s, no drama."*
 

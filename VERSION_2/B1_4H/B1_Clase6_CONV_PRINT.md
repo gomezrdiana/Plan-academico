@@ -11,14 +11,15 @@
 
 **Objective: reactivate the review arc and open the Present Simple orally.**
 
-1. **Recuperacion (10', oral, DE PIE, en cadena, sin cuaderno).** Disparadores del contenido de Cl 3 (Cl 6 no tiene N-7). Errores oidos al tablero ANONIMOS; cierra con 1 min de re-produccion correcta:
+1. **Recuperacion (8', oral, DE PIE, en cadena, sin cuaderno).** Disparadores del contenido de Cl 3 (Cl 6 no tiene N-7). Errores oidos al tablero ANONIMOS; cierra con 1 min de re-produccion correcta:
    - "One recommendation for a new coworker: 'You SHOULD...' / 'You SHOULDN'T...'." (Cl 3)
    - "Say a real number out loud: your extension, your floor, how many people on your team." (Cl 3)
    - "Give me advice + a number: 'You should arrive 10 minutes early.'" (Cl 3)
    - "Fix it: 'You should to call the client.'" (Cl 3)
 2. **Frase del Dia (4').** Escribela en el tablero ANTES de empezar. Leela 2 veces, coro 2 veces, 1 estudiante solo. Insertala natural 3+ veces hoy; al cierre 1 estudiante la dice de memoria y otro la usa en oracion nueva.
 3. **Chequeo publico de portafolio (3').** Pregunta en voz alta: *"Who sent their daily audio or video since last class?"* Anota numeros (cuantos si / cuantos no). NO revisas el contenido — eso es coordinacion. Di: *"The daily audio is part of the deal — one short recording every day."*
-4. **PASE recibido de Grammar (Cl 5) (3'):** leelo en voz alta. Bridge: *"Last class you named the present. Today you speak it: your real week — what you do, what your team does. The -s on he/she/it is where we listen hardest."*
+4. **Revision tarea Cl 5 (3').** Sobre la mesa: MY STORY piece 4 en papel (10 lineas: rutina propia + role model en 3a persona) + audio #5 enviado. Recoge los papeles. No-entregas a tu cuaderno (nombre SOLO ahi): *"Homework is the contract."*
+5. **PASE recibido de Grammar (Cl 5) (2'):** leelo en voz alta. Bridge: *"Last class you named the present. Today you speak it: your real week — what you do, what your team does. The -s on he/she/it is where we listen hardest."*
 
 > [VIRTUD] Escribe "TEMPERANCE — DAY 1, OPENING" y di: *"Temperance is the steady rhythm — not the one dramatic day, the truth of how every day runs. This week we measure and hold. Starting with your routine."*
 

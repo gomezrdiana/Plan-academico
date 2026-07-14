@@ -18,7 +18,7 @@
    - "IN, ON or AT: ___ Monday? ___ 2020? ___ 8:00?" (Cl 4)
 2. **Chequeo publico de portafolio (3').** *"Who sent their daily audio/video?"* Pregunta y anota numeros en tu cuaderno. NO revisas contenido — eso es coordinacion.
 3. **Frase del Dia (4').** Escribela en el tablero ANTES de empezar. 2 lecturas, coro 2x, 1 estudiante solo. Insertala natural 3+ veces hoy; al cierre 1 la dice de memoria + 1 la usa en oracion nueva.
-4. **Revision tarea Cl 10 (3').** Sobre la mesa: 12 oraciones (object pronouns + indirect order + tell/ask) + audio enviado. Recoge el papel. No-entregas a tu cuaderno (nombre SOLO ahi): *"Homework is the contract."*
+4. **Revision tarea Cl 10 (3').** Sobre la mesa: 10 oraciones de la semana con object pronouns subrayados + las 3 frases de MY STORY ("a person who helped me") + audio B1-CONV-10 enviado. Recoge el papel. No-entregas a tu cuaderno (nombre SOLO ahi): *"Homework is the contract."*
 5. **PASE recibido de Grammar (Cl 10):** leelo en voz alta. Bridge: *"Yesterday the pronoun sat after the verb — 'I called HIM'. Today the verb itself changes shape — 'I called HIM yesterday'. The pronoun stays, the verb adds ED."*
 
 > [VIRTUD] Escribe "JUSTICE — DAY 1, OPENING". Di: *"Justice means giving each action its fair form in time. The past has its own shape: verb + ED. This week we name what happened with precision — and we give each teammate credit for what they did."*
