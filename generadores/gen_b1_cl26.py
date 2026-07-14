@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 import os as _hos, sys as _hsys
 _hsys.path.insert(0, _hos.path.dirname(_hos.path.dirname(_hos.path.abspath(__file__))))
-"""B1 MASTERY Cl 26 — HOJA DE RUTA (2 tracks). ABRE TEMPLANZA v2 (dia 1):
-- CONV (primero): Routines Around a Moment + Shift Handover. Prepara M21 oral.
-- GRAMMAR (segundo, ~86% DE PIE): A2 Book M21 "We Shouldn't Swim After Eating"
-  — Gerunds after Prepositions (p.197-200).
-  Anuncio Cl 27 = M22 "I Love Swimming!" (double verbs) + TEMPLANZA v2 dia 2.
+"""B1 MASTERY Cl 26 — HOJA DE RUTA (2 tracks). REPASO COMPRIMIDO A2 (libro B1 entra Cl 34).
+ABRE TEMPLANZA v2 (dia 1). Modulos comprimidos HOY = M21 + M22 (familia gerundios):
+- CONV (primero): rutinas (before/after/without + -ing) + metas (want to / love -ing).
+- GRAMMAR (segundo, ~86% DE PIE): A2 Book M21 (gerundio tras preposicion, p.197-200)
+  + M22 (doble verbo to/-ing, p.207-209), activacion rapida + mezcla + simulacion.
+  Anuncio Cl 27 = M23 + M24 (phrasal verbs) + TEMPLANZA v2 dia 2.
 Solo guias (los reportes los hace gen_reporte_v3.py)."""
 import os
 from gen_a1_a2_clases_pdfs import md_to_pdf

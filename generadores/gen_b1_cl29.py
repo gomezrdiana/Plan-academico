@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 import os as _hos, sys as _hsys
 _hsys.path.insert(0, _hos.path.dirname(_hos.path.dirname(_hos.path.abspath(__file__))))
-"""B1 MASTERY Cl 29 — HOJA DE RUTA (2 tracks). TEMPLANZA v2 dia 4:
-- CONV (primero): Running the Logistics + Event Coordination Call. Prepara M24 oral.
-- GRAMMAR (segundo, ~86% DE PIE): A2 Book M24 "I'll Pick You Up at 8:00" —
-  Separable Phrasal Verbs (pronombre en medio: pick her up / turn it off) (p.233-236).
-  Anuncio Cl 30 = M26 comparativos iguales (M25 NO existe) + TEMPLANZA v2 dia 5.
+"""B1 MASTERY Cl 29 — HOJA DE RUTA (2 tracks). REPASO COMPRIMIDO A2 (libro B1 entra Cl 34).
+TEMPLANZA v2 dia 4. Modulos comprimidos HOY = M29 + M30 (grados/intensificadores + so/too/enough):
+- CONV (primero): describir con la intensidad justa en el trabajo (very/quite/too/enough).
+- GRAMMAR (segundo, ~86% DE PIE): A2 Book M29 (grados/intensificadores) + M30 (so/too/enough),
+  activacion rapida + mezcla + simulacion integradora.
+  Anuncio Cl 30 = quantities and prices (how many / how much) + TEMPLANZA v2 dia 5.
 Solo guias (los reportes los hace gen_reporte_v3.py)."""
 import os
 from gen_a1_a2_clases_pdfs import md_to_pdf

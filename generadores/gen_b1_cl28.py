@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 import os as _hos, sys as _hsys
 _hsys.path.insert(0, _hos.path.dirname(_hos.path.dirname(_hos.path.abspath(__file__))))
-"""B1 MASTERY Cl 28 — HOJA DE RUTA (2 tracks). TEMPLANZA v2 dia 3:
-- CONV (primero): The People I Work With + Onboarding Buddy. Prepara M23 oral.
-- GRAMMAR (segundo, ~86% DE PIE): A2 Book M23 "I Asked for A Pencil" — Basic
-  Non-Separable Phrasal Verbs (look after / listen to / ask for) (p.221-224).
-  Anuncio Cl 29 = M24 phrasal verbs separables + TEMPLANZA v2 dia 4.
+"""B1 MASTERY Cl 28 — HOJA DE RUTA (2 tracks). REPASO COMPRIMIDO A2 (libro B1 entra Cl 34).
+TEMPLANZA v2 dia 3. Modulos comprimidos HOY = M26 + M27 + M28 (comparacion completa; M25 NO existe):
+- CONV (primero): comparar opciones/personas/herramientas del trabajo (igual/desigual/superlativo).
+- GRAMMAR (segundo, ~86% DE PIE): A2 Book M26 (igual "as...as") + M27 (desigual "...er/more...than")
+  + M28 (superlativo "the ...est/the most"), activacion rapida + mezcla + simulacion.
+  Anuncio Cl 29 = M29 + M30 (grados/intensificadores + so/too/enough) + TEMPLANZA v2 dia 4.
 Solo guias (los reportes los hace gen_reporte_v3.py)."""
 import os
 from gen_a1_a2_clases_pdfs import md_to_pdf
