@@ -2,11 +2,11 @@
 import os as _hos, sys as _hsys
 _hsys.path.insert(0, _hos.path.dirname(_hos.path.dirname(_hos.path.abspath(__file__))))
 """B1 MASTERY Cl 41 — HOJA DE RUTA (2 tracks). SINTESIS dia 1 (PRUDENCIA+FORTALEZA):
-- CONV: How Do You Work? (adverbs) + "I want you to..." (delegation). Aplica M43+M44.
-- GRAMMAR (~86% DE PIE): A2 Book M43 "How Do You Do?" — Adverbs of Manner
-  (p.340-345) + M44 "I Want You to Go" — The Active Causative (p.347-351).
-  M44 = ULTIMO modulo del libro (cierra como hito verbal; abre SINTESIS).
-  Frontera: Cl 42 = PREP PROYECTO FINAL + SINTESIS dia 2.
+- CONV: Everyone/someone/myself + The Closing Roundtable. Aplica M12 oral.
+- GRAMMAR (~86% DE PIE): B1 Book M12 "Advanced Pronouns — I Can Do It Myself!"
+  (indefinite p.147 + reflexive p.151 + reciprocal p.155) (p.145-155).
+  M12 = ULTIMO modulo del libro B1 (CIERRA M1-M12; abre SINTESIS).
+  Frontera: Cl 42 = armado de PRESENTACION FINAL + SINTESIS dia 2. Cl 44 = Final externo.
 Solo guias (los reportes los hace gen_reporte_v3.py)."""
 import os
 from gen_a1_a2_clases_pdfs import md_to_pdf

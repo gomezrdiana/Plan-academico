@@ -2,10 +2,10 @@
 import os as _hos, sys as _hsys
 _hsys.path.insert(0, _hos.path.dirname(_hos.path.dirname(_hos.path.abspath(__file__))))
 """B1 MASTERY Cl 38 — HOJA DE RUTA (2 tracks). FORTALEZA v2 dia 3:
-- CONV: Whose is this? + The Handover Meeting. Prepara M39 oral.
-- GRAMMAR (~86% DE PIE): A2 Book M39 "Mine, All Mine!" — Possessive Pronouns
-  as Objects (whose + mine/yours/his/hers/ours/theirs + 's) (p.318-320).
-  Frontera: Cl 39 = M41 (M40 NO existe) + FORTALEZA v2 dia 4.
+- CONV: What did they say? + The Message Relay. Aplica M8 oral.
+- GRAMMAR (~86% DE PIE): B1 Book M8 "Reported Speech — He Said, She Said"
+  (say/tell/ask + back-shift table) (p.83-96).
+  Frontera: Cl 39 = M9 Perfect Tenses + FORTALEZA v2 dia 4.
 Solo guias (los reportes los hace gen_reporte_v3.py)."""
 import os
 from gen_a1_a2_clases_pdfs import md_to_pdf

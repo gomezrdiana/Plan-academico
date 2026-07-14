@@ -2,10 +2,11 @@
 import os as _hos, sys as _hsys
 _hsys.path.insert(0, _hos.path.dirname(_hos.path.dirname(_hos.path.abspath(__file__))))
 """B1 MASTERY Cl 40 — HOJA DE RUTA (2 tracks). FORTALEZA v2 dia 5 (CIERRA bloque):
-- CONV: Getting There + The Turnaround Story. Prepara M42 oral.
-- GRAMMAR (~86% DE PIE): A2 Book M42 "Getting Crazy!" — Changes of State with
-  GET (present/past/future/continuous + participle) (p.333-338).
-  Frontera: Cl 41 = M43 + M44 (ULTIMO modulo) + SINTESIS dia 1.
+- CONV: Get it done + Tell me about it + The Handover Briefing. Aplica M10+M11 oral.
+- GRAMMAR (~86% DE PIE): B1 Book M10 "The Causative" (active + passive, p.117-126)
+  + M11 "Advanced Adjectives" (noun-adj, prefixes/suffixes, compound, impersonal,
+  p.127-144), doble.
+  Frontera: Cl 41 = M12 Advanced Pronouns (ULTIMO modulo, cierra libro) + SINTESIS dia 1.
 Solo guias (los reportes los hace gen_reporte_v3.py)."""
 import os
 from gen_a1_a2_clases_pdfs import md_to_pdf

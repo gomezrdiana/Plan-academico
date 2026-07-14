@@ -2,10 +2,10 @@
 import os as _hos, sys as _hsys
 _hsys.path.insert(0, _hos.path.dirname(_hos.path.dirname(_hos.path.abspath(__file__))))
 """B1 MASTERY Cl 39 — HOJA DE RUTA (2 tracks). FORTALEZA v2 dia 4:
-- CONV: Boring vs Bored + The Feedback Conversation. Prepara M41 oral.
-- GRAMMAR (~86% DE PIE): A2 Book M41 "This Is Interesting!" — Participle
-  Adjectives (-ing cause / -ed feeler) (p.326-330). M40 NO existe (saltado).
-  Frontera: Cl 40 = M42 + FORTALEZA v2 dia 5.
+- CONV: Done, and done before + The Progress Review. Aplica M9 oral.
+- GRAMMAR (~86% DE PIE): B1 Book M9 "More About Perfect Tenses"
+  (present/past/future perfect + perfect continuous + already/yet) (p.97-116).
+  Frontera: Cl 40 = M10 Causative + M11 Advanced Adjectives + FORTALEZA v2 dia 5.
 Solo guias (los reportes los hace gen_reporte_v3.py)."""
 import os
 from gen_a1_a2_clases_pdfs import md_to_pdf
