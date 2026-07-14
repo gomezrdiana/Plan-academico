@@ -16,7 +16,7 @@ os.makedirs(B1_REPORTES, exist_ok=True)
 # 1. PDF GUIA Cl 11 GRAMMAR (incluye ANEXO A escenarios + ANEXO B role cards)
 # ============================================================
 md_to_pdf(
-    os.path.join(B1_DIR, 'B1_Clase11_GRAMMAR_PRINT.md'),
+    os.path.join(B1_DIR, 'GRAMATICA', 'B1_Clase11_GRAMMAR_PRINT.md'),
     os.path.join(B1_DIR, 'B1_Clase11_GRAMMAR_GUIA.pdf'),
 )
 print('OK: B1_Clase11_GRAMMAR_GUIA.pdf')

@@ -14,11 +14,11 @@ os.makedirs(REPORTES_DIR, exist_ok=True)
 
 # =================== GUIAS (md -> PDF) ===================
 md_to_pdf(
-    os.path.join(B1_DIR, 'B1_Clase5_GRAMMAR_PRINT.md'),
+    os.path.join(B1_DIR, 'GRAMATICA', 'B1_Clase5_GRAMMAR_PRINT.md'),
     os.path.join(B1_DIR, 'B1_Clase5_GRAMMAR_GUIA.pdf'),
 )
 md_to_pdf(
-    os.path.join(B1_DIR, 'B1_Clase5_CONV_PRINT.md'),
+    os.path.join(B1_DIR, 'CONVERSACION', 'B1_Clase5_CONV_PRINT.md'),
     os.path.join(B1_DIR, 'B1_Clase5_CONV_GUIA.pdf'),
 )
 

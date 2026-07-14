@@ -19,7 +19,7 @@ os.makedirs(B1_REPORTES, exist_ok=True)
 # ============================================================
 
 md_to_pdf(
-    os.path.join(B1_DIR, 'B1_Clase9_GRAMMAR_PRINT.md'),
+    os.path.join(B1_DIR, 'GRAMATICA', 'B1_Clase9_GRAMMAR_PRINT.md'),
     os.path.join(B1_DIR, 'B1_Clase9_GRAMMAR_GUIA.pdf'),
 )
 print('OK: B1_Clase9_GRAMMAR_GUIA.pdf (ALTERNATIVA)')
@@ -86,7 +86,7 @@ print('OK: B1_Clase9_GRAMMAR_REPORTE.pdf (ALTERNATIVA)')
 # ============================================================
 
 md_to_pdf(
-    os.path.join(B1_DIR, 'B1_Clase9_CONV_PRINT.md'),
+    os.path.join(B1_DIR, 'CONVERSACION', 'B1_Clase9_CONV_PRINT.md'),
     os.path.join(B1_DIR, 'B1_Clase9_CONV_GUIA.pdf'),
 )
 print('OK: B1_Clase9_CONV_GUIA.pdf (ALTERNATIVA)')

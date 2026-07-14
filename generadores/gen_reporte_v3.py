@@ -14,7 +14,7 @@ V2 = _hos.path.join(ROOT, 'VERSION_2')
 COHORTE_LABEL = {
     'A1_4H': 'A1 (4h)', 'A1_2H': 'A1 (2h noche)',
     'A2_4H': 'A2 (4h)', 'A2_2H': 'A2 (2h PM)',
-    'B1_4H': 'B1 Mastery (4h AM)', 'B1_2H': 'B1 (2h noche)',
+    'B1_4H/CONVERSACION': 'B1 Mastery (4h AM)', 'B1_4H/GRAMATICA': 'B1 Mastery (4h AM)', 'B1_2H': 'B1 (2h noche)',
     'B2_4H': 'B2 (4h)', 'B2_2H': 'B2 (2h noche)',
 }
 
@@ -79,7 +79,7 @@ def track_de(nombre):
 
 
 def generar(cohorte):
-    carpeta = _hos.path.join(V2, cohorte)
+    carpeta = _hos.path.join(V2, *cohorte.split('/'))
     prints = sorted(glob.glob(_hos.path.join(carpeta, '*_PRINT.md')))
     if not prints:
         return 0

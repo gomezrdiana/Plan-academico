@@ -16,7 +16,7 @@ os.makedirs(B1_REPORTES, exist_ok=True)
 # 1. PDF GUIA Cl 11 CONV (incluye anexo PROFESOR integrado al final)
 # ============================================================
 md_to_pdf(
-    os.path.join(B1_DIR, 'B1_Clase11_CONV_PRINT.md'),
+    os.path.join(B1_DIR, 'CONVERSACION', 'B1_Clase11_CONV_PRINT.md'),
     os.path.join(B1_DIR, 'B1_Clase11_CONV_GUIA.pdf'),
 )
 print('OK: B1_Clase11_CONV_GUIA.pdf')

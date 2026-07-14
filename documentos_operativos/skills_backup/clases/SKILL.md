@@ -19,7 +19,7 @@ Si la fecha es ambigua, resuélvela con el contexto (`currentDate` del entorno +
 | Cohorte | Profe(s) | Formato | Total nivel | Archivos |
 |---|---|---|---|---|
 | **A2 4h AM** intensivo | Tomás | 4h · 28 cl · A2 110h | 110h | `A2/A2_4h_Class{N}_PRINT.md` — **TERMINADO (Cl 28/28, final 29/05)** |
-| **B1 Mastery 4h AM** | Danna Conv 8-10 + Juan Diego Grammar 10-12 | 4h = 2 bloques · 44 ses · B1 175h | 175h | `VERSION_2/B1_4H/B1_Clase{N}_CONV_PRINT.md` y `..._GRAMMAR_PRINT.md` → GUIA en `VERSION_2/B1_4H/GUIAS/` · REPORTE en `VERSION_2/B1_4H/REPORTES/` |
+| **B1 Mastery 4h AM** | Danna Conv 8-10 + Juan Diego Grammar 10-12 | 4h = 2 bloques · 44 ses · B1 175h | 175h | **B1 va dividido por TRACK (desde 14/07):** CONV en `VERSION_2/B1_4H/CONVERSACION/` y GRAMMAR en `VERSION_2/B1_4H/GRAMATICA/` — cada track con sus PRINT en la raíz + `GUIAS/` + `REPORTES/`. Cada profe recibe SOLO su carpeta. Reportes: `python generadores/gen_reporte_v3.py B1_4H/CONVERSACION B1_4H/GRAMATICA` |
 | **A1 noche** | Christian (cohorte de 6) | 2h · 45 cl | 90h | `A1/A1_Class{N}_PRINT.md` — **TERMINADO (Cl 45/45)** |
 | **A1 4h AM** (nuevo desde 06/07/2026) | (por confirmar) | 4h · ~22-23 cl | 90h | `VERSION_2/A1_4H/A1_4h_Class{N}_PRINT.md` → GUIA en `VERSION_2/A1_4H/GUIAS/` · REPORTE en `VERSION_2/A1_4H/REPORTES/` · hitos: mini-pres Cl 6 · midterm Cl 11-12 · final Cl 22-23 · proyecto "MY WORLD" (supuesto por confirmar) |
 | **A2 PM noche (cohorte nuevo desde ~15/06)** | Tomás | 2h · 55 cl | 110h | `VERSION_2/A2_2H/A2_Class{N}_PRINT.md` → GUIA en `VERSION_2/A2_2H/GUIAS/` · REPORTE en `VERSION_2/A2_2H/REPORTES/` (Cl 14-18 ya en hoja de ruta) |

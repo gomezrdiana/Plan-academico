@@ -17,8 +17,8 @@ CV = os.path.join(D, 'VERSION_2', 'B1_4H')
 GV = os.path.join(D, 'VERSION_2', 'B1_4H')
 
 # ---------------- CONV ----------------
-md_to_pdf(os.path.join(B1, 'B1_Clase25_CONV_PRINT.md'),
-          os.path.join(B1, 'GUIAS', 'B1_Clase25_CONV_GUIA.pdf'))
+md_to_pdf(os.path.join(B1, 'CONVERSACION', 'B1_Clase25_CONV_PRINT.md'),
+          os.path.join(B1, 'CONVERSACION', 'GUIAS', 'B1_Clase25_CONV_GUIA.pdf'))
 print('OK: B1_Clase25_CONV_GUIA.pdf')
 
 act_c = [
@@ -51,15 +51,15 @@ eva_c = [
     'Sin nombres; sin GoldList; evaluaciones = coordinacion',
 ]
 build_report_v2(
-    os.path.join(B1, 'REPORTES', 'B1_Clase25_CONV_REPORTE.pdf'),
+    os.path.join(B1, 'CONVERSACION', 'REPORTES', 'B1_Clase25_CONV_REPORTE.pdf'),
     'B1 MASTERY | Cl 25 de 44 | CONV | WHAT MATTERS HERE + ONBOARDING PANEL | PRUDENCIA v2 dia 5 (CIERRA)',
     'Prioridades y principios con la actividad como sujeto ("Arriving on time is respect") + panel de onboarding con observadores activos. Grammar formaliza M20 hoy. Cierra PRUDENCIA v2; Cl 26 abre TEMPLANZA v2. PASE bidireccional.',
     act_c, del_c, eva_c, S)
 print('OK: B1_Clase25_CONV_REPORTE.pdf')
 
 # ---------------- GRAMMAR ----------------
-md_to_pdf(os.path.join(B1, 'B1_Clase25_GRAMMAR_PRINT.md'),
-          os.path.join(B1, 'GUIAS', 'B1_Clase25_GRAMMAR_GUIA.pdf'))
+md_to_pdf(os.path.join(B1, 'GRAMATICA', 'B1_Clase25_GRAMMAR_PRINT.md'),
+          os.path.join(B1, 'GRAMATICA', 'GUIAS', 'B1_Clase25_GRAMMAR_GUIA.pdf'))
 print('OK: B1_Clase25_GRAMMAR_GUIA.pdf')
 
 act_g = [
@@ -93,7 +93,7 @@ eva_g = [
     'Tarea 30-45 min NO fragmentada + audio portafolio, due Cl 26 antes 7:00 PM',
 ]
 build_report_v2(
-    os.path.join(B1, 'REPORTES', 'B1_Clase25_GRAMMAR_REPORTE.pdf'),
+    os.path.join(B1, 'GRAMATICA', 'REPORTES', 'B1_Clase25_GRAMMAR_REPORTE.pdf'),
     'B1 MASTERY | Cl 25 de 44 | GRAMMAR (~86% DE PIE) | M20 GERUNDS AS SUBJECTS (M19 NO EXISTE) | PRUDENCIA v2 CIERRA',
     'A2 Book M20 "Playing is Fun!" (p.181-184): gerundio en posicion de sujeto + contraste con continuo + Advice Round con observadores activos. M19 NO existe (verificado). Anuncio Cl 26 = M21 + TEMPLANZA v2.',
     act_g, del_g, eva_g, S)

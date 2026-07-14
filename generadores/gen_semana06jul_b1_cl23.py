@@ -18,8 +18,8 @@ CV = os.path.join(D, 'VERSION_2', 'B1_4H')
 GV = os.path.join(D, 'VERSION_2', 'B1_4H')
 
 # ---------------- CONV ----------------
-md_to_pdf(os.path.join(B1, 'B1_Clase23_CONV_PRINT.md'),
-          os.path.join(B1, 'GUIAS', 'B1_Clase23_CONV_GUIA.pdf'))
+md_to_pdf(os.path.join(B1, 'CONVERSACION', 'B1_Clase23_CONV_PRINT.md'),
+          os.path.join(B1, 'CONVERSACION', 'GUIAS', 'B1_Clase23_CONV_GUIA.pdf'))
 print('OK: B1_Clase23_CONV_GUIA.pdf')
 
 act_c = [
@@ -52,15 +52,15 @@ eva_c = [
     'Anuncie Cl 24 (procesos: "my work, explained")',
 ]
 build_report_v2(
-    os.path.join(B1, 'REPORTES', 'B1_Clase23_CONV_REPORTE.pdf'),
+    os.path.join(B1, 'CONVERSACION', 'REPORTES', 'B1_Clase23_CONV_REPORTE.pdf'),
     'B1 MASTERY | Cl 23 de 44 | CONV | EXPERIENCE EXCHANGE + PROMOTION INTERVIEW | PRUDENCIA v2 dia 3',
     'Pivote oral experiencia abierta ("I have...") <-> detalle fechado ("I ... in 2019"); Grammar formaliza M17 hoy mismo. MY STORY avanza rumbo al Final. PASE bidireccional. Cero resultados del midterm.',
     act_c, del_c, eva_c, S)
 print('OK: B1_Clase23_CONV_REPORTE.pdf')
 
 # ---------------- GRAMMAR ----------------
-md_to_pdf(os.path.join(B1, 'B1_Clase23_GRAMMAR_PRINT.md'),
-          os.path.join(B1, 'GUIAS', 'B1_Clase23_GRAMMAR_GUIA.pdf'))
+md_to_pdf(os.path.join(B1, 'GRAMATICA', 'B1_Clase23_GRAMMAR_PRINT.md'),
+          os.path.join(B1, 'GRAMATICA', 'GUIAS', 'B1_Clase23_GRAMMAR_GUIA.pdf'))
 print('OK: B1_Clase23_GRAMMAR_GUIA.pdf')
 
 act_g = [
@@ -95,7 +95,7 @@ eva_g = [
     'NO comunique resultados del midterm',
 ]
 build_report_v2(
-    os.path.join(B1, 'REPORTES', 'B1_Clase23_GRAMMAR_REPORTE.pdf'),
+    os.path.join(B1, 'GRAMATICA', 'REPORTES', 'B1_Clase23_GRAMMAR_REPORTE.pdf'),
     'B1 MASTERY | Cl 23 de 44 | GRAMMAR (~86% DE PIE) | M17 PP vs SIMPLE PAST',
     'A2 Book M17 "You Didn\'t, or You Haven\'t?" (p.163-167): construccion desde el error real + timeline walk cerrado/abierto + Quarterly Review con observadores activos. PRUDENCIA v2 dia 3. PASE bidireccional.',
     act_g, del_g, eva_g, S)

@@ -14,7 +14,7 @@ B1_REPORTES = os.path.join(B1_DIR, 'reportes')
 
 # Re-genera GUIA Cl 9 Grammar
 md_to_pdf(
-    os.path.join(B1_DIR, 'B1_Clase9_GRAMMAR_PRINT.md'),
+    os.path.join(B1_DIR, 'GRAMATICA', 'B1_Clase9_GRAMMAR_PRINT.md'),
     os.path.join(B1_DIR, 'B1_Clase9_GRAMMAR_GUIA.pdf'),
 )
 

@@ -14,11 +14,11 @@ from generate_pdfs import get_styles, build_report_v2
 S = get_styles()
 D = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 B1 = os.path.join(D, 'VERSION_2', 'B1_4H')
-os.makedirs(B1, exist_ok=True); os.makedirs(os.path.join(B1, 'GUIAS'), exist_ok=True); os.makedirs(os.path.join(B1, 'REPORTES'), exist_ok=True)
+os.makedirs(B1, exist_ok=True); os.makedirs(os.path.join(B1, 'CONVERSACION', 'GUIAS'), exist_ok=True); os.makedirs(os.path.join(B1, 'GRAMATICA', 'GUIAS'), exist_ok=True); os.makedirs(os.path.join(B1, 'CONVERSACION', 'REPORTES'), exist_ok=True); os.makedirs(os.path.join(B1, 'GRAMATICA', 'REPORTES'), exist_ok=True)
 
 # ---------------- CONV ----------------
-md_to_pdf(os.path.join(B1, 'B1_Clase21_CONV_PRINT.md'),
-          os.path.join(B1, 'GUIAS', 'B1_Clase21_CONV_GUIA.pdf'))
+md_to_pdf(os.path.join(B1, 'CONVERSACION', 'B1_Clase21_CONV_PRINT.md'),
+          os.path.join(B1, 'CONVERSACION', 'GUIAS', 'B1_Clase21_CONV_GUIA.pdf'))
 print('OK: B1_Clase21_CONV_GUIA.pdf')
 
 act_c = [
@@ -53,15 +53,15 @@ eva_c = [
     'Anuncie Cl 22 = midterm presentations "My Story, My Goals" 5 min c/u',
 ]
 build_report_v2(
-    os.path.join(B1, 'REPORTES', 'B1_Clase21_CONV_REPORTE.pdf'),
+    os.path.join(B1, 'CONVERSACION', 'REPORTES', 'B1_Clase21_CONV_REPORTE.pdf'),
     'B1 MASTERY | Cl 21 de 44 | CONV (va PRIMERO) | HOJA DE RUTA | PRUDENCIA v2 dia 1',
     'Pitch v2 con "I have..." (aplica M15 oral; Grammar formaliza) + ensayo general midterm + estreno portafolio diario y ticket de salida + PASE bidireccional. Midterm Cl 22 anunciado desde Cl 1. Profe no comunica evaluaciones.',
     act_c, del_c, eva_c, S)
 print('OK: B1_Clase21_CONV_REPORTE.pdf')
 
 # ---------------- GRAMMAR ----------------
-md_to_pdf(os.path.join(GV, 'B1_Clase21_GRAMMAR_PRINT.md'),
-          os.path.join(B1, 'GUIAS', 'B1_Clase21_GRAMMAR_GUIA.pdf'))
+md_to_pdf(os.path.join(GV, 'GRAMATICA', 'B1_Clase21_GRAMMAR_PRINT.md'),
+          os.path.join(B1, 'GRAMATICA', 'GUIAS', 'B1_Clase21_GRAMMAR_GUIA.pdf'))
 print('OK: B1_Clase21_GRAMMAR_GUIA.pdf')
 
 act_g = [
@@ -97,7 +97,7 @@ eva_g = [
     'NO comunique nada del midterm de Cl 22 (coordinacion)',
 ]
 build_report_v2(
-    os.path.join(B1, 'REPORTES', 'B1_Clase21_GRAMMAR_REPORTE.pdf'),
+    os.path.join(B1, 'GRAMATICA', 'REPORTES', 'B1_Clase21_GRAMMAR_REPORTE.pdf'),
     'B1 MASTERY | Cl 21 de 44 | GRAMMAR (va SEGUNDO, ~86% DE PIE) | M15 PRESENT PERFECT REGULAR',
     'A2 Book M15 "I Have Visited London" (p.133-135): have/has + participio regular en papel + Progress Briefing con observadores activos + PASE bidireccional + PRUDENCIA v2 dia 1. Cl 22: Conv corre el midterm; Grammar sigue el libro (M16).',
     act_g, del_g, eva_g, S)

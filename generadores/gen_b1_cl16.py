@@ -16,11 +16,11 @@ GRAM_DIR = os.path.join(D, 'B1', 'B1_gramatica_V2')
 # ============================================================
 # 1. GUIA PDFs
 # ============================================================
-md_to_pdf(os.path.join(CONV_DIR, 'B1_Clase16_CONV_PRINT.md'),
+md_to_pdf(os.path.join(CONV_DIR, 'CONVERSACION', 'B1_Clase16_CONV_PRINT.md'),
           os.path.join(CONV_DIR, 'B1_Clase16_CONV_GUIA.pdf'))
 print('OK: B1_Clase16_CONV_GUIA.pdf')
 
-md_to_pdf(os.path.join(GRAM_DIR, 'B1_Clase16_GRAMMAR_PRINT.md'),
+md_to_pdf(os.path.join(GRAM_DIR, 'GRAMATICA', 'B1_Clase16_GRAMMAR_PRINT.md'),
           os.path.join(GRAM_DIR, 'B1_Clase16_GRAMMAR_GUIA.pdf'))
 print('OK: B1_Clase16_GRAMMAR_GUIA.pdf')
 

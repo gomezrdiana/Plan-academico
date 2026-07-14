@@ -19,7 +19,7 @@ GRAM_DIR = os.path.join(D, 'B1', 'B1_gramatica_V2')
 # 1. CONV — GUIA PDF
 # ============================================================
 md_to_pdf(
-    os.path.join(CONV_DIR, 'B1_Clase20_CONV_PRINT.md'),
+    os.path.join(CONV_DIR, 'CONVERSACION', 'B1_Clase20_CONV_PRINT.md'),
     os.path.join(CONV_DIR, 'B1_Clase20_CONV_GUIA.pdf'),
 )
 print('OK: B1_Clase20_CONV_GUIA.pdf')
@@ -77,7 +77,7 @@ print('OK: B1_Clase20_CONV_REPORTE.pdf')
 # 3. GRAMMAR — GUIA PDF
 # ============================================================
 md_to_pdf(
-    os.path.join(GRAM_DIR, 'B1_Clase20_GRAMMAR_PRINT.md'),
+    os.path.join(GRAM_DIR, 'GRAMATICA', 'B1_Clase20_GRAMMAR_PRINT.md'),
     os.path.join(GRAM_DIR, 'B1_Clase20_GRAMMAR_GUIA.pdf'),
 )
 print('OK: B1_Clase20_GRAMMAR_GUIA.pdf')
