@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 import os as _hos, sys as _hsys
 _hsys.path.insert(0, _hos.path.dirname(_hos.path.dirname(_hos.path.abspath(__file__))))
-"""B1 MASTERY Cl 30 — HOJA DE RUTA (2 tracks). CIERRA TEMPLANZA v2 (dia 5):
-- CONV (primero): Weighing Two Options + Procurement Meeting. Prepara M26 oral.
-- GRAMMAR (segundo, ~86% DE PIE): A2 Book M26 "I'm as Big as My Dad" — Equal
-  Comparatives (as ... as / not as ... as / almost as ... as) (p.241-244).
-  M25 NO EXISTE (salta M24 -> M26). Anuncio Cl 31 = M27 comparativos desiguales
-  + JUSTICIA v2 dia 1.
+"""B1 MASTERY Cl 30 — HOJA DE RUTA (2 tracks). REPASO COMPRIMIDO A2.
+CIERRA TEMPLANZA v2 (dia 5):
+- CONV (primero): How Many / How Much / Prices + Supply Order. Prepara M32-M34 oral.
+- GRAMMAR (segundo, ~86% DE PIE): A2 Book M32 (how many, p.273-275) + M33
+  (how much, p.283-285) + M34 (precios be/cost + each, p.293-294). Familia
+  CANTIDADES/PRECIOS. M31 y M35 NO EXISTEN (huecos). Anuncio Cl 31 = cluster
+  DESCRIPCION M36-M38 + JUSTICIA v2 dia 1. Libro B1 entra Cl 34.
 Solo guias (los reportes los hace gen_reporte_v3.py)."""
 import os
 from gen_a1_a2_clases_pdfs import md_to_pdf

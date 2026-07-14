@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 import os as _hos, sys as _hsys
 _hsys.path.insert(0, _hos.path.dirname(_hos.path.dirname(_hos.path.abspath(__file__))))
-"""B1 MASTERY Cl 31 — HOJA DE RUTA (2 tracks). ABRE JUSTICIA v2 (dia 1):
-- CONV (primero): The Fair Recommendation + Hiring Panel. Prepara M27 oral.
-- GRAMMAR (segundo, ~86% DE PIE): A2 Book M27 "I'm Smarter than Steve" — Unequal
-  Comparatives (-er/-ier/more ... than + better/worse) (p.247-249).
-  Frontera de salida: Cl 32 = M28 (siguiente modulo existente) + JUSTICIA v2 dia 2.
+"""B1 MASTERY Cl 31 — HOJA DE RUTA (2 tracks). REPASO COMPRIMIDO A2.
+ABRE JUSTICIA v2 (dia 1):
+- CONV (primero): Describing People & Clothes + Front Desk. Prepara M36-M38 oral.
+- GRAMMAR (segundo, ~86% DE PIE): A2 Book M36 (ropa/colores, p.301-305) + M37
+  (describir personas be/have, p.307-310) + M38 (orden de adjetivos, p.313-315).
+  Familia DESCRIPCION. M35 y M40 NO EXISTEN. Frontera de salida: Cl 32 = M39+M41
+  + JUSTICIA v2 dia 2. Libro B1 entra Cl 34.
 Solo guias (los reportes los hace gen_reporte_v3.py)."""
 import os
 from gen_a1_a2_clases_pdfs import md_to_pdf
