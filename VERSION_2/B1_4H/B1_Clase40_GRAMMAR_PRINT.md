@@ -118,7 +118,7 @@ Conjugacion modelo (Practice p.338): gets / got / will get / is
 ## NOTA INTERNA (no leer en clase)
 
 - Modulo HOY = A2 Book M42 (p.333-338), verbatim.
-- Recuperacion N-3 = Cl 37 (M38 orden de adjetivos, KNOWN/dado); N-7 = Cl 33 (ventana cantidades M32-34). Cl 33 exacto lo fija el agente Cl 32-37. `SUPUESTO DE PLANEACION — verificar Cl 33`.
+- Recuperacion N-3 = Cl 37 (M38 orden de adjetivos, KNOWN/dado); N-7 = Cl 33 (ventana cantidades M32-34). VERIFICADO: Cl 33 = M30 (so/too/enough).
 - Bloque 2 = ciclo tarea-producto DE PIE; Bloque 3 = drill de movimiento + simulacion.
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: FORTALEZA v2 dia 5 — CIERRA el bloque hoy (calendario absoluto). Cl 41-44 = SINTESIS.

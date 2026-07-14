@@ -13,7 +13,7 @@
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 37 y Cl 33); errores anonimos al board; 1 min de re-produccion:
    - "Thing vs feeling: 'The ___ is tiring, so I am tired.'" (Cl 39 · M41)
-   - "Fix it: 'I am boring in this meeting.'" (Cl 39)
+   - "SO, TOO or ENOUGH: 'This deadline is ___ tight, but we are strong ___ to finish.'" (Cl 33 - M30)
    - "Order of adjectives: describe a work object in one phrase ('a small black leather bag')." (Cl 37 · M38 order of adjectives)
    - "Fix it: 'a leather black small bag.'" (Cl 37)
 2. **Chequeo publico de portafolio (3'):** conteo en voz alta del audio de ayer; no-envios a tu cuaderno.
@@ -113,7 +113,7 @@ Vocab (p.334): lose->lost · hurt->hurt · scare->scared ·
 ## NOTA INTERNA (no leer en clase)
 
 - Modulo ancla de hoy: A2 Book **M42 "Getting Crazy!" — Changes of State (p.333; Vocab p.334; Guia 1 p.335; Ejemplos p.336)**. Conv APLICA oral; Grammar formaliza hoy.
-- Recuperacion N-3 = Cl 37 (M38 orden de adjetivos, KNOWN/dado por la frontera); N-7 = Cl 33 (ventana de cantidades M32-34). Cl 33 exacto lo fija el agente Cl 32-37. `SUPUESTO DE PLANEACION — verificar Cl 33`.
+- Recuperacion N-3 = Cl 37 (M38 orden de adjetivos, KNOWN/dado por la frontera); N-7 = Cl 33 (ventana de cantidades M32-34). VERIFICADO: Cl 33 = M30 (so/too/enough).
 - Virtud: FORTALEZA v2 dia 5 — CIERRA el bloque hoy (calendario absoluto). Cl 41-44 = SINTESIS (integracion de las 4).
 - MY STORY vivo rumbo al Final Cl 44. Avance hoy: la narrativa de cambio con GET (el arco personal).
 - Profe sin material preparado: todo en tablero + papel del estudiante.

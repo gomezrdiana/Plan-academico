@@ -130,7 +130,7 @@ Ejemplos (p.349): "I want you to get a job." "You need me to buy a
 
 - Modulos ancla de hoy: A2 Book **M43 "How Do You Do?" — Adverbs of Manner (p.340; Guia 1 p.342; Ejemplos p.343)** + **M44 "I Want You to Go" — The Active Causative (p.347; Guia 1 p.348; Ejemplos p.349)**. Pareja: son los DOS ultimos modulos del libro. Conv APLICA ambos oral; Grammar formaliza ambos hoy.
 - **M44 = ULTIMO modulo del libro.** Se cierra como HITO VERBAL de trabajo (sin fiesta, sin materiales) y abre SINTESIS. Cl 42-44 no llevan modulos nuevos: proyecto final + cierre.
-- Recuperacion N-3 = Cl 38 (M39 posesivos, KNOWN/mi rango); N-7 = Cl 34 (ventana precios/cantidades M32-34). Cl 34 exacto lo fija el agente Cl 32-37. `SUPUESTO DE PLANEACION — verificar Cl 34`.
+- Recuperacion N-3 = Cl 38 (M39 posesivos, KNOWN/mi rango); N-7 = Cl 34 (ventana precios/cantidades M32-34). VERIFICADO: Cl 34 = M32 (how many / countable).
 - Virtud: SINTESIS dia 1 — integra PRUDENCIA + FORTALEZA (calendario absoluto; canon VATS Q1). Cl 41-44 = SINTESIS.
 - MY STORY vivo rumbo al Final Cl 44 (evaluador externo; ese dia no se genera guia). Avance hoy: la manera del propio progreso ("slowly -> confidently").
 - Profe sin material preparado: todo en tablero + papel del estudiante.

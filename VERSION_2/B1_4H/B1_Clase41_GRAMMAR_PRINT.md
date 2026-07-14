@@ -113,7 +113,7 @@ primer ensayo). Cl 42 = SINTESIS dia 2 (TEMPLANZA + JUSTICIA).
 ## NOTA INTERNA (no leer en clase)
 
 - Modulos HOY = A2 Book M43 (p.340-345) + M44 (p.347-351), verbatim. **M44 = ULTIMO modulo del libro.** Se cierra como hito verbal de trabajo (sin fiesta ni materiales) y abre SINTESIS. Cl 42-44 = proyecto final + cierre, SIN modulos nuevos.
-- Recuperacion N-3 = Cl 38 (M39 posesivos, KNOWN/mi rango); N-7 = Cl 34 (ventana precios/cantidades). Cl 34 exacto lo fija el agente Cl 32-37. `SUPUESTO DE PLANEACION — verificar Cl 34`.
+- Recuperacion N-3 = Cl 38 (M39 posesivos, KNOWN/mi rango); N-7 = Cl 34 (ventana precios/cantidades). VERIFICADO: Cl 34 = M32 (how many / countable).
 - Bloque 2 = tarea-producto DE PIE; Bloque 3 = drill de movimiento + simulacion.
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: SINTESIS dia 1 — integra PRUDENCIA + FORTALEZA (calendario absoluto; canon VATS Q1).
