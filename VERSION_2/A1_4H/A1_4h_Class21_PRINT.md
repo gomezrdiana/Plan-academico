@@ -1,7 +1,7 @@
 # A1 4h · Cl 21 — HOJA DE RUTA
 
-**Virtud:** PRUDENCIA (v2, dia 1 — bloque parcial, el nivel termina) · **Modulos:** M33 What Are You Doing? — The Continuous (p.375-394) + M34 Usually, but not Today — Present Simple vs. Present Continuous (p.395-402) + M35 "Going to" and "Gonna" — Another Form of the Future (p.403-416)
-**Frase del Dia:** *"I am planning today what I am going to do tomorrow."*
+**Virtud:** SINTESIS (integracion de las 4 virtudes — dia 1 de 2, cierre del nivel; hoy: Prudencia + Fortaleza) · **Modulos:** M33 What Are You Doing? — The Continuous (p.375-394) + M34 Usually, but not Today — Present Simple vs. Present Continuous (p.395-402) + M35 "Going to" and "Gonna" — Another Form of the Future (p.403-416)
+**Frase del Dia:** *"I am planning today, and I am going to be brave tomorrow."*
 
 ## BLOQUE 1 (35') — Apertura
 
@@ -76,6 +76,7 @@ HOMEWORK CL 21 — DUE: Cl 22 before 7:00 PM · TIME: 15-20 min. NOT fragmented.
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres + citas literales para coordinacion.
+- **SINTESIS (1 pregunta, 2 respuestas max):** *"This level you practiced planning, self-control, fairness and courage. When do you need PLANNING and COURAGE together?"* — rapido, sin discusion.
 - **Anuncio:** *"Next class: you present your COMPLETE MY WORLD — closing session."*
 
 □ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
@@ -104,7 +105,7 @@ HOMEWORK CL 21 — DUE: Cl 22 before 7:00 PM · TIME: 15-20 min. NOT fragmented.
 **NOTA INTERNA:**
 - M33 + M34 + M35 van en TRIO por ser un unico arco (continuo AHORA → contraste simple/continuo → *going to* para el futuro; M34 es en la practica el drill de contraste de M33, M35 es *go* en continuo). **M35 es el ULTIMO modulo del libro (p.416): con Cl 21 el contenido del nivel A1 queda CERRADO.** Despues de M35 el libro solo trae el apendice "A1 VOCABULARY" (no es modulo).
 - Continuidad/recuperacion: N-3 = Cl 18 (what/this-that/preposiciones), N-7 = Cl 14 (want/need/have + doble verbo). Revision de tarea recoge las 8 frases de Cl 20.
-- **SUPUESTO — virtud del bloque final A1 4h: PRUDENCIA v2 parcial (modelo A2 intensivo: rotacion estandar con bloque parcial, sin SINTESIS); alternativa SINTESIS (modelo A1 nocturno). Por confirmar por Diana.** El calendario canonico no tiene fila para A1 4h; se sigue el modelo del otro 4h del canon (A2 intensivo). La Frase del Dia une el presente continuo (*I am planning*) + *going to* (M35) con la prudencia (planear hoy lo de manana).
+- **Virtud del bloque final A1 4h: SINTESIS — DECIDIDO POR DIANA 14/07/2026** (modelo A1 nocturno: el bloque final integra las 4 virtudes; Cl 21 = Prudencia+Fortaleza, Cl 22 = las 4). La Frase del Dia une el presente continuo (*I am planning*) + *going to* (M35) con planear (prudencia) y atreverse (fortaleza).
 - MY WORLD: 19 piezas COMPLETAS tras hoy (pieza 19 = "My now and my plans"). La proxima clase (Cl 22) presenta el proyecto ENTERO.
 - **Frontera de salida:** Cl 22 = CIERRE DEL NIVEL (presentaciones finales MY WORLD + circuito de consolidacion + ticket reflexivo). NO hay modulo nuevo (libro agotado en M35). El Final/examen (Cl 23) lo aplica evaluador externo — NO generar guia ese dia.
 - NO comunicar nada de evaluaciones (critico de cara al cierre).

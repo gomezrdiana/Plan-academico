@@ -1,7 +1,7 @@
 # A1 4h · Cl 22 — HOJA DE RUTA (CIERRE DEL NIVEL)
 
-**Virtud:** PRUDENCIA (v2, dia 2 — bloque parcial, el nivel termina) · **Sesion:** PRESENTACIONES FINALES MY WORLD (proyecto completo) + circuito de consolidacion de todo el nivel + ticket reflexivo final. NO hay modulo nuevo (libro agotado en M35).
-**Frase del Dia:** *"I planned my words, and I am ready to show my world."*
+**Virtud:** SINTESIS (integracion de las 4 virtudes — dia 2 de 2, cierre del nivel; hoy: las 4 juntas) · **Sesion:** PRESENTACIONES FINALES MY WORLD (proyecto completo) + circuito de consolidacion de todo el nivel + ticket reflexivo final. NO hay modulo nuevo (libro agotado en M35).
+**Frase del Dia:** *"I planned my words, I stayed calm, I helped my friends — and today I am brave: this is my world."*
 
 > **CRITICO:** el profe CONDUCE y CRONOMETRA las presentaciones; NO evalua, NO da nota, NO comenta resultados, formato ni "que sigue" — eso es de coordinacion. Las grabaciones/fotos son ENTREGABLE con discurso de reframe (grabarse = fortaleza + servicio al siguiente). Anuncio de cierre para estudiantes: *"Next class: closing session"* — sin detalles del examen.
 
@@ -48,6 +48,7 @@ HOMEWORK CL 21->22 CLOSE — DUE: next class before 7:00 PM · TIME: 15-20 min.
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres + citas literales para coordinacion.
+- **SINTESIS de cierre (1 pregunta, 2-3 respuestas max):** *"Which virtue did you grow the most this level — planning, calm, fairness or courage? And which one do you still need?"* — es la ultima pregunta del nivel; dejala respirar.
 - **Anuncio:** *"Next class: closing session."* (Sin detalles del examen — eso es coordinacion.)
 
 □ Reporte firmado  □ Error papers  □ Tickets reflexivos  □ Fotos/videos de las presentaciones
@@ -73,7 +74,7 @@ HOMEWORK CL 21->22 CLOSE — DUE: next class before 7:00 PM · TIME: 15-20 min.
 
 **NOTA INTERNA:**
 - **SUPUESTO DE PLANEACION — proyecto final (presentaciones MY WORLD) en Cl 22 y examen final en Cl 23 por confirmar por Diana.** El cronograma anunciado en Cl 1 marco "Cl 22-23: FINAL"; aqui se interpreta Cl 22 = presentaciones del proyecto conducidas por el profe (evento integrado, sin marcador aparte) y Cl 23 = examen del nivel aplicado por evaluador externo (sin guia). Verificar reparto exacto con Diana.
-- **SUPUESTO — virtud del bloque final A1 4h: PRUDENCIA v2 parcial (modelo A2 intensivo: rotacion estandar con bloque parcial, sin SINTESIS); alternativa SINTESIS (modelo A1 nocturno). Por confirmar por Diana.** El calendario canonico no tiene fila para A1 4h. La Frase del Dia une "planear las palabras" (prudencia) con presentar (MY WORLD).
+- **Virtud del bloque final A1 4h: SINTESIS — DECIDIDO POR DIANA 14/07/2026** (modelo A1 nocturno). Cl 22 integra las 4: la Frase del Dia recorre prudencia (planned), templanza (stayed calm), justicia (helped my friends) y fortaleza (I am brave) rematando en la presentacion de MY WORLD.
 - Continuidad: la tarea de Cl 21 fue ensayar el MY WORLD completo + portafolio; el Bloque 1 lo revisa. La tarea de HOY es solo portafolio reflexivo (sin paper), porque la sesion siguiente es el cierre/examen externo.
 - MY WORLD: 19 piezas COMPLETAS (construidas 1 por clase Cl 1-21, integradas hoy en la presentacion final). Llega COMPLETO a Cl 22 como pide el plan.
 - Con Cl 22 el cohorte A1 4h queda cerrado del lado pedagogico. Cl 23 = examen final (evaluador externo) — NO se genera guia.
