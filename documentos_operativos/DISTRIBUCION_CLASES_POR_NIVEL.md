@@ -18,8 +18,11 @@ Horas fijas por nivel: A1 = 90 h · A2 = 110 h · B1 = 175 h · B2 = 200 h.
 | **A1 · 4h** | 22 + examen | **Cl 12** (½ sesión, "MY WORLD so far") · mini-pres Cl 6 y Cl 17 | **Cl 22** (MY WORLD completo) | dentro de Cl 22 | **Cl 23** (2h) |
 | **A2 · 2h** | 54 + examen | **Cl 26** (clase completa) | prep Cl 51-52 · **Cl 53 PRESENTACIONES** | Cl 54 | **Cl 55** |
 | **B1 · 4h** (CONV Danna + GRAMMAR Juan Diego) | 43 + cierre | **Cl 22** (integrado) | prep Cl 42 · **Cl 43 PRESENTACIONES** (día completo) | Cl 44 bloque CONV | **Cl 44 bloque GRAMMAR** (las últimas 2h del día) |
+| **B1 · 2h** (MISMO curso, en días alternos) | 43 + cierre, en ~88 días | **Cl 22** (2 días) | **Cl 43** (2 días) | Cl 44 CONV (1 día) | **día siguiente** (el turno GRAMMAR de Cl 44) |
 
 **Material:** carpeta `VERSION_2` — el par GUIA + REPORTE del mismo número de clase. B1 va dividido: cada profe recibe SOLO su carpeta (`CONVERSACION/` o `GRAMATICA/`). El cronograma de cada nivel también está impreso en la guía de su Clase 1.
+
+**B1 en 2 horas — regla de orden (definido 15/07/2026):** usa las MISMAS guías del B1 4h. Cada número de clase toma 2 días: **primero el día de CONVERSACIÓN, al día siguiente el de GRAMÁTICA** (el orden no se invierte: el PASE físico entre profes fluye Conv→Grammar dentro de la misma clase, y Grammar→Conv hacia la clase siguiente). Duración total ≈ 88 días de clase; el examen final cae en el último día (turno Grammar de la Cl 44).
 
 ## CURSOS AÚN SIN DISEÑO APROBADO (no agendar sin confirmar con Diana)
 
@@ -27,7 +30,6 @@ Horas fijas por nivel: A1 = 90 h · A2 = 110 h · B1 = 175 h · B2 = 200 h.
 |---|---|---|
 | A1 · 2h | 45 (final Cl 45) | Sin curso en formato nuevo; midterm histórico sin clase fija |
 | A2 · 4h | 28 (final ½ Cl 28) | Midterm sin definir; sin curso en formato nuevo |
-| B1 · 2h | 88 (final Cl 88) | Nunca ha existido; requiere rediseño del PASE (decisión Diana) |
 | B2 · 4h / 2h | 50 / 100 | B2 estándar de 200h sin diseñar (el único B2 real fue el arco especial de 36 sesiones); checkpoints por definir |
 
 ## REGLAS QUE ADMINISTRACIÓN DEBE CUIDAR
