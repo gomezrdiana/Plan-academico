@@ -1,41 +1,41 @@
-# DISTRIBUCIÓN DE CLASES POR NIVEL — GUÍA ADMINISTRATIVA
+# DISTRIBUCIÓN DE CLASES POR NIVEL — GUÍA ADMINISTRATIVA (v2, 15/07/2026)
 
-**Uso interno de coordinación/administración.** NO se entrega a profesores (los profesores no comunican fechas ni resultados de evaluaciones — eso es de coordinación). Sirve para: agendar el evaluador externo con anticipación, planear fechas de midterm/proyecto con los acudientes, y saber cuántas clases de contenido real tiene cada curso.
+**Uso interno de coordinación/administración.** NO se entrega a profesores (los profesores no comunican fechas ni resultados de evaluaciones — eso es de coordinación). Sirve para: agendar el evaluador externo con anticipación, planear midterm/presentaciones con acudientes, y saber cuántas clases de contenido real tiene cada curso. **v2: hitos ya FIJOS en las guías de los cursos completos (A1 4h, A2 2h, B1 4h).**
 
-## La regla general (aplica a todos los niveles)
+## La regla general
 
-Todo nivel tiene **horas fijas**: A1 = 90 h · A2 = 110 h · B1 = 175 h · B2 = 200 h.
+Horas fijas por nivel: A1 = 90 h · A2 = 110 h · B1 = 175 h · B2 = 200 h.
 
-De las clases totales, NO todas son de contenido. Siempre se restan:
+- **MIDTERM** = presentación de 5 min por estudiante, dentro de su propia clase (la preparación va como tarea; no consume clases extra). En cursos de 4h ocupa media sesión.
+- **PROYECTO FINAL** = presentación de 7-10 min + preguntas. Ensayo + presentaciones según tamaño del grupo.
+- **EXAMEN FINAL** = SIEMPRE las últimas 2 horas del nivel, aplicado por **evaluador externo** (nunca el profesor regular). Ese día no hay guía. **Agendar al evaluador con mínimo 2 semanas de anticipación.**
+- El bloque final de clases de cada nivel es **SÍNTESIS** (integración de las 4 virtudes).
 
-- **1 clase de MIDTERM** — presentación de 5 min por estudiante. Cabe dentro de su propia clase (la preparación va como tarea y ensayo en las clases previas, no consume clases extra).
-- **~2 clases de PROYECTO FINAL** — presentación de 7-10 min + preguntas por estudiante (~12-15 min por cabeza). Con 6-8 estudiantes: 1 clase de ensayo + 1 de presentaciones (≈4 h). Con 3-4 estudiantes puede comprimirse a 1 clase. **Se define cuando el grupo se acerca al cierre, según cuántos estudiantes queden.**
-- **1 clase de EXAMEN FINAL** — SIEMPRE las últimas 2 horas del nivel. Lo aplica un **evaluador externo** (nunca el profesor regular). Ese día no hay guía de clase. **Agendar al evaluador con mínimo 2 semanas de anticipación.**
+## MAPA DE HITOS POR CURSO (los 3 cursos completos — clases EXACTAS)
 
-**Fórmula:** clases de contenido = clases totales − 1 (midterm) − ~2 (proyecto) − 1 (final).
+| Curso | Clases | Midterm | Presentaciones / proyecto | Repaso pre-examen | EXAMEN FINAL (externo) |
+|---|---|---|---|---|---|
+| **A1 · 4h** | 22 + examen | **Cl 12** (½ sesión, "MY WORLD so far") · mini-pres Cl 6 y Cl 17 | **Cl 22** (MY WORLD completo) | dentro de Cl 22 | **Cl 23** (2h) |
+| **A2 · 2h** | 54 + examen | **Cl 26** (clase completa) | prep Cl 51-52 · **Cl 53 PRESENTACIONES** | Cl 54 | **Cl 55** |
+| **B1 · 4h** (CONV Danna + GRAMMAR Juan Diego) | 43 + cierre | **Cl 22** (integrado) | prep Cl 42 · **Cl 43 PRESENTACIONES** (día completo) | Cl 44 bloque CONV | **Cl 44 bloque GRAMMAR** (las últimas 2h del día) |
 
-En formatos de **4 horas**, el midterm y el final ocupan **media sesión** y la otra mitad sigue siendo clase normal.
+**Material:** carpeta `VERSION_2` — el par GUIA + REPORTE del mismo número de clase. B1 va dividido: cada profe recibe SOLO su carpeta (`CONVERSACION/` o `GRAMATICA/`). El cronograma de cada nivel también está impreso en la guía de su Clase 1.
 
-## Tabla por curso
+## CURSOS AÚN SIN DISEÑO APROBADO (no agendar sin confirmar con Diana)
 
-| Curso | Clases totales | Contenido | Midterm | Proyecto final | Examen final | Guías a imprimir |
-|---|---|---|---|---|---|---|
-| A1 · 2h | 45 | 41 | 1 clase | ~2 clases | Cl 45 (2h, externo) | 44 |
-| A1 · 4h | 22-23 | ~20 | ½ sesión (*) | ~1 sesión | ½ última sesión (*) | ~22 |
-| A2 · 2h | 55 | 51 | 1 clase | ~2 clases | Cl 55 (2h, externo) | 54 |
-| A2 · 4h | 28 | ~25 | ½ sesión (*) | ~1 sesión | ½ final de Cl 28 | 27 |
-| B1 · 4h (2 profes: CONV + GRAMMAR) | 44 sesiones | ~40 | integrado (Cl 22) | ~2 sesiones | Cl 44 (2h, externo) | 86 (2 por sesión) |
-| B1 · 2h | 88 | (*) | (*) | (*) | Cl 88 | (*) |
-| B2 · 4h | 50 | (*) | checkpoints (*) | ~2 sesiones | Cl 50 | (*) |
-| B2 · 2h | 100 | (*) | checkpoints (*) | ~2 sesiones | Cl 100 | (*) |
+| Curso | Clases (matemática) | Estado |
+|---|---|---|
+| A1 · 2h | 45 (final Cl 45) | Sin curso en formato nuevo; midterm histórico sin clase fija |
+| A2 · 4h | 28 (final ½ Cl 28) | Midterm sin definir; sin curso en formato nuevo |
+| B1 · 2h | 88 (final Cl 88) | Nunca ha existido; requiere rediseño del PASE (decisión Diana) |
+| B2 · 4h / 2h | 50 / 100 | B2 estándar de 200h sin diseñar (el único B2 real fue el arco especial de 36 sesiones); checkpoints por definir |
 
-(*) = **pendiente de definición por gerencia** — no agendar sin confirmar con Diana. B1 2h y B2 estándar nunca se han corrido; las cifras de esas filas son matemáticas (horas ÷ duración), no calendario aprobado.
+## REGLAS QUE ADMINISTRACIÓN DEBE CUIDAR
 
-## Reglas que administración debe cuidar
-
-1. **Numeración consecutiva:** midterm, proyecto y final CONSUMEN número de clase. Nunca se "congela" la numeración por un evento.
-2. **El examen final no lo dicta el profesor del grupo.** Contratar/agendar evaluador externo; el profesor no está presente en la evaluación ni conoce el instrumento.
-3. **Las fechas de evaluación las comunica coordinación** a estudiantes y acudientes — jamás el profesor.
-4. **Recuperaciones** de clases perdidas: sábados, máximo 2 por mes por estudiante, solicitadas a coordinación con 1 día de antelación.
-5. El día del examen final **no se imprime guía**; todos los demás días el paquete del profesor son 2 hojas: GUÍA + REPORTE del mismo número de clase (carpeta `VERSION_2` del sistema).
-6. Las clases del **sabatino** no siguen esta tabla: es taller multi-módulo (cada estudiante a su ritmo) y se administra con la hoja de taller + registro sabatino.
+1. **Numeración consecutiva:** midterm, proyecto y final CONSUMEN número de clase; nunca se congela la numeración por un evento.
+2. **El examen final no lo aplica el profesor del grupo** — evaluador externo; el profe no conoce el instrumento ni está presente.
+3. **Las fechas y resultados de evaluación los comunica SOLO coordinación** a estudiantes y acudientes.
+4. **Recuperaciones:** sábados, máx 2/mes por estudiante, solicitadas a coordinación con 1 día de antelación.
+5. El día del examen final **no se imprime guía**; los demás días el paquete del profe son 2 hojas: GUIA + REPORTE del mismo número.
+6. **La Carta a Mi Yo del Futuro** (escrita en la Clase 1 de cada nivel) la guarda COORDINACIÓN y la lleva al aula en la última clase con guía (A1 4h: Cl 22 · B1: Cl 44 CONV) — el profe no la custodia.
+7. El **sabatino** no sigue esta tabla: es taller multi-módulo (hoja de taller + registro sabatino).
