@@ -5,10 +5,11 @@
 
 ## BLOQUE 1 (22') — Apertura
 
-- **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**
+- **Recuperacion espaciada (8'), oral y DE PIE, en cadena, sin cuaderno:**
   - De Cl 11 (already / still / until): lanza a 4-5 estudiantes, uno por uno: *"One TRUE sentence: something you ALREADY did today."* → *"Something you STILL do every week."* → *"Something you do UNTIL 10 PM."*
   - De Cl 7 (relative "that"): *"Complete with a real opinion: 'I think that...'"* — 3-4 estudiantes en cadena.
   - Errores que OIGAS van al tablero anonimos → 1 min de re-produccion correcta en coro. NO lo conviertas en explicacion.
+- **Chequeo publico de portafolio (2'):** *"Who sent their daily audio or video since last class?"* Anota numeros (cuantos si / cuantos no) en tu cuaderno. NO revisas contenido — eso es coordinacion.
 - **Frase del Dia en tablero** (escrita ANTES de empezar). Leela 2 veces, coro 2 veces. Usala natural 3+ veces durante la clase.
 - **Revision de tarea Cl 13** (perfil de experiencia, present perfect regular): recoge los papeles. 2 estudiantes leen 1 frase cada uno. No corrijas aqui; anota en tu libreta.
 
@@ -51,10 +52,7 @@ tell - told - TOLD                     find - found - FOUND
 
 ## BLOQUE 4 (18') — Cierre
 
-- **Presentacion de 2 rituales NUEVOS (3'), di esto tal cual:**
-  - Portafolio diario: *"Starting today: every day you record 1-3 minutes of audio or video in English on your phone. That is your daily portfolio — our mutual commitment, and your daily progress."*
-  - Ticket de salida: *"In the last 5 minutes of every class you write 3-5 sentences with today's structure and hand them in. I don't grade them — they show your real progress."*
-- **Ticket de salida (5'):** cada estudiante escribe 3-5 frases con present perfect IRREGULAR (been / gone / eaten / taken / driven / told / found). Se recogen TODOS. NO los evaluas ni comentas — solo recoges y entregas a coordinacion.
+- **Ticket de salida (7'):** cada estudiante escribe 3-5 frases con present perfect IRREGULAR (been / gone / eaten / taken / driven / told / found). Se recogen TODOS. NO los evaluas ni comentas — solo recoges y entregas a coordinacion.
 - **Tarea (escribela en tablero):**
 
 ```
@@ -108,6 +106,6 @@ HOMEWORK CL 14 — DUE: Cl 15 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 **NOTA INTERNA:**
 - Arco del present perfect: M15 lo ABRIO (regulares, Cl 13) → HOY M16 (irregulares) → Cl 15 = M17 (present perfect vs past simple). Conecta los tres.
 - Continuidad: la revision de tarea recoge el perfil de experiencia de Cl 13; la recuperacion trae Cl 11 (M13 already/still/until) y Cl 7 (M8 "that").
-- Portafolio diario y ticket de salida ARRANCAN HOY: en esta clase solo se presentan y se ejecuta el primer ticket; el chequeo publico del portafolio empieza en Cl 15.
+- Rituales corren desde Cl 1 (curso completo desde 14/07/2026); la presentacion de rituales de la version anterior era del cohorte que arranco el formato en Cl 14. Por eso el cierre de hoy es estandar (ticket de salida directo, sin presentacion).
 - Virtud por numero de clase (calendario absoluto): Cl 11-15 = JUSTICIA v1; hoy dia 4. Cl 16 abre FORTALEZA v1.
 - Cl 25 presentaciones / Cl 26 midterm / Cl 55 final: NO se comunican al grupo; coordinacion maneja. Esta semana todas son clases regulares.
