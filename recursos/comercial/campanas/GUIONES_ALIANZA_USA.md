@@ -12,14 +12,16 @@
 **[POR QUÉ HEIIU — 0:10-0:40]** *(redacción de Diana, 21/07)*
 "Llevo muchos años en este mundo, y encontrar un proyecto en Colombia que valga la pena presentar aquí en Estados Unidos no ha sido fácil. Los fondos internacionales piden algo muy concreto que casi ningún programa tiene: seguimiento real, estudiante por estudiante, con evidencia de cada avance y un compromiso elevado. Eso es lo que encontramos en Heiiu — un programa que lleva años construyéndose, incluso cuando nadie le aportaba recursos. Heiiu tiene una base social difícil de encontrar en el mundo empresarial, y encontrarla ya funcionando… ese es el oro de esta alianza."
 
-**[EL ANUNCIO — 0:35-1:00]**
-"Mi trabajo con Heiiu es este: presentar este proyecto ante fondos y organizaciones internacionales de educación, para fortalecer el Fondo de Becas y abrir oportunidades que hoy no existen. Ya estamos trabajando en el primer proyecto."
+**[EL ANUNCIO — 0:35-1:00]** *(redacción de Diana)*
+"Mi trabajo con Heiiu es este: presentar este proyecto ante fondos y organizaciones internacionales de educación, para fortalecer el Fondo de Becas y seguir abriendo oportunidades para beneficiar a más personas."
 
-**[EL FILTRO — la parte que importa — 1:00-1:25]**
-"Y aquí viene lo que ustedes tienen que saber: los fondos internacionales NO financian promesas. Financian RESULTADOS demostrados. Cada asistencia tuya, cada tarea entregada, cada audio de tu portafolio — eso es lo que yo voy a poner sobre la mesa cuando presente a Heiiu. Tu evidencia no es un requisito de la academia: es el argumento con el que conseguimos lo que viene."
+**[EL FILTRO — la parte que importa — 1:00-1:25]** *(redacción de Diana)*
+"Y aquí viene lo que ustedes tienen que saber: los fondos internacionales NO financian promesas. Financian RESULTADOS demostrados. Cada asistencia tuya, cada tarea entregada, cada audio de tu portafolio — eso es lo que se pone sobre la mesa cuando se presenta a Heiiu. Tu evidencia no es un requisito de la academia: es el argumento con el que conseguimos lo que viene."
 
-**[CTA — cierre]**
-"Así que sigue construyendo tu evidencia — porque ahora tiene un público internacional. Nos vemos pronto."
+**[¿Y QUÉ VIENE? + CIERRE — 1:25-1:50]**
+"¿Y qué es lo que viene? El público internacional. El empleador que necesita al joven bilingüe. El que quiere apoyar su empresa contigo. El que busca a quién ofrecerle una oportunidad de verdad.
+Y una cosa más, para los que ya tienen su beca: piénsalo — alguien apostó por ti ANTES de ver tus resultados. Los que vienen apuestan DESPUÉS de verlos. Tu evidencia es lo que une esas dos apuestas.
+Estamos empezando. Nos vemos pronto."
 
 ---
 
