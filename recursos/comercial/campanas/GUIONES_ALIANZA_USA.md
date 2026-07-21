@@ -9,8 +9,8 @@
 **[GANCHO — 0:00-0:10]**
 "Hola, soy Paola. Soy de Bucaramanga, como ustedes — y hace años vivo en Estados Unidos, donde he trabajado toda mi carrera en algo muy específico: fundaciones y fondos para educación."
 
-**[POR QUÉ HEIIU — 0:10-0:35]**
-"He visto muchos programas educativos en mi vida. Cuando conocí lo que Diana está construyendo en Heiiu — cómo se hace seguimiento a cada estudiante, la evidencia de cada avance — entendí algo: esto es exactamente lo que los fondos internacionales de educación buscan y casi nunca encuentran. Por eso decidí unirme como aliada."
+**[POR QUÉ HEIIU — 0:10-0:40]**
+"Llevo muchos años en este mundo, y hacía tiempo buscaba un proyecto en Colombia que valiera la pena presentar allá afuera. Los fondos internacionales piden algo muy concreto que casi ningún programa tiene: seguimiento real, estudiante por estudiante, con evidencia de cada avance. Y resulta que eso es exactamente lo que Diana lleva años construyendo en Heiiu — no lo montó para impresionar a nadie: ya existía, funcionando, cuando yo llegué. Esto no empieza hoy; hoy simplemente se encuentran dos trabajos de años. Por eso me uní como aliada."
 
 **[EL ANUNCIO — 0:35-1:00]**
 "Mi trabajo con Heiiu es este: presentar este proyecto ante fondos y organizaciones internacionales de educación, para fortalecer el Fondo de Becas y abrir oportunidades que hoy no existen. Ya estamos trabajando en el primer proyecto."
