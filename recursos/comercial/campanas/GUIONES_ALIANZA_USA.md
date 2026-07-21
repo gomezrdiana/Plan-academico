@@ -1,52 +1,52 @@
-# GUIONES ALIANZA USA — videos de Paola para la comunidad Heiiu
+# GUIONES ALIANZA USA — videos de Paola para la comunidad Heiiu (v2 — ángulo FONDOS)
 
-> 21/07/2026. Videos grabados por PAOLA (y/o su equipo) para difundir en los grupos de WhatsApp de: estudiantes activos, próximos a terminar y egresados. Formato: celular, vertical, 60-90 segundos, luz natural, sin leer — que suene a persona, no a comercial. **REGLA DE DISPARO: ninguno se difunde hasta que el piloto del Exchange tenga fecha** (el video mismo es el compromiso público de Paola — si no hay fecha, no hay video).
+> 21/07/2026 v2 (decisión Diana: el tema del español/Exchange NO sale todavía; la punta de lanza es la experiencia real de Paola en fundaciones y consecución de fondos). Formato: celular, vertical, 60-90 seg, luz natural, hablado natural (no leído). Difusión: grupos de WhatsApp de estudiantes activos, próximos a terminar y egresados. **Sale SOLO Paola** (regla: cara en video = persona con función real; el esposo se reserva para cuando tenga un rol concreto).
 
 ---
 
-## GUION 1 — "Les presento a nuestra aliada" (para TODOS: activos, próximos a terminar y nuevos)
-
-**Quién sale:** Paola, a cámara. Ideal: que se vea algo de su vida en USA (fondo real, no falso).
+## GUION 1 — "Se une alguien a este proyecto" (para TODOS: nuevos, activos y próximos a terminar)
 
 **[GANCHO — 0:00-0:10]**
-"Hola, soy Paola. Soy de Bucaramanga, como ustedes — y hace años vivo en Estados Unidos, donde me dedico a algo curioso: les enseño ESPAÑOL a los americanos."
+"Hola, soy Paola. Soy de Bucaramanga, como ustedes — y hace años vivo en Estados Unidos, donde he trabajado toda mi carrera en algo muy específico: fundaciones y fondos para educación."
 
-**[HISTORIA — 0:10-0:35]**
-"Cuando conocí lo que está haciendo Heiiu me pasó algo: mis estudiantes americanos necesitan exactamente lo que ustedes tienen — alguien real con quien practicar español. Y ustedes necesitan exactamente lo que ellos tienen: alguien real con quien hablar inglés. No un profesor. No una app. Una persona de verdad, al otro lado de la pantalla, que NO habla tu idioma."
+**[POR QUÉ HEIIU — 0:10-0:35]**
+"He visto muchos programas educativos en mi vida. Cuando conocí lo que Diana está construyendo en Heiiu — cómo se hace seguimiento a cada estudiante, la evidencia de cada avance — entendí algo: esto es exactamente lo que los fondos internacionales de educación buscan y casi nunca encuentran. Por eso decidí unirme como aliada."
 
 **[EL ANUNCIO — 0:35-1:00]**
-"Por eso con Diana estamos lanzando **Heiiu Exchange**: sesiones donde mi estudiante americano tiene que hacerse entender en español… y tú tienes que hacerte entender en inglés. Mitad y mitad. Sin subtítulos, sin ayudas. La primera sesión es el {FECHA}."
+"Mi trabajo con Heiiu es este: presentar este proyecto ante fondos y organizaciones internacionales de educación, para fortalecer el Fondo de Becas y abrir oportunidades que hoy no existen. Ya estamos trabajando en el primer proyecto."
 
-**[EL FILTRO — 1:00-1:20]**
-"Ahora, una cosa importante: los cupos son pocos y NO se compran — se ganan. Van primero los estudiantes que tienen su evidencia al día: asistencia, tareas y su portafolio de audios. Yo solo pongo a mis estudiantes al frente de gente que se toma esto en serio."
+**[EL FILTRO — la parte que importa — 1:00-1:25]**
+"Y aquí viene lo que ustedes tienen que saber: los fondos internacionales NO financian promesas. Financian RESULTADOS demostrados. Cada asistencia tuya, cada tarea entregada, cada audio de tu portafolio — eso es lo que yo voy a poner sobre la mesa cuando presente a Heiiu. Tu evidencia no es un requisito de la academia: es el argumento con el que conseguimos lo que viene."
 
 **[CTA — cierre]**
-"Pregúntale a coordinación cómo va tu evidencia. Nos vemos en el Exchange. See you soon!"
+"Así que sigue construyendo tu evidencia — porque ahora tiene un público internacional. Nos vemos pronto."
 
 ---
 
-## GUION 2 — "Para los que ya terminaron (o están cerca)" (egresados + próximos a terminar)
-
-**Quién sale:** Paola, a cámara. Tono más directo, de profesional a profesional.
+## GUION 2 — "Necesito tu historia" (egresados + próximos a terminar)
 
 **[GANCHO — 0:00-0:12]**
-"Si ya terminaste tu programa en Heiiu — o estás cerca — este mensaje es para ti. Te voy a hacer una pregunta incómoda: tu inglés… ¿sigue vivo, o lo dejaste guardado con el certificado?"
+"Si ya terminaste tu programa en Heiiu — o estás cerca de terminar — necesito algo de ti. En serio: TE necesito a ti."
 
-**[LA VERDAD — 0:12-0:35]**
-"Yo trabajo en Estados Unidos y te digo lo que veo todos los días: el certificado abre la primera puerta, pero lo que te mantiene adentro es poder USARLO — en una llamada, en una entrevista, con un cliente. El inglés que no se usa, se muere. Y sería una lástima, porque tú ya pagaste el precio de aprenderlo."
+**[EL CONTEXTO — 0:12-0:35]**
+"Soy Paola, trabajo en Estados Unidos en fondos y fundaciones de educación, y me uní a Heiiu como aliada para presentar este proyecto ante organizaciones internacionales. Y te cuento cómo funciona ese mundo: nadie financia un programa por lo que promete. Lo financian por lo que puede DEMOSTRAR que logró. Y lo que Heiiu logró… eres tú."
 
-**[LA OPORTUNIDAD — 0:35-1:05]**
-"Por eso los egresados de Heiiu tienen cupo prioritario en el **Heiiu Exchange**: sesiones reales con mis estudiantes americanos, donde tu inglés vuelve a la cancha. Y te cuento algo más: con Diana estamos construyendo lo que sigue — oportunidades reales para egresados bilingües, empezando por nuestra propia operación de enseñanza de español. Los primeros en los que vamos a fijarnos son los que veamos en acción en el Exchange."
+**[LA PETICIÓN — 0:35-1:05]**
+"Por eso estamos armando el dossier de resultados de Heiiu, y necesito tu historia en él: qué podías hacer en inglés cuando llegaste, qué puedes hacer hoy, y qué ha cambiado — en tu trabajo, en tu estudio, en tu vida. Un testimonio corto, tu certificado, o si quieres, tu voz en video. Cada historia real es un argumento más fuerte frente a los fondos."
 
-**[EL FILTRO + CTA — cierre]**
-"Así que la invitación es simple: vuelve. Demuestra que tu inglés sigue vivo. Escríbele a coordinación y pregunta por tu cupo de egresado en el Exchange. Your English got you here — now let it take you further."
+**[EL BENEFICIO HONESTO + CTA — cierre]**
+"Y esto no es solo ayudarnos: los egresados que hagan parte del dossier quedan en la base de la alianza — y cuando las oportunidades que estamos construyendo se abran, empezamos por los que estuvieron aquí desde el principio. Escríbele a coordinación y di: 'quiero estar en el dossier'. Gracias — y sí: tu inglés valió la pena. Ahora ayúdame a demostrarlo."
 
 ---
 
-## REGLAS PARA LA GRABACIÓN (pasárselas a Paola junto con los guiones)
+## REGLAS PARA LA GRABACIÓN (van con los guiones)
 
-1. **Palabras PROHIBIDAS:** "patrocinio/patrocinador" · "empleo garantizado" · "visa" · "trabajo en USA" como promesa · plazos de aprendizaje. La única promesa es el Exchange (que sí existe y tiene fecha).
-2. El Guion 2 habla de oportunidades "que estamos construyendo" — **así se queda**: en futuro honesto, sin garantías. Cuando exista la primera colocación real, se hace un video 3 con el caso.
-3. Puede improvisar con sus palabras (mejor), pero los dos filtros son intocables: **cupos ganados por evidencia** y **cero promesas de empleo**.
-4. Diana aprueba el corte final antes de difundir. Los videos van primero a los grupos internos de WhatsApp; después Breagh puede adaptar fragmentos para TikTok (con autorización de imagen de Paola por escrito — cláusula simple, el abogado la tiene).
-5. Efecto colateral buscado: estos videos también son el primer entregable VERIFICABLE de Paola. Si los graba y fija fecha del piloto, ejecuta. Si pasan 3 semanas sin video, el gatillo del diseño de alianza empieza a correr.
+1. **Palabras PROHIBIDAS:** "patrocinio/patrocinador" · "ya conseguimos/tenemos fondos" (hasta que un fondo esté DESEMBOLSADO) · montos · "empleo garantizado" · "visa" · plazos. Todo se dice en presente de GESTIÓN ("estamos presentando", "estamos construyendo") — que es la verdad.
+2. **Solo sale Paola.** El esposo (u otras personas) entran cuando tengan función real y firmada en la alianza.
+3. Puede improvisar con sus palabras; los intocables: la evidencia como argumento ante fondos (Guion 1) y cero promesas de plata o empleo (ambos).
+4. **Diana aprueba el corte final** antes de tocar cualquier grupo de WhatsApp. Autorización de imagen de Paola por escrito antes de difundir.
+5. **Regla de disparo:** estos videos son el primer entregable verificable de Paola — grabarlos es su compromiso público con la gestión de fondos. Si en 3 semanas no hay video, corre el gatillo de la alianza.
+6. **Uso interno del Guion 2:** las historias que lleguen alimentan TRES cosas a la vez — el dossier para fondos, la prueba social de Breagh (con autorización cláusula 24) y los certificados EF SET de egresados. Coordinación las recibe con el protocolo de prueba social existente.
+
+## EN RESERVA (no difundir aún — se activan cuando Diana decida abrir esa fase)
+Los guiones del **Heiiu Exchange** (intercambio tándem español-inglés con estudiantes americanos) quedaron diseñados en la versión 1 de este documento (ver historial git, commit `981ba64`). Se retoman cuando el piloto tenga fecha.
