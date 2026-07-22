@@ -27,8 +27,8 @@ Estamos avanzando. Nos vemos pronto."
 
 ## GUION 2 — "Necesito tu historia" (egresados + próximos a terminar)
 
-**[GANCHO — 0:00-0:12]**
-"Si ya terminaste tu programa en Heiiu — o estás cerca de terminar — necesito algo de ti. En serio: TE necesito a ti."
+**[GANCHO — 0:00-0:12]** *(redacción de Diana)*
+"Si ya terminaste tu programa en Heiiu — o estás cerca de terminar — llegó tu momento de dar el siguiente paso: avanzar en lo laboral con lo que aprendiste. Y eso empieza como empezó todo aquí: arriesgándote y saliendo de tu zona de confort."
 
 **[EL CONTEXTO — 0:12-0:35]**
 "Soy Paola, trabajo en Estados Unidos en fondos y fundaciones de educación, y me uní a Heiiu como aliada para presentar este proyecto ante organizaciones internacionales. Y te cuento cómo funciona ese mundo: nadie financia un programa por lo que promete. Lo financian por lo que puede DEMOSTRAR que logró. Y lo que Heiiu logró… eres tú."
