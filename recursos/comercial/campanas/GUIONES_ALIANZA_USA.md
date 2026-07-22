@@ -21,7 +21,7 @@
 **[¿Y QUÉ VIENE? + CIERRE — 1:25-1:50]**
 "¿Y qué es lo que viene? El público internacional. El empleador que necesita al joven bilingüe. El que quiere apoyar su empresa contigo. El que busca a quién ofrecerle una oportunidad de verdad.
 Para los alumnos activos que ya cuentan con el apoyo de la beca Heiiu: el Fondo crece con una sola cosa — los resultados de ustedes. Cada clase, cada tarea, cada audio tuyo es lo que se presenta para que otro joven reciba la misma oportunidad que tú ya recibiste. Tu evidencia no es solo tuya — es la beca del que sigue.
-Estamos empezando. Nos vemos pronto."
+Estamos avanzando. Nos vemos pronto."
 
 ---
 
