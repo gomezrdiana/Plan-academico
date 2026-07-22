@@ -20,7 +20,7 @@
 
 **[¿Y QUÉ VIENE? + CIERRE — 1:25-1:50]**
 "¿Y qué es lo que viene? El público internacional. El empleador que necesita al joven bilingüe. El que quiere apoyar su empresa contigo. El que busca a quién ofrecerle una oportunidad de verdad.
-Y una cosa más, para los que ya tienen su beca: piénsalo — alguien apostó por ti ANTES de ver tus resultados. Los que vienen apuestan DESPUÉS de verlos. Tu evidencia es lo que une esas dos apuestas.
+Y una cosa más, para los que ya tienen su beca: esa oportunidad salió del Fondo de Becas de Heiiu. Y el Fondo crece con una sola cosa: los resultados de ustedes. Cada clase, cada tarea, cada audio tuyo es lo que se presenta para que otro joven reciba la misma oportunidad que tú ya recibiste. Tu evidencia no es solo tuya — es la beca del que sigue.
 Estamos empezando. Nos vemos pronto."
 
 ---
