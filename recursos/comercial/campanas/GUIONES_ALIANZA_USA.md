@@ -30,14 +30,14 @@ Estamos avanzando. Nos vemos pronto."
 **[GANCHO — 0:00-0:12]** *(redacción de Diana)*
 "Si ya terminaste tu programa en Heiiu — o estás cerca de terminar — llegó tu momento de dar el siguiente paso: avanzar en lo laboral con lo que aprendiste. Y eso empieza como empezó todo aquí: arriesgándote y saliendo de tu zona de confort."
 
-**[EL CONTEXTO — 0:12-0:35]**
-"Soy Paola, trabajo en Estados Unidos en fondos y fundaciones de educación, y me uní a Heiiu como aliada para presentar este proyecto ante organizaciones internacionales. Y te cuento cómo funciona ese mundo: nadie financia un programa por lo que promete. Lo financian por lo que puede DEMOSTRAR que logró. Y lo que Heiiu logró… eres tú."
+**[EL CONTEXTO — 0:12-0:35]** *(redacción de Diana)*
+"Soy Paola, trabajo en Estados Unidos en fondos y fundaciones de educación, y como aliada de Heiiu me enorgullece presentar este proyecto ante organizaciones internacionales. Te cuento cómo funciona ese mundo: nadie financia un programa por lo que promete. Lo financian por lo que puede DEMOSTRAR que logró. Y lo que Heiiu logró… eres tú."
 
-**[LA PETICIÓN — 0:35-1:05]**
-"Por eso estamos armando el dossier de resultados de Heiiu, y necesito tu historia en él: qué podías hacer en inglés cuando llegaste, qué puedes hacer hoy, y qué ha cambiado — en tu trabajo, en tu estudio, en tu vida. Un testimonio corto, tu certificado, o si quieres, tu voz en video. Cada historia real es un argumento más fuerte frente a los fondos."
+**[LA PETICIÓN — 0:35-1:05]** *(redacción de Diana)*
+"Por eso estamos armando el dossier de resultados de Heiiu — y aquí es donde tu historia se vuelve visible ante organizaciones y potenciales empleadores. Cuéntanos qué podías hacer en inglés cuando llegaste a Heiiu, qué puedes hacer hoy, y qué ha cambiado — en tu trabajo, en tu estudio, en tu vida. Un testimonio corto en formato video. Este es el siguiente paso para seguir avanzando en tus metas con el inglés."
 
-**[EL BENEFICIO HONESTO + CTA — cierre]**
-"Y esto no es solo ayudarnos: los egresados que hagan parte del dossier quedan en la base de la alianza — y cuando las oportunidades que estamos construyendo se abran, empezamos por los que estuvieron aquí desde el principio. Escríbele a coordinación y di: 'quiero estar en el dossier'. Gracias — y sí: tu inglés valió la pena. Ahora ayúdame a demostrarlo."
+**[EL BENEFICIO HONESTO + CTA — cierre]** *(redacción de Diana, ajustada)*
+"Los que participen con su video quedan en la base de la alianza — y cuando las oportunidades laborales que estamos construyendo se abran, se empieza por los que están en el dossier, según los requerimientos de cada empresa. No te quedes por fuera. Escríbele a coordinación y di: 'quiero estar en el dossier'. Gracias — y sí: tu inglés valió la pena. ¡Ahora es tiempo de demostrarlo!"
 
 ---
 
