@@ -9,4 +9,4 @@ Las skills vivas están en `.claude/skills/` (ignorado por git). Esta carpeta es
 |---|---|
 | `clases` | 10/07/2026 — reporte v3: cuerpo fijo de plantilla + cabecera pre-llenada por clase (reemplaza build_report_v2) |
 | `repaso-ausente` | 06/07/2026 |
-| `semanal` | 12/07/2026 — + paso B2-BIS cobranza (script analizar_cartera.py + protocolo + gatillo pre-mortem) |
+| `semanal` | 22/07/2026 — + paso B2-TER semáforo de contenido (semanas programadas restantes, regla del día 25, entregado = confirmado recibido) |
