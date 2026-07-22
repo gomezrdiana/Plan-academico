@@ -10,7 +10,7 @@
 "Hola, soy Paola. Soy de Bucaramanga, como ustedes — y hace años vivo en Estados Unidos, donde he trabajado toda mi carrera en algo muy específico: fundaciones y fondos para educación."
 
 **[POR QUÉ HEIIU — 0:10-0:40]** *(redacción de Diana, 21/07)*
-"Llevo muchos años en este mundo, y encontrar un proyecto en Colombia que valga la pena presentar aquí en Estados Unidos no ha sido fácil. Los fondos internacionales piden algo muy concreto que casi ningún programa tiene: seguimiento real, estudiante por estudiante, con evidencia de cada avance y un compromiso elevado. Eso es lo que encontramos en Heiiu — un programa que lleva años construyéndose, incluso cuando nadie le aportaba recursos. Heiiu tiene una base social difícil de encontrar en el mundo empresarial, y encontrarla ya funcionando… ese es el oro de esta alianza."
+"Llevo muchos años en este mundo, y encontrar un proyecto en Colombia que valga la pena presentar aquí en Estados Unidos no ha sido fácil. Los fondos internacionales piden algo muy concreto que casi ningún programa tiene: seguimiento real, estudiante por estudiante, con evidencia de cada avance y un compromiso elevado. Eso lo encontré en Heiiu: un programa que lleva años construyéndose, incluso cuando nadie le aportaba recursos. Y eso le dio algo que no se compra con dinero — una base social real, ya formada y ya funcionando. Ese es el verdadero valor de esta alianza."
 
 **[EL ANUNCIO — 0:35-1:00]** *(redacción de Diana)*
 "Mi trabajo con Heiiu es este: presentar este proyecto ante fondos y organizaciones internacionales de educación, para fortalecer el Fondo de Becas y seguir abriendo oportunidades para beneficiar a más personas."
