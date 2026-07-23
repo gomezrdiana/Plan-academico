@@ -12,7 +12,7 @@
 Entregables fijos: tablero mensual (ventas, margen, caja, nómina) + flujo de caja proyectado + 1 llamada mensual de decisiones + alertas cuando un número se sale de rango. Nada más está incluido — todo extra se cotiza. *Con playbook y un auxiliar en Colombia, cada cliente adicional cuesta poco tiempo marginal.*
 
 **C. PAQUETE VISA — $2.000-3.500 por evento (el premium del nicho)**
-Preparación financiera para renovación E-2 o compra de franquicia: estados financieros presentables, narrativa de viabilidad con números, coordinación con el abogado de inmigración. **Reglas:** Carlos NUNCA da consejo migratorio ni hace impuestos de USA — prepara los números; el abogado presenta y el CPA declara. Y JAMÁS se promete el resultado de la renovación (en contrato: sin garantía de resultados migratorios) — se vende la preparación, no la visa.
+Preparación financiera para renovación E-2 o compra de franquicia: estados financieros presentables, narrativa de viabilidad con números, coordinación con el abogado de inmigración. **Reglas:** Carlos NUNCA da consejo migratorio ni hace impuestos de USA — prepara los números; el abogado presenta y el CPA declara. Y JAMÁS se promete el resultado de la renovación (en contrato: sin garantía de resultados migratorios) — se vende la preparación, no la visa. **CPA aliado OBLIGATORIO en este paquete** (hallazgo DOC 10): la carta de certificación de renovación solo la firma un CPA licenciado en USA — Carlos no puede firmarla. Dicho en el pitch suma: *"yo preparo y dirijo; un CPA americano certifica; tu abogado presenta — cada pieza con su licencia."*
 
 **D. TABLERO PLANTILLA — $300/mes (el escalón para el comprador de precio)**
 Versión estandarizada, sin análisis a la medida: tablero mensual de indicadores (ventas, margen, caja, nómina) + alertas por rango + 1 llamada TRIMESTRAL. Rentable por volumen porque es 100% plantilla — y es la puerta de subida al paquete B. **Regla de uso: NO se ofrece de entrada** (ancla el precio abajo) — solo como respuesta cuando el precio del B es la objeción real: *"si el completo no te cabe hoy, arranquemos con el tablero: ves tus números cada mes y cuando quieras subimos."*
@@ -31,6 +31,7 @@ Versión estandarizada, sin análisis a la medida: tablero mensual de indicadore
 - *"Un negocio sin números en orden no se puede vender, aunque venda mucho. Yo convierto tu negocio en algo que VALE en papel."* (el que piensa en retirarse)
 - *"Tu negocio es tu visa. Yo cuido los números que la renuevan."* (SOLO inversionista E-2, vía abogados)
 - *"No te vendo horas ni informes: te entrego 3 cosas fijas cada mes. Si un mes no te sirven, lo hablamos."*
+- **El ancla de precio (usarla en toda cita donde el precio arrugue):** *"Un CFO fraccional en Estados Unidos arranca en $3.000 al mes, y el único que atiende en español cobra desde $6.000 — para empresas que facturan más de un millón. Yo te doy esa misma dirección a la escala de tu negocio, porque mi estructura me lo permite."*
 
 **Manejo de la objeción reina — "yo eso lo llevo en la cabeza / en un Excel":**
 *"Igual que la mayoría — hasta la primera renovación de visa, o el primer mes en que la nómina no salió. La Radiografía te muestra en 30 días lo que la cabeza no alcanza a ver. Si no encuentro nada que valga más que lo que cuesta, te lo digo yo mismo."*

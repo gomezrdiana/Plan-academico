@@ -9,9 +9,15 @@ Carlos no tiene un problema de clientes — tiene dos: un **producto sin forma**
 ## 2. EL ACTIVO QUE SE LLEVA (sin permiso de nadie)
 
 De los años con las 12 franquicias, Carlos sale con tres cosas que son suyas:
-1. **La credencial:** "Dirigí las finanzas de una red de 12 unidades en USA" — verificable, sin nombrar al primo.
+1. **La credencial USA:** "Dirijo las finanzas de una red de 12 unidades en USA" — verificable, sin nombrar al primo.
 2. **El playbook:** tablero, flujo de caja, indicadores de unidad — probado en negocio real gringo.
 3. **El conocimiento del nicho:** sabe exactamente cómo piensa, qué teme y en qué se quiebra el **inversionista inmigrante que compró un negocio en USA por su visa (E-2)**. Ese conocimiento vale más que los 12 contactos.
+
+**4. El resto de tu trayectoria (LLENAR POR CARLOS — también vende, y mucho):** la experiencia de USA es la puerta, pero los años previos son el fondo del criterio. Completa con cifras:
+- Sectores/empresas donde has sido CFO o financiero: ____________________
+- Tamaño de las operaciones que has manejado (facturación, empleados): ____________________
+- 3 logros con número y fecha (crisis resuelta, deuda reestructurada, margen recuperado, sistema montado): ____________________
+Esto alimenta el "Quién soy" del brochure, el perfil de LinkedIn y las citas: *"llevo X años dirigiendo finanzas de empresas en [sectores], y hoy manejo una red de 12 unidades en USA"* pesa el doble que la credencial USA sola.
 
 ## 3. EL MERCADO: EL DUEÑO LATINO DE PYME EN USA — DOS PUERTAS
 
@@ -27,6 +33,8 @@ De los años con las 12 franquicias, Carlos sale con tres cosas que son suyas:
 **Puerta B — el INVERSIONISTA E-2 (sub-nicho agudo, entra por el canal de abogados):** compró el negocio por su permanencia legal; la renovación exige viabilidad; un negocio a pérdida es una visa en riesgo. Dolor más agudo, urgencia episódica (ciclo de renovación). Con la regla de blindaje del DOC 3: se vende la preparación, jamás el resultado migratorio.
 
 **Posicionamiento en una línea (cubre las dos puertas):** *"El CFO de los empresarios latinos en USA: te muestro cada mes cuánto te queda de verdad — y construyo los números que el banco, el comprador o Immigration te van a pedir."*
+
+**Validado con investigación de mercado (DOC 10, jul-2026):** el hueco existe — los CFO fraccionales gringos arrancan en $3.000/mes, el único CFO en español posicionado (FintelAgency) cobra desde $6.000 para empresas de $1M+, y los servicios "latinos" solo hacen taxes. Nadie ocupa español + sub-$1M + E-2 continuo. Dos consecuencias: (a) FintelAgency a $6.000 es el **ancla de precio** de todas las citas; (b) hay **ventana de tiempo** — el posicionamiento se clava con velocidad, antes de que alguien baje a esta franja.
 
 ## 4. LOS CANALES — TODOS SIN EL PRIMO (en orden de potencia)
 
