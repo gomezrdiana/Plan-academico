@@ -53,3 +53,5 @@ No se argumenta — se demuestra: en los primeros 30 días, mini-radiografía in
 - [ ] Logística de pago resuelta: W-8BEN listo + cuenta USD (Wise/Payoneer) + modelo de factura que un contador gringo acepte.
 - [ ] Guion de la Radiografía ensayado: qué pide, qué entrega, cuándo termina.
 - [ ] Perfil de LinkedIn al día con el posicionamiento (la prueba del googlazo: lo que ve un referido al buscarlo).
+- [ ] Link de agenda (Calendly gratis) en el brochure y los mensajes — "¿te queda bien esta semana?" pierde citas por ping-pong de horarios.
+- [ ] Guion de la cita ensayado EN VOZ ALTA 3 veces (DOC 5) + contrato borrador donde el abogado (DOC 6).
