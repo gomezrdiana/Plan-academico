@@ -14,7 +14,10 @@ Entregables fijos: tablero mensual (ventas, margen, caja, nómina) + flujo de ca
 **C. PAQUETE VISA — $2.000-3.500 por evento (el premium del nicho)**
 Preparación financiera para renovación E-2 o compra de franquicia: estados financieros presentables, narrativa de viabilidad con números, coordinación con el abogado de inmigración. **Reglas:** Carlos NUNCA da consejo migratorio ni hace impuestos de USA — prepara los números; el abogado presenta y el CPA declara. Y JAMÁS se promete el resultado de la renovación (en contrato: sin garantía de resultados migratorios) — se vende la preparación, no la visa.
 
-**La escalera:** Radiografía (A) → mensual (B) → eventos (C). La regla de alcance cerrado aplica con TODOS los clientes, no solo con el primo.
+**D. TABLERO PLANTILLA — $300/mes (el escalón para el comprador de precio)**
+Versión estandarizada, sin análisis a la medida: tablero mensual de indicadores (ventas, margen, caja, nómina) + alertas por rango + 1 llamada TRIMESTRAL. Rentable por volumen porque es 100% plantilla — y es la puerta de subida al paquete B. **Regla de uso: NO se ofrece de entrada** (ancla el precio abajo) — solo como respuesta cuando el precio del B es la objeción real: *"si el completo no te cabe hoy, arranquemos con el tablero: ves tus números cada mes y cuando quieras subimos."*
+
+**La escalera:** Radiografía (A) → mensual (B, o D si el precio aprieta → sube a B) → eventos (C). La regla de alcance cerrado aplica con TODOS los clientes, no solo con el primo.
 
 ## EL IDIOMA DEL DUEÑO EMPÍRICO
 
@@ -37,7 +40,7 @@ Preparación financiera para renovación E-2 o compra de franquicia: estados fin
 ## LAS OTRAS 3 OBJECIONES (y su respuesta exacta)
 
 **"Yo ya tengo contador" (el barato):**
-*"Tu contador te dice cuánto pagaste — mira el pasado. Yo te digo si tu negocio aguanta el año que viene — y tu renovación."* Y al comprador de precio no se le pelea el precio: se le ofrece el **escalón inferior** (~$300/unidad/mes: tablero estandarizado + llamada trimestral). Como las unidades son idénticas, ese tier es rentable por volumen y es la puerta al paquete completo.
+*"Tu contador te dice cuánto pagaste — mira el pasado. Yo te digo si tu negocio aguanta el año que viene."* Y al comprador de precio no se le pelea el precio: se le ofrece el **paquete D (Tablero Plantilla, $300/mes)** — rentable por volumen y puerta de subida al paquete completo.
 
 **"¿Cómo le voy a dar acceso a mis cuentas a alguien en Colombia?" (el miedo al externo):**
 El kit de confianza, dicho en el pitch sin que lo pregunten: (1) **regla sagrada: "yo nunca toco la plata"** — acceso de SOLO LECTURA a QuickBooks/banco, jamás autoridad de firma ni transferencias; (2) LLC en USA — contratan y le pagan a una empresa americana; (3) seguro de responsabilidad profesional (E&O) vigente; (4) contrato bilingüe con corte de servicio a 30 días sin penalidad. El miedo real es fraude y desaparición — se mata con estructura, no con promesas.
