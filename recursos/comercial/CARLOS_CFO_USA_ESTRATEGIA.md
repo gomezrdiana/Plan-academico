@@ -77,6 +77,19 @@ Preparación financiera para renovación E-2 o compra de franquicia: estados fin
 - No aceptar más clientes "sin límites": el alcance cerrado del §4 es la regla con TODOS, no solo con el primo.
 - Subcontratación en Colombia solo sobre el playbook ya probado (semana 3-4) — delegar caos multiplica caos.
 
+## 9. PLAN B (si el primo dice no) Y EXPANSIÓN (si Carlos quiere más que el nicho)
+
+**Si el primo dice "no le cobres a mis clientes":**
+1. **La carta de alcance NO se negocia** — es independiente del canal: los $800 = paquete cerrado se firma igual, porque es lo que libera el tiempo de Carlos. El canal era el bonus; el alcance es el piso.
+2. **Ofrecerle la segunda forma de decir sí — white-label:** el primo incluye "CFO del programa" en lo que ya les cobra a sus socios y le paga a Carlos por unidad ($300-500/unidad/mes). El primo conserva la relación y el control, su franquicia vale más, Carlos multiplica ingreso sin tocar a los clientes del primo. Directo o white-label — que elija entre dos síes.
+3. **Si cierra las dos puertas: el nicho no es del primo.** Inversionistas E-2 a pérdida hay miles; las otras puertas (abogados de inmigración, otros vendedores de franquicias-visa, comunidades de inversionistas latinos) están en §6.2-6.4. Cambia la velocidad del arranque, no la estrategia. Y aplica el corte del día 90: sin canal y sin renegociación, el descuento del 90% al primo pierde su justificación.
+
+**Si Carlos quiere abrirse a otros negocios (la regla 80/20):**
+- **Los paquetes del §4 sirven para CUALQUIER pyme** — Radiografía, mensual y proyectos no cambian; solo el mensaje de la visa es de nicho. El gancho universal para el dueño empírico de cualquier industria: *"vendes bien y no tienes caja — eso es un número que nadie está mirando".*
+- **Referido tibio de cualquier industria se atiende SIEMPRE** — nunca se rechaza demanda que llega sola.
+- **La prospección en frío (las horas escasas) va 80% al nicho** hasta tener 5-6 clientes: ahí cada caso de éxito vende el siguiente; en el mercado abierto cada venta arranca de cero.
+- **Expansión por anillos, cada uno pagado con los casos del anterior:** carwash E-2 → cualquier franquicia E-2 → pyme latina en USA en general → pyme anglo (cuando haya caso de éxito escrito en inglés y el inglés esté a punto). Saltarse anillos = competir sin ventaja contra los fractional CFO gringos.
+
 ## Open questions (para Carlos)
 
 1. Las 3 cifras exactas del caso del primo (resultado + número + fecha) — sin esto no se sale a vender.
