@@ -1,0 +1,38 @@
+# CARLOS · DOC 3 — LOS PAQUETES Y EL IDIOMA DEL DUEÑO (herramientas de venta)
+
+> 23/07/2026. Documento 3 de 3. Los 3 productos con entregables cerrados + las frases exactas para que un dueño empírico vea el valor. Precios de arranque — se suben con los primeros casos.
+
+## LOS 3 PAQUETES (entregables cerrados — la cura del "todo sin límites")
+
+**A. RADIOGRAFÍA FINANCIERA — $1.200 una vez (la puerta de entrada)**
+30 días: diagnóstico completo del negocio + las 3 fugas de plata más grandes con su cifra + plan de 90 días + sesión de 90 min con el dueño. Fácil de decir sí: precio cerrado, fecha de fin, resultado tangible. *De aquí sale el mensual.*
+
+**B. CFO REMOTO MENSUAL — $600-900/mes por unidad (el corazón del negocio)**
+Entregables fijos: tablero mensual (ventas, margen, caja, nómina) + flujo de caja proyectado + 1 llamada mensual de decisiones + alertas cuando un número se sale de rango. Nada más está incluido — todo extra se cotiza. *Con playbook y un auxiliar en Colombia, cada cliente adicional cuesta poco tiempo marginal.*
+
+**C. PAQUETE VISA — $2.000-3.500 por evento (el premium del nicho)**
+Preparación financiera para renovación E-2 o compra de franquicia: estados financieros presentables, narrativa de viabilidad con números, coordinación con el abogado de inmigración. **Regla:** Carlos NUNCA da consejo migratorio — prepara los números; el abogado presenta.
+
+**La escalera:** Radiografía (A) → mensual (B) → eventos (C). La regla de alcance cerrado aplica con TODOS los clientes, no solo con el primo.
+
+## EL IDIOMA DEL DUEÑO EMPÍRICO
+
+**Qué NO decir jamás:** "asesoría financiera" · "CFO fraccional" · "planeación estratégica" · "KPIs" · "optimización". El dueño empírico no compra categorías que no conoce — compra resultados que ya le duelen.
+
+**Qué SÍ decir (frases de trabajo, listas para usar):**
+- *"Yo te digo cada mes cuánta plata entró, cuánta se fue, por dónde se fue — y cuánta te quedó de verdad."*
+- *"Vender bien y no tener plata en la cuenta no es mala suerte: es un número que nadie está mirando. Yo lo encuentro."*
+- *"Tu negocio es tu visa. Yo cuido los números que la renuevan."* (solo nicho E-2)
+- *"No te vendo horas ni informes: te entrego 3 cosas fijas cada mes. Si un mes no te sirven, lo hablamos."*
+
+**Manejo de la objeción reina — "yo eso lo llevo en la cabeza / en un Excel":**
+*"Igual que la mayoría — hasta la primera renovación de visa, o el primer mes en que la nómina no salió. La Radiografía te muestra en 30 días lo que la cabeza no alcanza a ver. Si no encuentro nada que valga más que lo que cuesta, te lo digo yo mismo."*
+
+**El principio detrás de todo:** el dueño empírico no ve valor en "tener un asesor" — ve valor en **una cifra suya que no conocía**. Por eso la puerta de entrada es la Radiografía (produce esa cifra en 30 días) y no el mensual. Primero la cifra, después la relación.
+
+## CHECKLIST ANTES DE LA PRIMERA VENTA
+
+- [ ] Las 3 cifras del caso del primo documentadas (resultado + número + fecha).
+- [ ] Plantilla de tablero y de flujo de caja 13 semanas listas (el playbook).
+- [ ] Contrato simple de servicios en USD (una plantilla).
+- [ ] Guion de la Radiografía ensayado: qué pide, qué entrega, cuándo termina.
