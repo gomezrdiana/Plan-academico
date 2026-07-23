@@ -11,8 +11,8 @@
 
 **Objective: set the rules of listening and warm the ear.**
 
-1. **Encuadre (3'):** *"Three sessions. Today the ear. You will not read — you will listen and produce. I read; I do not repeat everything. Train your stamina."* English only; si sale español, reinicia la frase en inglés.
-2. **Warm-up de oído (5'):** dices 6-8 frases cortas con estructuras ya vistas del libro B1 (question tags M1, reported speech M8, perfect M9); el grupo las repite EXACTAS al vuelo. Ej: *"You finished it, didn't you?"* / *"She said she had already left."* / *"I have never seen that before."* Varía velocidad: 2 lentas, 2 normales, 2 rápidas.
+1. **Encuadre de conciencia (4' — casi textual, con respeto y sin regaño):** *"Let me be honest with you, with respect. You had 175 hours of class — and English around you all day, every day: your phone, your music, your series. Six hours with me cannot replace what only YOU can do. These three sessions will show you exactly WHERE to work — but the real work happens at home, every day, starting tonight. Passing an exam is not the goal. Using English for your life is. And that is built when nobody is watching."* Luego el marco operativo: *"Three sessions. Today the ear. You will not read — you will listen and produce. I read; I do not repeat everything. Train your stamina."* English only; si sale español, reinicia la frase en inglés.
+2. **Warm-up de oído (4'):** dices 6-8 frases cortas con estructuras ya vistas del libro B1 (question tags M1, reported speech M8, perfect M9); el grupo las repite EXACTAS al vuelo. Ej: *"You finished it, didn't you?"* / *"She said she had already left."* / *"I have never seen that before."* Varía velocidad: 2 lentas, 2 normales, 2 rápidas.
 3. **Regla de la sesión (2', board):**
 ```
 LISTENING RULES — REFUERZO DAY 1
@@ -63,9 +63,13 @@ TIME: 30-45 min (B1). No fragmenting, no "I didn't have time".
 2) Write ONE paragraph (6-8 sentences) using at least 3
    connectors from M6 (because / so / even though / however /
    in spite of) + one perfect tense. By hand.
+3) EVERY DAY until the exam: 20 minutes of English exposure
+   (video, podcast, series, music — anything). Then say a
+   3-sentence summary OUT LOUD. Write down WHAT you listened
+   to each day — you bring that log to every session.
 Bring it written. We correct it live next session.
 ```
-5. **Cierre (1'):** *"Next session: writing by hand, under time. Bring your paragraph."* (NO menciones el examen ni pronósticos.)
+5. **Cierre (1'):** *"Next session: writing by hand, under time. Bring your paragraph — and your exposure log. Remember: I give you two hours; the day gives you twenty-four."* (NO menciones el examen ni pronósticos.)
 
 **Checklist salida:** ☐ Reporte firmado ☐ Dictados recogidos/revisados ☐ Foco L trabajado 1-a-1 (patrón anotado) ☐ Examen de cada uno revisado 1-a-1 (sin comunicar nota) ☐ Lista personal iniciada ☐ Error paper anónimo hecho + versión con nombres a coordinación ☐ Tarea asignada con due date
 

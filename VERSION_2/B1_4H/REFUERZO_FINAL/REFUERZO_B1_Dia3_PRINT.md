@@ -69,7 +69,7 @@ NO NEW HOMEWORK — the retake is next.
 Take your 3 action points. Rehearse your opening out loud.
 Sleep well. Arrive early.
 ```
-   *"You have trained the ear, the hand, and the voice. Go and do your best on the external exam."* (NO menciones nota, ni pronóstico, ni probabilidad de pasar.)
+   *"You have trained the ear, the hand, and the voice. But remember what I told you on day one: six hours with me was never the point. The exam is one day — your English is for the rest of your life, and it grows twenty minutes a day, when nobody is watching. Keep the habit after the exam. Go and do your best."* (NO menciones nota, ni pronóstico, ni probabilidad de pasar.)
 
 **Checklist salida:** ☐ Reporte firmado ☐ Mini-listening + escrito corto recogidos ☐ Las 3 presentaciones cronometradas + retro de forma dada ☐ Foco S trabajado 1-a-1 (pitch + nervios, ensayo repetido) ☐ Cada estudiante con sus 2-3 acciones ☐ Error paper anónimo + versión con nombres a coordinación ☐ Portafolio (audios de ensayo) contado
 
