@@ -1,83 +1,67 @@
-# CARLOS · DOC 1 — LA ESTRATEGIA (nicho, canales y ruta de 90 días)
+# CARLOS · DOC 1 — LA ESTRATEGIA: CLIENTES PROPIOS, SIN EL PRIMO
 
-> 23/07/2026. Documento 1 de 3. Los otros dos: DOC 2 (conversación con el primo) y DOC 3 (paquetes y guiones de venta).
+> 23/07/2026 (v2 — el objetivo es SALIR del sistema del primo, no optimizarlo). Documento 1 de 3. DOC 2 = higiene con el primo (solo para liberar tiempo). DOC 3 = paquetes y guiones de venta.
 
 ## 1. EL DIAGNÓSTICO EN UNA FRASE
 
-Carlos no tiene un problema de clientes — tiene un problema de **producto**: está vendiendo "todo lo que haga falta" (full CFO sin límites) a $800/mes, y un servicio sin entregables definidos no se puede ni cobrar bien ni repetir ni delegar. Primero se empaqueta el producto (DOC 3), después se sale a vender. En ese orden.
+Carlos no tiene un problema de clientes — tiene dos: un **producto sin forma** ("todo lo que haga falta" no se puede cobrar, repetir ni delegar) y **cero horas de prospección** porque el primo se las consume todas. La estrategia: empaquetar el producto (DOC 3), ponerle techo al primo (DOC 2 — higiene, 1 página, y no se habla más de él) y dedicar las horas liberadas a construir cartera PROPIA.
 
-## 2. EL DESCUBRIMIENTO CENTRAL: EL NICHO YA LO TIENE (y no lo está viendo)
+## 2. EL ACTIVO QUE SE LLEVA (sin permiso de nadie)
 
-El negocio del primo no es carwash — es **entrada de inversionistas extranjeros a USA vía franquicia (visa E-2)**. Eso define un nicho perfecto:
+De los años con las 12 franquicias, Carlos sale con tres cosas que son suyas:
+1. **La credencial:** "Dirigí las finanzas de una red de 12 unidades en USA" — verificable, sin nombrar al primo.
+2. **El playbook:** tablero, flujo de caja, indicadores de unidad — probado en negocio real gringo.
+3. **El conocimiento del nicho:** sabe exactamente cómo piensa, qué teme y en qué se quiebra el **inversionista inmigrante que compró un negocio en USA por su visa (E-2)**. Ese conocimiento vale más que los 12 contactos.
 
-- **El dueño-inversionista E-2 no compró un negocio: compró su permanencia legal en USA.** La renovación de la visa exige demostrar que la empresa es viable y no marginal. Un negocio a pérdida no es un mal negocio — **es una visa en riesgo y una familia en el aire.**
-- Es hispanohablante, primerizo en USA, y opera empírico: exactamente el dueño que "no entiende para qué sirve un asesor financiero"… hasta que se lo dicen en SU idioma (DOC 3).
-- Las franquicias del mismo sistema tienen finanzas idénticas → **un solo playbook sirve para todos los clientes**: tablero igual, indicadores iguales, proceso igual. Es el nicho que permite sistematizar y subcontratar en Colombia sin bajar calidad.
-- Nadie está posicionado ahí: los fractional CFO gringos no hablan español ni entienden la angustia migratoria; los contadores latinos hacen taxes, no dirección financiera.
+## 3. EL NICHO (el mismo — pero el mercado, no el rancho del primo)
 
-**El posicionamiento en una línea:** *"El CFO de los inversionistas inmigrantes: cuido los números que sostienen tu negocio — y tu visa."*
+El dueño-inversionista E-2 hispanohablante: no compró un negocio — compró su permanencia legal. La renovación exige demostrar viabilidad; un negocio a pérdida es una visa en riesgo y una familia en el aire. Hay **miles** (franquicias, restaurantes, tiendas, servicios — no solo carwash), concentrados en Florida y Texas. Opera empírico, le teme a los números y nadie le habla en su idioma: los fractional CFO gringos no hablan español ni entienden la angustia migratoria; los contadores latinos hacen taxes, no dirección financiera.
 
-## 3. CANALES, EN ESTE ORDEN (cada uno abre el siguiente)
+**Posicionamiento en una línea:** *"El CFO de los inversionistas inmigrantes: cuido los números que sostienen tu negocio — y tu visa."* (Con la regla de blindaje del DOC 3: se vende la preparación, jamás el resultado migratorio.)
 
-1. **Los socios/compradores actuales del sistema del primo** — ya conocen a Carlos, muchos van a pérdida, y la presentación la hace el primo (DOC 2). Primeros 2-3 clientes mensuales salen de aquí.
-2. **Otros vendedores de franquicias-visa** (colegas del primo): mismo pitch — "tus franquicias vienen con CFO" les sube el producto. Comisión de referido simple (10-15% del primer año).
-3. **Abogados de inmigración E-2/EB-5 hispanos:** un cliente con números en orden les facilita la renovación; Carlos les resuelve el caso difícil (el cliente a pérdida). Se contactan con el Paquete Visa (DOC 3), no con "asesoría".
-4. **Contenido en español, LinkedIn + un canal corto:** 2 piezas/semana con el idioma del DOC 3 ("las 3 cifras que Immigration mira de tu negocio", "vendes bien y no tienes caja: mira esto"). El contenido no vende — documenta que Carlos existe cuando el referido lo googlea.
-5. **Fase gringa (después, no ahora):** solo cuando haya 6-8 clientes hispanos y caso de éxito escrito en inglés. Mientras tanto, inglés en mejora continua — el nicho hispano no lo exige impecable.
+## 4. LOS CANALES — TODOS SIN EL PRIMO (en orden de potencia)
 
-## 4. LOS PRIMEROS 90 DÍAS
+1. **Abogados de inmigración E-2/EB-5 hispanos (EL canal).** Cada abogado tiene decenas de clientes E-2 y un dolor recurrente: el cliente con negocio a pérdida cuya renovación es difícil de sustentar. Carlos les resuelve el caso difícil (Paquete Visa) y les manda clientes de vuelta. Pitch de un párrafo + 1 caso con cifras. Meta: 5 conversaciones/mes; con 2-3 abogados aliados el flujo de clientes es constante.
+2. **CPAs y contadores latinos en USA.** Hacen taxes, no dirección financiera — Carlos no les compite, les complementa. Alianza de referidos en dos vías (el CPA declara, Carlos dirige). Además resuelve la línea roja: Carlos nunca toca impuestos de USA.
+3. **Brokers y consultores de franquicias / business brokers** que venden a extranjeros (otras marcas, otras ciudades). Mismo pitch de valor: "tu venta vale más si el comprador no se quiebra". Comisión de referido simple (10-15% del primer año).
+4. **Comunidades del nicho:** cámaras de comercio latinas (Florida, Texas), grupos de inversionistas E-2 e inmigrantes empresarios (Facebook/WhatsApp/eventos virtuales). Ahí se está presente aportando (una charla corta: "las 3 cifras que Immigration mira de tu negocio"), no vendiendo.
+5. **Contenido en español en LinkedIn (2 piezas/semana)** con el idioma del DOC 3. El contenido no vende — pasa la prueba del googlazo cuando el abogado o el referido lo buscan.
+6. **Fase gringa (después):** solo con 6-8 clientes hispanos y un caso escrito en inglés. El nicho hispano no exige inglés impecable; la fase gringa sí — se prepara en paralelo, no se espera.
+
+## 5. LA RUTINA DE PROSPECCIÓN (las horas que libera el DOC 2)
+
+**Bloque fijo semanal (no negociable, es EL trabajo):** 10 contactos nuevos personalizados (abogados/CPAs/brokers, LinkedIn o email corto con el caso en cifras) + 2 piezas de contenido + seguimiento de la semana anterior. Un tablero simple de pipeline (contactado → conversación → propuesta → cierre) — el mismo rigor que le vende a sus clientes, aplicado a sí mismo.
+
+## 6. LOS PRIMEROS 90 DÍAS (versión independiente)
 
 | Semanas | Acción |
 |---|---|
-| 1-2 | Documentar el caso del primo con cifras (3 resultados con número y fecha) + carta de alcance (DOC 2) firmada |
-| 3-4 | Armar el playbook estándar (tablero plantilla, flujo 13 semanas, guion de Radiografía) — es lo que se replica en cada cliente |
-| 5-8 | Reunión con el primo → lista de socios/compradores + 3 presentaciones directas. Meta: 2 Radiografías vendidas |
-| 9-12 | Convertir Radiografías en mensuales. Contactar 2 vendedores de franquicias y 3 abogados E-2. Arrancar contenido (2/sem) |
-| Día 90 | Corte: si hay ≥2 mensuales nuevos pagando directo, se formaliza el descuento del primo como cerrado; si no, se renegocia el $800 en serio |
+| 1-2 | Documentar el caso propio con cifras (3 resultados con número y fecha, sin nombrar al primo) + firmar la carta de alcance del DOC 2 (libera las horas) + checklist de venta del DOC 3 (contrato, W-8BEN, cuenta USD, LinkedIn) |
+| 3-4 | Lista de 50 objetivos: 20 abogados E-2 hispanos + 15 CPAs latinos + 15 brokers/consultores. Arranca la rutina del §5 |
+| 5-8 | 20+ conversaciones. Meta: 2 alianzas de referido firmes + 2 Radiografías vendidas FUERA del sistema del primo |
+| 9-12 | Convertir Radiografías en mensuales. Primera charla en una cámara/comunidad. Caso no-familiar documentado |
+| Día 90 | Corte: ≥2 clientes propios pagando → la salida está en marcha; el peso del primo en el ingreso total empieza a bajar cada mes. Si no hay ninguno: el problema está en la ejecución de la rutina §5, no en el plan — revisar pipeline con cifras |
 
-**Metas de ingreso:** $3.000/mes = 4-5 clientes mensuales (6-9 meses). $5.000-8.000/mes = 8-10 mensuales + 1-2 Paquetes Visa/mes (12-18 meses, solo dentro del nicho).
+**Metas de ingreso:** $3.000/mes = 4-5 clientes mensuales propios (6-9 meses). $5.000-8.000 = 8-10 mensuales + 1-2 Paquetes Visa/mes (12-18 meses). **La independencia se mide en un solo número: % del ingreso que NO viene del primo.**
 
-## 5. PLAN B Y EXPANSIÓN
+## 7. EXPANSIÓN MÁS ALLÁ DEL NICHO (la regla 80/20)
 
-**Si el primo dice "no le cobres a mis clientes":**
-1. **La carta de alcance NO se negocia** — es independiente del canal: los $800 = paquete cerrado se firma igual, porque es lo que libera el tiempo de Carlos. El canal era el bonus; el alcance es el piso.
-2. **Ofrecerle la segunda forma de decir sí — white-label:** el primo incluye "CFO del programa" en lo que ya les cobra a sus socios y le paga a Carlos por unidad ($300-500/unidad/mes). El primo conserva la relación y el control, su franquicia vale más, Carlos multiplica ingreso sin tocar a los clientes del primo. Directo o white-label — que elija entre dos síes (detalle en DOC 2).
-3. **Si cierra las dos puertas: el nicho no es del primo.** Inversionistas E-2 a pérdida hay miles; las otras puertas son los canales 2-4 de arriba. Cambia la velocidad del arranque, no la estrategia. Y aplica el corte del día 90: sin canal y sin renegociación, el descuento del 90% al primo pierde su justificación.
+- Los paquetes del DOC 3 sirven para CUALQUIER pyme — solo el mensaje de la visa es de nicho. Gancho universal del dueño empírico: *"vendes bien y no tienes caja — eso es un número que nadie está mirando".*
+- Referido tibio de cualquier industria se atiende SIEMPRE; la prospección en frío va 80% al nicho hasta tener 5-6 clientes.
+- Anillos: inversionista E-2 (cualquier negocio) → pyme latina en USA → pyme anglo (con caso en inglés y el idioma a punto). Saltarse anillos = competir sin ventaja contra los fractional CFO gringos.
 
-**Si Carlos quiere abrirse a otros negocios (la regla 80/20):**
-- **Los paquetes del DOC 3 sirven para CUALQUIER pyme** — solo el mensaje de la visa es de nicho. El gancho universal para el dueño empírico de cualquier industria: *"vendes bien y no tienes caja — eso es un número que nadie está mirando".*
-- **Referido tibio de cualquier industria se atiende SIEMPRE** — nunca se rechaza demanda que llega sola.
-- **La prospección en frío (las horas escasas) va 80% al nicho** hasta tener 5-6 clientes: ahí cada caso de éxito vende el siguiente; en el mercado abierto cada venta arranca de cero.
-- **Expansión por anillos, cada uno pagado con los casos del anterior:** carwash E-2 → cualquier franquicia E-2 → pyme latina en USA en general → pyme anglo (cuando haya caso de éxito escrito en inglés y el inglés esté a punto). Saltarse anillos = competir sin ventaja contra los fractional CFO gringos.
+## 8. PRE-MORTEM — LOS HUECOS Y SU CURA
 
-## 6. CUIDADOS
-
-- **Nunca consejo migratorio** — los números los prepara Carlos, el caso lo presenta el abogado. Decirlo explícito protege y además abre el canal de los abogados.
-- Todo en USD y con contrato simple de servicios (una plantilla, no un abogado por cliente).
-- No aceptar más clientes "sin límites": el alcance cerrado del DOC 3 es la regla con TODOS, no solo con el primo.
-- Subcontratación en Colombia solo sobre el playbook ya probado (semana 3-4) — delegar caos multiplica caos.
-
-## 7. PRE-MORTEM — LOS 6 HUECOS Y SU CURA
-
-1. **Conflicto de interés primo↔socios:** franquiciador y franquiciados tienen intereses opuestos; si los números de un socio muestran que el problema es EL MODELO que el primo vende, Carlos queda atrapado entre los dos. Cura: carta de encargo por cliente que nombra a quién sirve Carlos en ese contrato; un diagnóstico jamás se comparte con la otra parte. (El white-label agrava este riesgo — tenerlo presente al elegir.)
-2. **¿Y si las franquicias son insalvables?** Muchos esquemas franquicia-visa son marginales por diseño. Cura: radiografía honesta de 2-3 unidades ANTES de montar el discurso; pregunta binaria "¿es arreglable?". Si no lo es, el producto para ese cliente es ordenar la salida/venta (también se cobra) y Carlos toma distancia de la marca.
-3. **La promesa de la visa:** "cuido los números que renuevan tu visa" nunca puede volverse "te renuevo la visa". Cura: cláusula en contrato — sin garantía de resultados migratorios, sin asesoría legal; solo preparación financiera.
-4. **Fricción de pago Colombia→USA:** resolver ANTES de la primera venta: W-8BEN listo, cuenta USD (Wise/Payoneer), contrato bilingüe, factura que un contador gringo acepte. Línea roja gemela: Carlos NO hace impuestos de USA — consigue un CPA aliado (que además es canal de referidos).
-5. **La grieta del canal 2:** ningún vendedor de franquicias le entrega clientes al primo de su competidor. Cura: con los colegas del primo, Carlos se presenta como independiente y NO lidera con el caso familiar. Y como el caso del primo se descuenta por familiar, conseguir UN caso no-familiar rápido (primera radiografía a mitad de precio a cambio de testimonio con cifras).
-6. **Nadie audita la ejecución:** un plan sin fecha de revisión es un deseo. Cura: checkpoint día 30 con 3 preguntas — ¿carta de alcance firmada? ¿caso con cifras documentado? ¿cuántas radiografías ofrecidas? Si está en cero, el problema no es el plan.
-
-## 8. LA REESTRUCTURACIÓN "CADA PUNTO ASUME SU COSTO" (contexto 23/07: se está presentando YA)
-
-El plan del primo — que cada punto asuma costos administrativos/financieros y le pague a operaciones y a Carlos — le sirve a Carlos PERO trae 3 trampas que se desactivan ANTES de presentarla a los socios:
-1. **El asesor impuesto:** el socio en pérdida que recibe a Carlos como cuota obligatoria lo ve como impuesto — y al primer trimestre malo es el gasto que quiere cortar. Cura: onboarding individual con cada socio (mini-radiografía: "estas son TUS 3 fugas") — valor personal y visible en los primeros 30 días.
-2. **El problema del espía:** si el punto paga pero Carlos le reporta el detalle al primo, la confianza muere al descubrirse. Gobierno de datos dicho de frente: el primo ve el consolidado (lo que su contrato de franquicia ya le da); el detalle y el diagnóstico son del socio.
-3. **El riel de cobro:** 12 socios estresados = facturas que no llegan. El fee de Carlos viaja en el mismo riel donde el primo ya recauda (descuento junto a regalías o débito automático) — nunca 12 facturas sueltas.
-
-**Bonus del nicho:** la E-2 se renueva por ciclos (≈cada 4 años, en el caso de estas unidades). Pedirle al primo el **calendario de renovación de los 12 puntos**: los que renuevan en 12-18 meses son los prospectos calientes del Paquete Visa; el resto compra mantenimiento. La urgencia se administra, no se riega pareja.
+1. **La promesa de la visa:** "cuido los números que renuevan tu visa" nunca puede volverse "te renuevo la visa". Cláusula en contrato: sin garantía de resultados migratorios, sin asesoría legal.
+2. **Fricción de pago Colombia→USA:** W-8BEN, cuenta USD (Wise/Payoneer), contrato bilingüe, factura que un contador gringo acepte — resuelto ANTES de la primera venta. Ideal: LLC en USA + seguro E&O (el kit de confianza del DOC 3).
+3. **El caso familiar se descuenta** ("claro, era el primo"): conseguir UN caso no-familiar rápido — primera Radiografía a mitad de precio a cambio de testimonio con cifras.
+4. **El miedo al extranjero remoto:** se mata con estructura, no promesas — regla "yo nunca toco la plata" (solo lectura, jamás firma), LLC, E&O, corte de servicio a 30 días (DOC 3).
+5. **Nadie audita la ejecución:** checkpoint día 30 — ¿carta firmada? ¿caso con cifras? ¿lista de 50 hecha? ¿cuántas conversaciones? Un plan sin fecha de revisión es un deseo.
+6. **La trampa de la gravedad del primo:** el riesgo #1 de todo el plan es que el primo siga llenando las horas "por urgencias". La carta de alcance es el muro; cada excepción se cotiza aparte o no se hace. Sin muro, no hay prospección; sin prospección, no hay salida.
 
 ## Preguntas que Carlos debe responder antes de arrancar
 
-1. Las 3 cifras exactas del caso del primo (resultado + número + fecha) — sin esto no se sale a vender.
-2. ¿Cuántos de los 12 socios/compradores actuales están a pérdida y quiénes deciden? (la primera lista de prospectos)
-3. Estructura legal: ¿los socios-inversionistas pueden contratar servicios por fuera del acuerdo con el primo? (verificar antes de venderles directo)
-4. Su meta de capacidad tras poner límites: ¿cuántas horas/semana le libera la carta de alcance?
+1. Las 3 cifras de su caso (resultado + número + fecha) — sin esto no se sale a vender.
+2. ¿Cuántas horas/semana le libera la carta de alcance? (esas horas SON el plan)
+3. ¿Florida, Texas u otra geografía primero? (define la lista de 50)
+4. ¿Tiene cómo facturar y recibir USD ya? (si no, semana 1)
