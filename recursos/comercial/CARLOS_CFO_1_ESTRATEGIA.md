@@ -13,11 +13,18 @@ De los años con las 12 franquicias, Carlos sale con tres cosas que son suyas:
 2. **El playbook:** tablero, flujo de caja, indicadores de unidad — probado en negocio real gringo.
 3. **El conocimiento del nicho:** sabe exactamente cómo piensa, qué teme y en qué se quiebra el **inversionista inmigrante que compró un negocio en USA por su visa (E-2)**. Ese conocimiento vale más que los 12 contactos.
 
-## 3. EL NICHO (el mismo — pero el mercado, no el rancho del primo)
+## 3. EL MERCADO: EL DUEÑO LATINO DE PYME EN USA — DOS PUERTAS
 
-El dueño-inversionista E-2 hispanohablante: no compró un negocio — compró su permanencia legal. La renovación exige demostrar viabilidad; un negocio a pérdida es una visa en riesgo y una familia en el aire. Hay **miles** (franquicias, restaurantes, tiendas, servicios — no solo carwash), concentrados en Florida y Texas. Opera empírico, le teme a los números y nadie le habla en su idioma: los fractional CFO gringos no hablan español ni entienden la angustia migratoria; los contadores latinos hacen taxes, no dirección financiera.
+**El mercado real es uno: el dueño latino de pyme en USA que opera empírico** — vende bien, trabaja 12 horas, y nadie le ha mostrado sus números en su idioma. Los fractional CFO gringos no le hablan en español ni entienden su mundo; los contadores latinos le hacen taxes, no dirección financiera. Dentro de ese mercado hay dos puertas con dolores distintos:
 
-**Posicionamiento en una línea:** *"El CFO de los inversionistas inmigrantes: cuido los números que sostienen tu negocio — y tu visa."* (Con la regla de blindaje del DOC 3: se vende la preparación, jamás el resultado migratorio.)
+**Puerta A — el ESTABLECIDO (la mayoría, más plata, el segmento del piloto):** ciudadano o residente, años de negocio, sin estrés migratorio. Sus tres dolores:
+1. *"¿Tu negocio te está haciendo rico o solo te mantiene ocupado?"* — una década vendiendo bien sin saber si construye patrimonio o solo paga la operación.
+2. **El banco:** quiere crecer (local, equipo, propiedad) y el banco pide estados financieros que no puede mostrar. El CFO lo vuelve **sujeto de crédito** — beneficio concreto que ya sabe que le falta porque ya se estrelló con él.
+3. **El día de vender o retirarse:** un negocio sin números ordenados vale casi nada aunque venda mucho. Números limpios = negocio vendible = patrimonio.
+
+**Puerta B — el INVERSIONISTA E-2 (sub-nicho agudo, entra por el canal de abogados):** compró el negocio por su permanencia legal; la renovación exige viabilidad; un negocio a pérdida es una visa en riesgo. Dolor más agudo, urgencia episódica (ciclo de renovación). Con la regla de blindaje del DOC 3: se vende la preparación, jamás el resultado migratorio.
+
+**Posicionamiento en una línea (cubre las dos puertas):** *"El CFO de los empresarios latinos en USA: te muestro cada mes cuánto te queda de verdad — y construyo los números que el banco, el comprador o Immigration te van a pedir."*
 
 ## 4. LOS CANALES — TODOS SIN EL PRIMO (en orden de potencia)
 

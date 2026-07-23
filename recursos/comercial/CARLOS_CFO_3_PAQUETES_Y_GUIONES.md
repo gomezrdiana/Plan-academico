@@ -22,7 +22,10 @@ Preparación financiera para renovación E-2 o compra de franquicia: estados fin
 **Qué SÍ decir (frases de trabajo, listas para usar):**
 - *"Yo te digo cada mes cuánta plata entró, cuánta se fue, por dónde se fue — y cuánta te quedó de verdad."*
 - *"Vender bien y no tener plata en la cuenta no es mala suerte: es un número que nadie está mirando. Yo lo encuentro."*
-- *"Tu negocio es tu visa. Yo cuido los números que la renuevan."* (solo nicho E-2)
+- *"¿Tu negocio te está haciendo rico, o solo te mantiene ocupado?"* (el establecido con años de negocio)
+- *"Cuando el banco te pida estados financieros para prestarte, ¿qué le vas a mostrar? Yo dejo tus números listos para ese día."* (el que quiere crecer)
+- *"Un negocio sin números en orden no se puede vender, aunque venda mucho. Yo convierto tu negocio en algo que VALE en papel."* (el que piensa en retirarse)
+- *"Tu negocio es tu visa. Yo cuido los números que la renuevan."* (SOLO inversionista E-2, vía abogados)
 - *"No te vendo horas ni informes: te entrego 3 cosas fijas cada mes. Si un mes no te sirven, lo hablamos."*
 
 **Manejo de la objeción reina — "yo eso lo llevo en la cabeza / en un Excel":**

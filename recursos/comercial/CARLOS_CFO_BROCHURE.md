@@ -8,11 +8,11 @@
 
 1. ¿Sabes cuánto vendiste el mes pasado… y cuánto te quedó **libre de verdad**?
 2. ¿Sabes cuál de tus productos o servicios te **deja** plata — y cuál te la está **quitando**?
-3. ¿Sabes HOY si puedes pagar la nómina de los próximos 3 meses?
-4. ¿Tu negocio vende cada vez más… pero la cuenta del banco no se mueve?
+3. Si mañana pides un préstamo para crecer, ¿tienes los números **listos para mostrárselos al banco**?
+4. Si algún día quisieras vender tu negocio o retirarte — ¿alguien podría ver en papel **cuánto vale**?
 5. Las decisiones grandes (contratar, comprar, abrir, invertir) — ¿las tomas con números o con estómago?
 
-**Si dudaste en 2 o más, no tienes un problema de negocio: tienes un punto ciego de números.** Y los puntos ciegos cuestan plata todos los meses — se vean o no.
+**Si dudaste en 2 o más, no tienes un problema de negocio: tienes un punto ciego de números.** Y los puntos ciegos cuestan plata todos los meses — se vean o no. Después de años de trabajo, la pregunta ya no es si tu negocio te da para vivir: **es si te está construyendo patrimonio, o solo te mantiene ocupado.**
 
 ---
 
