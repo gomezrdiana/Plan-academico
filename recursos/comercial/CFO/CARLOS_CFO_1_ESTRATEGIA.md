@@ -22,6 +22,8 @@ De los años con las 12 franquicias, Carlos sale con tres cosas que son suyas:
 2. **El banco:** quiere crecer (local, equipo, propiedad) y el banco pide estados financieros que no puede mostrar. El CFO lo vuelve **sujeto de crédito** — beneficio concreto que ya sabe que le falta porque ya se estrelló con él.
 3. **El día de vender o retirarse:** un negocio sin números ordenados vale casi nada aunque venda mucho. Números limpios = negocio vendible = patrimonio.
 
+**Dentro de la puerta A hay 3 estados, y el mensaje cambia con el estado (detalle en DOC 8):** el que NO tiene ayuda financiera (se le vende con el espejo del punto ciego) · el que YA tiene contador/financiero (reencuadre de roles + Segunda Opinión) · **el que está BIEN, con números en verde** — el más difícil, porque no compra por dolor: se le vende por AMBICIÓN (¿bien comparado con qué? · el crecimiento come caja antes de devolverla · el crédito se consigue cuando no se necesita) con la "Radiografía de Potencial" (mismo producto, narrativa de cuánto más, no de fugas).
+
 **Puerta B — el INVERSIONISTA E-2 (sub-nicho agudo, entra por el canal de abogados):** compró el negocio por su permanencia legal; la renovación exige viabilidad; un negocio a pérdida es una visa en riesgo. Dolor más agudo, urgencia episódica (ciclo de renovación). Con la regla de blindaje del DOC 3: se vende la preparación, jamás el resultado migratorio.
 
 **Posicionamiento en una línea (cubre las dos puertas):** *"El CFO de los empresarios latinos en USA: te muestro cada mes cuánto te queda de verdad — y construyo los números que el banco, el comprador o Immigration te van a pedir."*
