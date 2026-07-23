@@ -33,6 +33,16 @@ Una hoja de vida dice "busco trabajo" y dispara "¿cuánto cuesta este señor?".
 4. **Métrica del piloto:** en lista tibia, 3-4 citas por cada 10 enviados es buen resultado; 1 o menos = el mensaje o el brochure fallan, se ajustan ANTES de la siguiente tanda.
 5. **Cierre del piloto:** con 10-15 citas hechas se decide con datos: qué perfil respondió, qué objeción domina, cuántas Radiografías salieron — y con ESO se diseña la pauta (no al revés).
 
+## LOS 7 ACELERADORES DEL ARRANQUE (antes de la primera tanda)
+
+1. **La Radiografía de MUESTRA:** armar UNA radiografía de ejemplo (anónima, 3 páginas, datos realistas de su experiencia). En la cita se comparte pantalla: *"esto es lo que tendrías, con TUS números"*. Nadie compra un entregable que no ha visto — se hace una vez, convierte para siempre.
+2. **Oferta de fundadores + garantía:** *"5 cupos de fundadores: precio especial congelado para siempre, a cambio de testimonio con cifras."* Y la garantía que mata el "costo innecesario": *"si la Radiografía no te encuentra fugas que valgan más de lo que pagaste, no me pagas."*
+3. **QuickBooks ProAdvisor (semana 1-2):** certificación GRATUITA, insignia que el mercado gringo reconoce + listado en el directorio público de ProAdvisors — canal inbound gratis desde el día 15. (Complemento: Xero.)
+4. **Prueba social sin clientes:** 3-5 recomendaciones escritas en LinkedIn esta semana (colegas, ex-jefes, operaciones) — llenan el googlazo mientras llegan casos reales.
+5. **Motor de referidos desde la cita #1:** toda cita — cierre o no — termina con *"¿a qué colega tuyo le serviría esta misma llamada?"* El mejor momento de pedirlo es cuando el empresario acaba de ver su punto ciego.
+6. **El "no" es "todavía no" — el número del mes:** un párrafo mensual (WhatsApp/email) a todos los que no dijeron sí: un dato que pique (*"el 60% de las pymes que quiebran eran rentables — les faltó caja, no ventas"*). 20 min/mes; cuando al empresario le llegue SU crisis, Carlos es el primer nombre. Sin esto, la lista piloto se gasta y se pierde.
+7. **Decir sí cuesta 5 minutos:** anunciar el onboarding en la cita — *"solo necesito 3 cosas: acceso de SOLO LECTURA a tu banco/QuickBooks, tus últimos 3 extractos y 45 minutos tuyos."* El que teme un proceso engorroso no compra; el que oye "3 cosas", sí.
+
 ## POR QUÉ ESTE ORDEN ES EL CORRECTO
 
 Diana lo dijo exacto: el empresario ve la ayuda financiera como "un costo alto innecesario por ignorancia". Contra la ignorancia no funciona el argumento — funciona el espejo: las 5 preguntas hacen que el dueño se diagnostique solo. La pauta llegará a desconocidos fríos; la lista tibia es el laboratorio barato para pulir mensaje, brochure y guion de cita con gente que al menos abre el mensaje.
