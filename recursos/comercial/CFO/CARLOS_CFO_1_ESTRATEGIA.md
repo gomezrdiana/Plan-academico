@@ -1,6 +1,6 @@
 # CARLOS · DOC 1 — LA ESTRATEGIA: CLIENTES PROPIOS, SIN EL PRIMO
 
-> 23/07/2026 (v2 — el objetivo es SALIR del sistema del primo, no optimizarlo). Documento 1 de 3. DOC 2 = higiene con el primo (solo para liberar tiempo). DOC 3 = paquetes y guiones de venta.
+> 23/07/2026 (v2 — el objetivo es SALIR del sistema del primo, no optimizarlo). Documento 1 de 7 (+ brochure y radiografía de muestra). El orden de lectura: DOC 7 (checklist) → este → DOC 3 (paquetes) → DOC 4-5 (piloto y cita) → DOC 2 (primo) → DOC 6 (contrato).
 
 ## 1. EL DIAGNÓSTICO EN UNA FRASE
 

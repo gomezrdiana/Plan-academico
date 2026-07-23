@@ -1,8 +1,8 @@
 # CARLOS · DOC 3 — LOS PAQUETES Y EL IDIOMA DEL DUEÑO (herramientas de venta)
 
-> 23/07/2026. Documento 3 de 3. Los 3 productos con entregables cerrados + las frases exactas para que un dueño empírico vea el valor. Precios de arranque — se suben con los primeros casos.
+> 23/07/2026. Los 4 productos con entregables cerrados + las frases exactas para que un dueño empírico vea el valor. Precios de arranque — se suben con los primeros casos.
 
-## LOS 3 PAQUETES (entregables cerrados — la cura del "todo sin límites")
+## LOS 4 PAQUETES (entregables cerrados — la cura del "todo sin límites")
 
 **A. RADIOGRAFÍA FINANCIERA — $1.200 una vez (la puerta de entrada)**
 30 días: diagnóstico completo del negocio + las 3 fugas de plata más grandes con su cifra + plan de 90 días + sesión de 90 min con el dueño. Fácil de decir sí: precio cerrado, fecha de fin, resultado tangible. *De aquí sale el mensual.*

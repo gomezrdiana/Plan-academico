@@ -1,6 +1,6 @@
 # CARLOS · DOC 2 — LA CONVERSACIÓN CON EL PRIMO (guion privado)
 
-> 23/07/2026 (v2). Documento 2 de 3 — SOLO para Carlos; el primo nunca lo ve. **Ojo al encuadre: esto es HIGIENE, no estrategia.** El objetivo del plan (DOC 1) es construir cartera propia SIN el primo; esta conversación existe para una sola cosa: ponerle techo al tiempo que el primo consume, sin romper la relación. Lo del canal (que presente compradores) es un bonus si se da — no se persigue.
+> 23/07/2026 (v2). Documento 2 de 7 — SOLO para Carlos; el primo nunca lo ve. **Ojo al encuadre: esto es HIGIENE, no estrategia.** El objetivo del plan (DOC 1) es construir cartera propia SIN el primo; esta conversación existe para una sola cosa: ponerle techo al tiempo que el primo consume, sin romper la relación. Lo del canal (que presente compradores) es un bonus si se da — no se persigue.
 
 ## LA IDEA RECTORA
 
