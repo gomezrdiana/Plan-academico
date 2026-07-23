@@ -51,7 +51,7 @@ LISTENING RULES — REFUERZO DAY 1
 
 **Objective: each student faces their own exam errors and leaves with a personal error list.**
 
-1. **Revisión 1-a-1 rotativa (24'):** con la copia del examen de cada uno (la trae coordinación), te sientas ~7-8 min con cada estudiante mientras los otros 2 escriben su **lista personal de errores**. Señalas el ERROR y el PATRÓN (no la nota): *"Here the tense is wrong — past perfect, not simple past."* El estudiante lo corrige en voz alta y por escrito. **NO lees la calificación ni la comentas.**
+1. **Revisión 1-a-1 rotativa (24'):** te sientas ~7-8 min con cada estudiante mientras los otros 2 escriben su **lista personal de errores**. Material de trabajo: (a) los errores que TÚ anotaste en vivo durante los Bloques 2-3 de hoy (lleva una hoja de captura por estudiante desde el inicio de la sesión), (b) lo que el propio estudiante recuerda que le costó en el examen — pregúntale: *"What was hardest for you? Which part did you feel slipping?"* — y (c) su foco de destreza (nota interna). Señalas el ERROR y el PATRÓN: *"Here the tense is wrong — past perfect, not simple past."* El estudiante lo corrige en voz alta y por escrito. **No se usan los exámenes (no se entregan) y NO se habla de calificaciones.**
 2. **Lista personal de errores (dentro del tiempo):** cada uno arma su lista: 5-8 errores propios + la regla del libro B1 que aplica (M-N). Es la base de la tarea.
 3. **Error paper del día (anónimo, 4'):** escribes 4-5 errores ANÓNIMOS recurrentes del grupo en el tablero; los 3 los corrigen juntos. En tu cuaderno privado quedan CON nombre + cita para coordinación (doble protocolo).
 4. **Tarea (board):**
@@ -83,4 +83,4 @@ Bring it written. We correct it live next session.
 - Huecos compartidos del trío: **Writing** (57-67% los tres, se ataca Día 2) y **Listening** (J. y V., hoy).
 - Los textos de dictado los redacta la profe al momento con estructuras YA vistas del libro B1 (M1 tags, M4/M5 conditionals/modals, M6 connectors, M8 reported speech, M9 perfect). Son ejercicios, no contenido de módulo nuevo — permitido. NO inventar reglas del libro.
 - El examen final lo reintentan con **evaluador externo, igual de exigente**. La profe NO fue la profe de estos estudiantes y NO comunica notas ni pronósticos.
-- Copias de los exámenes fallados: las aporta coordinación para el Bloque 4.
+- Los exámenes NO se entregan ni se muestran (decisión de coordinación): el diagnóstico del Bloque 4 sale de los errores capturados en vivo hoy + lo que el estudiante recuerda + el foco por destreza de esta nota. Lleva una hoja de captura de errores por estudiante desde el Bloque 2.
