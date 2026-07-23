@@ -31,7 +31,7 @@ Versión estandarizada, sin análisis a la medida: tablero mensual de indicadore
 - *"Un negocio sin números en orden no se puede vender, aunque venda mucho. Yo convierto tu negocio en algo que VALE en papel."* (el que piensa en retirarse)
 - *"Tu negocio es tu visa. Yo cuido los números que la renuevan."* (SOLO inversionista E-2, vía abogados)
 - *"No te vendo horas ni informes: te entrego 3 cosas fijas cada mes. Si un mes no te sirven, lo hablamos."*
-- **El ancla de precio (usarla en toda cita donde el precio arrugue):** *"Un CFO fraccional en Estados Unidos arranca en $3.000 al mes, y el único que atiende en español cobra desde $6.000 — para empresas que facturan más de un millón. Yo te doy esa misma dirección a la escala de tu negocio, porque mi estructura me lo permite."*
+- **El ancla de precio (usarla en toda cita donde el precio arrugue):** *"Un CFO fraccional en Estados Unidos arranca en $3.000 al mes, y los que atienden en español arrancan en $6.000 — para empresas que facturan más de un millón. Yo te doy esa misma dirección a la escala de tu negocio, porque mi estructura me lo permite."*
 
 **Manejo de la objeción reina — "yo eso lo llevo en la cabeza / en un Excel":**
 *"Igual que la mayoría — hasta la primera renovación de visa, o el primer mes en que la nómina no salió. La Radiografía te muestra en 30 días lo que la cabeza no alcanza a ver. Si no encuentro nada que valga más que lo que cuesta, te lo digo yo mismo."*

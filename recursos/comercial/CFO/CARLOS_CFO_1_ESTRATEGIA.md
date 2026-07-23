@@ -34,7 +34,7 @@ Esto alimenta el "Quién soy" del brochure, el perfil de LinkedIn y las citas: *
 
 **Posicionamiento en una línea (cubre las dos puertas):** *"El CFO de los empresarios latinos en USA: te muestro cada mes cuánto te queda de verdad — y construyo los números que el banco, el comprador o Immigration te van a pedir."*
 
-**Validado con investigación de mercado (DOC 10, jul-2026):** el hueco existe — los CFO fraccionales gringos arrancan en $3.000/mes, el único CFO en español posicionado (FintelAgency) cobra desde $6.000 para empresas de $1M+, y los servicios "latinos" solo hacen taxes. Nadie ocupa español + sub-$1M + E-2 continuo. Dos consecuencias: (a) FintelAgency a $6.000 es el **ancla de precio** de todas las citas; (b) hay **ventana de tiempo** — el posicionamiento se clava con velocidad, antes de que alguien baje a esta franja.
+**Validado con investigación de mercado (DOC 10, jul-2026):** el hueco existe — los CFO fraccionales gringos arrancan en $3.000/mes; los CFO en español visibles (FintelAgency, la más posicionada, y un puñado más) cobran desde $6.000 para empresas de $1M+; y los servicios "latinos" masivos solo hacen taxes. Hay una cola larga de consultores bilingües independientes poco visibles, pero **ningún jugador dominante y ninguno posicionado en español + sub-$1M + E-2 continuo**. Dos consecuencias: (a) FintelAgency a $6.000 es el **ancla de precio** de todas las citas; (b) hay **ventana de tiempo** — el posicionamiento se clava con velocidad, antes de que alguien baje a esta franja.
 
 ## 4. LOS CANALES — TODOS SIN EL PRIMO (en orden de potencia)
 

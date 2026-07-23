@@ -14,7 +14,7 @@ El fractional CFO en USA está **lleno por arriba** ($3.000-15.000/mes, para emp
 | Bookkeeping full | $500-1.500 | Ídem + payroll, AP/AR |
 | **→ EL HUECO DE CARLOS** | **$600-900** | **NADIE con posicionamiento de dirección** |
 | Fractional CFO piso | $3.000-5.000 | Firmas US (cliente de $500K-2M revenue) |
-| CFO en español | desde $6.000 | FintelAgency (única posicionada; apunta a $1M+) |
+| CFO en español (visibles) | desde $6.000 | FintelAgency (la más posicionada) + un puñado (CFOcus, AMEZ, Crezca, King of Kings); todas apuntan a $1M+ |
 | Fractional CFO growth/scale | $5.000-30.000 | Preferred CFO, CFO Hub, etc. |
 
 Por hora el mercado cobra $175-450. El hueco de $600-900 está **estructuralmente protegido**: un CFO que vive en USA no puede operar a ese precio — la estructura de costos colombiana de Carlos es un foso, no un descuento.
@@ -34,6 +34,8 @@ Por hora el mercado cobra $175-450. El hueco de $600-900 está **estructuralment
 3. **"Tu visa es tan fuerte como tus números — y yo los cuido todo el año."** El mejor slogan del mercado (E2VisaCPA lo probó) más lo que ellos no dan: CFO continuo que hace al negocio genuinamente no-marginal — blinda cada renovación Y construye patrimonio.
 4. **"Yo también soy de aquí."** El ángulo humano que ninguna firma puede imitar: un colombiano hablándole de tú a tú al dueño latino y al inmigrante que arriesgó todo. En LinkedIn, historias personales rinden 2-3x más que tips — y los ángulos español/latino/E-2/franquiciado están VACÍOS (el océano rojo es SaaS/startups en inglés).
 5. **"Precio fijo, cero sorpresas."** Retainer mensual predecible contra el terror del cliente pequeño a los $175-450/hora.
+
+**Precisión importante (para no sobreafirmar en la calle):** FintelAgency NO es literalmente "el único CFO en español" — es el más visible de un puñado de ofertas hispanas de dirección financiera, y además existe una cola larga de CPAs/consultores bilingües independientes que atienden en español sin posicionamiento público. Lo defendible es: **no hay jugador dominante, ninguno de los visibles atiende al negocio de menos de $1M, y ninguno publica precios en la franja $600-900.** Carlos dice "los que atienden en español arrancan en $6.000" (verificable), nunca "soy el único" (desmentible).
 
 ## LOS 6 RIESGOS COMPETITIVOS (y su mitigación)
 
