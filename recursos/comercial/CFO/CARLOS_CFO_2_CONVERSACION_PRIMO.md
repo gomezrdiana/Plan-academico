@@ -1,6 +1,6 @@
-# CARLOS · DOC 2 — LA CONVERSACIÓN CON EL PRIMO (guion privado)
+# DOC 2 — LA CONVERSACIÓN CON EL PRIMO · REFERENCIA INTERNA (NO SE ENTREGA)
 
-> 23/07/2026 (v2). Documento 2 de 7 — SOLO para Carlos; el primo nunca lo ve. **Ojo al encuadre: esto es HIGIENE, no estrategia.** El objetivo del plan (DOC 1) es construir cartera propia SIN el primo; esta conversación existe para una sola cosa: ponerle techo al tiempo que el primo consume, sin romper la relación. Lo del canal (que presente compradores) es un bonus si se da — no se persigue.
+> 23/07/2026 (v3). **Este documento NO va en el paquete de Carlos** — decisión Diana 23/07: darle dirección sobre cómo hablar con el primo es meterse en ese negocio, y toca su apego familiar. La regla que Carlos SÍ recibe está en DOC 1/3/7: alcance por escrito con TODOS los clientes, incluido el actual — dicha como norma de su servicio, sin drama. Este guion se guarda por si Carlos algún día PIDE ayuda con esa conversación (ahí sería él quien abre la puerta). Contexto original: ponerle techo al tiempo que el primo consume, sin romper la relación; el canal (que presente compradores) es bonus, no se persigue.
 
 ## LA IDEA RECTORA
 

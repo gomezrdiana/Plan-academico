@@ -9,7 +9,7 @@
 - [ ] **Link de agenda:** crea un Calendly gratuito (franjas de 20 min) y ponlo en brochure y mensajes.
 - [ ] **Cobro:** cuenta para recibir USD (Wise/Payoneer) + W-8BEN diligenciado + modelo de factura. *Si el sí llega y no puedes cobrar, el sí se enfría.*
 - [ ] **Contrato:** lleva el DOC 6 a un abogado — versión bilingüe de 2-3 páginas + firma electrónica.
-- [ ] **Carta de alcance del primo** (DOC 2): redactada y conversación agendada. *Las horas que libera SON el plan.*
+- [ ] **Alcance por escrito con tu cliente actual:** el paquete de entregables que cubre la tarifa actual, en una página firmada (la regla de alcance cerrado del DOC 3, que aplica con TODOS tus clientes). *Las horas que libera SON el plan.*
 - [ ] **LinkedIn:** foto profesional + titular con el posicionamiento + pide 3-5 recomendaciones escritas (colegas, ex-jefes, operaciones). *La prueba del googlazo.*
 - [ ] **QuickBooks ProAdvisor:** inscríbete hoy (gratis) — certificación en 1-2 semanas + listado en el directorio.
 
@@ -40,6 +40,6 @@
 ## DÍA 30 — EL CHECKPOINT (con Diana)
 
 - [ ] ¿Cuántos mensajes enviados? ____ · ¿Cuántas citas hechas? ____ · ¿Cuántas Radiografías vendidas? ____
-- [ ] ¿Carta de alcance del primo firmada? ____ · ¿Horas/semana liberadas? ____
+- [ ] ¿Alcance por escrito con el cliente actual firmado? ____ · ¿Horas/semana liberadas? ____
 - [ ] Las 3 objeciones más repetidas (textuales): ________________
 - Con esas respuestas se ajusta el plan. **Si todo está en cero, el problema no fue el plan.**
