@@ -1,27 +1,28 @@
 # FORMATOS DE REPORTE SEMANAL — Brian · María Eugenia · Breagh
 
-> 22/07/2026. El circuito: **viernes** Diana reenvía a cada uno su bloque por WhatsApp → ellos lo devuelven lleno (texto + pantallazos) **antes del lunes** → Diana pega las respuestas en la sesión semanal de Claude (o guarda los pantallazos en `recursos/comercial/datos/`). Con eso el dashboard se llena solo. Regla de siempre: lo que no llegue queda **SIN DATO** — nunca se estima.
+> 22/07/2026 (v2 — 23/07: Diana saca la pauta directo de Meta; el bloque de Brian se reduce). El circuito: **lunes** = semana cerrada (lunes-domingo): Diana saca sus 2 pantallazos de Meta y reenvía los bloques por WhatsApp → respuestas el mismo lunes/martes → todo se pega en la sesión semanal de Claude (o se guarda en `recursos/comercial/datos/`). Con eso el dashboard se llena solo. Regla de siempre: lo que no llegue queda **SIN DATO** — nunca se estima.
 
 ---
 
-## BLOQUE 1 — PARA BRIAN (copiar y pegar cada viernes)
+## LO QUE SACA DIANA EN META BUSINESS (lunes, 2 pantallazos — semana pasada Lu-Do)
 
-📊 Brian, cifras de la semana (lunes a hoy). Responde este mismo mensaje llenando los espacios:
+1. **Resumen por CAMPAÑA:** importe gastado · resultados (conversaciones iniciadas) · costo por resultado.
+2. **Vista por ANUNCIO** ordenada por costo por resultado (el mejor y el peor a la vista).
 
-- Gasto en pauta: $____
-- Leads que llegaron: ____
-- Costo por lead: $____
-- Conversaciones iniciadas con el bot: ____
+Los totales de la semana (gasto, leads, costo/lead) salen de ahí; el costo por CITA lo calcula Claude (gasto ÷ citas del bot que reporta Brian).
+
+## BLOQUE 1 — PARA BRIAN (copiar y pegar cada lunes)
+
+📊 Brian, de la semana pasada (lunes a domingo):
+
 - CITAS agendadas por el bot: ____
-- Costo por CITA: $____
-- Mejor creativo de la semana (nombre + costo/conversación): ____
-- Peor creativo (candidato a apagar): ____
+- ¿Algún anuncio que recomiendes apagar o escalar, y por qué? ____
 
-Y un pantallazo del administrador de anuncios (resumen por campaña). Gracias.
+Gracias.
 
 ---
 
-## BLOQUE 2 — PARA MARÍA EUGENIA (copiar y pegar cada viernes)
+## BLOQUE 2 — PARA MARÍA EUGENIA (copiar y pegar cada lunes)
 
 📋 María Eugenia, cierre comercial de la semana. Responde llenando:
 
@@ -35,7 +36,7 @@ Gracias.
 
 ---
 
-## BLOQUE 3 — PARA BREAGH (copiar y pegar cada viernes)
+## BLOQUE 3 — PARA BREAGH (copiar y pegar cada lunes)
 
 🎬 Breagh, estado del contenido. Responde con 2 pantallazos + 2 datos:
 
@@ -55,7 +56,7 @@ Gracias.
 
 ## QUÉ HACE DIANA CON LAS RESPUESTAS (total: 5 minutos)
 
-1. Viernes: reenviar los 3 bloques (están arriba, se copian tal cual).
+1. Lunes: sacar los 2 pantallazos de Meta + reenviar los 3 bloques (están arriba, se copian tal cual).
 2. Cuando respondan: reenviar/pegar las respuestas y pantallazos en la sesión semanal de Claude — o guardarlos en `recursos/comercial/datos/` con el nombre de la persona.
 3. Nada más. El dashboard, las alertas (semáforo de contenido, gatillos del pre-mortem, cartera) y los pendientes salen solos en la sesión.
 
