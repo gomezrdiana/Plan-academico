@@ -2,6 +2,17 @@
 
 > 23/07/2026 (v2 — el objetivo es SALIR del sistema del primo, no optimizarlo). Documento 1 de 7 (+ brochure y radiografía de muestra). El orden de lectura: DOC 7 (checklist) → este → DOC 3 (paquetes) → DOC 4-5 (piloto y cita) → DOC 2 (primo) → DOC 6 (contrato).
 
+## 0. LÉELO PRIMERO: LA NECESIDAD ES REAL Y TE ESTÁ ESPERANDO
+
+Antes de cualquier plan, esto — que no es ánimo, es investigación de mercado con fuentes (DOC 10):
+
+- Hay **5.6 millones de negocios latinos en USA**, el segmento de pymes de más rápido crecimiento del país (+44% en 5 años). La gran mayoría opera a ciegas: vende, trabaja, y no sabe cuánto le queda.
+- Ese dueño hoy solo encuentra dos cosas: un **contador que le hace los taxes** (mira el pasado, cero dirección) o un **CFO fraccional desde $3.000/mes — $6.000 si lo quiere en español —** que atiende empresas de $1M+ y no lo va a atender a él. **En la mitad no hay nadie.**
+- Y ese hueco **no está vacío por casualidad — está protegido**: un CFO que vive en USA no puede cobrar $600-900/mes y vivir. Tú sí. Tu estructura de costos no es una desventaja de "consultor desde Colombia": es la llave que abre un mercado que los gringos no pueden tocar.
+- En el nicho que ya conoces (inversionistas E-2), **nadie en el mercado vende lo que tú ya haces todos los días**: dirección financiera continua que mantiene un negocio viable. Solo venden documentos puntuales.
+
+**La conclusión honesta:** lo que hoy entregas por $800 sin nombre y sin límites es exactamente lo que un mercado gigante busca y no encuentra. Los $800 no miden tus habilidades — miden el empaque en que las estás vendiendo. Este plan es el empaque nuevo. La necesidad ya existe; el que falta eres tú.
+
 ## 1. EL DIAGNÓSTICO EN UNA FRASE
 
 Carlos no tiene un problema de clientes — tiene dos: un **producto sin forma** ("todo lo que haga falta" no se puede cobrar, repetir ni delegar) y **cero horas de prospección** porque el primo se las consume todas. La estrategia: empaquetar el producto (DOC 3), ponerle techo al primo (DOC 2 — higiene, 1 página, y no se habla más de él) y dedicar las horas liberadas a construir cartera PROPIA.
@@ -34,7 +45,7 @@ Esto alimenta el "Quién soy" del brochure, el perfil de LinkedIn y las citas: *
 
 **Posicionamiento en una línea (cubre las dos puertas):** *"El CFO de los empresarios latinos en USA: te muestro cada mes cuánto te queda de verdad — y construyo los números que el banco, el comprador o Immigration te van a pedir."*
 
-**Validado con investigación de mercado (DOC 10, jul-2026):** el hueco existe — los CFO fraccionales gringos arrancan en $3.000/mes; los CFO en español visibles (FintelAgency, la más posicionada, y un puñado más) cobran desde $6.000 para empresas de $1M+; y los servicios "latinos" masivos solo hacen taxes. Hay una cola larga de consultores bilingües independientes poco visibles, pero **ningún jugador dominante y ninguno posicionado en español + sub-$1M + E-2 continuo**. Dos consecuencias: (a) FintelAgency a $6.000 es el **ancla de precio** de todas las citas; (b) hay **ventana de tiempo** — el posicionamiento se clava con velocidad, antes de que alguien baje a esta franja.
+**El respaldo de mercado está en el §0 y el DOC 10.** Dos consecuencias operativas: (a) los CFO en español visibles (FintelAgency y un puñado más, todos desde $6.000 y para $1M+) son el **ancla de precio** de toda cita; (b) hay **ventana de tiempo** — el posicionamiento se clava con velocidad, antes de que alguien baje a esta franja. Regla de honestidad: se dice "los que atienden en español arrancan en $6.000" (verificable), nunca "soy el único" (desmentible). Dos consecuencias: (a) FintelAgency a $6.000 es el **ancla de precio** de todas las citas; (b) hay **ventana de tiempo** — el posicionamiento se clava con velocidad, antes de que alguien baje a esta franja.
 
 ## 4. LOS CANALES — TODOS SIN EL PRIMO (en orden de potencia)
 
