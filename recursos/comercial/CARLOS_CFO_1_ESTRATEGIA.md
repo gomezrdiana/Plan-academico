@@ -57,6 +57,15 @@ El negocio del primo no es carwash — es **entrada de inversionistas extranjero
 - No aceptar más clientes "sin límites": el alcance cerrado del DOC 3 es la regla con TODOS, no solo con el primo.
 - Subcontratación en Colombia solo sobre el playbook ya probado (semana 3-4) — delegar caos multiplica caos.
 
+## 7. PRE-MORTEM — LOS 6 HUECOS Y SU CURA
+
+1. **Conflicto de interés primo↔socios:** franquiciador y franquiciados tienen intereses opuestos; si los números de un socio muestran que el problema es EL MODELO que el primo vende, Carlos queda atrapado entre los dos. Cura: carta de encargo por cliente que nombra a quién sirve Carlos en ese contrato; un diagnóstico jamás se comparte con la otra parte. (El white-label agrava este riesgo — tenerlo presente al elegir.)
+2. **¿Y si las franquicias son insalvables?** Muchos esquemas franquicia-visa son marginales por diseño. Cura: radiografía honesta de 2-3 unidades ANTES de montar el discurso; pregunta binaria "¿es arreglable?". Si no lo es, el producto para ese cliente es ordenar la salida/venta (también se cobra) y Carlos toma distancia de la marca.
+3. **La promesa de la visa:** "cuido los números que renuevan tu visa" nunca puede volverse "te renuevo la visa". Cura: cláusula en contrato — sin garantía de resultados migratorios, sin asesoría legal; solo preparación financiera.
+4. **Fricción de pago Colombia→USA:** resolver ANTES de la primera venta: W-8BEN listo, cuenta USD (Wise/Payoneer), contrato bilingüe, factura que un contador gringo acepte. Línea roja gemela: Carlos NO hace impuestos de USA — consigue un CPA aliado (que además es canal de referidos).
+5. **La grieta del canal 2:** ningún vendedor de franquicias le entrega clientes al primo de su competidor. Cura: con los colegas del primo, Carlos se presenta como independiente y NO lidera con el caso familiar. Y como el caso del primo se descuenta por familiar, conseguir UN caso no-familiar rápido (primera radiografía a mitad de precio a cambio de testimonio con cifras).
+6. **Nadie audita la ejecución:** un plan sin fecha de revisión es un deseo. Cura: checkpoint día 30 con 3 preguntas — ¿carta de alcance firmada? ¿caso con cifras documentado? ¿cuántas radiografías ofrecidas? Si está en cero, el problema no es el plan.
+
 ## Preguntas que Carlos debe responder antes de arrancar
 
 1. Las 3 cifras exactas del caso del primo (resultado + número + fecha) — sin esto no se sale a vender.

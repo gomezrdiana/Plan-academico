@@ -39,3 +39,7 @@ El primo incluye "CFO del programa" dentro de lo que ya les cobra a sus socios/c
 - No amenaza con irse ni menciona a los colegas del primo como alternativa (eso suena a chantaje y quema el canal 2).
 - No negocia el precio de los $800 hacia arriba EN ESTA reunión — primero el alcance y el canal; el precio solo se toca si todo lo demás falla (día 90).
 - No promete resultados a los socios que aún no ha diagnosticado.
+
+## EL CONFLICTO QUE HAY QUE PACTAR DESDE EL DÍA 1
+
+Primo (franquiciador) y socios (franquiciados) tienen intereses opuestos. Si Carlos va a atender a los dos lados, se pacta EN esta reunión, en una frase: *"Cuando trabaje para un socio, lo que encuentre es del socio — igual que lo tuyo es tuyo. Ni tú ves sus números ni él los tuyos. Es la única forma de que ambos confíen en mí, y de que 'viene con CFO' valga algo."* Si el primo no acepta esa confidencialidad cruzada, el modelo de cobro directo a socios no es viable con él — pasar a white-label o a los otros canales.

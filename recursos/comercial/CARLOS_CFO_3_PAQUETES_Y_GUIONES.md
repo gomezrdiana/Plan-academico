@@ -11,7 +11,7 @@
 Entregables fijos: tablero mensual (ventas, margen, caja, nómina) + flujo de caja proyectado + 1 llamada mensual de decisiones + alertas cuando un número se sale de rango. Nada más está incluido — todo extra se cotiza. *Con playbook y un auxiliar en Colombia, cada cliente adicional cuesta poco tiempo marginal.*
 
 **C. PAQUETE VISA — $2.000-3.500 por evento (el premium del nicho)**
-Preparación financiera para renovación E-2 o compra de franquicia: estados financieros presentables, narrativa de viabilidad con números, coordinación con el abogado de inmigración. **Regla:** Carlos NUNCA da consejo migratorio — prepara los números; el abogado presenta.
+Preparación financiera para renovación E-2 o compra de franquicia: estados financieros presentables, narrativa de viabilidad con números, coordinación con el abogado de inmigración. **Reglas:** Carlos NUNCA da consejo migratorio ni hace impuestos de USA — prepara los números; el abogado presenta y el CPA declara. Y JAMÁS se promete el resultado de la renovación (en contrato: sin garantía de resultados migratorios) — se vende la preparación, no la visa.
 
 **La escalera:** Radiografía (A) → mensual (B) → eventos (C). La regla de alcance cerrado aplica con TODOS los clientes, no solo con el primo.
 
@@ -34,5 +34,7 @@ Preparación financiera para renovación E-2 o compra de franquicia: estados fin
 
 - [ ] Las 3 cifras del caso del primo documentadas (resultado + número + fecha).
 - [ ] Plantilla de tablero y de flujo de caja 13 semanas listas (el playbook).
-- [ ] Contrato simple de servicios en USD (una plantilla).
+- [ ] Contrato simple de servicios en USD, bilingüe, con las 2 cláusulas: sin garantía de resultados migratorios · sin servicios de impuestos USA.
+- [ ] Logística de pago resuelta: W-8BEN listo + cuenta USD (Wise/Payoneer) + modelo de factura que un contador gringo acepte.
 - [ ] Guion de la Radiografía ensayado: qué pide, qué entrega, cuándo termina.
+- [ ] Perfil de LinkedIn al día con el posicionamiento (la prueba del googlazo: lo que ve un referido al buscarlo).
