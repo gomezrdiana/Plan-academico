@@ -30,6 +30,17 @@ Preparación financiera para renovación E-2 o compra de franquicia: estados fin
 
 **El principio detrás de todo:** el dueño empírico no ve valor en "tener un asesor" — ve valor en **una cifra suya que no conocía**. Por eso la puerta de entrada es la Radiografía (produce esa cifra en 30 días) y no el mensual. Primero la cifra, después la relación.
 
+## LAS OTRAS 3 OBJECIONES (y su respuesta exacta)
+
+**"Yo ya tengo contador" (el barato):**
+*"Tu contador te dice cuánto pagaste — mira el pasado. Yo te digo si tu negocio aguanta el año que viene — y tu renovación."* Y al comprador de precio no se le pelea el precio: se le ofrece el **escalón inferior** (~$300/unidad/mes: tablero estandarizado + llamada trimestral). Como las unidades son idénticas, ese tier es rentable por volumen y es la puerta al paquete completo.
+
+**"¿Cómo le voy a dar acceso a mis cuentas a alguien en Colombia?" (el miedo al externo):**
+El kit de confianza, dicho en el pitch sin que lo pregunten: (1) **regla sagrada: "yo nunca toco la plata"** — acceso de SOLO LECTURA a QuickBooks/banco, jamás autoridad de firma ni transferencias; (2) LLC en USA — contratan y le pagan a una empresa americana; (3) seguro de responsabilidad profesional (E&O) vigente; (4) contrato bilingüe con corte de servicio a 30 días sin penalidad. El miedo real es fraude y desaparición — se mata con estructura, no con promesas.
+
+**"Me lo impusieron en el corte" (el socio que no eligió a Carlos):**
+No se argumenta — se demuestra: en los primeros 30 días, mini-radiografía individual con SUS 3 fugas y su cifra. El que recibe valor personal deja de ver la cuota; el que solo ve el débito, la pelea. Ningún socio pasa del mes 1 sin una cifra suya sobre la mesa.
+
 ## CHECKLIST ANTES DE LA PRIMERA VENTA
 
 - [ ] Las 3 cifras del caso del primo documentadas (resultado + número + fecha).

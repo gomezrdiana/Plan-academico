@@ -66,6 +66,15 @@ El negocio del primo no es carwash — es **entrada de inversionistas extranjero
 5. **La grieta del canal 2:** ningún vendedor de franquicias le entrega clientes al primo de su competidor. Cura: con los colegas del primo, Carlos se presenta como independiente y NO lidera con el caso familiar. Y como el caso del primo se descuenta por familiar, conseguir UN caso no-familiar rápido (primera radiografía a mitad de precio a cambio de testimonio con cifras).
 6. **Nadie audita la ejecución:** un plan sin fecha de revisión es un deseo. Cura: checkpoint día 30 con 3 preguntas — ¿carta de alcance firmada? ¿caso con cifras documentado? ¿cuántas radiografías ofrecidas? Si está en cero, el problema no es el plan.
 
+## 8. LA REESTRUCTURACIÓN "CADA PUNTO ASUME SU COSTO" (contexto 23/07: se está presentando YA)
+
+El plan del primo — que cada punto asuma costos administrativos/financieros y le pague a operaciones y a Carlos — le sirve a Carlos PERO trae 3 trampas que se desactivan ANTES de presentarla a los socios:
+1. **El asesor impuesto:** el socio en pérdida que recibe a Carlos como cuota obligatoria lo ve como impuesto — y al primer trimestre malo es el gasto que quiere cortar. Cura: onboarding individual con cada socio (mini-radiografía: "estas son TUS 3 fugas") — valor personal y visible en los primeros 30 días.
+2. **El problema del espía:** si el punto paga pero Carlos le reporta el detalle al primo, la confianza muere al descubrirse. Gobierno de datos dicho de frente: el primo ve el consolidado (lo que su contrato de franquicia ya le da); el detalle y el diagnóstico son del socio.
+3. **El riel de cobro:** 12 socios estresados = facturas que no llegan. El fee de Carlos viaja en el mismo riel donde el primo ya recauda (descuento junto a regalías o débito automático) — nunca 12 facturas sueltas.
+
+**Bonus del nicho:** la E-2 se renueva por ciclos (≈cada 4 años, en el caso de estas unidades). Pedirle al primo el **calendario de renovación de los 12 puntos**: los que renuevan en 12-18 meses son los prospectos calientes del Paquete Visa; el resto compra mantenimiento. La urgencia se administra, no se riega pareja.
+
 ## Preguntas que Carlos debe responder antes de arrancar
 
 1. Las 3 cifras exactas del caso del primo (resultado + número + fecha) — sin esto no se sale a vender.
