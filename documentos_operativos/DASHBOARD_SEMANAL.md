@@ -35,6 +35,9 @@ Con "financiación 100% propia", cada deserción de un estudiante financiado con
 |---|---|---|---|---|---|---|---|
 | (mayo, mensual) | SIN DATO | SIN DATO | SIN DATO | SIN DATO | SIN DATO | 5 | SIN DATO |
 | (junio, mensual) | SIN DATO | SIN DATO | SIN DATO | SIN DATO | SIN DATO | 8 | SIN DATO |
+| **20-26 jul** | ~$560.000 ($80k/día) | ~95 *(calc: gasto÷$5.900)* | $5.900 | **9** (2ma·2mi·3ju·2vi) | SIN DATO (M.E.) | SIN DATO (M.E.) | SIN DATO |
+
+**Lectura 20-26 jul (27/07):** conversaciones 12-15/día (~90-100/sem) → 9 citas = **conversación→cita ~9-10%** (vs 12.3% del diagnóstico — la rotura del bot SIGUE; verificar si Valentina ya opera el guion nuevo "el bot vende la CITA"). **Costo por cita ~$62.000** (subió desde ~$47k). Creativos: video academia (ing+esp); noche funciona; tardes y sábados apagados por nulos; "el de inglés" 29 conversaciones a $7.000. **Pedido de Brian: subir a $200k/día (40 leads/día) — respuesta condicionada:** 2 semanas midiendo conv→cita con guion nuevo; si sube a 25%+ → escalonado $120k/día, y si costo/cita <$45k → $200k. NO subir pauta con el embudo roto (guardarraíl B4). Meta correcta = citas baratas, no leads. Recordatorio vivo: Meta Ads debe pagarse de cuenta EMPRESA (candado anti-recarga #2).
 
 Pedido al account manager (07/07): inversión, leads, costo/lead, **citas agendadas por el bot, costo por cita, desglose por campaña/creativo, % leads que responden al bot**. A María Eugenia: citas asistidas vs agendadas + motivo principal de no-cierre.
 
