@@ -1,10 +1,10 @@
-# PROPUESTA DE TRABAJO — CFO FRACCIONAL · CARLOS [APELLIDO]
+# PLANTILLA DE PROPUESTA (se llena una por cliente, DESPUÉS de su cita)
 
 **Dirección financiera de nivel ejecutivo, para negocios que van en serio.**
 *La claridad financiera de un CFO senior, sin la nómina de uno de tiempo completo.*
 [email] · [teléfono] · Preparada para **[Nombre del Cliente]** — confidencial
 
-> **REGLA DE USO (quitar de la versión final):** esta propuesta se entrega DESPUÉS de la conversación de 20 minutos, personalizada con lo que salió en ella. Nunca es el primer contacto — para abrir está el brochure de las 5 preguntas.
+> **CÓMO SE USA (quitar este recuadro de la versión que ve el cliente):** esto es una PLANTILLA — hoy no se le envía a nadie. Vive en el cajón hasta que ocurra la primera cita de 20 minutos. Ahí Carlos llena los corchetes [ ] con lo que ESE dueño dijo en SU cita, y le envía su propuesta personalizada. El orden del embudo: **brochure abre → cita de 20 min espeja → esta propuesta cierra.** "Nuestra conversación" = la cita que acaba de pasar con ese cliente.
 
 ---
 
