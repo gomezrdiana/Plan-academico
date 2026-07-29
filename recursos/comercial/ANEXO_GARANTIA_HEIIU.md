@@ -8,9 +8,9 @@ Entre Heiiu Global Teacher SAS y el SUSCRIPTOR/ESTUDIANTE se acuerda agregar al 
 
 a) **Asistencia** de al menos el 80% de las clases del nivel (coherente con la cláusula 12 del contrato).
 b) **Entrega de al menos el 90% de las tareas** asignadas, dentro de los plazos fijados por el profesor.
-c) **Portafolio del nivel completo:** los audios y videos de práctica requeridos durante el curso.
+c) **Presentación de todas las evaluaciones del nivel** convocadas por la academia (evaluación de entrada, evaluación intermedia y examen final).
 
-Los registros de asistencia, tareas y portafolio que lleva la academia son la base de verificación; el estudiante puede consultarlos en cualquier momento a través de coordinación.
+Los registros de asistencia, tareas y evaluaciones que lleva la academia son la base de verificación; el estudiante puede consultarlos en cualquier momento a través de coordinación.
 
 ## 2. MEDICIÓN DEL APRENDIZAJE
 
