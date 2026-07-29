@@ -42,6 +42,7 @@ Modelos: tú (Opus/einstein) rediges todo; **tesla** extrae de PDFs/fotos; **mar
 
 ## PARTE C — CIERRE
 
+0. **Revisión del arsenal** (`documentos_operativos/ARSENAL_DISENADO_VS_DESPLEGADO.md`): actualizar estados 🔴/🟡/🟢 con lo que Diana confirme; recordarle los top pendientes. Regla: no se diseña nada nuevo si existe un arma equivalente sin disparar. Se mantiene hasta que todo esté 🟢.
 1. Verificación en disco de todo lo generado (mark): PDFs válidos, V1-V20 en guías.
 2. `git add` de lo trabajado + commit descriptivo + **push** (el repo es el negocio).
 3. Si se modificó alguna skill: copiar a `documentos_operativos/skills_backup/` + actualizar su README.
