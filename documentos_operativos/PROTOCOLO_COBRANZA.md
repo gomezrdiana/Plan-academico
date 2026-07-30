@@ -12,6 +12,29 @@
 | **D+5** | **Carta del Reglamento** (impresa o PDF formal): la mora suspende el beneficio del Fondo; la siguiente cuota se liquida a tarifa plena; existe UNA opción de recuperación poniéndose al día en 30 días (Reglamento art. correspondiente) | Coordinación | Carta física/correo |
 | **D+15** | Cita para **acuerdo de pago firmado** (Anexo Plan de Pagos del contrato: fechas y valores exactos). Sin acuerdo firmado no hay nuevas concesiones | Contaduría/Coordinación | Presencial |
 | **D+30** | El caso pasa a la contaduría para gestión formal (y el estudiante queda a tarifa plena según reglamento hasta normalizar) | Contaduría | — |
+| **D+30** (sin acuerdo firmado o acuerdo incumplido) | **CARTA DE AVISO PREVIO DE REPORTE a Datacrédito** (Ley 1266 exige ~20 días de aviso). Plantilla abajo. Es el paso que MÁS cobra — la mayoría paga aquí | Contaduría | Carta física/correo certificado |
+| **D+50** | **Reporte efectivo a Datacrédito** (convenio vigente, autorización firmada) + el **pagaré** pasa a cobro prejurídico con el abogado | Contaduría | — |
+
+## ESCALERA LEGAL (actualización 30/07/2026 — las armas existen y se usan)
+
+Heiiu tiene las tres piezas: **autorización de reporte firmada + pagaré + convenio con Datacrédito.** Reglas de uso:
+1. **El aviso previo (D+30) es el arma principal:** una carta formal, fechada, que informa que vencido el plazo legal el reporte se hará efectivo. Cobra más que cualquier llamada — PERO solo si el paso siguiente es real.
+2. **Lo anunciado SE EJECUTA, siempre.** Un aviso que nunca se cumple entrena a toda la cartera a no pagar — peor que no avisar. Si la carta salió y el plazo venció sin pago ni acuerdo, el reporte se hace. Sin excepciones de Diana (regla 1).
+3. **La salida siempre está abierta:** en cada carta se ofrece la alternativa — acuerdo de pago firmado con fechas exactas detiene la escalera. El objetivo es cobrar, no reportar.
+4. **Primera tanda (esta semana):** los 10 casos más grandes/viejos de la lista de vencidos del último informe de Jacqueline — no toda la cartera de golpe: se aprende el circuito con 10, se mide cuántos pagan en cada paso, y se escala.
+5. Deudores viejos SIN autorización firmada (si los hay): no se les puede reportar ni amenazar con reporte — a esos, acuerdo de pago nuevo (que incluye la autorización al refirmar) o pagaré a prejurídico.
+
+## PLANTILLA — CARTA DE AVISO PREVIO DE REPORTE (D+30)
+
+> [Ciudad], [fecha] · Señor(a) [nombre del pagador] · C.C. [número]
+>
+> Ref.: obligación pendiente contrato No. [___] — aviso previo de reporte a centrales de riesgo
+>
+> Le informamos que a la fecha su obligación con Heiiu Global Teacher SAS presenta un saldo vencido de $[valor] correspondiente a [detalle de cuotas]. En cumplimiento del artículo 12 de la Ley 1266 de 2008, le comunicamos que, de no registrarse el pago o suscribirse un acuerdo de pago dentro de los VEINTE (20) días calendario siguientes al recibo de esta comunicación, la obligación será reportada a Datacrédito conforme a la autorización por usted suscrita.
+>
+> Puede ponerse al día o acordar un plan de pagos comunicándose con nuestra área administrativa: [teléfono/correo]. Suscrito un acuerdo con fechas exactas, este proceso se suspende de inmediato.
+>
+> Atentamente, [Contaduría / Coordinación Administrativa] — Heiiu Global Teacher SAS
 
 ## LAS 5 REGLAS
 
