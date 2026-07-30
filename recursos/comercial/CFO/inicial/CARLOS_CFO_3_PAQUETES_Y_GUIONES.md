@@ -5,7 +5,7 @@
 ## LOS 4 PAQUETES (entregables cerrados — la cura del "todo sin límites")
 
 **A. RADIOGRAFÍA FINANCIERA — $1.200 una vez (la puerta de entrada)**
-30 días: diagnóstico completo del negocio + las 3 fugas de plata más grandes con su cifra + plan de 90 días + sesión de 90 min con el dueño. Fácil de decir sí: precio cerrado, fecha de fin, resultado tangible. *De aquí sale el mensual.*
+30 días: diagnóstico completo del negocio + las 3 fugas de plata más grandes con su cifra + **el SUELDO DE DUEÑO (cuánto puede pagarse fijo cada mes sin ahogar el negocio — la cifra más emocional del entregable)** + plan de 90 días + sesión de 90 min con el dueño. Fácil de decir sí: precio cerrado, fecha de fin, resultado tangible. *De aquí sale el mensual.*
 **Palancas de cierre (piloto):** (a) precio fundador para los primeros 5 (congelado para siempre, a cambio de testimonio con cifras); (b) garantía: *"si no te encuentro fugas que valgan más de lo que pagaste, no me pagas"*; (c) mostrar la Radiografía de MUESTRA en la cita (DOC 4, acelerador 1).
 
 **B. CFO REMOTO MENSUAL — $600-900/mes por unidad (el corazón del negocio)**

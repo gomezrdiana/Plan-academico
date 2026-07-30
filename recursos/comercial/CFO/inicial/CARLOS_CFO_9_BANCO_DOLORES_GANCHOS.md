@@ -32,6 +32,14 @@ El dueño que crece piensa "necesito a alguien de oficina": $3.000-4.000/mes + p
 **8. Los contratos grandes (empresas y gobierno).**
 Venderle a una empresa grande o licitar con el gobierno exige estados financieros presentables, seguros y papeles en regla — y para negocios latinos, las certificaciones de negocio minoritario (MBE/DBE) abren programas de compras corporativas que casi nadie usa. *"El contrato grande no se gana con el mejor precio — se gana con los papeles que el comprador exige. Yo te dejo el paquete listo."* (Carlos prepara los números; la certificación la tramita el dueño o su abogado — misma regla de siempre: preparación, no representación.)
 
+## DOS DOLORES MÁS (agregados 30/07)
+
+**10. El sueldo del dueño.** No se paga fijo: saca "cuando hay", con culpa y con miedo. *"¿Hace cuánto no te pagas un sueldo fijo a ti mismo? Te digo cuánto puedes pagarte cada mes sin ahogar el negocio."* Es la cifra más emocional de la Radiografía — y a la pareja le ordena el presupuesto de la casa.
+
+**11. El miedo fiscal (el bloqueador secreto).** Efectivo que no pasa todo por el banco → terror a que el financiero "lo delate". Línea ética que lo desactiva: *"No soy el IRS ni reporto a nadie — trabajo con lo que me muestres y te ayudo a ordenarte a TU ritmo; ordenarse es hacia adelante, nunca un castigo hacia atrás."* Carlos ordena, jamás esconde.
+
+**Regla de calendario:** las tandas de contacto salen la PRIMERA semana del mes — los días 1-5 el dueño acaba de pagar todo y vio lo que quedó; el mismo mensaje pega el doble.
+
 ## LA OBJECIÓN SILENCIOSA (se desactiva de frente, en el mensaje o al abrir la cita)
 
 **9. La vergüenza del caos.**
