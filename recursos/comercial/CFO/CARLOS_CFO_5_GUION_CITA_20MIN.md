@@ -36,7 +36,9 @@ Regla de oro: después de cada pregunta, **silencio**. El empresario que piensa 
 
 **"Sí"** → *"Perfecto. Hoy te mando el acuerdo de una página y la lista de las 3 cosas. Arrancamos el [fecha]."* (El contrato sale el MISMO día — el sí se enfría en 48 horas.)
 
-**"Déjame pensarlo"** → *"Claro. ¿Qué es lo que quieres pensar — el precio, el momento, o si esto de verdad te va a servir?"* (La respuesta revela la objeción real; se responde SOLO esa.) Si persiste: *"Hagamos esto: lo piensas, y el [día concreto, +3 días] te escribo. Si es no, me dices no y quedamos bien — prefiero un no claro que un tal vez eterno."* — Queda agendado el seguimiento, no flotando.
+**"Déjame pensarlo"** → *"Claro. ¿Qué es lo que quieres pensar — el precio, el momento, o si esto de verdad te va a servir?"* (La respuesta revela la objeción real; se responde SOLO esa.)
+
+**"Lo consulto con mi esposa/esposo" (la objeción de la mesa del comedor — será la #1)** → *"Perfecto — mejor aún: hagamos la llamada con los dos. Es la misma conversación de 20 minutos, y así deciden juntos con la información completa. ¿Qué día les sirve?"* Jamás dejar que el servicio lo explique otro en una conversación donde Carlos no está. Prevención: desde el agendamiento, si las cuentas las llevan entre dos, invitar al par — el que factura de noche suele ser el mejor vendedor interno. Si persiste: *"Hagamos esto: lo piensas, y el [día concreto, +3 días] te escribo. Si es no, me dices no y quedamos bien — prefiero un no claro que un tal vez eterno."* — Queda agendado el seguimiento, no flotando.
 
 **"No" / "no tengo plata ahora"** → *"Todo bien, [nombre] — el momento importa. ¿Te parece si te mando una vez al mes un dato corto de números de negocios como el tuyo? Sin compromiso."* (entra a la lista del número del mes) *"Y una última cosa: ¿a qué colega tuyo le serviría esta misma llamada?"* (el referido se pide SIEMPRE, también en el no)
 

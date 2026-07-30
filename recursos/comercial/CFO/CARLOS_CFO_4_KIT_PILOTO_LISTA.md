@@ -6,6 +6,10 @@
 
 Una hoja de vida dice "busco trabajo" y dispara "¿cuánto cuesta este señor?". Lo que se manda es el **BROCHURE de 1 página** (archivo aparte: `CARLOS_CFO_BROCHURE.pdf`) — construido para que el empresario se haga 5 preguntas sobre SU negocio y descubra que no sabe las respuestas. El que duda de sus números pide la cita solo. Las credenciales de Carlos van en 3 líneas al final, no al principio.
 
+## EL PRIMER TOQUE ES UNA NOTA DE VOZ (regla nueva 30/07)
+
+El idioma real del WhatsApp pyme latino es el audio, no el PDF. Secuencia: **nota de voz de 30-45 seg → brochure → silencio hasta el día 3.** La voz de Carlos mata el miedo al "consultor remoto" antes de que el papel llegue. Guion del audio: saludo + referencia + LA pregunta ("¿sabe cuánta plata le quedó LIBRE el mes pasado — no cuánto vendió?") + "le mando una página de un minuto". Los mensajes de texto de abajo sirven como acompañamiento del brochure o para quien no oye audios.
+
 ## LOS MENSAJES (según quién conoce al empresario)
 
 **A. Si lo presenta alguien que lo conoce (la vía fuerte — usarla siempre que exista):**
