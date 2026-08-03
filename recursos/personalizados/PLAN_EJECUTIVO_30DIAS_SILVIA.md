@@ -20,16 +20,19 @@
 **Carril 1 — EL ENTRENAMIENTO: arranca MAÑANA.** Fonética, vocabulario, salvavidas, rutina diaria y su presentación personal — nada de esto depende de conocer los detalles de la reunión.
 **Carril 2 — LA MISIÓN: arranca cuando Silvia traiga la información.** Su tarea paralela de esta semana (no frena nada): confirmar por escrito ☐ fecha exacta de la reunión ☐ duración y formato (¿diapositivas? ¿sala o videollamada?) ☐ asistentes ☐ presencia del colega bilingüe. Apenas llegue, el guion se escribe (en ESPAÑOL por ella → Breagh lo convierte a inglés hablado simple: frases de una respiración) y las diapositivas se rehacen en inglés — texto mínimo, la lámina es apuntador, no libreto.
 
-## CLASE 1 — MAÑANA (guion de sesión para Breagh, 2h virtual)
+## FORMATO DE SESIONES (decisión 02/08): 1 HORA, CASI DIARIA (4-5 sesiones/semana)
+
+Sesiones cortas y frecuentes — decisión deliberada: Silvia parte de cero y no disfruta la idea de estudiar inglés; **cada sesión termina antes del cansancio, no después.** El contacto casi diario con la coach sostiene el hábito de casa en las 2 primeras semanas. La rutina en casa arranca suave (30-45 min) y sube gradualmente hacia los 60-90. Antes de la Clase 1, Silvia recibe y diligencia la **HOJA PREVIA** (documento aparte): tema y preguntas probables de la reunión, cifras de su negocio y su presentación personal en español — llega con la materia prima escrita.
+
+## CLASE 1 — MAÑANA (guion para Breagh — 1 HORA, virtual; los puntos 4-6 pasan a la Sesión 2)
 
 1. **Video de línea base (5'):** Silvia se presenta a cámara como pueda — en español está bien. Este es el "antes" contra el que se medirá todo.
-2. **Mini-entrevista en español (15'):** quién es, qué hacía su empresa, qué hace hoy en el grupo directivo, un logro del que esté orgullosa. Con eso, Breagh redacta EN LA SESIÓN su **presentación personal de 60-90 segundos en inglés** (frases cortas): *"My name is Silvia. I founded ___, a recycling company in Colombia. In ___, we joined [la compañía]. Today I am part of the directors group. I lead ___."* — este texto es su primer guion de shadowing Y será la apertura de la presentación real, se sepa lo que se sepa de la reunión.
-3. **Primera pasada fonética (40'):** el intro frase por frase — Breagh modela, Silvia repite, se corrige ritmo y sonidos difíciles. Meta de la sesión: leerlo completo con claridad.
-4. **Banco A arranque (25'):** los primeros 10 términos de residuos/reciclaje — pronunciación + tarjeta.
-5. **Banco C arranque (15'):** los primeros 3 salvavidas, hasta decirlos sin leer.
-6. **Instalar la rutina (20'):** cómo hace el shadowing (Breagh le graba HOY el audio del intro en dos velocidades), cómo se graba a cámara, cómo envía los videos, y la tarea de esta noche: shadowing del intro (25') + 10 tarjetas + primer video (30-60 seg leyendo el intro) + 1 video corto en inglés con subtítulos (de la compañía o tipo National Geographic de medio ambiente/reciclaje — material real, narración clara).
+2. **Revisión de la HOJA PREVIA + mini-entrevista (15'):** con su hoja diligenciada (negocio, cifras, logro, borrador de presentación personal), Breagh redacta EN LA SESIÓN su **presentación personal de 60-90 segundos en inglés** (frases cortas): *"My name is Silvia. I founded ___, a recycling company in Colombia. In ___, we joined [la compañía]. Today I am part of the directors group. I lead ___."* — este texto es su primer guion de shadowing Y será la apertura de la presentación real.
+3. **Primera pasada fonética (30'):** el intro frase por frase — Breagh modela, Silvia repite, se corrigen ritmo y sonidos difíciles. Meta: leerlo completo con claridad.
+4. **Cierre e instalación de la rutina (10'):** Breagh le graba HOY MISMO el audio del intro en dos velocidades; se acuerda cómo se graba a cámara y cómo envía; tarea de esta noche (suave): shadowing del intro 15-20' + primer video (30-60 seg leyendo el intro) + 1 video corto en inglés con subtítulos (de la compañía o tipo National Geographic de medio ambiente — material real, narración clara).
 
-**Días 2-7 (mientras llega la info de la reunión):** rutina diaria completa + en sesiones: pulir el intro hasta decirlo SIN leer, Banco A a 30 términos, Banco C a 6-8 salvavidas, saludos y cortesías de reunión, y oído diario con los videos en inglés de la propia multinacional (vocabulario y acento del contexto exacto donde va a presentar).
+**Sesión 2 (pasado mañana, 1h):** repaso del video de tarea + Banco A (primeros 10 términos de residuos/reciclaje) + Banco C (primeros 3 salvavidas) + segunda pasada del intro.
+**Días 3-7 (mientras llega la info de la reunión):** rutina diaria + en sesiones: el intro hasta decirlo SIN leer, Banco A a 30 términos, Banco C a 6-8 salvavidas, saludos y cortesías de reunión, y oído diario con los videos en inglés de la propia multinacional. **Las preguntas probables que Silvia trajo en su hoja previa se convierten desde ya en las primeras respuestas guionadas** — el Q&A empieza a construirse antes de que exista el guion grande.
 
 ## LOS 3 BANCOS DE VOCABULARIO (se construyen en la semana 0, se estudian a diario)
 
