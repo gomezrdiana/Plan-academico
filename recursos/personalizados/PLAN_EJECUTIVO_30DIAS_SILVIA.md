@@ -15,18 +15,21 @@
 
 **El predictor del resultado no es el nivel de partida — es el cumplimiento de la rutina diaria.** Ese 70% es de Silvia.
 
-## TAREA CERO — SILVIA, ESTA SEMANA (sin esto el reloj no arranca)
+## DOS CARRILES EN PARALELO (el entrenamiento NO espera a la presentación)
 
-Confirmar con la organización y traer por escrito a la sesión de misión:
-☐ **Fecha exacta de la reunión** (define todo el calendario de hitos) ☐ Duración y formato de la presentación (¿minutos? ¿diapositivas? ¿sala o videollamada?) ☐ Quiénes estarán presentes ☐ **Confirmar la presencia del colega bilingüe en la reunión** (ver estrategia de roles, semana 4)
+**Carril 1 — EL ENTRENAMIENTO: arranca MAÑANA.** Fonética, vocabulario, salvavidas, rutina diaria y su presentación personal — nada de esto depende de conocer los detalles de la reunión.
+**Carril 2 — LA MISIÓN: arranca cuando Silvia traiga la información.** Su tarea paralela de esta semana (no frena nada): confirmar por escrito ☐ fecha exacta de la reunión ☐ duración y formato (¿diapositivas? ¿sala o videollamada?) ☐ asistentes ☐ presencia del colega bilingüe. Apenas llegue, el guion se escribe (en ESPAÑOL por ella → Breagh lo convierte a inglés hablado simple: frases de una respiración) y las diapositivas se rehacen en inglés — texto mínimo, la lámina es apuntador, no libreto.
 
-## SEMANA 0 — DÍAS 1-3: DEFINIR LA MISIÓN (sin esto no se dispara nada)
+## CLASE 1 — MAÑANA (guion de sesión para Breagh, 2h virtual)
 
-Sesión inicial con la profesora nativa + coordinación. Se define POR ESCRITO:
-1. **La presentación exacta:** tema, duración (¿10-15-20 min?), ¿con diapositivas?, ¿habrá preguntas?, ¿reunión formal o de trabajo?, ¿quiénes más estarán?
-2. **El guion se escribe primero en ESPAÑOL por la estudiante** (su contenido, sus ideas, su autoridad) → la profesora lo convierte a **inglés hablado simple**: frases cortas, voz activa, cero adornos. Regla: si una frase no se puede decir en una respiración, se parte en dos.
-3. **Evaluación de entrada GRABADA en video** (línea base — será su "antes").
-4. Las diapositivas (si hay) se rehacen EN INGLÉS con la profesora — texto mínimo, la lámina es apuntador, no libreto.
+1. **Video de línea base (5'):** Silvia se presenta a cámara como pueda — en español está bien. Este es el "antes" contra el que se medirá todo.
+2. **Mini-entrevista en español (15'):** quién es, qué hacía su empresa, qué hace hoy en el grupo directivo, un logro del que esté orgullosa. Con eso, Breagh redacta EN LA SESIÓN su **presentación personal de 60-90 segundos en inglés** (frases cortas): *"My name is Silvia. I founded ___, a recycling company in Colombia. In ___, we joined [la compañía]. Today I am part of the directors group. I lead ___."* — este texto es su primer guion de shadowing Y será la apertura de la presentación real, se sepa lo que se sepa de la reunión.
+3. **Primera pasada fonética (40'):** el intro frase por frase — Breagh modela, Silvia repite, se corrige ritmo y sonidos difíciles. Meta de la sesión: leerlo completo con claridad.
+4. **Banco A arranque (25'):** los primeros 10 términos de residuos/reciclaje — pronunciación + tarjeta.
+5. **Banco C arranque (15'):** los primeros 3 salvavidas, hasta decirlos sin leer.
+6. **Instalar la rutina (20'):** cómo hace el shadowing (Breagh le graba HOY el audio del intro en dos velocidades), cómo se graba a cámara, cómo envía los videos, y la tarea de esta noche: shadowing del intro (25') + 10 tarjetas + primer video (30-60 seg leyendo el intro) + 1 video corto en inglés con subtítulos (de la compañía o tipo National Geographic de medio ambiente/reciclaje — material real, narración clara).
+
+**Días 2-7 (mientras llega la info de la reunión):** rutina diaria completa + en sesiones: pulir el intro hasta decirlo SIN leer, Banco A a 30 términos, Banco C a 6-8 salvavidas, saludos y cortesías de reunión, y oído diario con los videos en inglés de la propia multinacional (vocabulario y acento del contexto exacto donde va a presentar).
 
 ## LOS 3 BANCOS DE VOCABULARIO (se construyen en la semana 0, se estudian a diario)
 
