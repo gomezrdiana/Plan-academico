@@ -43,7 +43,9 @@ ____________________________________________________________________
 
 **Asistieron:** ______ de ______ estudiantes.  **Portafolio (quien hizo su audio/video?):** ______ de ______
 
-- [ ] Tickets de salida recogidos (TODOS)   ·   [ ] Error papers recogidos   ·   [ ] Fotos/videos del dia
+**Tickets de salida ENGRAPADOS a este reporte:** ______ de ______ asistentes (reporte sin tickets = incompleto, se devuelve)
+
+- [ ] Error papers recogidos   ·   [ ] Fotos/videos del dia
 
 > El detalle con nombres (errores por estudiante, ausencias) va en su libreta privada para coordinacion, como siempre. Este reporte viaja fisico con los tickets y error papers.
 
