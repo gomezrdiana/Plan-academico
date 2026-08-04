@@ -4,8 +4,8 @@
 ## 🔴 SEÑALES ROJAS (acción esta semana)
 
 1. **A2 PM — Mid Term con 3 de 11 asistentes (Cl 26, 30/07).** Christian lo anotó explícito: "Solamente vinieron 3 personas". 8 estudiantes se perdieron el examen de mitad de nivel. DECISIÓN DE COORDINACIÓN pendiente: verificar si la fecha estaba comunicada desde el cronograma de Cl 1 → si sí, aplica política (la evaluación perdida por inasistencia no se repite gratis; supletorio $300k como en B1) o integración puntual — pero lo que se decida debe ser coherente con el precedente B1. La asistencia general del cohorte además está floja: 8, ~9, ~6, 3, 9 de 11.
-2. **B1 PM Grammar — Cl 5 (28/07) registra "0 de 0 estudiantes"** y la semana solo trae 2 reportes (Cl 5 y 6). ¿Se citó la clase y nadie llegó? ¿Se canceló? ¿Se pagó la hora? Aclarar con Tomás. El cohorte 2 en general asiste 5-6 de 9 — bajo para un grupo que apenas va en Cl 5-7.
-3. **Firmas cruzadas — posibles sustituciones NO reportadas:** B1 PM Conv Cl 7 (31/07) y B2 nuevo Cl 2 (30/07) aparecen firmadas con letra que parece de Juan Diego, no de la profe titular. No está confirmado — pero si Juan Diego cubrió la Cl 2 del B2 nuevo, ese cohorte se vendió con profesora nativa y la sustitución con profe no nativo en la semana 1 es exactamente lo que no puede pasar sin aviso. PREGUNTAR directo a Amina y Leidy quién dictó esas clases. Si hubo cobertura: no es falta grave que se cubran entre ellos, la falta es no reportarlo.
+2. ~~B1 PM Grammar Cl 5 "0 de 0"~~ **ACLARADO POR DIANA (04/08):** B1 PM es cohorte NUEVO (titulares: Leidy Conv + Tomás Gram); los estudiantes entraron el miércoles 29/07 — la clase del 28 no tenía grupo aún, y la asistencia 5-6 de 9 es grupo llenándose, no deserción. **Pendiente derivado:** los reportes van por Cl 5-7 (numeración desde una Cl 1 de la semana anterior) → los estudiantes que entraron el 29 se perdieron el arranque del nivel (Carta de Clase 1, reglas, encuadre). Definir con Diana si los rituales de arranque se reinsertan en las próximas clases del PM.
+3. **Sustituciones CONFIRMADAS por Diana (04/08): Juan Diego cubrió** (la profesora no pudo ir) — B1 PM Conv Cl 7 y B2 nuevo Cl 2. El problema no es la cobertura sino que NO quedó escrita. REGLA NUEVA para todos: *"clase unida / cubierta / cancelada = dos líneas en el reporte del día ('cubierta por X', 'grupo unido con Y')"*. Ojo específico B2 nuevo: cohorte vendido con profesora nativa — las ausencias de Amina en ese grupo se reprograman antes que cubrirse con profe no nativo; si se repite, un estudiante lo va a reclamar.
 4. **Tickets de salida: el sistema NO se está ejecutando.** En 25 clases reportadas, solo Christian marcó tickets recogidos (2 veces). El ticket diario es la base de la auditoría del aprendizaje. Recordatorio a TODOS los profes esta semana: el ticket es parte del cierre de cada clase, no opcional.
 
 ## 🟡 SEÑALES AMARILLAS (verificar / preguntar)
@@ -14,7 +14,7 @@
 - **B1 AM Conv:** encabezado "Danna Espinosa", firma "Sofía Espinosa" en las 5 hojas — aclarar el nombre una vez y ya.
 - **B1 AM Grammar Cl 32:** reporta "9 de 10" cuando la base del track es 4 — ¿clase conjunta con otro grupo? ¿error? Preguntar a Tomás.
 - **Fechas de Tomás AM inconsistentes** (Cl 30 fechada 29/07, Cl 31 el 28/07) — error de llenado, pedir cuidado.
-- **Leidy (B1 PM Conv, nueva en el track):** Cl 5 sin asistencia reportada, totales de grupo sin llenar, bloques a medio marcar. Es nueva — merece el recordatorio del estándar de reporte, no regaño. PENDIENTE DIANA: confirmar si el cambio Danna→Leidy en PM es permanente (si lo es, ojo con la comunicación a estudiantes — precedente Fredy/Miguel).
+- **Leidy (B1 PM Conv — TITULAR del cohorte nuevo, no reemplazo de Danna; aclarado 04/08):** Cl 5 sin asistencia reportada, totales de grupo sin llenar, bloques a medio marcar. Es nueva en el sistema — merece el recordatorio del estándar de reporte, no regaño.
 
 ## 🟢 SEÑALES BUENAS
 
@@ -28,8 +28,8 @@
 
 ## PREGUNTAS LISTAS PARA ENVIAR (una por profe)
 
-- **Christian:** "¿Los 8 que faltaron al Mid Term sabían la fecha? Necesito saberlo antes de decidir supletorios."
-- **Tomás:** "Cl 5 PM salió 0 de 0 — ¿qué pasó ese día? ¿Y en Cl 32 AM reportaste 9 de 10 — fue clase conjunta?"
-- **Amina:** "¿Quién dictó la Cl 2 del B2 nuevo el 30/07? ¿Qué modificaste del bloque 1 de la Cl 1? ¿Ya quedó instalado el requisito de videos con los estudiantes?"
+- **Christian:** "¿Los 8 que faltaron al Mid Term sabían la fecha? Necesito saberlo antes de decidir supletorios." *(Diana ya lo está preguntando, 04/08.)*
+- **Tomás:** "En Cl 32 AM reportaste 9 de 10 cuando la base es 4 — ¿fue clase conjunta ese día? Y ojo con las fechas de la semana (Cl 30 el 29/07 pero Cl 31 el 28/07)."
+- **Amina:** "¿Qué modificaste del bloque 1 de la Cl 1? ¿Ya quedó instalado el requisito de videos con los estudiantes? Y cuando alguien te cubra una clase, que quede escrito en el reporte del día."
 - **Leidy:** "Bienvenida al track. Me faltó la asistencia de la Cl 5 y el total del grupo — ¿me los pasas? Y recuerda marcar los 4 bloques y recoger tickets al cierre."
-- **Todos:** "Recordatorio: el ticket de salida se recoge TODAS las clases — es parte del cierre, viaja físico con el reporte."
+- **Todos:** "(1) El ticket de salida se recoge TODAS las clases y se engrapa al reporte — el formato nuevo trae el campo 'Tickets engrapados: __ de __'; reporte sin tickets se devuelve. (2) Clase unida, cubierta o cancelada = dos líneas en el reporte del día."
