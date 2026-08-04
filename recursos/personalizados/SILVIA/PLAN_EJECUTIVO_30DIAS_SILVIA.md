@@ -18,7 +18,7 @@
 ## DOS CARRILES EN PARALELO (el entrenamiento NO espera a la presentación)
 
 **Carril 1 — EL ENTRENAMIENTO: arranca MAÑANA.** Fonética, vocabulario, salvavidas, rutina diaria y su presentación personal — nada de esto depende de conocer los detalles de la reunión.
-**Carril 2 — LA MISIÓN: arranca cuando Silvia traiga la información.** Su tarea paralela de esta semana (no frena nada): confirmar por escrito ☐ fecha exacta de la reunión ☐ duración y formato (¿diapositivas? ¿sala o videollamada?) ☐ asistentes ☐ presencia del colega bilingüe. Apenas llegue, el guion se escribe (en ESPAÑOL por ella → Breagh lo convierte a inglés hablado simple: frases de una respiración) y las diapositivas se rehacen en inglés — texto mínimo, la lámina es apuntador, no libreto.
+**Carril 2 — LA MISIÓN: ✅ DEFINIDA (respuestas de Silvia, 04/08 — detalle completo en `MATERIAL_BASE_SILVIA.md`):** reunión **3-4 de septiembre**, presencial, presentación de equipo (4 líderes + gerente), **20 minutos máximo para ella**; audiencia clave = la Directora Global de Desarrollo (vive en París); marco corporativo obligatorio: *Meta del cliente → Solución Veolia → Impacto GreenUp* + logros 2026 + pipeline. Su jefe propuso traductor: **la meta del programa es que sus 20 minutos NO necesiten traductor** (el traductor/equipo queda para el Q&A profundo). El guion se escribe en ESPAÑOL por ella → Breagh lo convierte a inglés hablado simple (frases de una respiración); las diapositivas en inglés — texto mínimo, la lámina es apuntador, no libreto. Pendiente de Silvia: sus diapositivas y sus números reales de pipeline (Salesforce) para llenar los corchetes de las respuestas guionadas.
 
 ## FORMATO DE SESIONES (decisión 02/08): 1 HORA, CASI DIARIA (4-5 sesiones/semana)
 
@@ -27,7 +27,7 @@ Sesiones cortas y frecuentes — decisión deliberada: Silvia parte de cero y no
 ## CLASE 1 — MAÑANA (guion para Breagh — 1 HORA, virtual; los puntos 4-6 pasan a la Sesión 2)
 
 1. **Video de línea base (5'):** Silvia se presenta a cámara como pueda — en español está bien. Este es el "antes" contra el que se medirá todo.
-2. **Revisión de la HOJA PREVIA + mini-entrevista (15'):** con su hoja diligenciada (negocio, cifras, logro, borrador de presentación personal), Breagh redacta EN LA SESIÓN su **presentación personal de 60-90 segundos en inglés** (frases cortas): *"My name is Silvia. I founded ___, a recycling company in Colombia. In ___, we joined [la compañía]. Today I am part of the directors group. I lead ___."* — este texto es su primer guion de shadowing Y será la apertura de la presentación real.
+2. **Revisión de la HOJA PREVIA + ajuste del intro (15'):** el **intro de 90 segundos YA ESTÁ REDACTADO** desde sus respuestas (`MATERIAL_BASE_SILVIA.md` sección A — "Good morning. My name is Silvia Díaz…"). Breagh lo repasa con ella, ajusta lo que Silvia quiera decir distinto y llena el [año] de la fusión con Veolia — este texto es su primer guion de shadowing Y será la apertura de la presentación real.
 3. **Primera pasada fonética (30'):** el intro frase por frase — Breagh modela, Silvia repite, se corrigen ritmo y sonidos difíciles. Meta: leerlo completo con claridad.
 4. **Cierre e instalación de la rutina (10'):** Breagh le graba HOY MISMO el audio del intro en dos velocidades; se acuerda cómo se graba a cámara y cómo envía; tarea de esta noche (suave): shadowing del intro 15-20' + primer video (30-60 seg leyendo el intro) + 1 video corto en inglés con subtítulos (de la compañía o tipo National Geographic de medio ambiente — material real, narración clara).
 
@@ -36,9 +36,8 @@ Sesiones cortas y frecuentes — decisión deliberada: Silvia parte de cero y no
 
 ## LOS 3 BANCOS DE VOCABULARIO (se construyen en la semana 0, se estudian a diario)
 
-- **Banco A — SU negocio (residuos y reciclaje — arranque; se completa con SUS diapositivas):**
-  *waste management (gestión de residuos) · recycling (reciclaje) · collection (recolección) · collection route (ruta de recolección) · fleet (flota) · landfill (relleno sanitario) · disposal (disposición final) · sorting / sorting plant (clasificación / planta de clasificación) · recyclables (materiales reciclables) · organic waste (residuos orgánicos) · hazardous waste (residuos peligrosos) · treatment (tratamiento) · recovery (aprovechamiento) · circular economy (economía circular) · sustainability (sostenibilidad) · environmental permit (licencia ambiental) · compliance (cumplimiento normativo) · tons per day (toneladas/día) · coverage (cobertura) · operations (operaciones) · revenue (ingresos) · costs (costos) · margin (margen) · growth (crecimiento) · clients / municipalities (clientes / municipios) · contract (contrato) · team (equipo) · targets / KPIs (metas / indicadores) · results (resultados) · investment (inversión) · expansion (expansión).*
-  Fuente para ampliar: SUS diapositivas + los videos y reportes EN INGLÉS que la propia multinacional publica — vocabulario exacto y acento del contexto real.
+- **Banco A — SU negocio (CORREGIDO 04/08 con sus respuestas: su área es PASIVOS AMBIENTALES / contaminated sites, no residuos genéricos).** El banco completo (~45 términos en 5 grupos: su área · tratamientos · desarrollo de negocios · marco corporativo GreenUp · sus métricas) está en **`MATERIAL_BASE_SILVIA.md` sección B** — ese es el vigente. Núcleo: *environmental liabilities · contaminated sites · soil remediation · geophysics · baseline study · risk assessment · in-situ / ex-situ treatment · pipeline · market activation · GreenUp impact.*
+  Fuente para ampliar: SUS diapositivas + los videos y reportes EN INGLÉS que la propia Veolia publica — vocabulario exacto y acento del contexto real.
 - **Banco B — La reunión:** 25-30 frases de presentación y manejo de sala: *"Let me walk you through…" · "As you can see here…" · "The key point is…" · "To sum up…" · "Moving on to…" · "This is where we are today."*
 - **Banco C — SALVAVIDAS (el más importante):** las frases de rescate para los momentos NO guionados — se memorizan hasta el reflejo:
   - *"Could you say that more slowly, please?"*
@@ -62,19 +61,19 @@ Sesiones cortas y frecuentes — decisión deliberada: Silvia parte de cero y no
 - **Semana 1 — EL GUION:** pulir la traducción hablada · pronunciación palabra por palabra de los términos clave · grabación de los audios de shadowing · primeras lecturas en voz alta con corrección.
 - **Semana 2 — LA MEMORIA Y LA VOZ:** el guion se dice SIN leer, tramo por tramo · corrección de los videos diarios · ritmo y pausas (la pausa es poder) · arranque del Q&A: las 12-15 preguntas más probables se escriben y se les construye respuesta corta guionada.
 - **Semana 3 — LA DEFENSA:** simulación completa: la profesora ES la directiva de París — interrumpe, pregunta, pide aclaraciones · drill de salvavidas (la profesora dispara preguntas imposibles; Silvia responde con Banco C sin congelarse) · presentación completa 2 veces por sesión.
-- **Semana 4 — LA FUNCIÓN:** ensayos generales con TODO (diapositivas, tiempos, preguntas) · **ensayo con público desconocido** (alguien que Silvia no conozca hace de directivo — el estrés del extraño se entrena antes del día real) · **ensayo con el ALIADO BILINGÜE y división de roles:** Silvia presenta y responde lo guionado; el aliado toma el detalle profundo del Q&A; se acuerda la señal para pasarle la palabra con naturalidad (*"[Nombre] can walk you through the details"*) — en una multinacional, la líder que presenta y delega el detalle técnico a su gerente es escena normal y ejecutiva · ajustes finos · el último ensayo se GRABA y se compara con el video del día 1.
+- **Semana 4 — LA FUNCIÓN:** ensayos generales con TODO (diapositivas, tiempos, preguntas) · **ensayo con público desconocido** (alguien que Silvia no conozca hace de directivo — el estrés del extraño se entrena antes del día real) · **ensayo con los ALIADOS BILINGÜES y división de roles (confirmado 04/08: son 3 bilingües del equipo, ya acordaron apoyarla "si la ven patinando"):** Silvia presenta y responde lo guionado; el colega acordado toma el detalle profundo del Q&A; se acuerda la señal para pasarle la palabra con naturalidad (*"[Nombre] can walk you through the details"*) — en una multinacional, la líder que presenta y delega el detalle técnico a su gerente es escena normal y ejecutiva · ajustes finos · el último ensayo se GRABA y se compara con el video del día 1.
 - Estructura fija de cada sesión: 10' repaso de videos de la semana → 60-90' el trabajo del día → 15' shadowing en vivo → tareas siguientes.
 
 ## HITOS DE CONTROL (van al calendario desde el día 1)
 
-| Día | Hito | Evidencia |
-|---|---|---|
-| 3 | Misión definida + guion en español listo | Documento |
-| 7 | Guion en inglés final + audios de shadowing entregados | Primera lectura completa grabada |
-| 14 | Presentación completa CON apoyo del guion | Video benchmark #2 |
-| 21 | Presentación completa SIN guion + Q&A básico | Video benchmark #3 |
-| 27-28 | **Ensayo general con desconocido** | Video final — se compara con el día 1 |
-| 30 | **LA REUNIÓN** | 🎯 |
+| Día | Fecha (reunión 3-4 sept) | Hito | Evidencia |
+|---|---|---|---|
+| 3 | ~7 ago | Misión definida ✅ (04/08) + guion en español listo | Documento |
+| 7 | ~11 ago | Guion en inglés final + audios de shadowing entregados | Primera lectura completa grabada |
+| 14 | ~18 ago | Presentación completa CON apoyo del guion | Video benchmark #2 |
+| 21 | ~25 ago | Presentación completa SIN guion + Q&A básico | Video benchmark #3 |
+| 27-28 | 31 ago - 1 sept | **Ensayo general con desconocido** | Video final — se compara con el día 1 |
+| 30 | **3-4 sept** | **LA REUNIÓN** | 🎯 |
 
 ## PARA BREAGH — TU ROL Y TUS ENTREGABLES (coach, con el plan como autoridad)
 
