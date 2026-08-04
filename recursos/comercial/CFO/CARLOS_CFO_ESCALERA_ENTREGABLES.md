@@ -11,6 +11,27 @@
 
 **Qué NO sale de ahí:** hallazgos. Se dice sin pena: *"el diagnóstico serio toma días, no una llamada."*
 
+## 1-BIS. KIT DE ARRANQUE — lo que se pide UNA sola vez (mensaje único tras la primera cita)
+
+**Regla: todo se pide en UN mensaje, con plazo. Cero goteo.** *"Con esto completo, tu radiografía está en X días — el reloj arranca cuando llegue la carpeta completa."*
+
+**A. Accesos (solo lectura — jamás claves del dueño):**
+1. QuickBooks: invitación como contador/"reports only" (el dueño invita desde su cuenta).
+2. Si hay POS (Square/Toast/Clover): reporte de ventas últimos 12 meses (PDF/Excel).
+
+**B. Documentos (una carpeta, un envío):**
+3. Extractos bancarios de TODAS las cuentas del negocio — últimos 3 meses (cruza QuickBooks vs plata real: ahí viven las fugas y las mezclas personal/negocio).
+4. Extractos de tarjetas de crédito del negocio — últimos 3 meses.
+5. Lista de deudas: préstamos, líneas, MCA — saldo, cuota, frecuencia (último estado de cuenta de cada una).
+6. Costo de nómina: reporte del proveedor (ADP/Gusto) del último mes, o lista de pagos por persona.
+7. Renta del local: cuota mensual (+ contrato si está a mano).
+8. Lista de precios o menú (para márgenes).
+9. *(Opcional):* última declaración de impuestos del negocio.
+
+**C. 10 respuestas del dueño (15 min, vale por audio de WhatsApp):** cuánto se paga él y cómo · socios y reparto · meses buenos/malos · qué se paga en efectivo · quién firma/mueve plata · cuánto debe a proveedores y cuánto le deben · qué entrega el contador y cada cuánto · compras grandes próximos 6 meses · qué gasto sospecha él · qué le quita el sueño.
+
+**Las 3 reglas del kit:** *"Lo que no exista, dímelo — no lo fabriques"* (el faltante ES un hallazgo) · *"No soy el IRS"* (dicho de frente al pedir lo del efectivo: se ordena, no se juzga) · plazo explícito con reloj que arranca al completar la carpeta.
+
 ## 2. EL DIAGNÓSTICO ($1.200 USD · una vez) — LA RADIOGRAFÍA
 
 El entregable (idéntico al PDF de muestra, con los números REALES del cliente):
