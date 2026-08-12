@@ -1,6 +1,6 @@
 # FONDO DE BECAS HEIIU — Reglamento + artefactos operativos
 
-> Borrador 07/07/2026 (para revisión de Diana + contaduría + abogado). Reemplaza TODA narrativa de "patrocinador". Diseño según decisión Diana 06/07: administración por contaduría externa, Diana sin facultad de excepción.
+> Borrador 07/07/2026 · **v2 10/08/2026: Artículo 3 pasa a modelo HÍBRIDO por decisión de Diana (perfil = techo, compromiso = cuánto del techo)** — re-pasar por contaduría + abogado. Reemplaza TODA narrativa de "patrocinador". Diseño según decisión Diana 06/07: administración por contaduría externa, Diana sin facultad de excepción.
 
 ## 1. REGLAMENTO DEL FONDO (1 página — se imprime y se muestra)
 
@@ -8,7 +8,21 @@
 
 **Artículo 2 — Administración.** El Fondo es administrado y auditado por la contaduría externa de la institución. **Ningún funcionario de Heiiu — incluida la gerencia — tiene facultad individual para otorgar, modificar o restituir becas por fuera de este reglamento.**
 
-**Artículo 3 — Niveles de beca y cupos.** (a) Beca Transformación — 45%: exclusiva para aspirantes de estrato 1-2 / SISBÉN, máximo 30% de las matrículas nuevas por trimestre. (b) Programa Profesional — 32%: nivel general, sin límite de cupos. (c) Programa Ejecutivo — 15%. (d) Sin beca — tarifa plena (incluye todo cliente empresarial). Los porcentajes aplican sobre la tarifa pública vigente.
+**Artículo 3 — Niveles de beca y cupos (modelo híbrido, ajuste 10/08/2026: el PERFIL define el techo, el COMPROMISO define cuánto del techo se otorga).**
+
+*3.1 Techo por perfil:* (a) Beca Transformación — techo 45%: exclusiva para aspirantes de estrato 1-2 / SISBÉN, máximo 30% de las matrículas nuevas por trimestre. (b) Programa Profesional — techo 32%: nivel general, sin límite de cupos. (c) Programa Ejecutivo — techo 15%. (d) Sin beca — tarifa plena (incluye todo cliente empresarial). Los porcentajes aplican sobre la tarifa pública vigente.
+
+*3.2 Factor de compromiso (porcentaje del techo que se otorga, según paquete y forma de pago):* programa completo A1→B2: contado 100% · cuotas 80% — A2→B2: 80% · 60% — B1→B2: 55% · 35% — B2 solo: 45% · 25% — nivel suelto sin camino a B2: sin beca.
+
+*3.3 Tabla resultante (beca efectiva sobre tarifa pública, redondeada al entero):*
+
+| Paquete | Transformación (techo 45%) | Profesional (techo 32%) | Ejecutivo (techo 15%) |
+|---|---|---|---|
+| A1→B2 contado / cuotas | 45% / 36% | 32% / 26% | 15% / 12% |
+| A2→B2 contado / cuotas | 36% / 27% | 26% / 19% | 12% / 9% |
+| B1→B2 contado / cuotas | 25% / 16% | 18% / 11% | 8% / 5% |
+| B2 solo contado / cuotas | 20% / 11% | 14% / 8% | 7% / 4% |
+| Nivel suelto | Sin beca | Sin beca | Sin beca |
 
 **Artículo 4 — Condiciones de permanencia del beneficio.** La beca se mantiene mientras el estudiante cumpla TODAS: (1) asistencia mínima del 80%; (2) puntualidad en los pagos acordados (ninguna cuota con más de 5 días hábiles de mora); (3) cumplimiento de tareas y entregables del programa; (4) comportamiento conforme al contrato de matrícula.
 

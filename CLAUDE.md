@@ -10,7 +10,7 @@ Sistema de generación de material pedagógico de **Heiiu** (escuela de inglés)
 
 `documentos_operativos/MASTER_BLUEPRINT_HEIIU.md` consolida estrategia, niveles, sistema de virtudes y los no-negociables. Consúltalo antes de crear cualquier guía nueva. Es el archivo que no se puede perder.
 
-**Ojo — hay DOS "Blueprints":** el MASTER (pedagógico, arriba) y `recursos/docs_estrategia/Heiiu_Blueprint_DEFINITIVO_2026.md` (estratégico/comercial: precios 15.3-BIS, becas 15.2, funnel 13.8, roles 15.6). Para TODO lo comercial la fuente es el DEFINITIVO + `documentos_operativos/ESTRATEGIA_VENTAS_2026.md`.
+**Ojo — hay DOS "Blueprints":** el MASTER (pedagógico, arriba) y `recursos/docs_estrategia/Heiiu_Blueprint_DEFINITIVO_2026.md` (estratégico/comercial: precios 15.3-BIS, becas 15.2, funnel 13.8, roles 15.6). Para TODO lo comercial la fuente es el DEFINITIVO + `documentos_operativos/ESTRATEGIA_VENTAS_2026.md`. El **Big Domino** (la creencia central que tumba todas las objeciones: pertenencia como núcleo, respaldo como refuerzo) está en `documentos_operativos/comercial/Guia_Agente_Comercial_IA_Heiiu_v15.md` §2 — consultarlo antes de redactar cualquier mensaje/campaña de venta.
 
 ## Arquitectura académica — LEY para generar guías
 
@@ -52,10 +52,6 @@ Número de clase **absoluto** por nivel (A1 1–45, A2 1–55, B1 1–44). La **
 ## No-negociables Heiiu (detalle en el Blueprint)
 
 Frase del Día en el tablero (NO existe GoldList) · numeración consecutiva · **sin nombres de estudiantes** en guías reutilizables · **sin nombres de metodologías** · los profes **no comunican** evaluaciones (eso es coordinación) · modelo inmersivo de 4 bloques largos · sin material impreso preparado (todo en tablero o tarea, con Plan B) · tarea estricta (due date explícita, no fragmentada) · error paper físico anónimo + reporte con nombres para coordinación · simulaciones profesionales realistas · **B1**: PASE bidireccional Conv↔Grammar, Grammar ~70–86% de pie · **B2 (Amina)**: banco de vocabulario + trabalenguas + fase · Final del nivel lo aplica evaluador externo (no generar guía ese día).
-
-## Agentes especializados (globales, uno por modelo)
-
-Para delegar y ahorrar tokens: **sidis** (Fable, estrategia pura — cara, usar poco), **einstein** (Opus, redactar guías + investigación profunda), **tesla** (Sonnet, leer/extraer del libro), **mark** (Haiku, correr scripts / generar PDFs / verificar). También existe la skill `/clases` para generar el material diario de los 5 cohortes.
 
 ## Nota
 

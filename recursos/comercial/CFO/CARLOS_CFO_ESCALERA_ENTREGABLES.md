@@ -86,3 +86,34 @@ La conversión está DENTRO del entregable: la radiografía termina en un plan d
 - **Tanda piloto:** 12 DMs enviados al grupo de Margarita Pasos (04/08, 3pm). Conteo: enviados / respuestas / reuniones. 2 cupos piloto.
 - **Canales en curso:** Sandra Vega (reunión jueves 9am — guion en `CARLOS_CFO_REUNION_SANDRA.md`) · firma de inmigración/contabilidad (DM enviado con ángulo **visa-renovación**: "el cliente llega a la renovación de su visa de negocio con los números ordenados" — ángulo reutilizable con cualquier firma de inmigración; JAMÁS prometer resultados migratorios, solo "números ordenados para la renovación").
 - **Pendiente con Carlos:** definir monedas de alianza para canales (comisión sí/no y cuánto · tarifa preferencial a referidos · reciprocidad de referidos) + su capacidad real de diagnósticos este mes.
+
+---
+
+## 7. NUEVO SERVICIO — PLAN DE TRASPASO GENERACIONAL (diseñado 10/08/2026, salió de la reunión con Sandra)
+
+**El dolor (real y masivo en el grupo de Margarita):** empresarios empíricos — el negocio funciona porque vive en SU cabeza. Los hijos trabajan en el negocio pero no lo ENTIENDEN: no saben leer los números, no conocen los porqués de las decisiones, y el dueño no sabe cómo transferir 20 años de intuición. Si el dueño falta mañana, el negocio queda huérfano. Es dolor emocional (legado, familia), no solo financiero — por eso cierra distinto.
+
+**El servicio:** convertir la experiencia empírica del dueño en un negocio que la siguiente generación pueda LEER y OPERAR:
+1. **Base = la Radiografía** (el diagnóstico de siempre es el punto de partida — nadie traspasa lo que no está medido).
+2. **El negocio sale de la cabeza:** tablero ejecutivo + los 5-7 números que el dueño mira sin darse cuenta, escritos y explicados (por qué ese margen, por qué ese proveedor, por qué ese precio).
+3. **Sesiones dueño + hijo(s):** reuniones mensuales de decisión donde el hijo aprende a leer el tablero CON el papá, guiadas por Carlos como traductor entre generaciones.
+4. **Protocolo de decisiones:** qué decisiones puede tomar el hijo solo, cuáles con el papá, cuáles nunca sin números — escrito y firmado por ambos.
+5. **Hito de salida:** el hijo presenta el estado del negocio al dueño usando el tablero, sin ayuda. Ese día el conocimiento cambió de cabeza.
+
+**Precio:** proyecto premium, por encima del mensual — `SUPUESTO DE PLANEACIÓN — verificar con Carlos`: rango sugerido USD $2.500-3.500 el programa de 90 días (incluye la radiografía), o radiografía + recargo mensual sobre el plan CFO. Carlos pone el número según mercado.
+
+**Regla antiengaño (la misma de siempre):** si el cliente ya pagó radiografía, se descuenta del proyecto — jamás se cobra dos veces el mismo trabajo.
+
+**Dónde se vende:** semilla de 2 líneas en el brochure v6 → se profundiza en la llamada SOLO si el cliente muerde → propuesta a medida. No se empuja: el que tiene ese dolor, se delata solo.
+
+---
+
+## 8. CAMBIO DE MODELO (decisión Carlos + Diana, 12/08/2026) — LA RADIOGRAFÍA ES LA PUERTA GRATIS
+
+**El modelo del piloto se vuelve EL modelo (por ahora):** el empresario entrega los documentos (kit §1-BIS) → Carlos hace el análisis → entrega la radiografía COMPLETA con el plan de 90 días → **solo entonces** se presentan las opciones de paquetes (mensual $600-900 / tablero $300 como retención). No se cobra la radiografía → no existe "garantía de devolución" (no hay nada que devolver). La contraprestación es el **testimonio honesto** — se pide siempre, haya o no hallazgos grandes.
+
+**Los dos candados que sostienen el modelo:**
+1. **Cupos mensuales REALES** ([2-3] radiografías/mes) — ya no son marketing: son la protección del tiempo de Carlos. El FOMO del brochure y del mensaje 3 es literal.
+2. **La carpeta completa como filtro:** el reloj solo arranca con el kit completo. El que no entrega documentos no va en serio y no consume cupo.
+
+**El $1.200 queda como precio de lista INTERNO** (referencia para cuando el modelo evolucione a cobrado, y para dimensionar el valor del regalo en conversaciones). No se menciona al cliente en esta etapa.

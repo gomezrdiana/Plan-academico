@@ -7,7 +7,7 @@ from gen_a1_a2_clases_pdfs import md_to_pdf
 
 D = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 md_to_pdf(
-    os.path.join(D, 'DASHBOARD_DIANA_2026-05-04.md'),
-    os.path.join(D, 'DASHBOARD_DIANA_2026-05-04.pdf'),
+    os.path.join(D, 'mapas_semanales/DASHBOARD_DIANA_2026-05-04.md'),
+    os.path.join(D, 'mapas_semanales/DASHBOARD_DIANA_2026-05-04.pdf'),
 )
 print('OK: DASHBOARD_DIANA_2026-05-04.pdf')
