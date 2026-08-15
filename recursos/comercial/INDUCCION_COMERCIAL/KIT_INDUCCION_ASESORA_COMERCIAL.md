@@ -89,11 +89,11 @@ Estructura de cita: conexión (motivo real del prospecto) → diagnóstico de pe
 
 | Día | Actividad | Verificación |
 |---|---|---|
-| 1 | Módulos 1-2 + tour + observa 1 cita de Diana | Explica el Big Domino en sus palabras (sin leer) |
-| 2 | Módulo 3 (Fondo) + role-play de regateo con Diana | Sostiene el "no puedo tocar el porcentaje" 3 veces seguidas |
+| 1 | Módulos 1-2 + tour + observa 1 cita real (María Eugenia o Diana) | Explica el Big Domino en sus palabras (sin leer) |
+| 2 | Módulo 3 (Fondo) + role-play de regateo (Diana) + sesión de OBJECIONES REALES con María Eugenia | Sostiene el "no puedo tocar el porcentaje" 3 veces seguidas |
 | 3 | Módulo 4 + escucha llamadas/chats del bot | Dibuja el funnel de memoria con sus métricas |
-| 4-5 | Módulos 5-6-7 + role-play de cita completa (Diana de prospecto difícil) | Cierra el role-play usando la escalera sin inventar descuentos |
-| 6-8 | Citas reales ACOMPAÑADA (Diana presente, ella lidera) | 2 citas lideradas sin corrección mayor |
+| 4-5 | Módulos 5-6-7 + role-play de cita completa (Diana de prospecto difícil) + 2ª sesión de objeciones y cierres con María Eugenia | Cierra el role-play usando la escalera sin inventar descuentos |
+| 6-8 | Citas reales ACOMPAÑADA (María Eugenia presente, la nueva lidera; Diana supervisa 1) | 2 citas lideradas sin corrección mayor |
 | 9-10 | Citas sola + Módulo 8 + primer reporte semanal real | Reporte entregado completo el lunes |
 | 15 | **Evaluación de dominio** (abajo) | 8/10 mínimo — si no, semana adicional antes de soltar |
 
@@ -103,4 +103,6 @@ Estructura de cita: conexión (motivo real del prospecto) → diagnóstico de pe
 
 ---
 
-*Heiiu English Academy · Kit de inducción comercial v1 · Se actualiza con cada cambio de doctrina — responsable: gerencia.*
+**División de la capacitación (12/08):** María Eugenia entrena OBJECIONES Y CIERRE (sesiones + citas acompañadas + entrega su libreta de objeciones); Diana entrena TODO EL PROGRAMA (módulos de este kit). El empalme termina con el pipeline de María E documentado y entregado.
+
+*Heiiu English Academy · Kit de inducción comercial v1.1 · Se actualiza con cada cambio de doctrina — responsable: gerencia.*
