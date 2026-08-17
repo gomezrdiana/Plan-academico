@@ -33,6 +33,14 @@ El motivo REAL por el que lo contratan: **búsqueda de recursos — crédito par
 
 **La frase del equipo (textual de Carlos, pulida):** *"Un financiero que no comprende su negocio lo deja en lo mismo. Nosotros somos un equipo financiero con alta experiencia que entiende su negocio a profundidad — no un consultor de paso."*
 
+## 4-BIS. EL FACTOR IRRESISTIBLE — LA EQUIVALENCIA 10× (17/08, tarde)
+
+El empresario hace LO QUE SEA por vender más → no se le contradice: **se le vende ventas.**
+- La cuenta: con margen del 10%, ganar $1.000 más de utilidad exige $10.000 en ventas nuevas (pauta, vendedores, inventario, cobrar) — o tapar $1.000 de fuga que YA es suya. **Cada peso de fuga tapada vale diez pesos de ventas nuevas.**
+- El pitch: *"El vendedor más rentable que puede contratar este año no vende: ENCUENTRA."* Carlos = el vendedor invisible.
+- El cierre sin riesgo (doble ganancia): si hay fugas → montos exactos + plan; si no hay → certeza de empresa sana + números listos para el banco. Gana de cualquier forma → irresistible.
+- Instalado en landing v22: sección "La venta más fácil de su año" (tabla de los 2 caminos) + doble ganancia en la tarjeta de la radiografía. Este es también el marco de la próxima tanda de piezas IG.
+
 ## 5. LA JUGADA CON LA IA (posición: mostrarla como herramienta propia)
 
 No pelear, no ignorar — **absorberla**:
