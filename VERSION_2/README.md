@@ -17,10 +17,11 @@ Cada cohorte sigue la regla:
 | **A2_2H** | 14–18 | A2 nocturno PM (2h/clase) | Activo (Cl 14-18) |
 | **B1_4H** | 21–25 | B1 Mastery, tracks CONV+GRAMMAR, entre semana | Activo (Cl 21-25) |
 | **B2_4H** | — | B2 entre semana (no activo en esta versión) | Pendiente |
+| **A2_4H** | 1–20 | A2 intensivo 4h, cohorte nuevo (22/08/2026). Libro completo M1–M44 en Cl 1–20; Cl 21–28 = arco de repaso A2→B1 (pendiente) | Activo |
 
 ### Carpetas vacías (reservadas)
 
-- **A1_2H**, **A2_4H**, **B1_2H**, **B2_2H** → cohortes sin abrir aún en esta estructura. Se poblarán al activarse.
+- **A1_2H**, **B1_2H** → cohortes sin abrir aún en esta estructura. Se poblarán al activarse.
 
 ## Notas operativas
 
