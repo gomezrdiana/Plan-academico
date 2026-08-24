@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"The station where I was strongest tonight was ____, because ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 21, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 21, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60 sec) — PHASE 1 CLOSING MARKER: record the
    SAME thing you recorded for Class 1: "Who I am and

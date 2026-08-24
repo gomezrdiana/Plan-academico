@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"The feedback I need to give someone at work, in one precise sentence: ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 36, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 36, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60-90 sec) for your portfolio: "The most
    useful feedback I have ever received - what exactly

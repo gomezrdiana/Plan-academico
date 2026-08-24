@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"One sentence with 'both of us' that I could use with a real neighbour: ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 14, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 14, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60 sec) for your portfolio: "A neighbour I
    get along with — or can't stand — and what we do

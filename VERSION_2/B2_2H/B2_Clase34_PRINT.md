@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"One thing I should have done differently at work this month, and the fix I would put on the table: ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 35, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 35, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60-90 sec) for your portfolio: "A mistake I
    made at work, what I should have done, and how I

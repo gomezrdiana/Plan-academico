@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"One request I will turn down this week, and the two options I will offer instead: ____ / ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 34, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 34, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60-90 sec) for your portfolio: "The busiest
    week I've had at work — what I would protect and what

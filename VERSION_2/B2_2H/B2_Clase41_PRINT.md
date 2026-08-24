@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"The door I was strongest at tonight was ____, because ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 42, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 42, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60-90 sec) — MARKER OF THIS STRETCH:
    "My work in English: who I am, what I do, what I can

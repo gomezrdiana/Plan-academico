@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"One airport problem I could now solve by myself in English: ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 12, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 12, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60 sec) for your portfolio: "A trip where
    something went wrong at the airport or the terminal

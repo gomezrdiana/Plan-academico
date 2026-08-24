@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"One phrase I can now use to get into a conversation that is moving too fast: ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 27, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 27, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60-90 sec) for your portfolio: "The meeting
    where I never got a word in — what happened, and

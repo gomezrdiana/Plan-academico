@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"When three things break at once, the first sentence I would say out loud in English is: ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 41, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 41, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60 sec) for your portfolio: "The worst thing
    that can go wrong at my work — and the first three

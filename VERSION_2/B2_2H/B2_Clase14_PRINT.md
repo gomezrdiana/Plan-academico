@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"One 'I've been …-ing' sentence I can use to defend my money: ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 15, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 15, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60 sec) for your portfolio: "Something I have
    been paying for, saving for, or waiting for — and

@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"One thing I'm going to have done for me, said in English: ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 16, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 16, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60 sec) for your portfolio: "Something I had
    done for me and something nobody can do for me."

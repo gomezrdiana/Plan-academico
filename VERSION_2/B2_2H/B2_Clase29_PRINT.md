@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"The question I will ask before I promise anything is: ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 30, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 30, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60-90 sec): "A client (or a person) came to me
    asking for X — what they really needed was Y."

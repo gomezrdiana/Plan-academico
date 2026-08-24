@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"The two sides of a conflict I have seen, reported without taking sides: he/she said ____, and he/she told me ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 37, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 37, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60-90 sec) for your portfolio: "A disagreement
    between two people I watched - what each one said,

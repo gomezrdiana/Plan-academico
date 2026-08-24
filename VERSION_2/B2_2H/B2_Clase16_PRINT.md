@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"One 'it must be / it can't be' sentence I can now say to a technician: ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 17, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 17, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60 sec) for your portfolio: "The worst
    technology failure I've had — what I thought was

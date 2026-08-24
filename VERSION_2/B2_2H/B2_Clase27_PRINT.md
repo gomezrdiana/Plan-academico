@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"The one sentence I would open my three-minute talk with is: ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 28, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 28, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60-90 sec) for your portfolio: your idea
    again, but SHORTER — open, one reason, one example,

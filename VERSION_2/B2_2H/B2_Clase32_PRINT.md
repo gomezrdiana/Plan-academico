@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"The one thing I will never trade away is ____, and in English I say it like this: ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 33, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 33, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60-90 sec): close your deal out loud. Say the
    trade you offer and the line you will not cross.

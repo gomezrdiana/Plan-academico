@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"The price I can now say out loud in English, with no apology, is ____ — and the reason it is worth it is ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 32, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 32, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60-90 sec): name your price and defend it.
    Say the number, then give three reasons it is what

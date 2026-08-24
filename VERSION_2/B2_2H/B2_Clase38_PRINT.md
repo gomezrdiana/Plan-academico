@@ -53,7 +53,7 @@
 2. **Ticket de salida (5', a mano, se recogen TODOS):** *"One sentence I can use to get my turn back in a meeting where nobody can see me: ____."*
 3. **Tarea (5', board):**
 ```
-HOMEWORK — DUE: Cl 39, before 7:00 PM (class start)
+HOMEWORK — DUE: Cl 39, before 6:30 PM (class start)
 TIME: 45-60 min. Complete, not in pieces.
 1) VIDEO (60-90 sec, camera off is fine — voice only):
    you are alone in a remote meeting. Open it, give one
