@@ -80,8 +80,9 @@ Patrones orales de hoy: (a) "if I would have known" (would en
 la clausula con if); (b) "if I had knew" (participio); (c)
 deduccion exagerada / modal cambiado ("he must" cuando la
 evidencia solo da "might"). Hoy dedujeron con evidencia y
-revisaron decisiones pasadas. Tu bloque formaliza M3 (p.23-25)
-y M4 straight (p.29-31).
+revisaron decisiones pasadas. Tu bloque cierra M4 COMPLETO:
+recto (G1 p.29-31), mixto (G2 p.33-35) y la tabla comparada
+0/1/2/3 (G3 p.37-39). M3 va comprimido — ya lo produjeron aqui.
 ```
 
 **Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board deductions + post-mortem) ☐ PASE entregado ☐ Conteo portafolio anotado
@@ -97,7 +98,7 @@ Ejemplos verbatim p.24: *"Horst is late. He must be sick."* · *"Mike is here. H
 ### M4 — The Third Conditional (Straight) (Guide 1 p.29; Examples p.30; Exercises p.31)
 Cita p.29: *"refers to something that did (or did not) happen in the past... Clause with 'if': HAD + PARTICIPLE / Conditional clause: WOULD HAVE + PARTICIPLE. 'If I had studied… I would have passed the exam.'... The probability of studying is now 0%, because past events cannot be changed."*
 Ejemplos verbatim p.30: *"If you had woken up on time, we wouldn't have been late."* · *"If Sarah had said good morning, I would have talked to her."* · *"If you had found your brother, what would you have said?"* · *"If we had asked the teacher, would he have told us the answer?"*
-> NOTA: el libro trae tambien M4 mixto (p.33-34) y comparacion de condicionales (p.37-38). Cl 35 formaliza el STRAIGHT; si el grupo va fluido, Grammar toca el mixto oralmente (no obligatorio hoy).
+> NOTA: el libro trae tambien M4 mixto (Guia 2, p.33-35) y la comparacion de condicionales (Guia 3, p.37-39). **Grammar HOY cierra M4 COMPLETO** (G1 + G2 + G3). Conv se queda en el molde RECTO en produccion oral: es el que sostiene el post-mortem. No lo formalices aqui.
 
 ### PLAN B (sin material)
 - Sin board: profe dicta el molde de deduccion y el del tercer condicional; se practica de memoria en cadena.
@@ -105,7 +106,7 @@ Ejemplos verbatim p.30: *"If you had woken up on time, we wouldn't have been lat
 - Sin pistas propias: usa una pista neutra del board ("The lights are on but nobody answers").
 
 ## NOTA INTERNA (no leer en clase)
-- Modulos HOY = M3 Deduction (p.23-25) + M4 Third Conditional straight (p.29-31), verbatim en anexo. M4 mixto/comparacion (p.33-39) queda para reforzar si sobra tiempo — no obligatorio.
+- Modulos HOY = M3 Deduction (p.23-25) + M4 Third Conditional straight (p.29-31), verbatim en anexo. **Grammar hoy cierra M4 COMPLETO** (G1 recto p.29-31 + G2 mixto p.33-35 + G3 comparada p.37-39); Conv aporta la produccion oral del RECTO y el bloque completo de deduccion — por eso Grammar comprime M3 hoy.
 - Recuperacion N-3 = Cl 32 (superlativos / ranking honesto); N-7 = Cl 28 (phrasal verbs). **(SUPUESTO DE PLANEACIÓN — verificar: cierre A2 Cl 27-33 en re-mapeo paralelo; estructuras reales del tramo final A2, numero de clase ajustable.)**
 - Virtud: JUSTICIA v2 dia 5 CIERRA hoy (calendario absoluto). Cl 36 abre FORTALEZA v2 dia 1.
 - MY STORY vivo rumbo al Final Cl 44 (evaluador externo).

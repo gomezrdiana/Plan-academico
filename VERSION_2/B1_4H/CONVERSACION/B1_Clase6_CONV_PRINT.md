@@ -38,6 +38,8 @@ I / YOU / WE / THEY + VERB        HE / SHE / IT + VERB-S
 "They close on Sundays."          "It closes at 6."
 Negative/question (oral):  "I don't work Sundays." / "Do you start at 8?"
                            "She doesn't work weekends." / "Does he start at 8?"
+HAVE -> HAS (oral, sin explicar): "He HAS two clients." / "She doesn't
+                           HAVE access." / "Does the team HAVE a room?"
 ```
 3. Modela 60 seg: tu propia rutina real (5-6 frases) + un colega real (3 frases con -s). Señala: *"Only he, she, it takes the -s. Everyone else uses the base verb. And in the negative and the question the auxiliary carries it — 'she DOESN'T work', 'DOES she work' — the main verb stays clean."*
 4. Preparacion en parejas (8'): cada uno arma en notas minimas su rutina (6 frases YO) + un colega (3 frases con -s) + 1 negativa + 1 pregunta.
@@ -81,7 +83,9 @@ Patrones orales de hoy: (a) -s caida en 3a persona ("she start / he check");
 (b) doble marca ("does she works"); (c) negativo mal ("he don't");
 (d) base olvidada tras don't/doesn't.
 Hoy dijeron su rutina real (yo + colega con -s) y corrieron el New-Hire
-Briefing. Tu bloque: formaliza el Present Simple en papel (M8-M9 + have/has M17).
+Briefing, y salio HAS en boca de ellos. Tu bloque HOY: cierra la capa que
+falta — have -> HAS (M17 Guia 1 p.211) + los 3 sonidos de la -s (M9 p.112).
+El do/does ya quedo lockeado en Cl 5: hoy se APLICA, no se re-explica.
 = misma sesion (Cl 6).
 ```
 
@@ -102,13 +106,13 @@ AFIRMATIVO (regla especial, M9): en el afirmativo se OMITE do/does.
   Con "does": al quitar "does", se corre la -s / -es al verbo.
   "He (does) live in Bogota." -> "He LIVES in Bogota."
   "She (does) eat here." -> "She EATS here."
-have -> HAS (M17, p.209-210): "He HAS a car." (nunca "haves").
+have -> HAS (M17, Guia 1 p.211): "He HAS a car." (nunca "haves").
 ```
 **Plan B (si el grupo llega cansado o cubre un suplente):** reduce el Bloque 3 a 2 rotaciones y usa la cadena de tercera persona ("he / start -> he starts") como drill de cierre. La estructura de 4 bloques se mantiene. Todo se genera en tablero + cuaderno del estudiante; cero material impreso.
 
 ## NOTA INTERNA (no leer en clase)
 
-- Modulo ancla HOY = A1 Book M8 (p.99-102) + M9 (p.111-113) + have/has M17 (p.210). Conv lo APLICA oralmente; Grammar lo formaliza hoy mismo. NO enseñar la tabla completa en Conv.
+- Modulo ancla HOY = A1 Book M8 (p.99-102) + M9 (p.111-113) + have/has M17 (Guia 1 **p.211**; p.209 es portada y p.210 vocabulario — cita corregida). Conv lo APLICA oralmente; Grammar HOY solo formaliza la capa nueva (HAS + los 3 sonidos de la -s), porque do/does quedo lockeado en Cl 5. NO enseñar la tabla completa en Conv.
 - El libro presenta la regla de -s como REGLA DE PRONUNCIACION (-s/-es segun el ultimo sonido); NO trae regla de ortografia "-y -> -ies" para el presente. NO enseñarla como regla del libro (SUPUESTO DE PLANEACION — verificar si Diana quiere incluirla).
 - Virtud Cl 6-10 = TEMPLANZA v1 (calendario absoluto por numero de clase). Hoy dia 1 ABRE. Cl 5 cerro PRUDENCIA v1.
 - Recuperacion: Cl 6 solo tiene N-3 (Cl 3 = should/shouldn't + numbers); N-7 no existe (Cl -1). Sin mapa semanal de tickets aun — NO citar tickets.

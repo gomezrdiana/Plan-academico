@@ -1,95 +1,122 @@
 # B1 MASTERY — Cl 15/44 — CONV (va PRIMERO) — HOJA DE RUTA
 
 **Sesion 15/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
-**Focus (1 line):** Paint the past in motion — was/were + -ing — the scene that was happening.
+**Focus (1 line):** Talk the whole past system into three NEW stories — no rule, no board of rules, only telling.
 **Virtud:** JUSTICIA v1 — dia 5 de 5 (CIERRA bloque Cl 11-15)
-**Frase del Dia:** *"Justice paints the moment in motion — while the team was working, I was helping, we were building together; WAS and WERE hold the -ing, and the shared scene speaks true."*
+**Frase del Dia:** *"Justice tells the story straight: what I was doing, what happened when it hit, and in what order — no detail moved, no step skipped, the whole truth told fair."*
 
 ---
 
-> **HOY SOLO USO ORAL DE: el pasado continuo hablado — was/were + -ing — la escena que estaba pasando. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: la combinacion con la interrupcion (when + pasado simple), 'used to / would' y 'had + participio' — eso es de Cl 16, 17 y 19.**
+> **HOY SOLO USO ORAL DE: todo el sistema del pasado que YA tienen — pasado simple (regular e irregular), was/were + -ing, la interrupcion con when/while, y la secuencia (first / then / after that / finally) — en escenas NUEVAS. NO EXPLICAR LA REGLA (eso es del bloque de Grammar). NO TOCAR AÚN: 'used to / would' y 'had + participio' — eso es de Cl 16 y Cl 18.**
+
+> **REGLA DEL BLOQUE CONV — BLINDAJE:** aqui la regla se USA, jamas se explica. Si alguien pregunta "por que", tu respuesta es **un ejemplo correcto + "say it again"** — nunca una explicacion, nunca una tabla. El tablero de Conv es **banco de ejemplos y de escenas**, no teoria. Quien formaliza en papel es el bloque de Grammar. **Piso de habla: el profe habla menos del 20% de cada bloque.**
+
+> **HOY NO SE REPASA EL PASADO — HOY SE HABLA.** Cero drill de formas, cero tabla, cero "repitan conmigo la regla". La exigencia sube por VOLUMEN Y VELOCIDAD de narracion, no por explicacion.
 
 ## BLOQUE 1 — APERTURA (20')
 
-**Objective: reactivate prior structures and open the past in motion.**
+**Objective: warm the mouth, not the theory — reactivate and go straight to telling.**
 
-1. **Recuperacion (10', oral, DE PIE, sin cuaderno, en cadena).** Disparadores (Cl 12 y Cl 8). Errores al tablero ANONIMOS; 1 min de re-produccion correcta:
-   - "Five irregular pasts from memory: go/see/take/bring/think -> ?" (Cl 12)
-   - "Fix it: 'I goed / She thinked / We getted'." (Cl 12)
-   - "Put the frequency word right: 'I go always late'." (Cl 8)
-   - "Add a frequency expression: 'We meet ___' (twice a week / every Monday)." (Cl 8)
+1. **Recuperacion (10', oral, DE PIE, sin cuaderno, en cadena).** Disparadores (Cl 12 y Cl 8). Errores al tablero ANONIMOS; escribes SOLO la linea correcta (sin explicar); coro 2x; 1 min de re-produccion:
+   - **(N-3, Cl 12 — irregulares):** "Five irregular pasts in a chain: go / see / take / bring / think. Now one TRUE sentence with one of them."
+   - **(N-3, Cl 12):** "Fix it out loud: 'I goed / She thinked / We getted'." (solo la forma correcta al board)
+   - **(N-7, Cl 8 — frecuencia):** "Put the frequency word in place: 'I go always late'."
+   - **(N-7, Cl 8):** "Add a frequency expression: 'We meet ___' (twice a week / every morning)."
 2. **Chequeo publico de portafolio (3').** *"Who sent yesterday's audio?"* Anota numeros. NO revisas contenido.
-3. **Frase del Dia (4').** Board antes de empezar; 2 lecturas, coro 2x, 1 solo. Insertala 3+ veces; cierre 1 de memoria + 1 en oracion nueva.
-4. **Revision tarea Cl 14 (3').** Sobre la mesa: historia ordenada de 10 lineas (anchors subrayados) + audio. Recoge. No-entregas a tu cuaderno.
-5. **PASE recibido de Grammar (Cl 14):** leelo. Bridge: *"You said WHEN things happened. Today you paint what WAS HAPPENING — the open line: 'At 9 I was writing the report while the team was calling clients'."*
+3. **Frase del Dia (4').** Board ANTES de empezar; 2 lecturas, coro 2x, 1 solo. Insertala 3+ veces; cierre 1 de memoria + 1 en oracion nueva.
+4. **Revision tarea Cl 14 (3').** Sobre la mesa: historia ordenada de 10 lineas (anchors subrayados) + audio B1-CONV-14. Recoge. No-entregas: nombre SOLO a tu cuaderno; en general: *"Homework is the contract."*
+5. **PASE recibido de Grammar (Cl 14):** leelo. Bridge en 1 linea: *"You own every past tool now. Today nobody teaches you the past — today you TELL. Three stories, three partners, things this room has never heard."*
 
-> [VIRTUD] Board: "JUSTICE — DAY 5, CLOSING". Di: *"Justice sees the whole scene, not just one action — everyone was doing their part at the same time. A fair story shows the shared moment in motion."*
+> [VIRTUD] Board: "JUSTICE — DAY 5, CLOSING". Di: *"Justice tells the whole story — not the easy half. Every step in its true order, every person given their part."*
 
-## BLOQUE 2 — EL PASADO EN MOVIMIENTO (40')
+## BLOQUE 2 — MARATON DE NARRACION: TRES ESCENAS NUEVAS (40')
 
-**Objective: by the end, everyone describes an ongoing past scene with was/were + -ing and contrasts it with the closed past.**
+**Objective: by the end, each student has told THREE different past stories to THREE different partners, the last two with no notes.**
 
-1. Board (uso oral — Grammar formaliza la regla hoy mismo; ejemplos del libro):
+1. Board — **BANCO DE ESCENAS + LINEAS MODELO** (para imitar con la boca, NO para analizar):
 ```
-THE PAST IN MOTION (A2 Book M12, p.99-102 — verbatim)
-Book: "I was living in Bucaramanga in 2019." · "Eliana was studying last week."
-      "Paula was swimming in the pool." · "Where was Joe working last year?"
-WAS + -ing:  I / he / she / it        WERE + -ing:  you / we / they
-CLOSED point (past simple) "I worked"  vs  OPEN line (continuous) "I was working"
+TELL IT — NEW SCENES (pick a different one each round)
+  1. The day a trip/flight/bus fell apart
+  2. The day the power / the system / the internet died on a deadline
+  3. My first day at a job (or at this course)
+  4. An event I organized (a party, a move, a delivery, a meeting)
+  5. A purchase or a delivery that went wrong
+  6. The day I moved city / changed jobs / changed schedule
+MODEL LINES (A2 Book M12, p.99-102 — say them, do not study them)
+  "I was living in Bucaramanga in 2019."
+  "I was playing when my mom called."
+  "We were walking in the park, when Jeff saw a dog."
+  "First we waited. Then they called us. After that we ran. Finally we got in."
 ```
-2. Modela 60 seg: describe que estaba pasando en tu oficina/salon ayer a las 9:00 — 3 acciones simultaneas (yo / un colega / el equipo), todas con was/were + -ing.
-3. **Meta del bloque (P6):** *"By the end, each pair paints a busy past scene — 5 sentences, at least 3 people, all was/were + -ing."* Preparacion (5'), ejecucion en parejas; la pareja verifica: was/were correcto por sujeto + -ing en todos.
-4. **Avance MY STORY (P7):** cada uno agrega 2 lineas — *"what was happening around me while I was learning/struggling"* — con was/were + -ing.
-5. Corrige en board solo el error que aparezca en 2+ parejas (anonimo). Nombres a tu cuaderno.
+2. **Modela 60 seg** con la escena 1: cuentala rapido y natural, 6-8 lineas. NO señales las formas, NO subrayes nada. Solo cuentala bien.
+3. **Meta del bloque (1 linea, en ingles):** *"By the end of this block each of you has told three different stories, to three different people, and the last two without notes."*
+4. **Tres rondas (~10' c/u), parejas nuevas en cada ronda:**
+   - Ronda 1 (con notas minimas, 8 lineas): A cuenta, B escucha y devuelve **1 pregunta en pasado**; cambio.
+   - Ronda 2 (SIN notas, escena distinta, 8+ lineas): B cuenta primero; A devuelve 2 preguntas.
+   - Ronda 3 (SIN notas, escena distinta, **90 segundos cronometrados**, tiene que caber): ambos cuentan; la pareja marca con los dedos cada vez que oye un fondo con -ing y cada vez que oye una palabra de orden.
+5. **Avance MY STORY:** cada uno se queda con las 3 mejores lineas que le salieron hoy y las guarda en su papel de "My Story".
+6. **Correccion (maximo 3'):** solo el error que aparezca en 2+ parejas. Al board va **la linea correcta**, anonima, coro 2x, y siguen. **Cero explicacion.** Los nombres a tu cuaderno.
 
-## BLOQUE 3 — SCENE BRIEFING: WHAT WAS HAPPENING? (35')
+## BLOQUE 3 — SIMULACION: "WHAT HAPPENED?" — REPORTE DE UN HECHO (35')
 
-**Objective: use past continuous under real pressure describing a live professional scene.**
+**Objective: tell a complete past event under time pressure, to someone who needs the facts.**
 
-1. Board: `SCENE BRIEFING — "WHAT WAS EVERYONE DOING?" — 3 ROTATIONS — OBSERVERS WORK`
-2. Escenario profesional (solo tablero y sala): describir una escena ocupada de la oficina/tienda a una hora dada (9:00 AM, cierre de mes, dia de inventario). **1 estudiante = guest** (describe 5+ acciones simultaneas: *"The manager was reviewing numbers, the team was calling clients, I was preparing the report"*); otro rota como colega que pregunta ("What were you doing? Who was helping?"); el resto = **OBSERVERS ACTIVOS**: anotan 2 aciertos (tipos), 1 mejora, 1 pregunta, y marcan "They was working" / "I studying". Tu = COACH — NUNCA juegas rol.
-3. 3 rotaciones (~8' c/u). Entre rotaciones, 60 seg de cadena was/were + -ing.
-4. Debrief (4'): observers reportan TIPOS ("was/were agreement", "missing -ing") — nunca personas.
+1. Board: `WHAT HAPPENED? — 90 SECONDS, ALL THE FACTS — 3 ROTATIONS`
+2. Escenario profesional/cotidiano realista (solo tablero y sala): alguien tiene que contar un hecho a quien necesita los datos — supervisor que pide el reporte, agente de seguros, servicio al cliente, coordinador de la sede. **1 estudiante = guest**: cuenta el hecho en **90 segundos** (que estaba pasando, que lo corto, que hizo, en que orden). Otro rota como el que necesita los datos y presiona con preguntas ("What were you doing exactly? What happened first? And after that?"). El resto = **OBSERVERS ACTIVOS**: en su papel anotan 2 aciertos (tipos), 1 mejora, 1 pregunta, y marcan si la historia se quedo sin orden o sin fondo. Tu = **COACH y cronometro desde afuera — NUNCA juegas rol.**
+3. 3 rotaciones (~8' c/u). Entre rotaciones, 60 seg de cadena veloz: cada uno UNA linea de fondo + UNA de corte, sin pausa.
+4. Debrief (4'): observers reportan TIPOS ("the background dropped", "no order words at the end") — nunca personas.
+
+> [VIRTUD] Di: *"Justice under pressure: you gave the facts complete, in order, and you did not hide the part that made you look bad."*
 
 ## BLOQUE 4 — CIERRE (15')
 
-1. **Ticket de salida (5', sentados):** 3-5 frases con la estructura de hoy (was/were + -ing, escena simultanea). Se recogen TODOS. NO los evaluas ni comentas — viajan con el error paper a coordinacion.
-2. **Cierre JUSTICIA (CIERRA):** *"What shared moment did you paint fairly today? Who was doing their part beside you?"* — 2 respuestas, rapido. *"Day 5 — Justice closes. This week you gave the past its true form, time and motion. Cl 16 opens a new virtue and joins the two pasts: what WAS happening WHEN something happened."*
+1. **Ticket de salida (5', sentados):** 3-5 frases contando UNA de las escenas de hoy (fondo + corte + orden). Se recogen TODOS. NO los evaluas ni comentas — viajan con el error paper a coordinacion.
+2. **Cierre JUSTICIA (CIERRA):** *"Which story did you tell whole today — including the hard part?"* — 2 respuestas, rapido. *"Day 5 — Justice closes. Cl 16 opens a new virtue, and we go further back: how things USED TO be."*
 3. **Tarea (board, due date explicita):**
 ```
 HOMEWORK CL 15 CONV — DUE Cl 16, BEFORE 7:00 PM
 TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE a 10-line "busy scene" from your real work/study: at least 4 people,
-    all was/were + -ing, with a time anchor. Underline every was/were + -ing.
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: describe the scene out loud.
-    Label: B1-CONV-15. WhatsApp group.
+(1) WRITE one NEW past story — 12 lines — that you did NOT tell in class.
+    It must contain: 3 background lines (-ing), 2 interruptions (when),
+    4 time anchors, 4 order words. Underline the -ing lines, circle the
+    order words.
+(2) PORTFOLIO audio (daily) — 2-3 min, eyes closed: tell that story out
+    loud, no reading. Label: B1-CONV-15. WhatsApp group.
 (3) Bring the paper to Cl 16.
 ```
 4. **Error paper:** cierra el papel fisico anonimo; nombres + citas literales en tu reporte a coordinacion.
-5. **Proxima clase:** *"Cl 16 = the two pasts meet — 'I was working WHEN the phone rang'. A new virtue opens. Any question about evaluation goes to coordination — not to me."*
+5. **Proxima clase:** *"Cl 16 = the life you left behind — how things USED TO be. Any question about evaluation goes to coordination — not to me."*
 6. **PASE a Grammar HOY** (entregar fisicamente antes del cambio de bloque):
 ```
 PASE Conv -> Grammar — Cl 15 (mismo dia)
 3 gaps frescos de hoy (error literal, SIN nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
-Patrones orales: (a) "They was working" (agreement); (b) "I studying" (falta
-was); (c) "I was play" (falta -ing); (d) escena descrita en pasado simple en
-vez de continuo. Hoy pintaron la escena en movimiento (scene briefing, 3
-rotaciones). Formaliza was/were + -ing + contraste punto/linea en papel HOY.
+Patrones orales de hoy (sistema completo del pasado bajo velocidad):
+(a) fondo dejado en simple donde iba -ing; (b) -ing perdido ("I was work");
+(c) forma irregular inventada; (d) historia sin palabras de orden; (e) fuga
+al presente al acelerar. Hoy narraron 3 escenas nuevas + reporte de un hecho
+en 90 seg. En tu bloque: consolida EN PAPEL lo que se cayo bajo velocidad.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + scene briefing) ☐ PASE entregado ☐ Portafolio anotado
-
----
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + simulacion) ☐ PASE entregado ☐ Portafolio anotado
 
 [PAGEBREAK]
 
-## NOTA INTERNA (no leer en clase) — FRONTERA DE SALIDA Cl 15
+## ANEXO — Plan B por bloque + NOTA INTERNA (no leer en clase)
 
-- **Modulo ancla:** A2 Book **M12 (p.99-102)** — parte VERBATIM. Ejemplos del libro en el board (*"I was living in Bucaramanga in 2019." "Eliana was studying for her exams last week." "Paula was swimming in the pool." "Where was Joe working last year?"*) verificados p.100.
-- **DONDE QUEDA CONV al cerrar Cl 15:** el cohorte produce oralmente todo el sistema del pasado — regular (Cl 11), irregular (Cl 12), negativos/preguntas (Cl 13), tiempo+orden (Cl 14) y continuo puro (Cl 15). MY STORY (P7) tiene: giro (Cl 12), historia ordenada "how I got here" (Cl 14) y escena de contexto (Cl 15). Falta unir simple+continuo (Cl 16).
-- **QUE SIGUE — Cl 16 CONV:** PAST SIMPLE vs PAST CONTINUOUS con WHEN/WHILE (interrupcion) — *"I was working WHEN the phone rang"* (A2 Book M12, p.99-102, verbatim: *"I was playing when my mom called"*). Simulacion vieja usada: "Behavioral Interview — Tell me about a time". **Virtud: Cl 16 ABRE FORTALEZA v1 (dia 1 de 5, Cl 16-20)** — Justicia cerro hoy.
-- **TAREA que Cl 16 revisa:** la de arriba (escena de 10 lineas was/were + -ing + audio B1-CONV-15).
-- **Recuperacion Cl 15:** N-3 = Cl 12 (irregular past), N-7 = Cl 8 (frequency adverbs/expressions — posicion). Sin mapa semanal → desde el contenido, NO tickets.
-- **PASE bidireccional** Conv↔Grammar activo. **Fork de versiones** (V1 present perfect + textos / V2 past simple vigente): esta hoja sigue V2 alineada al libro; present perfect es el arco M15-17 desde Cl 21.
-- **Plan B:** B2 si confunden was/were → land agreement por sujeto hoy; B3 si cansados → 2 rotaciones + 1 demo.
+**Plan B (cero material impreso):**
+- **B1:** si la cadena se traba, 1 solo disparador (Cl 12, irregulares) + 3 lineas correctas al board. Sin PASE de Grammar, arranca directo con la escena 1.
+- **B2:** si a los 20' las historias no arrancan, baja a DOS rondas y sube el largo (10-12 lineas). Nunca sustituyas la narracion por drill de formas: **hoy el objetivo es volumen de habla**.
+- **B3:** con <4 estudiantes, 2 rotaciones largas (2 min de relato) y el guest repite con otra escena. Si alguien se bloquea, el que pide los datos le da el arranque ("You were at the office... and then?").
+- **B4:** ticket de 3 frases si falta tiempo; la tarea NO se recorta.
+- **Si te piden la regla:** respuesta unica — *"Grammar explains it. Here we use it."* + repites la linea correcta y sigues.
+
+**NOTA INTERNA:**
+- **Compresion del arco del pasado (decision de coordinacion 25/08/2026):** el grupo ya recibio el modulo completo del pasado en el track de Grammar y esta saturado de repeticion. Cl 15 CONV deja de ser "past continuous nuevo" y pasa a ser **consolidacion 100% conversacional**. Cl 16 = used to/would · Cl 17 = narrativa 4 capas · Cl 18 = past perfect · Cl 19 = clinica oral. **Cl 20 y Cl 21+ NO cambian.**
+- **Modulo ancla:** A2 Book **M12 (p.99-102)** — las lineas modelo del board son cita verbatim (*"I was living in Bucaramanga in 2019." "I was playing when my mom called." "We were walking in the park, when Jeff saw a dog."*). Hoy NO se abre modulo nuevo: es uso.
+- **Riesgo detectado a corregir en el track:** en el bloque de Conv se estuvo EXPLICANDO gramatica. No corresponde. La caja de blindaje de pagina 1 es obligatoria y se aplica en Cl 15-19 completas.
+- **Recuperacion:** N-3 = Cl 12 (irregulares), N-7 = Cl 8 (frecuencia). Sin mapa semanal procesado → disparadores desde el contenido, NO desde tickets.
+- **Virtud:** Cl 11-15 = JUSTICIA v1 (calendario absoluto), hoy dia 5 CIERRA. Cl 16 abre FORTALEZA v1.
+- **PASE bidireccional Conv-Grammar activo.** Grammar quedo comprimido EN ESPEJO el mismo 25/08 (Cl 15 consolidacion - 16 used to/would - 17 narrativa - 18 past perfect - 19 clinica): la formalizacion en papel llega el MISMO dia. Conv sigue sin explicar.
+- **Cl 22 = presentaciones "My Story, My Goals"** (integradas, anunciadas desde Cl 1). Sin detalles de evaluacion: eso es coordinacion, nunca el profe.
+- Profe sin material preparado: todo en tablero + papel del estudiante.

@@ -21,7 +21,7 @@
    - "One separable phrasal, pronoun in the middle: 'turn it off'." (Cl 29 — phrasal verbs)
 2. **Chequeo publico de portafolio (3'):** conteo del audio de ayer; no-envios a tu cuaderno.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"modal + HAVE + participle: should HAVE rested, could HAVE stopped — never 'should of'. Connectors join the fight to the win. That is today."*
-4. **Revision tarea (3'):** 12 frases deduction + 3rd conditional (Cl 35) sobre la mesa; recoge. **PASE de Conv (hoy)** leido: los gaps son tus blancos.
+4. **Revision tarea (3'):** 12 frases (deduccion + tercer condicional recto y mixto) + la escalera completa de 5 escalones (Cl 35) sobre la mesa; recoge. **PASE de Conv (hoy)** leido: los gaps son tus blancos.
 
 > [VIRTUD] Board: "FORTITUDE — DAY 1, OPENING". *"Justice closed last class. Fortitude opens today — strength. 'I should have' owns the past; 'even though... I continued' names the courage. Four more days of Fortitude."*
 

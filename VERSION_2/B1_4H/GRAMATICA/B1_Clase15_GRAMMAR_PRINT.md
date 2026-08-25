@@ -1,108 +1,118 @@
 # B1 MASTERY — Cl 15/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
 
 **Sesion 15/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
-**Modulo:** A2 Book **M12 "I Was Playing when My Mom Called — Past Simple vs. Past Continuous" (p.99-102)** — hoy PAST CONTINUOUS puro
-**Focus (1 line):** WAS/WERE + -ing on paper — agreement by subject, negatives, questions, and the point-vs-line contrast.
+**Modulo:** A2 Book **M12 "I Was Playing when My Mom Called — Past Simple vs. Past Continuous" (p.99-102)** — hoy CONSOLIDACION DEL SISTEMA DEL PASADO **EN USO** (sin regla nueva, sin reglas en tablero)
+**Focus (1 line):** They already own the whole past — today they only PROVE it, under questions, at speed.
 **Virtud:** JUSTICIA v1 — dia 5 de 5 (CIERRA bloque Cl 11-15)
-**Frase del Dia:** *"Justice closes the past in motion — WAS for I/he/she/it, WERE for you/we/they, always -ing; wasn't and weren't deny it, Was and Were ask it — fair line, ongoing and clean."*
+**Frase del Dia:** *"Justice closes the block with proof, not with rules: the point, the line, the interruption and the order must all stand true under one honest question."*
 
 > **DE PIE: Bloques 1-3 completos en/junto al tablero (~95 de 110 min ≈ 86%; piso 70%). Solo el Bloque 4 es sentado.** Movimiento SIEMPRE con contenido.
 
 ---
 
-> **HOY SOLO: past continuous PURO — was/were + -ing, concordancia por sujeto, negativo, pregunta y la idea punto vs linea. NO TOCAR AUN: el contraste completo de interrupcion (accion larga was -ing cortada por when + past simple, y while con la larga) — eso es de Cl 16.**
+> **HOY SOLO: consolidar EN USO el sistema del pasado que ya dominan — sin reglas nuevas en tablero. NO TOCAR AÚN: used to / would — eso es de Cl 16.**
 
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
-**Objective: reactivate prior structures and set up the open past line.**
+**Objective: load the whole past system without explaining any of it.**
 
 1. **Recuperacion (10', oral, DE PIE, en cadena, sin cuaderno).** Disparadores (Cl 12 y Cl 8); errores al tablero anonimos; 1 min de re-produccion correcta:
-   - "Five irregular pasts: come/give/get/bring/think -> ?" (Cl 12)
-   - "Fix it: 'He bringed / I readed' /riːdɪd/." (Cl 12)
+   - "Five irregular pasts, fast: come/give/get/bring/think -> ?" (Cl 12)
+   - "Fix it out loud: 'He bringed / I readed'." (Cl 12)
    - "Adverb position: 'She goes never late' -> ?" (Cl 8)
-   - "Add a frequency expression to a true sentence." (Cl 8)
+   - "One true sentence with a frequency expression." (Cl 8)
 2. **Chequeo publico de portafolio (3').** *"Who sent yesterday's audio?"* Anota numeros. NO revisas contenido.
 3. **Frase del Dia (4').** Board antes de empezar; 2 lecturas, coro 2x, 1 solo. Insertala 3+ veces; cierre 1 de memoria + 1 en oracion nueva.
-4. **PASE recibido de Conv (hoy) (3'):** lee los 3 gaps: *"You painted the scene out loud this morning; here we lock was/were + -ing on paper."*
+4. **Revision tarea Cl 14 (2').** 12 frases con AT/ON/IN/LAST/AGO + 6 ordenadas con first/then/after that/finally, sobre la mesa. Recoge. No-entregas a tu cuaderno.
+5. **PASE recibido de Conv (hoy) (1'):** lee los 3 gaps: *"You told it this morning. This afternoon you have to defend it."*
 
-> [VIRTUD] Board: "JUSTICE — DAY 5, CLOSING". Di: *"WAS and WERE hold the moment open; the verb always wears -ing. Justice closes the block: give the ongoing past its fair, clean line."*
+> [VIRTUD] Board: "JUSTICE — DAY 5, CLOSING". Di: *"Justice is not explaining again what you already know. Justice is answering straight when someone checks you. Today nobody writes a rule for you."*
 
-## BLOQUE 2 — WAS/WERE + -ING EN PAPEL (40') — DE PIE ~90%
+## BLOQUE 2 — THE ALIBI FILE (40') — DE PIE ~90%
 
-**Objective: everyone forms affirmative, negative, question and short answer with was/were + -ing, and separates line from point.**
+**Objective: everyone answers ten timed questions in the form each question demands, with no rule on the board.**
 
-1. Board — cita del libro + regla:
+1. Board — SOLO el expediente y las preguntas. **NO escribes ninguna regla del pasado hoy.**
 ```
-PAST CONTINUOUS (A2 Book M12, p.99-102 — verbatim)
-Book: "I was living in Bucaramanga in 2019." · "Eliana was studying last week."
-      "Paula was swimming in the pool." · "Where was Joe working last year?"
-      "I wasn't driving the Model T last year." · "The girls weren't driving to school."
-WAS + -ing: I/he/she/it       WERE + -ing: you/we/they
-(-) wasn't / weren't + -ing    (?) Was/Were + subj + -ing?
-Short: Yes, I was. / No, I wasn't.   (never repeat the verb)
-POINT (past simple) "I worked"  vs  LINE (continuous) "I was working"
+THE ALIBI FILE — CASE 15 — NO RULES ON THIS BOARD
+Situation: a shipment left the warehouse and nobody signed for it.
+Everyone accounts for their day. Answer in kind. Nothing gets explained twice.
+Q1  What were you doing at 8:00?          Q6  Who called you first?
+Q2  What did you do at 9:15?              Q7  What were they doing when you arrived?
+Q3  Where were you working at 11:00?      Q8  What happened while you were out?
+Q4  When did you leave the office?        Q9  First, then, after that, finally — walk me through it.
+Q5  What were you carrying at that point? Q10 What time did the meeting end?
+Half of these ask for the open line. Half ask for the finished point.
+No rule will be written for you.
 ```
-2. Señala la logica: *"Past simple = a finished point. Past continuous = an open line, something in progress. Agreement first: WAS or WERE by subject; then -ing, always."*
-3. **Drill en circulo (10', DE PIE):** cadena — tu das sujeto + verbo ("the team / call clients") → estudiante 1 afirmativa (was/were + -ing) → 2 negativa → 3 pregunta + short answer → 4 lanza el siguiente. Velocidad creciente.
-4. **Errores tipicos al board (coro 2x cada correccion):**
-   - "I was play football" → "I was PLAYING"
-   - "They was working" → "They WERE working"
-   - "I studying at 8" → "I WAS studying at 8"
-   - "Where was Joe work?" → "Where was Joe WORKING?"
-   - "We was waiting" → "We WERE waiting"
-5. **Line/Point walk (12', DE PIE):** tablero en 2 zonas `POINT (simple) | LINE (continuous)`. Dictas una frase ("I finished the report" · "I was writing the report"); las parejas CAMINAN a la zona correcta Y producen la otra version en voz alta. El que llega, justifica en 1 linea.
-6. Cierre del bloque: produccion libre de pie — cada uno 2 frases verdaderas "what I was doing at [hour] yesterday". El drill no cierra el bloque — cierra el uso libre.
+2. Di la regla del juego, no la gramatica: *"You already own every form in this room. If a question opens a line, answer with a line. If it closes a point, answer with a point. I will not tell you which is which."*
+3. **Cross-examination chain (14', DE PIE):** circulo. Lanzas una Q del file a un estudiante -> responde -> el de al lado le dispara UNA pregunta de seguimiento que exija la otra forma -> el tercero lanza la siguiente Q. Velocidad creciente, sin pausa para pensar la regla.
+4. **Correccion sin re-explicacion (coro 2x cada una).** Los errores que OIGAS hoy van al tablero anonimos, y se corrigen SOLO con la forma buena — cero re-explicacion, cero tabla. Si no sale ninguno, usa estos tipos genericos:
+   - forma continua donde la pregunta pedia punto (y al reves)
+   - -ing perdido en la respuesta larga
+   - concordancia was/were rota bajo presion
+   - marcador de tiempo fuera de lugar
+5. **Contradiction walk (12', DE PIE):** tablero en 2 zonas `CONSISTENT | CONTRADICTION`. Lees dos declaraciones del mismo testigo ("I left at 9:00" / "I was signing papers at 9:30 in that office"); las parejas CAMINAN a la zona correcta Y, si es contradiccion, reconstruyen la version coherente en voz alta con la forma que toque. El que llega justifica en 1 linea.
+6. Cierre del bloque: produccion libre de pie — cada uno da su cuenta real de ayer por la manana en 4 lineas seguidas, sin que nadie lo interrumpa. El drill no cierra el bloque — cierra el uso libre.
 
-## BLOQUE 3 — SCENE BRIEFING (35') — DE PIE 100%
+## BLOQUE 3 — INTERNAL AUDIT (35') — DE PIE 100%
 
-**Objective: use past continuous under pressure describing a live professional scene.**
+**Objective: sustain the whole past system under cross-examination, at speed, without help.**
 
-1. Board: `SCENE BRIEFING — "WHAT WAS EVERYONE DOING?" — 3 ROTATIONS`
-2. Escenario profesional (solo tablero y sala): describir una escena ocupada (cierre de mes, inventario, hora pico). **1 estudiante = guest** (5+ acciones simultaneas con was/were + -ing); otro rota como colega que pregunta ("What were you doing? Who was helping?"); el resto = **OBSERVERS ACTIVOS**: anotan 2 errores, 1 acierto, 1 pregunta, y marcan "They was" / "I studying" / falta -ing. Tu = COACH — NUNCA juegas rol.
-3. 3 rotaciones (~8' c/u). Entre rotaciones, 90 seg de cadena was/were + -ing para mantener el ritmo de pie.
-4. Debrief con lo anotado por observers (tipos, anonimos). Interven solo si un error aparece 3 veces en la misma pareja.
+1. Board: `INTERNAL AUDIT — "ACCOUNT FOR YOUR DAY" — 3 ROTATIONS`
+2. Escenario profesional (solo tablero y sala): auditoria interna de operaciones — reconstruir la jornada de trabajo hora por hora. **1 estudiante = guest** (rinde cuentas: 8+ lineas, alternando lo que estaba pasando y lo que ocurrio); otro rota como auditor y dispara 10 preguntas del file exigiendo precision; el resto = **OBSERVERS ACTIVOS**: anotan 2 errores, 1 acierto, 1 contradiccion de tiempo. Tu = COACH — NUNCA juegas rol.
+3. 3 rotaciones (~8' c/u). Entre rotaciones, 90 seg de cadena rapida de preguntas del file para no perder el ritmo de pie.
+4. Debrief con lo anotado por observers (tipos, anonimos). Interven solo si un error aparece 3 veces en la misma pareja: forma correcta al board, coro 2x, sigue. **No abras la regla.**
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
 
-1. **Ticket de salida (5'):** 3-5 frases con was/were + -ing (escena simultanea), nombre en el papel. Se recogen TODOS; no se evaluan ni comentan; viajan con el error paper a coordinacion.
-2. **Cierre JUSTICIA (CIERRA):** *"Which ongoing moment did you write true today?"* — 2 respuestas. *"Day 5 — Justice closes. Cl 16 opens a new virtue and joins the two pasts: was working WHEN the phone rang."*
+1. **Ticket de salida (5'):** 3-5 frases que reconstruyan su jornada (mezcla obligatoria de linea y punto + 1 conector de secuencia), nombre en el papel. Se recogen TODOS; no se evaluan ni comentan; viajan con el error paper a coordinacion.
+2. **Cierre JUSTICIA (CIERRA):** *"What did you prove today without anyone explaining it to you?"* — 2 respuestas. *"Day 5 — Justice closes. Cl 16 opens a new virtue, and the first new form in a while: how things USED TO be."*
 3. **Tarea (board):**
 ```
 HOMEWORK CL 15 GRAMMAR — DUE Cl 16, BEFORE 7:00 PM
 TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE 12 sentences: 4 affirmative, 4 negative, 4 questions — all
-    was/were + -ing. Then rewrite 4 of them as past simple (point) and
-    explain in 3 words the difference (line vs point).
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: "What I was doing at three
-    moments yesterday". Label: B1-GRAMMAR-15. WhatsApp group.
+(1) WRITE your full statement: 12 sentences accounting for one real work
+    day, hour by hour. At least 4 must answer a "what were you doing"
+    question and at least 4 a "what did you do" question, plus 2 with
+    a sequence connector. No rules copied — production only.
+(2) PORTFOLIO audio (daily) — 2 min, eyes closed: read your statement
+    aloud as if the auditor were listening. Label: B1-GRAMMAR-15.
+    WhatsApp group.
 (3) Bring the paper to Cl 16.
 ```
 4. **Error paper** fisico anonimo cerrado; nombres + citas literales en tu reporte a coordinacion.
-5. **Proxima clase:** *"Cl 16: the two pasts meet — WHEN / WHILE — 'I was working when the phone rang'. A new virtue opens. Questions about evaluation go to coordination, not to me."*
+5. **Proxima clase:** *"Cl 16: USED TO and WOULD — the habits you left behind. New form, new virtue. Questions about evaluation go to coordination, not to me."*
 6. **PASE a Conv Cl 16** (entregar fisicamente antes de salir):
 ```
 PASE Grammar -> Conv — Cl 15 -> Cl 16
 3 gaps frescos de hoy (error literal, SIN nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
-Patrones bajo presion: (a) "They was" (agreement); (b) "I studying" (falta
-was); (c) "was play" (falta -ing); (d) continuo usado donde iba simple.
-Hoy quedo lockeado was/were + -ing + contraste punto/linea. En Cl 16, abre
-con un "Interrupted Scene" (cada uno: que estaba haciendo cuando algo lo
-interrumpio ayer) y salta a simple+continuo con WHEN/WHILE.
+Que quedo probado hoy EN USO: punto vs linea, interrupcion y orden, todo bajo
+interrogatorio, sin regla en el tablero. Lo que se cayo bajo presion (marca):
+(a) forma equivocada para la pregunta; (b) -ing perdido; (c) was/were; (d)
+marcador fuera de lugar. En Cl 16, abre con un roundup "How it used to be"
+(cada uno una linea de habito pasado que ya NO hace) y dejamelo listo:
+Cl 16 = USED TO / WOULD (forma nueva).
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + scene briefing) ☐ PASE entregado ☐ Portafolio anotado ☐ ~86% DE PIE confirmado
-
----
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + audit) ☐ PASE entregado ☐ Portafolio anotado ☐ ~86% DE PIE confirmado ☐ Tablero cerro SIN reglas del pasado escritas
 
 [PAGEBREAK]
 
-## NOTA INTERNA (no leer en clase) — FRONTERA DE SALIDA Cl 15
+## ANEXO — Plan B por bloque + NOTA INTERNA (no leer en clase)
 
-- **Modulo HOY = A2 Book M12 (p.99-102)** — parte VERBATIM. Ejemplos del libro en el board (*"I was living in Bucaramanga in 2019." "Eliana was studying for her exams last week." "Paula was swimming in the pool." "Where was Joe working last year?" "I wasn't driving the Model T last year." "The girls weren't driving to school."*) verificados p.100.
-- **DONDE QUEDA GRAMMAR al cerrar Cl 15:** el sistema del pasado esta lockeado EN PAPEL — regular (Cl 11), irregular 5 grupos (Cl 12), DID/DIDN'T + base + subject-question (Cl 13), AT/ON/IN/LAST/AGO + secuencia (Cl 14), was/were + -ing + punto/linea (Cl 15). Falta unir simple+continuo con WHEN/WHILE.
-- **QUE SIGUE — Cl 16 GRAMMAR:** PAST SIMPLE vs PAST CONTINUOUS con WHEN/WHILE (interrupcion) — A2 Book M12 (p.99-102), verbatim: *"I was playing when my mom called." "My dad was working when I ate lunch." "We were walking in the park, when Jeff saw a dog." "What were you doing when I was studying?"* Cierra el modulo M12. **Virtud: Cl 16 ABRE FORTALEZA v1 (dia 1 de 5, Cl 16-20).** Tras M12: el libro sigue con M13 "Already, Still, and Until" (p.107) — decision de Diana si Cl 17 lo toma (el arco viejo asumia "used to/would", que NO esta en el libro). `SUPUESTO — verificar`.
-- **TAREA que Cl 16 revisa:** la de arriba (12 frases was/were + -ing + reescritura a simple + audio B1-GRAMMAR-15).
-- **Recuperacion Cl 15:** N-3 = Cl 12 (irregular), N-7 = Cl 8 (frequency). Sin mapa semanal → desde el contenido, NO tickets.
-- **DE PIE ≥70% (piso 86%).** PASE bidireccional activo.
-- **Plan B:** B2 si confunden was/were → land agreement por sujeto hoy; B3 si cansados → 2 rotaciones + 1 demo.
+**Plan B (cero material impreso):**
+- **B1:** sin PASE de Conv, arranca directo con la cadena de recuperacion. No pierdas tiempo buscando.
+- **B2:** si a los 20' el grupo responde limpio y rapido, SUBE la exigencia (dos preguntas de seguimiento por respuesta, sin pausa) en vez de bajar a explicar. Si en cambio se cae una sola forma, corrige con la forma buena y sigue — **hoy no se reabre la regla en el tablero**; si se cae TODO, para el file y pasa a Bloque 3 antes de tiempo (produccion sostenida vale mas que drill).
+- **B3:** con <4 estudiantes, 2 rotaciones largas y el auditor rota cada 4 preguntas.
+- **B4:** ticket de 3 frases si falta tiempo; la tarea NO se recorta.
+
+**NOTA INTERNA:**
+- **Clase de consolidacion, NO de contenido nuevo.** El grupo ya recibio el sistema completo del pasado (regular, irregular, DID/DIDN'T + base, expresiones de tiempo + secuencia, was/were + -ing y el contraste when/while). Repetir la explicacion aqui seria la tercera pasada sobre lo mismo y el cohorte ya lo reporto como saturacion. Por eso: **cero regla en tablero, todo produccion**. `(SUPUESTO DE PLANEACIÓN — verificar)` para el reordenamiento del arco.
+- Ancla de libro = A2 Book M12 (p.99-102), ya citado verbatim en Cl 11-14; hoy no se vuelve a copiar al tablero a proposito.
+- **Recuperacion:** N-3 = Cl 12 (irregular), N-7 = Cl 8 (frequency/adverbios). Sin mapa semanal de tickets → disparadores desde el contenido, NO citar tickets.
+- DE PIE ≥70% (piso 86%): Bloques 1-3 de pie. Prohibido drill sin contenido.
+- Virtud Cl 11-15 = JUSTICIA v1, dia 5 CIERRA. **Cl 16 abre FORTALEZA v1.**
+- **COSTURA a Cl 16:** la tarea de hoy (declaracion de 12 lineas + audio B1-GRAMMAR-15) es exactamente lo que Cl 16 revisa. El PASE entrega a Conv el roundup "How it used to be".
+- Cl 22 = presentaciones (integradas). Evaluaciones = coordinacion, nunca el profe.

@@ -17,7 +17,7 @@
 **Objective: reload all five forms before locking them on paper.**
 
 1. **Recuperacion espaciada (10', oral, DE PIE, en cadena, sin cuaderno).** Errores al tablero anonimos; 1 min de re-produccion correcta:
-   - **(N-3, Cl 17 — used to/would):** "Fix it: 'I used to worked here.' Then a would-for-action line."
+   - **(N-3, Cl 17 — narrativa integrada; used to/would formalizado en Cl 16):** "Fix it: 'I used to worked here.' Then a would-for-action line."
    - **(N-7, Cl 13 — past simple neg/questions):** "Chain: 'Did you finish?' / 'No, I didn't finish.' Bare verb after DID/DIDN'T."
 2. **Chequeo de portafolio (2').** "Who sent the daily audio/video?" Pregunta y anota; no revisas contenido.
 3. **Frase del Dia (3').** Board antes de empezar; 2 lecturas, coro 2x, 1 solo. Insertala 3+ veces; al cierre 1 de memoria + 1 en oracion nueva.
@@ -99,7 +99,7 @@ now I have learned to pause." Cl 21 = upgrade del pitch con lineas "I have..."
 
 **NOTA INTERNA:**
 - Sin regla nueva: consolida M12 (p.99-102) + M15/M16 (participio, p.133/p.147) + used to/would y past perfect (extension B1). `(SUPUESTO DE PLANEACIÓN — verificar)`.
-- Recuperacion N-3 = Cl 17 (used to/would); N-7 = Cl 13 (past simple neg/questions). Sin mapa de tickets.
+- Recuperacion N-3 = Cl 17 (narrativa integrada; el disparador usa used to/would, formalizado en Cl 16); N-7 = Cl 13 (past simple neg/questions). Sin mapa de tickets.
 - DE PIE ≥70% (piso 86%): Bloques 1-3 de pie. Prohibido drill sin contenido.
 - Virtud: hoy CIERRA FORTALEZA v1 (dia 5). **Cl 21 abre PRUDENCIA v2**.
 - COSTURA a Cl 21: la tarea de hoy (parrafo 12-14 lineas etiquetado 1-5 + audio B1-GRAMMAR-20) es exactamente lo que Cl 21 GRAMMAR revisa. El PASE de hoy entrega a Conv Cl 21 el bridge past -> present perfect. Cl 21 GRAMMAR = M15 present perfect regular (have/has + participio) formalizado en papel; el participio de HOY (bajo HAD) es el mismo que manana ira bajo HAVE/HAS ("solo cambia el auxiliar").
