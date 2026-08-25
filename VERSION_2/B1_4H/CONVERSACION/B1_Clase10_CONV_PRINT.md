@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: los pronombres objeto hablados (him, us, them) despues del verbo, sin cambiar el orden de la frase. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los pronombres posesivos (mine, hers) y los reflexivos y reciprocos (myself, each other) — eso es de Cl 32 y 41.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate frequency + advice, then open object pronouns orally.**

@@ -10,6 +10,8 @@
 
 ---
 
+> **HOY SOLO: past simple IRREGULAR — los 5 grupos de cambio y la trampa de READ. NO TOCAR AUN: el negativo/pregunta con did/didn't, las expresiones ago/last con la secuencia first/then/finally, ni el past continuous was/were + -ing — eso es de Cl 13, 14 y 15.**
+
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: reactivate prior structures and expose the no-rule past.**

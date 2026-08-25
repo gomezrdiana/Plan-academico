@@ -11,6 +11,8 @@
 
 ---
 
+> **HOY SOLO: los participios IRREGULARES despues de have/has — gone, taken, been, eaten y su grupo. NO TOCAR AUN: la decision present perfect vs simple past por periodo cerrado/abierto (M17) — eso es de Cl 23.**
+
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: reactivate past layers and aim today at the irregular participle gap.**

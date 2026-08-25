@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: el consejo hablado con should / shouldn't, con numeros, horas y precios hasta 100. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: 'should have / could have' (arrepentimiento) y la maquina de cantidades y precios (how many / how much / how much does it cost) — eso es de Cl 30 y 36.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate the two pasts and switch on the advice auxiliary.**

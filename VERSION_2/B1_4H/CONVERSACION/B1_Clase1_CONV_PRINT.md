@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: el contraste afirmativo hablado — 'yesterday I worked' (pasado cerrado) vs 'I have worked' (pasado abierto). NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: el negativo y la pregunta (I haven't yet / Have you...?) con for/since, y la lista de participios regulares e irregulares — eso es de Cl 2, 21 y 22.**
+
 ## BLOQUE 1 — APERTURA + RITUALES DEL NIVEL (25')
 
 **Objective: everyone knows how this room works and says one true sentence about their English.**

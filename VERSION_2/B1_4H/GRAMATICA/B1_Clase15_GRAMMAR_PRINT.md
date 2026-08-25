@@ -10,6 +10,8 @@
 
 ---
 
+> **HOY SOLO: past continuous PURO — was/were + -ing, concordancia por sujeto, negativo, pregunta y la idea punto vs linea. NO TOCAR AUN: el contraste completo de interrupcion (accion larga was -ing cortada por when + past simple, y while con la larga) — eso es de Cl 16.**
+
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: reactivate prior structures and set up the open past line.**

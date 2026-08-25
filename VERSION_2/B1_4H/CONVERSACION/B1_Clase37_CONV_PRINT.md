@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: combinar hablando con pronombres relativos (who/which/that/where/when/why/how) y preguntar con cortesia (preguntas incrustadas). NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: el estilo indirecto (she said / he told me) con el corrimiento de tiempos — eso es de Cl 38.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate tags/two-option + comparison, then aim relative pronouns + embedded questions.**

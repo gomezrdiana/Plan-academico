@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: asumir hablando el arrepentimiento (could have / should have) y explicar un contratiempo superado con because / so / but / even though. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los pronombres relativos (who / which / that) y las preguntas incrustadas — eso es de Cl 37.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate causative/adverbs + a phrasal verb, then aim perfect modals + connectors.**

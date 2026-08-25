@@ -3,6 +3,8 @@
 **Virtud:** JUSTICIA (v1, dia 3 de 5) · **Modulo:** M8 Where Do We Eat? — The Simple Present, PARTE 1: los auxiliares "do" y "does" + la frase AFIRMATIVA (Libro A1 p.99-100, Guia 1 reglas 1-3)
 **Frase del Dia:** *"I do tell the truth every day."*
 
+> **HOY SOLO: M8 Guia 1 p.100 reglas 1-3 — los dos auxiliares, la tabla sujeto→auxiliar y la frase AFIRMATIVA con el auxiliar visible ("I do play" / "She does play"). NO TOCAR AÚN: la negativa "don't / doesn't", la pregunta "Do...? / Does...?" y las respuestas cortas (p.100, reglas 4-5) — eso es de Cl 14.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 10 · Cl N-7 = Cl 6):

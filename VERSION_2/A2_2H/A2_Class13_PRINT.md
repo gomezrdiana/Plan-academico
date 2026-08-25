@@ -3,6 +3,8 @@
 **Virtud:** JUSTICIA (v1, dia 3 de 5) · **Modulo:** M15 I Have Visited London — The Present Perfect (Regular Verbs), Libro A2 p.133-146
 **Frase del Dia:** *"I have worked, I have shared, and I have helped without asking who deserves it — a fair person can name what they have done."*
 
+> **HOY SOLO: M15 — present perfect con participios REGULARES (-ed): have/has + participio, negativa, pregunta y short answer. NO TOCAR AÚN: los participios irregulares (been / gone / eaten / taken / driven), eso es de Cl 14; ni el contraste past simple vs present perfect — eso es de Cl 15.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**

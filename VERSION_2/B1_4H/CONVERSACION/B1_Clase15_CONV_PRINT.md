@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: el pasado continuo hablado — was/were + -ing — la escena que estaba pasando. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: la combinacion con la interrupcion (when + pasado simple), 'used to / would' y 'had + participio' — eso es de Cl 16, 17 y 19.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate prior structures and open the past in motion.**

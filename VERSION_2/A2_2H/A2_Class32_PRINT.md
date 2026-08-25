@@ -3,6 +3,8 @@
 **Virtud:** JUSTICIA (v2, dia 2 de 5) · **Modulo:** M37 What Do You Look Like? — Describing People, Libro A2 p.307-312
 **Frase del Dia:** *"A just person judges what you do, not what you look like — not your hair, not your face."*
 
+> **HOY SOLO: M37 — describir personas con to be / to have + very / somewhat (*What do you look like?*). NO TOCAR AÚN: el orden tradicional de los adjetivos (cantidad, opinion, tamano, edad, forma, color, origen, material) — eso es de Cl 33.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**

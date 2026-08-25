@@ -1,12 +1,14 @@
 # B1 MASTERY — Cl 28/44 — CONV (va PRIMERO) — HOJA DE RUTA
 
 **Sesion 28/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
-**Repaso comprimido A2 · Aplica oralmente M26 (igual: as good as) + M27 (desigual: better than) + M28 (superlativo: the best).** Grammar los formaliza hoy mismo; aqui NO se enseña la regla.
+**Repaso comprimido A2 · Aplica oralmente M26 (igual: as good as) + M27 (desigual: better than) + M28 (superlativo: the best).** Grammar los formaliza hoy mismo.
 **Focus (1 line):** Compare your real tools, options and choices at work — fairly: as good as, better than, the best of all.
 **Virtud:** TEMPLANZA v2 — dia 3 de 5
 **Frase del Dia:** *"Temperance compares fairly: this option is as good as that one, mine is a bit better, and honesty is the best tool of all."*
 
 ---
+
+> **HOY SOLO USO ORAL DE: la comparacion hablada — as good as (igual), better than (desigual), the best of all (superlativo). NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: el grado y la intensidad (how ...? / pretty, very / enough / so / too) y las cantidades y precios — eso es de Cl 29 y 30.**
 
 ## BLOQUE 1 — APERTURA (20')
 

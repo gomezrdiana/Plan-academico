@@ -3,6 +3,8 @@
 **Virtud:** JUSTICIA (v1, dia 5 de 5) · **Modulo:** M9 He Eats in the Restaurant — The Simple Present, Affirmative Exception, PARTE 1: la omision del auxiliar en la afirmativa + la "-s" de he/she/it (Libro A1 p.111-113, Guia 1 reglas 1-5)
 **Frase del Dia:** *"She plays fair and he studies every day."*
 
+> **HOY SOLO: M9 Guia 1 p.112 reglas 1-5 — la AFIRMATIVA sin auxiliar y la "-s" de he/she/it, con los ejemplos p.113 y la Practica Verbal 1 (p.115-116). NO TOCAR AÚN: el negativo y la pregunta que conservan "do/does" (p.113-114) ni las Practicas Verbales 2-4 (p.117-122) — eso es de Cl 16.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 12 · Cl N-7 = Cl 8):

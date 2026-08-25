@@ -191,7 +191,12 @@ def md_to_pdf(md_path, pdf_path, max_lines_per_section=None, compact=False):
         if line.startswith('> '):
             text = line[2:].strip()
             text = re.sub(r'\*\*(.*?)\*\*', r'<b>\1</b>', text)
-            s.append(Paragraph(f'<i>&gt; {text}</i>', styles['BI']))
+            # Linea dura de dosificacion (regla 25/08/2026): caja con borde, no gris
+            if 'HOY SOLO' in text:
+                s.append(box_bw(text, 1.0))
+                s.append(Spacer(1, 2 if compact else 4))
+            else:
+                s.append(Paragraph(f'<i>&gt; {text}</i>', styles['BI']))
             i += 1
             continue
 

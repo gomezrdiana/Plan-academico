@@ -3,6 +3,8 @@
 **Virtud:** JUSTICIA (v2, dia 1 de 5) · **Modulo:** M36 What Are You Wearing? — Describing Clothing, Libro A2 p.301-306
 **Frase del Dia:** *"Justice doesn't look at your shirt or your shoes — a fair person treats everyone the same, in a jacket or in sneakers."*
 
+> **HOY SOLO: M36 — la ropa y los colores con am/is wearing + adjetivo ANTES del sustantivo (+ dark / light). NO TOCAR AÚN: describir personas con to be / to have + very / somewhat, eso es de Cl 32; ni el orden tradicional de varios adjetivos — eso es de Cl 33.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**

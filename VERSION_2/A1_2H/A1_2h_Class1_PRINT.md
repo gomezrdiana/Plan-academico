@@ -3,6 +3,8 @@
 **Virtud:** PRUDENCIA (v1, dia 1 de 5) · **Modulos:** M0 English Pronunciation — 8 Tricks to Eliminate a Colombian Accent (Libro A1 p.3-6) + M1 Juan Can Play Soccer — The Structure of English, PARTE 1: vocabulario + frase afirmativa (p.7-10)
 **Frase del Dia:** *"I can think before I play."*
 
+> **HOY SOLO: M0 los 8 trucos de pronunciacion (p.4-5) + M1 vocabulario de deportes (p.8) y Guia 1 p.9 reglas 1-4 — unicamente la frase AFIRMATIVA con "can". NO TOCAR AÚN: la negativa "cannot / can't" ni la pregunta "Can Juan play soccer?" (p.9, reglas 5-7) — eso es de Cl 2.**
+
 ## BLOQUE 1 (25') — Apertura y bienvenida
 
 - **Warm-up (8'), DE PIE, en cadena** (no hay recuperacion hoy — es la primera clase del nivel): saludas a cada estudiante con *"Hello! Welcome!"*; cada uno responde *"Hello!"* y dice su nombre; el grupo repite el nombre en coro. Energia alta, cero explicaciones, cero espanol tuyo.

@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: los cinco adverbios de frecuencia hablados (always, usually, often, sometimes, never) en su lugar. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: las expresiones de frecuencia con numero (once/twice a week, every day) al final de la frase — eso es de Cl 8.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate future/prepositions and open frequency orally.**

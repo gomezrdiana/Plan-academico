@@ -10,6 +10,8 @@
 
 ---
 
+> **HOY SOLO: integrar en narracion las 4 capas que YA tienen — escena (used to / was -ing), giro (when + past simple), desarrollo mixto y conectores de secuencia; sin regla nueva. NO TOCAR AUN: el past perfect had + participio como quinta capa — eso es de Cl 19.**
+
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: reassemble the tools before writing the story.**

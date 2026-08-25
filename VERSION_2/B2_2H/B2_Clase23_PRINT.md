@@ -5,6 +5,8 @@
 **Frase del Día:** *"A good answer is prepared, not invented on the spot — and I always ask before I leave the room."*
 **Focus (1 line):** Sit in the candidate's chair and survive the five questions everybody gets — then turn the table and ask the interviewer yours, politely, with embedded questions (*Could you tell me what the team looks like?*).
 
+> **HOY SOLO: las cinco preguntas clásicas de entrevista (tell me about yourself · why do you want to work here · walk me through your experience · what are you good at · do you have any questions for us) y las dos preguntas corteses que el candidato devuelve al final. NO TOCAR AÚN: la debilidad, el hueco en la hoja de vida, responder la pretensión salarial y "why should we hire you" — eso es de Cl 24.**
+
 > **Para la profesora:** la estructura ancla de hoy (**embedded questions** — la pregunta metida dentro de otra frase para sonar cortés) NO se explica en tablero: tú la modelas, la corriges al vuelo y la exiges en la simulación. El error que hay que cortar en seco toda la noche es el orden invertido: *"Can you tell me what do you need?"* → *"Can you tell me what you need?"* La cláusula va en **orden afirmativo**, sin auxiliar. Sin material impreso: nadie lee respuestas de un papel ni del teléfono; **la respuesta preparada se prepara en la cabeza, no en una hoja**. Tú no comunicas evaluaciones.
 
 ---

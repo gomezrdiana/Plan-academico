@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: la posesion hablada — my/her/their + sustantivo, the boss's office, the cover of the report. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los pronombres posesivos (mine, hers, theirs) y 'whose' — eso es de Cl 32.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate present simple + the project page, then open ownership orally.**

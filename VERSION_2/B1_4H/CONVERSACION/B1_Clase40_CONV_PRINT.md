@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: delegar y describir hablando — I had the report sent / I got the room booked + 'a well-organized, hard-working teammate'. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los pronombres indefinidos, reflexivos y reciprocos (everyone, myself, each other) — eso es de Cl 41.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate relative pronouns, embedded questions and perfect tenses, then delegate and describe.**

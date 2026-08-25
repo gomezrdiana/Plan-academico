@@ -5,6 +5,8 @@
 
 > **Cl 1 es la clase de apertura del nivel.** Trae reloj, 2-3 marcadores y tu cuaderno personal (errores + nombres). NADA impreso. El cronograma, los rituales y la Carta se explican EN ESPANOL solo hoy (contrato pedagogico); desde el Bloque 2 y el resto del nivel, todo lo que dices a la clase es en INGLES.
 
+> **HOY SOLO: M1 — el futuro con WILL (afirmativa, negativa won't, pregunta, short answers) + los 7 dias + la preposicion ON. NO TOCAR AÚN: GOING TO y el present continuous con valor de futuro — eso es de Cl 4.**
+
 ## BLOQUE 1 (22') — Apertura + cronograma del nivel
 
 - **Bienvenida + cronograma (7', puedes hablar en espanol hoy):** escribe en tablero y explica:

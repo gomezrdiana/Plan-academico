@@ -3,6 +3,8 @@
 **Virtud:** PRUDENCIA (v1, dia 4 de 5) · **Modulo:** M2 What Can You Play? — The Question Word "What" & Subject Pronouns, PARTE 2: la palabra interrogativa "what" (Libro A1 p.19-32)
 **Frase del Dia:** *"What can you plan today?"*
 
+> **HOY SOLO: M2 Guia 1 p.21 reglas 1-3 — la pregunta con "what" y su contraste con la pregunta sencilla; las respuestas se dan con FRASE COMPLETA ("Yes, he can play soccer."). NO TOCAR AÚN: la respuesta corta "Yes, I can. / No, I can't." (M3, p.33-35) — eso es de Cl 5.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 1; Cl N-7 aun no existe):

@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: ubicar hablando lo logrado en el tiempo — I've closed / I had finished / I'll have delivered. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: el causativo (have/get + objeto + participio) y los adjetivos avanzados — eso es de Cl 40.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate perfect modals, connectors and reporting, then place achievements in time.**

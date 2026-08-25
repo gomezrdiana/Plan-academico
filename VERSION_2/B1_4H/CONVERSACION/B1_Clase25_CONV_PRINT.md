@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: la actividad en la silla del sujeto, hablada — 'Working here is...' / 'Planning is...'. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: el gerundio despues de preposicion (before eating) y el doble verbo (want to rest / love working) — eso es de Cl 26.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: re-fire irregular perfects and the narrative chain, then aim at opinions.**

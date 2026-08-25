@@ -10,6 +10,8 @@
 
 ---
 
+> **HOY SOLO: used to + verbo base (habito y estado) y would + verbo base (solo accion repetida), con su negativo y su pregunta. NO TOCAR AUN: el past perfect had + participio — eso es de Cl 19.**
+
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: wake the past system and aim at the "old habit" form.**

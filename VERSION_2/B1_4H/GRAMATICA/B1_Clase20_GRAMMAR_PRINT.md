@@ -10,6 +10,8 @@
 
 ---
 
+> **HOY SOLO: consolidar en una sola narracion las 5 formas de pasado que YA tienen — used to/would, was/were + -ing, past simple, had + participio y los conectores de secuencia; sin regla nueva. NO TOCAR AUN: el present perfect have/has + participio ni su contraste con el simple past — eso es de Cl 21, 22 y 23.**
+
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: reload all five forms before locking them on paper.**

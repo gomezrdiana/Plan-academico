@@ -3,6 +3,8 @@
 **Virtud:** TEMPLANZA (v1, dia 1 de 5) · **Modulo:** M4 Where Should We Live? — Giving Recommendations, PARTE 1: vocabulario + el auxiliar "should" (Libro A1 p.41-43, reglas 1-3)
 **Frase del Dia:** *"You should stay calm and wait."*
 
+> **HOY SOLO: M4 vocabulario de ciudades + "live" (p.42) y Guia 1 p.43 reglas 1-3 — "should" en afirmativa, negativa ("shouldn't") y pregunta. NO TOCAR AÚN: la palabra "where", la respuesta corta con should y la palabra "in" (p.43, reglas 4-6) — eso es de Cl 7.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 3; Cl N-7 aun no existe):

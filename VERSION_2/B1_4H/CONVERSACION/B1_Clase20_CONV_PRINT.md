@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: las cinco formas del pasado habladas en UNA historia, sin fuga al presente; sin regla nueva. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: el present perfect completo (have/has + participio, regular e irregular) y la decision entre pasado cerrado y abierto — eso es de Cl 21, 22 y 23.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reload all five past forms before the mastery run.**

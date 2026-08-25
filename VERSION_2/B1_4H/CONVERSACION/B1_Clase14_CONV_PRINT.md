@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: el anclaje hablado del pasado (ago / last / in / on / at) y el orden first, then, finally. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: 'was/were + -ing', la interrupcion con when, 'used to / would' y 'had + participio' — eso es de Cl 15, 16, 17 y 19.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate prior structures and open time-anchoring.**

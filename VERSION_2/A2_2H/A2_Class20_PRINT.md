@@ -3,6 +3,8 @@
 **Virtud:** FORTALEZA (v1, dia 5 de 5) · **Modulo:** M23 I Asked for A Pencil — Basic, Non-Separable Phrasal Verbs, Libro A2 p.221-232
 **Frase del Dia:** *"A strong person asks for help, listens to hard advice, and looks after the people around them."*
 
+> **HOY SOLO: M23 — verbos frasales NO separables (ask for, go back, look at, listen to, run into, look after), con el objeto y el pronombre SIEMPRE al final. NO TOCAR AÚN: los frasales SEPARABLES y el pronombre en medio (*pick her up*, *turn it off*) — eso es de Cl 21.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**

@@ -9,6 +9,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: la descripcion hablada de personas y ropa — what she's wearing, what he looks like, adjetivos en orden. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los pronombres posesivos con whose y los adjetivos participio (tiring vs tired) — eso es de Cl 32.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate comparatives and the passive, then aim at describing people and clothing.**

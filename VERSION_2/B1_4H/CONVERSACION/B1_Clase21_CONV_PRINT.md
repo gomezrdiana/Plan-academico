@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: las lineas de crecimiento habladas con 'I have...' dentro del pitch, y el ensayo general. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los participios irregulares (gone, taken, been, eaten) y la decision sistematica entre pasado simple y present perfect — eso es de Cl 22 y 23.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate the past machine and connect it to what has changed.**

@@ -3,6 +3,8 @@
 **Virtud:** TEMPLANZA (v1, dia 5 de 5) · **Modulo:** M6 What Time Will You Eat Lunch? — The Simple Future, PARTE 1: vocabulario de rutina + el auxiliar "will" (Libro A1 p.71-73, reglas 1-3)
 **Frase del Dia:** *"I will eat dinner early, not late."*
 
+> **HOY SOLO: M6 vocabulario de rutina (p.72) y Guia 1 p.73 reglas 1-3 — "will" en afirmativa, negativa ("won't") y pregunta; la produccion es sobre QUE hara, no a que hora. NO TOCAR AÚN: la pregunta "What time...?", la respuesta corta con will y la palabra "at" (p.73-74, reglas 4-6) — eso es de Cl 11.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 7 · Cl N-7 = Cl 3):

@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: el negativo y la pregunta hablados — 'I didn't' (nunca) vs 'I haven't yet' (todavia puede) — con for/since. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: la lista de participios regulares e irregulares y la decision sistematica entre pasado cerrado y abierto — eso es de Cl 21, 22 y 23.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate yesterday's hinge and open the "not yet" idea.**

@@ -3,6 +3,8 @@
 **Virtud:** JUSTICIA (v1, dia 4 de 5) · **Modulo:** M16 I Have Gone to Paris — The Present Perfect (Irregular), Libro A2 p.147-162
 **Frase del Dia:** *"We have been a team: I have told the truth and I have shared what I have found."*
 
+> **HOY SOLO: M16 — present perfect con los participios IRREGULARES de la tabla del libro (been, driven, eaten, told, taken, woken up, gone, found). NO TOCAR AÚN: el contraste past simple vs present perfect y los marcadores de periodo abierto/cerrado (*last week* vs *this week*) — eso es de Cl 15.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (8'), oral y DE PIE, en cadena, sin cuaderno:**

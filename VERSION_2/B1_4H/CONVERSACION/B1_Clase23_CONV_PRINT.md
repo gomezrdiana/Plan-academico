@@ -9,6 +9,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: la decision hablada entre 'I have been there' (abre) y 'I went in 2019' (fecha). NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: el past perfect, el future perfect, los perfectos continuos y already/yet sistematizados — eso es de Cl 39.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: re-run the whole past machine and pivot it toward open experiences.**

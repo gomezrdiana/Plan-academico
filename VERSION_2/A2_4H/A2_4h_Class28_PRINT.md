@@ -5,6 +5,8 @@
 
 > **CRITICO:** el profe NO evalua, NO da nota, NO comenta criterios, contenido ni resultados — hoy menos que nunca. Si preguntan por el final: *"Coordination handles the exam — content, criteria and results."* En el Bloque 4 el profe NO aplica ni evalua: entrega el aula lista y se retira, o asiste como logistica segun indique coordinacion.
 
+> **HOY SOLO: en E7, concordancia 3a persona + there is/are, y en E1 el causativo con want / need / would like + persona + TO + verbo (alcance de M44). NO TOCAR AUN: make / let sin TO ni have / get + participio — eso es de nivel B1.**
+
 ## BLOQUE 1 (25') — Apertura ligera
 
 - **Recuperacion breve (10'), oral y DE PIE, en cadena, sin cuaderno:**

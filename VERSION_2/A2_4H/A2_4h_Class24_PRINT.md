@@ -3,6 +3,8 @@
 **Virtud:** PRUDENCIA (v2, dia 4 de 5) · **Modulo:** ARCO DE REPASO A2→B1 — CLUSTER PHRASAL VERBS + VOZ PASIVA (repaso; el libro A2 cerro en M44 — hoy NO hay modulo nuevo)
 **Frase del Dia:** *"Prudent people plan it out before the shift ends: the forms were filled out, and nothing was left behind."*
 
+> **HOY SOLO: phrasal verbs separables y no separables (M23-M24) + voz pasiva en PRESENTE SIMPLE y PASADO SIMPLE (M18), repaso de modulos ya vistos. NO TOCAR AUN: pasiva perfecta (has been done), continua (is being done) ni con modales (must be done) — eso es de nivel B1.**
+
 ## BLOQUE 1 (35') — Apertura
 
 - **Recuperacion (12'), oral y DE PIE, en cadena, sin cuaderno:**

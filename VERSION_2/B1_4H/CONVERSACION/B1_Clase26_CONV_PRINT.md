@@ -1,12 +1,14 @@
 # B1 MASTERY — Cl 26/44 — CONV (va PRIMERO) — HOJA DE RUTA
 
 **Sesion 26/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
-**Repaso comprimido A2 · Aplica oralmente M21 (rutinas: before/after/without + -ing) + M22 (metas: want to / love -ing).** Grammar los formaliza hoy mismo; aqui NO se enseña la regla.
+**Repaso comprimido A2 · Aplica oralmente M21 (rutinas: before/after/without + -ing) + M22 (metas: want to / love -ing).** Grammar los formaliza hoy mismo.
 **Focus (1 line):** Talk about your real work around a moment AND about what you want, love and decided to do — two gerund shapes, one calm voice.
 **Virtud:** TEMPLANZA v2 — dia 1 de 5 (ABRE bloque Cl 26-30)
 **Frase del Dia:** *"Temperance chooses the moment and the shape: I think before speaking, I decide to slow down, and I love finishing what I start."*
 
 ---
+
+> **HOY SOLO USO ORAL DE: las dos formas del gerundio habladas — despues de preposicion (before eating) y despues del primer verbo (want to rest / love working). NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los phrasal verbs separables y no separables, y las comparaciones — eso es de Cl 27 y 28.**
 
 ## BLOQUE 1 — APERTURA (20')
 

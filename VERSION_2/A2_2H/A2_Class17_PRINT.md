@@ -3,6 +3,8 @@
 **Virtud:** FORTALEZA (v1, dia 2 de 5) · **Modulo:** M20 Playing is Fun! — Gerunds as Subjects, Libro A2 p.181-196
 **Frase del Dia:** *"Quitting is easy and trying is difficult — but never giving up is important."*
 
+> **HOY SOLO: M20 — el gerundio como SUJETO (*Working is important*) con los 6 descriptores del modulo. NO TOCAR AÚN: el gerundio despues de preposicion (before / after / without / about + -ing), eso es de Cl 18; ni los dos verbos juntos (*want to* / *like -ing*) — eso es de Cl 19.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**

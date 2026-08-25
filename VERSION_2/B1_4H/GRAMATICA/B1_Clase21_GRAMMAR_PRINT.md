@@ -10,6 +10,8 @@
 
 ---
 
+> **HOY SOLO: present perfect con participios REGULARES — have/has + verbo-ed en afirmativo, negativo y pregunta. NO TOCAR AUN: los participios irregulares (gone, taken, been, eaten) ni la decision present perfect vs simple past por periodo cerrado/abierto — eso es de Cl 22 y 23.**
+
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: wake the past system up and point it at today's new auxiliary.**

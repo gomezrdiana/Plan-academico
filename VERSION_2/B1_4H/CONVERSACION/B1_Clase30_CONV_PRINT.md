@@ -9,6 +9,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: las cantidades y los precios hablados — how many boxes, how much coffee, how much does it cost. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: la descripcion de personas y ropa (what are you wearing / what do you look like / orden de adjetivos) — eso es de Cl 31.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate phrasal verbs and the present-perfect-vs-past choice, then aim at counting and pricing.**

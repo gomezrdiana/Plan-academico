@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: los planes hablados con 'I will...' anclados en el tiempo (at la hora, on el dia, in la parte del dia o el mes). NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: el futuro perfecto ('by Friday I will have finished') y el 'would have' del condicional — eso es de Cl 35, 36 y 39.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: recover the opening hinge and switch on the future auxiliary.**

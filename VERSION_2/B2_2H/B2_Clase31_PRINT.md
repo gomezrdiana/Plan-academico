@@ -5,6 +5,8 @@
 **Frase del Día:** *"A fair price is not an apology — it's a number I can explain."*
 **Focus (1 line):** Put a number on the table and leave it there: ask what the other side can actually spend (*"Could you tell me what range you had in mind?"*), say your rate and your terms out loud with no softeners, and offer it cleanly (*"I'll send you the quote"* / *"I'll send the quote to you"*).
 
+> **HOY SOLO: preguntar por el presupuesto y las condiciones del otro lado, decir tu número y tus términos sin suavizadores, callar después de la cifra y sostenerla con tres razones. NO TOCAR AÚN: la contrapropuesta, las concesiones, el punto de retirada y el cierre del trato — eso es de Cl 32.**
+
 > **Para la profesora:** las estructuras de hoy (preguntas encapsuladas para averiguar presupuesto y condiciones — *"Can you tell me what you need?" / "I wonder if…"* · el doble orden de objetos al ofrecer — *"Let's make the boss an offer." / "Let's make an offer to the boss."*) NO se explican en tablero: tú las modelas, corriges al vuelo y las exiges en la simulación. Sin material impreso: la "mesa" se monta con lo que hay en el aula. Tú no comunicas evaluaciones. **La corrección dura de la noche es el orden afirmativo dentro de la pregunta encapsulada** (*"Can you tell me what you need?"*, jamás *"…what do you need?"*). Segunda corrección dura: **cazar los suavizadores** (*sorry, just, only, maybe, I think, more or less*) que se cuelan cuando alguien dice su precio. Arranca la semana de JUSTICIA.
 
 ---

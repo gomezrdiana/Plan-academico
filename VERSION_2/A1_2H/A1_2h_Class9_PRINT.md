@@ -3,6 +3,8 @@
 **Virtud:** TEMPLANZA (v1, dia 4 de 5) · **Modulo:** M5 Numbers to 100 — Count 'em! PARTE 2: Guia 1 "Los Numeros, las Horas, y los Precios" (Libro A1 p.63-64)
 **Frase del Dia:** *"Nine o'clock — I should stop and rest."*
 
+> **HOY SOLO: M5 Guia 1 p.63 reglas 1-6 — la hora y los precios, con los ejemplos p.64; las horas se dicen sueltas o con verbos ya conocidos. NO TOCAR AÚN: la palabra "at" ("a las") ni la pregunta "What time...?" (M6, p.73-74, reglas 4-6) — eso es de Cl 11.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 6 · Cl N-7 = Cl 2):

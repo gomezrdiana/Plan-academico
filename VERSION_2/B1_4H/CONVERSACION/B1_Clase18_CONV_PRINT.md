@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: tejer hablando lo ya visto — used to + was -ing + when + pasado simple + secuencia — en UNA historia limpia; sin regla nueva. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: 'had + participio' (la quinta capa) y el cierre de las cinco formas del pasado — eso es de Cl 19 y 20.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reassemble the tools before building the story.**

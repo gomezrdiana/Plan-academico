@@ -10,6 +10,8 @@
 
 ---
 
+> **HOY SOLO: el gerundio en la silla del SUJETO — gerundio + is + opinion, y su contraste con el presente continuo. NO TOCAR AUN: el gerundio despues de preposicion (before eating) ni el doble verbo con to / -ing (want to rest / love working) — eso es de Cl 26.**
+
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: re-fire irregular perfects and the narrative chain, then load the gerund seat.**

@@ -3,6 +3,8 @@
 **Virtud:** FORTALEZA (v1, dia 3 de 5) · **Modulo:** M10 What Time Did You Arrive? — The Simple Past for Regular Verbs, PARTE 2: la negativa con "didn't", la pregunta con "did", la respuesta corta y "who" (Libro A1 p.125-127, Guia 1 reglas 4-5 + Practica Verbal 2-5, p.131-138)
 **Frase del Dia:** *"I studied. I didn't play. Did you study?"*
 
+> **HOY SOLO: M10 Guia 1 p.125 reglas 4-5 — "didn't", la pregunta con "did" + verbo base, la respuesta corta y "who", siempre con verbos REGULARES (like, love, arrive, visit, help). NO TOCAR AÚN: los verbos irregulares (woke up, got dressed, ate, swam, went to bed) de M11 p.141-142 — eso es de Cl 19.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 15 · Cl N-7 = Cl 11):

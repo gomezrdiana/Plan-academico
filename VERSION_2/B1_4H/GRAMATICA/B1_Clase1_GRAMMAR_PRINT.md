@@ -10,6 +10,8 @@
 
 ---
 
+> **HOY SOLO: la decision closed vs open en AFIRMATIVO — periodo cerrado = simple past, periodo abierto/indefinido = present perfect. NO TOCAR AUN: el negativo didn't vs haven't, las preguntas Have you...? con short answer, ni for/since — eso es de Cl 2.**
+
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: point the past system at the one decision that separates the two pasts — is the time period closed or open?**
@@ -40,7 +42,6 @@ PRESENT PERFECT = accion en un periodo INDEFINIDO o ABIERTO, o no terminada.
    "I have studied for 2 hours." (started in past, not finished)
    "I have studied today."       (today = period still OPEN)
 KEY: "last year" is CLOSED -> simple past.  "this year" is OPEN -> present perfect.
-NEG/QUESTION: "I didn't say hello" = won't happen. "I haven't said hello" = not YET.
 ```
 2. Señala la logica prudente: *"One question decides everything: is the time period closed or still open?"*
 3. **Drill en circulo (10', DE PIE):** cadena. Tu lanzas una frase con marca de tiempo ("call the client / at 2:00") o sin marca ("visit the new office / —"); estudiante 1 dice si es CLOSED o OPEN, estudiante 2 produce la forma correcta, estudiante 3 lanza la siguiente. Velocidad creciente.
@@ -48,7 +49,6 @@ NEG/QUESTION: "I didn't say hello" = won't happen. "I haven't said hello" = not 
    - "Yesterday I have worked" -> "Yesterday I WORKED" (tiempo cerrado = simple past)
    - "I have finished at 2:00" -> "I FINISHED at 2:00" (hora especifica = cerrado)
    - "he have improved" -> "he HAS improved" (3a persona)
-   - "I have studied since 5 years" -> "...FOR 5 years" (since + punto / for + duracion)
 5. **Zone walk (12', DE PIE):** tablero dividido `CLOSED TIME -> SIMPLE PAST | OPEN / INDEFINITE -> PRESENT PERFECT`. Dices una frase con o sin marca de tiempo; las parejas CAMINAN a la zona correcta Y producen la frase transformada en voz alta. El que llega, justifica en 1 linea ("last month is closed").
 6. Cierre del bloque: produccion libre de pie — cada uno: 1 frase de pasado cerrado + 1 "I have..." verdadera sobre su vida. El drill nunca cierra el bloque — cierra el uso libre.
 

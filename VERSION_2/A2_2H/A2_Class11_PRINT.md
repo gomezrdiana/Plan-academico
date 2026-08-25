@@ -3,6 +3,8 @@
 **Virtud:** JUSTICIA (v1, dia 1 de 5 — abre el bloque) · **Modulo:** M13 I already knew that! — Already, Still, and Until, Libro A2 p.107-120
 **Frase del Dia:** *"I have already thanked my team, I am still doing my fair part, and I will stay until the shared work is done."*
 
+> **HOY SOLO: M13 — already / still / until en los tiempos que usa el libro (pasado, presente y futuro simple). NO TOCAR AÚN: while / during / again (eso es de Cl 12) ni el present perfect (*I have already studied*) — eso es de Cl 13.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**

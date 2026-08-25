@@ -1,12 +1,14 @@
 # B1 MASTERY — Cl 29/44 — CONV (va PRIMERO) — HOJA DE RUTA
 
 **Sesion 29/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
-**Repaso comprimido A2 · Aplica oralmente M29 (grados: how ..? / pretty, very, not very) + M30 (enough / so / too).** Grammar los formaliza hoy mismo; aqui NO se enseña la regla.
+**Repaso comprimido A2 · Aplica oralmente M29 (grados: how ..? / pretty, very, not very) + M30 (enough / so / too).** Grammar los formaliza hoy mismo.
 **Focus (1 line):** Talk about how much is just right at work — ask "how ___?", answer with the right intensity, judge what's enough and what's too much.
 **Virtud:** TEMPLANZA v2 — dia 4 de 5
 **Frase del Dia:** *"Temperance knows the right amount: my week is pretty full, the pay is good enough, and nothing is ever too much when I keep my balance."*
 
 ---
+
+> **HOY SOLO USO ORAL DE: el grado hablado — preguntar 'how ___?', responder con intensificador y juzgar con enough / so / too. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: las cantidades y los precios (how many / how much / how much does it cost) — eso es de Cl 30.**
 
 ## BLOQUE 1 — APERTURA (20')
 

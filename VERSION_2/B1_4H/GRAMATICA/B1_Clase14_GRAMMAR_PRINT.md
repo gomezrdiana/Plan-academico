@@ -10,6 +10,8 @@
 
 ---
 
+> **HOY SOLO: expresiones de tiempo pasado — ago despues del periodo, last sin "the", el marcador al final — y el orden con first/then/after that/finally. NO TOCAR AUN: el past continuous was/were + -ing ni el contraste de interrupcion when/while — eso es de Cl 15 y 16.**
+
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: reactivate prior structures and set up time anchoring.**

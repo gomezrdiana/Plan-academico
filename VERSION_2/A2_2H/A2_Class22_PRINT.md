@@ -3,6 +3,8 @@
 **Virtud:** PRUDENCIA (v2, dia 2 de 5) · **Modulo:** M26 I'm as Big as My Dad — Equal Comparatives, Libro A2 p.241-246 (Module 25 no existe en el libro; se salta)
 **Frase del Dia:** *"This choice is as good as that one, but it is not as new — a prudent person compares before deciding."*
 
+> **HOY SOLO: M26 — comparaciones IGUALES: as ... as, not as ... as, almost as ... as. NO TOCAR AÚN: el comparativo desigual (-er / -ier / more ... than, better / worse), eso es de Cl 23; ni el superlativo — eso es de Cl 24.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**

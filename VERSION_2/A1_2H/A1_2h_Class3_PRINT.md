@@ -3,6 +3,8 @@
 **Virtud:** PRUDENCIA (v1, dia 3 de 5) · **Modulo:** M2 What Can You Play? — The Question Word "What" & Subject Pronouns, PARTE 1: los pronombres sujetos (Libro A1 p.19-22)
 **Frase del Dia:** *"We can think before we speak."*
 
+> **HOY SOLO: M2 vocabulario de pronombres sujetos (p.20) + Guia 1 p.21 regla 4 — reemplazar el nombre por el pronombre en el marco con "can". NO TOCAR AÚN: la palabra interrogativa "what" ni la pregunta "What can Juan play?" (p.21, reglas 1-3) — eso es de Cl 4.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl 3: aun no existe Cl N-3 ni Cl N-7 — se recupera de las clases que SI existen, Cl 1 y Cl 2):

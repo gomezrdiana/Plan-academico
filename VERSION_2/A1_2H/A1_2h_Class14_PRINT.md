@@ -3,6 +3,8 @@
 **Virtud:** JUSTICIA (v1, dia 4 de 5) · **Modulo:** M8 Where Do We Eat? — The Simple Present, PARTE 2: la NEGATIVA (don't / doesn't), la PREGUNTA con do/does y las respuestas cortas (Libro A1 p.100, Guia 1 reglas 4-5) + Practica Verbal (p.104-110)
 **Frase del Dia:** *"I don't cut in line. Do you?"*
 
+> **HOY SOLO: M8 Guia 1 p.100 reglas 4-5 — la negativa "don't / doesn't", la pregunta con do/does y las respuestas cortas, con el auxiliar SIEMPRE visible. NO TOCAR AÚN: la omision del auxiliar en la afirmativa y la "-s" del verbo ("He eats...", M9 p.111-112) — eso es de Cl 15.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 11 · Cl N-7 = Cl 7):

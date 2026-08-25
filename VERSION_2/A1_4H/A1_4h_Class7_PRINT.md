@@ -3,6 +3,8 @@
 **Virtud:** TEMPLANZA (v1, dia 2 de 5) · **Modulo:** M10 What Time Did You Arrive? — The Simple Past for Regular Verbs (Libro A1 p.123-140)
 **Frase del Dia:** *"Yesterday I helped and I stayed calm."*
 
+> **HOY SOLO: pasado simple con verbos REGULARES (-ed) — M10. NO TOCAR AÚN: los verbos irregulares (ate, went, woke) — eso es de Cl 8.**
+
 ## BLOQUE 1 (35') — Apertura
 
 - **Recuperacion (12'), oral y DE PIE, en cadena, sin cuaderno:**

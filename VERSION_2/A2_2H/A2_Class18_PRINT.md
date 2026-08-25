@@ -3,6 +3,8 @@
 **Virtud:** FORTALEZA (v1, dia 3 de 5) · **Modulo:** M21 We Shouldn't Swim After Eating — Gerunds after Prepositions, Libro A2 p.197-206
 **Frase del Dia:** *"A brave person thinks before speaking, tries again after failing, and never fights without thinking."*
 
+> **HOY SOLO: M21 — el gerundio despues de una PREPOSICION (before / after / without / about + -ing). NO TOCAR AÚN: los dos verbos juntos, infinitivo vs gerundio segun el primer verbo (*want to play* / *start playing*) — eso es de Cl 19.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**

@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: los habitos viejos hablados — USED TO + verbo base (habito y estado) y WOULD + verbo base (accion repetida). NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: el tejido de las cuatro capas en UNA historia y 'had + participio' — eso es de Cl 18 y 19.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate the past and open the "old habit" frame.**

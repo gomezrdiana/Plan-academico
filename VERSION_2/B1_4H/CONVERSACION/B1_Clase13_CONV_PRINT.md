@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: la pregunta y la negacion habladas del pasado — 'Did you...?' / 'I didn't...' con el verbo en base. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los anclajes de tiempo (ago / last / in / on / at) con el orden first-then-finally, el pasado continuo y la interrupcion con when — eso es de Cl 14, 15 y 16.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate prior structures and open the asking/denying past.**

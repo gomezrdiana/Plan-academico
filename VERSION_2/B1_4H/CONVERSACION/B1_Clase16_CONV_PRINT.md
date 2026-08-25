@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: la combinacion hablada de los dos pasados — accion larga (was -ing) interrumpida por accion corta (when + pasado simple). NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: 'used to / would' para habitos viejos y 'had + participio' (el pasado antes del pasado) — eso es de Cl 17 y 19.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate the past system and add the interruption move.**

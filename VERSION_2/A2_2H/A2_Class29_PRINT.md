@@ -3,6 +3,8 @@
 **Virtud:** TEMPLANZA (v2, dia 4 de 5) · **Modulo:** M33 How Much Money Do You Have? — Specifying Uncountable Quantities (how much / a bit of / a lot of), Libro A2 p.283-292
 **Frase del Dia:** *"How much is enough? Templanza is taking just a bit, not a lot."*
 
+> **HOY SOLO: M33 — cantidades INCONTABLES: how much, unidades (kilo / liter / gallon / glass / bottle), a bit of, a lot of. NO TOCAR AÚN: preguntar y dar PRECIOS con cost / be / each (*How much does it cost?*) — eso es de Cl 30.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**

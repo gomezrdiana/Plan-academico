@@ -10,6 +10,8 @@
 
 ---
 
+> **HOY SOLO: el contraste que cierra M12 — was/were + -ing interrumpido por when + past simple, y while con la accion larga. NO TOCAR AUN: used to / would para habitos y estados pasados, ni el past perfect had + participio — eso es de Cl 17 y 19.**
+
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: wake the past system and point it at the interruption.**

@@ -3,6 +3,8 @@
 **Virtud:** JUSTICIA (v2, dia 5 de 5) · **Modulo:** M41 This Is Interesting! — Participle Adjectives, Libro A2 p.326-332
 **Frase del Dia:** *"An unfair grade is disappointing, but a just person doesn't get annoyed — they stay calm and ask why."*
 
+> **HOY SOLO: M41 — adjetivos con participio: -ING para lo que produce el efecto, -ED para quien lo siente. NO TOCAR AÚN: el verbo *get* para cambios de estado (*She got interested. The movie got boring.*) — eso es de Cl 36.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**

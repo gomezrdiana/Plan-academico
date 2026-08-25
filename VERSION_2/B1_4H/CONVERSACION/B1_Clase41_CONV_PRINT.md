@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: nombrar hablando quien hizo que — everyone contributed, I did it myself, we did it with each other — cerrando el libro B1. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: el armado y el ensayo de la presentacion final — eso es de Cl 42.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate reported speech and question tags, then move to indefinite/reflexive pronouns and the book close.**

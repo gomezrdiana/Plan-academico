@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: el pasado irregular hablado de memoria (went, came, took, brought, thought) mezclado con los regulares. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: 'Did you...? / I didn't...', los anclajes ago/last, el pasado continuo y la interrupcion con when — eso es de Cl 13, 14, 15 y 16.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate prior structures and open the irregular past.**

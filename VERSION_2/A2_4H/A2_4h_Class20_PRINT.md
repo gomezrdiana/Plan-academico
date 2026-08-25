@@ -3,6 +3,8 @@
 **Virtud:** FORTALEZA (v1, dia 5 de 5 — CIERRE del bloque) · **Modulos:** M43 How Do You Do? — Adverbs of Manner (Libro A2 p.340-346) + M44 I Want You to Go — The Active Causative (p.347-352, ULTIMO modulo del libro)
 **Frase del Dia:** *"I want you to work hard and speak clearly — strong people finish well."*
 
+> **HOY SOLO: M43 adverbios de manera (p.340-346) + M44 causativo activo en su UNICA forma del libro: want / need / would like + persona + TO + verbo (p.347-352). NO TOCAR AUN: make / let sin TO, ni have / get + participio — eso es de nivel B1 (el propio libro remite el tema a B1, p.348).**
+
 ## BLOQUE 1 (35') — Apertura
 
 - **Recuperacion (12'), oral y DE PIE, en cadena, sin cuaderno:**

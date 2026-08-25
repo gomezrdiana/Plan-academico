@@ -10,6 +10,8 @@
 
 ---
 
+> **HOY SOLO: do/does + la -s de tercera persona en afirmativo, negativo y pregunta, con la ortografia del -s (works / watches / studies). NO TOCAR AUN: have -> HAS ni los tres sonidos de la -s (-s / -z / -ez) — eso es de Cl 6.**
+
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: recover the negative hinge and switch on the two-auxiliary present.**

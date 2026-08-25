@@ -3,6 +3,8 @@
 **Virtud:** TEMPLANZA (v1, dia 3 de 5) · **Modulo:** M10 I'll Buy Lunch! — The First Conditional, Libro A2 p.75-86 (M9 no existe, se salta)
 **Frase del Dia:** *"If I stay calm, I will choose well; if I rush, I will lose my balance — the steady path is the wise one."*
 
+> **HOY SOLO: M10 — el primer condicional (IF + presente / resultado con WILL). NO TOCAR AÚN: el segundo condicional (*If I had money, I would buy a car*) — eso es de Cl 9.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**

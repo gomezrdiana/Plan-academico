@@ -10,6 +10,8 @@
 
 ---
 
+> **HOY SOLO: negativos y preguntas del past simple — did/didn't + verbo BASE, short answers, y WHO/WHAT como sujeto que conserva el pasado. NO TOCAR AUN: las expresiones ago/last con la secuencia first/then/finally, el past continuous was/were + -ing, ni el contraste when/while — eso es de Cl 14, 15 y 16.**
+
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: reactivate prior structures and set up DID + bare verb.**

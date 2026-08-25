@@ -3,6 +3,8 @@
 **Virtud:** TEMPLANZA (v2, dia 3 de 5) · **Modulo:** M32 How Many People Are There? — Specifying Countable Quantities (how many / a few / a lot of), Libro A2 p.273-282
 **Frase del Dia:** *"How many things do we really need? A person with self-control keeps only a few."*
 
+> **HOY SOLO: M32 — cantidades CONTABLES: how many, many / a lot of / lots of, a few, person-people. NO TOCAR AÚN: las incontables (*how much*, a bit of, kilo / liter), eso es de Cl 29; ni los precios — eso es de Cl 30.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**

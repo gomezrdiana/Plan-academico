@@ -3,6 +3,8 @@
 **Virtud:** PRUDENCIA (v2, dia 3 de 5) · **Modulo:** M27 I'm Smarter than Steve — Unequal Comparatives, Libro A2 p.247-252
 **Frase del Dia:** *"This plan is better than that one because it is simpler, not more complicated — a prudent mind weighs which is worse before it acts."*
 
+> **HOY SOLO: M27 — comparativo DESIGUAL: -er / -ier / more ... than + irregulares better / worse. NO TOCAR AÚN: el superlativo (*the oldest / the most intelligent / the best*) — eso es de Cl 24.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**

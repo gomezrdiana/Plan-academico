@@ -3,6 +3,8 @@
 **Virtud:** FORTALEZA (v1, dia 4 de 5) · **Modulo:** M11 She Ate in the Restaurant — The Simple Past for Irregular Verbs, PARTE 1: vocabulario presente→pasado irregular + la afirmativa (Libro A1 p.141-144, Guia 1 reglas 1-2 + Practica Verbal 1)
 **Frase del Dia:** *"I woke up early, I ate breakfast, and I swam."*
 
+> **HOY SOLO: M11 los 8 pares presente→pasado irregular (p.141-142) y Guia 1 p.142-143 reglas 1-2 — unicamente la AFIRMATIVA (Practica Verbal 1, p.145-146). NO TOCAR AÚN: la negativa con "didn't" ni la construccion de la pregunta con "did" + verbo base (p.143, regla 3) — eso es de Cl 20.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 16 · Cl N-7 = Cl 12):

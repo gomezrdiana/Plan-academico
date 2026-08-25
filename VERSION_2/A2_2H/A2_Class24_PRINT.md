@@ -3,6 +3,8 @@
 **Virtud:** PRUDENCIA (v2, dia 4 de 5) · **Modulo:** M28 You're the Best! — The Superlative, Libro A2 p.253-260
 **Frase del Dia:** *"The wisest choice is not always the newest or the richest — a prudent person names the best reason before deciding."*
 
+> **HOY SOLO: M28 — el SUPERLATIVO (the -est / the -iest / the most / the best - the worst). NO TOCAR AÚN: las preguntas *How + adjetivo?* y los intensificadores very / really / kinda / pretty / not very — eso es de Cl 25.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**

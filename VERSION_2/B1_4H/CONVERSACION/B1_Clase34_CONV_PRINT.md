@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: confirmar hablando con question tags y decidir entre dos opciones (either / neither / both). NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: la deduccion (must / might / could / can't) y el tercer condicional ('what would you have done?') — eso es de Cl 35.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate recent structures, open SU B1 book, aim question tags + two-option decisions.**

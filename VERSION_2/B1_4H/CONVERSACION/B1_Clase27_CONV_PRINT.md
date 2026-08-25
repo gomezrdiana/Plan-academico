@@ -1,12 +1,14 @@
 # B1 MASTERY — Cl 27/44 — CONV (va PRIMERO) — HOJA DE RUTA
 
 **Sesion 27/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
-**Repaso comprimido A2 · Aplica oralmente M23 (no separables: look after / listen to / ask for) + M24 (separables: turn it off / pick her up).** Grammar los formaliza hoy mismo; aqui NO se enseña la regla.
+**Repaso comprimido A2 · Aplica oralmente M23 (no separables: look after / listen to / ask for) + M24 (separables: turn it off / pick her up).** Grammar los formaliza hoy mismo.
 **Focus (1 line):** Talk about the people you handle and the things you switch at work — attention that stays whole, control that moves the little word.
 **Virtud:** TEMPLANZA v2 — dia 2 de 5
 **Frase del Dia:** *"Temperance keeps attention whole and switches noise off: I look after my team, I listen to them, and I turn it off when the day is done."*
 
 ---
+
+> **HOY SOLO USO ORAL DE: los phrasal verbs hablados — los que no se parten (look after her) y los que si, con el pronombre en medio (turn it off). NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: las comparaciones (as good as / better than / the best) y el grado e intensidad (enough / so / too) — eso es de Cl 28 y 29.**
 
 ## BLOQUE 1 — APERTURA (20')
 

@@ -5,6 +5,8 @@
 
 > **CRITICO:** en el Bloque 2 tu CONDUCES y CRONOMETRAS. NO evaluas, NO das nota, NO comentas calidad, criterios ni resultados — eso es de coordinacion. Los errores van a tu LIBRETA PRIVADA con nombres; nunca se comentan al estudiante ni al grupo.
 
+> **HOY SOLO: concordancia 3a persona + there is/are + causativo con want / need / would like + persona + TO + verbo (alcance de M44). NO TOCAR AUN: make / let sin TO ni have / get + participio — eso es de nivel B1.**
+
 ## BLOQUE 1 (35') — Apertura y montaje de la presentacion
 
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno — version corta (hoy hay presentacion):**

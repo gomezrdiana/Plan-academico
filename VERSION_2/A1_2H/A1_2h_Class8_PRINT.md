@@ -3,6 +3,8 @@
 **Virtud:** TEMPLANZA (v1, dia 3 de 5) · **Modulo:** M5 Numbers to 100 — Count 'em! PARTE 1: los numeros 0-100 (Libro A1 p.61-62)
 **Frase del Dia:** *"I should practice thirty minutes every day."*
 
+> **HOY SOLO: M5 vocabulario numerico 0-100 (p.62) y los 7 pares trampa -teen / -ty. NO TOCAR AÚN: la Guia 1 con LA HORA y LOS PRECIOS (p.63-64) — eso es de Cl 9.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (primer dia con el mapa completo: Cl N-3 = Cl 5 · Cl N-7 = Cl 1):

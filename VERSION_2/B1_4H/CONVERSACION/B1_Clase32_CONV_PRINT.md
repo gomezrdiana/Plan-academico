@@ -9,6 +9,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: la posesion y el sentimiento hablados — whose is this / it's mine, hers — y tiring vs tired. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: get + adjetivo (cambio), los adverbios de manera (-ly) y 'I want you to...' — eso es de Cl 33.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate degrees/so-too-enough and gerunds-as-subjects, then aim at ownership and feelings.**

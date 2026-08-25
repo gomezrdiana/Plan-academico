@@ -3,6 +3,8 @@
 **Virtud:** FORTALEZA (v1, dia 2 de 5) · **Modulo:** M10 What Time Did You Arrive? — The Simple Past for Regular Verbs, PARTE 1: vocabulario + el pasado afirmativo con "-ed" (Libro A1 p.123-125, Guia 1 reglas 1-3)
 **Frase del Dia:** *"Yesterday I arrived tired, but I studied and I helped."*
 
+> **HOY SOLO: M10 vocabulario p.124 (like, love, arrive, visit, help) y Guia 1 p.125 reglas 1-3 — el pasado AFIRMATIVO con "-ed" y sin auxiliar; las 3 frases-gancho de la simulacion se leen como bloques fijos, sin explicar su formacion. NO TOCAR AÚN: la negativa "didn't", la construccion de la pregunta con "did", la respuesta corta y la palabra "who" (p.125, reglas 4-5) — eso es de Cl 18.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 14 · Cl N-7 = Cl 10):

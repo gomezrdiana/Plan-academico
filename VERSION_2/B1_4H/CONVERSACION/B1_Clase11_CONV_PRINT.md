@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: el pasado regular hablado — verbo + ED con sus tres sonidos — y un marcador de tiempo en cada frase. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los verbos irregulares, 'did / didn't', los anclajes ago/last, 'was -ing' y la interrupcion con when — eso es de Cl 12, 13, 14, 15 y 16.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate prior structures and open the past machine.**

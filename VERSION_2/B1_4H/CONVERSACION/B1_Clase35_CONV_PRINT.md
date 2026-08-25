@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: juzgar hablando desde la evidencia (must / might / could / can't) y asumir una decision pasada con el tercer condicional recto. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los modales perfectos de arrepentimiento (could have / should have) y los conectores de causa y contraste — eso es de Cl 36.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate two-option decisions + a recent A2-tail structure, then aim deduction + past regret.**

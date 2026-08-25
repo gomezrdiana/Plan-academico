@@ -3,6 +3,8 @@
 **Virtud:** PRUDENCIA (v1, dia 4 de 5) · **Modulo:** M5 The Future in Triplicate — The Three Basic Future Forms, Libro A2 p.31-40 (M4 no existe en el libro; se salta)
 **Frase del Dia:** *"Prudence chooses the right future for each thought: I will help now, I am going to plan today, I am meeting the team on Friday."*
 
+> **HOY SOLO: M5 — las tres formas de futuro (WILL / GOING TO / present continuous). NO TOCAR AÚN: el presente simple para horarios fijos (*The train leaves at 7*) con arrive at / get to — eso es de Cl 5.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:** (primera N-3 real del curso — Cl 4 trae Cl 1; N-7 aun no existe)

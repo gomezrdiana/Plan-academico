@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: el proceso de trabajo hablado en voz pasiva simple (to be + participio), cuando el resultado importa mas que la persona. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: el causativo activo ('I want you to...') y el causativo con have/get + objeto + participio — eso es de Cl 33 y 40.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate the perfect system and used to, then point at processes.**

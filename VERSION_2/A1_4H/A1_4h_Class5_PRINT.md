@@ -3,6 +3,8 @@
 **Virtud:** PRUDENCIA (v1, dia 5 de 5) · **Modulo:** M8 Where Do We Eat? — The Simple Present (Libro A1 p.99-110)
 **Frase del Dia:** *"I do think first — every day."*
 
+> **HOY SOLO: presente simple con auxiliar visible (do/does) — M8. NO TOCAR AÚN: la omisión del auxiliar en afirmativa (he eats, she plays) — eso es de Cl 6.**
+
 ## BLOQUE 1 (35') — Apertura
 
 - **Recuperacion (12'), oral y DE PIE, en cadena, sin cuaderno:**

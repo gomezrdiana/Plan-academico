@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: relevar hablando lo que otros dijeron — she SAID / he TOLD me / they ASKED — sin suavizar el mensaje. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los tiempos perfectos completos (present, past y future perfect + continuos, con for/since/already/yet) — eso es de Cl 39.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate deduction, the third conditional and describing, then step into reporting.**

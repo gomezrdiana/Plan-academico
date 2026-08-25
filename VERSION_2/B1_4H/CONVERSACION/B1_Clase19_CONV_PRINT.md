@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: el pasado antes del pasado hablado — HAD + participio para lo que ya estaba hecho antes del evento principal. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: la mezcla de las cinco formas en una sola historia y el present perfect (have/has + participio) sistematizado — eso es de Cl 20, 21 y 23.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate the story and open a slot BEFORE it.**

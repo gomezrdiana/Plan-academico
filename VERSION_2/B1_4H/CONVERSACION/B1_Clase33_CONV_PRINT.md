@@ -9,6 +9,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: el cambio, la manera y la peticion hablados — I got tired, we worked carefully, I want you to review it — cerrando el libro A2. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: el libro B1: question tags y either / neither / both — eso es de Cl 34.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate quantities/prices and gerunds-after-prepositions, then aim at changes, manner and volition.**

@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: las tres formas habladas de la rutina — 'he works' / 'she doesn't work' / 'do you work?'. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los adverbios de frecuencia (always, usually, never) y las expresiones con numero (twice a week) — eso es de Cl 7 y 8.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate the review arc and open the Present Simple orally.**

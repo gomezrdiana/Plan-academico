@@ -10,6 +10,8 @@
 
 ---
 
+> **HOY SOLO: past perfect — had + participio como el evento ANTERIOR, con by the time / because / before. NO TOCAR AUN: el present perfect have/has + participio (regular e irregular) ni su contraste con el simple past — eso es de Cl 21, 22 y 23.**
+
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: reactivate the story and open a slot BEFORE it.**
@@ -43,7 +45,7 @@ Irregular participle (from A2 Book M16, p.147): gone, taken, seen, done, been, m
        "Before he called, I HAD sent the file."
 Contrast: "When I got there, it started" vs "When I got there, it HAD started."
 ```
-2. Señala la logica: *"HAD carries the tense; the verb wears its PARTICIPLE — the same participle you will meet again next class after HAVE/HAS. Here it lives under HAD."*
+2. Señala la logica: *"HAD carries the tense; the verb wears its PARTICIPLE — the same participle you will meet again in Cl 21 after HAVE/HAS. Here it lives under HAD."*
 3. **Drill en circulo (10', DE PIE):** cadena — tu lanzas 2 eventos ("arrive / finish the report") -> est. 1 ordena cual fue primero, 2 lo dice con "By the time...", 3 con "...because I had...", 4 short answer ("Had you finished? Yes, I had."); el 5 lanza el siguiente par. Velocidad creciente.
 4. **Errores tipicos al board (coro 2x cada correccion):**
    - "I had finish" -> "I had FINISHED" (participio, no bare)

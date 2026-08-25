@@ -3,6 +3,8 @@
 **Virtud:** PRUDENCIA (v1, dia 2 de 5) · **Modulo:** M2 Months and Years — Describing Months and Years, Libro A2 p.13-20
 **Frase del Dia:** *"Prudence measures the calendar before it speaks: I will grow in this year, in every month I choose."*
 
+> **HOY SOLO: M2 — meses, anios leidos en dos grupos de dos y la preposicion IN. NO TOCAR AÚN: los numeros ordinales, la fecha completa (mes + ordinal + anio) y la preposicion ON para el dia del mes — eso es de Cl 3.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Warm-up ligero DE PIE, en cadena, sin cuaderno (8'):** (curso nuevo: aun no hay recuperacion N-3/N-7)

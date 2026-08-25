@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: la rutina hablada en presente — 'I wake up...' / 'she studies...' — con la -s de tercera persona en afirmativo. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: el negativo y la pregunta con do/does, y have/has — eso es de Cl 6.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: recover the negative hinge and switch on the habit tense.**

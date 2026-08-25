@@ -7,6 +7,8 @@
 
 ---
 
+> **HOY SOLO USO ORAL DE: las expresiones de frecuencia con numero habladas (every day, twice a week, once a month) al final de la frase. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: la frecuencia en pasado (used to / would) y las preguntas de cantidad (how many / how much) — eso es de Cl 17 y 30.**
+
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate present simple + the project opener, then open expressions.**

@@ -10,6 +10,8 @@
 
 ---
 
+> **HOY SOLO: past simple REGULAR — las 4 familias de ortografia del -ed, los 3 sonidos del -ed y los marcadores de tiempo. NO TOCAR AUN: los verbos irregulares, el negativo/pregunta con did/didn't, las expresiones ago/last con la secuencia first/then/finally, ni el past continuous was/were + -ing — eso es de Cl 12, 13, 14 y 15.**
+
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: wake prior structures and point them at today's new ending.**
