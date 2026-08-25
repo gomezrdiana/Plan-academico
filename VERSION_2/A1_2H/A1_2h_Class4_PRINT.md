@@ -57,7 +57,7 @@ A la pregunta con "what" NO: "What can Juan play?" -> "Juan can play soccer."
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 4 — DUE: Cl 5 before 7:00 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 4 — DUE: Cl 5 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 (1) ON PAPER: 8 lines about YOUR real people:
     4 questions "What can ... play?" + 4 answers with a pronoun.
     Two of the answers must be negative ("He can't play ..., but he can play ...").

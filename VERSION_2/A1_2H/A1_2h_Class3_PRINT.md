@@ -52,7 +52,7 @@ Juan -> He | Maria -> She | The dog -> It | Juan y yo -> We | Juan y Maria -> Th
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 3 — DUE: Cl 4 before 7:00 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 3 — DUE: Cl 4 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 (1) ON PAPER: 8 sentences about YOUR real people, one person per line:
     first the name, then the same sentence with the pronoun.
     Example: "My mother can play tennis. She can play tennis."

@@ -56,7 +56,7 @@ PARES TRAMPA (marcalos en el tablero):
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 8 — DUE: Cl 9 before 7:00 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 8 — DUE: Cl 9 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 (1) ON PAPER: write in LETTERS (not digits):
     all the numbers from 13 to 20, then 30, 40, 50, 60, 70, 80, 90, 100,
     then 6 real numbers of your life (age, house number, etc.).

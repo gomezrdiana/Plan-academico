@@ -53,7 +53,7 @@ En ingles hacemos exactamente lo mismo, terminando la respuesta con el AUXILIAR:
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 5 — DUE: Cl 6 before 7:00 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 5 — DUE: Cl 6 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 (1) ON PAPER: 10 lines — write the question and the SHORT answer:
     5 positive ("Yes, ... can.") + 5 negative ("No, ... can't.").
     Use I, you, he, she, it, we and they at least once each.

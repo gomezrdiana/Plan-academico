@@ -61,7 +61,7 @@ LOS PRECIOS
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 9 — DUE: Cl 10 before 7:00 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 9 — DUE: Cl 10 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 (1) ON PAPER: write in LETTERS:
     8 clock times (2 "o'clock", 2 with "oh", 4 with minutes)
     + 6 real prices you pay (each one in the long form AND the short form).

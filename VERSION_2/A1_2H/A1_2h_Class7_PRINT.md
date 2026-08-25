@@ -57,7 +57,7 @@ RESPUESTA CORTA: igual que con "can", es simplemente "should" y "shouldn't".
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 7 — DUE: Cl 8 before 7:00 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 7 — DUE: Cl 8 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 (1) ON PAPER: 8 lines about real people you know:
     3 questions "Where should ... live?" + 3 answers with "should live in ...",
     + 2 short answers ("Yes, ... should." / "No, ... shouldn't.").

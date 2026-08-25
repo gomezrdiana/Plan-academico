@@ -62,7 +62,7 @@ Should   | Juan   | play  | soccer?  ->  Should Juan play soccer?
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 6 — DUE: Cl 7 before 7:00 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 6 — DUE: Cl 7 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 (1) ON PAPER: 8 real recommendations for people you know:
     4 with SHOULD + 2 with SHOULDN'T + 2 questions "Should ... play ...?".
     Use a pronoun in at least 4 of them.

@@ -49,7 +49,7 @@ Juan   | can      | ---   | play  | soccer   ->  Juan can play soccer.
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 1 — DUE: Cl 2 before 7:00 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 1 — DUE: Cl 2 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 (1) ON PAPER: 6 affirmative sentences with the frame
     Subject + can + play + sport (use 6 different sports from the board).
     Hand in next class.

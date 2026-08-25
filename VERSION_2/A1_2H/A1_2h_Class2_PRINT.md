@@ -55,7 +55,7 @@ Can      | Juan   | ---   | play  | soccer?  ->  Can Juan play soccer?
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 2 — DUE: Cl 3 before 7:00 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 2 — DUE: Cl 3 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 (1) ON PAPER: 8 sentences with the frame of the module:
     3 affirmative (can) + 3 negative (can't) + 2 questions ("Can ... play ...?").
     Hand in next class.

@@ -61,7 +61,7 @@ Will     | Juan   | play  | soccer?  ->  Will Juan play soccer?
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 10 — DUE: Cl 11 before 7:00 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 10 — DUE: Cl 11 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 (1) ON PAPER: 10 lines about YOUR real tomorrow, using the 7 routine verbs:
     5 affirmative with WILL + 3 negative with WON'T + 2 questions "Will ...?".
     Use a pronoun in at least 4 lines.
