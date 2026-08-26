@@ -70,9 +70,16 @@ Cada una cierra con la variante corta del CTA. Esta serie ES la diferenciación:
 - **Al llegar el primer testimonio real:** salta la fila — se publica de inmediato con el formato tarjeta-cita.
 - Todo post de oferta apunta al **link de la bio → landing → formulario de postulación** (ya funcional).
 
-## 7. PENDIENTES DE PRODUCCIÓN
+## 7. DECISIONES DE CARLOS (26/08)
 
-- [ ] Regenerar captions con CTA nuevo (hecho 26/08 — verificar el Word antes de programar).
-- [ ] Producir las 10 piezas de la tanda nueva (mismas plantillas/paleta oficial del lote).
-- [ ] Nombre propio del método (pendiente de Carlos) — cuando exista, entra a bio + piezas.
+- **El método NO lleva nombre propio** — decisión cerrada. El entregable se llama Radiografía Financiera y punto.
+- **Patrón visual del feed: azul – crema – azul** por fila. Las 15 piezas nuevas (tanda + serie NO SOY) van TODAS en fondo crema (#F8F5F7, texto azul, acentos champagne) e intercaladas 1 crema después de cada 2 azules en el cronograma — el grid queda con el ritmo sin re-hacer las 40 azules.
+- Las 15 nuevas se producen YA (no en semana 3) y se integran al cronograma renumerado POST 01-55.
+
+## 8. PENDIENTES DE PRODUCCIÓN
+
+- [x] Captions con CTA nuevo (26/08).
+- [x] Tanda nueva + serie NO SOY producidas en crema e intercaladas (26/08).
+- [ ] Dominio propio + despliegue (el link actual a veces pide login — para bio pública y pauta se necesita dominio; Carlos compra, yo dejo el paquete de despliegue).
 - [ ] Tabla de benchmarks por industria: arranca con la radiografía #1.
+- [ ] Testimonios: protocolo activo desde la primera entrega.
