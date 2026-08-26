@@ -315,7 +315,22 @@
     .perfil{flex-direction:column}
     .dk{padding:12px 10px}
   }
-</style>
+
+  /* --- postulacion --- */
+  .postu2{max-width:720px;margin:0 auto}
+  .postu2 .plabel{display:block;font-size:13.5px;color:var(--oro-txt);letter-spacing:.04em;text-transform:uppercase;margin:20px 0 8px;font-weight:700}
+  .pchips{display:flex;flex-wrap:wrap;gap:8px}
+  .pchip{padding:11px 18px;border-radius:999px;border:2px solid #B4A177;background:rgba(180,161,119,.12);color:var(--texto);font-size:15px;font-weight:600;cursor:pointer;user-select:none;transition:all .15s ease}
+  .pchip:hover{border-color:#B4A177}
+  .pchip.on{background:#B4A177;color:#0B203C;font-weight:700;border-color:#B4A177}
+  .postu2 input,.postu2 textarea{width:100%;box-sizing:border-box;padding:13px 15px;border-radius:10px;border:2px solid var(--linea);background:var(--carta);color:var(--texto);font-size:16px;font-family:inherit}
+  .postu2 input:focus,.postu2 textarea:focus{outline:none;border-color:#B4A177}
+  .postu2 input::placeholder,.postu2 textarea::placeholder{color:var(--suave);opacity:.75}
+  .postu2 textarea{min-height:96px;resize:vertical}
+  .postu2 .p-err{border-color:#c0392b !important}
+  .p-nota{font-size:13.5px;color:var(--suave);margin-top:14px;text-align:center}
+  .p-btn{display:block;text-align:center;margin-top:24px}
+  </style>
 
 <nav class="nav">
   <div class="wrap">
@@ -347,6 +362,10 @@
   </div>
 </div>
 
+<section class="wrap rev" style="padding-top:34px; padding-bottom:0">
+  <blockquote class="cita" style="margin-left:auto; margin-right:auto; border-left:none; border-top:3px solid var(--oro); padding:18px 0 0; text-align:center; max-width:760px">&ldquo;No soy un consultor ni le vendo un curso: <b>soy el &aacute;rea financiera que su empresa no tiene</b> — un equipo con m&aacute;s de 20 a&ntilde;os de experiencia que entiende su negocio a profundidad.&rdquo;</blockquote>
+</section>
+
 <section class="wrap" id="test">
   <div class="test-card rev">
     <div class="test-head">
@@ -358,8 +377,8 @@
     <div class="resultado" id="resultado" aria-live="polite">
       <div class="veredicto" id="veredicto"></div>
       <p id="explica"></p>
-      <a class="btn btn-verde" id="btn-wa" href="#" target="_blank" rel="noopener">Agendar mi llamada con Carlos</a>
-      <p style="font-size:14px; color:var(--suave); margin-top:14px">Elija el horario que le sirva — atiende él directamente, y en la llamada le comparte un ejemplo real de Radiografía Financiera (3 páginas, se lee en 1 minuto).</p>
+      <a class="btn btn-verde" id="btn-wa" href="#postular">Postular mi empresa</a>
+      <p style="font-size:14px; color:var(--suave); margin-top:14px">Llenarla le toma 2 minutos. Despu&eacute;s, Carlos revisa cada postulaci&oacute;n personalmente y responde en 48 horas &mdash; si su empresa es aceptada, en la llamada le comparte un ejemplo real de Radiograf&iacute;a Financiera</p>
     </div>
   </div>
 </section>
@@ -402,16 +421,16 @@
 
 <section class="wrap rev" id="radiografia">
   <div class="oferta">
-    <span class="sello">Sin costo · 5 cupos al mes</span>
+    <span class="sello">Por postulación · 5 empresas al mes</span>
     <div class="rx">
       <div>
         <span class="eyebrow">El primer paso</span>
         <h2>Radiografía Financiera — 30 días</h2>
-        <p class="precio-linea"><span class="tachado num">$1.200 USD</span> &nbsp;<b>SIN COSTO para las 5 primeras personas que apliquen en el mes</b></p>
+        <p class="precio-linea"><span class="num"><b>Valor: $1.200 USD</b></span> &nbsp;<b>Cada mes acepto 5 empresas que no lo pagan en dinero: lo cubren con su testimonio honesto al final del trabajo.</b></p>
         <p>Usted entrega sus documentos, yo hago el análisis completo y le entrego, en 3 páginas y sin tecnicismos, dónde se le escapa la plata (con montos), cuánto debe vender para no perder, cómo ve un banco su empresa hoy, y los 3 primeros movimientos para corregirlo.</p>
         <p style="margin-top:14px"><span class="garantia">Usted gana de cualquier forma:</span> si hay fugas, sale con los montos exactos y el plan para taparlas. Si no encuentro nada grave, sale con algo que casi ningún empresario tiene — la certeza de una empresa sana y sus números listos para el banco.</p>
         <p style="margin-top:14px"><span class="garantia">Lo único que le pido a cambio es su testimonio honesto.</span> Solo después de entregarle su análisis le presento — si le interesan — las opciones de acompañamiento. Usted decide, sin ninguna obligación.</p>
-        <p style="margin-top:12px; font-size:14px; color:var(--suave)">Cada radiografía me toma días de trabajo — por eso son solo 5 cupos por mes, en orden de llegada.</p>
+        <p style="margin-top:12px; font-size:14px; color:var(--suave)">Cada radiografía me toma días de trabajo — por eso acepto solo 5 empresas al mes, y no por orden de llegada: por potencial de recuperación. Postularse no garantiza el cupo.</p>
         <p style="margin-top:12px"><b>No soy un consultor ni le vendo un curso: soy el área financiera que su empresa no tiene</b> — un equipo con más de 20 años de experiencia que entiende su negocio a profundidad. Porque un financiero que no comprende su negocio lo deja en lo mismo.</p>
       </div>
       <div class="doc-zona" aria-hidden="true">
@@ -431,14 +450,42 @@
   </div>
 </section>
 
+<section class="wrap" id="postular">
+  <div style="text-align:center">
+    <span class="eyebrow">El primer paso no es una llamada &mdash; es una postulaci&oacute;n</span>
+    <h2>Postule su empresa</h2>
+    <p style="margin:0 auto 4px">Llenar su postulaci&oacute;n le toma 2 minutos. Despu&eacute;s, yo reviso personalmente cada una y usted recibe respuesta en 48 horas: <b>aceptada</b>, <b>lista de espera del pr&oacute;ximo mes</b> o <b>no aplica por ahora</b>.</p>
+  </div>
+  <div class="postu2">
+    <label class="plabel" for="p-empresa">1 &middot; Nombre de la empresa y sector</label>
+    <input id="p-empresa" type="text" placeholder="Ej: Distribuciones El Roble &mdash; ferreter&iacute;a al por mayor">
+    <label class="plabel" for="p-ig">2 &middot; Instagram o p&aacute;gina web de la empresa</label>
+    <input id="p-ig" type="text" placeholder="@suempresa o www.suempresa.com">
+    <span class="plabel">3 &middot; &iquest;Hace cu&aacute;ntos a&ntilde;os opera su empresa?</span>
+    <div class="pchips" data-g="anios"><span class="pchip">Menos de 2</span><span class="pchip">Entre 2 y 5</span><span class="pchip">Entre 5 y 10</span><span class="pchip">M&aacute;s de 10</span></div>
+    <span class="plabel">4 &middot; Ventas anuales aproximadas (USD)</span>
+    <div class="pchips" data-g="ventas"><span class="pchip">Menos de USD 250 mil</span><span class="pchip">USD 250 mil a 1 mill&oacute;n</span><span class="pchip">USD 1 a 5 millones</span><span class="pchip">M&aacute;s de USD 5 millones</span></div>
+    <span class="plabel">5 &middot; N&uacute;mero de empleados</span>
+    <div class="pchips" data-g="emp"><span class="pchip">1 a 5</span><span class="pchip">6 a 20</span><span class="pchip">21 a 50</span><span class="pchip">M&aacute;s de 50</span></div>
+    <span class="plabel">6 &middot; &iquest;Tiene contador?</span>
+    <div class="pchips" data-g="cont"><span class="pchip">S&iacute;, con estados financieros al d&iacute;a</span><span class="pchip">S&iacute;, pero sin estados al d&iacute;a</span><span class="pchip">No tengo contador</span></div>
+    <span class="plabel">7 &middot; &iquest;Est&aacute; considerando un cr&eacute;dito en los pr&oacute;ximos 6 meses?</span>
+    <div class="pchips" data-g="cred"><span class="pchip">S&iacute;</span><span class="pchip">No</span><span class="pchip">Tal vez</span></div>
+    <label class="plabel" for="p-dolor">8 &middot; &iquest;Cu&aacute;l es hoy su mayor preocupaci&oacute;n con la plata del negocio?</label>
+    <textarea id="p-dolor" placeholder="Escr&iacute;balo en sus palabras &mdash; esto es lo primero que leo."></textarea>
+    <span class="p-btn"><a class="btn btn-oro" id="p-enviar" href="#" target="_blank" rel="noopener">Enviar mi postulaci&oacute;n</a></span>
+    <p class="p-nota">Se abre WhatsApp con su postulaci&oacute;n lista para enviar.</p>
+  </div>
+</section>
+
 <section class="wrap rev" id="servicios">
   <span class="eyebrow">Después de su radiografía, usted decide hasta dónde lo acompaño</span>
   <h2>Qué recibe en cada etapa</h2>
   <div class="tabla-wrap">
     <table class="paq">
       <tr>
-        <th class="feat">Qué incluye</th>
-        <th class="destacada">Radiografía<span class="precio"><span class="tachado">$1.200</span> SIN COSTO</span><span class="peq">primeros 5 del mes</span></th>
+        <th class="feat" style="text-align:center">Qué incluye</th>
+        <th class="destacada">Radiografía<span class="precio">$1.200 USD</span><span class="peq">5 al mes · se cubre con su testimonio</span></th>
         <th>Tablero mensual<span class="precio">$300 USD</span><span class="peq">al mes</span></th>
         <th>CFO Externo<span class="precio">desde $600 USD</span><span class="peq">al mes · según tamaño</span></th>
       </tr>
@@ -595,8 +642,8 @@
       <p>Los que ya tiene: los estados financieros o el P&amp;L que le entrega su contador, y sus cifras de ventas. Si no los tiene organizados, ese también es un hallazgo — empezamos con lo que haya.</p>
     </details>
     <details>
-      <summary>¿Por qué la radiografía es sin costo? ¿Dónde está el truco?</summary>
-      <p>No hay truco: lo único que pido a cambio es su testimonio honesto, porque la palabra de un empresario real vale más que cualquier publicidad. Las opciones de acompañamiento se presentan solo DESPUÉS de entregarle su análisis — y usted decide sin ninguna obligación.</p>
+      <summary>¿Por qué no me cobra la radiografía en dinero? ¿Dónde está el truco?</summary>
+      <p>Porque no es gratis — es un intercambio. Su radiografía vale $1.200 USD; las 5 empresas que acepto cada mes la cubren con su testimonio honesto, porque la palabra de un empresario real vale más que cualquier publicidad. Las opciones de acompañamiento se presentan solo DESPUÉS de entregarle su análisis — y usted decide sin ninguna obligación.</p>
     </details>
     <details>
       <summary>¿Y si no encuentra nada grave en mi empresa?</summary>
@@ -631,17 +678,19 @@
   </div>
 </section>
 
+
+
 <div class="cta-final rev" id="agendar">
   <div class="wrap">
     <span class="eyebrow" style="color:var(--oro)">Carlos Edo Remolina</span>
     <h2>Más claridad. Mejores decisiones. Nuevas oportunidades.</h2>
     <p><b>Usted ya hizo lo difícil:</b> construyó el producto, encontró el mercado, sostuvo la empresa año tras año. Lo único que falta es lo fácil — y es justo lo que sigue evitando.</p>
     <p style="margin-top:14px">Porque lo que se desangra no es solo plata. Es su familia, es el empleo de su gente, es cada año que le costó llegar hasta aquí. Todo eso, jugado por no tomar la decisión más simple: tener al lado una <b>visión financiera —no administrativa—</b> que respalde cada paso con la misma seguridad con la que construyó su empresa.</p>
-    <p style="margin-top:14px">Haga el test y agende su llamada — en ella le muestro el ejemplo real de la radiografía.</p>
+    <p style="margin-top:14px">Haga el test y postule su empresa — si queda entre las 5 del mes, en la llamada le muestro el ejemplo real de la radiografía.</p>
     <p class="nota"><b style="color:var(--oro)">Regla desde el día uno:</b> nunca manejo su dinero, ni tengo sus claves, ni autorizo pagos. Interpreto la información — usted decide.</p>
     <div class="botones">
       <a class="btn btn-oro" href="#test">Hacer el test</a>
-      <a class="btn btn-verde" id="btn-wa-2" href="#" target="_blank" rel="noopener">Agendar llamada</a>
+      <a class="btn btn-verde" id="btn-wa-2" href="#postular">Postular mi empresa</a>
     </div>
   </div>
 </div>
@@ -652,8 +701,8 @@
 
 <div class="barra" id="barra">
   <div class="wrap">
-    <span class="btxt"><b>Radiografía sin costo</b> — 5 cupos al mes, en orden de llegada.</span>
-    <a class="btn btn-oro" id="fab-wa" href="#" target="_blank" rel="noopener">Agendar llamada</a>
+    <span class="btxt"><b>Radiografía por postulación</b> — 5 empresas al mes · valor $1.200 USD, cubierto con su testimonio.</span>
+    <a class="btn btn-oro" id="fab-wa" href="#postular">Postular mi empresa</a>
   </div>
 </div>
 
@@ -718,14 +767,11 @@
       v.textContent = noes + " de 7 — su negocio le está cobrando la falta de claridad todos los meses.";
       e.textContent = "La buena noticia: eso se encuentra, se mide y se corrige. Y el primer paso no le cuesta nada.";
     }
-    document.getElementById("btn-wa").href = CALENDLY;
     var res = document.getElementById("resultado");
     res.classList.add("visible");
     res.scrollIntoView({behavior:"smooth", block:"nearest"});
   }
 
-  document.getElementById("btn-wa-2").href = CALENDLY;
-  document.getElementById("fab-wa").href = CALENDLY;
 
   // barra fija: aparece al pasar el héroe, se oculta en el cierre (que ya tiene sus botones)
   var barra = document.getElementById("barra");
@@ -743,4 +789,44 @@
     entries.forEach(function(en){ if(en.isIntersecting){ en.target.classList.add("in"); io.unobserve(en.target); } });
   }, {threshold:.12});
   document.querySelectorAll(".rev").forEach(function(el){ io.observe(el); });
+
+  // --- postulacion ---
+  (function(){
+    var sel = {anios:"No indica", ventas:"No indica", emp:"No indica", cont:"No indica", cred:"No indica"};
+    document.querySelectorAll("#postular .pchips").forEach(function(gr){
+      gr.addEventListener("click", function(ev){
+        var c = ev.target.closest(".pchip");
+        if(!c) return;
+        gr.querySelectorAll(".pchip").forEach(function(x){ x.classList.remove("on"); });
+        c.classList.add("on");
+        sel[gr.dataset.g] = c.textContent;
+      });
+    });
+    document.getElementById("p-enviar").addEventListener("click", function(ev){
+      var g = function(id){ return (document.getElementById(id).value || "").trim(); };
+      var empresa = g("p-empresa"), dolor = g("p-dolor");
+      ["p-empresa","p-ig","p-dolor"].forEach(function(id){ document.getElementById(id).classList.remove("p-err"); });
+      var falta = [];
+      if(!empresa) falta.push("p-empresa");
+      if(!g("p-ig")) falta.push("p-ig");
+      if(!dolor) falta.push("p-dolor");
+      if(falta.length){
+        ev.preventDefault();
+        falta.forEach(function(id){ document.getElementById(id).classList.add("p-err"); });
+        document.getElementById(falta[0]).scrollIntoView({behavior:"smooth", block:"center"});
+        return;
+      }
+      var msg = "POSTULACI\u00d3N - RADIOGRAF\u00cdA FINANCIERA\n" +
+        "Empresa y sector: " + empresa + "\n" +
+        "Instagram o web: " + g("p-ig") + "\n" +
+        "A\u00f1os operando: " + sel.anios + "\n" +
+        "Ventas anuales: " + sel.ventas + "\n" +
+        "Empleados: " + sel.emp + "\n" +
+        "Contador: " + sel.cont + "\n" +
+        "Cr\u00e9dito en 6 meses: " + sel.cred + "\n" +
+        "Mi mayor preocupaci\u00f3n con la plata: " + dolor;
+      this.href = "https://wa.me/573102748487?text=" + encodeURIComponent(msg);
+    });
+  })();
+  
 </script>
