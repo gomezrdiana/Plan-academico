@@ -229,7 +229,12 @@
   @media (max-width:640px){ .quien{grid-template-columns:1fr} }
 
   /* ===== testimonios ===== */
-  .testis{display:grid; grid-template-columns:1fr 1fr; gap:18px; margin-top:22px}
+  .testis{overflow:hidden; margin-top:22px; -webkit-mask-image:linear-gradient(90deg,transparent,#000 6%,#000 94%,transparent); mask-image:linear-gradient(90deg,transparent,#000 6%,#000 94%,transparent)}
+  .testi-track{display:flex; gap:18px; width:max-content; animation:banda 55s linear infinite}
+  .testis:hover .testi-track{animation-play-state:paused}
+  @keyframes banda{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+  .testi{flex:0 0 min(86vw, 430px)}
+  @media (prefers-reduced-motion: reduce){ .testis{overflow-x:auto} .testi-track{animation:none} }
   .testi{margin:0; background:var(--carta); border:1px solid var(--linea); border-radius:12px; box-shadow:var(--sombra);
     padding:24px 22px 20px; position:relative}
   .testi::before{content:"\201C"; position:absolute; top:6px; left:16px; font-family:Georgia,serif; font-size:52px; color:var(--oro); opacity:.55; line-height:1}
@@ -238,7 +243,6 @@
   .testi figcaption b{color:var(--titulo)}
   .sk{display:block; height:10px; border-radius:5px; background:var(--linea-suave); margin:9px 0}
   .sk-n{height:9px; margin:2px 0 0}
-  @media (max-width:640px){ .testis{grid-template-columns:1fr} }
 
   .faqs{display:flex; flex-direction:column; gap:10px; margin-top:22px}
   .faqs details{background:var(--carta); border:1px solid var(--linea); border-radius:11px; box-shadow:var(--sombra); overflow:hidden}
@@ -595,15 +599,10 @@
   <span class="eyebrow">Lo que dicen los empresarios</span>
   <h2>Testimonios</h2>
   <div class="testis">
-    <!-- PLANTILLA para llenar con testimonios reales:
-    <figure class="testi">
-      <blockquote>&ldquo;TEXTO DEL TESTIMONIO.&rdquo;</blockquote>
-      <figcaption><b>Nombre Apellido</b> · Cargo — Industria, Ciudad</figcaption>
-    </figure>
-    -->
+  <div class="testi-track">
     <figure class="testi">
       <blockquote>&ldquo;Sinergia Inmobiliaria nació para conectar marcas reconocidas a nivel nacional con las mejores ubicaciones estratégicas del área metropolitana de Bucaramanga. Crecer así de rápido trae una complejidad financiera que no se resuelve solo con buena intuición comercial. Carlos me ayudó a poner en orden esa parte — a entender no solo cuánto estábamos moviendo, sino qué tan sólidas eran esas cifras detrás de cada expansión. Eso me ha dado una seguridad distinta a la hora de tomar decisiones.&rdquo;</blockquote>
-      <figcaption><b>Sergio Contreras</b> · Fundador — Sinergia Inmobiliaria, Bucaramanga</figcaption>
+      <figcaption><b>Sergio Contreras</b> · Fundador — Sinergia Inmobiliaria</figcaption>
     </figure>
     <figure class="testi">
       <blockquote>&ldquo;Operar varios puntos a la vez significa que los números pueden esconder problemas que no se ven a simple vista. Con Carlos construimos un área administrativa y financiera real: dashboards automatizados y un análisis financiero que antes simplemente no existía. Hoy tomo decisiones sobre la operación con información clara, no con intuición — y eso ha cambiado la forma en que dirijo el negocio.&rdquo;</blockquote>
@@ -613,7 +612,20 @@
       <blockquote>&ldquo;En obras civiles, y más en proyectos con el sector petrolero, los márgenes se pueden ver bien en la propuesta y complicarse por completo en la ejecución si no se controla de cerca cada frente financiero. Trabajar con Carlos me dio esa claridad: entender no solo cuánto estábamos facturando, sino qué tan rentable era realmente cada proyecto y qué tan preparados estábamos financieramente para asumir los siguientes. Eso cambia por completo la forma de decidir qué contratos tomar.&rdquo;</blockquote>
       <figcaption><b>Carlos Peña</b> · Gerente — CP Constructores y Transportes</figcaption>
     </figure>
+    <figure class="testi" aria-hidden="true">
+      <blockquote>&ldquo;Sinergia Inmobiliaria nació para conectar marcas reconocidas a nivel nacional con las mejores ubicaciones estratégicas del área metropolitana de Bucaramanga. Crecer así de rápido trae una complejidad financiera que no se resuelve solo con buena intuición comercial. Carlos me ayudó a poner en orden esa parte — a entender no solo cuánto estábamos moviendo, sino qué tan sólidas eran esas cifras detrás de cada expansión. Eso me ha dado una seguridad distinta a la hora de tomar decisiones.&rdquo;</blockquote>
+      <figcaption><b>Sergio Contreras</b> · Fundador — Sinergia Inmobiliaria</figcaption>
+    </figure>
+    <figure class="testi" aria-hidden="true">
+      <blockquote>&ldquo;Operar varios puntos a la vez significa que los números pueden esconder problemas que no se ven a simple vista. Con Carlos construimos un área administrativa y financiera real: dashboards automatizados y un análisis financiero que antes simplemente no existía. Hoy tomo decisiones sobre la operación con información clara, no con intuición — y eso ha cambiado la forma en que dirijo el negocio.&rdquo;</blockquote>
+      <figcaption><b>Juan Gabriel Remolina</b> · CEO — CarWash Points</figcaption>
+    </figure>
+    <figure class="testi" aria-hidden="true">
+      <blockquote>&ldquo;En obras civiles, y más en proyectos con el sector petrolero, los márgenes se pueden ver bien en la propuesta y complicarse por completo en la ejecución si no se controla de cerca cada frente financiero. Trabajar con Carlos me dio esa claridad: entender no solo cuánto estábamos facturando, sino qué tan rentable era realmente cada proyecto y qué tan preparados estábamos financieramente para asumir los siguientes. Eso cambia por completo la forma de decidir qué contratos tomar.&rdquo;</blockquote>
+      <figcaption><b>Carlos Peña</b> · Gerente — CP Constructores y Transportes</figcaption>
+    </figure>
   </div>
+</div>
 </section>
 
 <section class="wrap rev" id="faq">
