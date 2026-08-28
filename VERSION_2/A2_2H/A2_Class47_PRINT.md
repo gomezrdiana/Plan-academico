@@ -41,6 +41,7 @@ Este es REPASO: no se re-explica, se PRODUCE. Recordatorio corto, drill de pie, 
 - El RESTO son observers ACTIVOS con tarea concreta: anotar 2 errores, 1 acierto, 1 pregunta.
 - TU eres coach desde afuera: NUNCA juegas ningun rol. Congelados 15+ seg → UN prompt (*"Is A as good as B? Which is more expensive?"*) y te retiras.
 - Minimos por ronda: 3 comparaciones IGUALES (al menos 1 *not as...as*) · 3 DESIGUALES usando 2+ formas (*-er/-ier/more*) · 1 irregular (*better/worse*) · 2 preguntas del gerente.
+- **MY LIFE (0 min extra):** al cerrar la ronda di: *"This is your MY LIFE piece 4: Two choices in my week, compared."*
 - Rotacion cada 4-5 min (nuevas opciones: dos carros → dos candidatos → dos ciudades) hasta que todos pasen al menos 1 vez.
 - Debrief (5'): observers reportan (anonimo); correcciones al tablero, coro 2x.
 
@@ -58,6 +59,7 @@ HOMEWORK CL 47 — DUE: Cl 48 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 (2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
     Today's topic: "Two choices in my week — how one was better than the
     other, and how they were almost equal."
+    >> This audio is your MY LIFE piece 4 of 7. Keep it for Cl 53.
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion.
@@ -85,3 +87,4 @@ HOMEWORK CL 47 — DUE: Cl 48 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - Virtud: TEMPLANZA v3 (Cl 46-50), hoy dia 2. La Frase del Dia une comparar (as strong as / better than / richer than) con templanza (la calma es tan fuerte como cualquier fuerza; la paciencia vale mas).
 - El libro NO trae seccion de "errores tipicos"; los errores tachados en el Bloque 2 son ayudas de correccion inferidas, no contenido citado del libro.
 - NO comunicar nada de presentaciones/midterm/final; coordinacion maneja.
+- PROYECTO MY LIFE (confirmado por Diana 28/08/2026): anunciado en Cl 44; pieza 4 de 7 hoy = el audio del portafolio. Ensamble Cl 51-52, presentaciones Cl 53. Ver A2_2h_MY_LIFE_INSTRUCTIVO.

@@ -41,6 +41,7 @@ Este es REPASO: no se re-explica, se PRODUCE. El eje es el CONTRASTE de donde va
 - El RESTO son observers ACTIVOS con tarea concreta: anotar 2 errores, 1 acierto, 1 pregunta.
 - TU eres coach desde afuera: NUNCA juegas empleado ni supervisor. Congelados 15+ seg → UN prompt (*"What do you do with the lights? Who do you look after?"*) y te retiras.
 - Minimos por ronda: 3 separables con pronombre EN MEDIO (*turn them on / pick it up / look it up*) · 3 no separables con pronombre AL FINAL (*look after them / listen to her / ask for it*) · 2 preguntas del nuevo.
+- **MY LIFE (0 min extra):** al cerrar la ronda di: *"This is your MY LIFE piece 3: What I turn off to stay calm, and who I look after."*
 - Rotacion cada 4-5 min (cambia el lugar: recepcion → restaurante → oficina) hasta que todos pasen al menos 1 vez.
 - Debrief (5'): observers reportan (anonimo); correcciones al tablero, coro 2x.
 
@@ -58,6 +59,7 @@ HOMEWORK CL 46 — DUE: Cl 47 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     the pronoun IN THE MIDDLE (turn it off, pick her up). Hand in next class.
 (2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
     Today's topic: "What I turn off to stay calm, and who I look after."
+    >> This audio is your MY LIFE piece 3 of 7. Keep it for Cl 53.
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion.
@@ -85,3 +87,4 @@ HOMEWORK CL 46 — DUE: Cl 47 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - Virtud: TEMPLANZA v3 (Cl 46-50), hoy dia 1. La Frase del Dia une los phrasal (turns off / looks after / listens to) con templanza (bajar el ruido, cuidar la calma, escuchar antes de reaccionar).
 - El libro NO trae seccion de "errores tipicos"; los errores tachados en el Bloque 2 son ayudas de correccion inferidas, no contenido citado del libro.
 - NO comunicar nada de presentaciones/midterm/final; coordinacion maneja.
+- PROYECTO MY LIFE (confirmado por Diana 28/08/2026): anunciado en Cl 44; pieza 3 de 7 hoy = el audio del portafolio. Ensamble Cl 51-52, presentaciones Cl 53. Ver A2_2h_MY_LIFE_INSTRUCTIVO.

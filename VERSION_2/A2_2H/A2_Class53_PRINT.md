@@ -71,7 +71,7 @@ ____ Reporte firmado  ____ Error papers  ____ Tickets de salida  ____ Notas priv
 - Cero material del profe: solo papelitos para el orden aleatorio (los escribe en el momento) + su libreta privada.
 
 **NOTA INTERNA:**
-- (SUPUESTO DE PLANEACION — verificar) Formato del proyecto final (7-10 min + 2-3 preguntas, tema "vida real del estudiante") por confirmar por Diana. Coherente con el midterm de Cl 26 (5 min sobre si mismo), extendido a presentacion final.
+- PROYECTO MY LIFE confirmado por Diana (28/08/2026): 7-10 min + 2-3 preguntas, tema "la vida real del estudiante"; piezas 1-7 en Cl 44-50, ensamble Cl 51-52. Ver A2_2h_MY_LIFE_INSTRUCTIVO.
 - Hoy NO hay recuperacion espaciada formal (dia de protocolo, como el midterm Cl 26): la produccion oral de las presentaciones ES la recuperacion integrada de todo el nivel.
 - Numeracion: Cl 53 consume el numero (presentaciones integradas en guia regular, sin marcador separado — regla vigente Diana 31/05).
 - Virtud: SINTESIS (Cl 51-55, integracion de las 4 virtudes — calendario canonico A2 noche), hoy dia 3 de 4 con guia. La Frase del Dia integra FORTALEZA + JUSTICIA (presentar con valor y escuchar con gratitud); el VATS usa una pregunta de sintesis (2 virtudes juntas).

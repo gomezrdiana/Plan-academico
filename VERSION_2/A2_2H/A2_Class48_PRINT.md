@@ -41,6 +41,7 @@ Este es REPASO: no se re-explica, se PRODUCE. Recordatorio corto en tablero, lue
 - El RESTO son observers ACTIVOS con tarea concreta: anotar 2 errores, 1 acierto, 1 pregunta.
 - TU eres coach desde afuera: NUNCA juegas reseñador ni cliente. Congelados 15+ seg → UN prompt (*"Which one is the best? How expensive is it?"*) y te retiras.
 - Minimos por ronda: 5 superlativos (al menos 3 formas: *-est / -iest / the most*) · 1 irregular (*the best / the worst*) · 4 respuestas con intensificador (al menos 1 con *not very*) · 2 preguntas *"How + adj?"*.
+- **MY LIFE (0 min extra):** al cerrar la ronda di: *"This is your MY LIFE piece 5: The best decision I have made this year."*
 - Rotacion cada 4-5 min (nuevo reseñador + otro set de 3 opciones: apps → cafeterias → planes de datos) hasta que todos pasen al menos 1 vez.
 - Debrief (5'): observers reportan (anonimo); correcciones al tablero, coro 2x.
 
@@ -59,6 +60,7 @@ HOMEWORK CL 48 — DUE: Cl 49 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 (2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
     Today's topic: "The best decision I have made this year, and why it
     was better than the easy option."
+    >> This audio is your MY LIFE piece 5 of 7. Keep it for Cl 53.
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion.
@@ -100,3 +102,4 @@ HOMEWORK CL 48 — DUE: Cl 49 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - Virtud: TEMPLANZA v3 (Cl 46-50), hoy dia 3. La Frase del Dia une superlativo + intensificador (calmest / strongest / not very loud / really powerful) con templanza (autocontrol silencioso pero poderoso).
 - El libro NO trae seccion de "errores tipicos"; los errores tachados en el Bloque 2 son ayudas de correccion inferidas del uso real del cohorte, no contenido citado del libro.
 - NO comunicar nada de presentaciones/midterm/final; coordinacion maneja.
+- PROYECTO MY LIFE (confirmado por Diana 28/08/2026): anunciado en Cl 44; pieza 5 de 7 hoy = el audio del portafolio. Ensamble Cl 51-52, presentaciones Cl 53. Ver A2_2h_MY_LIFE_INSTRUCTIVO.

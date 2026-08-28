@@ -67,7 +67,7 @@ ____ Reporte firmado  ____ Error papers  ____ Tickets de salida  ____ Fotos/vide
 - Si un estudiante entra en panico: pausa, respiracion, y le das el arranque (*"Start with your name and your job."*).
 
 **NOTA INTERNA:**
-- (SUPUESTO DE PLANEACION — verificar) Tema/formato del proyecto final por confirmar por Diana (ver NOTA de Cl 51). El ensayo general asume 7-10 min + 2-3 preguntas por estudiante.
+- PROYECTO MY LIFE confirmado por Diana (28/08/2026): 7-10 min + 2-3 preguntas, tema "la vida real del estudiante"; piezas 1-7 en Cl 44-50, ensamble Cl 51-52. Ver A2_2h_MY_LIFE_INSTRUCTIVO.
 - FRONTERA de salida: la tarea de HOY es ENSAYO FINAL de la presentacion + portafolio, DUE Cl 53 (dia de presentaciones) antes de 7:00 PM. Cl 53 = protocolo de presentaciones finales.
 - Recuperacion N-3 (Cl 49) = cantidades/precios; N-7 (Cl 45) = repaso, familias acumuladas (present perfect).
 - Virtud: SINTESIS (Cl 51-55, integracion de las 4 virtudes — calendario canonico A2 noche), hoy dia 2 de 4 con guia. La Frase del Dia integra JUSTICIA + TEMPLANZA (feedback honesto dado con calma); el VATS usa una pregunta de sintesis (2 virtudes juntas).
