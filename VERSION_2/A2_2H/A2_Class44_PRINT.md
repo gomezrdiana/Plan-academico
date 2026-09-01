@@ -11,10 +11,6 @@
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro. NO lo conviertas en explicacion.
 - **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta y ANOTA (no revisas contenido).
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Nota que la frase YA trae voz pasiva (*is made / is decided*): hoy se repasa por que.
-- **PROYECTO DEL NIVEL — ANUNCIO HOY (2 min, guion tal cual, justo despues de la Frase del Dia):**
-
-> **MY LIFE — SE ANUNCIA HOY.** Di exactamente: *"From today we have one project: MY LIFE. On Cl 53 each of you presents YOUR real life in English: 7 to 10 minutes plus 2-3 questions. We build it piece by piece — one piece every class, from today to Cl 50. Your daily audio IS your piece. Keep them all."* NO hables de notas ni criterios (eso es de coordinacion). Lee el INSTRUCTIVO MY LIFE antes de hoy.
-
 - **Revision de tarea Cl 43** (8 frases con present perfect regular+irregular): recoge papeles; 2 estudiantes leen 1 frase. Anota en libreta quien NO entrego.
 
 ## BLOQUE 2 (43') — Repaso activo: PAST vs PERFECT + la VOZ PASIVA
@@ -45,7 +41,6 @@ Este es REPASO: no se re-explica, se PRODUCE. Recordatorio corto, drill de pie, 
 - El RESTO son observers ACTIVOS con tarea concreta: anotar 2 errores, 1 acierto, 1 pregunta.
 - TU eres coach desde afuera: NUNCA juegas ningun rol. Congelados 15+ seg → UN prompt (*"What have you done this shift? What is already prepared?"*) y te retiras.
 - Minimos por ronda: 3 pasivas (2 sin agente) · 2 en pasado con hora especifica · 2 en perfecto con periodo abierto (*already / yet / this shift*) · 2 preguntas.
-- **MY LIFE (0 min extra):** al cerrar la ronda di: *"This is your MY LIFE piece 1: What I did yesterday, what I have done this week, and how things are done at my job."*
 - Rotacion cada 4-5 min (nuevo lugar: recepcion → cocina → bodega → caja) hasta que todos pasen al menos 1 vez.
 - Debrief (5'): observers reportan (anonimo); correcciones al tablero, coro 2x.
 
@@ -64,7 +59,6 @@ HOMEWORK CL 44 — DUE: Cl 45 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 (2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
     Today's topic: "What I did yesterday, what I have done this week, and
     how things are done at my job."
-    >> This audio is your MY LIFE piece 1 of 7. Keep it for Cl 53.
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion.
@@ -99,4 +93,4 @@ HOMEWORK CL 44 — DUE: Cl 45 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - Virtud: PRUDENCIA v3 (Cl 41-45), hoy dia 4. La Frase del Dia une pasiva + past/perfect (is made / studied / have chosen / is decided) con prudencia (decidir despacio, nada sin pensar).
 - El libro NO trae seccion de "errores tipicos"; los errores tachados en el Bloque 2 son ayudas de correccion inferidas, no contenido citado del libro.
 - NO comunicar nada de presentaciones/midterm/final; coordinacion maneja.
-- PROYECTO MY LIFE (confirmado por Diana 28/08/2026): anunciado en Cl 44; pieza 1 de 7 hoy = el audio del portafolio. Ensamble Cl 51-52, presentaciones Cl 53. Ver A2_2h_MY_LIFE_INSTRUCTIVO.
+- PROYECTO MY LIFE: esta clase se dicto SIN anuncio del proyecto (el anuncio se movio a Cl 46, 01/09/2026). El audio del portafolio de hoy cuenta retroactivamente como pieza del proyecto.

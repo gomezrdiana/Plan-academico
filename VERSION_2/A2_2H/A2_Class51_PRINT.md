@@ -15,7 +15,7 @@
 
 ## BLOQUE 2 (43') — Construir el ESQUELETO de la presentacion
 
-- **Encuadre (5'):** recuerda el proyecto MY LIFE (anunciado en Cl 44; hoy se ENSAMBLAN las piezas 1-7 = los audios de Cl 44-50). *"Your final presentation: 7-10 minutes about YOUR real life, plus 2-3 questions from the audience. Today we build the skeleton — five parts — using only the structures of the level."* (NO comunicas notas ni criterios de evaluacion — solo el formato; coordinacion evalua.)
+- **Encuadre (5'):** recuerda el proyecto MY LIFE (anunciado en Cl 46; hoy se ENSAMBLAN las piezas 1-7 = los audios de Cl 44-50). *"Your final presentation: 7-10 minutes about YOUR real life, plus 2-3 questions from the audience. Today we build the skeleton — five parts — using only the structures of the level."* (NO comunicas notas ni criterios de evaluacion — solo el formato; coordinacion evalua.)
 - **Esqueleto en tablero (5 puntos, con las estructuras del nivel):**
   1. **OPENING (30 seg):** saludo + nombre + *"Today I'm going to tell you about my life."*
   2. **PART 1 — MY ROUTINE & WORK/STUDY:** presente simple + gerundios + adverbios de manera. *"I work as a ___. Every day I ___. I do it carefully / quickly."*
@@ -77,7 +77,7 @@ ____ Reporte firmado  ____ Error papers  ____ Tickets de salida  ____ Fotos/vide
 - Cero material impreso del profe: el esqueleto lo escribe el estudiante en su hoja; tu solo escribes los 5 puntos en el tablero.
 
 **NOTA INTERNA:**
-- PROYECTO MY LIFE confirmado por Diana (28/08/2026): tema "la vida real del estudiante", 7-10 min + 2-3 preguntas, anunciado en Cl 44 con 7 piezas (Cl 44-50). Ver A2_2h_MY_LIFE_INSTRUCTIVO.
+- PROYECTO MY LIFE confirmado por Diana (28/08/2026): tema "la vida real del estudiante", 7-10 min + 2-3 preguntas, anunciado en Cl 46 (piezas 1-2 retroactivas de Cl 44-45; piezas 3-7 en Cl 46-50). Ver A2_2h_MY_LIFE_INSTRUCTIVO.
 - Arco de cierre: Cl 51 prep 1 (esqueleto) → Cl 52 prep 2 (ensayo general con observers) → Cl 53 PRESENTACIONES → Cl 54 repaso pre-examen → Cl 55 Final (evaluador externo, sin guia).
 - Recuperacion N-3 (Cl 48) = present perfect + comparativos (documentado en la frontera); N-7 (Cl 44) = repaso, familias acumuladas.
 - Virtud: SINTESIS (Cl 51-55, integracion de las 4 virtudes — calendario canonico A2 noche), hoy dia 1 de 4 con guia. La Frase del Dia integra PRUDENCIA + FORTALEZA (planear la presentacion y atreverse a darla); el VATS usa una pregunta de sintesis (2 virtudes juntas).

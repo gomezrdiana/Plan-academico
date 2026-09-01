@@ -41,7 +41,6 @@ Este es REPASO: no se re-explica, se PRODUCE. Recordatorio corto, drill de pie, 
 - El RESTO son observers ACTIVOS con tarea concreta: anotar 2 errores, 1 acierto, 1 pregunta.
 - TU eres coach desde afuera: NUNCA juegas cliente ni asesor. Congelados 15+ seg → UN prompt (*"What do you want to start doing? Is working late good or bad?"*) y te retiras.
 - Minimos por ronda: 2 gerundios-sujeto · 2 tras preposicion (before/after/without + -ing) · 3 doble verbo (al menos 1 infinitivo y 1 gerundio) · 2 preguntas del asesor.
-- **MY LIFE (0 min extra):** al cerrar la ronda di: *"This is your MY LIFE piece 2: One thing I decided to start and one thing I need to stop."*
 - Rotacion cada 4-5 min (cambia el area: sueño → ejercicio → estudio → trabajo) hasta que todos pasen al menos 1 vez.
 - Debrief (5'): observers reportan (anonimo); correcciones al tablero, coro 2x.
 
@@ -60,7 +59,6 @@ HOMEWORK CL 45 — DUE: Cl 46 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 (2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
     Today's topic: "One thing I decided to start and one thing I need to
     stop — and why doing them is important."
-    >> This audio is your MY LIFE piece 2 of 7. Keep it for Cl 53.
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion.
@@ -90,4 +88,4 @@ HOMEWORK CL 45 — DUE: Cl 46 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - Virtud: PRUDENCIA v3 (Cl 41-45), hoy dia 5 (ultimo). Cl 46 abre TEMPLANZA v3. La Frase del Dia une las 3 formas del gerundio (Thinking / without planning / loves finishing) con prudencia (pensar antes de decidir).
 - El libro NO trae seccion de "errores tipicos"; los errores tachados en el Bloque 2 son ayudas de correccion inferidas, no contenido citado del libro.
 - NO comunicar nada de presentaciones/midterm/final; coordinacion maneja.
-- PROYECTO MY LIFE (confirmado por Diana 28/08/2026): anunciado en Cl 44; pieza 2 de 7 hoy = el audio del portafolio. Ensamble Cl 51-52, presentaciones Cl 53. Ver A2_2h_MY_LIFE_INSTRUCTIVO.
+- PROYECTO MY LIFE: esta clase se dicto SIN anuncio del proyecto (el anuncio se movio a Cl 46, 01/09/2026). El audio del portafolio de hoy cuenta retroactivamente como pieza del proyecto.

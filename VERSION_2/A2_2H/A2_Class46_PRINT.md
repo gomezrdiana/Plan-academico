@@ -11,6 +11,10 @@
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro. NO lo conviertas en explicacion.
 - **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta y ANOTA (no revisas contenido).
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy (trae un separable *turns off* y dos no separables *looks after / listens to*).
+- **PROYECTO DEL NIVEL — ANUNCIO HOY (2 min, guion tal cual, justo despues de la Frase del Dia):**
+
+> **MY LIFE — SE ANUNCIA HOY.** Di exactamente: *"From today we have one project: MY LIFE. On Cl 53 each of you presents YOUR real life in English: 7 to 10 minutes plus 2-3 questions. We build it piece by piece — one piece every class until Cl 50. And good news: your homework audios from the last two classes ALREADY count — those are pieces 1 and 2. Keep all your audios."* NO hables de notas ni criterios (eso es de coordinacion). Lee el INSTRUCTIVO MY LIFE antes de hoy.
+
 - **Revision de tarea Cl 45** (8 frases con las 3 formas del gerundio): recoge papeles; 2 estudiantes leen 1 frase. Anota en libreta quien NO entrego.
 
 ## BLOQUE 2 (43') — Repaso activo: phrasal verbs — NO separables vs SEPARABLES
@@ -87,4 +91,4 @@ HOMEWORK CL 46 — DUE: Cl 47 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - Virtud: TEMPLANZA v3 (Cl 46-50), hoy dia 1. La Frase del Dia une los phrasal (turns off / looks after / listens to) con templanza (bajar el ruido, cuidar la calma, escuchar antes de reaccionar).
 - El libro NO trae seccion de "errores tipicos"; los errores tachados en el Bloque 2 son ayudas de correccion inferidas, no contenido citado del libro.
 - NO comunicar nada de presentaciones/midterm/final; coordinacion maneja.
-- PROYECTO MY LIFE (confirmado por Diana 28/08/2026): anunciado en Cl 44; pieza 3 de 7 hoy = el audio del portafolio. Ensamble Cl 51-52, presentaciones Cl 53. Ver A2_2h_MY_LIFE_INSTRUCTIVO.
+- PROYECTO MY LIFE (confirmado por Diana; anuncio movido a HOY Cl 46 el 01/09/2026 porque las guias 44-45 se dictaron sin el): piezas 1-2 = audios de tarea de Cl 44-45 (retroactivas); pieza 3 de 7 hoy = el audio del portafolio. Ensamble Cl 51-52, presentaciones Cl 53. Ver A2_2h_MY_LIFE_INSTRUCTIVO.
