@@ -838,6 +838,9 @@
         document.getElementById(falta[0]).scrollIntoView({behavior:"smooth", block:"center"});
         return;
       }
+      var nosTest = document.querySelectorAll(".opt.no-on").length;
+      var respTest = document.querySelectorAll(".opt.no-on, .opt.si-on").length;
+      var lineaTest = (respTest === 7) ? (nosTest + " de 7") : "a\u00fan no lo complet\u00e9";
       var msg = "_Hola Carlos, quiero postular mi empresa a la Radiograf\u00eda Financiera. Entiendo que solo acepta 5 empresas al mes \u2014 aqu\u00ed van mis datos:_\n\n*POSTULACI\u00d3N - RADIOGRAF\u00cdA FINANCIERA*\n\n" +
         "*Empresa y sector:* " + empresa + "\n" +
         "*Instagram o web:* " + g("p-ig") + "\n" +
@@ -846,7 +849,8 @@
         "*Empleados:* " + sel.emp + "\n" +
         "*Contador:* " + sel.cont + "\n" +
         "*Cr\u00e9dito en 6 meses:* " + sel.cred + "\n" +
-        "*Mi mayor preocupaci\u00f3n con la plata:* " + dolor + "\n\n_Gracias \u2014 quedo a la espera de saber si mi empresa queda entre las 5 de este mes._";
+        "*Mi mayor preocupaci\u00f3n con la plata:* " + dolor + "\n" +
+        "*Mi resultado del test de los 7 NO:* " + lineaTest + "\n\n_Gracias \u2014 quedo a la espera de saber si mi empresa queda entre las 5 de este mes._";
       this.href = "https://wa.me/573102748487?text=" + encodeURIComponent(msg);
     });
   })();
