@@ -243,12 +243,9 @@
 
   /* ===== testimonios ===== */
   .testis{overflow:hidden; margin-top:22px; -webkit-mask-image:linear-gradient(90deg,transparent,#000 6%,#000 94%,transparent); mask-image:linear-gradient(90deg,transparent,#000 6%,#000 94%,transparent)}
-  .testi-track{display:flex; gap:18px; width:max-content; animation:banda 48s linear infinite}
-  @media (max-width:640px){ .testi-track{animation-duration:70s} }
-  .testis:hover .testi-track{animation-play-state:paused}
-  @keyframes banda{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+  .testi-track{display:flex; gap:18px; width:max-content; will-change:transform}
   .testi{flex:0 0 min(86vw, 430px)}
-  @media (prefers-reduced-motion: reduce){ .testis{overflow-x:auto} .testi-track{animation:none} }
+  @media (prefers-reduced-motion: reduce){ .testis{overflow-x:auto} }
   .testi{margin:0; background:var(--carta); border:1px solid var(--linea); border-radius:12px; box-shadow:var(--sombra);
     padding:24px 22px 20px; position:relative}
   .testi::before{content:"\201C"; position:absolute; top:6px; left:16px; font-family:Georgia,serif; font-size:52px; color:var(--oro); opacity:.55; line-height:1}
@@ -850,6 +847,31 @@
     });
   })();
   
+</script>
+<script>
+(function(){
+  var track = document.querySelector('.testi-track');
+  if (!track) return;
+  if (window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  var x = 0, last = null, paused = false;
+  var speed = (window.innerWidth < 640) ? 22 : 30; // px por segundo
+  var zona = track.parentElement;
+  zona.addEventListener('mouseenter', function(){ paused = true; });
+  zona.addEventListener('mouseleave', function(){ paused = false; });
+  function paso(ts){
+    if (last === null) last = ts;
+    var dt = (ts - last) / 1000; last = ts;
+    if (dt > 0.5) dt = 0; // pestana en segundo plano: no saltar
+    if (!paused){
+      x += speed * dt;
+      var mitad = (track.scrollWidth + 18) / 2;
+      if (mitad > 0 && x >= mitad) x -= mitad;
+      track.style.transform = 'translateX(-' + x + 'px)';
+    }
+    requestAnimationFrame(paso);
+  }
+  requestAnimationFrame(paso);
+})();
 </script>
 
 </body>
