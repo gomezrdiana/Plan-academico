@@ -840,7 +840,12 @@
       }
       var nosTest = document.querySelectorAll(".opt.no-on").length;
       var respTest = document.querySelectorAll(".opt.no-on, .opt.si-on").length;
-      var lineaTest = (respTest === 7) ? (nosTest + " de 7") : "a\u00fan no lo complet\u00e9";
+      var lineaTest;
+      if (respTest === 7) {
+        if (nosTest >= 4) { lineaTest = nosTest + " de 7 \u2014 no me hab\u00eda percatado de que ten\u00eda tantos NO. Realmente me gustar\u00eda trabajar con usted."; }
+        else if (nosTest >= 2) { lineaTest = nosTest + " de 7 \u2014 me qued\u00f3 sonando; quiero ver qu\u00e9 est\u00e1 pasando con mis n\u00fameros."; }
+        else { lineaTest = nosTest + " de 7 \u2014 quiero confirmar que mis n\u00fameros est\u00e1n tan bien como creo."; }
+      } else { lineaTest = "a\u00fan no lo complet\u00e9"; }
       var msg = "_Hola Carlos, quiero postular mi empresa a la Radiograf\u00eda Financiera. Entiendo que solo acepta 5 empresas al mes \u2014 aqu\u00ed van mis datos:_\n\n*POSTULACI\u00d3N - RADIOGRAF\u00cdA FINANCIERA*\n\n" +
         "*Empresa y sector:* " + empresa + "\n" +
         "*Instagram o web:* " + g("p-ig") + "\n" +
