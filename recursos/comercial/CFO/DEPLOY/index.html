@@ -243,7 +243,8 @@
 
   /* ===== testimonios ===== */
   .testis{overflow:hidden; margin-top:22px; -webkit-mask-image:linear-gradient(90deg,transparent,#000 6%,#000 94%,transparent); mask-image:linear-gradient(90deg,transparent,#000 6%,#000 94%,transparent)}
-  .testi-track{display:flex; gap:18px; width:max-content; animation:banda 30s linear infinite}
+  .testi-track{display:flex; gap:18px; width:max-content; animation:banda 48s linear infinite}
+  @media (max-width:640px){ .testi-track{animation-duration:70s} }
   .testis:hover .testi-track{animation-play-state:paused}
   @keyframes banda{from{transform:translateX(0)}to{transform:translateX(-50%)}}
   .testi{flex:0 0 min(86vw, 430px)}
