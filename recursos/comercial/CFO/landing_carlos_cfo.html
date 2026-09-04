@@ -231,6 +231,9 @@
   /* ===== testimonios ===== */
   .testis{overflow:hidden; margin-top:22px; -webkit-mask-image:linear-gradient(90deg,transparent,#000 6%,#000 94%,transparent); mask-image:linear-gradient(90deg,transparent,#000 6%,#000 94%,transparent)}
   .testi-track{display:flex; gap:18px; width:max-content; will-change:transform}
+  .testis{cursor:pointer}
+  .testi-hint{text-align:center; font-size:12.5px; color:var(--suave); margin:10px 0 0}
+  @media (min-width:641px){ .testi-hint{display:none} }
   .testi{flex:0 0 min(86vw, 430px)}
   @media (prefers-reduced-motion: reduce){ .testis{overflow-x:auto} }
   .testi{margin:0; background:var(--carta); border:1px solid var(--linea); border-radius:12px; box-shadow:var(--sombra);
@@ -636,6 +639,7 @@
     </figure>
   </div>
 </div>
+  <p class="testi-hint">Toque la banda para pausar y leer &middot; toque de nuevo para continuar</p>
 </section>
 
 <section class="wrap rev" id="faq">
@@ -845,6 +849,7 @@
   var zona = track.parentElement;
   zona.addEventListener('mouseenter', function(){ paused = true; });
   zona.addEventListener('mouseleave', function(){ paused = false; });
+  zona.addEventListener('click', function(){ paused = !paused; });
   function paso(ts){
     if (last === null) last = ts;
     var dt = (ts - last) / 1000; last = ts;
