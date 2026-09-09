@@ -508,6 +508,7 @@
   var barra = document.getElementById("barra");
   var ctaFinal = document.getElementById("agendar");
   function moverBarra(){
+    if (!barra || !ctaFinal) return;
     var pasoHero = window.scrollY > 420;
     var enCierre = ctaFinal.getBoundingClientRect().top < window.innerHeight * .75;
     barra.classList.toggle("visible", pasoHero && !enCierre);
