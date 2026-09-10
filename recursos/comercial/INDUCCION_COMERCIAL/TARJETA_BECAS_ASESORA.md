@@ -5,14 +5,14 @@
 
 **1. ¿Quién es?** → define su columna de perfil.
 - Estrato 1-2 o SISBÉN (con soporte) → **TRANSFORMACIÓN** (cupos limitados por trimestre)
-- Todos los demás → **PROFESIONAL**
+- Todos los demás → **GENERAL**
 - Ejecutivo / paga empresa → **EJECUTIVO**
 
 **2. ¿Qué compra y cómo paga?** → define su fila.
 
 ## LA MATRIZ (beca efectiva sobre el precio del paquete — ya calculada, solo buscar)
 
-| Compra | TRANSFORMACIÓN (contado / cuotas) | PROFESIONAL (contado / cuotas) | EJECUTIVO (contado / cuotas) |
+| Compra | TRANSFORMACIÓN (contado / cuotas) | GENERAL (contado / cuotas) | EJECUTIVO (contado / cuotas) |
 |---|---|---|---|
 | **A1→B2 completo** | **45%** / 36% | **32%** / 25,6% | 15% / 12% |
 | **A2→B2** | 36% / 27% | 25,6% / **19,2%** | 12% / 9% |
@@ -20,7 +20,7 @@
 | **Solo B2** | 20,3% / 11,3% | 14,4% / 8% | 6,8% / 3,8% |
 | **Nivel suelto / sabatino** | SIN BECA | SIN BECA | SIN BECA |
 
-*Ejemplo: estrato 3, quiere A2→B2 en cuotas → columna Profesional, fila A2→B2, cuotas → **19,2%**.*
+*Ejemplo: estrato 3, quiere A2→B2 en cuotas → columna General, fila A2→B2, cuotas → **19,2%**.*
 
 ## LO QUE SE DICE (guion, tal cual)
 
