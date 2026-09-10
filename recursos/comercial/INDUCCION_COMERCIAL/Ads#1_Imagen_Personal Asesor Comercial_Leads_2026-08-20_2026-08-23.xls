@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                      <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+                       xmlns:x="urn:schemas-microsoft-com:office:excel"
+                       xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+                       xmlns:html="http://www.w3.org/TR/REC-html40">
+                      <Styles>
+                        <Style ss:ID="s17">
+                          <NumberFormat ss:Format="m/d/yy"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s18">
+                          <NumberFormat ss:Format="m/d/yy"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s19">
+                          <NumberFormat ss:Format="m/yy"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s20">
+                          <NumberFormat ss:Format="m/yy"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s21">
+                          <NumberFormat ss:Format="m/d/yy h:mm AM/PM"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s22">
+                          <NumberFormat ss:Format="m/d/yy h:mm AM/PM"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s23">
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s24">
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s25">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s26">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s27">
+                         <NumberFormat ss:Format="0"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s28">
+                         <NumberFormat ss:Format="0"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s29">
+                         <NumberFormat ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* (#,##0.00);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s30">
+                         <NumberFormat ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* (#,##0.00);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s31">
+                         <NumberFormat ss:Format="Percent"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s32">
+                         <NumberFormat ss:Format="Percent"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s33">
+                         <NumberFormat ss:Format="YYYY-mm-dd"/>
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                        </Style>
+                        <Style ss:ID="s34">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s35">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s36">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                      </Styles>
+<Worksheet ss:Name="Sheet1">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="14" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="15" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="16" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="17" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="18" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="19" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="20" ss:AutoFitWidth="0" ss:Width="150"/>
+<Row>
+<Cell ss:StyleID="s24"><Data ss:Type="String">id</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">created_time</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">ad_id</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">ad_name</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">adset_id</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">adset_name</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">campaign_id</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">campaign_name</Data></Cell>
+<Cell ss:StyleID="s24"><Data ss:Type="String">form_id</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">form_name</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">is_organic</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">platform</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">¿cuánta_experiencia_tienes_en_ventas_o_atención_al_cliente?</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">¿qué_es_lo_que_más_te_motiva_de_esta_vacante?</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">¿tienes_disponibilidad_inmediata_para_comenzar_el_proceso_de_selección?</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">full_name</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">phone</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">education_level</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">email</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">lead_status</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1070656478842854</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-22T22:27:35.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">de_6_meses_a_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">las_comisiones_sin_límite_del_5%</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Melissa Hernández Guerra</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573187430009</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">melissahxdz@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1365615698532895</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-22T21:46:34.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">las_comisiones_sin_límite_del_5%</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">tengo_que_dar_aviso_en_mi_empleo_actual</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">𝐂𝐒 𝐀𝐔𝐓𝐎𝐁𝐑𝐎𝐊𝐄𝐑  𝑪𝒂𝒓𝒆𝒍𝒊𝒔 𝑺𝒊𝒆𝒓𝒓𝒂 | 𝐀𝐬𝐞𝐬𝐨𝐫𝐚 𝐄𝐱𝐩𝐞𝐫𝐭𝐚</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573138721059</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">carelissierra@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1061497999807141</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-22T20:12:20.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">de_6_meses_a_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">vane</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573018000156</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1992bohorquez@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1690135238743026</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-22T19:54:47.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">menos_de_6_meses</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">el_sueldo_básico_asegurado</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Katherine</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573022346545</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">kathe172004@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1083506360698773</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-22T19:29:14.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fb</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">menos_de_6_meses</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Fabio Alberto</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573005005363</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fabioalbertoaparicio@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1815794979782958</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-22T18:58:18.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">menos_de_6_meses</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Miguel Martínez</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573135581289</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">migulmar149@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1325209386089434</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-22T17:09:55.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fb</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Luis Fernando chaparro</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573012732592</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fernandoch0822@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">2544740612638594</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-22T16:53:59.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">de_6_meses_a_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">las_comisiones_sin_límite_del_5%</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">tengo_que_dar_aviso_en_mi_empleo_actual</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Giorgia Bermudez</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573187086097</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">gbermudez469@unab.edu.co</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1650064056833386</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-22T16:22:10.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fb</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">las_comisiones_sin_límite_del_5%</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">YAJAIRA ROCÍO RÍOS MARIÑO</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573214480087</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">yayarios15@outlook.es</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1580476436911010</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-22T14:05:05.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fb</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Katherine  Castro</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573022115151</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">poncecastrokatherine@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1077211505263670</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-22T11:34:18.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">las_comisiones_sin_límite_del_5%</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Laura Sofía</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573017601710</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">laurarangel01020@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">37847695708207033</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-22T09:33:13.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">de_6_meses_a_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Juanchito Ag</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573150753000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">juanmanuelarias99@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1037403745737156</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-22T09:02:21.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">de_6_meses_a_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Olga Lucia Max</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573177983635</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">olbemax@hotmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">837912732648543</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-22T04:30:03.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Arianny Pereira</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573011480896</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ariannychiqui151196@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1467776235374038</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-22T01:03:54.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">las_comisiones_sin_límite_del_5%</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Nilton P. Salgado</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">3145348533</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">nilanandrespsalgado@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">892461033630099</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-22T00:50:04.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fb</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">andrés Felipe Cadena Rangel</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573017442788</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Anfelcadena@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1041942558625863</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-21T23:25:29.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">menos_de_6_meses</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">el_sueldo_básico_asegurado</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Paula</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573219404879</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Paulacarreno649@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1349765593809091</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-21T22:33:50.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">el_sueldo_básico_asegurado</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">𝐺𝑒𝑟𝑎𝑙𝑑𝑖𝑛𝑒 𝑀𝑢ñ𝑜𝑧</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573116181425</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Some college / Associate's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">geralmunoz226@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">2015090565810428</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-21T21:14:33.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">menos_de_6_meses</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">las_comisiones_sin_límite_del_5%</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Carolina Duitama</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573232236778</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">cduitamaduran@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1792804185231032</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-21T20:51:35.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">de_6_meses_a_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">las_comisiones_sin_límite_del_5%</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Alan hemir García basto</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573012430936</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">garciabastohemir@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1785919689088510</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-21T18:41:29.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">de_6_meses_a_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">el_sueldo_básico_asegurado</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Jorge Antonio Paez</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573184558627</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">paezandrade1975@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1378045261187554</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-21T18:13:28.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fb</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Andrés F. T. Correa</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573227276779</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fecorreandres@hotmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1061293862956655</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-21T17:53:50.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">de_6_meses_a_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Lizeth Santos</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573112798857</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ds4280712@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">4038297836465620</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-21T17:05:36.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Johan Herrera</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">3118113275</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">johanherrera05@hotmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1028363963338946</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-21T16:18:36.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fb</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">menos_de_6_meses</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">el_sueldo_básico_asegurado</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Sebastian Felipe</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573142728123</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">royerobarreneche@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1606661567826102</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-21T16:15:34.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fb</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">de_6_meses_a_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Miladis Torres</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573004534975</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">miladita17@hotmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1075822125142538</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-21T15:46:56.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fb</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">el_sueldo_básico_asegurado</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Laura Jiménez Durán</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573143766988</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">laurajduran@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1883160655977944</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-21T15:05:53.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fb</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Tatiana Silva</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573180484713</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Fachely03@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1963136184220508</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-21T14:46:49.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">menos_de_6_meses</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">el_sueldo_básico_asegurado</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">josman</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573172470208</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">josmann0808@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">3130478970474642</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-21T14:03:43.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fb</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">de_6_meses_a_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">el_sueldo_básico_asegurado</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Leonardo Andres Hernandez Sampayo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573173734085</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sam_payo86@hotmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1118345943848299</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-21T11:14:08.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">de_6_meses_a_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">el_sueldo_básico_asegurado</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Mariana Arguello</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573227040816</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">marianaalejandraarguello@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1621225769611453</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-21T09:04:23.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">las_comisiones_sin_límite_del_5%</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Shirly Diaz</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573218076880</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">shirlyduarte0199@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1327848376088446</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-20T22:45:46.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">las_comisiones_sin_límite_del_5%</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Genesis Lombana</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573135520854</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">genesis.lombana.dh@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1001947962897959</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-20T19:19:11.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">de_6_meses_a_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Cristian Calderon</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573162382320</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">cristian.calderon960115@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1055534253881957</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-20T17:32:28.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">las_comisiones_sin_límite_del_5%</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Wilmer Riveros Moreno</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573146060821</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Post-graduate degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">wiriverosm@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">2320213588789072</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-20T17:18:34.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">de_6_meses_a_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">el_sueldo_básico_asegurado</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">R. Gabriela Villegas</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573001002597</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">iggabrielavillegas@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1721253695819074</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-20T16:55:28.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fb</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">el_sueldo_básico_asegurado</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Karol Mejia</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573108254269</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">karolmejia0416@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1968351160522675</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-20T14:39:20.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fb</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Héctor Alexander Joya Rangel</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573153951002</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">mekatech24@hotmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1868729530754916</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-20T14:21:20.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fb</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">menos_de_6_meses</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">las_comisiones_sin_límite_del_5%</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Óscar Letelier</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573506652179</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">gonzoscc_357@outlook.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1044862948275984</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-20T13:15:45.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">A s h l y</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573019509135</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">danielabadillo984@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1037391808907457</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-20T10:44:31.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">de_6_meses_a_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">el_sueldo_básico_asegurado</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Sergio Andrés</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573138271806</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Andrescorrea3241@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1590117032769669</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-20T10:40:46.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">ig</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">de_6_meses_a_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">la_oportunidad_de_crecimiento_profesional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sí,_disponibilidad_total</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">genesis</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573108522847</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">High school / GED</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">genesisdocsx@gmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+
+<Row>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1020912407439352</Data></Cell>
+<Cell ss:StyleID="s17"><Data ss:Type="DateTime">2026-08-20T08:55:25.000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601700768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Ads#1_Imagen_Personal Asesor Comercial</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601690768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Advantage+</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">120256120601710768</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Personal_Asesor Comercial_20/08/26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">1795193458324143</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Asesor Comercial 5/8/26, 10:14 am</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">false</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">fb</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">más_de_1_año</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">las_comisiones_sin_límite_del_5%</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">tengo_que_dar_aviso_en_mi_empleo_actual</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Yadira santos solano</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">+573170209972</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Bachelor's degree</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">yadi-1001@hotmail.com</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">complete</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>
