@@ -1,5 +1,5 @@
-# GUÍA DE LA PRUEBA DE UBICACIÓN — CITA Y DÍA 1
-### Para las asesoras comerciales, recepción y profes · 10/09/2026 · La prueba NUNCA sale de la cita como tarea
+# GUÍA DE LA PRUEBA DE UBICACIÓN Y EVALUACIÓN DE INGRESO
+### Para las asesoras comerciales, recepción y profes · 10/09/2026 · La ubicación NUNCA sale de la cita como tarea
 
 ## LA REGLA DE ORO (se le dice así al prospecto)
 
@@ -7,27 +7,14 @@
 
 ## CUÁNDO SE APLICA (la bifurcación de la cita)
 
-- **Empieza de cero** (nunca estudió / no sostiene una frase): NO hay prueba en la cita. Se cierra en el Arranque y su prueba de entrada es el día 1.
-- **"Ya sé algo" o pide la prueba:** se aplican las DOS partes de abajo, EN la cita.
+- **Empieza de cero** (nunca estudió / no sostiene una frase): NO hay prueba en la cita. Se cierra en el Arranque y su evaluación de ingreso se agenda al matricular.
+- **"Ya sé algo" o pide la prueba:** mini-oral de 5 minutos, EN la cita.
 
-## PARTE 1 — PRUEBA ESCRITA EXPRÉS (15 min · la aplica la ASESORA COMERCIAL, no necesita saber inglés)
+## EN LA CITA: SOLO LA MINI-ORAL DE 5 MINUTOS (la aplica UN PROFE — presencial o por videollamada)
 
-La página está en inglés — paso a paso con la traducción de cada botón:
+**En la cita NO se hace examen escrito** — un test largo y difícil golpea al prospecto justo antes de decidir. La mini-oral se siente como una conversación, y es la que define el nivel.
 
-1. Sentar al prospecto en el computador de la sede (o compartirle el link en la cita virtual): **efset.org/quick-check** (gratis, 15 minutos).
-2. Clic en el botón **"Start practice test"** (= empezar el test).
-3. Sale una prueba de SONIDO: un audio pregunta si se escucha bien. Subir el volumen, verificar que el prospecto escuche, y dar **"Continue"** (= continuar).
-4. De ahí el prospecto responde SOLO: 20 preguntas, ~15 min, en dos partes (escuchar y leer). Si entre partes sale otro botón, es "Start"/"Continue" — siempre el botón grande.
-5. Al terminar las preguntas, la página pide DATOS: nombre, apellido, teléfono, correo, año de nacimiento y confirmar. **OJO: se llenan RÁPIDO o la sesión se cierra** y se pierde el resultado.
-   - **En la sede:** los llena LA ASESORA de una — los tiene anotados antes de empezar (los pidió en la cita).
-   - **En cita virtual:** los llena el cliente. La asesora le avisa ANTES de arrancar: *"al final te va a pedir nombre, teléfono, correo y año de nacimiento — llénalos de una, sin pausa, porque si te demoras se cierra y toca repetir todo"*.
-6. Después de confirmar, la pantalla muestra el resultado. La asesora lo traduce y lo anota: **Beginner** = principiante (≈A1) · **Intermediate** = intermedio (≈A2-B1) · **Advanced** = avanzado (≈B1-B2).
-
-Si aparece una pantalla distinta: el botón grande siempre avanza. La asesora no ayuda con las respuestas — solo con los botones. **Este resultado da el RANGO y es la MITAD de la foto** — el nivel exacto lo define la mini-oral.
-
-## PARTE 2 — MINI-ORAL DE 5 MINUTOS (la aplica UN PROFE — presencial o por videollamada de 5 min)
-
-El profe hace estas preguntas EN ORDEN y se detiene cuando el prospecto ya no responde con soltura. La ubicación oral = el último nivel donde respondió cómodo.
+El profe hace estas preguntas EN ORDEN y se detiene cuando el prospecto ya no responde con soltura. La ubicación = el último nivel donde respondió cómodo.
 
 | Nivel que prueba | Pregunta (en inglés) | Qué escuchar |
 |---|---|---|
@@ -36,24 +23,35 @@ El profe hace estas preguntas EN ORDEN y se detiene cuando el prospecto ya no re
 | B1 | Tell me about a difficult situation at work or school and how you solved it. | Narra con conectores, se defiende aunque con errores |
 | B2 | If you could change one thing about your city, what would it be and why? | Opina, hipotetiza, fluye con naturalidad |
 
+**Regla clave:** si hay duda entre dos niveles, se ubica en el MENOR — y se le dice así: *"vamos a asegurar tu base; subir de grupo siempre se puede, y la reubicación no te cuesta nada"*.
+
 **Si NO hay profe disponible en ese momento (regla de plata — evita devoluciones y sorpresas):** NO se le vende todavía ningún paquete de nivel. Se **SEPARA EL CUPO con un abono** (ej. $300.000, que se cruza con su matrícula), la asesora le muestra **los dos precios posibles desde ya** ("si confirmas B1 tu programa queda en $X; si confirmas B2, en $Y — no pierdes en ningún caso") y el contrato se firma DESPUÉS de la mini-oral (día 1, o videollamada de 5 min con un profe dentro de las 48 horas). Así nunca existe un contrato equivocado que devolver, ni un cobro sorpresa.
 
 **Cláusula de ajustes (va en el contrato):** *"La reubicación no genera costo administrativo. Cualquier ajuste de programa se compensa en servicios educativos equivalentes (crédito a niveles, clases personalizadas o refuerzos) — nunca en devolución de dinero."*
 
-## LA DECISIÓN: RESULTADO → QUÉ SE LE OFRECE
+## DESPUÉS DE MATRICULAR: LA EVALUACIÓN DE INGRESO OFICIAL (la de la garantía)
 
-| Ubicación (la MENOR entre escrita y oral) | Producto |
+Es el examen internacional **EF SET de 50 minutos** (gratis y ADAPTATIVO: ajusta la dificultad al nivel de la persona — no maltrata al principiante). Se hace **ANTES de la primera clase, desde la casa del estudiante** — no se necesitan computadores en la sede. Enlace: **efset.org/ef-set-50**
+
+1. Al matricular, se le dice: *"Tu evaluación de ingreso toma 50 minutos. ¿Los tienes ahora, o la agendamos hoy o mañana?"*
+2. Se hace en **VIDEOLLAMADA supervisada: cámara prendida y pantalla compartida** durante todo el examen. Varios estudiantes pueden hacerlo a la vez en una misma videollamada (cámaras prendidas, micrófonos apagados) — una sola persona supervisa.
+3. Reglas de pantalla (la página está en inglés): el botón grande siempre avanza; al inicio hay prueba de sonido ("Continue" = continuar); y se le AVISA ANTES de arrancar: *"al final te pide nombre, teléfono, correo y año de nacimiento — llénalos de una, sin pausa, o se cierra la sesión"*.
+4. El resultado da nivel exacto y certificado: se guarda en la carpeta del estudiante — es la **línea base FIRMADA de la garantía**.
+5. Si el estudiante no tiene equipo en casa: se le agenda el computador de la sede.
+
+## LA DECISIÓN: RESULTADO DE LA MINI-ORAL → QUÉ SE LE OFRECE
+
+| Ubicación (la define la mini-oral) | Producto |
 |---|---|
 | Cero / A1 | **ARRANQUE A1+A2** ($2.990.000, cierre directo) |
 | A2 (terminado o casi) | **Paquete B1→B2 con Fondo de Becas** (ver tarjeta) |
-| B1 | **Solo B2 con Fondo** — confirmando con la mini-oral SÍ o SÍ antes de cerrar |
+| B1 | **Solo B2 con Fondo** — confirmando con la mini-oral SÍ o SÍ antes de firmar |
 | B2 confirmado | Heiiu llega hasta B2: ofrecer **clases personalizadas / plan de conversación avanzada** — se agenda cita con Diana. JAMÁS venderle un nivel que ya tiene |
-
-**Regla clave:** la escrita da el rango; el nivel exacto lo define la oral — y entre las dos, **manda la MENOR**. (El que lee "Advanced" pero habla A2, se ubica por lo que HABLA — y se le explica exactamente así: "tu lectura va adelante; vamos a nivelar tu conversación, que es lo que te está frenando".)
 
 ## LO QUE JAMÁS
 
 - Jamás decir "perdiste/pasaste" — se dice "tu punto de partida es X".
-- Jamás mandar la prueba de tarea ("hágala en la casa y me cuenta") — prospecto perdido.
+- Jamás mandar la ubicación de tarea ("hágala en la casa y me cuenta") — prospecto perdido.
+- Jamás examen escrito EN la cita — la ubicación de la cita es SOLO la mini-oral.
 - Jamás FIRMAR contrato de B1 o B2 sin mini-oral hecha — sin oral solo se separa cupo con abono.
-- El resultado del EF SET de la cita NO reemplaza la evaluación de ingreso del día 1 (esa es la oficial de la garantía, en video).
+- La evaluación de ingreso (EF SET 50 min) NO reemplaza la mini-oral ni al revés: la oral UBICA, el EF SET es la línea base de la garantía.
