@@ -18,7 +18,8 @@ La página está en inglés — paso a paso con la traducción de cada botón:
 2. Clic en el botón **"Start practice test"** (= empezar el test).
 3. Sale una prueba de SONIDO: un audio pregunta si se escucha bien. Subir el volumen, verificar que el prospecto escuche, y dar **"Continue"** (= continuar).
 4. De ahí el prospecto responde SOLO: 20 preguntas, ~15 min, en dos partes (escuchar y leer). Si entre partes sale otro botón, es "Start"/"Continue" — siempre el botón grande.
-5. Al final la pantalla muestra el resultado. La asesora lo traduce y lo anota: **Beginner** = principiante (≈A1) · **Intermediate** = intermedio (≈A2-B1) · **Advanced** = avanzado (≈B1-B2).
+5. Al terminar las preguntas, la página pide DATOS: nombre, apellido, teléfono, correo, año de nacimiento y confirmar. **OJO: se llenan RÁPIDO o la sesión se cierra** y se pierde el resultado. Por eso la asesora tiene esos datos anotados ANTES de empezar el test (los pidió en la cita) y los llena ella misma de una.
+6. Después de confirmar, la pantalla muestra el resultado. La asesora lo traduce y lo anota: **Beginner** = principiante (≈A1) · **Intermediate** = intermedio (≈A2-B1) · **Advanced** = avanzado (≈B1-B2).
 
 Si aparece una pantalla distinta: el botón grande siempre avanza. La asesora no ayuda con las respuestas — solo con los botones. **Este resultado da el RANGO y es la MITAD de la foto** — el nivel exacto lo define la mini-oral.
 
