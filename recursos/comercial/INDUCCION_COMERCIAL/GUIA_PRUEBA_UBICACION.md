@@ -27,7 +27,9 @@ El profe hace estas preguntas EN ORDEN y se detiene cuando el prospecto ya no re
 | B1 | Tell me about a difficult situation at work or school and how you solved it. | Narra con conectores, se defiende aunque con errores |
 | B2 | If you could change one thing about your city, what would it be and why? | Opina, hipotetiza, fluye con naturalidad |
 
-**Si NO hay profe disponible en ese momento:** el cierre no se frena — se matricula con "nivel por confirmar", y la mini-oral se hace el DÍA 1 (la evaluación de ingreso del protocolo de garantía). El contrato ya lo cubre: *"nivel sujeto a confirmación en la evaluación de ingreso; la reubicación no tiene costo"*.
+**Si NO hay profe disponible en ese momento (regla de plata — evita devoluciones y sorpresas):** NO se le vende todavía ningún paquete de nivel. Se **SEPARA EL CUPO con un abono** (ej. $300.000, que se cruza con su matrícula), la asesora le muestra **los dos precios posibles desde ya** ("si confirmas B1 tu programa queda en $X; si confirmas B2, en $Y — no pierdes en ningún caso") y el contrato se firma DESPUÉS de la mini-oral (día 1, o videollamada de 5 min con un profe dentro de las 48 horas). Así nunca existe un contrato equivocado que devolver, ni un cobro sorpresa.
+
+**Cláusula de ajustes (va en el contrato):** *"La reubicación no genera costo administrativo. Cualquier ajuste de programa se compensa en servicios educativos equivalentes (crédito a niveles, clases personalizadas o refuerzos) — nunca en devolución de dinero."*
 
 ## LA DECISIÓN: RESULTADO → QUÉ SE LE OFRECE
 
@@ -44,5 +46,5 @@ El profe hace estas preguntas EN ORDEN y se detiene cuando el prospecto ya no re
 
 - Jamás decir "perdiste/pasaste" — se dice "tu punto de partida es X".
 - Jamás mandar la prueba de tarea ("hágala en la casa y me cuenta") — prospecto perdido.
-- Jamás vender B1 o B2 sin mini-oral hecha (por profe, en cita o día 1).
+- Jamás FIRMAR contrato de B1 o B2 sin mini-oral hecha — sin oral solo se separa cupo con abono.
 - El resultado del EF SET de la cita NO reemplaza la evaluación de ingreso del día 1 (esa es la oficial de la garantía, en video).
