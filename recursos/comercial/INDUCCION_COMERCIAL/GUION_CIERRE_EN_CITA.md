@@ -10,6 +10,8 @@ El que sale de la cita "a pensarlo" casi nunca vuelve — nuestro embudo lo demu
 - **Empieza de cero (la gran mayoría):** no hay nada que diagnosticar antes de pagar. Se cierra HOY en el Arranque A1+A2, y su examen de entrada queda agendado como su primer día (es la línea base de su garantía).
 - **"Ya sé algo" o pide la prueba:** la prueba se hace **EN LA MISMA CITA** — examen exprés de ~15 minutos en el computador de la sede (o por link si la cita es virtual). Sale su nivel estimado y **se cierra ahí mismo en el nivel correcto**: B1→B2 con el Fondo de Becas, o solo B2. Si el tiempo no alcanza: la prueba se agenda YA, con **cupo separado y abono** que se cruza con su matrícula.
 
+**Sobre la trampa en pruebas virtuales: es inofensiva.** La prueba de la cita es estimativa; la ubicación DEFINITIVA es la evaluación presencial y oral del día 1 (la del protocolo de garantía). En el contrato va: *"nivel sujeto a confirmación en la evaluación de ingreso; la reubicación no tiene costo"*. Nadie gana nada haciendo trampa — solo se reubica.
+
 **El principio: la prueba NUNCA sale de la cita como tarea** ("venga después a presentarla" = prospecto perdido). O se hace ahí, o queda agendada con plata sobre la mesa.
 
 ## 2. EL PRODUCTO DE ENTRADA (cómo se dice, palabra por palabra)
@@ -19,6 +21,8 @@ El que sale de la cita "a pensarlo" casi nunca vuelve — nuestro embudo lo demu
 - Es PRECIO, no descuento ni beca. Jamás decir "rebajado de…" ni comparar con la lista. Es el precio de este producto, punto.
 - Incluye: niveles A1 y A2 completos (200 horas certificables), certificado oficial por nivel, libros, examen internacional de entrada y salida, y la Garantía Heiiu.
 - La escalera se siembra en la misma cita: *"Y cuando termine su A2, sube a B1 y B2 con el Fondo de Becas institucional — su beca se gana con su compromiso."* (El Fondo es para los programas completos; este producto no lo necesita.)
+- **EL CIERRE DOBLE (la joya — usarlo en toda cita de principiante):** *"Tiene dos caminos: arranca con A1+A2 por $2.990.000 y decide después — o se compromete hoy con el programa completo y con su beca queda en [ver tarjeta]: sale con B2 y se ahorra más de un millón. ¿Cuál le hago?"* (Las dos respuestas posibles son SÍ.)
+- **Módulo Emprendedor Global:** bono de lanzamiento en AMBOS caminos. Se cursa AL TERMINAR A2 (5 sesiones, calendario único): el del Arranque lo recibe como graduación; el del completo, como hito de mitad de camino.
 - La vigencia/cupos son REALES y se respetan — la urgencia legítima cierra ventas; la falsa destruye la marca (y es sancionable).
 
 ## 3. LAS 3 ANCLAS QUE CIERRAN (usarlas SIEMPRE)
