@@ -5,7 +5,12 @@
 
 El que sale de la cita "a pensarlo" casi nunca vuelve — nuestro embudo lo demuestra. La cita no termina en "le mando la información": termina en matrícula, en lista de espera con fecha, o en un NO claro con el motivo anotado. Esas son las únicas tres salidas.
 
-**La prueba diagnóstica NO es requisito para matricular — es el PRIMER DÍA del estudiante.** La gran mayoría empieza desde cero: no hay nada que diagnosticar antes de pagar. Se matricula hoy y su examen de entrada queda agendado como bienvenida. Si alguien dice "es que yo ya sé algo de inglés": *"Perfecto — el examen de entrada lo ubica en el nivel que le corresponde, garantizado. Usted no pierde ni una clase ni un peso por empezar donde debe."* (Riesgo eliminado — no hay razón para esperar.)
+**LA BIFURCACIÓN (pregunta de 30 segundos, siempre):** *"¿Ha estudiado inglés antes? ¿Puede tener una conversación básica?"*
+
+- **Empieza de cero (la gran mayoría):** no hay nada que diagnosticar antes de pagar. Se cierra HOY en el Arranque A1+A2, y su examen de entrada queda agendado como su primer día (es la línea base de su garantía).
+- **"Ya sé algo" o pide la prueba:** la prueba se hace **EN LA MISMA CITA** — examen exprés de ~15 minutos en el computador de la sede (o por link si la cita es virtual). Sale su nivel estimado y **se cierra ahí mismo en el nivel correcto**: B1→B2 con el Fondo de Becas, o solo B2. Si el tiempo no alcanza: la prueba se agenda YA, con **cupo separado y abono** que se cruza con su matrícula.
+
+**El principio: la prueba NUNCA sale de la cita como tarea** ("venga después a presentarla" = prospecto perdido). O se hace ahí, o queda agendada con plata sobre la mesa.
 
 ## 2. EL PRODUCTO DE ENTRADA (cómo se dice, palabra por palabra)
 
