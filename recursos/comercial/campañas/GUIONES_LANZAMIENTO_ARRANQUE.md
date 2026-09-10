@@ -47,8 +47,31 @@
 
 ---
 
+## GUION 6 — "MODO DICIEMBRE" (la estacionalidad — rodar HOY, es el del momento)
+
+**GANCHO (3 seg):** "'En enero sí empiezo inglés.' — La mentira más vieja de Colombia."
+**DESARROLLO (18 seg):** "Hagamos cuentas: si arrancas AHORA, llegas a diciembre con tu primer nivel certificado — mientras los demás apenas están prometiendo. Y en enero, cuando todos hagan fila para empezar, tú ya vas por el segundo."
+**CIERRE (8 seg):** "Arranque A1+A2: $2.990.000, 20 cupos de lanzamiento. Diciembre está a 3 meses — ¿llegas hablando o llegas prometiendo? Escríbenos."
+**FILMAR:** el anfitrión, tono retador amable + sobreimpreso "¿Llegas hablando o prometiendo?".
+
+## GUION 7 — "EL DEL PAPÁ" (le habla a quien PAGA — papás y mamás)
+
+**GANCHO (3 seg):** "¿Tienes un hijo con alma de emprendedor? De los que venden, inventan, no se quedan quietos…"
+**DESARROLLO (22 seg):** "Esa chispa no se compra — pero sí se puede desperdiciar. Este programa se la pone a trabajar: dos niveles de inglés certificados Y su primer proyecto real — su propia página web, su idea presentada en inglés, su primer contacto con el mundo. No es un curso más: es la primera herramienta seria de su vida productiva."
+**CIERRE (8 seg):** "Arranque A1+A2: $2.990.000, 20 cupos. El mejor regalo de diciembre se decide en septiembre. Escríbenos."
+**FILMAR:** profe o Carelis en tono de "consejo entre padres" + b-roll de un joven en clase y en computador con su landing (con autorización firmada).
+
+## GUION 8 — "EMPRENDEDOR SIN APOYO" (el que quiere pero está solo)
+
+**GANCHO (3 seg):** "Eres emprendedor… pero nadie te está ayudando a arrancar."
+**DESARROLLO (20 seg):** "Aquí no solo aprendes inglés: sales con tu página web publicada, tu perfil para vender afuera, tu cuenta para recibir pagos internacionales — y un salón lleno de gente con tu misma ambición. Dejas de emprender solo. Y con tu inglés y tu proyecto, hasta las convocatorias de capital semilla del país te quedan más cerca."
+**CIERRE (7 seg):** "Arranque A1+A2: $2.990.000, 20 cupos. El apoyo que te faltaba empieza por un mensaje. Escríbenos."
+**FILMAR:** cara a cámara de par (profe joven o alumno con negocio) + tomas de grupo trabajando.
+
+---
+
 ## PLAN DE USO CON BRIAN
 
-- Rodar los 5 HOY (mismo set, misma luz — 1 hora): piezas para 2-3 semanas de pauta.
+- Rodar los 8 HOY (mismo set, misma luz — 1 hora): piezas para 2-3 semanas de pauta.
 - Arranca pauta con G1 (directo) + G2 (miedo) en A/B. G3-G4 de refuerzo a los días. G5 para remarketing.
 - Destino: el bot de WhatsApp con la respuesta del producto cargada. Contador de cupos VERDAD (cuando queden 8, la pauta dice 8).
