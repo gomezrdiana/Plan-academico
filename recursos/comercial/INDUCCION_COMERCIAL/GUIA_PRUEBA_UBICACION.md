@@ -12,9 +12,15 @@
 
 ## PARTE 1 — PRUEBA ESCRITA EXPRÉS (15 min · la aplica la ASESORA COMERCIAL, no necesita saber inglés)
 
-1. Sentar al prospecto en el computador de la sede (o compartirle el link en la cita virtual): **efset.org → EF SET Quick Check** (gratis, 15 minutos, pide solo un correo).
-2. Mide LECTURA y ESCUCHA. Al terminar, la pantalla muestra el nivel estimado (A1, A2, B1, B2…).
-3. La asesora anota el resultado. **Este resultado es la MITAD de la foto** — falta el habla.
+La página está en inglés — paso a paso con la traducción de cada botón:
+
+1. Sentar al prospecto en el computador de la sede (o compartirle el link en la cita virtual): **efset.org/quick-check** (gratis, 15 minutos).
+2. Clic en el botón **"Start practice test"** (= empezar el test).
+3. Sale una prueba de SONIDO: un audio pregunta si se escucha bien. Subir el volumen, verificar que el prospecto escuche, y dar **"Continue"** (= continuar).
+4. De ahí el prospecto responde SOLO: 20 preguntas, ~15 min, en dos partes (escuchar y leer). Si entre partes sale otro botón, es "Start"/"Continue" — siempre el botón grande.
+5. Al final la pantalla muestra el resultado. La asesora lo traduce y lo anota: **Beginner** = principiante (≈A1) · **Intermediate** = intermedio (≈A2-B1) · **Advanced** = avanzado (≈B1-B2).
+
+Si aparece una pantalla distinta: el botón grande siempre avanza. La asesora no ayuda con las respuestas — solo con los botones. **Este resultado da el RANGO y es la MITAD de la foto** — el nivel exacto lo define la mini-oral.
 
 ## PARTE 2 — MINI-ORAL DE 5 MINUTOS (la aplica UN PROFE — presencial o por videollamada de 5 min)
 
@@ -40,7 +46,7 @@ El profe hace estas preguntas EN ORDEN y se detiene cuando el prospecto ya no re
 | B1 | **Solo B2 con Fondo** — confirmando con la mini-oral SÍ o SÍ antes de cerrar |
 | B2 confirmado | Heiiu llega hasta B2: ofrecer **clases personalizadas / plan de conversación avanzada** — se agenda cita con Diana. JAMÁS venderle un nivel que ya tiene |
 
-**Regla clave:** entre la prueba escrita y la oral, **manda la MENOR**. (El que lee B2 pero habla A2, se ubica por lo que HABLA — y se le explica exactamente así: "tu lectura va adelante; vamos a nivelar tu conversación, que es lo que te está frenando".)
+**Regla clave:** la escrita da el rango; el nivel exacto lo define la oral — y entre las dos, **manda la MENOR**. (El que lee "Advanced" pero habla A2, se ubica por lo que HABLA — y se le explica exactamente así: "tu lectura va adelante; vamos a nivelar tu conversación, que es lo que te está frenando".)
 
 ## LO QUE JAMÁS
 
