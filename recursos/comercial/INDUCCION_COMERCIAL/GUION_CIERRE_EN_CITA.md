@@ -1,5 +1,5 @@
 # GUION DE VENTA — CERRAR EN LA CITA · Producto de entrada $2.990.000
-### Para Carelis · 10/09/2026 · Uso interno. Se aprende, se practica en voz alta, se ejecuta.
+### Para las asesoras comerciales · 10/09/2026 · Uso interno. Se aprende, se practica en voz alta, se ejecuta.
 
 ## 1. LA REGLA DE ORO: SE CIERRA HOY
 
@@ -62,4 +62,4 @@ El que sale de la cita "a pensarlo" casi nunca vuelve — nuestro embudo lo demu
 
 - "Patrocinio" NO existe (se dice beca del Fondo). · La tarjeta de becas no se muestra. · No se inventan promociones ni se estiran vigencias. · No se promete visa, empleo, ni "quedar bilingüe en X meses". · Toda matrícula sale con el kit COMPLETO firmado (contrato + plan de pagos + pagaré + carta + garantía + huellas).
 
-**Lo ejecuta: Carelis, desde hoy. Se practica en voz alta con Diana antes de la primera cita.**
+**Lo ejecutan: las asesoras comerciales, desde hoy. Se practica en voz alta con Diana antes de la primera cita.**

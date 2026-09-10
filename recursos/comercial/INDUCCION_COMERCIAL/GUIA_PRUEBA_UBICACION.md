@@ -1,5 +1,5 @@
 # GUÍA DE LA PRUEBA DE UBICACIÓN — CITA Y DÍA 1
-### Para Carelis, Jacqueline y profes · 10/09/2026 · La prueba NUNCA sale de la cita como tarea
+### Para las asesoras comerciales, recepción y profes · 10/09/2026 · La prueba NUNCA sale de la cita como tarea
 
 ## LA REGLA DE ORO (se le dice así al prospecto)
 
@@ -10,11 +10,11 @@
 - **Empieza de cero** (nunca estudió / no sostiene una frase): NO hay prueba en la cita. Se cierra en el Arranque y su prueba de entrada es el día 1.
 - **"Ya sé algo" o pide la prueba:** se aplican las DOS partes de abajo, EN la cita.
 
-## PARTE 1 — PRUEBA ESCRITA EXPRÉS (15 min · la aplica CARELIS, no necesita saber inglés)
+## PARTE 1 — PRUEBA ESCRITA EXPRÉS (15 min · la aplica la ASESORA COMERCIAL, no necesita saber inglés)
 
 1. Sentar al prospecto en el computador de la sede (o compartirle el link en la cita virtual): **efset.org → EF SET Quick Check** (gratis, 15 minutos, pide solo un correo).
 2. Mide LECTURA y ESCUCHA. Al terminar, la pantalla muestra el nivel estimado (A1, A2, B1, B2…).
-3. Carelis anota el resultado. **Este resultado es la MITAD de la foto** — falta el habla.
+3. La asesora anota el resultado. **Este resultado es la MITAD de la foto** — falta el habla.
 
 ## PARTE 2 — MINI-ORAL DE 5 MINUTOS (la aplica UN PROFE — presencial o por videollamada de 5 min)
 
