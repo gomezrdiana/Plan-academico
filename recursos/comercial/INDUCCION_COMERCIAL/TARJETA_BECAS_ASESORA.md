@@ -10,6 +10,8 @@
 
 **2. ¿Qué compra y cómo paga?** → define su fila.
 
+**3. ¿Eres afiliado a Cajasan?** → se pregunta y se ANOTA SIEMPRE (contado o cuotas): el reporte de afiliados atendidos mantiene viva la alianza. BENEFICIO: el afiliado que paga a cuotas recibe la beca de CONTADO de su perfil (verificar carné/certificado). JAMÁS se le envía a pedir crédito a Cajasan — tienen su propio programa de inglés.
+
 ## LA MATRIZ (beca efectiva sobre el precio del paquete — ya calculada, solo buscar)
 
 | Compra | TRANSFORMACIÓN (contado / cuotas) | GENERAL (contado / cuotas) | EJECUTIVO (contado / cuotas) |
@@ -38,9 +40,8 @@ El precio full NUNCA cambia — la beca lo baja según la celda. "Cuotas" es el 
 ## CÓMO SE PAGA (ofrecer EN ESTE ORDEN — Heiiu evita financiar directo)
 
 1. **CONTADO** (la mejor beca): transferencia, efectivo o débito.
-2. **CAJASAN** (si es afiliado): libranza por nómina, cuotas desde $160.000 — financia Cajasan, NO Heiiu. Única academia de inglés en Bucaramanga con este convenio.
-3. **TARJETA DE CRÉDITO del cliente:** para Heiiu es contado (aplica beca de contado) y él difiere con su banco.
-4. **CRÉDITO DIRECTO HEIIU — ÚLTIMO recurso:** beca de cuotas + interés 1,9% mensual sobre saldo. Reserva $100-150 mil día 1 → cuota inicial (mín 20%) máx a 3 días → cuotas desde el día 30. **SIEMPRE pagaré + carta de instrucciones + anexo plan de pagos firmados — sin firmas no hay crédito.**
+2. **TARJETA DE CRÉDITO del cliente:** para Heiiu es contado (aplica beca de contado) y él difiere con su banco.
+3. **CRÉDITO DIRECTO HEIIU — ÚLTIMO recurso:** beca de cuotas (o de contado si es afiliado Cajasan) + interés 1,9% mensual sobre saldo. Reserva $100-150 mil día 1 → cuota inicial (mín 20%) máx a 3 días → cuotas desde el día 30. **SIEMPRE pagaré + carta de instrucciones + anexo plan de pagos firmados — sin firmas no hay crédito.**
 
 ## SI TOCA CRÉDITO DIRECTO: LA CUOTA TIPO (inicial 20% + máximo de cuotas del intensivo)
 
