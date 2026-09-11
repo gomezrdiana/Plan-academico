@@ -30,7 +30,9 @@ Heiiu no vende "clases de inglés". Vende dos cosas que tocan identidad:
 | B2 | 200 h | $2.343.000 |
 | **Programa completo** | **575 h** | **$8.696.000 — este valor NUNCA cambia** |
 
-Reglas: presencial (modelo de grupos máx. 16) · sábados solo A1-A2-B1, por nivel suelto y SIN beca · B2 obligatorio entre semana · no hay horarios rotativos · financiación Cajasan por libranza (cuotas desde ~$158.300; Cajasan aprueba, no Heiiu). Personalizados: $40.000/h nacional · $70.000/h nativo.
+**ARRANQUE A1+A2 (lanzamiento, cohorte 5 oct):** $2.990.000, 20 cupos, precio único SIN becas, desde 17 años. Jornadas, pago, prueba de ubicación y cierre: TODO en el **KIT DE VENTA** (documento hermano de este — se estudian juntos).
+
+Reglas: presencial (modelo de grupos máx. 16) · sábados solo A1-A2-B1, por nivel suelto y SIN beca · B2 obligatorio entre semana · no hay horarios rotativos · convenio Cajasan: se pregunta y REGISTRA la afiliación en toda cita (el reporte sostiene la alianza) y el afiliado que paga a cuotas recibe la beca de contado — pero JAMÁS se envía a nadie a crédito/libranza de Cajasan (tienen programa propio de inglés). Personalizados: $40.000/h nacional · $70.000/h nativo.
 
 📖 Leer: guía v15 §7 · `recursos/docs_estrategia/Heiiu_Blueprint_DEFINITIVO_2026.md` (precios 15.3-BIS).
 
