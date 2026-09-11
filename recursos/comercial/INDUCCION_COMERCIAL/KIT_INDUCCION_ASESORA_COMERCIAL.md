@@ -64,7 +64,7 @@ Estructura de cita: conexión (motivo real del prospecto) → diagnóstico de pe
 
 📖 Leer: `documentos_operativos/comercial/OFERTA_ESCALONADA_CIERRE.md` · `recursos/comercial/productos/ANEXO_GARANTIA_HEIIU.md` · `documentos_operativos/politicas/PROTOCOLO_EF_SET.md` · guía v15 §objeciones (las 15 respuestas, con el dato Duolingo y su fuente al pie).
 
-## MÓDULO 6 — LO QUE NUNCA SE HACE (día 5 — lo que la puede costar el puesto)
+## MÓDULO 6 — LO QUE NUNCA SE HACE (las líneas rojas de la casa)
 
 1. Decir "patrocinio/patrocinador" — el término es beca del Fondo.
 2. Prometer empleo, visa, resultados en X meses, o alianzas/beneficios en construcción (English Points, Gringo Night, VIA).
