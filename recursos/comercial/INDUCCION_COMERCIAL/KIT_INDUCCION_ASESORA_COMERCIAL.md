@@ -1,5 +1,5 @@
 # KIT DE INDUCCIÓN — ASESORA COMERCIAL HEIIU
-### Manual maestro · v1 10/08/2026 · Confidencial — solo uso interno
+### Manual maestro · v2 11/09/2026 · Confidencial — solo uso interno · El PDF entregable se genera con formato de marca (docx en esta carpeta); este md es la fuente de doctrina
 ### Objetivo: que en 2 semanas la nueva comercial venda como el sistema Heiiu, no como le enseñaron en otro lado
 
 > Este documento es el ÍNDICE y el resumen de doctrina. Cada módulo dice qué leer (con ruta), qué dominar y cómo se evalúa. Nada se improvisa: aquí todo ya está escrito — su trabajo es ejecutarlo con calidad humana.
@@ -40,7 +40,7 @@ Reglas: presencial (modelo de grupos máx. 16) · sábados solo A1-A2-B1, por ni
 
 **La palabra "patrocinio" NO EXISTE. Jamás.** (Muerta legalmente — Ley 1480.) El término único es **beca del Fondo**.
 
-**Modelo HÍBRIDO:** el PERFIL define el techo — Transformación 45% (SOLO estrato 1-2/SISBÉN, cupo 30% de matrículas nuevas/trimestre) · Profesional 32% (general) · Ejecutivo 15%. El COMPROMISO define cuánto del techo: A1→B2 contado 100% / cuotas 80% · A2→B2 80/60 · B1→B2 55/35 · B2 45/25 · nivel suelto SIN beca. Tabla completa de becas efectivas: back-office, nunca se muestra al cliente.
+**Modelo HÍBRIDO:** el PERFIL define el techo — Transformación 45% (SOLO estrato 1-2/SISBÉN, cupo 30% de matrículas nuevas/trimestre) · GENERAL 32% · Ejecutivo 15%. El COMPROMISO define cuánto del techo: A1→B2 contado 100% / cuotas 80% · A2→B2 80/60 · B1→B2 55/35 · B2 45/25 · nivel suelto SIN beca. Tabla completa de becas efectivas: back-office, nunca se muestra al cliente.
 
 **Su guion (la postura que hace todo el trabajo):** "Heiiu tiene un Fondo de Becas institucional, administrado por nuestra contaduría. Yo no decido las becas — yo presento tu solicitud y el Fondo la evalúa. Los cupos del nivel Transformación son limitados por trimestre." Ante regateo: "No puedo tocar el porcentaje — el Fondo se audita y una excepción lo tumba para todas las familias. Lo que sí puedo hacer es presentar bien tu caso." Al aprobar: SIEMPRE entrega carta impresa + reglamento.
 
@@ -101,7 +101,7 @@ Estructura de cita: conexión (motivo real del prospecto) → diagnóstico de pe
 
 ## EVALUACIÓN DE DOMINIO (10 preguntas — responder sin consultar)
 
-1. ¿Qué dos cosas compra realmente el estudiante Heiiu? 2. Diga el Big Domino en sus palabras. 3. ¿Por qué está prohibida la palabra "patrocinio" y qué se dice en su lugar? 4. Un prospecto estrato 3 quiere A2→B2 a cuotas: ¿qué beca le corresponde? (Respuesta: Profesional, 19%.) 5. ¿Cuáles son los 5 escalones de la escalera de cierre? 6. El cliente dice "me hacen 40% o no firmo": ¿respuesta exacta? 7. ¿Qué lleva el kit de matrícula completo? 8. ¿Sobre qué se paga su comisión y por qué? 9. Un becado de empresa aliada resulta ser estrato 1: ¿qué beneficio se le aplica? 10. Cliente pide devolución parcial del paquete: ¿qué hace usted?
+1. ¿Qué dos cosas compra realmente el estudiante Heiiu? 2. Diga el Big Domino en sus palabras. 3. ¿Por qué está prohibida la palabra "patrocinio" y qué se dice en su lugar? 4. Un prospecto estrato 3 quiere A2→B2 a cuotas: ¿qué beca le corresponde? (Respuesta: GENERAL, 19,2%.) 5. ¿Cuáles son los 5 escalones de la escalera de cierre? 6. El cliente dice "me hacen 40% o no firmo": ¿respuesta exacta? 7. ¿Qué lleva el kit de matrícula completo? 8. ¿Sobre qué se paga su comisión y por qué? 9. Un becado de empresa aliada resulta ser estrato 1: ¿qué beneficio se le aplica? 10. Cliente pide devolución parcial del paquete: ¿qué hace usted?
 
 ---
 
