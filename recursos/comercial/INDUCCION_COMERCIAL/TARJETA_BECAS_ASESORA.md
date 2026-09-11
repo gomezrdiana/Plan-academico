@@ -51,7 +51,7 @@ El precio full NUNCA cambia — la beca lo baja según la celda. "Cuotas" es el 
 | **B1→B2** (8 cuotas máx) | Inicial $873.154 + 8 de $474.724 | Inicial $920.856 + 8 de $500.659 | Inicial $982.039 + 8 de $533.923 |
 | **Solo B2** (4 cuotas máx) | Inicial $415.648 + 4 de $435.577 | Inicial $431.112 + 4 de $451.783 | Inicial $450.793 + 4 de $472.407 |
 
-Para otra cuota inicial u otro número de cuotas: tabla interna de cuotas (Excel) — nunca calcular a mano frente al cliente.
+**REGLA DEL CRÉDITO: el estudiante termina de PAGAR antes de terminar el programa** — el máximo de cuotas depende de la modalidad. La tabla usa los máximos del INTENSIVO (10h/sem: completo ~14 meses, A2→B2 ~12, B1→B2 ~9, Solo B2 ~5). En SUPER INTENSIVO (20h/sem) el programa dura la mitad: completo y A2→B2 máx 5 cuotas · B1→B2 máx 3 · Solo B2 prácticamente de contado. Para otros escenarios: MOTOR_CUOTAS_FONDO_2026.xlsx (interno) — nunca calcular a mano frente al cliente.
 
 ## VIGENCIA DE LA OFERTA (el "voy a buscar la plata")
 
