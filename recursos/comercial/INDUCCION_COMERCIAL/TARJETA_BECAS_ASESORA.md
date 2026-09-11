@@ -41,7 +41,7 @@ El precio full NUNCA cambia — la beca lo baja según la celda. "Cuotas" es el 
 
 1. **CONTADO** (la mejor beca): transferencia, efectivo o débito.
 2. **TARJETA DE CRÉDITO del cliente:** para Heiiu es contado (aplica beca de contado) y él difiere con su banco.
-3. **CRÉDITO DIRECTO HEIIU — ÚLTIMO recurso:** beca de cuotas (o de contado si es afiliado Cajasan) + interés 1,9% mensual sobre saldo. Reserva $100-150 mil día 1 → cuota inicial (mín 20%) máx a 3 días → cuotas desde el día 30. **SIEMPRE pagaré + carta de instrucciones + anexo plan de pagos firmados — sin firmas no hay crédito.**
+3. **CRÉDITO DIRECTO HEIIU — ÚLTIMO recurso:** beca de cuotas (o de contado si es afiliado Cajasan) + interés 1,9% mensual sobre saldo. Separación de cupo $300.000 (se cruza con la inicial) → cuota inicial (mín 20%) máx a 3 días → cuotas desde el día 30. **SIEMPRE pagaré + carta de instrucciones + anexo plan de pagos firmados — sin firmas no hay crédito.**
 
 ## SI TOCA CRÉDITO DIRECTO: LA CUOTA TIPO (inicial 20% + máximo de cuotas del intensivo)
 
@@ -60,6 +60,7 @@ El precio full NUNCA cambia — la beca lo baja según la celda. "Cuotas" es el 
 - Con **abono de separación ($300.000)**: cupo + precio congelados **7 días** calendario.
 - Sin abono, a las 72h la beca **VENCE** y vuelve al Fondo — se puede re-presentar, sin garantizar el mismo % ni el cupo.
 - Seguimiento pautado: mismo día resumen escrito → +24h mensaje → +48h llamada → día 3: "vence hoy".
+- **LA FECHA SE CUMPLE.** Si venció, venció — una sola excepción conocida y el Fondo pierde toda su fuerza.
 - El escudo: *"Yo no puedo extenderla — el Fondo audita las fechas."*
 
 ## LO QUE SE DICE (guion, tal cual)

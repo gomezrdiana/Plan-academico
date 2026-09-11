@@ -12,7 +12,7 @@
 
 ## LA SESIÓN DE UBICACIÓN (~1 hora, por videollamada, ANTES de decidir)
 
-Se agenda desde la cita, lo antes posible: *"¿Tienes 50 minutos ahora saliendo de aquí, o esta tarde?"*. Para congelar el cupo y el precio de lanzamiento mientras tanto: **abono de separación** (ej. $300.000, se cruza con la matrícula).
+Se agenda desde la cita, lo antes posible: *"¿Tienes 50 minutos ahora saliendo de aquí, o esta tarde?"*. Para congelar el cupo y el precio de lanzamiento mientras tanto: **abono de separación** ($300.000, se cruza con la matrícula).
 
 1. El prospecto hace el examen internacional **EF SET de 50 minutos** (gratis y ADAPTATIVO: ajusta la dificultad al nivel — no maltrata a nadie), desde su casa. Enlace: **efset.org/ef-set-50**
 2. TODO el examen en **videollamada supervisada: cámara prendida y pantalla compartida**. (Varios prospectos a la vez en una misma videollamada — cámaras prendidas, micrófonos apagados — una sola persona supervisa.)
