@@ -1,6 +1,6 @@
 # FONDO DE BECAS HEIIU — Reglamento + artefactos operativos
 
-> Borrador 07/07/2026 · **v2 10/08/2026: Artículo 3 pasa a modelo HÍBRIDO por decisión de Diana (perfil = techo, compromiso = cuánto del techo)** — re-pasar por contaduría + abogado. Reemplaza TODA narrativa de "patrocinador". Diseño según decisión Diana 06/07: administración por contaduría externa, Diana sin facultad de excepción.
+> Borrador 07/07/2026 · v2 10/08/2026 modelo híbrido · **v3 11/09/2026: Profesional→GENERAL, porcentajes exactos (alineados a tarjeta/kit/motor), art. 3.4 beneficio Cajasan, art. 6 vigencia 72h/7días. ENTREGABLE IMPRIMIBLE: REGLAMENTO_FONDO_Y_CARTA_IMPRIMIBLE.pdf (esta carpeta)** — re-pasar por contaduría + abogado. Reemplaza TODA narrativa de "patrocinador". Diseño según decisión Diana 06/07: administración por contaduría externa, Diana sin facultad de excepción.
 
 ## 1. REGLAMENTO DEL FONDO (1 página — se imprime y se muestra)
 
@@ -10,7 +10,7 @@
 
 **Artículo 3 — Niveles de beca y cupos (modelo híbrido, ajuste 10/08/2026: el PERFIL define el techo, el COMPROMISO define cuánto del techo se otorga).**
 
-*3.1 Techo por perfil:* (a) Beca Transformación — techo 45%: exclusiva para aspirantes de estrato 1-2 / SISBÉN, máximo 30% de las matrículas nuevas por trimestre. (b) Programa Profesional — techo 32%: nivel general, sin límite de cupos. (c) Programa Ejecutivo — techo 15%. (d) Sin beca — tarifa plena (incluye todo cliente empresarial). Los porcentajes aplican sobre la tarifa pública vigente.
+*3.1 Techo por perfil:* (a) Beca Transformación — techo 45%: exclusiva para aspirantes de estrato 1-2 / SISBÉN, máximo 30% de las matrículas nuevas por trimestre. (b) GENERAL — techo 32%: sin límite de cupos. (c) Programa Ejecutivo — techo 15%. (d) Sin beca — tarifa plena (incluye todo cliente empresarial). Los porcentajes aplican sobre la tarifa pública vigente.
 
 *3.2 Factor de compromiso (porcentaje del techo que se otorga, según paquete y forma de pago):* programa completo A1→B2: contado 100% · cuotas 80% — A2→B2: 80% · 60% — B1→B2: 55% · 35% — B2 solo: 45% · 25% — nivel suelto sin camino a B2: sin beca.
 
@@ -38,7 +38,7 @@
 > Este beneficio está sujeto al Reglamento del Fondo (adjunto), en particular a las condiciones de permanencia del Artículo 4. El estudiante y su acudiente declaran conocerlas y aceptarlas.
 > Firma administración del Fondo: ____________ · Firma estudiante/acudiente: ____________
 
-## 3. GUION PARA MARÍA EUGENIA (cierre en cita)
+## 3. GUION PARA LA ASESORA COMERCIAL (cierre en cita)
 
 - Presentación: *"Heiiu tiene un Fondo de Becas institucional, administrado por nuestra contaduría. Yo no decido las becas — yo presento tu solicitud y el Fondo la evalúa. Los cupos del nivel Transformación son limitados por trimestre."*
 - Ante presión/regateo: *"No puedo tocar el porcentaje — el Fondo se audita y una excepción lo tumba para todas las familias. Lo que sí puedo hacer es presentar bien tu caso."*
