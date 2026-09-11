@@ -1,6 +1,6 @@
 # KIT DE INDUCCIÓN — ASESORA COMERCIAL HEIIU
 ### Manual maestro · v2 11/09/2026 · Confidencial — solo uso interno · El PDF entregable se genera con formato de marca (docx en esta carpeta); este md es la fuente de doctrina
-### Objetivo: que en 2 semanas la nueva comercial venda como el sistema Heiiu, no como le enseñaron en otro lado
+### Objetivo: que la nueva comercial venda como el sistema Heiiu, no como le enseñaron en otro lado. Se avanza por DOMINIO demostrado, no por calendario.
 
 > Este documento es el ÍNDICE y el resumen de doctrina. Cada módulo dice qué leer (con ruta), qué dominar y cómo se evalúa. Nada se improvisa: aquí todo ya está escrito — su trabajo es ejecutarlo con calidad humana.
 
@@ -87,7 +87,7 @@ Estructura de cita: conexión (motivo real del prospecto) → diagnóstico de pe
 - **Alianzas empresariales (Go Above and Beyond):** las empresas premian a su gente con Becas [Empresa]; Juan Diego abre puertas — los cierres corporativos y todo lo B2B pago pasa por Diana. La asesora atiende a los BECADOS que lleguen a matricularse (regla del mejor beneficio: si el becado califica a una beca superior del Fondo, se le aplica la mejor — nunca ambas). 📖 `recursos/comercial/B2B/` docs 1-3.
 - **Rescate de leads:** tandas de mensajes a la base de "lo voy a pensar" — siempre lenguaje Fondo de Becas, con plantillas aprobadas (nunca improvisar oferta).
 
-## PLAN DE INDUCCIÓN (2 semanas, con filtro)
+## PLAN DE INDUCCIÓN (por etapas y dominio — cada etapa se supera demostrando su verificación, el mismo día si se demuestra)
 
 | Día | Actividad | Verificación |
 |---|---|---|
