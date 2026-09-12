@@ -11,10 +11,18 @@ Tu comisión es el 5% del recaudo de cliente nuevo (2,5% de cliente antiguo) —
 La actividad depende 100% de ti; los cierres los construimos juntas. Por eso lo que se acuerda aquí es actividad:
 
 1. **Todo lead nuevo del bot: contactado en menos de 5 minutos** (en horario laboral).
-2. **20 seguimientos/rescates al día, CON registro:** nombre · qué respondió · próximo paso con fecha. Se trabaja la base de "lo voy a pensar" y los que no asistieron a cita.
+2. **Mínimo 20 contactos al día, POR NOMBRE** (nuevos + seguimientos + rescates — la misma persona puede repetirse en días distintos). De cada uno queda: qué respondió y el próximo paso con fecha. Se trabaja la base de "lo voy a pensar" y los que no asistieron a cita.
 3. **Si el bot se cae, tú ERES el bot:** todas las conversaciones abiertas se atienden a mano ese mismo día. Un bot caído es tu mejor día, no tu día libre.
 4. **Toda cita: confirmada el día antes y el día de.** El que no asiste se rescata (máximo 2 veces) y queda registrado.
-5. **Reporte diario — 5 líneas a las 6:00 PM por WhatsApp:** contactos hechos · citas agendadas · citas asistidas · cierres/abonos · caja que entró. Día sin reporte = día sin actividad verificable.
+5. **Reporte diario a las 6:00 PM por WhatsApp**, en este formato exacto:
+
+```
+Hoy contacté a: [nombres] = N
+Citas agendadas: N · Citas asistidas: N
+Cierres/abonos: N · Caja que entró: $
+```
+
+   *Ejemplo: "Hoy contacté a: Andrea, Braulio, Carla, Diego = 4". Mañana Andrea puede repetirse — el seguimiento también cuenta y también se nombra.* Día sin reporte = día sin actividad verificable.
 6. **Reporte semanal (lunes antes del mediodía):** el formato completo del kit de inducción (Módulo 7).
 
 ## 3. LAS REGLAS DE SIEMPRE (ya las conoces — aquí solo se recuerdan)
