@@ -90,6 +90,7 @@ texto('Los leads NUEVOS que Meta trae cada día (el flujo) no alcanzan para eso.
 
 seccion('LOS ENTREGABLES DE CADA DÍA HÁBIL (en el orden y horario que tú manejes)')
 texto('1. 40 CONTACTOS SALIENTES del barrido, con comentario en el bot por cada uno: resultado + próximo paso. Todo contacto se registra con NOMBRE Y APELLIDO — hay muchos Andreas y Juanes.', bold=True)
+texto('REGLA DE REGISTRO: lo que nace en el bot se comenta EN el bot; todo lo demás (colegios, empresas, grupos, LinkedIn, referidos) vive en la PLANILLA_SPRINT (hoja FUERA DEL BOT). El reporte de las 6 PM sale de las dos fuentes.')
 texto('2. Leads nuevos: el bot los atiende al instante. La asesora revisa la bandeja del bot mínimo 3 VECES AL DÍA (mañana, mediodía y tarde) y toma manualmente toda conversación donde el lead preguntó algo que el bot no resolvió, pidió hablar con una persona, o quedó en silencio tras mostrar interés. Todas atendidas el mismo día hábil, antes del reporte.')
 texto('3. Toda cita del día atendida + las de mañana confirmadas.')
 texto('4. Reporte de las 6:00 PM por WhatsApp — se copia esta plantilla y se llenan los números:')
@@ -118,7 +119,7 @@ tabla([
 ], fs=10)
 
 seccion('VENCIMIENTOS (rutina desde el día 3)')
-texto('Toda oferta que no cierra sale POR ESCRITO con vencimiento de 72 horas — desde el miércoles habrá ofertas TUYAS venciendo cada día. Rutina diaria: revisar cuáles vencen HOY y llamarlas: "tu beca vence hoy a las 6 PM". La lista de vencimientos la construyes tú misma con cada oferta que emitas.')
+texto('Toda oferta que no cierra sale POR ESCRITO con vencimiento de 72 horas y se registra EL MISMO DÍA en la PLANILLA_SPRINT (hoja OFERTAS Y VENCIMIENTOS). Rutina diaria: filtrar la columna VENCE por HOY y llamarlas: "tu beca vence hoy a las 6 PM". Estado de cada una: VIGENTE, CERRÓ, VENCIÓ o RE-PRESENTADA — la fecha SE CUMPLE.')
 
 seccion('METAS DE LA SEMANA (revisión cada viernes con gerencia)')
 tabla([
