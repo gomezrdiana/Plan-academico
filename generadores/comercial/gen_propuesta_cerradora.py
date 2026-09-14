@@ -15,7 +15,7 @@ doc = Document()
 for s in doc.sections:
     s.top_margin = Cm(1.3); s.bottom_margin = Cm(1.1); s.left_margin = Cm(1.8); s.right_margin = Cm(1.8)
 doc.styles['Normal'].font.name = 'Calibri'
-doc.styles['Normal'].font.size = Pt(10.5)
+doc.styles['Normal'].font.size = Pt(10)
 
 def shd(cell, color):
     tcPr = cell._tc.get_or_add_tcPr()
@@ -29,16 +29,16 @@ r = p.add_run('Septiembre 2026 · Confidencial'); r.font.size = Pt(9.5); r.font.
 
 def sec(txt):
     p = doc.add_paragraph(); r = p.add_run(txt); r.bold = True; r.font.size = Pt(12); r.font.color.rgb = NARANJA
-    p.paragraph_format.space_before = Pt(6); p.paragraph_format.space_after = Pt(2)
+    p.paragraph_format.space_before = Pt(4); p.paragraph_format.space_after = Pt(1.5)
 
 def t(txt, bold=False):
-    p = doc.add_paragraph(); r = p.add_run(txt); r.font.size = Pt(10.5); r.bold = bold
-    p.paragraph_format.space_after = Pt(2)
+    p = doc.add_paragraph(); r = p.add_run(txt); r.font.size = Pt(10); r.bold = bold
+    p.paragraph_format.space_after = Pt(1.5)
 
 def frase(txt):
     tab = doc.add_table(rows=1, cols=1); tab.style = 'Table Grid'
     c = tab.rows[0].cells[0]; shd(c, CREMA)
-    p = c.paragraphs[0]; r = p.add_run(txt); r.font.size = Pt(10.5); r.bold = True
+    p = c.paragraphs[0]; r = p.add_run(txt); r.font.size = Pt(10); r.bold = True
     esp = doc.add_paragraph(); esp_r = esp.add_run(''); esp_r.font.size = Pt(3)
     esp.paragraph_format.space_after = Pt(0)
 
@@ -54,16 +54,16 @@ t('· Precio de lanzamiento + contador de cupos REAL: la urgencia no es teatro.'
 frase('No vendemos inglés. Vendemos a dónde te lleva — con garantía firmada.')
 
 sec('LA META')
-t('20 CUPOS ANTES DEL 5 DE OCTUBRE: 10 en la jornada de la MAÑANA (8:00-12:00, super intensivo) + 10 en la NOCHE (6:30-8:30).', bold=True)
+t('ABRIR LAS DOS JORNADAS — mañana (8:00-12:00) y noche (6:30-8:30) — con grupos de 13-14 estudiantes (máx. 16). Los primeros 20 cupos van a precio de lanzamiento; la cohorte inicia el 5 de octubre.', bold=True)
 
 sec('EL TRATO')
 t('· Comisión: 8% del recaudo por TODA venta de tu canal (tu contenido, tu red, y la pauta financiada). Pago contra plata efectiva en caja.', bold=True)
-t('· ACELERADOR: si completas los 20 cupos antes del 5 de octubre, toda la serie se reliquida al 10% — retroactivo.', bold=True)
+t('· ACELERADOR — dos puertas al 10% retroactivo sobre TODA tu serie: (a) el 30 DE SEPTIEMBRE ambas jornadas abiertas con 16 matrículas en total (mínimo 8 y 8), o (b) los 20 cupos completos antes del 5 de octubre. Por debajo: 8%.', bold=True)
 t('· PAUTA FINANCIADA POR HEIIU sobre tus piezas, en tus canales: apruebas pieza + presupuesto con gerencia antes de publicar; tope inicial $1.000.000/mes, revisable por resultados; factura de la plataforma como soporte del gasto.')
 t('· Sin exclusividad, sin horarios, sin básico. Leads que la casa te entregue: 5%.')
 
 sec('LA REGLA DEL CUPO 21 (automática, sin permisos)')
-t('El contador de cupos es compartido y gerencia lo actualiza a diario. Con el contador en 20, cambia el guion — no se pide permiso: toda venta siguiente se cierra como COHORTE SIGUIENTE con el precio de lanzamiento CONGELADO — el cliente paga los $2.990.000 de hoy aunque esa cohorte salga después a precio normal — y comisiona igual. Lo único prohibido: prometer cupo del 5 de octubre cuando ya van 20.')
+t('El contador es compartido y gerencia lo actualiza a diario. Los 20 cupos de lanzamiento son a $2.990.000. Del cupo 21 en adelante se sigue vendiendo ESTA MISMA cohorte, a la tarifa plena de los dos niveles: $3.511.000 (grupos hasta de 16). Todo comisiona igual — y la urgencia se vuelve más fuerte: agotado el lanzamiento, el mismo programa cuesta $521.000 más. Lo único prohibido: ofrecer el precio de lanzamiento en esta cohorte cuando el contador ya va en 20.')
 
 sec('REGLAS DE LA CASA (innegociables)')
 t('Sin descuentos inventados (la única flexibilidad es la escrita) · sin promesas de empleo, visa o "bilingüe en X meses" · la palabra "patrocinio" no existe: es beca del Fondo · toda venta se registra en la planilla comercial para comisionar.')
