@@ -110,7 +110,7 @@ tabla([
  ['Canal', 'Cómo se trabaja'],
  ['EXALUMNOS A1/A2 que no siguieron\n(lista de recepción)', 'Mensaje variante hacia B2 con Fondo — NUNCA Arranque. Es la lista más valiosa: se trabaja apenas llegue.'],
  ['REFERIDOS — estudiantes y acudientes\n(lista de recepción)', 'Mensaje 2 a todos, una sola tanda. "Solicitud pre-presentada" = tú radicas la solicitud del referido ANTES de su cita. Es velocidad de proceso — NO cambia porcentajes de beca.'],
- ['OPERADORES Au Pair / W&T\n(contactos de gerencia)', 'Mensaje 3 una sola vez + UN seguimiento a las 72h. No es canal semanal: es sembrar y dejar. Si uno responde, la reunión la acompaña gerencia.'],
+ ['OPERADORES Au Pair / W&T', 'Canal de GERENCIA — las alianzas las trabaja gerencia directamente. A ti te llegan las candidatas remitidas como leads normales: las atiendes con prioridad (vienen calientes y con meta clara — el Módulo Pasaporte es su cierre).'],
  ['REDES LOCALES\n(miércoles y sábado)', '4-5 publicaciones por tanda en grupos de Facebook de Bucaramanga (empleo, emprendedores, viajes, mamás) + 1 Marketplace + estado de WhatsApp diario. SIEMPRE con la pieza de video o imagen de pauta (las entrega gerencia) + el Mensaje 4.'],
  ['LINKEDIN\n(1 sesión semanal de 45 min)', 'Carril EJECUTIVO/B2B: 10 contactos por sesión a perfiles ejecutivos o de RRHH de empresas de Bucaramanga, con el Mensaje 5. Toda respuesta se agenda como CITA PARA GERENCIA — tú prospectas, gerencia cierra. Se reporta como todo lo demás.'],
 ], fs=10)
@@ -155,7 +155,7 @@ seccion('MENSAJE 2 — REFERIDOS (estudiantes y acudientes actuales)')
 frase('Hola [nombre] 👋 Te escribo de Heiiu con una buena para tu gente: abrimos cohorte nueva el 5 DE OCTUBRE — 20 cupos de lanzamiento, los dos primeros niveles completos por $2.990.000 con garantía por escrito.\n\n¿Quién de tu círculo lleva años diciendo "necesito el inglés" — un hermano, un amigo, alguien del trabajo? Mándame su nombre y número: entra con solicitud pre-presentada al Fondo de Becas y yo lo atiendo personalmente de tu parte. Los cupos son pocos y tu gente merece el empujón. 💪')
 texto('NOTA INTERNA: "pre-presentada" = tú radicas la solicitud del referido antes de su cita, para que llegue con la evaluación iniciada. Es velocidad de proceso — NO cambia los porcentajes de beca. Jamás prometer % extra por ser referido.', 10.5, bold=True)
 
-seccion('MENSAJE 3 — OPERADORES AU PAIR / WORK & TRAVEL / H2B (una vez + un seguimiento a las 72h)')
+seccion('MENSAJE 3 — OPERADORES AU PAIR / W&T / H2B (este lo envía GERENCIA — no la asesora)')
 frase('Buen día [nombre], le escribo de Heiiu English Academy — la academia aliada en Bucaramanga. Le cuento algo que les sirve a sus candidatas frenadas por el nivel de inglés: abrimos cohorte el 5 DE OCTUBRE (20 cupos), y nuestro programa termina con el MÓDULO PASAPORTE: la candidata sale con su video de presentación en inglés, su aplicación lista (hoja de vida + carta) y su entrevista con familia ENSAYADA y grabada, además del certificado internacional.\n\nEs decir: ustedes reciben candidatas listas para presentar, no candidatas a medio camino. ¿Hablamos 15 minutos esta semana para armar el flujo de remisión? ¿[día/hora] o [día/hora]?')
 
 seccion('MENSAJE 4 — PUBLICACIÓN EN GRUPOS DE FACEBOOK / MARKETPLACE (miércoles y sábado)')
