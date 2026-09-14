@@ -103,6 +103,7 @@ item('· Qué es DESTACADO: nivel aprobado con evaluador externo + portafolio co
 item('· Cuando la empresa abra vacantes que requieran inglés, Heiiu le presenta los perfiles destacados con su video — la empresa evalúa y decide.')
 item('· Sin costo, sin exclusividad y SIN obligación de contratación. Heiiu conecta talento verificado; no actúa como bolsa de empleo ni intermediario laboral.', bold=True)
 item('· A los estudiantes JAMÁS se les promete empleo: la vitrina se comunica como una puerta que se abre al que se destaca — nunca como garantía.')
+item('· EXCLUSIÓN EXPRESA: el programa NO gestiona prácticas, pasantías ni contratos de aprendizaje — presenta EGRESADOS para vacantes ordinarias. Las figuras de práctica/aprendizaje tienen cargas legales propias (afiliaciones, cuota de aprendices, reforma laboral) y NO hacen parte de este programa. La palabra practicante no se usa en ninguna reunión.', bold=True)
 
 sec('3. CANDADOS OPERATIVOS (internos — no se muestran a la empresa)')
 item('· Las cartas salen firmadas por el rol Corporate Partnerships Officer únicamente cuando su contrato (con cláusula de propiedad intelectual) esté FIRMADO.', bold=True)
