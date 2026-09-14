@@ -63,7 +63,9 @@ Las columnas de texto libre (nombres, teléfonos, fechas, próximo paso) no tien
 
 ## ADICIÓN #6 — "EL PACTO": la verdad que se dice ANTES de firmar (14/09/2026 · entra al Kit de Venta en la próxima revisión)
 
-Nosotros no vendemos inglés fácil — vendemos el resultado de un ENTRENAMIENTO. El cliente firma sabiendo que le va a tocar duro. Esta es la charla, tal cual, antes de firmar:
+**CUÁNDO SE USA — no es para todos:** la parte del "no fuiste tú, fue el método" es SOLO para el cliente QUEMADO — el que ya intentó y fracasó. Se detecta con la pregunta de siempre: *"¿Has estudiado inglés antes? ¿y cómo te fue?"* → si responde "varias veces y nada" con cara de derrota, ES este cliente y se le da la charla completa. Al que llega limpio NO se le receta un trauma que no tiene — a ese se le da SU palanca (precio por hora al comparador, Pasaporte al que se va, carácter al papá).
+
+**Lo que SÍ es para todos:** jamás prometer fácil, rápido o divertido. El trabajo duro y la garantía como trato se dicen SIEMPRE antes de firmar. La charla completa, para el quemado:
 
 > *"Te voy a ser honesta: esto NO es fácil. Vas a tener días de no querer venir, tareas que fastidian, audios que te van a dar pena grabar. El inglés no se aprende suave — se entrena, como un deporte. Lo que sí te digo: si llevas años intentándolo y no has podido, el problema nunca fuiste tú — fue el método: años sentado copiando del tablero, con miedo a hablar. Aquí es al revés: de pie, hablando desde el día uno, con un sistema que te sostiene los días flojos. Y por eso somos los únicos que firmamos garantía: si TÚ pones el trabajo — asistencia, tareas, tu audio diario — y no avanzas, te devolvemos la plata. Ese es el trato: nosotros ponemos el método y el respaldo; tú pones el trabajo. ¿Lo hacemos?"*
 
