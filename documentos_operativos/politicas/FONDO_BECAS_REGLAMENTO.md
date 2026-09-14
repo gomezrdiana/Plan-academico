@@ -24,6 +24,10 @@
 | B2 solo contado / cuotas | 20% / 11% | 14% / 8% | 7% / 4% |
 | Nivel suelto | Sin beca | Sin beca | Sin beca |
 
+*3.4 Convenio Cajasan:* afiliado vigente (carné/certificado) que paga a cuotas recibe el porcentaje de contado de su perfil. No modifica el techo ni se acumula.
+
+*3.5 Convenio Empresa Aliada (Go Above and Beyond):* colaborador con ingresos hasta 1.5 SMMLV (desprendible) + carta de su empresa = perfil Transformación (techo 45%), dentro de cupos trimestrales. Demás colaboradores del aliado: beneficio 3.4. Los beneficios no se acumulan: se aplica el mejor.
+
 **Artículo 4 — Condiciones de permanencia del beneficio.** La beca se mantiene mientras el estudiante cumpla TODAS: (1) asistencia mínima del 80%; (2) puntualidad en los pagos acordados (ninguna cuota con más de 5 días hábiles de mora); (3) cumplimiento de tareas y entregables del programa; (4) comportamiento conforme al contrato de matrícula.
 
 **Artículo 5 — Pérdida y recuperación.** El incumplimiento de cualquier condición suspende la beca: las cuotas siguientes se liquidan a tarifa plena. El estudiante puede solicitar POR UNA ÚNICA VEZ la recuperación de la beca acreditando 30 días continuos de cumplimiento total. La solicitud se presenta por escrito a coordinación y la resuelve la administración del Fondo (no la gerencia).
