@@ -48,7 +48,7 @@ def frase(txt):
     esp.paragraph_format.space_after = Pt(0)
 
 titulo('TALLER PARA PADRES — "EL PLAN BILINGÜE: DEL COLEGIO A LA UNIVERSIDAD"',
-       'Guion interno · 60-75 min · Lo dicta GERENCIA · La asesora captura y agenda en sala · Público: padres de 8° a 11°')
+       'Guion interno · 60-75 min · Lo dicta QUIEN DESIGNE GERENCIA · La asesora captura y agenda en sala · Público: padres de 8° a 11°')
 
 sec('LAS 3 REGLAS (antes de empezar)')
 t('1. REGISTRO PREVIO CON DATOS, siempre: nombre del padre, nombre y grado del hijo, teléfono. Cada silla es un lead con nombre — la asesora maneja la planilla en sala y confirma datos a la salida.', bold=True)
