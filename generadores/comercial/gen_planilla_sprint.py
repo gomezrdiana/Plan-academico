@@ -16,6 +16,7 @@ wb = openpyxl.Workbook()
 # ===== HOJA 1: OFERTAS Y VENCIMIENTOS =====
 ws = wb.active; ws.title = 'OFERTAS Y VENCIMIENTOS'
 ws.cell(1, 1, 'TODA oferta que no cierra sale POR ESCRITO y entra AQUÍ el mismo día. Rutina diaria: filtrar la columna VENCE por HOY y llamar. La fecha SE CUMPLE: vencida = vencida.').font = ROJO
+ws.cell(2, 1, 'Las columnas con LISTA: haz clic EN la celda y aparece la flechita a la derecha. Si el archivo se abre en Vista protegida (franja amarilla), dale HABILITAR EDICION para que funcionen.').font = ROJO
 cols = ['Fecha oferta', 'Nombre y APELLIDO', 'Teléfono', 'Qué se ofreció ($ y programa)', 'VENCE (fecha + 6 PM)', 'Abono $300k (S/N)', 'Llamada de vencimiento (fecha)', 'Estado (CERRÓ / VENCIÓ / RE-PRESENTADA)', 'Motivo / próximo paso']
 for j, c in enumerate(cols, 1):
     cel = ws.cell(3, j, c); cel.font = BLANCO_B; cel.fill = NARANJA; cel.border = borde
@@ -27,6 +28,7 @@ for j, v in enumerate(ej, 1):
 # ===== HOJA 2: FUERA DEL BOT =====
 ws2 = wb.create_sheet('FUERA DEL BOT')
 ws2.cell(1, 1, 'Todo contacto que NO nació en el bot vive aquí: colegios (talleres), empresas (becados), grupos de Facebook, LinkedIn, referidos. Los del bot NO se duplican aquí — allá tienen sus comentarios.').font = ROJO
+ws2.cell(2, 1, 'Las columnas con LISTA: haz clic EN la celda y aparece la flechita. En Vista protegida: HABILITAR EDICION primero.').font = ROJO
 cols2 = ['Fecha', 'Canal (COLEGIO / EMPRESA / GRUPO FB / LINKEDIN / REFERIDO)', 'Detalle del origen (qué colegio / empresa / grupo / quién refirió)', 'Nombre y APELLIDO', 'Teléfono', 'Convenio (Cajasan / Empresa / Colegio / No)', 'Toque 1 (fecha + resultado)', 'Toque 2', 'Toque 3', 'Estado (CITA / OFERTA / NO+motivo)', 'Próximo paso (con fecha)']
 for j, c in enumerate(cols2, 1):
     cel = ws2.cell(3, j, c); cel.font = BLANCO_B; cel.fill = NARANJA; cel.border = borde

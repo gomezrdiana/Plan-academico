@@ -50,4 +50,15 @@ Ejemplo: una empresa firma formación para 10 empleados por $50.000.000 → cuan
 
 ---
 
+## DUDA #5 — "No me salen las listas desplegables de la planilla" (14/09/2026)
+
+Las listas SÍ están (columnas: qué se ofreció, abono, estado, canal, convenio). Dos cosas de Excel para verlas:
+
+1. **La flechita solo aparece al hacer clic EN la celda** — Excel no muestra las flechas de todas las celdas a la vez. Clic en la celda → flecha a la derecha → clic en la flecha → eliges de la lista.
+2. **Si el archivo llegó por WhatsApp o descarga, Excel lo abre en "Vista protegida"** (franja amarilla arriba) y las listas no funcionan ahí. Botón **"Habilitar edición"** → las listas despiertan.
+
+Las columnas de texto libre (nombres, teléfonos, fechas, próximo paso) no tienen lista a propósito: ahí se escribe.
+
+---
+
 *(Las siguientes dudas se numeran aquí abajo, con fecha.)*
