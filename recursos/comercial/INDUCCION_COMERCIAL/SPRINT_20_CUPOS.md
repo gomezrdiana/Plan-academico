@@ -12,7 +12,9 @@ Los leads NUEVOS que Meta trae cada día (el flujo) no alcanzan para eso. La min
 1. **40 contactos salientes** del barrido (abajo), con comentario en el bot por cada uno: resultado + próximo paso.
 2. **Leads nuevos:** el bot los atiende al instante. La asesora revisa la bandeja del bot mínimo **3 veces al día** y toma manualmente lo que el bot no resolvió, lo que pide persona y los silencios tras interés — todo el mismo día hábil, antes del reporte.
 3. **Toda cita del día atendida** + las de mañana confirmadas.
-4. **Reporte 6:00 PM:** "Hoy contacté a: [nombres] = N · citas agendadas: N · asistidas: N · cierres/abonos: N · caja: $".
+4. **Reporte de las 6:00 PM por WhatsApp** — se copia esta plantilla y se llenan los números:
+
+
 
 ## EL BARRIDO (cómo se trabaja el stock sin filtros ni CRM)
 

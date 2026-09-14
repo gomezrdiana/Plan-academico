@@ -92,7 +92,10 @@ seccion('LOS ENTREGABLES DE CADA DÍA HÁBIL (en el orden y horario que tú mane
 texto('1. 40 CONTACTOS SALIENTES del barrido, con comentario en el bot por cada uno: resultado + próximo paso.', bold=True)
 texto('2. Leads nuevos: el bot los atiende al instante. La asesora revisa la bandeja del bot mínimo 3 VECES AL DÍA (mañana, mediodía y tarde) y toma manualmente toda conversación donde el lead preguntó algo que el bot no resolvió, pidió hablar con una persona, o quedó en silencio tras mostrar interés. Todas atendidas el mismo día hábil, antes del reporte.')
 texto('3. Toda cita del día atendida + las de mañana confirmadas.')
-texto('4. Reporte 6:00 PM: "Hoy contacté a: [nombres] = N · citas agendadas: N · asistidas: N · cierres/abonos: N · caja: $".')
+texto('4. Reporte de las 6:00 PM por WhatsApp — se copia esta plantilla y se llenan los números:')
+frase('REPORTE [día]\nContacté hoy a: [los nombres]\nTotal contactados: __\nCitas agendadas: __\nCitas asistidas: __\nCierres o abonos: __\nPlata que entró hoy: $ __')
+texto('Así se ve lleno un día real:', bold=True)
+frase('REPORTE lunes 14\nContacté hoy a: Andrea, Braulio, Carla, Diego, Estefanía… (y sigue la lista)\nTotal contactados: 42\nCitas agendadas: 5\nCitas asistidas: 2\nCierres o abonos: 1 (abono de $300.000 — cupo separado)\nPlata que entró hoy: $300.000')
 
 seccion('EL BARRIDO (cómo se trabaja el stock sin filtros ni CRM)')
 texto('El bot no tiene notas viejas ni segmentación — no importa. Regla única: de la conversación MÁS RECIENTE hacia atrás, Mensaje 1 a todo el mundo (está redactado para servir sin conocer la historia). La respuesta re-segmenta sola:')
