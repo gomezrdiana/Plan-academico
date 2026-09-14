@@ -1,49 +1,54 @@
-# SPRINT 20 CUPOS — 15 SEP → 5 OCT
-### Plan agresivo de la asesora comercial · La meta: 20 cupos del Arranque = ~1 matrícula por día hábil · Tu premio: ~$3.000.000 en comisiones
+# SPRINT 20 CUPOS — 14 SEP → 5 OCT
+### Plan de la asesora comercial (prestación de servicios: tú manejas tu tiempo — aquí se acuerdan ENTREGABLES, no horarios)
+### Comisión en juego: 5% del recaudo — 20 Arranques ≈ $3.000.000
 
-## LA MATEMÁTICA (para que el plan no sea un deseo)
+## LA MATEMÁTICA
 
-1 matrícula/día ← 2-3 citas asistidas/día ← 5-6 citas agendadas/día ← **40+ contactos salientes/día**. Los leads del bot NO alcanzan: el sprint es SALIENTE.
+1 matrícula/día hábil ← 2-3 citas asistidas/día ← 5-6 agendadas/día ← **40+ contactos salientes/día**.
+Los leads NUEVOS que Meta trae cada día (el flujo) no alcanzan para eso. La mina es el **STOCK**: los cientos de conversaciones dormidas acumuladas en el bot durante meses + las listas de la academia. El sprint es minería de stock.
 
-## TU DÍA TIPO (lunes a viernes)
+## LOS ENTREGABLES DE CADA DÍA HÁBIL (en el orden y horario que tú manejes)
 
-| Hora | Bloque | Qué se hace |
-|---|---|---|
-| 8:00-10:00 | **BASE MUERTA (30 contactos)** | Llamada/WhatsApp en este orden de prioridad: 1) no asistieron a cita (últimos 60 días) · 2) "lo voy a pensar" con motivo anotado · 3) leads viejos del bot que nunca agendaron · 4) exalumnos de A1/A2 que no continuaron (a ellos: paquete hacia B2 con Fondo, no Arranque) |
-| 10:00-12:00 | CITAS + entrantes | Toda cita agendada aquí. Lead nuevo del bot: contactado en <5 min, SIEMPRE |
-| 2:00-4:00 | **CANAL DEL DÍA** (abajo) | Lunes referidos · Martes operadores · Miércoles redes locales · Jueves vencimientos · Viernes cierre |
-| 4:00-6:00 | CITAS + sesiones de ubicación | Y confirmación de las citas de mañana |
-| 6:00 PM | REPORTE DIARIO | "Hoy contacté a: [nombres] = N · citas: N · asistidas: N · cierres: N · caja: $" |
+1. **40 contactos salientes** del barrido (abajo), con comentario en el bot por cada uno: resultado + próximo paso.
+2. **Todo lead nuevo entrante: contactado en menos de 5 minutos** (en horario hábil). Es la única regla con reloj — es el SLA del servicio.
+3. **Toda cita del día atendida** + las de mañana confirmadas.
+4. **Reporte 6:00 PM:** "Hoy contacté a: [nombres] = N · citas agendadas: N · asistidas: N · cierres/abonos: N · caja: $".
 
-## EL CANAL DEL DÍA (2:00-4:00 PM)
+## EL BARRIDO (cómo se trabaja el stock sin filtros ni CRM)
 
-**LUNES — REFERIDOS DE ESTUDIANTES ACTUALES.** WhatsApp a todos los estudiantes y acudientes activos: *"Abrimos cohorte nueva el 5 de octubre — 20 cupos de lanzamiento a $2.990.000 los dos primeros niveles completos. ¿Quién de tu círculo lleva años diciendo 'necesito inglés'? Tu referido entra con solicitud pre-presentada al Fondo."* Se registra quién refirió a quién.
+El bot no tiene notas viejas ni segmentación — no importa. Regla única: **de la conversación más reciente hacia atrás**, Mensaje 1 a todo el mundo (está redactado para servir sin conocer la historia). La respuesta re-segmenta sola:
+- Contesta interesado → cita con día y hora.
+- Contesta que no → motivo real, comentario en el bot.
+- No contesta → llamada a las +24h → último mensaje a las +48h → comentario y se sigue.
 
-**MARTES — OPERADORES AU PAIR / WORK & TRAVEL / H2B.** El canal probado (16 matrículas en 2024). Llamada a cada operador aliado: *"Cohorte 5 de octubre: sus candidatas frenadas por el inglés arrancan YA y salen con video de presentación, aplicación en inglés y entrevista ensayada (Módulo Pasaporte)."* Guiones completos en la carpeta de alianzas — pedirlos a gerencia.
+Único cruce previo: saltarse a los ya matriculados (lista de estudiantes actuales a mano).
 
-**MIÉRCOLES — REDES LOCALES (no LinkedIn: aquí el pez está en Facebook).** Publicar en grupos de Bucaramanga (empleo, emprendedores, viajes/Au Pair, mamás) + Marketplace + estados de WhatsApp: la pieza del lanzamiento + "escríbeme". LinkedIn solo 20 min/semana y solo para perfil EJECUTIVO — los B2B que aparezcan pasan a gerencia.
+## LOS OTROS CANALES (a medida que gerencia entrega cada lista)
 
-**JUEVES — VENCIMIENTOS Y LISTA DE ESPERA.** Toda oferta escrita vence en 72h: hoy se llaman TODAS las que vencen ("tu beca vence mañana a las 6 PM") y se toca la lista de espera con fecha.
+- **EXALUMNOS de A1/A2 que no siguieron** (lista de recepción): mensaje variante hacia B2 con Fondo — NUNCA Arranque. Es la lista más valiosa: se trabaja apenas llegue.
+- **REFERIDOS — estudiantes y acudientes actuales** (lista de recepción): Mensaje 2 a todos, una sola tanda. "Solicitud pre-presentada al Fondo" = la asesora radica la solicitud del referido ANTES de su cita para que llegue con la evaluación iniciada. **Es velocidad de proceso — NO cambia porcentajes de beca.**
+- **OPERADORES AU PAIR / W&T** (contactos de gerencia): Mensaje 3 una sola vez + UN seguimiento a las 72h. No es canal semanal — los operadores no puyan; es sembrar y dejar. Si uno responde, esa reunión la acompaña gerencia.
+- **REDES LOCALES (miércoles y sábado):** 4-5 publicaciones por tanda en grupos de Facebook de Bucaramanga (empleo, emprendedores, viajes/Au Pair, mamás) + 1 en Marketplace + estado de WhatsApp diario. **Material: la pieza de video del lanzamiento y la imagen de pauta (las entrega gerencia — son las de Brian); el texto es el Mensaje 4.** LinkedIn: no aplica para el Arranque; si aparece un perfil ejecutivo o una empresa, pasa a gerencia.
 
-**VIERNES — CIERRE DE SEMANA.** Últimos cierres de la semana + reporte semanal + los 10 más calientes quedan agendados para el lunes.
+## VENCIMIENTOS (se vuelve rutina desde el día 3)
 
-**SÁBADO (2 horas):** solo los 10 más calientes. El sábado en la mañana contesta gente que entre semana no puede.
+Toda oferta que no cierra sale POR ESCRITO con vencimiento de 72 horas — eso significa que desde el miércoles habrá ofertas TUYAS venciendo cada día. Rutina diaria: revisar cuáles vencen HOY y llamarlas: *"tu beca vence hoy a las 6 PM"*. La lista de vencimientos la construyes tú misma con cada oferta que emitas.
 
-## METAS DE LA SEMANA (se revisan cada viernes con gerencia)
+## METAS DE LA SEMANA (revisión cada viernes con gerencia)
 
-| Métrica | Meta semanal |
+| Métrica | Meta |
 |---|---|
 | Contactos salientes (por nombre) | 200 |
 | Citas agendadas | 25 |
 | Citas asistidas | 12 |
 | Matrículas o cupos separados con abono | 4-5 |
 
-**Termómetro visible:** el contador de cupos (vendidos / 20) se actualiza en el tablero de la sede y en el chat interno CADA día. Todos lo ven.
+**Termómetro:** el contador de cupos (vendidos/20) se actualiza a diario en el tablero de la sede y el chat interno.
 
 ## LAS 5 REGLAS DEL SPRINT
 
 1. Toda conversación termina en cita con día y hora, o en NO con motivo anotado. Nada queda "en veremos".
-2. El cierre doble SIEMPRE (completo primero, Arranque de red) — el sprint es de cupos, pero si cae un completo, mejor.
-3. Precio de lanzamiento y contador de cupos en cada conversación: la urgencia es real, úsala.
-4. Ningún descuento inventado. La única flexibilidad es la escrita (Fondo, 72h, abono $300.000).
-5. Día sin reporte = día que no existió.
+2. Cierre doble SIEMPRE: completo primero (ancla), Arranque de red.
+3. Precio de lanzamiento + contador de cupos en cada conversación — la urgencia es real.
+4. Ningún descuento inventado: la única flexibilidad es la escrita (Fondo, 72h, abono $300.000).
+5. Día sin reporte = día sin actividad verificable.

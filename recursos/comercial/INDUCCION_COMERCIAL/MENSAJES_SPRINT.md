@@ -23,6 +23,14 @@
 >
 > Es decir: ustedes reciben candidatas listas para presentar, no candidatas a medio camino. ¿Le parece si hablamos 15 minutos esta semana para armar el flujo de remisión? ¿[día/hora] o [día/hora]?
 
+## MENSAJE 4 — PUBLICACIÓN EN GRUPOS DE FACEBOOK / MARKETPLACE (miércoles y sábado)
+
+> 🎯 BUCARAMANGA: ¿llevas años diciendo "necesito el inglés"? Abrimos cohorte el **5 DE OCTUBRE** — los DOS primeros niveles COMPLETOS (200 horas presenciales, libros y certificado incluidos) por $2.990.000, con **garantía de aprendizaje POR ESCRITO** en tu contrato. Solo 20 cupos de lanzamiento y ya se están asignando. Al terminar sales con tu propia página web publicada o con tu aplicación lista para irte a trabajar afuera. Escríbeme al [número] y te cuento en 5 minutos. 🇺🇸
+>
+> *(Se publica CON la pieza de video o la imagen de pauta — las entrega gerencia. Nunca texto solo.)*
+
+**Nota interna sobre "solicitud pre-presentada al Fondo" (Mensaje 2):** significa que TÚ radicas la solicitud del referido antes de su cita, para que llegue con la evaluación iniciada. Es velocidad de proceso y trato preferencial — **NO cambia los porcentajes de beca**: su beca sale de su perfil y compromiso, como la de todos. Jamás prometer % extra por ser referido.
+
 ## LAS 4 REGLAS DE ENVÍO
 
 1. **Personalizar SIEMPRE el nombre** y, si hay motivo anotado, abrir con él: *"me contaste que en diciembre..."*.
