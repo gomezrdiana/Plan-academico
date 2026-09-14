@@ -61,4 +61,19 @@ Las columnas de texto libre (nombres, teléfonos, fechas, próximo paso) no tien
 
 ---
 
+## ADICIÓN #6 — "EL PACTO": la verdad que se dice ANTES de firmar (14/09/2026 · entra al Kit de Venta en la próxima revisión)
+
+Nosotros no vendemos inglés fácil — vendemos el resultado de un ENTRENAMIENTO. El cliente firma sabiendo que le va a tocar duro. Esta es la charla, tal cual, antes de firmar:
+
+> *"Te voy a ser honesta: esto NO es fácil. Vas a tener días de no querer venir, tareas que fastidian, audios que te van a dar pena grabar. El inglés no se aprende suave — se entrena, como un deporte. Lo que sí te digo: si llevas años intentándolo y no has podido, el problema nunca fuiste tú — fue el método: años sentado copiando del tablero, con miedo a hablar. Aquí es al revés: de pie, hablando desde el día uno, con un sistema que te sostiene los días flojos. Y por eso somos los únicos que firmamos garantía: si TÚ pones el trabajo — asistencia, tareas, tu audio diario — y no avanzas, te devolvemos la plata. Ese es el trato: nosotros ponemos el método y el respaldo; tú pones el trabajo. ¿Lo hacemos?"*
+
+**Por qué se dice así y no más suave:**
+- El que firma advertido NO deserta en la semana 3 — ya sabía que la semana 3 dolía. El que firma engañado con "fácil y divertido" se retira y pide devolución.
+- La dureza honesta hace CREÍBLE la garantía: regalado no se cree; entrenado, sí.
+- Filtra al comprador correcto — igual que el Fondo: atrae al que viene a trabajar, no al que viene a que le hagan magia.
+
+**Regla para la asesora: jamás prometer que será fácil, rápido o divertido. Se promete el método, el respaldo y la garantía — a cambio de SU trabajo.**
+
+---
+
 *(Las siguientes dudas se numeran aquí abajo, con fecha.)*
