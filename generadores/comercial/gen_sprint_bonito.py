@@ -131,7 +131,7 @@ tabla([
  ['Citas asistidas', '12'],
  ['Matrículas o cupos separados con abono', '4-5'],
 ], fs=11)
-texto('Termómetro: el contador de cupos (vendidos/20) se actualiza a diario en el tablero de la sede y el chat interno.', bold=True)
+texto('Termómetro: el contador de cupos (vendidos/20) se actualiza a diario en el tablero de la sede y el chat interno. Qué se le DICE al cliente según cómo vaya el contador (incluido cuando aún no hay ventas): DUDA #4 de la hoja de Dudas.', bold=True)
 
 seccion('LAS 5 REGLAS DEL SPRINT')
 texto('1. Toda conversación termina en cita con día y hora, o en NO con motivo anotado. Nada queda "en veremos".')

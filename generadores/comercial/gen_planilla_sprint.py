@@ -37,7 +37,7 @@ for j, v in enumerate(ej2, 1):
 
 # ===== HOJA 3: TERMOMETRO =====
 ws3 = wb.create_sheet('TERMÓMETRO')
-ws3.cell(1, 1, 'Se actualiza CADA día al enviar el reporte de las 6 PM.').font = ROJO
+ws3.cell(1, 1, 'Se actualiza CADA día al enviar el reporte de las 6 PM. Qué se le DICE al cliente según el contador (incluso con 0 ventas): DUDA #4 de la hoja de Dudas.').font = ROJO
 filas = [
  ['CUPOS ARRANQUE VENDIDOS (de 20)', ''],
  ['Abonos de separación vigentes', ''],
