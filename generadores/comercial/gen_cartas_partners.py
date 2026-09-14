@@ -58,7 +58,7 @@ parrafo(doc, 'En Heiiu English Academy formamos estudiantes que buscan convertir
 parrafo(doc, 'Como empresa aliada, [Nombre de la empresa] podrá usar estas becas como herramienta de reconocimiento para su equipo: sus colaboradores con ingresos de hasta 1.5 SMMLV podrán acceder, con carta de su empresa, al nivel más alto de beca del Fondo, y todo su equipo recibirá condiciones preferenciales de pago. La alianza no tiene ningún costo para la empresa: es una iniciativa de bienestar que usted entrega, y nosotros la respaldamos con licencia de funcionamiento desde 2012, programas registrados, certificación de calidad ICONTEC y una garantía de aprendizaje por escrito, única en la ciudad.')
 parrafo(doc, 'Estamos atentos para agendar una reunión y presentarle las condiciones exactas del programa. Esperando una respuesta afirmativa, quedamos atentos durante los próximos días.')
 parrafo(doc, 'Cordialmente,')
-parrafo(doc, 'Corporate Partnerships Officer — Heiiu English Academy', bold=True)
+parrafo(doc, 'Gerencia — Heiiu English Academy', bold=True)
 pie(doc)
 doc.save(BASE + r'\CARTA_BUSINESS_PARTNER_v3.docx'); print('OK business')
 
@@ -71,9 +71,22 @@ parrafo(doc, 'En Heiiu English Academy formamos estudiantes que buscan convertir
 parrafo(doc, 'Nuestros egresados destacados terminan su programa con nivel certificado por evaluador externo, un portafolio real de su progreso y un proyecto de graduación tangible. Como Heiiu Student Partner, su empresa tendrá acceso preferente a esa vitrina de talento: cuando abra vacantes que requieran inglés, le presentamos los perfiles destacados — con su video de presentación en inglés incluido — sin costo, sin exclusividad y sin ninguna obligación de contratación. La decisión siempre es suya; nosotros solo le acercamos talento verificado y le ahorramos la parte más lenta del reclutamiento bilingüe.')
 parrafo(doc, 'Estamos atentos para agendar una reunión y presentarle el funcionamiento de la vitrina de egresados y los criterios con los que seleccionamos a los destacados. Esperando una respuesta afirmativa, quedamos atentos durante los próximos días.')
 parrafo(doc, 'Cordialmente,')
-parrafo(doc, 'Corporate Partnerships Officer — Heiiu English Academy', bold=True)
+parrafo(doc, 'Gerencia — Heiiu English Academy', bold=True)
 pie(doc)
 doc.save(BASE + r'\CARTA_STUDENT_PARTNER_v3.docx'); print('OK student')
+
+# ============ CARTA 3: SCHOOL PARTNER ============
+doc = nuevo(); cabecera(doc)
+parrafo(doc, 'Bucaramanga, ____ de septiembre de 2026')
+parrafo(doc, 'Señor(a):' + chr(10) + 'Rector(a) / Coordinador(a) Académico(a) — [Nombre del colegio]')
+parrafo(doc, 'Asunto: Alianza Heiiu School Partner — una experiencia real para su grado 11', bold=True)
+parrafo(doc, 'En Heiiu English Academy formamos estudiantes que buscan convertirse en la mejor versión de sí mismos aprendiendo inglés. Queremos invitar a [Nombre del colegio] a convertirse en Heiiu School Partner dentro de nuestra iniciativa Go Above and Beyond — una alianza sin ningún costo para el colegio, diseñada para el momento más importante de sus estudiantes de grado 11: decidir qué sigue después del grado.')
+parrafo(doc, 'La alianza incluye: (1) la HEIIU EXPERIENCE CLASS — no una charla: una clase real de inglés inmersivo de 45 minutos para su grado 11, en su colegio o en nuestra sede, donde sus estudiantes viven una simulación profesional hablando de pie desde el primer minuto; (2) el PREMIO HEIIU — una beca anual que su colegio entrega en su ceremonia de grado al estudiante más destacado en inglés, como reconocimiento del colegio a la excelencia; (3) una charla para padres de grado 11 — "el semestre que no se pierde": cómo convertir los meses entre el grado y la universidad en un nivel de inglés certificado, con garantía de aprendizaje por escrito; y (4) condiciones preferenciales de pago para sus egresados.')
+parrafo(doc, 'Nos respalda una licencia de funcionamiento desde 2012, programas registrados, certificación de calidad ICONTEC y la única garantía de aprendizaje por escrito de la ciudad. Estamos atentos para agendar una reunión de 20 minutos y coordinar la primera Experience Class de su grado 11.')
+parrafo(doc, 'Cordialmente,')
+parrafo(doc, 'Gerencia — Heiiu English Academy', bold=True)
+pie(doc)
+doc.save(BASE + chr(92) + 'CARTA_SCHOOL_PARTNER_v1.docx'); print('OK school')
 
 # ============ DOC 3: CONDICIONES (uso interno / para la reunion) ============
 doc = nuevo()
@@ -105,8 +118,15 @@ item('· Sin costo, sin exclusividad y SIN obligación de contratación. Heiiu c
 item('· A los estudiantes JAMÁS se les promete empleo: la vitrina se comunica como una puerta que se abre al que se destaca — nunca como garantía.')
 item('· EXCLUSIÓN EXPRESA: el programa NO gestiona prácticas, pasantías ni contratos de aprendizaje — presenta EGRESADOS para vacantes ordinarias. Las figuras de práctica/aprendizaje tienen cargas legales propias (afiliaciones, cuota de aprendices, reforma laboral) y NO hacen parte de este programa. La palabra practicante no se usa en ninguna reunión.', bold=True)
 
+sec('3. HEIIU SCHOOL PARTNER (colegios — grado 11)')
+item('· HEIIU EXPERIENCE CLASS sin costo: una clase Heiiu REAL de 45 min para grado 11 (en el colegio o en la sede) — se vive, no se presenta. Nunca un stand en feria.')
+item('· PREMIO HEIIU: beca anual al estudiante más destacado en inglés, entregada EN la ceremonia de grado del colegio — Heiiu presente en el escenario frente a los padres de familia. [Definir nivel de la beca: sugerido techo Transformación sobre el Arranque.]')
+item('· Charla para padres de grado 11 (escuela de padres): "el semestre que no se pierde" — el gap entre el grado y la universidad convertido en A1+A2 completos con garantía escrita y Módulo de Graduación.')
+item('· Convenio egresados: los graduados del colegio aliado reciben el beneficio de convenio (cuotas al porcentaje de contado) + prioridad de cupo en la cohorte de enero.')
+item('· TIMING: este canal construye la cohorte de ENERO (grado 11 se gradúa en noviembre) — se siembra en septiembre-octubre. Piloto: 2-3 colegios con relación previa, nunca en frío los primeros.', bold=True)
+
 sec('3. CANDADOS OPERATIVOS (internos — no se muestran a la empresa)')
-item('· Las cartas salen firmadas por el rol Corporate Partnerships Officer únicamente cuando su contrato (con cláusula de propiedad intelectual) esté FIRMADO.', bold=True)
+item('· Las cartas y los convenios los firma GERENCIA. El gestor de alianzas abre puertas y presenta — y solo actúa en ese rol cuando su contrato (con cláusula de propiedad intelectual y cesión) esté FIRMADO.', bold=True)
 item('· Todo convenio lo firma gerencia. El beneficio Transformación por empresa requiere el artículo 3.5 del Reglamento del Fondo (pendiente VoBo contaduría + abogado, en el mismo paquete del contrato de 30 cláusulas).')
 item('· Los empleados becados que lleguen a matricularse los atiende la asesora comercial como leads calientes (kit, módulo 8).')
 pie(doc)
