@@ -81,16 +81,16 @@ doc = nuevo_doc()
 titulo, seccion, texto, frase, tabla = make_helpers(doc)
 
 titulo('SPRINT 20 CUPOS — 14 SEP → 5 OCT',
-       'Plan de la asesora comercial · Prestación de servicios: tú manejas tu tiempo — aquí se acuerdan ENTREGABLES, no horarios',
-       'Comisión en juego: 5% del recaudo — 20 Arranques ≈ $3.000.000')
+       'Plan de la asesora comercial · Acuerdo de ENTREGABLES',
+       'Comisión: 20 Arranques ≈ $3.000.000')
 
 seccion('LA MATEMÁTICA')
-frase('1 matrícula/día hábil  ←  2-3 citas asistidas/día  ←  5-6 agendadas/día  ←  40+ contactos salientes/día')
+frase('40+ contactos salientes/día  →  5-6 citas agendadas  →  2-3 asistidas  →  1 matrícula/día hábil')
 texto('Los leads NUEVOS que Meta trae cada día (el flujo) no alcanzan para eso. La mina es el STOCK: los cientos de conversaciones dormidas acumuladas en el bot durante meses + las listas de la academia. El sprint es minería de stock.')
 
 seccion('LOS ENTREGABLES DE CADA DÍA HÁBIL (en el orden y horario que tú manejes)')
 texto('1. 40 CONTACTOS SALIENTES del barrido, con comentario en el bot por cada uno: resultado + próximo paso.', bold=True)
-texto('2. Todo lead nuevo entrante: contactado en MENOS DE 5 MINUTOS (en horario hábil). Única regla con reloj — es el SLA del servicio.')
+texto('2. Leads nuevos: el bot los atiende al instante. La asesora revisa la bandeja del bot mínimo 3 VECES AL DÍA (mañana, mediodía y tarde) y toma manualmente toda conversación donde el lead preguntó algo que el bot no resolvió, pidió hablar con una persona, o quedó en silencio tras mostrar interés. Todas atendidas el mismo día hábil, antes del reporte.')
 texto('3. Toda cita del día atendida + las de mañana confirmadas.')
 texto('4. Reporte 6:00 PM: "Hoy contacté a: [nombres] = N · citas agendadas: N · asistidas: N · cierres/abonos: N · caja: $".')
 
@@ -99,7 +99,7 @@ texto('El bot no tiene notas viejas ni segmentación — no importa. Regla únic
 texto('· Contesta interesado → cita con día y hora.')
 texto('· Contesta que no → motivo real, comentario en el bot.')
 texto('· No contesta → llamada a las +24h → último mensaje a las +48h → comentario y se sigue.')
-texto('Único cruce previo: saltarse a los ya matriculados (lista de estudiantes actuales a mano).', bold=True)
+texto('NO se filtra nada antes del barrido — se dispara a todos. Si el contactado resulta ser estudiante actual, pivote inmediato a referido: "¡Verdad que tú ya estás con nosotros! Entonces te tomo la palabra para otra cosa: ¿quién de tu círculo lleva años diciendo necesito el inglés? Mándame su nombre y número y lo atiendo de tu parte." Cada tope con un matriculado es un intento de referido gratis.', bold=True)
 
 seccion('LOS OTROS CANALES (a medida que gerencia entrega cada lista)')
 tabla([
@@ -107,7 +107,8 @@ tabla([
  ['EXALUMNOS A1/A2 que no siguieron\n(lista de recepción)', 'Mensaje variante hacia B2 con Fondo — NUNCA Arranque. Es la lista más valiosa: se trabaja apenas llegue.'],
  ['REFERIDOS — estudiantes y acudientes\n(lista de recepción)', 'Mensaje 2 a todos, una sola tanda. "Solicitud pre-presentada" = tú radicas la solicitud del referido ANTES de su cita. Es velocidad de proceso — NO cambia porcentajes de beca.'],
  ['OPERADORES Au Pair / W&T\n(contactos de gerencia)', 'Mensaje 3 una sola vez + UN seguimiento a las 72h. No es canal semanal: es sembrar y dejar. Si uno responde, la reunión la acompaña gerencia.'],
- ['REDES LOCALES\n(miércoles y sábado)', '4-5 publicaciones por tanda en grupos de Facebook de Bucaramanga (empleo, emprendedores, viajes, mamás) + 1 Marketplace + estado de WhatsApp diario. SIEMPRE con la pieza de video o imagen de pauta (las entrega gerencia) + el Mensaje 4. LinkedIn no aplica; perfil ejecutivo o empresa → pasa a gerencia.'],
+ ['REDES LOCALES\n(miércoles y sábado)', '4-5 publicaciones por tanda en grupos de Facebook de Bucaramanga (empleo, emprendedores, viajes, mamás) + 1 Marketplace + estado de WhatsApp diario. SIEMPRE con la pieza de video o imagen de pauta (las entrega gerencia) + el Mensaje 4.'],
+ ['LINKEDIN\n(1 sesión semanal de 45 min)', 'Carril EJECUTIVO/B2B: 10 contactos por sesión a perfiles ejecutivos o de RRHH de empresas de Bucaramanga, con el Mensaje 5. Toda respuesta se agenda como CITA PARA GERENCIA — tú prospectas, gerencia cierra. Se reporta como todo lo demás.'],
 ], fs=10)
 
 seccion('VENCIMIENTOS (rutina desde el día 3)')
@@ -156,6 +157,9 @@ frase('Buen día [nombre], le escribo de Heiiu English Academy — la academia a
 seccion('MENSAJE 4 — PUBLICACIÓN EN GRUPOS DE FACEBOOK / MARKETPLACE (miércoles y sábado)')
 frase('🎯 BUCARAMANGA: ¿llevas años diciendo "necesito el inglés"? Abrimos cohorte el 5 DE OCTUBRE — los DOS primeros niveles COMPLETOS (200 horas presenciales, libros y certificado incluidos) por $2.990.000, con GARANTÍA DE APRENDIZAJE POR ESCRITO en tu contrato. Solo 20 cupos de lanzamiento y ya se están asignando. Al terminar sales con tu propia página web publicada o con tu aplicación lista para irte a trabajar afuera. Escríbeme al [número] y te cuento en 5 minutos. 🇺🇸')
 texto('Se publica SIEMPRE con la pieza de video o la imagen de pauta (las entrega gerencia). Nunca texto solo.', 10.5, bold=True)
+
+seccion('MENSAJE 5 — LINKEDIN (carril ejecutivo/B2B · las respuestas se agendan para gerencia)')
+frase('Hola [nombre], vi tu perfil en [empresa]. Dirijo el área comercial de Heiiu English Academy en Bucaramanga — trabajamos inglés para perfiles ejecutivos y equipos: programas con certificación, avance medido con examen internacional y garantía de aprendizaje por escrito (única en la ciudad), con factura para la empresa. ¿Te interesaría una llamada de 15 minutos con nuestra gerencia para ver si aplica para ti o tu equipo?')
 
 seccion('LAS 4 REGLAS DE ENVÍO')
 texto('1. Personalizar SIEMPRE el nombre — y si hay motivo anotado, abrir con él: "me contaste que en diciembre...".')

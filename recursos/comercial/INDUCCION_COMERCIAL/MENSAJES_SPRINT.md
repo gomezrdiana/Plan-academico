@@ -31,6 +31,10 @@
 
 **Nota interna sobre "solicitud pre-presentada al Fondo" (Mensaje 2):** significa que TÚ radicas la solicitud del referido antes de su cita, para que llegue con la evaluación iniciada. Es velocidad de proceso y trato preferencial — **NO cambia los porcentajes de beca**: su beca sale de su perfil y compromiso, como la de todos. Jamás prometer % extra por ser referido.
 
+## MENSAJE 5 — LINKEDIN (carril ejecutivo/B2B · las respuestas se agendan para gerencia)
+
+> Hola [nombre], vi tu perfil en [empresa]. Dirijo el área comercial de Heiiu English Academy en Bucaramanga — trabajamos inglés para perfiles ejecutivos y equipos: certificación, avance medido con examen internacional y garantía de aprendizaje por escrito (única en la ciudad), con factura para la empresa. ¿Te interesaría una llamada de 15 minutos con nuestra gerencia para ver si aplica para ti o tu equipo?
+
 ## LAS 4 REGLAS DE ENVÍO
 
 1. **Personalizar SIEMPRE el nombre** y, si hay motivo anotado, abrir con él: *"me contaste que en diciembre..."*.

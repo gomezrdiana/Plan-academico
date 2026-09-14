@@ -10,7 +10,7 @@ Los leads NUEVOS que Meta trae cada día (el flujo) no alcanzan para eso. La min
 ## LOS ENTREGABLES DE CADA DÍA HÁBIL (en el orden y horario que tú manejes)
 
 1. **40 contactos salientes** del barrido (abajo), con comentario en el bot por cada uno: resultado + próximo paso.
-2. **Todo lead nuevo entrante: contactado en menos de 5 minutos** (en horario hábil). Es la única regla con reloj — es el SLA del servicio.
+2. **Leads nuevos:** el bot los atiende al instante. La asesora revisa la bandeja del bot mínimo **3 veces al día** y toma manualmente lo que el bot no resolvió, lo que pide persona y los silencios tras interés — todo el mismo día hábil, antes del reporte.
 3. **Toda cita del día atendida** + las de mañana confirmadas.
 4. **Reporte 6:00 PM:** "Hoy contacté a: [nombres] = N · citas agendadas: N · asistidas: N · cierres/abonos: N · caja: $".
 
@@ -21,14 +21,16 @@ El bot no tiene notas viejas ni segmentación — no importa. Regla única: **de
 - Contesta que no → motivo real, comentario en el bot.
 - No contesta → llamada a las +24h → último mensaje a las +48h → comentario y se sigue.
 
-Único cruce previo: saltarse a los ya matriculados (lista de estudiantes actuales a mano).
+NO se filtra nada antes del barrido — se dispara a todos. Si el contactado resulta ser estudiante actual, pivote inmediato a referido ("¡tú ya estás con nosotros! ¿quién de tu círculo…?") — cada tope con un matriculado es un intento de referido gratis.
 
 ## LOS OTROS CANALES (a medida que gerencia entrega cada lista)
 
 - **EXALUMNOS de A1/A2 que no siguieron** (lista de recepción): mensaje variante hacia B2 con Fondo — NUNCA Arranque. Es la lista más valiosa: se trabaja apenas llegue.
 - **REFERIDOS — estudiantes y acudientes actuales** (lista de recepción): Mensaje 2 a todos, una sola tanda. "Solicitud pre-presentada al Fondo" = la asesora radica la solicitud del referido ANTES de su cita para que llegue con la evaluación iniciada. **Es velocidad de proceso — NO cambia porcentajes de beca.**
 - **OPERADORES AU PAIR / W&T** (contactos de gerencia): Mensaje 3 una sola vez + UN seguimiento a las 72h. No es canal semanal — los operadores no puyan; es sembrar y dejar. Si uno responde, esa reunión la acompaña gerencia.
-- **REDES LOCALES (miércoles y sábado):** 4-5 publicaciones por tanda en grupos de Facebook de Bucaramanga (empleo, emprendedores, viajes/Au Pair, mamás) + 1 en Marketplace + estado de WhatsApp diario. **Material: la pieza de video del lanzamiento y la imagen de pauta (las entrega gerencia — son las de Brian); el texto es el Mensaje 4.** LinkedIn: no aplica para el Arranque; si aparece un perfil ejecutivo o una empresa, pasa a gerencia.
+- **REDES LOCALES (miércoles y sábado):** 4-5 publicaciones por tanda en grupos de Facebook de Bucaramanga (empleo, emprendedores, viajes/Au Pair, mamás) + 1 en Marketplace + estado de WhatsApp diario. **Material: la pieza de video del lanzamiento y la imagen de pauta (las entrega gerencia — son las de Brian); el texto es el Mensaje 4.** 
+
+- **LINKEDIN (1 sesión semanal de 45 min):** carril EJECUTIVO/B2B — 10 contactos por sesión a perfiles ejecutivos/RRHH de empresas de Bucaramanga con el Mensaje 5. Toda respuesta se agenda como CITA PARA GERENCIA: ella prospecta, gerencia cierra.
 
 ## VENCIMIENTOS (se vuelve rutina desde el día 3)
 
