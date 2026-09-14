@@ -38,4 +38,16 @@ Ejemplo: una empresa firma formación para 10 empleados por $50.000.000 → cuan
 
 ---
 
+## DUDA #4 — ¿Qué digo del contador cuando NO hemos vendido nada? (14/09/2026)
+
+**Nunca se dice "quedan 20 de 20"** — eso anuncia que nadie ha comprado, y es prueba social al revés. El contador tiene TRES etapas, y las tres son verdad:
+
+1. **Con 0 vendidos:** se vende la NOVEDAD, no la escasez → *"Acaban de abrirse los 20 cupos del lanzamiento."* (Recién abierto = urgencia de estreno, y es cierto.)
+2. **Con 1-4 vendidos/abonados:** movimiento sin número → *"Los cupos ya se están asignando."*
+3. **Con 5 o más:** escasez con número → *"Vamos 8 de 20"* / *"quedan 12"*.
+
+**La regla que no cambia: jamás inventar el número.** El contador es verdad en las tres etapas — solo cambia qué parte de la verdad se cuenta primero.
+
+---
+
 *(Las siguientes dudas se numeran aquí abajo, con fecha.)*

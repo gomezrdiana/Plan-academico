@@ -19,7 +19,7 @@ def nuevo_doc():
     for s in doc.sections:
         s.top_margin = Cm(1.6); s.bottom_margin = Cm(1.4); s.left_margin = Cm(2.0); s.right_margin = Cm(2.0)
     doc.styles['Normal'].font.name = 'Calibri'
-    doc.styles['Normal'].font.size = Pt(11.5)
+    doc.styles['Normal'].font.size = Pt(11)
     return doc
 
 
@@ -44,12 +44,12 @@ def make_helpers(doc):
         r = p.add_run(txt); r.bold = True; r.font.size = Pt(14.5); r.font.color.rgb = NARANJA
         p.paragraph_format.space_before = Pt(9); p.paragraph_format.space_after = Pt(4)
 
-    def texto(txt, size=11.5, bold=False):
+    def texto(txt, size=11, bold=False):
         p = doc.add_paragraph(); r = p.add_run(txt); r.font.size = Pt(size); r.bold = bold
-        p.paragraph_format.space_after = Pt(4)
+        p.paragraph_format.space_after = Pt(3)
         return p
 
-    def frase(txt, size=11.5):
+    def frase(txt, size=11):
         tab = doc.add_table(rows=1, cols=1); tab.style = 'Table Grid'
         c = tab.rows[0].cells[0]; shd(c, CREMA)
         for k, ln in enumerate(txt.split('\n')):
@@ -123,7 +123,7 @@ tabla([
 seccion('VENCIMIENTOS (rutina desde el día 3)')
 texto('Toda oferta que no cierra sale POR ESCRITO con vencimiento de 72 horas y se registra EL MISMO DÍA en la PLANILLA_SPRINT (hoja OFERTAS Y VENCIMIENTOS). Rutina diaria: filtrar la columna VENCE por HOY y llamarlas: "tu beca vence hoy a las 6 PM". Estado de cada una: VIGENTE, CERRÓ, VENCIÓ o RE-PRESENTADA — la fecha SE CUMPLE.')
 
-seccion('METAS DE LA SEMANA (revisión cada viernes con gerencia)')
+seccion('METAS DE LA SEMANA (revisión cada SÁBADO 10:30 AM con gerencia — 30 min, con la planilla abierta)')
 tabla([
  ['Métrica', 'Meta'],
  ['Contactos salientes (por nombre)', '200'],
@@ -136,7 +136,7 @@ texto('Termómetro: el contador de cupos (vendidos/20) se actualiza a diario en 
 seccion('LAS 5 REGLAS DEL SPRINT')
 texto('1. Toda conversación termina en cita con día y hora, o en NO con motivo anotado. Nada queda "en veremos".')
 texto('2. Cierre doble SIEMPRE: completo primero (ancla), Arranque de red.')
-texto('3. Precio de lanzamiento + contador de cupos en cada conversación — la urgencia es real.')
+texto('3. En TODA conversación se dicen las dos urgencias: que $2.990.000 es precio DE LANZAMIENTO y cuántos cupos de los 20 quedan ("vamos 7 de 20"). Como el contador es real y las fechas se cumplen, se dice sin pena — no es presión, es información.')
 texto('4. Ningún descuento inventado: la única flexibilidad es la escrita (Fondo, 72h, abono $300.000).')
 texto('5. Día sin reporte = día sin actividad verificable.')
 
