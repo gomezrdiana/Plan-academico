@@ -78,4 +78,30 @@ Las columnas de texto libre (nombres, teléfonos, fechas, próximo paso) no tien
 
 ---
 
+## DUDA #7 — ¿El afiliado a Cajasan recibe el 45%? (14/09/2026)
+
+**No por ser de Cajasan.** Son dos cosas con trabajos distintos: el **45% lo da el PERFIL** (Transformación: estrato 1-2/SISBÉN con soporte); **Cajasan mejora la FORMA DE PAGO** — el afiliado que paga a cuotas recibe el porcentaje DE CONTADO de su propio perfil.
+
+| Cliente | Su beca |
+|---|---|
+| Cajasan + estrato 3 (General) | 32% aun pagando a cuotas |
+| Cajasan + estrato 1-2 con soporte (Transformación) | **45% aun pagando a cuotas** |
+| Estrato 1-2 con soporte, sin Cajasan | 45% contado / 36% cuotas |
+
+**La frase:** *"Cajasan no cambia quién eres — cambia cómo pagas: siempre al precio de contado de tu perfil."*
+
+---
+
+## DUDA #8 — Cliente dice: "te doy un abono, pero necesito el crédito de Comultrasan para pagar de contado" (14/09/2026)
+
+**El crédito de un tercero (Comultrasan, banco, tarjeta) CUENTA COMO CONTADO** — a la academia le entra el 100% y el cliente le debe a la cooperativa, no a nosotros. Es la misma lógica de la tarjeta de crédito en la escalera de pago. Aplica para sostener el precio de lanzamiento Y para acceder al porcentaje de contado del Fondo.
+
+**La regla del tiempo (porque el crédito no sale el mismo día):**
+1. HOY: abono de separación ($300.000) — congela cupo y precio.
+2. El desembolso COMPLETO debe llegar dentro de los **10 días hábiles** siguientes, y siempre antes del inicio de clases.
+3. Si el desembolso llega a tiempo → precio de contado/lanzamiento sostenido.
+4. Si NO llega a tiempo o el crédito es negado → el cliente puede pagar por otro medio a la tarifa que corresponda a su forma de pago, o su abono queda como **saldo a favor para cualquier programa** — nunca devolución en efectivo.
+
+---
+
 *(Las siguientes dudas se numeran aquí abajo, con fecha.)*
