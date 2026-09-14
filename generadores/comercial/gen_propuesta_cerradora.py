@@ -59,11 +59,12 @@ t('ABRIR LAS DOS JORNADAS — mañana (8:00-12:00) y noche (6:30-8:30) — con g
 sec('EL TRATO')
 t('· Comisión: 8% del recaudo por TODA venta de tu canal (tu contenido, tu red, y la pauta financiada). Pago contra plata efectiva en caja.', bold=True)
 t('· ACELERADOR — dos puertas al 10% retroactivo sobre TODA tu serie: (a) el 30 DE SEPTIEMBRE ambas jornadas abiertas con 16 matrículas en total (mínimo 8 y 8), o (b) los 20 cupos completos antes del 5 de octubre. Por debajo: 8%.', bold=True)
+t('· BONO GRUPOS LLENOS: 28 matrículas (14 + 14) al 30 de septiembre = $2.000.000 de bono adicional, encima del 10%.', bold=True)
 t('· PAUTA FINANCIADA POR HEIIU sobre tus piezas, en tus canales: apruebas pieza + presupuesto con gerencia antes de publicar; tope inicial $1.000.000/mes, revisable por resultados; factura de la plataforma como soporte del gasto.')
 t('· Sin exclusividad, sin horarios, sin básico. Leads que la casa te entregue: 5%.')
 
 sec('LA REGLA DEL CUPO 21 (automática, sin permisos)')
-t('El contador es compartido y gerencia lo actualiza a diario. Los 20 cupos de lanzamiento son a $2.990.000. Del cupo 21 en adelante se sigue vendiendo ESTA MISMA cohorte, a la tarifa plena de los dos niveles: $3.511.000 (grupos hasta de 16). Todo comisiona igual — y la urgencia se vuelve más fuerte: agotado el lanzamiento, el mismo programa cuesta $521.000 más. Lo único prohibido: ofrecer el precio de lanzamiento en esta cohorte cuando el contador ya va en 20.')
+t('El contador es compartido y gerencia lo actualiza a diario. Los 20 cupos de lanzamiento son a $2.990.000. Del cupo 21 en adelante se sigue vendiendo ESTA MISMA cohorte (grupos hasta de 16) a la tarifa plena de los dos niveles: $3.511.000. ÚNICA excepción, escrita: pago de CONTADO completo el mismo día = se mantiene el precio de lanzamiento ($2.990.000). A cuotas: tarifa plena. Todo comisiona igual — y la urgencia gana un segundo filo: agotados los 20, el precio de lanzamiento solo existe pagando hoy de contado. Lo único prohibido: ofrecer el precio de lanzamiento en esta cohorte cuando el contador ya va en 20.')
 
 sec('REGLAS DE LA CASA (innegociables)')
 t('Sin descuentos inventados (la única flexibilidad es la escrita) · sin promesas de empleo, visa o "bilingüe en X meses" · la palabra "patrocinio" no existe: es beca del Fondo · toda venta se registra en la planilla comercial para comisionar.')
