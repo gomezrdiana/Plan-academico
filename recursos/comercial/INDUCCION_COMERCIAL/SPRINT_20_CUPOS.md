@@ -14,7 +14,17 @@ Los leads NUEVOS que Meta trae cada día (el flujo) no alcanzan para eso. La min
 3. **Toda cita del día atendida** + las de mañana confirmadas.
 4. **Reporte de las 6:00 PM por WhatsApp** — se copia esta plantilla y se llenan los números:
 
+```
+REPORTE [día]
+Contacté hoy a: [los nombres]
+Total contactados: __
+Citas agendadas: __
+Citas asistidas: __
+Cierres o abonos: __
+Plata que entró hoy: $ __
+```
 
+*Ejemplo lleno: REPORTE lunes 14 · Contacté hoy a: Andrea, Braulio, Carla… · Total: 42 · Agendadas: 5 · Asistidas: 2 · Cierres/abonos: 1 (abono $300.000) · Plata que entró: $300.000*
 
 ## EL BARRIDO (cómo se trabaja el stock sin filtros ni CRM)
 
