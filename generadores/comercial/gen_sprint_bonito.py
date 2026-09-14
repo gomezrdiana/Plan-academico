@@ -97,6 +97,7 @@ frase('REPORTE [día]\nContacté hoy a: [los nombres]\nTotal contactados: __\nCi
 texto('Así se ve lleno un día real:', bold=True)
 frase('REPORTE lunes 14\nContacté hoy a: Andrea, Braulio, Carla, Diego, Estefanía… (y sigue la lista)\nTotal contactados: 42\nCitas agendadas: 5\nCitas asistidas: 2\nCierres o abonos: 1 (abono de $300.000 — cupo separado)\nPlata que entró hoy: $300.000')
 
+doc.add_paragraph().add_run().add_break(WD_BREAK.PAGE)
 seccion('EL BARRIDO (cómo se trabaja el stock sin filtros ni CRM)')
 texto('El bot no tiene notas viejas ni segmentación — no importa. Regla única: de la conversación MÁS RECIENTE hacia atrás, Mensaje 1 a todo el mundo (está redactado para servir sin conocer la historia). La respuesta re-segmenta sola:')
 texto('· Contesta interesado → cita con día y hora.')
