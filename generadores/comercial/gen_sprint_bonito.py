@@ -105,6 +105,7 @@ texto('El bot no tiene notas viejas ni segmentación — no importa. Regla únic
 texto('· Contesta interesado → cita con día y hora.')
 texto('· Contesta que no → motivo real, comentario en el bot.')
 texto('· No contesta → llamada a las +24h → último mensaje a las +48h → comentario y se sigue.')
+texto('· Contesta BRAVO (reclamo, "mala experiencia") → Mensaje 6, UN solo mensaje y silencio · pantallazo a gerencia el MISMO día · estado NO CONTACTAR (reclamo) en la planilla — no vuelve a ninguna tanda. Jamás discutir, jamás ofrecer plata.', bold=True)
 texto('NO se filtra nada antes del barrido — se dispara a todos. Si el contactado resulta ser estudiante actual, pivote inmediato a referido: "¡Verdad que tú ya estás con nosotros! Entonces te tomo la palabra para otra cosa: ¿quién de tu círculo lleva años diciendo necesito el inglés? Mándame su nombre y número y lo atiendo de tu parte." Cada tope con un matriculado es un intento de referido gratis.', bold=True)
 
 seccion('LOS OTROS CANALES (a medida que gerencia entrega cada lista)')
