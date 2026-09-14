@@ -30,4 +30,12 @@
 
 ---
 
+## DUDA #3 — ¿La comisión aplica también a ventas corporativas / B2B? (14/09/2026)
+
+**SÍ. La venta es la venta, venga de donde venga.** El esquema es UNO solo para todo: **5% del recaudo de cliente nuevo · 2,5% de cliente antiguo — sobre lo que ENTRA a caja.** Aplica igual a una matrícula individual, a un Arranque, a un becado de empresa aliada que se matricula, o a un contrato corporativo de formación.
+
+Ejemplo: una empresa firma formación para 10 empleados por $50.000.000 → cuando esa plata entra a caja, la comisión es $2.500.000. La única regla que no cambia: **sin recaudo no hay comisión — cobrar también es vender.**
+
+---
+
 *(Las siguientes dudas se numeran aquí abajo, con fecha.)*
