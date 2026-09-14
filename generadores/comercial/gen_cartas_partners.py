@@ -127,7 +127,7 @@ item('· RUTA SABATINA 8°-10°: A1 en 8°, A2 en 9°, B1 en 10° (4h/sábado, p
 item('· TIMING: este canal construye la cohorte de ENERO (grado 11 se gradúa en noviembre) — se siembra en septiembre-octubre. Piloto: 2-3 colegios con relación previa, nunca en frío los primeros.', bold=True)
 
 sec('3. CANDADOS OPERATIVOS (internos — no se muestran a la empresa)')
-item('· Las cartas y los convenios los firma GERENCIA. El gestor de alianzas abre puertas y presenta — y solo actúa en ese rol cuando su contrato (con cláusula de propiedad intelectual y cesión) esté FIRMADO.', bold=True)
+item('· Las cartas y los convenios los firma GERENCIA. La búsqueda, presentación y gestión de empresas y colegios la ejecuta la ASESORA COMERCIAL — sin facultad de firmar convenios ni pactar condiciones fuera de las escritas.', bold=True)
 item('· Todo convenio lo firma gerencia. El beneficio Transformación por empresa requiere el artículo 3.5 del Reglamento del Fondo (pendiente VoBo contaduría + abogado, en el mismo paquete del contrato de 30 cláusulas).')
 item('· Los empleados becados que lleguen a matricularse los atiende la asesora comercial como leads calientes (kit, módulo 8).')
 pie(doc)
