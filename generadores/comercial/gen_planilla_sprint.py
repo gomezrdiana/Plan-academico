@@ -77,7 +77,7 @@ dv(ws, 'H', ['VIGENTE', 'CERRÓ', 'VENCIÓ', 'RE-PRESENTADA'])
 # Hoja 2: FUERA DEL BOT
 dv(ws2, 'B', ['COLEGIO', 'EMPRESA', 'GRUPO FB', 'LINKEDIN', 'REFERIDO', 'OPERADOR'])
 dv(ws2, 'F', ['Cajasan', 'Empresa', 'Colegio', 'No'])
-dv(ws2, 'J', ['EN SEGUIMIENTO', 'CITA AGENDADA', 'OFERTA EMITIDA', 'MATRICULADO', 'NO - motivo anotado'])
+dv(ws2, 'J', ['EN SEGUIMIENTO', 'CITA AGENDADA', 'OFERTA EMITIDA', 'MATRICULADO', 'NO - motivo anotado', 'NO CONTACTAR (reclamo)'])
 
 out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\PLANILLA_SPRINT.xlsx'
 wb.save(out); print('OK', out)

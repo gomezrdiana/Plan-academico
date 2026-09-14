@@ -169,6 +169,15 @@ texto('Se publica SIEMPRE con la pieza de video o la imagen de pauta (las entreg
 seccion('MENSAJE 5 — LINKEDIN (carril ejecutivo/B2B · la venta es tuya; convenios y precios B2B los firma gerencia)')
 frase('Hola [nombre], vi tu perfil en [empresa]. Dirijo el área comercial de Heiiu English Academy en Bucaramanga — trabajamos inglés para perfiles ejecutivos y equipos: programas con certificación, avance medido con examen internacional y garantía de aprendizaje por escrito (única en la ciudad), con factura para la empresa. ¿Te interesaría una llamada de 15 minutos para ver si aplica para ti o tu equipo?')
 
+seccion('MENSAJE 6 — SI RESPONDE BRAVO (reclamo, "mala experiencia", "me estafaron")')
+frase('Hola [nombre], gracias por decírmelo con franqueza — y lamento de verdad que tu experiencia no fue la que esperabas. Yo soy nueva en el equipo y no te escribí para discutir ni voy a insistirte con ventas. Lo que sí quiero es que tu caso lo escuche directamente nuestra gerencia: ¿te puede llamar esta semana? Y si prefieres dejarlo hasta aquí, lo respeto y te agradezco que me respondieras.')
+texto('LAS 5 REGLAS DEL BRAVO (más importantes que el mensaje):', bold=True)
+texto('1. NUNCA discutir, justificar ni contar la versión de la academia por WhatsApp. Un solo mensaje — el de arriba — y silencio.')
+texto('2. NUNCA repetir por escrito sus palabras ("estafa", "robo") ni aceptar culpa. Se lamenta la EXPERIENCIA, no se admite el cargo.')
+texto('3. NUNCA ofrecer plata, descuentos ni compensaciones — toda solicitud de devolución va a gerencia con el contrato en mano, jamás se resuelve en el chat.')
+texto('4. ESCALAR EL MISMO DÍA: pantallazo del reclamo a gerencia — gerencia decide si llama (el que se queja y es escuchado a tiempo, a veces vuelve; el ignorado, demanda).')
+texto('5. En la planilla: estado NO CONTACTAR (reclamo) + motivo. Ese número NO vuelve a entrar en tandas de rescate ni de referidos. Jamás.')
+
 seccion('LAS 4 REGLAS DE ENVÍO')
 texto('1. Personalizar SIEMPRE el nombre — y si hay motivo anotado, abrir con él: "me contaste que en diciembre...".')
 texto('2. Nunca más de un mensaje sin respuesta por día al mismo contacto. Ritmo: mensaje → +24h llamada → +48h último mensaje → comentario con motivo.')
