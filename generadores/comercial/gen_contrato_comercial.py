@@ -59,7 +59,7 @@ def firmas(doc):
 # ============================================================
 doc = nuevo_doc()
 titulo(doc, 'CONTRATO DE PRESTACIÓN DE SERVICIOS COMERCIALES INDEPENDIENTES — VERSIÓN 2026 v1')
-aviso(doc, 'BORRADOR 14/09/2026 — PENDIENTE VISTO BUENO DEL ABOGADO ANTES DE FIRMA · Contrato estándar por rol: la remuneración específica se pacta en el ANEXO ECONÓMICO, que hace parte integral de este contrato')
+aviso(doc, 'Contrato estándar por rol: la remuneración específica se pacta en el ANEXO ECONÓMICO, que hace parte integral de este contrato')
 doc.add_paragraph()
 
 t(doc, 'Entre los suscritos a saber: DIANA MARCELA GÓMEZ RANGEL, mayor de edad, identificada con cédula de ciudadanía No. 63.552.709 expedida en Bucaramanga, quien actúa en nombre de GLOBAL TEACHER S.A.S., sociedad legalmente constituida, con NIT 900.422.478-2, con domicilio principal en la ciudad de Bucaramanga, según consta en el Certificado de Existencia y Representación Legal, quien para efectos del presente contrato se denominará EL CONTRATANTE, y [NOMBRE COMPLETO], mayor de edad, identificado(a) con cédula de ciudadanía No. [___________], quien en adelante se denominará EL (LA) CONTRATISTA, hemos acordado celebrar el presente contrato de prestación de servicios así:')
@@ -95,7 +95,7 @@ clau(doc, 'CLÁUSULA DÉCIMA CUARTA. DOMICILIO CONTRACTUAL:', 'Para todos los ef
 clau(doc, 'CLÁUSULA DÉCIMA QUINTA. ACEPTACIÓN:', 'EL (LA) CONTRATISTA declara haber leído íntegramente el presente contrato y su ANEXO ECONÓMICO, comprenderlos en su totalidad, y aceptar todas y cada una de sus cláusulas, en particular las relativas a manejo de dineros, confidencialidad, propiedad intelectual, cesión de obra, datos personales, devolución de material y cláusula penal.')
 
 firmas(doc)
-doc.save(RAIZ + r'\BORRADOR_CONTRATO_PRESTACION_COMERCIAL_v1.docx')
+doc.save(RAIZ + r'\CONTRATO_PRESTACION_COMERCIAL_v1.docx')
 print('OK contrato')
 
 # ============================================================
@@ -122,7 +122,7 @@ print('OK anexo cerradora')
 # ============================================================
 doc = nuevo_doc()
 titulo(doc, 'ANEXO ECONÓMICO No. ___ — ROL: ASESORA COMERCIAL · PROSPECCIÓN')
-aviso(doc, 'BORRADOR 14/09/2026 — PENDIENTE VISTO BUENO DEL ABOGADO · Hace parte integral del Contrato de Prestación de Servicios Comerciales suscrito entre las partes')
+aviso(doc, 'Hace parte integral del Contrato de Prestación de Servicios Comerciales suscrito entre las partes')
 doc.add_paragraph()
 t(doc, 'Las partes pactan la siguiente remuneración, que reemplaza cualquier acuerdo verbal anterior:')
 num(doc, 1, 'COMISIÓN: CINCO por ciento (5%) del recaudo efectivo a caja por venta a cliente nuevo, y DOS PUNTO CINCO por ciento (2,5%) por venta a cliente antiguo. Aplica a toda venta gestionada por el (la) CONTRATISTA e inscrita en planilla, incluidas las ventas corporativas y de alianzas que gestione.', bold=True)
