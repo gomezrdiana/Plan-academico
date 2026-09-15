@@ -10,10 +10,12 @@
 
 ## TEMA 1 — LA PAUTA DE LA CERRADORA (la decisión grande)
 
-- Campañas sobre las piezas de ELLA, desde la cuenta publicitaria de la ACADEMIA, con leads aterrizando en el WhatsApp de ELLA.
-- Tope inicial: $1.000.000/mes. Termostato: costo por matrícula ≤$150 mil → se dobla; >$300 mil → se apaga.
-- Toda pieza y presupuesto: aprobación de gerencia ANTES de publicar.
-- **Preguntas:** ¿Cuándo puede estar montada la primera campaña si ella graba mañana? ¿Cómo separamos audiencias para que sus campañas y las de la casa no se compitan y suban el costo? ¿Cómo me reportas el costo por matrícula cada semana (formato y día)?
+- DOS campañas, DOS embudos: CASA (videos ya grabados de la academia → bot/WhatsApp de la casa) y CERRADORA (sus 5 videos → su línea). Todo desde la cuenta publicitaria de la ACADEMIA.
+- **Presupuesto total: $2.000.000/mes — $1M casa + $1M cerradora.** El termostato reasigna DENTRO de los $2M según costo por matrícula de cada embudo (≤$150 mil gana presupuesto del otro; >$300 mil se apaga). Subir del total solo autofinanciado: cada 3 matrículas recaudadas liberan $300 mil más el mes siguiente.
+- **Regla anti-cancelación:** ninguna campaña se lanza sin su mes completo FONDEADO por adelantado (saldo prepagado en la cuenta, no cobro automático). Presupuestos diarios chicos.
+- Toda pieza y presupuesto: aprobación de gerencia ANTES de publicar. Audiencias EXCLUIDAS entre las dos campañas para no competirse.
+- **Reporte semanal de Brian:** conversaciones generadas por campaña + costo por matrícula de cada embudo (el cruce contra la planilla lo hace gerencia).
+- **Preguntas:** ¿Cuándo está montada la primera campaña de la cerradora si graba mañana? ¿Cómo excluimos audiencias? ¿Qué día y en qué formato me llega el reporte semanal? ¿La línea de la cerradora puede ser WhatsApp Business DE LA ACADEMIA operada por ella?
 
 ## TEMA 2 — ENRUTAMIENTO POR FRANJA
 
