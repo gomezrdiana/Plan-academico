@@ -1,5 +1,5 @@
 # REUNIÓN CON PAULA — 15/09/2026
-### Guía de gerencia · Objetivo: salir con franja declarada, esquema aceptado sin sorpresas y firma esta noche o mañana a primera hora
+### Guía de gerencia · Objetivo: salir con el esquema aceptado sin sorpresas, claridad de cómo manejará el seguimiento, y firma esta noche o mañana a primera hora
 
 ## LO QUE ELLA DEBE TENER CLARO (se recorre completo, sin saltar)
 
