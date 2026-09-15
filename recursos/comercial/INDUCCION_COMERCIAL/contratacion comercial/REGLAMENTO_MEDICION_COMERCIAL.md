@@ -46,6 +46,16 @@ Los leads digitales (pauta, bot, WhatsApp de la academia) entran ASIGNADOS a la 
 
 Los leads, prospectos y clientes de una vendedora que sale se REASIGNAN por gerencia en la planilla el mismo día de la salida. Los seguimientos vivos no esperan duelos: cita agendada se atiende, tibio se llama en 24h. Nada queda "de nadie".
 
+## 5C. VISITAS B2B (colegios y empresas) Y RODAMIENTO
+
+El trabajo de calle se paga y se verifica con TRES candados — sin los soportes, la visita no existe para ningún efecto:
+
+1. **PRE-AGENDA:** toda visita se registra en la planilla a más tardar el día ANTERIOR: empresa, contacto, cargo y hora. El rodamiento solo se liquida sobre visitas pre-agendadas.
+2. **CORREO DE CIERRE:** dentro de las 24 horas siguientes a la visita, correo de agradecimiento con el próximo paso propuesto, enviado al contacto visitado DESDE el correo corporativo de la academia y CON COPIA a gerencia. Ese correo es a la vez el soporte de la visita y el siguiente paso de la venta.
+3. **VERIFICACIÓN ALEATORIA (anunciada desde el día 1):** una vez al mes, gerencia llama a un contacto visitado elegido al azar, en tono de agradecimiento institucional.
+
+El rodamiento es un reembolso de gastos de movilidad (no salarial, monto en el contrato), liquidado por período contra visitas con los soportes 1 y 2 completos. Y el embudo B2B se mide como todo lo demás: visitas → respuestas → segundas reuniones → convenios. Conversión cero sostenida equivale a actividad no verificable, con las mismas consecuencias de la sección 4.
+
 ## 6. AUXILIOS Y PAGOS
 
 En esquema laboral: el salario se paga conforme a ley; lo que la medición gobierna es la CONTINUIDAD (prueba, cartas, renovación) y las comisiones. **UMBRAL DE COMISIÓN (rol con salario) — la mitad de la meta del mes: mes 1 comisiona desde la 3ª venta · mes 2 desde la 4ª · mes 3 desde la 5ª · meses 4-6 desde la 6ª · mes 7 en adelante desde la 7ª. Sobre esas ventas: 5% (cliente nuevo) / 2,5% (antiguo) del recaudo. El umbral resetea cada mes, sin arrastres. La meta de CONTINUIDAD es la curva de la sección 3 — el umbral de comisión siempre queda por debajo, para que la subida nunca sea gratis.** En esquema de prestación (sin básico): comisión desde la primera venta, y el auxilio semanal se causa solo con la medición del viernes cumplida. En ambos: recaudo efectivo, planilla, clawback por retracto — y las comisiones de personal con contrato laboral son factor salarial (costear con contaduría).
