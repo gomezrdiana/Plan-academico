@@ -34,6 +34,8 @@ Aquí nadie discute desempeño en reuniones eternas: **se mide contra números e
 
 **Regla que no se negocia: la actividad incumplida NO recibe carta de ampliación — recibe salida.** La carta existe para quien trabaja y aún no cierra (eso se entrena); no para quien no trabaja (eso no se entrena).
 
+**Regla de madurez:** quien ya cumplió la meta de RESULTADO del período administra su propia agenda — los mínimos de actividad son el piso mientras el resultado no llegue. Lo único que no se relaja jamás, con o sin metas cumplidas: el registro en planilla y el reporte diario de las 6:00 PM (sin registro no hay comisión ni medición).
+
 ## 5. CARTERA HUÉRFANA
 
 Los leads, prospectos y clientes de una vendedora que sale se REASIGNAN por gerencia en la planilla el mismo día de la salida. Los seguimientos vivos no esperan duelos: cita agendada se atiende, tibio se llama en 24h. Nada queda "de nadie".
