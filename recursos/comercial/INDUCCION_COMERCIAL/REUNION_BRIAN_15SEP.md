@@ -33,4 +33,9 @@
 2. ¿Qué día quedan las citas bajando al calendario?
 3. ¿Qué día queda el termómetro del panel?
 
-*(La línea de WhatsApp de Paula y su fecha de grabación se definen en la parte de la reunión con ella presente.)*
+## CUANDO ENTRE PAULA A LA LLAMADA (solo estas dos cosas, sin cifras)
+
+1. ¿Cuándo grabas los 5 videos? → con la respuesta, Brian dice en vivo qué día arranca su campaña (la fecha 1).
+2. ¿Te funciona una línea de WhatsApp Business de la academia, operada por ti?
+
+Después Brian se despide — lo de plata y contrato es aparte, entre gerencia y Paula.
