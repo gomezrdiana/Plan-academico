@@ -37,7 +37,7 @@ Lectura financiera: el downside está cubierto con el 20% de la meta, y cada mat
 
 ## 2C. Y DESPUÉS DE LOS COSTOS FIJOS — LA ESTRUCTURA COMPLETA (conservador)
 
-Estructura fija mensual de la academia (fuente: proyección de pagos, redondeada hacia arriba para ser conservadores; arriendo al valor vigente):
+Estructura fija mensual de la academia. *Nota de fuente: cifras tomadas de la proyección de pagos con corte a feb-2025, redondeadas HACIA ARRIBA para ser conservadores, con el arriendo actualizado al valor vigente ($7M). El P&G al día con recaudo real es el primer entregable del tablero financiero por construir.*
 
 | Rubro fijo mensual | Valor conservador |
 |---|---|
