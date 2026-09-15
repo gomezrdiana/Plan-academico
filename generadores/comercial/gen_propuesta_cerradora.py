@@ -70,7 +70,7 @@ sec('REGLAS DE LA CASA (innegociables)')
 t('Sin descuentos inventados (la única flexibilidad es la escrita) · sin promesas de empleo, visa o "bilingüe en X meses" · la palabra "patrocinio" no existe: es beca del Fondo · toda venta se registra en la planilla comercial para comisionar.')
 
 sec('EL PROCESO')
-t('1. Contrato de prestación de servicios con confidencialidad — esta semana. 2. Firmado = manual de venta completo + planilla + piezas, el mismo día. 3. Primera venta: esta misma semana.', bold=True)
+t('1. ¿Aceptas? Firmamos MAÑANA 15 DE SEPTIEMBRE a primera hora (contrato de prestación con confidencialidad). 2. Firmado = manual de venta completo + planilla + piezas EN ESE MISMO MOMENTO. 3. Mañana mismo grabas tus primeros videos y montamos la primera campaña. El reloj del 30 de septiembre corre desde ya — cada día vale.', bold=True)
 
 doc.add_paragraph()
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
