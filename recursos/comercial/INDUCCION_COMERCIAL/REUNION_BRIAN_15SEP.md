@@ -27,12 +27,6 @@
 1. **Citas del bot que no bajan al calendario.** Esto se arregla. ¿Para cuándo queda?
 2. **El termómetro del panel** (clasificación caliente/tibio/frío y la vista de leads): ya lo habíamos hablado — ¿ya tienes idea de para cuándo?
 
-## TEMA 4 — UNA SOLA CUENTA DE LEADS (explicado simple)
-
-Hoy Brian dice "13 a 30 leads diarios" pero ahí está mezclado todo: el curioso que solo escribió "hola" y la persona que dejó nombre y teléfono. Acordar con él:
-- **"Lead" de ahora en adelante = persona que dejó nombre y teléfono** (o agendó). Los demás son conversaciones, no leads.
-- Y que esos leads me lleguen SOLOS a la planilla: Brian me manda cada día la lista de los que dejaron datos (un archivo o mensaje, como le quede fácil). Así la planilla no depende de que alguien los copie a mano — y las comisiones y el costo por matrícula se calculan sobre números de verdad.
-
 ## DE LA REUNIÓN SALIMOS CON 3 FECHAS
 
 1. ¿Qué día arranca la campaña de Paula? (si graba mañana)
