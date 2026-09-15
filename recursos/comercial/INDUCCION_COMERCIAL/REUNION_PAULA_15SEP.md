@@ -5,9 +5,9 @@
 
 1. **Su trato:** 8% de todo su canal → **10% RETROACTIVO a toda su serie** si logra una de las dos puertas: 16 matrículas (8+8) al 30-sep, o los 20 cupos antes del 5-oct. **Bono $2.000.000** con grupos llenos (28 al 30-sep).
 2. **La pauta la financia y la opera la casa** sobre las piezas de ella, con leads a su WhatsApp. Tope $1M/mes revisable por resultados. Pieza y presupuesto se aprueban antes de publicar.
-3. **Leads que la casa le asigne: 5%.** Rebose: lead sin gestión en 4 horas dentro de su franja pasa a la casa. **Pase cruzado: 1%** de agendamiento para quien le pase un lead registrado que otra cierre (aplica en ambas direcciones).
+3. **Leads que la casa le asigne: 5%.** Rebose: lead sin gestión suya en 4 horas (ventana 8 AM - 9 PM) vuelve a la casa y gerencia lo reasigna. **Pase cruzado: 1%** de agendamiento para quien le pase un lead registrado que otra persona cierre (en ambas direcciones).
 4. **La plata de clientes entra SIEMPRE a cuentas de la academia** — jamás a cuentas del vendedor. Liquidaciones en los cortes (30-sep y 5-oct, luego mensual), contra cuenta de cobro, 5 días hábiles, con retracto vencido; si hay devolución legal, la comisión se descuenta de la siguiente liquidación.
-5. **Va a llegar una comercial de planta** (sede, teléfono, calle, colegios y empresas). Fronteras escritas: lo DIGITAL es de Paula; la SEDE y la calle, de la otra. Para Paula es buena noticia: más embudo lleno y el 1% de pase cuando le manden clientes.
+5. **Puede llegar más adelante una comercial de planta** (sede, teléfono, calle, colegios y empresas) — se decidirá con los datos de estas semanas. Si llega, las fronteras ya están escritas: lo DIGITAL es de Paula; la SEDE y la calle, de la otra. Para Paula sería buena noticia: más embudo lleno y el 1% de pase cuando le manden clientes.
 
 ## LA DOCTRINA UGC (dejarla cerrada HOY — es la conversación pendiente)
 
@@ -16,7 +16,7 @@
 
 ## PREGUNTAS QUE HACE GERENCIA (en este orden)
 
-1. **"¿En qué franja horaria atiendes tú los leads?"** — lo que diga queda escrita en el anexo. Sin franja declarada no hay enrutamiento.
+1. **"Los leads entran a toda hora — ¿cómo vas a manejar el seguimiento? ¿Hay horas que no alcanzas a cubrir?"** — pregunta abierta, sin pactarle horarios (es independiente). El reloj de 4 horas hace el control solo, y la planilla mostrará su cobertura real.
 2. "¿Cuándo grabas los 5 videos? ¿Mañana en la mañana te sirve?" (los guiones ya están aprobados — es ponerles cara).
 3. "¿Tienes claro que el reloj del 30 de septiembre corre desde ya? Quedan 15 días para la primera puerta."
 4. "¿Alguna duda del contrato o del anexo antes de firmar?" — y se firman: contrato de prestación + anexo económico. Kit completo se entrega EN el acto de la firma, no antes.

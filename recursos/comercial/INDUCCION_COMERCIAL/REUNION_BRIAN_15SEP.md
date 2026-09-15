@@ -26,9 +26,9 @@
 
 ## TEMA 2 — QUIÉN RECIBE CADA LEAD
 
-- En el horario de Paula (su franja, la declara hoy): todo lead digital es de ella. Si en 4 horas no lo toca, pasa a la casa.
-- Fuera de su horario: **el lead queda asignado a Paula como lead de la casa (comisiona 5%)** — lo atiende al entrar a su franja, el bot lo sostiene mientras tanto. Esto es EL PUENTE mientras decidimos si hace falta la comercial de planta (depende del tiempo real de Paula).
-- Pregunta para Brian: ¿el bot puede marcar de quién es cada lead y desde qué hora, para que el reloj de 4 horas se vea en la planilla?
+- Todo lead digital entra asignado a Paula, a cualquier hora. El bot responde al instante y agenda, como siempre.
+- **Reloj de 4 horas** (ventana 8 AM - 9 PM): si Paula no lo gestiona en ese tiempo, el lead rebosa a la casa y yo lo reasigno en planilla — puede volver a ella como lead de la casa (5%). Sin franjas pactadas: la planilla mostrará sola qué horas cubre, y con ESE dato decido en 1-2 semanas si hace falta la comercial de planta.
+- Pregunta para Brian: ¿el bot puede marcar de quién es cada lead y a qué hora entró, para que el reloj de 4 horas se vea en la planilla?
 
 ## TEMA 3 — LOS 3 DAÑOS, CADA UNO SALE CON FECHA
 

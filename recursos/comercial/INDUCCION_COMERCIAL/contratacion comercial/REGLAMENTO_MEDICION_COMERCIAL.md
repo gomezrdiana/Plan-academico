@@ -41,13 +41,12 @@ Aquí nadie discute desempeño en reuniones eternas: **se mide contra números e
 
 ## 5. REBOSE DE LEADS DE CAMPAÑA
 
-Los leads digitales (pauta, bot, WhatsApp de la academia) entran ASIGNADOS a la cerradora digital, cuya FRANJA DE ATENCIÓN queda declarada en su anexo. Reglas:
+Los leads digitales (pauta, bot, WhatsApp de la academia) entran ASIGNADOS a la cerradora digital, a cualquier hora — el bot responde al instante y agenda; no se pactan franjas ni horarios (prestación independiente). Reglas:
 
-1. **Dentro de su franja:** sin gestión humana registrada en planilla en CUATRO (4) horas, el lead pasa a la asesora de oficina y desde ahí es suyo para gestión y comisión.
-2. **Fuera de su franja:** el lead es de la asesora de oficina COMPLETO — ella contacta de inmediato, ella cierra, ella comisiona.
-3. **PASE CRUZADO VOLUNTARIO (comisión de agendamiento):** cualquiera de las dos puede pasarle un lead registrado a la otra; si la receptora lo cierra, la que lo pasó y agendó cobra el UNO por ciento (1%) del recaudo de esa venta, adicional a la comisión de la cerradora. El pase queda anotado en planilla al momento de hacerse — sin registro previo no hay 1%.
+1. **RELOJ DE 4 HORAS:** sin gestión humana registrada en planilla dentro de las cuatro (4) horas siguientes (contadas dentro de la ventana 8:00 AM - 9:00 PM), el lead rebosa a la casa y gerencia lo reasigna en planilla — a otra vendedora, o de vuelta a la misma como lead de la casa (5%). La planilla revela sola las horas que cada quien cubre: las decisiones de equipo se toman con ese dato.
+2. **PASE CRUZADO VOLUNTARIO (comisión de agendamiento):** cualquier vendedora puede pasarle un lead registrado a otra; si la receptora lo cierra, la que lo pasó cobra el UNO por ciento (1%) del recaudo de esa venta, adicional a la comisión de la cerradora. El pase queda anotado en planilla al momento de hacerse — sin registro previo no hay 1%.
 
-Nunca es carrera: es relevo con reloj y franjas — el lead caliente no espera a nadie, y la velocidad de cada una queda medida en la propia planilla.
+Nunca es carrera: es relevo con reloj — el lead caliente no espera a nadie, y la velocidad de cada una queda medida en la propia planilla.
 
 ## 5B. CARTERA HUÉRFANA
 
