@@ -44,15 +44,17 @@ Estructura fija mensual de la academia. *Nota de fuente: cifras tomadas de la pr
 | Arriendo sede | $7,0M |
 | Nómina administrativa + seguridad social (recepción/coordinación) | $7,4M |
 | Servicios, contaduría, calidad, internet, bancarios y otros | $3,5M |
+| Pauta permanente en Meta | $2,0M |
+| Proveedores digitales: gestión de pauta/bot, plataformas y licencias | $1,5M (conservador — ajustar al contrato real) |
 | Servicio de deuda (si se usa el cupo aprobado) | $1,1M |
 | Gerencia | $0 — la gerente no saca salario (a corregir cuando los números lo permitan) |
-| **TOTAL FIJOS ≈** | **$19-20M/mes** |
+| **TOTAL FIJOS ≈** | **$22-23M/mes** |
 
-*Nota técnica: los docentes del Arranque NO van aquí — sus horas ya están descontadas en el margen de contribución de la cohorte (sin doble conteo). Los docentes de los cohortes actuales se cubren contra los ingresos de esos mismos cohortes.*
+*Nota técnica anti doble conteo: los docentes del Arranque y los $2M de pauta DEL LANZAMIENTO ya están descontados dentro del margen de la cohorte — la pauta de esta tabla es la permanente de los meses siguientes. Los docentes de los cohortes actuales se cubren contra los ingresos de esos mismos cohortes. La contaduría va en la línea de servicios.*
 
 **Las dos lecturas, ambas honestas:**
-- **Lectura marginal (la correcta para evaluar el lanzamiento):** los fijos existen con o sin Arranque. La cohorte nueva agrega ≈$37,8M de contribución sin subir un peso de estructura — equivale a cubrir ella sola ~2 meses de TODOS los fijos de la academia.
-- **Lectura de sostenimiento (la que responde "¿cuánto hay que vender para vivir?"):** con fijos de $20M/mes y ~$1,9M de contribución por matrícula, **11 matrículas de Arranque al mes pagan la casa completa** — sin contar ninguna otra línea de ingreso (cohortes actuales, B2B, personalizados).
+- **Lectura marginal (la correcta para evaluar el lanzamiento):** los fijos existen con o sin Arranque. La cohorte nueva agrega ≈$37,8M de contribución sin subir un peso de estructura — equivale a cubrir ella sola ~1,5-2 meses de TODOS los fijos de la academia.
+- **Lectura de sostenimiento (la que responde "¿cuánto hay que vender para vivir?"):** con fijos de ~$23M/mes y ~$1,9M de contribución por matrícula, **12-13 matrículas de Arranque al mes pagan la casa completa, pauta incluida** — sin contar ninguna otra línea de ingreso (cohortes actuales, B2B, personalizados).
 
 *El P&G mensual completo y al día (con recaudo real de cohortes vigentes y cartera) es exactamente el tablero que está por construirse — la proyección de pagos vive en un Excel que pide actualización y dueño.*
 
