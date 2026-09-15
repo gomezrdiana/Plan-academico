@@ -1,46 +1,43 @@
 # REUNIÓN CON BRIAN — HOY 7:00 PM
-### Para salir con: la pauta lista para arrancar mañana y los daños del sistema con fecha de arreglo
+### Para salir con: la campaña de Paula lista para arrancar y los daños con fecha de arreglo
 
-## ANTES DE LA REUNIÓN — mándale esto ya por WhatsApp
-
-□ 1. ¿A qué horas llegan los leads? Tráeme la lista o gráfica de las últimas 2-3 semanas.
-□ 2. De los 13-30 leads diarios que me dijiste: ¿cuántos solo abren el bot y cuántos dejan datos o agendan? Los dos números.
-□ 3. ¿Qué pasó con las citas que no bajaron al calendario (Dani y Yenmi)? ¿Ya sabes la causa?
-□ 4. Retira HOY los accesos de la asesora que salió (portal y planilla).
-
-## TEMA 1 — LA PAUTA (la decisión grande de hoy)
+## TEMA 1 — LA PAUTA
 
 **Dos campañas, cada una con su plata:**
-- Campaña de la CASA: mis videos ya grabados → los leads llegan al bot de la academia. Plata: $1 millón al mes.
-- Campaña de PAULA: sus 5 videos → los leads llegan a su línea. Plata: $1 millón al mes.
-- **Tope total: $2 millones. No más.** Si una campaña matricula barato (menos de $150 mil por matrícula), Brian le pasa plata de la otra. Si matricula caro (más de $300 mil), se apaga. La plata se mueve ENTRE las dos, el total no sube.
-- Para subir de $2 millones: solo con plata que las matrículas ya metieron a caja. Cada 3 matrículas pagadas = $300 mil más de pauta el mes siguiente.
-- **Regla de oro: ninguna campaña arranca sin su mes completo PAGADO por adelantado en la cuenta.** Se acabó que Meta cancele campañas por cobros rebotados — eso daña el costo y la cuenta.
-- Toda pieza y toda plata la apruebo yo antes de publicar. Y las dos campañas no pueden mostrarse a la misma gente (que Brian separe las audiencias).
+- Campaña de la CASA: mis videos ya grabados → los leads llegan al bot de la academia. $1 millón al mes.
+- Campaña de PAULA: sus 5 videos → los leads llegan a su línea. $1 millón al mes.
+- **Tope total: $2 millones.** Si una campaña matricula barato (menos de $150 mil por matrícula), Brian le pasa plata de la otra. Si matricula caro (más de $300 mil), se apaga. La plata se mueve entre las dos; el total no sube.
+- Para subir de $2 millones: solo con plata de matrículas ya pagadas. Cada 3 matrículas cobradas = $300 mil más de pauta el mes siguiente.
+- **Compromiso mío (no de Brian):** yo dejo el mes de pauta pagado por adelantado en la cuenta antes de arrancar. Así ninguna campaña se cae a mitad de camino por un cobro rebotado.
+- Las dos campañas no se muestran a la misma gente: Brian separa las audiencias.
 
-**Preguntas para Brian:**
-1. Si Paula graba mañana, ¿qué día está andando su campaña?
-2. ¿Cómo separas las audiencias para que las dos campañas no se encarezcan entre sí?
-3. ¿Qué día de la semana y en qué formato me mandas el reporte: cuántas conversaciones generó cada campaña y a cuánto salió cada matrícula?
-4. ¿La línea de Paula puede ser un WhatsApp Business DE LA ACADEMIA que ella opera? (la línea y los chats quedan de la casa)
+## TEMA 2 — LOS LEADS: CÓMO FUNCIONA HOY Y CÓMO FUNCIONARÁ DESPUÉS
 
-## TEMA 2 — QUIÉN RECIBE CADA LEAD
-
+**Hoy (solo está Paula):**
 - Todo lead digital entra asignado a Paula, a cualquier hora. El bot responde al instante y agenda, como siempre.
-- **Reloj de 4 horas** (ventana 8 AM - 9 PM): si Paula no lo gestiona en ese tiempo, el lead rebosa a la casa y yo lo reasigno en planilla — puede volver a ella como lead de la casa (5%). Sin franjas pactadas: la planilla mostrará sola qué horas cubre, y con ESE dato decido en 1-2 semanas si hace falta la comercial de planta.
-- Pregunta para Brian: ¿el bot puede marcar de quién es cada lead y a qué hora entró, para que el reloj de 4 horas se vea en la planilla?
+- Si Paula no lo gestiona en 4 horas (entre 8 AM y 9 PM), el lead vuelve a mí y yo decido quién lo trabaja — puede volver a ella como lead de la casa (5%).
+- Pregunta para Brian: ¿el bot puede mostrar de quién es cada lead y a qué hora entró? (para que el reloj de 4 horas se pueda ver)
 
-## TEMA 3 — LOS 3 DAÑOS, CADA UNO SALE CON FECHA
+**El día que entre otra comercial (ya está escrito, solo es aplicarlo):**
+- Lo digital sigue siendo de Paula. Lo que llegue a la sede, al teléfono fijo y lo de la calle es de la nueva.
+- Cualquiera puede pasarle un cliente a la otra: si la otra lo cierra, la que lo pasó gana el 1% de esa venta.
 
-1. **Citas que no bajan al calendario.** Mientras se arregla: lista de las citas del día por WhatsApp, todos los días a las 7 AM. Empieza MAÑANA.
-2. **El panel solo muestra conversaciones** — la clasificación por temperatura y la vista de leads no funcionan. ¿Qué falta y cuándo?
-3. **La portada del portal está abierta sin clave.** Ponerle acceso.
+## TEMA 3 — LOS DAÑOS (se arreglan, con fecha dicha por él hoy)
 
-## TEMA 4 — DEJAR LISTO PARA LO QUE VIENE (cuesta poco hoy, evita enredos después)
+1. **Citas del bot que no bajan al calendario.** Esto se ARREGLA — no funciona con listas manuales ni promesas. ¿Qué está fallando y qué día queda arreglado?
+2. **El panel solo muestra conversaciones:** la clasificación de leads (caliente/tibio/frío) y la vista de leads no cargan. ¿Qué falta y qué día?
+3. Portal: ya pedí el cambio de URL/acceso. Pendiente que lo confirme.
 
-- Etiqueta "SEDE" en el bot, para separar lo que llegue por la oficina cuando haya alguien ahí.
-- Una sola definición de "lead" de aquí en adelante, y el registro bajando a la planilla (o un export diario).
+## TEMA 4 — UNA SOLA CUENTA DE LEADS (explicado simple)
 
-## CIERRE — FECHAS (llenar en la reunión)
+Hoy Brian dice "13 a 30 leads diarios" pero ahí está mezclado todo: el curioso que solo escribió "hola" y la persona que dejó nombre y teléfono. Acordar con él:
+- **"Lead" de ahora en adelante = persona que dejó nombre y teléfono** (o agendó). Los demás son conversaciones, no leads.
+- Y que esos leads me lleguen SOLOS a la planilla: Brian me manda cada día la lista de los que dejaron datos (un archivo o mensaje, como le quede fácil). Así la planilla no depende de que alguien los copie a mano — y las comisiones y el costo por matrícula se calculan sobre números de verdad.
 
-Campaña de Paula andando: ____/____ · Citas al calendario arreglado: ____/____ · Panel completo: ____/____ · Clave del portal: ____/____ · Lista diaria de citas: desde MAÑANA 7 AM.
+## AL FINAL DE LA REUNIÓN, YO SALGO SABIENDO 3 FECHAS
+
+1. ¿Qué día arranca la campaña de Paula? (si graba mañana)
+2. ¿Qué día queda arreglado lo de las citas al calendario?
+3. ¿Qué día queda el panel completo?
+
+*(Las preguntas de la línea de WhatsApp de Paula y de cuándo graba se hacen en la parte de la reunión CON PAULA presente, para que ella lo oiga de primera mano.)*
