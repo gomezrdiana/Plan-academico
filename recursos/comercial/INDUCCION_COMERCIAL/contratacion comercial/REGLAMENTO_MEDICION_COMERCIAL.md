@@ -16,7 +16,7 @@ Aquí nadie discute desempeño en reuniones eternas: **se mide contra números e
 ## 3. LOS UMBRALES
 
 **De actividad (mínimos DIARIOS — dependen solo de ella):**
-- 40 salientes/día registrados en planilla (200/semana) — de esos, mínimo 15 LLAMADAS DE VOZ.
+- 60 salientes/día registrados en planilla (300/semana) — de esos, mínimo 25 LLAMADAS DE VOZ. Los días con visita B2B ejecutada (protocolo 5C), el mínimo baja a 30 salientes.
 - 1 cita/asesoría agendada al día como piso (meta: 2) — mínimo semanal: 5.
 - Seguimientos propios ejecutados el día agendado, al 100%.
 - Reporte diario 6:00 PM en formato (foto de planilla + 5 números) TODOS los días.
@@ -44,8 +44,8 @@ Aquí nadie discute desempeño en reuniones eternas: **se mide contra números e
 Los leads digitales (pauta, bot, WhatsApp de la academia) entran ASIGNADOS a la cerradora digital, cuya FRANJA DE ATENCIÓN queda declarada en su anexo. Reglas:
 
 1. **Dentro de su franja:** sin gestión humana registrada en planilla en CUATRO (4) horas, el lead pasa a la asesora de oficina y desde ahí es suyo para gestión y comisión.
-2. **Fuera de su franja:** la asesora de oficina hace el PRIMER CONTACTO inmediato, y su primera jugada es AGENDAR la asesoría dentro de la franja de la cerradora — el lead citado queda de la cerradora (cierra la mejor). Solo si el cliente exige resolución inmediata y la oficina cierra en esa misma conversación, la venta es de la oficina.
-3. **Candado anti-retención:** quien agenda con la cerradora no puede retener al cliente para cerrarlo después — la cita registrada en planilla manda.
+2. **Fuera de su franja:** el lead es de la asesora de oficina COMPLETO — ella contacta de inmediato, ella cierra, ella comisiona.
+3. **PASE CRUZADO VOLUNTARIO (comisión de agendamiento):** cualquiera de las dos puede pasarle un lead registrado a la otra; si la receptora lo cierra, la que lo pasó y agendó cobra el UNO por ciento (1%) del recaudo de esa venta, adicional a la comisión de la cerradora. El pase queda anotado en planilla al momento de hacerse — sin registro previo no hay 1%.
 
 Nunca es carrera: es relevo con reloj y franjas — el lead caliente no espera a nadie, y la velocidad de cada una queda medida en la propia planilla.
 
