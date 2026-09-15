@@ -96,4 +96,17 @@ Y la segunda mitad de la tesis: **jamás se vende fácil.** Al cliente se le dic
 
 El negocio tiene margen del 60%+ y punto de equilibrio de 3-4 matrículas por cohorte. Lo que históricamente lo ha frenado no es demanda ni producto: es **músculo comercial y capital de trabajo para pauta y cobro**. Los dos se están resolviendo: el músculo comercial ya está contratado a comisión pura, y con capital de pauta sostenido el termostato escala lo que ya funciona. Con esas dos palancas, esto pasa de academia a plataforma de formación con 5 líneas de ingreso sobre la misma estructura.
 
+## 8. EL CIERRE: UN NEGOCIO DE UMBRAL CON MARGEN ALTO
+
+La pregunta correcta no es "¿es rentable?" — el producto siempre lo fue (60%+ de margen). Es un negocio de UMBRAL: por debajo de ~$23M de contribución al mes sangra despacio; por encima, cada matrícula extra son ~$1,9M casi limpios.
+
+- **Las 12-13 matrículas de sostenimiento son el peor caso teórico** (solo Arranques, cero todo lo demás). Los cohortes vigentes ya pagan cuotas cada mes, hay personalizados y upsells: lo que la máquina nueva debe cubrir es la BRECHA, no el total. Medirla es el primer número del tablero.
+- **La máquina está dimensionada por encima del umbral:** la matemática comercial es 40 contactos/día → ~20 matrículas/mes por vendedora cumpliendo. El sostenimiento completo es el 65% de UNA vendedora — y hay dos en firma.
+- **El mix acorta el camino:** un programa completo de $5,9M vale 2,5-3 Arranques en contribución. El cierre doble existe para eso.
+- **Los fijos tienen válvulas si un mes viene flojo:** pauta con termostato (−$2M), deuda solo si se usa (−$1,1M). Núcleo duro incomprimible: ~$18M.
+
+**La historia sin maquillaje:** Heiiu operó años por debajo de su umbral con el eslabón comercial roto — por eso los años flacos con un producto que siempre dio margen. Todo lo construido en las últimas dos semanas (bot, cerradoras a comisión pura, kit, lanzamiento) es la máquina para cruzar ese umbral y quedarse arriba. El riesgo de este negocio no es de margen ni de producto: es de ejecución comercial — y la ejecución comercial es exactamente lo que acaba de cambiar.
+
+**Quien aporte recursos aquí no financia un experimento: financia el cruce de un umbral que está a 13 matrículas de distancia, con una máquina diseñada para 20 — y una pregunta de gestión que se responde cada semana en la planilla: ¿la contribución del mes va arriba o abajo de $23M?**
+
 *Los números detrás de cada cifra están abiertos para revisión a fondo — contratos, matriz de precios, simulaciones de cohorte y flujo del lanzamiento.*
