@@ -42,7 +42,7 @@ Los leads, prospectos y clientes de una vendedora que sale se REASIGNAN por gere
 
 ## 6. AUXILIOS Y PAGOS
 
-En esquema laboral: el salario se paga conforme a ley; lo que la medición gobierna es la CONTINUIDAD (prueba, cartas, renovación) y las comisiones. En esquema de prestación: el auxilio es semanal y se causa solo con la medición del viernes cumplida. En ambos: las comisiones siguen las reglas del contrato — recaudo efectivo, planilla, clawback por retracto.
+En esquema laboral: el salario se paga conforme a ley; lo que la medición gobierna es la CONTINUIDAD (prueba, cartas, renovación) y las comisiones. **UMBRAL DE COMISIÓN (rol con salario): el sueldo cubre las 2 primeras matrículas-equivalentes del mes; de la TERCERA en adelante, comisión del 5% (cliente nuevo) / 2,5% (antiguo) sobre el recaudo de esas ventas. El umbral resetea cada mes, sin arrastres.** En esquema de prestación (sin básico): comisión desde la primera venta, y el auxilio semanal se causa solo con la medición del viernes cumplida. En ambos: recaudo efectivo, planilla, clawback por retracto — y las comisiones de personal con contrato laboral son factor salarial (costear con contaduría).
 
 ## 7. REGLAS DE VERSIONADO (aprendidas del estándar de industria)
 
