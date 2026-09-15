@@ -23,7 +23,7 @@ Aquí nadie discute desempeño en reuniones eternas: **se mide contra números e
 
 **De resultado (lo que paga la casa) — CURVA POR ANTIGÜEDAD (estilo industria: la meta crece con la madurez):**
 - Semana 2: primer abono o matrícula registrada.
-- Mes 1: 4 matrículas-equivalentes (~$12M de recaudo) · Mes 2: 6 (~$18M) · Mes 3: 8 (~$24M) · Mes 4 en adelante: 10 (~$30M), y se mantiene.
+- Mes 1: 4 matrículas-equivalentes (~$12M de recaudo) · Mes 2: 6 (~$18M) · Mes 3: 8 (~$24M) · Meses 4-6: 10 (~$30M) · Mes 7 en adelante: 12 (~$36M), y se mantiene hasta la revisión anual de enero (sección 7).
 - Se mide en RECAUDO del mes atribuido en planilla; 1 equivalente = $2.990.000. Las metas de los meses 3-4 presuponen los canales de colegios y empresas: un contrato corporativo cuenta completo por su recaudo.
 
 ## 4. LOS TRES RESULTADOS
@@ -38,13 +38,17 @@ Aquí nadie discute desempeño en reuniones eternas: **se mide contra números e
 
 **Regla de madurez:** quien ya cumplió la meta de RESULTADO del período administra su propia agenda — los mínimos de actividad son el piso mientras el resultado no llegue. Lo único que no se relaja jamás, con o sin metas cumplidas: el registro en planilla y el reporte diario de las 6:00 PM (sin registro no hay comisión ni medición).
 
-## 5. CARTERA HUÉRFANA
+## 5. REBOSE DE LEADS DE CAMPAÑA
+
+Los leads digitales (pauta, bot, WhatsApp de la academia) entran ASIGNADOS a la cerradora digital. **Regla de rebose:** si un lead no tiene gestión humana registrada en planilla dentro de las CUATRO (4) horas hábiles siguientes a su entrada (o a las 9:00 AM si entró en la noche), pasa automáticamente a la asesora de oficina, se anota la reasignación en planilla, y desde ahí es suyo para gestión y comisión. Nunca es carrera: es relevo con reloj — el lead caliente no espera a nadie, y la velocidad de cada una queda medida en la propia planilla.
+
+## 5B. CARTERA HUÉRFANA
 
 Los leads, prospectos y clientes de una vendedora que sale se REASIGNAN por gerencia en la planilla el mismo día de la salida. Los seguimientos vivos no esperan duelos: cita agendada se atiende, tibio se llama en 24h. Nada queda "de nadie".
 
 ## 6. AUXILIOS Y PAGOS
 
-En esquema laboral: el salario se paga conforme a ley; lo que la medición gobierna es la CONTINUIDAD (prueba, cartas, renovación) y las comisiones. **UMBRAL DE COMISIÓN (rol con salario) — la mitad de la meta del mes: mes 1 comisiona desde la 3ª venta · mes 2 desde la 4ª · mes 3 desde la 5ª · mes 4 en adelante desde la 6ª. Sobre esas ventas: 5% (cliente nuevo) / 2,5% (antiguo) del recaudo. El umbral resetea cada mes, sin arrastres. La meta de CONTINUIDAD es la curva de la sección 3 — el umbral de comisión siempre queda por debajo, para que la subida nunca sea gratis.** En esquema de prestación (sin básico): comisión desde la primera venta, y el auxilio semanal se causa solo con la medición del viernes cumplida. En ambos: recaudo efectivo, planilla, clawback por retracto — y las comisiones de personal con contrato laboral son factor salarial (costear con contaduría).
+En esquema laboral: el salario se paga conforme a ley; lo que la medición gobierna es la CONTINUIDAD (prueba, cartas, renovación) y las comisiones. **UMBRAL DE COMISIÓN (rol con salario) — la mitad de la meta del mes: mes 1 comisiona desde la 3ª venta · mes 2 desde la 4ª · mes 3 desde la 5ª · meses 4-6 desde la 6ª · mes 7 en adelante desde la 7ª. Sobre esas ventas: 5% (cliente nuevo) / 2,5% (antiguo) del recaudo. El umbral resetea cada mes, sin arrastres. La meta de CONTINUIDAD es la curva de la sección 3 — el umbral de comisión siempre queda por debajo, para que la subida nunca sea gratis.** En esquema de prestación (sin básico): comisión desde la primera venta, y el auxilio semanal se causa solo con la medición del viernes cumplida. En ambos: recaudo efectivo, planilla, clawback por retracto — y las comisiones de personal con contrato laboral son factor salarial (costear con contaduría).
 
 ## 7. REGLAS DE VERSIONADO (aprendidas del estándar de industria)
 
