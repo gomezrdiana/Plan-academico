@@ -35,7 +35,28 @@ La estructura es liviana a propósito: **cero salarios comerciales fijos** — a
 
 Lectura financiera: el downside está cubierto con el 20% de la meta, y cada matrícula por encima de la 4 es margen casi puro. Y el Arranque es la PUERTA, no el negocio completo: parte de esos 20 sube a B1-B2 (venta a base propia, costo de adquisición cero) y el cierre doble convierte a varios en programa completo de $5,9M desde el día uno.
 
-## 2C. POR QUÉ FONDO DE BECAS Y NO DESCUENTOS (decisión de arquitectura de precios)
+## 2C. Y DESPUÉS DE LOS COSTOS FIJOS — LA ESTRUCTURA COMPLETA (conservador)
+
+Estructura fija mensual de la academia (fuente: proyección de pagos, redondeada hacia arriba para ser conservadores; arriendo al valor vigente):
+
+| Rubro fijo mensual | Valor conservador |
+|---|---|
+| Arriendo sede | $7,0M |
+| Nómina administrativa + seguridad social (recepción/coordinación) | $7,4M |
+| Servicios, contaduría, calidad, internet, bancarios y otros | $3,5M |
+| Servicio de deuda (si se usa el cupo aprobado) | $1,1M |
+| Gerencia | $0 — la gerente no saca salario (a corregir cuando los números lo permitan) |
+| **TOTAL FIJOS ≈** | **$19-20M/mes** |
+
+*Nota técnica: los docentes del Arranque NO van aquí — sus horas ya están descontadas en el margen de contribución de la cohorte (sin doble conteo). Los docentes de los cohortes actuales se cubren contra los ingresos de esos mismos cohortes.*
+
+**Las dos lecturas, ambas honestas:**
+- **Lectura marginal (la correcta para evaluar el lanzamiento):** los fijos existen con o sin Arranque. La cohorte nueva agrega ≈$37,8M de contribución sin subir un peso de estructura — equivale a cubrir ella sola ~2 meses de TODOS los fijos de la academia.
+- **Lectura de sostenimiento (la que responde "¿cuánto hay que vender para vivir?"):** con fijos de $20M/mes y ~$1,9M de contribución por matrícula, **11 matrículas de Arranque al mes pagan la casa completa** — sin contar ninguna otra línea de ingreso (cohortes actuales, B2B, personalizados).
+
+*El P&G mensual completo y al día (con recaudo real de cohortes vigentes y cartera) es exactamente el tablero que está por construirse — la proyección de pagos vive en un Excel que pide actualización y dueño.*
+
+## 2D. POR QUÉ FONDO DE BECAS Y NO DESCUENTOS (decisión de arquitectura de precios)
 
 El descuento es la forma más cara de vender: destruye el precio de lista para siempre, le enseña al cliente a regatear, y huele a sobreprecio ("si me puede rebajar 45%, ¿cuánto vale de verdad?"). La beca del Fondo hace lo contrario, y cada diferencia es plata:
 
