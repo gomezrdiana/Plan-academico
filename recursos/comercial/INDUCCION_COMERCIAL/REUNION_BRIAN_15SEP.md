@@ -1,40 +1,46 @@
-# REUNIÓN CON BRIAN — 15/09/2026, 7:00 PM
-### Guía de gerencia · Objetivo: salir con la pauta de la cerradora lista para arrancar mañana y los 3 huecos del sistema con fecha
+# REUNIÓN CON BRIAN — HOY 7:00 PM
+### Para salir con: la pauta lista para arrancar mañana y los daños del sistema con fecha de arreglo
 
-## ANTES DE LA REUNIÓN — LO QUE SE LE PIDE (enviar ya por WhatsApp)
+## ANTES DE LA REUNIÓN — mándale esto ya por WhatsApp
 
-□ 1. **Histograma de horas:** ¿a qué horas entran los leads? (últimas 2-3 semanas).
-□ 2. **Definición de "lead":** de los 13-30 diarios, ¿cuántos son solo conversaciones que abren el bot y cuántos dejan datos o agendan? Los dos números por separado.
-□ 3. **Estado de las citas que no bajaron al calendario** (caso de ayer: Dani y Yenmi) — causa y arreglo.
-□ 4. **Retirar HOY los accesos de la asesora que salió** (portal del bot y planilla de Drive).
+□ 1. ¿A qué horas llegan los leads? Tráeme la lista o gráfica de las últimas 2-3 semanas.
+□ 2. De los 13-30 leads diarios que me dijiste: ¿cuántos solo abren el bot y cuántos dejan datos o agendan? Los dos números.
+□ 3. ¿Qué pasó con las citas que no bajaron al calendario (Dani y Yenmi)? ¿Ya sabes la causa?
+□ 4. Retira HOY los accesos de la asesora que salió (portal y planilla).
 
-## TEMA 1 — LA PAUTA DE LA CERRADORA (la decisión grande)
+## TEMA 1 — LA PAUTA (la decisión grande de hoy)
 
-- DOS campañas, DOS embudos: CASA (videos ya grabados de la academia → bot/WhatsApp de la casa) y CERRADORA (sus 5 videos → su línea). Todo desde la cuenta publicitaria de la ACADEMIA.
-- **Presupuesto total: $2.000.000/mes — $1M casa + $1M cerradora.** El termostato reasigna DENTRO de los $2M según costo por matrícula de cada embudo (≤$150 mil gana presupuesto del otro; >$300 mil se apaga). Subir del total solo autofinanciado: cada 3 matrículas recaudadas liberan $300 mil más el mes siguiente.
-- **Regla anti-cancelación:** ninguna campaña se lanza sin su mes completo FONDEADO por adelantado (saldo prepagado en la cuenta, no cobro automático). Presupuestos diarios chicos.
-- Toda pieza y presupuesto: aprobación de gerencia ANTES de publicar. Audiencias EXCLUIDAS entre las dos campañas para no competirse.
-- **Reporte semanal de Brian:** conversaciones generadas por campaña + costo por matrícula de cada embudo (el cruce contra la planilla lo hace gerencia).
-- **Preguntas:** ¿Cuándo está montada la primera campaña de la cerradora si graba mañana? ¿Cómo excluimos audiencias? ¿Qué día y en qué formato me llega el reporte semanal? ¿La línea de la cerradora puede ser WhatsApp Business DE LA ACADEMIA operada por ella?
+**Dos campañas, cada una con su plata:**
+- Campaña de la CASA: mis videos ya grabados → los leads llegan al bot de la academia. Plata: $1 millón al mes.
+- Campaña de PAULA: sus 5 videos → los leads llegan a su línea. Plata: $1 millón al mes.
+- **Tope total: $2 millones. No más.** Si una campaña matricula barato (menos de $150 mil por matrícula), Brian le pasa plata de la otra. Si matricula caro (más de $300 mil), se apaga. La plata se mueve ENTRE las dos, el total no sube.
+- Para subir de $2 millones: solo con plata que las matrículas ya metieron a caja. Cada 3 matrículas pagadas = $300 mil más de pauta el mes siguiente.
+- **Regla de oro: ninguna campaña arranca sin su mes completo PAGADO por adelantado en la cuenta.** Se acabó que Meta cancele campañas por cobros rebotados — eso daña el costo y la cuenta.
+- Toda pieza y toda plata la apruebo yo antes de publicar. Y las dos campañas no pueden mostrarse a la misma gente (que Brian separe las audiencias).
 
-## TEMA 2 — ENRUTAMIENTO POR FRANJA
+**Preguntas para Brian:**
+1. Si Paula graba mañana, ¿qué día está andando su campaña?
+2. ¿Cómo separas las audiencias para que las dos campañas no se encarezcan entre sí?
+3. ¿Qué día de la semana y en qué formato me mandas el reporte: cuántas conversaciones generó cada campaña y a cuánto salió cada matrícula?
+4. ¿La línea de Paula puede ser un WhatsApp Business DE LA ACADEMIA que ella opera? (la línea y los chats quedan de la casa)
 
-- En la franja de la cerradora: todo lo digital a ella, con reloj de rebose de 4 horas.
-- Fuera de su franja: a la casa (gerencia de puente hasta que exista la comercial de planta).
-- **Preguntas:** ¿El bot puede enrutar por horario? ¿Cómo queda visible en planilla quién tiene cada lead y desde cuándo (para el reloj)?
+## TEMA 2 — QUIÉN RECIBE CADA LEAD
 
-## TEMA 3 — LOS 3 HUECOS DEL SISTEMA (cada uno sale con FECHA)
+- En el horario de Paula (su franja, la declara hoy): todo lead digital es de ella. Si en 4 horas no lo toca, pasa a la casa.
+- Fuera de su horario: **el lead queda asignado a Paula como lead de la casa (comisiona 5%)** — lo atiende al entrar a su franja, el bot lo sostiene mientras tanto. Esto es EL PUENTE mientras decidimos si hace falta la comercial de planta (depende del tiempo real de Paula).
+- Pregunta para Brian: ¿el bot puede marcar de quién es cada lead y desde qué hora, para que el reloj de 4 horas se vea en la planilla?
 
-1. **Bot → calendario:** citas agendadas que no aparecen. Mientras se arregla: lista de citas del día por WhatsApp a las 7:00 AM, todos los días.
-2. **Panel:** temperatura y vista de leads caídas — solo funcionan las conversaciones. ¿Qué falta y cuándo?
-3. **Seguridad:** la portada del portal está abierta sin clave. Ponerle acceso.
+## TEMA 3 — LOS 3 DAÑOS, CADA UNO SALE CON FECHA
 
-## TEMA 4 — PREPARAR LA LLEGADA DE LA COMERCIAL DE PLANTA
+1. **Citas que no bajan al calendario.** Mientras se arregla: lista de las citas del día por WhatsApp, todos los días a las 7 AM. Empieza MAÑANA.
+2. **El panel solo muestra conversaciones** — la clasificación por temperatura y la vista de leads no funcionan. ¿Qué falta y cuándo?
+3. **La portada del portal está abierta sin clave.** Ponerle acceso.
 
-- Canal/etiqueta "SEDE" en el bot para atribución separada.
-- Correo corporativo para ella (requisito del protocolo de visitas B2B).
-- Registro fluyendo a la planilla (o export diario): UNA definición de lead para comisiones y costo por matrícula.
+## TEMA 4 — DEJAR LISTO PARA LO QUE VIENE (cuesta poco hoy, evita enredos después)
 
-## CIERRE — ACUERDOS CON FECHA (llenar en la reunión)
+- Etiqueta "SEDE" en el bot, para separar lo que llegue por la oficina cuando haya alguien ahí.
+- Una sola definición de "lead" de aquí en adelante, y el registro bajando a la planilla (o un export diario).
 
-Primera campaña de la cerradora: ____/____ · Arreglo bot-calendario: ____/____ · Panel completo: ____/____ · Clave del portal: ____/____ · Lista diaria de citas: desde MAÑANA 7:00 AM.
+## CIERRE — FECHAS (llenar en la reunión)
+
+Campaña de Paula andando: ____/____ · Citas al calendario arreglado: ____/____ · Panel completo: ____/____ · Clave del portal: ____/____ · Lista diaria de citas: desde MAÑANA 7 AM.
