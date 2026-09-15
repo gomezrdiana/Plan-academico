@@ -50,9 +50,14 @@ Los leads, prospectos y clientes de una vendedora que sale se REASIGNAN por gere
 
 En esquema laboral: el salario se paga conforme a ley; lo que la medición gobierna es la CONTINUIDAD (prueba, cartas, renovación) y las comisiones. **UMBRAL DE COMISIÓN (rol con salario) — la mitad de la meta del mes: mes 1 comisiona desde la 3ª venta · mes 2 desde la 4ª · mes 3 desde la 5ª · meses 4-6 desde la 6ª · mes 7 en adelante desde la 7ª. Sobre esas ventas: 5% (cliente nuevo) / 2,5% (antiguo) del recaudo. El umbral resetea cada mes, sin arrastres. La meta de CONTINUIDAD es la curva de la sección 3 — el umbral de comisión siempre queda por debajo, para que la subida nunca sea gratis.** En esquema de prestación (sin básico): comisión desde la primera venta, y el auxilio semanal se causa solo con la medición del viernes cumplida. En ambos: recaudo efectivo, planilla, clawback por retracto — y las comisiones de personal con contrato laboral son factor salarial (costear con contaduría).
 
-## 6B. ASCENSO DEL MES 7 (plan de carrera)
+## 6B. ESCALERA SALARIAL (plan de carrera — dos ascensos por resultados)
 
-Si la vendedora pasó las mediciones de los meses 4, 5 y 6 **sin ninguna carta de ampliación**, en el mes 7 su salario base SUBE (monto pactado en el contrato) en el mismo acto en que la meta pasa a 12: la vara y el piso suben juntos. Con cartas en ese trimestre, el ascenso se aplaza hasta completar un trimestre limpio. El ascenso se formaliza por otrosí y no altera umbrales ni porcentajes de comisión.
+El salario base sube DOS veces durante el primer año, siempre por resultados medidos y nunca por antigüedad sola (montos pactados en el contrato; cada ascenso se formaliza por otrosí y no altera umbrales ni porcentajes de comisión):
+
+1. **ASCENSO DEL MES 4:** si pasó las mediciones de los meses 1, 2 y 3 (metas 4, 6 y 8 cumplidas). Se admite máximo UNA carta de ampliación en el período, y solo si fue recuperada cumpliendo la meta del mes siguiente. Con más de una carta o una sin recuperar, el ascenso se aplaza hasta completar tres meses consecutivos cumplidos.
+2. **ASCENSO DEL MES 7:** si pasó las mediciones de los meses 4, 5 y 6 **sin ninguna carta**. Sube en el mismo acto en que la meta pasa a 12: la vara y el piso suben juntos. Con cartas, se aplaza hasta completar un trimestre limpio.
+
+Cada peldaño se financia con la producción ya demostrada del período anterior: si no hay avance medido, la escalera no se causa.
 
 ## 7. REGLAS DE VERSIONADO (aprendidas del estándar de industria)
 
