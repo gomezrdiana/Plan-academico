@@ -42,5 +42,11 @@ Los leads, prospectos y clientes de una vendedora que sale se REASIGNAN por gere
 
 En esquema laboral: el salario se paga conforme a ley; lo que la medición gobierna es la CONTINUIDAD (prueba, cartas, renovación) y las comisiones. En esquema de prestación: el auxilio es semanal y se causa solo con la medición del viernes cumplida. En ambos: las comisiones siguen las reglas del contrato — recaudo efectivo, planilla, clawback por retracto.
 
+## 7. REGLAS DE VERSIONADO (aprendidas del estándar de industria)
+
+- **Indexación, no rediseño:** la estructura de este reglamento no cambia; los umbrales en pesos se revisan UNA vez al año (enero) junto con los precios. Entre revisiones, los números son fijos.
+- **Sin cambios retroactivos:** un cambio de metas aplica desde el ciclo de medición SIGUIENTE. A cada vendedora la mide la versión que firmó, hasta cerrar su ciclo en curso.
+- **Pre-corte:** la medición del segundo viernes del mes es la alerta temprana — se revisa cómo va la meta mensual y se ajusta el plan. La medición de fin de mes nunca debe sorprender: solo confirma.
+
 ---
 *Firmas: Vendedora: ______________________ C.C. __________ · Gerencia: ______________________ · Fecha: ____/____/______*
