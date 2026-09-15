@@ -15,11 +15,12 @@ Aquí nadie discute desempeño en reuniones eternas: **se mide contra números e
 
 ## 3. LOS UMBRALES
 
-**De actividad (semanal — dependen solo de ella):**
-- 40 salientes/día registrados en planilla (200/semana).
+**De actividad (mínimos DIARIOS — dependen solo de ella):**
+- 40 salientes/día registrados en planilla (200/semana) — de esos, mínimo 15 LLAMADAS DE VOZ.
+- 1 cita/asesoría agendada al día como piso (meta: 2) — mínimo semanal: 5.
+- Seguimientos propios ejecutados el día agendado, al 100%.
 - Reporte diario 6:00 PM en formato (foto de planilla + 5 números) TODOS los días.
-- Seguimientos propios ejecutados el día agendado.
-- Mínimo 5 citas/asesorías agendadas por semana a partir de la semana 1.
+- Desde el mes 2: 3 visitas B2B por semana con el protocolo de la sección 5C.
 
 **De resultado (lo que paga la casa) — CURVA POR ANTIGÜEDAD (estilo industria: la meta crece con la madurez):**
 - Semana 2: primer abono o matrícula registrada.
@@ -40,7 +41,13 @@ Aquí nadie discute desempeño en reuniones eternas: **se mide contra números e
 
 ## 5. REBOSE DE LEADS DE CAMPAÑA
 
-Los leads digitales (pauta, bot, WhatsApp de la academia) entran ASIGNADOS a la cerradora digital. **Regla de rebose:** si un lead no tiene gestión humana registrada en planilla dentro de las CUATRO (4) horas hábiles siguientes a su entrada (o a las 9:00 AM si entró en la noche), pasa automáticamente a la asesora de oficina, se anota la reasignación en planilla, y desde ahí es suyo para gestión y comisión. Nunca es carrera: es relevo con reloj — el lead caliente no espera a nadie, y la velocidad de cada una queda medida en la propia planilla.
+Los leads digitales (pauta, bot, WhatsApp de la academia) entran ASIGNADOS a la cerradora digital, cuya FRANJA DE ATENCIÓN queda declarada en su anexo. Reglas:
+
+1. **Dentro de su franja:** sin gestión humana registrada en planilla en CUATRO (4) horas, el lead pasa a la asesora de oficina y desde ahí es suyo para gestión y comisión.
+2. **Fuera de su franja:** la asesora de oficina hace el PRIMER CONTACTO inmediato, y su primera jugada es AGENDAR la asesoría dentro de la franja de la cerradora — el lead citado queda de la cerradora (cierra la mejor). Solo si el cliente exige resolución inmediata y la oficina cierra en esa misma conversación, la venta es de la oficina.
+3. **Candado anti-retención:** quien agenda con la cerradora no puede retener al cliente para cerrarlo después — la cita registrada en planilla manda.
+
+Nunca es carrera: es relevo con reloj y franjas — el lead caliente no espera a nadie, y la velocidad de cada una queda medida en la propia planilla.
 
 ## 5B. CARTERA HUÉRFANA
 
