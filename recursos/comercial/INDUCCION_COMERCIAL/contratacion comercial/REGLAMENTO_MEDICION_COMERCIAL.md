@@ -1,5 +1,5 @@
 # REGLAMENTO DE MEDICIÓN COMERCIAL — HEIIU (v1 · 15/09/2026)
-### Aplica a todo rol comercial de la casa · Se entrega y firma CON el contrato (hace parte del Anexo de Actividad) · Adaptado del estándar de medición de fuerza comercial de industria aseguradora
+### Aplica a todo rol comercial de la casa · Se firma como ANEXO del contrato (laboral o de prestación) y las metas quedan pactadas como obligación esencial · Adaptado del estándar de medición de fuerza comercial de industria aseguradora
 
 ## 1. EL PRINCIPIO
 
@@ -30,7 +30,7 @@ Aquí nadie discute desempeño en reuniones eternas: **se mide contra números e
 |---|---|---|
 | **PASA** | Actividad + resultado cumplidos | Sigue, comisiona, el auxilio del período se paga completo |
 | **CARTA DE AMPLIACIÓN** | Actividad cumplida, resultado corto (≥50% de la meta) | UNA semana adicional con meta escrita y acompañamiento (rol-play, revisión de guiones). El auxilio del período se paga proporcional |
-| **SALIDA** | Actividad incumplida en cualquier medición · O resultado <50% sin actividad que lo excuse · O DOS cartas de ampliación consecutivas | Terminación inmediata por escrito (cláusula 13: sin preaviso, pagando solo lo causado). Sin drama y sin excepción |
+| **SALIDA** | Actividad incumplida en cualquier medición · O resultado <50% sin actividad que lo excuse · O DOS cartas de ampliación consecutivas | Según la etapa del contrato: dentro del período de prueba = terminación en prueba, el mismo día · después = no renovación del término fijo (aviso con 30 días) o terminación por incumplimiento de la obligación esencial de metas pactada en el contrato. Siempre por escrito, sin drama y sin excepción |
 
 **Regla que no se negocia: la actividad incumplida NO recibe carta de ampliación — recibe salida.** La carta existe para quien trabaja y aún no cierra (eso se entrena); no para quien no trabaja (eso no se entrena).
 
@@ -40,7 +40,7 @@ Los leads, prospectos y clientes de una vendedora que sale se REASIGNAN por gere
 
 ## 6. AUXILIOS Y PAGOS
 
-Todo auxilio es SEMANAL, voluntario, no salarial, y se paga contra la medición del viernes: actividad cumplida = se paga; incumplida = no se causa. Las comisiones siguen las reglas del contrato (recaudo efectivo, planilla, clawback por retracto).
+En esquema laboral: el salario se paga conforme a ley; lo que la medición gobierna es la CONTINUIDAD (prueba, cartas, renovación) y las comisiones. En esquema de prestación: el auxilio es semanal y se causa solo con la medición del viernes cumplida. En ambos: las comisiones siguen las reglas del contrato — recaudo efectivo, planilla, clawback por retracto.
 
 ---
 *Firmas: Vendedora: ______________________ C.C. __________ · Gerencia: ______________________ · Fecha: ____/____/______*

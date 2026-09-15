@@ -5,7 +5,7 @@
 ## 0. ANTES DE CITAR (filtro de 5 minutos por teléfono)
 
 1. ¿Disponibilidad presencial en Bucaramanga, en sede? (Si vive fuera: NO — lección aprendida.)
-2. ¿Acepta esquema de comisión sobre recaudo + auxilio semanal condicionado a entregables, sin básico? (Si pide básico: se agradece y fin. No se negocia por teléfono.)
+2. El esquema es: contrato laboral a término fijo de 3 meses con período de prueba, salario mínimo + comisiones sobre recaudo, y medición semanal escrita el primer mes. ¿Le funciona? (Quien pida "sin mediciones" o "renovación garantizada": fin.)
 3. ¿Cuándo puede empezar? (Más de 1 semana = descartada: el lanzamiento corre.)
 
 ## 1. CÓMO SE PREGUNTA — STAR (1 minuto de repaso para ti)
@@ -61,4 +61,4 @@ Toda respuesta general ("yo soy muy buena para X") se persigue así:
 | 4+ competencias en A, prueba práctica sólida, referencias OK | OFERTA: papeles el mismo día (contrato + anexo + acuerdo de actividad), arranca el lunes siguiente |
 | Mezcla de A y B | Segunda candidata de comparación antes de decidir — nunca se contrata "porque no hay más" |
 
-**La oferta es una sola e innegociable: comisión 5%/2,5% sobre recaudo + auxilio semanal condicionado al acuerdo de actividad + medición escrita desde la semana 1 (ver REGLAMENTO_MEDICION_COMERCIAL). Quien pida otra cosa no es la persona.**
+**La oferta es una sola e innegociable: contrato laboral a TÉRMINO FIJO de 3 meses · período de prueba por escrito (~18 días) · salario mínimo + comisiones 5%/2,5% sobre recaudo · el REGLAMENTO DE MEDICIÓN firmado como anexo del contrato, con las mediciones de las semanas 1 y 2 DENTRO del período de prueba. Renovación solo por resultados. Quien pida otra cosa no es la persona.**
