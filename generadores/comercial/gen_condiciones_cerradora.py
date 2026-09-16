@@ -73,7 +73,7 @@ b('en el contrato — mata la objeción #1.', bold_first='La única GARANTÍA DE
 b('página web publicada + primer mensaje de venta en inglés, o su POSTULACIÓN a un programa en el exterior (Au Pair, Work and Travel) diligenciada, con video de presentación y entrevista ensayada. Si el cliente no quiere ninguno: no pasa nada — es un bono opcional, cursa sus niveles igual, mismo precio.', bold_first='MÓDULO DE GRADUACIÓN a elección, estrenándose con esta cohorte: ')
 b('Institución con licencia desde 2012, programas registrados, certificación ICONTEC. Contador REAL de cupos: la urgencia no es teatro.')
 b('abono de $300.000 hoy congela cupo y precio; el desembolso o el cheque llegan en máximo 10 días hábiles.', bold_first='El crédito de financiera o cooperativa — y el cheque de CESANTÍAS — cuentan como CONTADO: ')
-b('quien solo puede estudiar los sábados también se matricula, a las tarifas de la matriz vigente. Ningún cliente se va por el horario.', bold_first='MODALIDAD SABATINA: ')
+b('quien solo puede estudiar los sábados también se matricula, a las tarifas de la matriz vigente — y recibe desde los 12 AÑOS (el mercado de papás que las jornadas de semana no atienden). Ningún cliente se va por el horario ni por la edad.', bold_first='MODALIDAD SABATINA: ')
 b('la sesión de ubicación define su nivel, y se le vende el paquete DESDE SU NIVEL hasta B2 con beca del Fondo (A2→B2 $7.100.000 full · B1→B2 $5.185.000 full — la tarjeta de becas trae la matriz por perfil), o su nivel individual. Entra al grupo vigente de su nivel o separa cupo para la próxima apertura. Comisiona igual por canal — tickets a menudo mayores que un Arranque. Ningún cliente se va por saber inglés.', bold_first='EL QUE YA TIENE NIVEL: ')
 
 sec('2. LA META')
@@ -104,7 +104,7 @@ b('Arranque, programas completos, niveles individuales y sabatinos. Las PUERTAS 
 
 sec('5. A QUIÉN LE VENDEMOS — EL COMPROMISO DEL ESTUDIANTE')
 t('Aquí no se matricula a cualquiera, y eso es una FORTALEZA de venta, no un freno:')
-b('17 años o más, y sesión de ubicación ANTES de decidir (el nivel lo define la academia, no el cliente).', bold_first='Requisitos de entrada: ')
+b('jornadas de semana desde los 17 años · modalidad SABATINA desde los 12 (el contrato del menor lo firma su acudiente). Siempre: sesión de ubicación ANTES de decidir — el nivel lo define la academia, no el cliente.', bold_first='Requisitos de entrada: ')
 b('esto se entrena como un deporte — asistencia, tareas, audio diario. La garantía existe PORQUE exige: si el estudiante cumple su parte y no avanza, se le devuelve la plata. Sin su parte, no hay garantía.', bold_first='El trato se dice antes de firmar: ')
 b('el que firma advertido no deserta en la semana 3 ni pide devolución. El que entra engañado con "fácil y divertido" se retira, reclama y habla mal. Preferimos un NO honesto hoy que una devolución en noviembre.', bold_first='Por qué se vende así: ')
 
