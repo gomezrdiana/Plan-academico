@@ -78,9 +78,9 @@ Aquí no se matricula a cualquiera, y eso es una FORTALEZA de venta, no un freno
 4. **El abono de separación se explica SIEMPRE al cliente al recibirlo:** dentro de los 5 días hábiles de retracto de ley, se devuelve completo si se arrepiente; vencido ese plazo, NO se devuelve en efectivo — queda como saldo a favor para cualquier programa de la academia. Dicho antes, es una regla; descubierto después, es un reclamo.
 5. Solo se ofrecen los precios, becas y planes de la matriz vigente. **Se dice "precio de lanzamiento" y "beca del Fondo" — JAMÁS "descuento" ni "patrocinio".** Nada de promesas de visa, empleo, "fácil" o "rápido".
 
-## 10. EL PLAN DE ARRANQUE (a tu ritmo, pero con plan)
+## 10. EL PLAN DE ARRANQUE
 
-Firma → kit completo de venta en el acto → grabas las 5 piezas → subtítulos → tu campaña al aire. **Tu puerta del 10% empieza a contar el día que TU primera campaña se publica** — el sistema arranca contigo, no te persigue. Lo único con fecha fija es la cohorte: 5 de octubre.
+Firma → kit completo de venta en el acto → grabas las 5 piezas → subtítulos → tu campaña al aire. **Tu puerta del 10% cuenta desde el día en que tu primera campaña se publica.** La única fecha fija es la cohorte: 5 de octubre.
 
 ## 11. LOS 5 BRIEFS (tus palabras, esta estructura — los repasamos juntas en la entrega)
 

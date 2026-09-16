@@ -127,8 +127,8 @@ b('30 de septiembre y 5 de octubre (después, mensual). Se paga contra tu cuenta
 b('dentro de los 5 días hábiles de retracto de ley se devuelve completo; vencido ese plazo, NO se devuelve en efectivo — queda como saldo a favor para cualquier programa. Dicho antes, es una regla; descubierto después, es un reclamo.', bold_first='El abono de separación se explica SIEMPRE al cliente: ')
 b('Se dice "precio de lanzamiento" y "beca del Fondo" — JAMÁS "descuento" ni "patrocinio". Nada de promesas de visa, empleo, "fácil" o "rápido".', bold_first='Solo la matriz vigente: ')
 
-sec('10. EL PLAN DE ARRANQUE (a tu ritmo, pero con plan)')
-t('Firma → kit completo de venta en el acto → grabas las 5 piezas → subtítulos → tu campaña al aire. Tu puerta del 10% empieza a contar el día que TU primera campaña se publica — el sistema arranca contigo, no te persigue. Lo único con fecha fija es la cohorte: 5 de octubre.', bold=True)
+sec('10. EL PLAN DE ARRANQUE')
+t('Firma → kit completo de venta en el acto → grabas las 5 piezas → subtítulos → tu campaña al aire. Tu puerta del 10% cuenta desde el día en que tu primera campaña se publica. La única fecha fija es la cohorte: 5 de octubre.', bold=True)
 
 sec('11. LOS 5 BRIEFS (tus palabras, esta estructura — los repasamos juntas en la entrega)')
 t('REGLAS PARA TODAS LAS PIEZAS — lo único innegociable:', bold=True)
