@@ -9,7 +9,7 @@ Y detrás, el high ticket: **el programa completo A1→B2** (575 horas) con beca
 
 **Por qué este producto CIERRA (tus armas):**
 - La única **GARANTÍA DE APRENDIZAJE POR ESCRITO** de la ciudad, en el contrato — mata la objeción #1.
-- **Módulo de Graduación a elección**, estrenándose con esta cohorte: página web publicada + primer mensaje de venta en inglés, o aplicación lista para irse a trabajar afuera. **Y si el cliente no quiere ninguno de los dos: no pasa nada** — es un bono opcional, cursa sus niveles y recibe sus certificados igual, mismo precio.
+- **Módulo de Graduación a elección**, estrenándose con esta cohorte: página web publicada + primer mensaje de venta en inglés, o su POSTULACIÓN a un programa en el exterior (Au Pair, Work and Travel) diligenciada y lista, con video de presentación y entrevista ensayada. **Y si el cliente no quiere ninguno de los dos: no pasa nada** — es un bono opcional, cursa sus niveles y recibe sus certificados igual, mismo precio.
 - Institución con licencia desde 2012, programas registrados, certificación ICONTEC.
 - Precio de lanzamiento con contador REAL de cupos: la urgencia no es teatro.
 - **El crédito de una financiera o cooperativa CUENTA COMO CONTADO** (a la academia le entra todo; el cliente le debe a la financiera): abono de $300.000 hoy congela cupo y precio, y el desembolso llega en máximo 10 días hábiles.
@@ -98,7 +98,7 @@ Di en tus palabras: (1) ¿cuántas veces has empezado inglés? — el problema n
 Di en tus palabras: (1) esto no es un curso de inglés — escucha lo que te entregan al final; (2) sales con TU página web publicada, tu presentación en inglés y tu primer mensaje de venta enviado a un cliente real en el exterior; (3) $2.990.000 los dos niveles, con garantía por escrito, si haces tu parte — nadie más entrega eso.
 
 **PIEZA 4 — EL QUE SE QUIERE IR** (Au Pair / trabajar afuera)
-Di en tus palabras: (1) ¿te quieres ir a trabajar afuera y el inglés te frena? — el requisito #1 de TODOS los programas es el inglés conversacional; (2) aquí terminas con tu video de presentación, tu aplicación lista y tu entrevista ensayada; (3) es entrenamiento en serio, con garantía por escrito para el que cumple. Cohorte 5 de octubre, 20 cupos.
+Di en tus palabras: (1) ¿te quieres ir a trabajar afuera y el inglés te frena? — el requisito #1 de TODOS los programas es el inglés conversacional; (2) aquí terminas con tu video de presentación, tu postulación al programa diligenciada y tu entrevista ensayada; (3) es entrenamiento en serio, con garantía por escrito para el que cumple. Cohorte 5 de octubre, 20 cupos.
 
 **PIEZA 5 — MODO DICIEMBRE** (urgencia de fin de año)
 Di en tus palabras: (1) estamos en septiembre — ¿otra vez vas a llegar a diciembre diciendo "el otro año sí"?; (2) si arrancas el 5 de octubre, en las fiestas ya llevas dos meses hablando, con avance medido desde el día uno; (3) el riesgo no es tuyo si pones tu parte [frase literal]; (4) 20 cupos de lanzamiento a $2.990.000 — cuando se acaben, el mismo programa vale más de tres millones y medio.
