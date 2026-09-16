@@ -121,7 +121,8 @@ b('la planilla es la que liquida tus comisiones. Sin registro no hay comisión. 
 b('un lead que espera es plata que se enfría.', bold_first='El lead caliente se atiende el mismo día: ')
 
 sec('9. LAS REGLAS DE LA PLATA (para que la primera liquidación no tenga sorpresas)')
-b('nunca a cuentas personales ni en efectivo.', bold_first='Todo pago de clientes entra SIEMPRE a las cuentas de la academia — ')
+b('nunca a cuentas personales del vendedor. Efectivo solo EN LA SEDE, en recepción y con recibo.', bold_first='Todo pago de clientes entra SIEMPRE a las cuentas de la academia — ')
+b('el contrato de matrícula se firma EN LA SEDE, con el pago o abono registrado allí. Ninguna matrícula queda cerrada por chat.', bold_first='La matrícula se FORMALIZA en la sede: ')
 b('30 de septiembre y 5 de octubre (después, mensual). Se paga contra tu cuenta de cobro dentro de los 5 días hábiles siguientes, sobre pagos cuyo retracto legal ya venció. Si hay retracto o devolución de ley, la comisión se descuenta de tu siguiente liquidación.', bold_first='Liquidación por cortes: ')
 b('dentro de los 5 días hábiles de retracto de ley se devuelve completo; vencido ese plazo, NO se devuelve en efectivo — queda como saldo a favor para cualquier programa. Dicho antes, es una regla; descubierto después, es un reclamo.', bold_first='El abono de separación se explica SIEMPRE al cliente: ')
 b('Se dice "precio de lanzamiento" y "beca del Fondo" — JAMÁS "descuento" ni "patrocinio". Nada de promesas de visa, empleo, "fácil" o "rápido".', bold_first='Solo la matriz vigente: ')

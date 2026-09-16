@@ -71,7 +71,8 @@ Aquí no se matricula a cualquiera, y eso es una FORTALEZA de venta, no un freno
 
 ## 9. LAS REGLAS DE LA PLATA (para que la primera liquidación no tenga sorpresas)
 
-1. **Todo pago de clientes entra SIEMPRE a las cuentas de la academia** — nunca a cuentas personales ni en efectivo.
+1. **Todo pago de clientes entra SIEMPRE a las cuentas de la academia** — nunca a cuentas personales del vendedor. Efectivo solo EN LA SEDE, en recepción y con recibo.
+1b. **La matrícula se FORMALIZA en la sede:** el contrato de matrícula se firma en la sede, con el pago o abono registrado allí. Ninguna matrícula queda cerrada por chat.
 2. **Liquidación por cortes:** 30 de septiembre y 5 de octubre (después, mensual). Se paga contra tu cuenta de cobro dentro de los 5 días hábiles siguientes, sobre pagos cuyo período legal de retracto ya venció.
 3. Si un cliente ejerce retracto o devolución de ley, la comisión de ese pago se descuenta de tu siguiente liquidación.
 4. **El abono de separación se explica SIEMPRE al cliente al recibirlo:** dentro de los 5 días hábiles de retracto de ley, se devuelve completo si se arrepiente; vencido ese plazo, NO se devuelve en efectivo — queda como saldo a favor para cualquier programa de la academia. Dicho antes, es una regla; descubierto después, es un reclamo.
