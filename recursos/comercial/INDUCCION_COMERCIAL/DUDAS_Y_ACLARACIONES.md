@@ -104,4 +104,15 @@ Las columnas de texto libre (nombres, teléfonos, fechas, próximo paso) no tien
 
 ---
 
+## DUDA #9 — ¿Se puede matricular a alguien por internet, sin que venga a la sede? (16/09/2026)
+
+**La matrícula tiene DOS momentos, y solo el primero puede ser digital:**
+
+1. **SEPARACIÓN (100% digital, válida de noche y a distancia):** abono a las cuentas de la academia + el cliente acepta POR ESCRITO el recibo de separación ("ACEPTO las condiciones del recibo No. X" por WhatsApp o correo, con foto de la cédula) + se agenda EN EL MISMO ACTO su sesión de ubicación. Con esos tres elementos el cupo queda separado y el precio congelado — la aceptación por mensaje de datos tiene plena validez legal (Ley 527 de 1999).
+2. **FORMALIZACIÓN (siempre en la sede):** contrato de matrícula firmado en físico, a más tardar el día de la sesión de ubicación. El efectivo solo se recibe en la sede, en recepción y con recibo.
+
+**La frase:** *el chat asegura el cupo; la sede firma el contrato.* Ninguna separación queda sin cita agendada, y ninguna matrícula queda cerrada solo por chat.
+
+---
+
 *(Las siguientes dudas se numeran aquí abajo, con fecha.)*

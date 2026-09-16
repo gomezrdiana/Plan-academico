@@ -73,6 +73,8 @@ b('en el contrato — mata la objeción #1.', bold_first='La única GARANTÍA DE
 b('página web publicada + primer mensaje de venta en inglés, o su POSTULACIÓN a un programa en el exterior (Au Pair, Work and Travel) diligenciada, con video de presentación y entrevista ensayada. Si el cliente no quiere ninguno: no pasa nada — es un bono opcional, cursa sus niveles igual, mismo precio.', bold_first='MÓDULO DE GRADUACIÓN a elección, estrenándose con esta cohorte: ')
 b('Institución con licencia desde 2012, programas registrados, certificación ICONTEC. Contador REAL de cupos: la urgencia no es teatro.')
 b('abono de $300.000 hoy congela cupo y precio; el desembolso o el cheque llegan en máximo 10 días hábiles.', bold_first='El crédito de financiera o cooperativa — y el cheque de CESANTÍAS — cuentan como CONTADO: ')
+b('quien solo puede estudiar los sábados también se matricula, a las tarifas de la matriz vigente. Ningún cliente se va por el horario.', bold_first='MODALIDAD SABATINA: ')
+b('la sesión de ubicación define su nivel, y se le vende el paquete DESDE SU NIVEL hasta B2 con beca del Fondo (A2→B2 $7.100.000 full · B1→B2 $5.185.000 full — la tarjeta de becas trae la matriz por perfil), o su nivel individual. Entra al grupo vigente de su nivel o separa cupo para la próxima apertura. Comisiona igual por canal — tickets a menudo mayores que un Arranque. Ningún cliente se va por saber inglés.', bold_first='EL QUE YA TIENE NIVEL: ')
 
 sec('2. LA META')
 t('Abrir las DOS jornadas el 5 de octubre con los 20 cupos de lanzamiento vendidos — grupos de 13-14, máximo 16. Del cupo 21 en adelante se sigue vendiendo la misma cohorte a tarifa plena ($3.511.000), con una sola excepción escrita: contado completo el mismo día mantiene el precio de lanzamiento.', bold=True)
@@ -98,6 +100,7 @@ b('con una de las dos puertas: 12 matrículas en tus primeros 12 DÍAS de campa�
 b('si los grupos quedan llenos: 28 matrículas antes del 5 de octubre.', bold_first='Bono de $2.000.000 ')
 b('desde su plataforma: 5% cliente nuevo / 2,5% antiguo.', bold_first='Leads que la academia te asigne ')
 b('Si alguien del equipo te pasa un cliente registrado y tú lo cierras, quien lo pasó gana el 1% — y al revés igual.')
+b('Arranque, programas completos, niveles individuales y sabatinos. Las PUERTAS del 10% y el bono cuentan solo matrículas de la cohorte del 5 de octubre — el resto comisiona normal sin mover el contador.', bold_first='Tus porcentajes aplican a TODO el portafolio: ')
 
 sec('5. A QUIÉN LE VENDEMOS — EL COMPROMISO DEL ESTUDIANTE')
 t('Aquí no se matricula a cualquiera, y eso es una FORTALEZA de venta, no un freno:')
@@ -122,7 +125,7 @@ b('un lead que espera es plata que se enfría.', bold_first='El lead caliente se
 
 sec('9. LAS REGLAS DE LA PLATA (para que la primera liquidación no tenga sorpresas)')
 b('nunca a cuentas personales del vendedor. Efectivo solo EN LA SEDE, en recepción y con recibo.', bold_first='Todo pago de clientes entra SIEMPRE a las cuentas de la academia — ')
-b('el contrato de matrícula se firma EN LA SEDE, con el pago o abono registrado allí. Ninguna matrícula queda cerrada por chat.', bold_first='La matrícula se FORMALIZA en la sede: ')
+b('la SEPARACIÓN puede ser 100% digital — abono a cuentas de la academia + aceptación escrita del recibo de separación + cita de ubicación agendada en el mismo acto. La FORMALIZACIÓN es siempre en la sede: contrato de matrícula firmado en físico, a más tardar el día de la sesión de ubicación. El chat asegura el cupo; la sede firma el contrato.', bold_first='La matrícula tiene DOS momentos: ')
 b('30 de septiembre y 5 de octubre (después, mensual). Se paga contra tu cuenta de cobro dentro de los 5 días hábiles siguientes, sobre pagos cuyo retracto legal ya venció. Si hay retracto o devolución de ley, la comisión se descuenta de tu siguiente liquidación.', bold_first='Liquidación por cortes: ')
 b('dentro de los 5 días hábiles de retracto de ley se devuelve completo; vencido ese plazo, NO se devuelve en efectivo — queda como saldo a favor para cualquier programa. Dicho antes, es una regla; descubierto después, es un reclamo.', bold_first='El abono de separación se explica SIEMPRE al cliente: ')
 b('Se dice "precio de lanzamiento" y "beca del Fondo" — JAMÁS "descuento" ni "patrocinio". Nada de promesas de visa, empleo, "fácil" o "rápido".', bold_first='Solo la matriz vigente: ')
