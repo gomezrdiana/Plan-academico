@@ -12,7 +12,7 @@ Y detrás, el high ticket: **el programa completo A1→B2** (575 horas) con beca
 - **Módulo de Graduación a elección**, estrenándose con esta cohorte: página web publicada + primer mensaje de venta en inglés, o su POSTULACIÓN a un programa en el exterior (Au Pair, Work and Travel) diligenciada y lista, con video de presentación y entrevista ensayada. **Y si el cliente no quiere ninguno de los dos: no pasa nada** — es un bono opcional, cursa sus niveles y recibe sus certificados igual, mismo precio.
 - Institución con licencia desde 2012, programas registrados, certificación ICONTEC.
 - Precio de lanzamiento con contador REAL de cupos: la urgencia no es teatro.
-- **El crédito de una financiera o cooperativa CUENTA COMO CONTADO** (a la academia le entra todo; el cliente le debe a la financiera): abono de $300.000 hoy congela cupo y precio, y el desembolso llega en máximo 10 días hábiles.
+- **El crédito de una financiera o cooperativa — y el cheque de CESANTÍAS — CUENTAN COMO CONTADO** (a la academia le entra todo): abono de $300.000 hoy congela cupo y precio, y el desembolso o el cheque llegan en máximo 10 días hábiles.
 
 ## 2. LA META
 
@@ -74,7 +74,8 @@ Aquí no se matricula a cualquiera, y eso es una FORTALEZA de venta, no un freno
 1. **Todo pago de clientes entra SIEMPRE a las cuentas de la academia** — nunca a cuentas personales ni en efectivo.
 2. **Liquidación por cortes:** 30 de septiembre y 5 de octubre (después, mensual). Se paga contra tu cuenta de cobro dentro de los 5 días hábiles siguientes, sobre pagos cuyo período legal de retracto ya venció.
 3. Si un cliente ejerce retracto o devolución de ley, la comisión de ese pago se descuenta de tu siguiente liquidación.
-4. Solo se ofrecen los precios, becas y planes de la matriz vigente. **Se dice "precio de lanzamiento" y "beca del Fondo" — JAMÁS "descuento" ni "patrocinio".** Nada de promesas de visa, empleo, "fácil" o "rápido".
+4. **El abono de separación se explica SIEMPRE al cliente al recibirlo:** dentro de los 5 días hábiles de retracto de ley, se devuelve completo si se arrepiente; vencido ese plazo, NO se devuelve en efectivo — queda como saldo a favor para cualquier programa de la academia. Dicho antes, es una regla; descubierto después, es un reclamo.
+5. Solo se ofrecen los precios, becas y planes de la matriz vigente. **Se dice "precio de lanzamiento" y "beca del Fondo" — JAMÁS "descuento" ni "patrocinio".** Nada de promesas de visa, empleo, "fácil" o "rápido".
 
 ## 10. EL PLAN DE ARRANQUE (a tu ritmo, pero con plan)
 
