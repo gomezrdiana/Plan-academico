@@ -113,7 +113,7 @@ b('Tú no pones un peso de pauta ni la administras: la casa financia, el equipo 
 sec('7. TUS VIDEOS')
 b('Abajo están los briefs: los puntos de cada pieza, dichos como te salgan, natural. No se pagan por pieza: tu pago es la comisión, y la casa pone toda la pauta.', bold_first='Las 5 piezas las grabas tú, CON TUS PALABRAS — no hay guion que leer. ')
 b('una sesión de grabación, subtítulos, y al aire — en pauta, lo natural convierte más que lo producido.', bold_first='Velocidad sobre perfección: ')
-b('(es un video de 40 segundos: minutos, no días). Más videos tuyos con los briefs = más leads tuyos.', bold_first='La pieza final la ve gerencia antes de publicarse ')
+b('me pasas los videos, los apruebo y salen. Más videos tuyos con los briefs = más leads tuyos.', bold_first='Antes de publicar: ')
 
 sec('8. LA LÍNEA Y EL REGISTRO')
 b('operado 100% por ti — más profesional ante el cliente y tu número personal queda libre.', bold_first='Tu línea es un WhatsApp Business de la academia ')

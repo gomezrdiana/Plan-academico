@@ -61,7 +61,7 @@ Aquí no se matricula a cualquiera, y eso es una FORTALEZA de venta, no un freno
 
 - **Las 5 piezas las grabas tú, CON TUS PALABRAS — no hay guion que leer.** Abajo están los briefs: los puntos de cada pieza, dichos como te salgan, natural. No se pagan por pieza: tu pago es la comisión, y la casa pone toda la pauta.
 - **Velocidad sobre perfección:** una sesión de grabación, subtítulos, y al aire — en pauta, lo natural convierte más que lo producido.
-- **La pieza final la ve gerencia antes de publicarse** (es un video de 40 segundos: minutos, no días). Si la campaña pide más videos: mismo esquema — tú los creas con los briefs, gerencia ve la pieza, y salen con pauta hacia TU canal. Más videos tuyos = más leads tuyos.
+- **Antes de publicar: me pasas los videos, los apruebo y salen.** Si la campaña pide más videos: mismo esquema — tú los creas con los briefs y salen con pauta hacia TU canal. Más videos tuyos = más leads tuyos.
 
 ## 8. LA LÍNEA Y EL REGISTRO
 
