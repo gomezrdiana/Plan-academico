@@ -57,4 +57,4 @@ Academia de inglés PRESENCIAL en Bucaramanga. Institución de educación para e
 
 - **Sede: Carrera 27 # 48-49, barrio Sotomayor, SEGUNDO PISO — Bucaramanga.**
 - **La atención al cliente es por ESTA MISMA línea de WhatsApp** — el asistente no remite a otros números: aquí se resuelve y se agenda todo.
-- Instagram: @globalteacherbga · Correo (solo para estudiantes activos, quejas o retiros): experiencialcliente@heiiu.com
+- Instagram: @Heiiu_english · Correo (solo para estudiantes activos, quejas o retiros): experiencialcliente@heiiu.com
