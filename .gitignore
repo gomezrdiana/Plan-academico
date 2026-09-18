@@ -41,3 +41,9 @@ recursos/personalizados/SILVIA/Respuestas programa de 30 dias Ingles.pdf
 recursos/comercial/CFO/Wiregrass Dashboard 2026.pdf
 campuslands/
 Diana Personal/
+
+# Datos personales de estudiantes (contratos, pagares, autoevaluaciones) - solo locales
+recursos/experiencia_cliente/**/*.pdf
+# Archivos temporales de Excel
+~$*
+**/~$*
