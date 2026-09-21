@@ -90,7 +90,7 @@ def link(p, url, txt):
     h.append(r); p._p.append(h)
 
 # ============ PORTADA ============
-portada('HEIIU ENGLISH ACADEMY · USO INTERNO', 'KIT DE VENTA', 'Manual de la Asesora Comercial · Septiembre 2026 | Todo lo que necesitas para una cita completa está en este documento.')
+portada('HEIIU ENGLISH ACADEMY · USO INTERNO', 'KIT DE VENTA', 'Manual de la Asesora Comercial · v2 consolidada, septiembre 2026 | Todo lo que necesitas para una cita completa está en este documento, incluidas las dudas resueltas del equipo.')
 
 # ============ 1. LA CITA ============
 seccion('1.', 'LA CITA: CÓMO SE CIERRA')
@@ -283,9 +283,11 @@ texto('BENEFICIO DEL CONVENIO: el afiliado que paga a cuotas recibe la beca de C
 texto('JAMÁS se le envía a pedir crédito o libranza a Cajasan: tienen su propio programa de inglés — no les hacemos publicidad.', bold=True)
 
 sub('Cómo se paga (ofrecer EN ESTE ORDEN — Heiiu evita financiar directo)')
-texto('1. CONTADO (la mejor beca): transferencia, efectivo o tarjeta débito.')
-texto('2. TARJETA DE CRÉDITO del cliente: para Heiiu es pago de contado (aplica la beca de contado) y él difiere con su banco.')
-texto('3. CRÉDITO DIRECTO HEIIU — ÚLTIMO recurso, solo si nada de lo anterior aplica: beca de cuotas (o de contado si es afiliado Cajasan) + interés del 1,9% mensual sobre saldo. Separación de cupo $300.000 (se cruza con la inicial) → cuota inicial (mínimo 20%) máximo a 3 días → cuotas mensuales desde el día 30. SIEMPRE con pagaré + carta de instrucciones + anexo plan de pagos firmados — sin firmas no hay crédito.', bold=True)
+texto('1. CONTADO (la mejor beca): transferencia, tarjeta débito, o efectivo ÚNICAMENTE en la sede con recibo.')
+texto('2. CESANTÍAS: el cheque de cesantías cuenta como pago de CONTADO (aplica la beca de contado). Abono de separación de $300.000 hoy congela cupo y precio; el cheque debe entregarse dentro de los 10 días hábiles siguientes y siempre antes del inicio de clases.')
+texto('3. CRÉDITO DE UN TERCERO (Comultrasan, banco, financiera): también cuenta como CONTADO — a la academia le entra el 100% y el cliente le debe a la entidad. Misma regla: abono de $300.000 hoy, desembolso completo en máximo 10 días hábiles. Si el crédito es negado o no llega a tiempo, el cliente paga por otro medio a la tarifa que corresponda, o su abono queda como saldo a favor (nunca devolución en efectivo).')
+texto('4. TARJETA DE CRÉDITO del cliente: cuenta como pago de contado y él difiere con su banco, PERO el valor a pagar aumenta 5% por el costo del uso de la tarjeta. Se dice antes de pasarla, siempre: "por tarjeta de crédito el valor sube un 5% por el costo de la transacción — por transferencia o débito no tiene ese recargo."', bold=True)
+texto('5. CRÉDITO DIRECTO HEIIU — ÚLTIMO recurso, solo si nada de lo anterior aplica: beca de cuotas (o de contado si es afiliado Cajasan) + interés del 1,9% mensual sobre saldo. Separación de cupo $300.000 (se cruza con la inicial) → cuota inicial (mínimo 20%) máximo a 3 días → cuotas mensuales desde el día 30. SIEMPRE con pagaré + carta de instrucciones + anexo plan de pagos firmados — sin firmas no hay crédito.', bold=True)
 
 sub('Si toca crédito directo: la cuota tipo (inicial 20% + el máximo de cuotas)')
 filas = [['Compra', 'TRANSFORMACIÓN', 'GENERAL', 'EJECUTIVO']]
@@ -340,6 +342,48 @@ texto('□ 8. LA FRASE DEL EXPEDIENTE (antes de firmar): la garantía y el audio
 texto('□ 9. UNA frase de cierre + SILENCIO. El primero que habla, concede.')
 texto('□ 10. SI NO CIERRA HOY: la oferta POR ESCRITO con vencimiento (72 horas) + el abono de separación ofrecido + el motivo real anotado para rescate.')
 frase('Cita perfecta = las 10 marcadas. Cita sin cierre pero con las 10 = trabajo bien hecho, el seguimiento la remata. Cita con cierre pero sin la 2, la 7 o la 8 = problema futuro: complétalas en la firma.')
+
+salto()
+# ============ 5. DUDAS RESUELTAS ============
+seccion('5.', 'DUDAS RESUELTAS — DOCTRINA OFICIAL')
+texto('Estas son las dudas que ya preguntó el equipo y su respuesta oficial. Si tu duda no está aquí, se pregunta a gerencia y la respuesta entra a este kit.', bold=True)
+
+sub('1. ¿Cuándo es GENERAL y cuándo EJECUTIVO?')
+texto('El test es uno solo: ¿QUIÉN PAGA LA FACTURA? Paga una empresa, o pide factura a nombre de empresa o reembolso corporativo → EJECUTIVO (techo 15%). Persona natural que paga de su bolsillo → GENERAL (techo 32%), sin importar su cargo, su ropa o su carro. Estrato 1-2 o SISBÉN con soporte → TRANSFORMACIÓN (techo 45%).')
+texto('Nunca se clasifica por pinta ni por cargo: se clasifica por la factura. Y al Ejecutivo no se le vende beca — se le vende conveniencia: certificación, garantía firmada, factura para su empresa, avance medido. Su 15% es un gesto, no el argumento.', bold=True)
+
+sub('2. Empleado de empresa aliada (Go Above and Beyond): ¿qué beca le aplica?')
+texto('Mismo test, más un dato: ¿cuánto gana? · La empresa paga la factura → EJECUTIVO 15%. · El empleado paga de su bolsillo Y gana hasta 1.5 SMMLV → con carta de su empresa aliada + desprendible de nómina → TRANSFORMACIÓN 45%, dentro de los cupos del Fondo. · Gana más de 1.5 SMMLV y paga de su bolsillo → GENERAL 32% + beneficio de convenio (paga a cuotas con el porcentaje de contado).')
+texto('El ARRANQUE no tiene becas: precio único $2.990.000 para todos, aliados incluidos. Los beneficios nunca se acumulan: se aplica el mejor.', bold=True)
+
+sub('3. ¿La comisión aplica a ventas corporativas?')
+texto('Sí. La venta es la venta, venga de donde venga: mismo esquema para una matrícula individual, un Arranque, un becado de empresa aliada o un contrato corporativo. Sin recaudo no hay comisión — cobrar también es vender.')
+
+sub('4. ¿Qué se dice del contador cuando no se ha vendido nada?')
+texto('Jamás "quedan 20 de 20": eso anuncia que nadie ha comprado. El contador tiene tres etapas y las tres son verdad: · 0 vendidos → "Acaban de abrirse los 20 cupos del lanzamiento." · 1 a 4 → "Los cupos ya se están asignando." · 5 o más → el número real: "Vamos 8 de 20."')
+texto('La regla que no cambia: jamás inventar el número.', bold=True)
+
+sub('5. EL PACTO: la verdad que se dice ANTES de firmar')
+texto('Para TODOS: jamás prometer fácil, rápido ni divertido. Se promete el método, el respaldo y la garantía — a cambio del trabajo del estudiante.', bold=True)
+texto('La charla completa es solo para el cliente QUEMADO, el que ya intentó y fracasó (se detecta con "¿has estudiado inglés antes? ¿cómo te fue?"). Al que llega limpio no se le receta un trauma que no tiene.')
+frase('"Te voy a ser honesta: esto NO es fácil. Vas a tener días de no querer venir, tareas que fastidian, audios que te van a dar pena grabar. El inglés no se aprende suave: se entrena, como un deporte. Y si llevas años intentándolo y no has podido, el problema nunca fuiste tú — fue el método. Aquí es al revés: de pie, hablando desde el día uno. Por eso somos los únicos que firmamos garantía: si TÚ pones el trabajo, y no avanzas, te devolvemos la plata. Ese es el trato."')
+texto('Por qué así: el que firma advertido no deserta en la semana 3 ni pide devolución; la dureza honesta hace creíble la garantía; y filtra al comprador correcto.')
+
+sub('6. ¿El afiliado a Cajasan recibe el 45%?')
+texto('No por ser de Cajasan. El 45% lo da el PERFIL (Transformación, con soporte). Cajasan mejora la FORMA DE PAGO: el afiliado que paga a cuotas recibe el porcentaje de contado de su propio perfil.')
+frase('"Cajasan no cambia quién eres — cambia cómo pagas: siempre al precio de contado de tu perfil."')
+
+sub('7. "Te doy un abono, pero necesito el crédito de la cooperativa"')
+texto('El crédito de un tercero y el cheque de cesantías cuentan como contado (sección 3, escalera de pago): abono de $300.000 hoy congela cupo y precio, desembolso completo en máximo 10 días hábiles y siempre antes del inicio de clases. Si no llega a tiempo o es negado: paga por otro medio a la tarifa que corresponda, o su abono queda como saldo a favor para cualquier programa. Nunca devolución en efectivo.')
+
+sub('8. ¿Se puede matricular a alguien sin que venga a la sede?')
+texto('La matrícula tiene DOS momentos, y solo el primero es digital:')
+texto('· SEPARACIÓN (100% digital): abono a las cuentas de la academia + el cliente acepta por escrito el recibo de separación ("ACEPTO las condiciones del recibo No. X", con foto de su cédula) + se agenda en el mismo acto su sesión de ubicación. Eso congela cupo y precio, y tiene plena validez legal.')
+texto('· FORMALIZACIÓN (siempre en la sede): contrato de matrícula firmado en físico, a más tardar el día de la sesión de ubicación. El efectivo solo se recibe en la sede, con recibo.')
+frase('El chat asegura el cupo; la sede firma el contrato.')
+
+sub('9. La planilla: si no aparecen las listas desplegables')
+texto('La flecha solo aparece al hacer clic EN la celda. Y si el archivo llegó por WhatsApp o descarga, Excel lo abre en "Vista protegida": hay que darle a "Habilitar edición" para que las listas funcionen.')
 
 doc.add_paragraph()
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
