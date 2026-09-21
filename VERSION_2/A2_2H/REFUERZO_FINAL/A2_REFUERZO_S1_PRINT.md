@@ -46,8 +46,11 @@ Cada turno se repite DOS veces: la segunda vez tiene que salir más largo y con 
 
 **TAREA DE CASA — se entrega mañana al iniciar la sesión, 4:00 PM:**
 
-1. **3 audios de 1 minuto:** uno describiendo su día, uno describiendo a su familia, uno contando qué hará mañana.
-2. **1 video de 2 minutos:** presentación personal — nombre, trabajo o estudios, rutina, un plan futuro.
+1. **3 audios de mínimo 1 minuto cada uno:** uno describiendo su día, uno describiendo a su familia, uno contando qué hará mañana.
+2. **1 video de mínimo 2 minutos:** presentación personal — nombre, trabajo o estudios, rutina, un plan futuro.
 3. Escuchar 10 minutos de inglés (canción, video, podcast) y escribir 5 palabras o frases que logró entender.
+
+
+**Mínimos que sí cuentan:** cada audio, mínimo 1 minuto completo · cada video, mínimo 2 minutos · hablado de corrido, sin leer y sin cortes. Lo que dure menos del mínimo no se cuenta como entregado y se vuelve a grabar.
 
 **La tarea no se negocia: sin audios ni video, el reintento del jueves se presenta sin preparación completa.**

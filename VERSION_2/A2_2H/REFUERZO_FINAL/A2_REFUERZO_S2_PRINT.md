@@ -35,6 +35,8 @@ Mismo método de ayer, subiendo la dificultad:
 
 **TAREA DE CASA — se entrega mañana al iniciar, 4:00 PM:**
 
-1. **3 audios de 1 minuto:** uno contando una compra que hizo, uno describiendo su barrio, uno explicando por qué estudia inglés.
-2. **1 video de 2 minutos:** ensayo de la primera parte del proyecto MY LIFE — quién soy, mi familia, mi rutina.
-3. **Un texto escrito a mano de 80 palabras:** *My last vacation.*
+1. **3 audios de mínimo 1 minuto cada uno:** uno contando una compra que hizo, uno describiendo su barrio, uno explicando por qué estudia inglés.
+2. **1 video de mínimo 2 minutos:** ensayo de la primera parte del proyecto MY LIFE — quién soy, mi familia, mi rutina.
+3. **Un texto escrito a mano de mínimo 80 palabras:** *My last vacation.*
+**Mínimos que sí cuentan:** cada audio, mínimo 1 minuto completo · cada video, mínimo 2 minutos · hablado de corrido, sin leer y sin cortes. Lo que dure menos del mínimo no se cuenta como entregado y se vuelve a grabar.
+
