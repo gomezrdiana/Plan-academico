@@ -43,8 +43,8 @@ El profesor NO da notas ni resultados: eso lo comunica coordinación. Al final s
 
 1. **1 video del proyecto MY LIFE completo**, de mínimo 7 minutos, grabado de pie y enviado hoy mismo.
 2. **2 audios de mínimo 1 minuto cada uno:** las dos partes del proyecto que más costaron.
-**Mínimos que sí cuentan:** cada audio, mínimo 1 minuto completo · cada video, mínimo 2 minutos · hablado de corrido, sin leer y sin cortes. Lo que dure menos del mínimo no se cuenta como entregado y se vuelve a grabar.
-
 3. Escuchar 15 minutos de inglés antes de dormir.
+
+**Mínimos que sí cuentan:** cada audio, mínimo 1 minuto completo · cada video, mínimo 2 minutos · hablado de corrido, sin leer y sin cortes. Lo que dure menos del mínimo no se cuenta como entregado y se vuelve a grabar.
 
 **Recordatorio del examen:** mañana jueves, con evaluador externo. Se presenta el examen completo más el proyecto oral.
