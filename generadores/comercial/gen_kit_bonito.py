@@ -234,6 +234,12 @@ salto()
 seccion('3.', 'LA TARJETA DE BECAS DEL FONDO')
 frase('Esta tabla es INTERNA: nunca se muestra ni se fotografía. Al cliente se le dice SU resultado.')
 
+sub('EL CAMINO EN 3 PASOS (antes de mirar cualquier tabla)')
+texto('1. ¿Es sabatino o nivel suelto? → precio del nivel, sin beca del Fondo. Fin del camino.', bold=True)
+texto('2. Si es paquete: ¿QUIÉN es? → su columna. ¿QUÉ paquete y contado o cuotas? → su fila. Esa celda es su beca.', bold=True)
+texto('3. Si paga a cuotas: ¿intensivo o súper intensivo? → eso da el MÁXIMO de cuotas. La cuota exacta la saca el motor de cuotas, nunca de memoria.', bold=True)
+texto('La modalidad NO cambia la beca: solo cambia cuántas cuotas caben, porque el estudiante termina de pagar antes de terminar el programa. Menos cuotas que el máximo siempre se puede — y paga menos interés. Más cuotas que el máximo, nunca.')
+
 sub('Las 2 preguntas (en este orden)')
 texto('1. ¿QUIÉN es? — define su columna:', bold=True)
 texto('· Estrato 1-2 o SISBÉN (con soporte): TRANSFORMACIÓN — cupos limitados por trimestre.')
@@ -251,7 +257,7 @@ tabla([
  ['Nivel suelto / sabatino', 'SIN BECA', 'SIN BECA', 'SIN BECA'],
 ])
 texto('Ejemplo: estrato 3 quiere A2→B2 en cuotas → columna GENERAL, fila A2→B2, cuotas → 19,2%.')
-texto('Niveles sueltos: SIN beca del Fondo — aplican descuento por forma de pago (contado 20% · cuotas 10% + interés · Cajasan 30%). El sabatino solo se vende por nivel suelto.')
+texto('Niveles sueltos: SIN beca del Fondo — el precio depende de la forma de pago (contado 20% menos · cuotas 10% menos + interés · afiliado Cajasan 30% menos). Se dice "precio de contado", nunca "descuento". El sabatino solo se vende por nivel suelto.')
 
 # ---- tablas calculadas (matriz hibrida en pesos) ----
 FULL = {'A1 a B2 completo': 8696000, 'A2 a B2': 7100000, 'B1 a B2': 5185000, 'Solo B2': 2343000}
@@ -275,7 +281,7 @@ for paq in FULL:
         fila.append('Contado ' + peso(FULL[paq]*(1-c/100)) + '\nCuotas ' + peso(FULL[paq]*(1-q/100)))
     filas.append(fila)
 tabla(filas)
-texto('El precio full NUNCA cambia — la beca lo baja según la celda. "Cuotas" es el precio BASE si paga a cuotas; los intereses del crédito directo van aparte (abajo).')
+texto('El precio full NUNCA cambia — la beca lo baja según la celda. "Cuotas" es el precio BASE si paga a cuotas, SIN interés; el interés del crédito directo se suma en la tabla de cuota tipo (abajo). Al cliente se le da el plan completo: inicial + número de cuotas + valor de cada cuota.')
 
 sub('CAJASAN: se pregunta SIEMPRE, se registra SIEMPRE')
 texto('En TODA cita: "¿Eres afiliado a Cajasan?" — y se anota en su ficha, pague de contado o a cuotas: el reporte de afiliados atendidos es lo que mantiene viva la alianza (única academia de inglés con este convenio).', bold=True)
