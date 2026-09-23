@@ -46,20 +46,32 @@ r = p.add_run('Global Teacher S.A.S. · NIT 900.422.478-2 · Bucaramanga · Docu
 sec('1. QUIÉNES SOMOS')
 t('Heiiu English Academy es la marca comercial de Global Teacher S.A.S., una institución de educación para el trabajo y el desarrollo humano con sede en Bucaramanga. Somos una academia de inglés PRESENCIAL: creemos que el inglés se entrena hablando, de pie, con un profesor al frente y un grupo pequeño alrededor.')
 t('El nombre viene de "hello you": hola tú. Refleja cómo tratamos a cada estudiante — por su nombre, no como un número. Grupos de máximo 16 personas, seguimiento individual y un compromiso escrito con el resultado.')
+t('Nuestra historia: nacimos en 2017 como una fundación en Barro Blanco, Piedecuesta, con un deseo genuino: que las personas con menos privilegios tuvieran las oportunidades que otros reciben casi por defecto. Para poder sostener el programa, en octubre de 2018 adquirimos Global Teacher S.A.S., institución con licencia desde 2012, y desde entonces operamos como academia formal sin perder el propósito con el que empezamos. En el camino diseñamos una metodología propia basada en la repetición, el trabajo en pares y el apoyo entre estudiantes.')
+t('No enseñamos inglés, transformamos futuros: pertenecer a la academia significa que cada persona que se conecta con nosotros encuentra una mano para cumplir sus metas.', italic=True)
 b('Sede: Carrera 27 # 48-49, segundo piso, barrio Sotomayor, Bucaramanga.')
 b('Instagram: @Heiiu_english.')
 
 sec('2. MISIÓN')
-t('Que ningún colombiano con potencial pierda una oportunidad — laboral, de estudio, de viaje o personal — por no hablar inglés.', italic=True)
+t('Conectar a nuestros estudiantes con oportunidades laborales a nivel nacional e internacional por medio de la enseñanza del inglés como segundo idioma, y mejorar e impactar sus vidas.', italic=True)
 
 sec('3. VISIÓN')
-t('Ser la academia de inglés de referencia en Santander por una razón medible: que nuestros estudiantes demuestren lo que aprendieron, con certificados verificables y resultados en su vida real — un ascenso, un viaje, un negocio, una entrevista. Queremos ser la institución que firma por sus resultados, no la que promete.', italic=True)
+t('Expandirnos a nivel nacional con más programas especializados, manteniendo lo que nos define: resultados medibles y un compromiso escrito con cada estudiante.', italic=True)
+
+sec('3B. VALORES')
+b('Honestidad.')
+b('Respeto por el cliente y por su inversión.')
+b('Responsabilidad y compromiso con la calidad y la excelencia.')
+b('Integridad: cumplimos lo que prometemos.')
+b('Responsabilidad social: queremos ayudar de verdad, y vemos el futuro de nuestros estudiantes reflejado en nuestro trabajo.')
+b('Inteligencia emocional: somos profesionales y adultos.')
+b('Pasión.')
 
 sec('4. EXPERIENCIA')
-b('Licencia de funcionamiento desde 2012: 14 años formando estudiantes en Bucaramanga.')
+b('Equipo formando estudiantes desde 2017; institución con licencia de funcionamiento desde 2012.')
 b('Programas de inglés de nivel A1 a B2 alineados con el Marco Común Europeo de Referencia (MCER).')
 b('Convenio con Cajasan: la única academia de inglés de la ciudad con este convenio para sus afiliados.')
 b('Alianzas con empresas de la región para la formación de sus equipos, y programa para colegios.')
+b('Lo que nos diferencia: buscamos activamente conectar a nuestros estudiantes con oportunidades que les cambien los ingresos y la vida. Tenemos alianzas con programas internacionales como Au Pair, Work and Travel y campamentos de verano en Estados Unidos, además de bolsas de empleo en el exterior. El inglés es el requisito de entrada a todos ellos; la academia orienta y conecta, no garantiza plazas.')
 
 sec('5. CÓMO FUNCIONA EL MÉTODO HEIIU')
 t('No vendemos clases de inglés: entrenamos. El estudiante llega a un programa con estructura, medición y compromiso mutuo.', bold=True)
@@ -81,6 +93,7 @@ sec('7. LA GARANTÍA DE APRENDIZAJE')
 t('Somos la única academia de la ciudad con garantía de aprendizaje por escrito, dentro del contrato. Se cita únicamente con este texto:', bold=True)
 t('"Si cumples — asistencia, tareas, evaluaciones — y no avanzas, te devolvemos el 100% del nivel. Por escrito, en el contrato."', italic=True)
 t('La garantía es un trato en dos direcciones: la academia pone el método, el profesor y el respaldo; el estudiante pone el trabajo — asistencia, tareas y su práctica diaria. Por eso no prometemos que sea fácil ni rápido: prometemos que funciona si se hace el trabajo.')
+t('Nuestra exigencia: somos estrictos en asistencia y puntualidad. El resultado se logra en equipo, en clase y en casa, y por eso el listening en casa es fundamental. El enfoque es conversacional, pero la gramática no se deja de lado porque es la base para comunicarse bien. Aprender un idioma exige repetir mil y una veces, y el estudiante que lo entiende desde el inicio es el que llega.')
 
 sec('8. LOS NIVELES')
 tabla([
