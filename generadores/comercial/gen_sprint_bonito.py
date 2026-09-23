@@ -160,7 +160,7 @@ seccion('MENSAJE 2 — REFERIDOS (estudiantes y acudientes actuales)')
 frase('Hola [nombre] 👋 Te escribo de Heiiu con una buena para tu gente: abrimos cohorte nueva el 5 DE OCTUBRE — 20 cupos de lanzamiento, los dos primeros niveles completos por $2.990.000 con garantía por escrito.\n\n¿Quién de tu círculo lleva años diciendo "necesito el inglés" — un hermano, un amigo, alguien del trabajo? Mándame su nombre y número: entra con solicitud pre-presentada al Fondo de Becas y yo lo atiendo personalmente de tu parte. Los cupos son pocos y tu gente merece el empujón. 💪')
 texto('NOTA INTERNA: "pre-presentada" = tú radicas la solicitud del referido antes de su cita, para que llegue con la evaluación iniciada. Es velocidad de proceso — NO cambia los porcentajes de beca. Jamás prometer % extra por ser referido.', 10.5, bold=True)
 
-seccion('MENSAJE 3 — OPERADORES AU PAIR / W&T / H2B (este lo envía GERENCIA — no la asesora)')
+seccion('MENSAJE 3 — OPERADORES AU PAIR / W&T (este lo envía GERENCIA — no la asesora)')
 frase('Buen día [nombre], le escribo de Heiiu English Academy — la academia aliada en Bucaramanga. Le cuento algo que les sirve a sus candidatas frenadas por el nivel de inglés: abrimos cohorte el 5 DE OCTUBRE (20 cupos), y nuestro programa termina con el MÓDULO PASAPORTE: la candidata sale con su video de presentación en inglés, su aplicación lista (hoja de vida + carta) y su entrevista con familia ENSAYADA y grabada, además del certificado internacional.\n\nEs decir: ustedes reciben candidatas listas para presentar, no candidatas a medio camino. ¿Hablamos 15 minutos esta semana para armar el flujo de remisión? ¿[día/hora] o [día/hora]?')
 
 seccion('MENSAJE 4 — PUBLICACIÓN EN GRUPOS DE FACEBOOK / MARKETPLACE (miércoles y sábado)')

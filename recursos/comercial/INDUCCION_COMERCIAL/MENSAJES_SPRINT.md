@@ -17,7 +17,7 @@
 >
 > ¿Quién de tu círculo lleva años diciendo "necesito el inglés" — un hermano, un amigo, alguien del trabajo? Mándame su nombre y número: entra con **solicitud pre-presentada al Fondo de Becas** y yo lo atiendo personalmente de tu parte. Los cupos son pocos y tu gente merece el empujón. 💪
 
-## MENSAJE 3 — OPERADORES AU PAIR / WORK & TRAVEL / H2B
+## MENSAJE 3 — OPERADORES AU PAIR / WORK & TRAVEL
 
 > Buen día [nombre], le escribo de Heiiu English Academy — la academia aliada en Bucaramanga. Le cuento algo que les sirve a sus candidatas frenadas por el nivel de inglés: abrimos cohorte el **5 de octubre** (20 cupos), y nuestro programa termina con el **Módulo Pasaporte**: la candidata sale con su video de presentación en inglés, su aplicación lista (hoja de vida + carta) y su **entrevista con familia ENSAYADA y grabada**, además del certificado internacional.
 >

@@ -1,5 +1,8 @@
 # HEIIU ENGLISH ACADEMY
 
+
+> **NOTA 23/09/2026 — H2B NO DISPONIBLE:** el programa H2B queda fuera de la oferta hasta nueva orden. Donde esta guía lo mencione, el agente NO lo ofrece ni lo nombra; las alianzas vigentes que se mencionan son Au Pair, Work & Travel y campamentos de verano.
+
 ## Guía de Entrenamiento
 
 # AGENTE COMERCIAL CON IA

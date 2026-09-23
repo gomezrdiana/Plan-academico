@@ -85,7 +85,7 @@ salto()
 seccion('1.', 'QUÉ VENDE HEIIU')
 texto('Heiiu no vende "clases de inglés". Vende dos cosas que tocan la identidad:', bold=True)
 texto('1. PERTENENCIA: dejar de ser "el raro que quiere más" y estar rodeado de gente con la misma ambición.')
-texto('2. RESPALDO: alguien apuesta por ti (la beca del Fondo) y te abre puertas VERIFICADAS (Au Pair, Work & Travel, H2B) — en un mercado lleno de agencias que abusan, Heiiu solo abre puertas seguras.')
+texto('2. RESPALDO: alguien apuesta por ti (la beca del Fondo) y te abre puertas VERIFICADAS (Au Pair, Work & Travel) — en un mercado lleno de agencias que abusan, Heiiu solo abre puertas seguras.')
 sub('EL BIG DOMINO (memorizarlo — se siembra en la conversación, NUNCA se recita)')
 frase('Si puedo convencer a un colombiano con chispa competitiva que quiere oportunidades reales de que la mejor manera de afilar esa chispa Y abrir puertas con el inglés NO es una app gratis (el 88% la abandona el primer mes — ahí estudias en soledad: nadie te reta, nadie apuesta por ti), NI una academia que vende un curso y te suelta, NI YouTube o IA — SINO un programa serio donde está rodeado de gente con su misma ambición + alianzas internacionales verificadas + un Fondo de Becas que premia al que se compromete… entonces todas las objeciones se caen y tendrá que invertir.', 11.5)
 texto('Regla de balance: se lidera con PERTENENCIA, se refuerza con RESPALDO. Si la beca se vuelve protagonista, atraes gente que viene por la plata y no por el compromiso.', bold=True)
@@ -159,7 +159,7 @@ texto('KIT DE MATRÍCULA COMPLETO, SIEMPRE: contrato + pagaré con carta de inst
 
 # ===== 8 =====
 seccion('8.', 'CANALES ESPECIALES')
-texto('· ALIANZAS INTERNACIONALES (Au Pair, Work & Travel, H2B): canal probado (16 matrículas en 2024 solo por Au Pair). Posicionamiento: Heiiu es el FILTRO SEGURO — "trabajamos solo con operadores verificados". El inglés es el requisito del camino — y el Módulo Pasaporte es el producto para esta gente.')
+texto('· ALIANZAS INTERNACIONALES (Au Pair, Work & Travel): canal probado (16 matrículas en 2024 solo por Au Pair). Posicionamiento: Heiiu es el FILTRO SEGURO — "trabajamos solo con operadores verificados". El inglés es el requisito del camino — y el Módulo Pasaporte es el producto para esta gente.')
 texto('· ALIANZAS EMPRESARIALES: las empresas premian a su gente con Becas [Empresa]; los cierres corporativos y todo lo B2B pago pasan por gerencia. Tú atiendes a los BECADOS que lleguen a matricularse — regla del mejor beneficio: si el becado califica a una beca superior del Fondo, se le aplica la mejor, nunca ambas.')
 texto('· RESCATE DE LEADS: tandas de mensajes a la base de "lo voy a pensar" — siempre lenguaje Fondo de Becas, con plantillas aprobadas. Nunca improvisar oferta.')
 

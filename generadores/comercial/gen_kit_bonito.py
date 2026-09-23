@@ -122,7 +122,7 @@ sub('El Módulo de Graduación (incluido — se elige UNO al terminar A2, nunca 
 frase('La pregunta que abre la elección: "¿Tu meta es montar algo tuyo, o irte a trabajar afuera? Tenemos módulo de graduación para cada una — tú eliges al terminar tu A2."')
 tabla([
  ['MÓDULO EMPRENDEDOR', 'MÓDULO PASAPORTE'],
- ['Para el que quiere facturar: página web publicada con dominio propio · pitch en inglés · perfil para vender afuera · cuenta de pagos internacional · primer mensaje de venta enviado a un cliente real.', 'Para el que quiere irse (Au Pair, Work & Travel, H2B): video de presentación en inglés · hoja de vida + carta de aplicación · entrevista simulada con familia/empleador (grabada, antes y después) · certificado internacional EF SET · kit de llegada (aeropuerto, inmigración, primer día).'],
+ ['Para el que quiere facturar: página web publicada con dominio propio · pitch en inglés · perfil para vender afuera · cuenta de pagos internacional · primer mensaje de venta enviado a un cliente real.', 'Para el que quiere irse (Au Pair, Work & Travel): video de presentación en inglés · hoja de vida + carta de aplicación · entrevista simulada con familia/empleador (grabada, antes y después) · certificado internacional EF SET · kit de llegada (aeropuerto, inmigración, primer día).'],
 ])
 texto('Reglas: el precio es el MISMO elija el que elija — va incluido, no se cobra ni se descuenta. La elección es al terminar A2, no en la cita (en la cita solo se muestran los dos caminos). JAMÁS prometer visa, cupo en programa externo o empleo — el módulo entrega preparación y puertas verificadas. El interesado en irse se registra también para el carril de alianzas.', bold=True)
 

@@ -6,14 +6,14 @@
 Al terminar el A2, todo estudiante del Arranque (y del programa completo) cursa su **módulo de graduación — A ELECCIÓN, uno de dos:**
 
 - **MÓDULO EMPRENDEDOR** (el de siempre): página web publicada con dominio propio, pitch en inglés, perfil para vender afuera, cuenta de pagos internacional, primer mensaje de venta enviado.
-- **MÓDULO PASAPORTE** (nuevo): para el que su meta es IRSE — Au Pair, Work & Travel, H2B, estudiar afuera.
+- **MÓDULO PASAPORTE** (nuevo): para el que su meta es IRSE — Au Pair, Work & Travel, estudiar afuera.
 
 **Se elige UNO. Nunca ambos. El precio es el mismo elija el que elija — el módulo va incluido, no se cobra ni se descuenta.**
 
 ## LOS 5 ENTREGABLES DEL PASAPORTE
 
 1. **Video de presentación en inglés** — el "hola, soy yo" pulido que piden las familias y los programas.
-2. **Aplicación lista en inglés:** hoja de vida + carta de presentación para Au Pair / Work & Travel / H2B.
+2. **Aplicación lista en inglés:** hoja de vida + carta de presentación para Au Pair / Work & Travel.
 3. **Entrevista simulada con familia/empleador** — real, grabada, con video del antes y el después.
 4. **Certificado internacional EF SET** — la credencial de nivel que anexa a su aplicación.
 5. **Kit de llegada:** simulación de aeropuerto/inmigración/primer día + frases de supervivencia.
