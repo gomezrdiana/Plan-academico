@@ -77,7 +77,7 @@ sec('5. CÓMO FUNCIONA EL MÉTODO HEIIU')
 t('No vendemos clases de inglés: entrenamos. El estudiante llega a un programa con estructura, medición y compromiso mutuo.', bold=True)
 b('Clases inmersivas y presenciales: el estudiante habla de pie desde el primer día. La clase se conduce en inglés y el profesor guía, corrige y hace practicar en voz alta.')
 b('Grupos pequeños: máximo 16 estudiantes, para que cada uno hable en cada clase.')
-b('Práctica diaria fuera del aula: el estudiante graba un audio o video corto en inglés todos los días. Es su portafolio de avance y el hábito que fija el idioma.')
+b('Práctica diaria fuera del aula: el estudiante graba un video corto en inglés todos los días y lo envía a la academia. Es su portafolio de avance y el hábito que fija el idioma.')
 b('Avance medido: sesión de ubicación gratuita antes de decidir (prueba en línea EF SET + entrevista oral corta; el nivel lo define la academia), evaluaciones por nivel, examen final aplicado por un evaluador externo, y certificado oficial por cada nivel aprobado.')
 b('Simulaciones reales: entrevistas, presentaciones, llamadas, negociaciones — el inglés que se usa en la vida y en el trabajo, no solo gramática.')
 b('Formación del carácter: cada nivel trabaja también disciplina, constancia y comunicación, porque son las habilidades que hacen que el inglés se sostenga.')
@@ -99,10 +99,10 @@ t('Nuestra exigencia: somos estrictos en asistencia y puntualidad. El resultado 
 sec('8. LOS NIVELES')
 tabla([
     ['Nivel', 'Horas', 'Qué logra el estudiante'],
-    ['A1 — Fundamentos', '90 h', 'Presentarse, saludar, hablar de su rutina y su familia, mantener una conversación básica. Small talk.'],
-    ['A2 — Bases laborales', '110 h', 'Inglés telefónico, describir su trabajo, pedir y dar información, trabajar en tareas colaborativas.'],
-    ['B1 — Comunicación profesional', '175 h', 'Entrevistas simuladas, presentaciones, negociación, debate, pitch. Desenvolverse en un entorno laboral en inglés.'],
-    ['B2 — Dominio profesional', '200 h', 'Presentaciones persuasivas, mediación, entrevistas por competencias, LinkedIn en inglés. Nivel para trabajar o estudiar en inglés.'],
+    ['A1 — Fundamentos', '90 h', 'Presentarse, hablar de su rutina, su familia y su día a día, y mantener una conversación básica en presente, pasado y futuro.'],
+    ['A2 — Vida diaria y trabajo', '110 h', 'Hablar de su trabajo, hacer y recibir llamadas, resolver situaciones cotidianas (compras, citas, viajes), pedir y dar información. Presentación oral final sobre su vida.'],
+    ['B1 — Comunicación con fluidez', '175 h', 'Conversar con fluidez sobre trabajo, estudio y temas de actualidad; hacer presentaciones cortas y un pitch; consolidar la gramática intermedia. Proyecto oral final.'],
+    ['B2 — Nivel profesional', '200 h', 'Sostener conversaciones profesionales, entrevistas y presentaciones en inglés; argumentar y mediar en una discusión. Nivel para trabajar o estudiar en inglés. Proyecto final.'],
 ], [4.6, 1.8, 10.6])
 t('Total del programa completo A1 a B2: 575 horas presenciales. Cada nivel termina con examen final y certificado oficial. Un estudiante puede entrar en el nivel que le corresponda según su prueba de ubicación.')
 t('Programa de lanzamiento vigente: ARRANQUE A1+A2 — los dos primeros niveles completos (200 horas), libros y certificados incluidos, cohorte que inicia el 5 de octubre de 2026.', bold=True)

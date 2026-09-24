@@ -158,8 +158,8 @@ texto('3. CERTIFICACIÓN: "Institución con licencia desde 2012, programas regis
 texto('4. FORMACIÓN: "Aquí no solo aprendes inglés: cada clase abre trabajando una virtud — disciplina, prudencia, constancia — aterrizada en conductas concretas del aula." · Al papá: "le devolvemos un hijo más responsable — en inglés." · Al adulto: "la garantía existe porque el programa entrena los hábitos que te hacen cumplir."', 12)
 
 sub('Al matricular: la frase del expediente (se dice SIEMPRE, antes de firmar)')
-frase('"Tu garantía funciona con tu evidencia: desde el día uno grabas un audio de práctica de 1 a 3 minutos diarios y lo envías ese mismo día a la academia — nadie de tu clase lo escucha. Ese portafolio es tu póliza: es lo que respalda tu garantía, y es donde TÚ mismo vas a oír tu cambio mes a mes. La garantía y el audio diario vienen juntos — se firman juntos."')
-texto('Así el audio diario nace como parte del trato ANTES de firmar. El que firma la garantía firma su evidencia — nunca es sorpresa del profesor en la semana 2.', bold=True)
+frase('"Tu garantía funciona con tu evidencia: desde el día uno grabas un video corto de práctica todos los días — en A1 basta un minuto — y lo envías ese mismo día a la academia. Nadie de tu clase lo ve. Ese portafolio es tu póliza: es lo que respalda tu garantía, y es donde TÚ mismo vas a ver tu cambio mes a mes. La garantía y el video diario vienen juntos — se firman juntos."')
+texto('Así el video diario nace como parte del trato ANTES de firmar. El que firma la garantía firma su evidencia — nunca es sorpresa del profesor en la semana 2. Mínimos por nivel: A1 1 min · A2 2 min · B1 3 min · B2 5 min, de corrido y sin leer.', bold=True)
 
 sub('Para cerrar (elige UNA frase y guarda silencio)')
 texto('· "¿Arrancamos? Hoy quedas matriculado."')
@@ -344,7 +344,7 @@ texto('□ 4. LA PREGUNTA DE LA META: "¿Tu meta es montar algo tuyo, o irte a t
 texto('□ 5. EL CIERRE DOBLE: los dos caminos (Arranque $2.990.000 o completo con beca) — las dos respuestas son SÍ.')
 texto('□ 6. SI "YA SABE ALGO": sesión de ubicación agendada con FECHA Y HORA antes de que se vaya — jamás se va sin agenda.')
 texto('□ 7. SI ES ARRANQUE: las dos jornadas + la regla del grupo mínimo, ANTES de firmar — nunca de sorpresa.')
-texto('□ 8. LA FRASE DEL EXPEDIENTE (antes de firmar): la garantía y el audio diario vienen juntos — se firman juntos.')
+texto('□ 8. LA FRASE DEL EXPEDIENTE (antes de firmar): la garantía y el video diario vienen juntos — se firman juntos.')
 texto('□ 9. UNA frase de cierre + SILENCIO. El primero que habla, concede.')
 texto('□ 10. SI NO CIERRA HOY: la oferta POR ESCRITO con vencimiento (72 horas) + el abono de separación ofrecido + el motivo real anotado para rescate.')
 frase('Cita perfecta = las 10 marcadas. Cita sin cierre pero con las 10 = trabajo bien hecho, el seguimiento la remata. Cita con cierre pero sin la 2, la 7 o la 8 = problema futuro: complétalas en la firma.')

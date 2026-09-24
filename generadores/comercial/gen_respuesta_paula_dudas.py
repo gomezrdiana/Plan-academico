@@ -55,7 +55,7 @@ num(4, 'La pregunta de la meta: "¿Tu meta es montar algo tuyo, o irte a trabaja
 num(5, 'El cierre doble: Arranque $2.990.000 o programa completo con beca. Las dos respuestas son SÍ.')
 num(6, 'Si "ya sabe algo": sesión de ubicación agendada con fecha y hora antes de despedirse.')
 num(7, 'Si es Arranque: las dos jornadas y la regla del grupo mínimo, ANTES de firmar. La regla: cada jornada abre con mínimo 6 estudiantes, pero ese número es interno y la consolidación la decide gerencia al cierre de cupos. Tú solo haces la pregunta obligada — "¿tu horario es fijo o tienes flexibilidad entre mañana y noche?" — y lo anotas. Jamás se dice que un grupo "podría no abrir"; al de horario fijo se le da seguridad: "tu cupo queda en tu jornada y tu plata está protegida: si algo cambiara, precio congelado o abono devuelto, jamás te movemos sin tu sí".')
-num(8, 'La frase del expediente: la garantía y el audio diario se firman juntos.')
+num(8, 'La frase del expediente: la garantía y el video diario se firman juntos. El estudiante graba un video corto todos los días y lo envía a la academia: en A1 basta un minuto (A2 2, B1 3, B2 5), de corrido y sin leer. Es su evidencia para la garantía y donde él mismo ve su cambio.')
 num(9, 'Una frase de cierre y silencio. El primero que habla, concede.')
 num(10, 'Si no cierra hoy: oferta por escrito con vencimiento a 72 horas + abono de separación ofrecido + motivo real anotado.')
 t('Y tres reglas de lenguaje: se dice "beca del Fondo", nunca "descuento"; la garantía se cita solo con su texto exacto; y jamás se promete fácil, rápido ni divertido — se promete método, respaldo y garantía a cambio de trabajo.', bold=True)

@@ -60,7 +60,7 @@ item('"Te agendo la asesoría el [día] a las [hora]. Antes, haz este test grati
 
 sec('2. QUÉ VENDES — Y CÓMO SE DICE')
 item('No vendemos inglés: vendemos entrenamiento con garantía firmada + un destino (emprender, irse, ascender). Jamás prometer fácil, rápido ni divertido. Jamás prometer nativos, empleo ni visas.', 'El Pacto:')
-item('garantía por escrito · avance medido (EF SET, audios, reportes) · institución con licencia e ICONTEC · formación del carácter.', 'Las 4 anclas:')
+item('garantía por escrito · avance medido (EF SET, videos diarios, reportes) · institución con licencia e ICONTEC · formación del carácter.', 'Las 4 anclas:')
 item('"Beca del Fondo" — NUNCA "descuento" ni "patrocinador". Yo no decido la beca: "el Fondo la evalúa y audita las fechas". El porcentaje no se negocia: una excepción lo tumba para todas las familias.', 'Vocabulario:')
 item('0 vendidos: "acaban de abrirse los 20 cupos" · 1–4: "los cupos ya se están asignando" · 5+: el número real. Jamás inventar el número.', 'El contador:')
 
@@ -85,7 +85,7 @@ item('abono a cuentas de la academia + el cliente escribe "ACEPTO las condicione
 item('contrato firmado en físico en la sede, a más tardar el primer día de clases. "El chat asegura el cupo; la sede firma el contrato."', 'Formalización:')
 
 sec('6. LO QUE NO SE PUEDE OLVIDAR — CHECKLIST')
-item('□ Registrar el contacto en la planilla desde la primera llamada (canal, qué se ofreció, próximo paso, motivo real si no cierra).   □ Preguntar Cajasan.   □ Pedir el EF SET antes de la cita.   □ Anunciar las dos jornadas y la regla del grupo mínimo ANTES de firmar.   □ La frase del expediente: garantía y audio diario se firman juntos.   □ Una frase de cierre y SILENCIO: el primero que habla, concede.   □ Si no cierra hoy: oferta por escrito con vencimiento + abono ofrecido + seguimiento pautado (mismo día resumen → +24h mensaje → +48h llamada → día 3 "vence hoy").')
+item('□ Registrar el contacto en la planilla desde la primera llamada (canal, qué se ofreció, próximo paso, motivo real si no cierra).   □ Preguntar Cajasan.   □ Pedir el EF SET antes de la cita.   □ Anunciar las dos jornadas y la regla del grupo mínimo ANTES de firmar.   □ La frase del expediente: garantía y video diario se firman juntos (A1 1 min · A2 2 · B1 3 · B2 5).   □ Una frase de cierre y SILENCIO: el primero que habla, concede.   □ Si no cierra hoy: oferta por escrito con vencimiento + abono ofrecido + seguimiento pautado (mismo día resumen → +24h mensaje → +48h llamada → día 3 "vence hoy").')
 
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(3)
 r = p.add_run('Fuente: Kit de Venta v2 · Estrategia de Ventas 2026 · Lo que no está aquí, está en el Kit. Lo que no está en el Kit, se pregunta antes de prometerlo.')
