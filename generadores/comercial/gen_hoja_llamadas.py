@@ -81,7 +81,7 @@ item('el último recurso: 1,9% mensual sobre saldo, inicial mínimo 20%, siempre
 item('toda beca sale por escrito con vencimiento a 72 horas. El abono de $300.000 congela cupo y precio 7 días. Si venció, venció.', 'Vigencia:')
 
 sec('5. MATRÍCULA EN DOS MOMENTOS')
-item('abono a cuentas de la academia + el cliente escribe "ACEPTO las condiciones del recibo No. X" con foto de cédula + cita de ubicación agendada en el mismo acto. Con eso el cupo está separado.', 'Separación (por chat, válida):')
+item('abono a cuentas de la academia + pantallazo del comprobante + foto de cédula + el cliente escribe "ACEPTO las condiciones del recibo No. X" + cita de ubicación agendada en el mismo acto. La auxiliar confirma que entró el dinero; con eso el cupo está separado.', 'Separación (por chat, válida):')
 item('contrato firmado en físico en la sede, a más tardar el primer día de clases. "El chat asegura el cupo; la sede firma el contrato."', 'Formalización:')
 
 sec('6. LO QUE NO SE PUEDE OLVIDAR — CHECKLIST')

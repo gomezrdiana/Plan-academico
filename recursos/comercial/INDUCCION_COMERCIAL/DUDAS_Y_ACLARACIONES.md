@@ -111,7 +111,7 @@ Las columnas de texto libre (nombres, teléfonos, fechas, próximo paso) no tien
 
 **La matrícula tiene DOS momentos, y solo el primero puede ser digital:**
 
-1. **SEPARACIÓN (100% digital, válida de noche y a distancia):** abono a las cuentas de la academia + el cliente acepta POR ESCRITO el recibo de separación ("ACEPTO las condiciones del recibo No. X" por WhatsApp o correo, con foto de la cédula) + se agenda EN EL MISMO ACTO su sesión de ubicación. Con esos tres elementos el cupo queda separado y el precio congelado — la aceptación por mensaje de datos tiene plena validez legal (Ley 527 de 1999).
+1. **SEPARACIÓN (100% digital, válida de noche y a distancia):** abono a las cuentas de la academia + el cliente envía el PANTALLAZO del comprobante de la transferencia y la foto de su cédula + acepta POR ESCRITO el recibo de separación ("ACEPTO las condiciones del recibo No. X" por WhatsApp o correo) + se agenda EN EL MISMO ACTO su sesión de ubicación. La academia verifica que el dinero entró antes de dar el cupo por separado. Con esos tres elementos el cupo queda separado y el precio congelado — la aceptación por mensaje de datos tiene plena validez legal (Ley 527 de 1999).
 2. **FORMALIZACIÓN (siempre en la sede):** contrato de matrícula firmado en físico, a más tardar el día de la sesión de ubicación. El efectivo solo se recibe en la sede, en recepción y con recibo.
 
 **La frase:** *el chat asegura el cupo; la sede firma el contrato.* Ninguna separación queda sin cita agendada, y ninguna matrícula queda cerrada solo por chat.

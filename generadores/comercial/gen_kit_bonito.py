@@ -385,7 +385,7 @@ texto('El crédito de un tercero y el cheque de cesantías cuentan como contado 
 
 sub('8. ¿Se puede matricular a alguien sin que venga a la sede?')
 texto('La matrícula tiene DOS momentos, y solo el primero es digital:')
-texto('· SEPARACIÓN (100% digital): abono a las cuentas de la academia + el cliente acepta por escrito el recibo de separación ("ACEPTO las condiciones del recibo No. X", con foto de su cédula) + se agenda en el mismo acto su sesión de ubicación. Eso congela cupo y precio, y tiene plena validez legal.')
+texto('· SEPARACIÓN (100% digital): abono a las cuentas de la academia + el cliente envía el PANTALLAZO del comprobante de la transferencia y la foto de su cédula + acepta por escrito el recibo de separación ("ACEPTO las condiciones del recibo No. X") + se agenda en el mismo acto su sesión de ubicación. La academia confirma que el dinero entró; solo entonces el cupo queda separado. Eso congela cupo y precio, y tiene plena validez legal.')
 texto('· FORMALIZACIÓN (siempre en la sede): contrato de matrícula firmado en físico, a más tardar el día de la sesión de ubicación. El efectivo solo se recibe en la sede, con recibo.')
 frase('El chat asegura el cupo; la sede firma el contrato.')
 
