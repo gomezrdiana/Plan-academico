@@ -64,7 +64,7 @@ num(2, 'El saldo del programa se paga según el plan de pago acordado y registra
 num(3, 'DERECHO DE RETRACTO: dentro de los cinco (5) días hábiles siguientes al pago, el cliente puede retractarse y se le devuelve la totalidad del abono (Ley 1480 de 2011).')
 num(4, 'VENCIDO EL RETRACTO: el abono NO se devuelve en dinero. Queda como SALDO A FAVOR del cliente, aplicable a cualquier programa de la academia, con vigencia de doce (12) meses desde esta fecha.', bold=True)
 num(5, 'PAGO CON CRÉDITO DE TERCEROS O CESANTÍAS: cuenta como pago de contado. El desembolso o cheque debe recibirse dentro de los diez (10) días hábiles siguientes y siempre antes del inicio de clases; de lo contrario, el cliente puede pagar por otro medio a la tarifa que corresponda, o su abono queda como saldo a favor (numeral 4).')
-num(6, 'La aceptación de este recibo por mensaje de datos (WhatsApp o correo, con copia de la cédula) tiene plena validez como separación del cupo (Ley 527 de 1999). La matrícula se FORMALIZA en la sede con la firma del contrato de matrícula y la sesión de ubicación realizada; este recibo no constituye matrícula.')
+num(6, 'La aceptación de este recibo por mensaje de datos (WhatsApp o correo, con copia de la cédula y comprobante del pago) tiene plena validez como separación del cupo (Ley 527 de 1999). La matrícula se FORMALIZA en la sede con la firma del contrato de matrícula y la sesión de ubicación realizada; este recibo no constituye matrícula.')
 num(7, 'El cupo y el precio congelado quedan sujetos a completar el pago en los términos acordados; el inicio de la cohorte no se aplaza por pagos pendientes.')
 
 doc.add_paragraph()
