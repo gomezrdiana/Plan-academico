@@ -41,7 +41,7 @@ r = p.add_run('Complemento a la sección 3 del Kit · Una página · Septiembre 
 t('La sección 3 del Kit mezcla tres cosas que en realidad son independientes. Separadas quedan así:')
 
 sec('1. LA BECA DEPENDE DE QUIÉN ES Y QUÉ COMPRA — LA MODALIDAD NO CAMBIA LA BECA')
-t('· QUIÉN es define la columna: Transformación (estrato 1-2 con soporte), General (todos los demás), Ejecutivo (paga su empresa).')
+t('· QUIÉN es define la columna: Transformación (estrato 1-2 con soporte, O afiliado a Cajasan con carné o certificado vigente, sin importar estrato), General (todos los demás), Ejecutivo (paga su empresa).')
 t('· QUÉ compra y CÓMO paga define la fila: paquete completo, A2 a B2, B1 a B2 o solo B2 — y si es contado o cuotas.')
 t('· Ejemplo: estrato 3 que compra el programa completo a cuotas → General, fila completo, cuotas → 25,6% sobre $8.696.000 = $6.469.824.')
 t('Intensivo o súper intensivo, la beca es la misma. Se busca la celda en la tabla en pesos y se dice el número. No se calcula.', bold=True)

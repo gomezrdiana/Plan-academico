@@ -78,17 +78,20 @@ Las columnas de texto libre (nombres, teléfonos, fechas, próximo paso) no tien
 
 ---
 
-## DUDA #7 — ¿El afiliado a Cajasan recibe el 45%? (14/09/2026)
+## DUDA #7 — ¿El afiliado a Cajasan recibe el 45%? (14/09/2026 · CORREGIDA 24/09/2026)
 
-**No por ser de Cajasan.** Son dos cosas con trabajos distintos: el **45% lo da el PERFIL** (Transformación: estrato 1-2/SISBÉN con soporte); **Cajasan mejora la FORMA DE PAGO** — el afiliado que paga a cuotas recibe el porcentaje DE CONTADO de su propio perfil.
+**SÍ. El afiliado a Cajasan entra a la columna TRANSFORMACIÓN en todos los paquetes, sin importar su estrato.** Es la alianza registrada con Cajasan. Se verifica con carné o certificado de afiliación vigente.
 
-| Cliente | Su beca |
+| Cliente afiliado a Cajasan | Su beca |
 |---|---|
-| Cajasan + estrato 3 (General) | 32% aun pagando a cuotas |
-| Cajasan + estrato 1-2 con soporte (Transformación) | **45% aun pagando a cuotas** |
-| Estrato 1-2 con soporte, sin Cajasan | 45% contado / 36% cuotas |
+| Paquete completo A1→B2 | **45% de contado · 36% a cuotas** |
+| Paquetes parciales (A2→B2, B1→B2, solo B2) | columna Transformación de la matriz |
+| Nivel suelto | 30% de contado |
+| Arranque | sin beca (precio de lanzamiento) |
 
-**La frase:** *"Cajasan no cambia quién eres — cambia cómo pagas: siempre al precio de contado de tu perfil."*
+**La frase:** *"Por ser afiliado a Cajasan entras a la beca más alta del Fondo."*
+
+*(La regla anterior — "Cajasan solo mejora la forma de pago" — queda sin efecto desde el 24/09/2026.)*
 
 ---
 

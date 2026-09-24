@@ -55,7 +55,7 @@ titulo('HOJA DE LLAMADAS — GERENCIA',
 sec('1. PARA QUÉ ES LA LLAMADA')
 item('La llamada vende la ASESORÍA, no el programa. Termina de una de tres formas: cita agendada con fecha y hora · cupo separado con abono · descartado con motivo anotado. Nunca "me llama luego".', 'Meta:')
 item('"Hola [nombre], soy Diana, la directora de Heiiu. Vi que te interesaste en el inglés con nosotros — ¿tienes dos minutos? Te hago tres preguntas y te digo si esto es para ti."', 'Apertura:')
-item('¿Has estudiado inglés antes y cómo te fue? · ¿Para qué lo necesitas: montar algo tuyo, irte a trabajar afuera, tu trabajo actual? · ¿Eres afiliado a Cajasan? (se anota siempre).', 'Las 3 preguntas:')
+item('¿Has estudiado inglés antes y cómo te fue? · ¿Para qué lo necesitas: montar algo tuyo, irte a trabajar afuera, tu trabajo actual? · ¿Eres afiliado a Cajasan? (se anota siempre: el afiliado entra a Transformación).', 'Las 3 preguntas:')
 item('"Te agendo la asesoría el [día] a las [hora]. Antes, haz este test gratis de 50 minutos: efset.org/ef-set-50 — llegamos sabiendo tu nivel exacto." Sin cita agendada en la llamada, la llamada no valió.', 'Cierre de la llamada:')
 
 sec('2. QUÉ VENDES — Y CÓMO SE DICE')
@@ -68,7 +68,7 @@ sec('3. LOS NÚMEROS QUE HAY QUE SABERSE')
 tabla([
     ['Producto', 'Precio', 'Lo que se dice'],
     ['ARRANQUE A1+A2 (200 h)', '$2.990.000 · 20 cupos · inicia 5 de octubre', 'Precio de lanzamiento, sin beca. Jornadas 8–12 AM y 6:30–8:30 PM. Grupos de 13–14, máx 16. Desde el cupo 21: $3.511.000 salvo contado el mismo día.'],
-    ['PROGRAMA COMPLETO A1→B2', '$8.696.000 full · beca por perfil', 'Transformación (estrato 1–2 con soporte) 45% · General 32% · Ejecutivo (paga empresa) 15%. General de contado: $5.913.280. Cuotas: motor de cuotas, nunca de memoria.'],
+    ['PROGRAMA COMPLETO A1→B2', '$8.696.000 full · beca por perfil', 'Transformación (estrato 1–2 con soporte, o afiliado a Cajasan con carné) 45% · General 32% · Ejecutivo (paga empresa) 15%. General de contado: $5.913.280. Cuotas: motor de cuotas, nunca de memoria.'],
     ['Niveles sueltos', 'A1 $1.596.000 · A2 $1.915.000 · B1 $2.842.000 · B2 $2.343.000', 'Para quien "ya sabe algo": sesión de ubicación con EF SET previo, y entra al nivel que le corresponde.'],
 ], [4.2, 5.2, 8.6])
 item('el que ya intentó y fracasó, o el que compara precio → Arranque. El que va por la meta completa → programa con beca. Las dos respuestas son SÍ.', 'Cierre doble:')

@@ -49,7 +49,7 @@ t('Te propongo algo mejor que verme a mí: hacemos una SIMULACIÓN por videollam
 t('El estilo Heiiu en una frase: preguntar más que hablar. La cita se gana con las preguntas de diagnóstico (qué ha intentado, para qué lo necesita, quién decide), no con la presentación. El programa y el precio llegan después, cuando ya sabes qué le duele.')
 t('Lo que es INDISPENSABLE en toda cita (no se negocia):', bold=True)
 num(1, 'La pregunta de nivel: "¿Has estudiado inglés antes? ¿Cómo te fue?" — define el camino y detecta al cliente quemado.')
-num(2, 'La pregunta de Cajasan: se pregunta y se anota siempre, pague como pague.')
+num(2, 'La pregunta de Cajasan: se pregunta y se anota siempre. El afiliado (con carné o certificado vigente) entra a la columna Transformación en todos los paquetes, sin importar su estrato: 45% de contado o 36% a cuotas en el completo. Es la alianza registrada con Cajasan.')
 num(3, 'Las 4 anclas: garantía por escrito · avance medido · institución con licencia e ICONTEC · formación del carácter.')
 num(4, 'La pregunta de la meta: "¿Tu meta es montar algo tuyo, o irte a trabajar afuera?" — abre los módulos de graduación.')
 num(5, 'El cierre doble: Arranque $2.990.000 o programa completo con beca. Las dos respuestas son SÍ.')

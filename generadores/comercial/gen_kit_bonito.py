@@ -243,6 +243,7 @@ texto('La modalidad NO cambia la beca: solo cambia cuántas cuotas caben, porque
 sub('Las 2 preguntas (en este orden)')
 texto('1. ¿QUIÉN es? — define su columna:', bold=True)
 texto('· Estrato 1-2 o SISBÉN (con soporte): TRANSFORMACIÓN — cupos limitados por trimestre.')
+texto('· AFILIADO A CAJASAN (carné o certificado vigente): TRANSFORMACIÓN, sin importar su estrato — es la alianza registrada con Cajasan.', bold=True)
 texto('· Todos los demás: GENERAL.')
 texto('· Ejecutivo / paga su empresa: EJECUTIVO.')
 texto('2. ¿QUÉ compra y CÓMO paga? — define su fila.', bold=True)
@@ -285,7 +286,7 @@ texto('El precio full NUNCA cambia — la beca lo baja según la celda. "Cuotas"
 
 sub('CAJASAN: se pregunta SIEMPRE, se registra SIEMPRE')
 texto('En TODA cita: "¿Eres afiliado a Cajasan?" — y se anota en su ficha, pague de contado o a cuotas: el reporte de afiliados atendidos es lo que mantiene viva la alianza (única academia de inglés con este convenio).', bold=True)
-texto('BENEFICIO DEL CONVENIO: el afiliado que paga a cuotas recibe la beca de CONTADO de su perfil (empleado formal = menos riesgo, el Fondo le sostiene el % pleno). Se verifica con carné o certificado de afiliación.')
+texto('BENEFICIO DEL CONVENIO: el afiliado a Cajasan entra a la columna TRANSFORMACIÓN en todos los paquetes (completo: 45% de contado / 36% a cuotas), sin importar su estrato. Nivel suelto: 30% de contado. El Arranque no tiene beca. Se verifica con carné o certificado de afiliación vigente.', bold=True)
 texto('JAMÁS se le envía a pedir crédito o libranza a Cajasan: tienen su propio programa de inglés — no les hacemos publicidad.', bold=True)
 
 sub('Cómo se paga (ofrecer EN ESTE ORDEN — Heiiu evita financiar directo)')
@@ -376,8 +377,8 @@ frase('"Te voy a ser honesta: esto NO es fácil. Vas a tener días de no querer 
 texto('Por qué así: el que firma advertido no deserta en la semana 3 ni pide devolución; la dureza honesta hace creíble la garantía; y filtra al comprador correcto.')
 
 sub('6. ¿El afiliado a Cajasan recibe el 45%?')
-texto('No por ser de Cajasan. El 45% lo da el PERFIL (Transformación, con soporte). Cajasan mejora la FORMA DE PAGO: el afiliado que paga a cuotas recibe el porcentaje de contado de su propio perfil.')
-frase('"Cajasan no cambia quién eres — cambia cómo pagas: siempre al precio de contado de tu perfil."')
+texto('SÍ. El afiliado a Cajasan entra a la columna TRANSFORMACIÓN en todos los paquetes, sin importar su estrato: en el completo, 45% de contado y 36% a cuotas; en los parciales, la columna Transformación de la matriz. Nivel suelto: 30% de contado. Arranque: sin beca. Es la alianza registrada con Cajasan y se verifica con carné o certificado vigente. (Regla vigente desde el 24/09/2026; reemplaza la anterior.)')
+frase('"Por ser afiliado a Cajasan entras a la beca más alta del Fondo."')
 
 sub('7. "Te doy un abono, pero necesito el crédito de la cooperativa"')
 texto('El crédito de un tercero y el cheque de cesantías cuentan como contado (sección 3, escalera de pago): abono de $300.000 hoy congela cupo y precio, desembolso completo en máximo 10 días hábiles y siempre antes del inicio de clases. Si no llega a tiempo o es negado: paga por otro medio a la tarifa que corresponda, o su abono queda como saldo a favor para cualquier programa. Nunca devolución en efectivo.')
