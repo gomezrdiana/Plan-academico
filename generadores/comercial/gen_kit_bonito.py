@@ -158,7 +158,7 @@ texto('3. CERTIFICACIÓN: "Institución con licencia desde 2012, programas regis
 texto('4. FORMACIÓN: "Aquí no solo aprendes inglés: cada clase abre trabajando una virtud — disciplina, prudencia, constancia — aterrizada en conductas concretas del aula." · Al papá: "le devolvemos un hijo más responsable — en inglés." · Al adulto: "la garantía existe porque el programa entrena los hábitos que te hacen cumplir."', 12)
 
 sub('Al matricular: la frase del expediente (se dice SIEMPRE, antes de firmar)')
-frase('"Tu garantía funciona con tu evidencia: desde el día uno grabas un audio de práctica de 1 a 3 minutos diarios, en tu celular — nadie de tu clase lo escucha. Ese portafolio es tu póliza: es lo que respalda tu garantía, y es donde TÚ mismo vas a oír tu cambio mes a mes. La garantía y el audio diario vienen juntos — se firman juntos."')
+frase('"Tu garantía funciona con tu evidencia: desde el día uno grabas un audio de práctica de 1 a 3 minutos diarios y lo envías ese mismo día a la academia — nadie de tu clase lo escucha. Ese portafolio es tu póliza: es lo que respalda tu garantía, y es donde TÚ mismo vas a oír tu cambio mes a mes. La garantía y el audio diario vienen juntos — se firman juntos."')
 texto('Así el audio diario nace como parte del trato ANTES de firmar. El que firma la garantía firma su evidencia — nunca es sorpresa del profesor en la semana 2.', bold=True)
 
 sub('Para cerrar (elige UNA frase y guarda silencio)')
