@@ -132,7 +132,7 @@ texto('· La jornada NO se empuja: la definen el horario del cliente y su bolsil
 texto('· PREGUNTA OBLIGADA al registrar preferencia (suena a servicio, no a alarma): "¿Tu horario es fijo o tienes flexibilidad entre mañana y noche?" — se anota FLEXIBLE o SOLO MAÑANA / SOLO NOCHE. JAMÁS se le dice al cliente que su grupo "podría no abrir".')
 texto('· Al de horario fijo se le vende SEGURIDAD, no riesgo (al firmar): "Tu cupo queda asegurado en TU jornada. Y tu plata está protegida siempre: si algo cambiara en la programación, tu precio queda congelado o te devolvemos tu abono completo — jamás te movemos de horario sin tu sí."')
 texto('· Cada jornada abre con grupo mínimo (6) — ese dato es INTERNO: la consolidación la decide gerencia al cierre de cupos, viendo el tablero de flexibles. La asesora nunca gestiona eso en la cita.')
-texto('· Y para ti: tu comisión se causa cuando el grupo ABRE y la plata entra — grupo que no abre = comisiones que no llegan. Tu juego es completar UN grupo rápido; el contador es tu cierre: "a la noche le faltan 2 para abrir — tu abono de hoy es el que la abre".', bold=True)
+texto('· Y para ti: la comisión sigue a la plata. Si un grupo no abre y un abono se devuelve, esa comisión se descuenta como cualquier devolución. Por eso tu juego es completar UN grupo rápido: es la forma de que la plata se quede. El contador es tu cierre: "a la noche le faltan 2 para abrir — tu abono de hoy es el que la abre".', bold=True)
 
 sub('El cierre doble (tu mejor jugada — las dos respuestas son SÍ)')
 texto('SIEMPRE se presenta PRIMERO el programa completo (el ancla alta) y el Arranque de segundo (la red). El cierre doble ES la escalera: son los escalones 1 y 2 ofrecidos juntos — la escalera sigue aplicando si hay un NO a ambos.', bold=True)
