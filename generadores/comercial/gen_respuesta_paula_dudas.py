@@ -74,7 +74,7 @@ sec('3. LA SEPARACIÓN DE CUPO, PASO A PASO')
 tabla([
     ['Paso', 'Quién', 'Qué hace'],
     ['1. Abono', 'Cliente', 'Transfiere $300.000 a las cuentas oficiales de la academia (te paso los datos con el kit) y te envía el pantallazo del comprobante. Nunca efectivo por fuera de la sede, nunca a cuentas personales.'],
-    ['2. Recibo', 'Tú', 'Llenas el Recibo de Separación de Cupo (la plantilla Word que va en tu kit: 12 datos), lo guardas como PDF y se lo envías. Numeración: cada persona que separa cupos tiene su letra y su propio consecutivo sin saltos: los tuyos van P-001, P-002, P-003…; los de la academia con G; si entra otra comercial, con otra letra. Nadie comparte letra, así nunca chocan.'],
+    ['2. Recibo', 'Tú', 'Llenas el Recibo de Separación de Cupo (la plantilla Word que va en tu kit: 12 datos), lo guardas como PDF y se lo envías. Numeración: cada persona que separa cupos usa sus iniciales (primer nombre y apellido) y su propio consecutivo sin saltos: los tuyos van PS-001, PS-002, PS-003…; los de la academia van GT-001, GT-002…; quien entre después usa las suyas. Nadie comparte prefijo, así nunca chocan.'],
     ['3. Aceptación', 'Cliente', 'Responde por escrito "ACEPTO las condiciones del recibo No. X", con la foto de su cédula. Junto con el pantallazo del comprobante, ese mensaje tiene validez legal.'],
     ['4. Confirmación del pago', 'Academia', 'La auxiliar administrativa verifica que el dinero entró y te confirma. Solo con esa confirmación el cupo queda separado.'],
     ['5. Cita de ubicación', 'Tú', 'En el mismo acto agendas su sesión de ubicación, con fecha y hora. Ninguna separación queda sin cita.'],
