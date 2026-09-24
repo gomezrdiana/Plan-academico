@@ -1,5 +1,5 @@
 # ANEXO AL CONTRATO DE MATRÍCULA — GARANTÍA HEIIU DE APRENDIZAJE
-### v2 · 11/09/2026 · PENDIENTE VoBo abogado — entra al paquete del contrato de 30 cláusulas
+### v2.1 · 24/09/2026 · PENDIENTE VoBo abogado — entra al paquete del contrato de 30 cláusulas
 
 **Anexo al Contrato para Programa de Cursos Heiiu-Global Teacher SAS suscrito el ____ / ____ / ______ · Estudiante: ______________________________ · Documento: ______________**
 
@@ -30,6 +30,7 @@ Para efectos de esta garantía, el avance se verifica sobre el **conjunto de evi
 ## 4. ALCANCE Y EXCLUSIONES
 
 - La garantía aplica por nivel cursado; no cubre valores de matrícula, carnet, ni niveles no iniciados.
+- En programas de varios niveles, la garantía se evalúa nivel por nivel, con la evaluación de entrada y de salida de cada uno. La aprobación de un nivel constituye prueba del aprendizaje de ese nivel y agota la garantía respecto de él.
 - No aplica cuando el estudiante no cumple una o más condiciones del punto 1 (en ese caso rigen las cláusulas ordinarias del contrato, incluida la política de recuperación con costo).
 - El reintento del punto 3.b es único; de no aprobarse, rigen las cláusulas 8.B y 12 del contrato.
 
