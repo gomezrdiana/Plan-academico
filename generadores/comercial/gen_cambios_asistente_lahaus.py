@@ -154,6 +154,12 @@ cambio(17, 'TURNOS ROTATIVOS Y OTROS CASOS QUE NO SE VENDEN',
  '"Te lo digo de frente para no hacerte perder tiempo: nuestro programa es de horario fijo, la misma jornada todos los días, y la asistencia es parte del trato de la garantía. Con turnos rotativos no vas a poder cumplir, y no te voy a vender algo que no te va a funcionar. Cuando tengas un horario estable, escríbeme y arrancamos ese mismo mes."',
  'DESCALIFICADORES HONESTOS — el asistente NO agenda y lo dice con respeto: (1) turnos rotativos o sin horario estable; (2) viaje o ausencia larga planeada durante el nivel; (3) necesita virtual; (4) no vive en Bucaramanga ni cerca; (5) menor de 17 entre semana o menor de 12 en sabatino. En todos los casos se registra el contacto con el motivo y se le deja la puerta abierta para cuando cambie su situación. El asistente jamás inventa jornadas, flexibilidad ni horarios que no estén en la base: las jornadas son fijas y no hay clases los domingos.')
 
+cambio(18, '"ESTOY PENSANDO EN VIAJAR EN UNOS MESES"',
+ 'El cliente menciona un viaje o una ausencia futura sin precisar.',
+ 'No hay respuesta definida (riesgo: descalificarlo de una, o venderle una cohorte que no va a terminar).',
+ 'Mensaje 1: "Qué bueno. Para recomendarte bien: ¿más o menos para cuándo, y por cuánto tiempo?" — Según la respuesta: (a) el viaje es después de terminar el nivel: "Perfecto, te da tiempo: el Arranque en la jornada de la mañana son dos meses y medio, y te vas con el inglés hecho." (b) el viaje cae dentro del nivel y es corto (hasta 2 semanas): "Se puede: la garantía pide 80% de asistencia, así que tenlo en cuenta y no faltes a nada más." (c) el viaje cae dentro del nivel y es largo: "Entonces esta cohorte no te sirve, y no te la voy a vender para que la pierdas a la mitad. Arrancas en la cohorte siguiente, apenas vuelvas: te aparto el cupo y te escribo dos semanas antes." (d) es un traslado definitivo dentro de Colombia: no se vende; si se va al exterior y quiere irse con inglés: el súper intensivo antes del viaje, si el tiempo alcanza.',
+ 'un viaje no descalifica por sí solo: se pregunta cuándo y cuánto, y se decide con el calendario del nivel. Nunca vender una cohorte que el cliente no puede terminar. Se registra la fecha del viaje en las notas para el seguimiento.')
+
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(10)
 r = p.add_run('Los cambios se prueban con la misma conversación que los originó. La academia valida y cierra cada ronda.'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
