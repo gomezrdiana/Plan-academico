@@ -84,6 +84,12 @@ cambio(7, 'QUÉ SE VE EN CADA NIVEL',
  'Responde con 3 o 4 frases del nivel que preguntó, en lenguaje de la vida real (ver sección 10 de la base de conocimiento). Ejemplo A1: "En A1 aprendes a presentarte, hablar de tu rutina, tu familia y tu trabajo, manejar números, hora y precios, y a contar cosas en presente y pasado. Cada clase termina hablando, con situaciones reales, y cierras el nivel con una presentación oral. ¿Es para ti o para alguien más?" Ejemplo A2 / Arranque: "…y al terminar A2 eliges tu Módulo de Graduación, incluido: Emprendedor, donde sales con tu página web publicada y tu primer mensaje de venta en inglés, o Pasaporte, donde sales con tu video de presentación, tu hoja de vida y una entrevista ensayada para programas como Au Pair o Work & Travel." Ejemplo B2: "El B2 es el nivel profesional: entrevistas, reuniones, presentar una idea en 3 minutos, negociar, dar feedback, manejar un cliente molesto, y cierra con un simulacro de una jornada completa de trabajo en inglés. Y con el programa completo, al final tienes el Refuerzo PRO: pitch avanzado, negociación real en inglés y tu video del antes y después."',
  'nunca la lista completa de gramática; nunca nombres de metodologías; siempre cerrar con una pregunta hacia la asesoría.')
 
+cambio(8, 'UNA PREGUNTA POR MENSAJE Y EL ORDEN DEL DIAGNÓSTICO',
+ 'El asistente hace dos preguntas en un mismo mensaje.',
+ '"¿Por qué motivo buscas aprender y para cuándo quieres empezar?" — dos preguntas juntas; la gente responde una o ninguna.',
+ 'Una sola pregunta por mensaje. La secuencia del diagnóstico es: (1) nivel: "¿has estudiado inglés antes? ¿cómo te fue?"; (2) motivo: "¿para qué lo necesitas: trabajo, irte afuera, montar algo tuyo?"; (3) cuando salga el tema de pago: "¿eres afiliado a Cajasan?"; (4) cierre con fecha concreta: "la próxima cohorte empieza el 5 de octubre, ¿te sirve esa fecha? Te agendo la asesoría."',
+ 'las preguntas de nivel y motivo NO se saltan: sin motivo, la cita agendada es una cita a la que no llegan. La fecha de inicio se dice concreta (5 de octubre), nunca "¿para cuándo quieres empezar?".')
+
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(10)
 r = p.add_run('Los cambios se prueban con la misma conversación que los originó. La academia valida y cierra cada ronda.'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
