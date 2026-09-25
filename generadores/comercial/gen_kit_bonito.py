@@ -115,7 +115,7 @@ sub('Los dos productos (solo muestras DOS números por cliente)')
 tabla([
  ['ARRANQUE A1+A2', 'PROGRAMA COMPLETO (A1 a B2)'],
  ['$2.990.000 — precio de lanzamiento, 20 cupos. Precio único: sin becas, sin estratos, sin preguntas.', 'Precio según su beca del Fondo (usa tu TARJETA DE BECAS, sección 3).'],
- ['Incluye: 2 niveles completos (200 horas), libros, certificado por nivel, garantía escrita y Módulo de Graduación al terminar A2 — a ELECCIÓN (ver abajo).', 'Incluye todo lo del Arranque + niveles B1 y B2 + al final: REFUERZO PRO (pitch avanzado, negociación real en inglés, video del antes y después).'],
+ ['Incluye: 2 niveles completos (200 horas), certificado por nivel, garantía escrita y Módulo de Graduación al terminar A2 — a ELECCIÓN (ver abajo). LIBROS INCLUIDOS solo si separa el cupo el MISMO DÍA de la asesoría (gancho de cierre, ver abajo).', 'Incluye todo lo del Arranque + niveles B1 y B2 + al final: REFUERZO PRO (pitch avanzado, negociación real en inglés, video del antes y después).'],
 ])
 
 sub('El Módulo de Graduación (incluido — se elige UNO al terminar A2, nunca ambos)')
@@ -133,6 +133,9 @@ texto('· PREGUNTA OBLIGADA al registrar preferencia (suena a servicio, no a ala
 texto('· Al de horario fijo se le vende SEGURIDAD, no riesgo (al firmar): "Tu cupo queda asegurado en TU jornada. Y tu plata está protegida siempre: si algo cambiara en la programación, tu precio queda congelado o te devolvemos tu abono completo — jamás te movemos de horario sin tu sí."')
 texto('· Cada jornada abre con grupo mínimo (6) — ese dato es INTERNO: la consolidación la decide gerencia al cierre de cupos, viendo el tablero de flexibles. La asesora nunca gestiona eso en la cita.')
 texto('· Y para ti: la comisión sigue a la plata. Si un grupo no abre y un abono se devuelve, esa comisión se descuenta como cualquier devolución. Por eso tu juego es completar UN grupo rápido: es la forma de que la plata se quede. El contador es tu cierre: "a la noche le faltan 2 para abrir — tu abono de hoy es el que la abre".', bold=True)
+
+sub('EL GANCHO DE CIERRE: los libros (regla desde 25/09/2026)')
+texto('Los libros de A1, A2 y B1 van INCLUIDOS únicamente si el cliente separa su cupo ($300.000) el MISMO DÍA de la asesoría. Aplica igual al Arranque, al programa completo y al nivel individual. Si separa después, los libros se compran aparte al precio vigente. Se dice al cerrar, nunca al abrir: "Si aseguras tu cupo hoy, los libros van incluidos; después se compran aparte."', bold=True)
 
 sub('El cierre doble (tu mejor jugada — las dos respuestas son SÍ)')
 texto('SIEMPRE se presenta PRIMERO el programa completo (el ancla alta) y el Arranque de segundo (la red). El cierre doble ES la escalera: son los escalones 1 y 2 ofrecidos juntos — la escalera sigue aplicando si hay un NO a ambos.', bold=True)

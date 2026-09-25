@@ -118,4 +118,10 @@ Las columnas de texto libre (nombres, teléfonos, fechas, próximo paso) no tien
 
 ---
 
+## REGLA #10 — Los libros como gancho de cierre (25/09/2026)
+
+**Los libros (A1, A2 y B1) van incluidos ÚNICAMENTE si el cliente separa su cupo el MISMO DÍA de la asesoría.** Aplica al Arranque, al programa completo y al nivel individual. Si separa después, los libros se compran aparte al precio vigente. Se dice al cerrar, no al abrir: *"Si aseguras tu cupo hoy, los libros van incluidos; después se compran aparte."* Reemplaza el "libros incluidos" sin condición del kit.
+
+---
+
 *(Las siguientes dudas se numeran aquí abajo, con fecha.)*
