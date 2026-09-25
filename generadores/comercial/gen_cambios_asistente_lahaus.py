@@ -1,0 +1,85 @@
+# -*- coding: utf-8 -*-
+"""Documento vivo de cambios al asistente de LaHaus: lo que dice hoy vs lo que debe decir. Se envia por rondas al implementador."""
+from docx import Document
+from docx.shared import Pt, RGBColor, Cm
+from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.oxml.ns import qn
+from docx.oxml import OxmlElement
+
+NARANJA = RGBColor(0xE5, 0x4C, 0x09); GRIS = RGBColor(0x66, 0x66, 0x66)
+doc = Document()
+for s in doc.sections:
+    s.top_margin = Cm(1.5); s.bottom_margin = Cm(1.3); s.left_margin = Cm(1.8); s.right_margin = Cm(1.8)
+doc.styles['Normal'].font.name = 'Calibri'; doc.styles['Normal'].font.size = Pt(10)
+
+def shd(cell, color):
+    tcPr = cell._tc.get_or_add_tcPr(); el = OxmlElement('w:shd')
+    el.set(qn('w:val'), 'clear'); el.set(qn('w:color'), 'auto'); el.set(qn('w:fill'), color); tcPr.append(el)
+
+def t(txt, bold=False, size=10):
+    p = doc.add_paragraph(); p.paragraph_format.space_after = Pt(4)
+    r = p.add_run(txt); r.font.size = Pt(size); r.bold = bold
+
+def cambio(n, titulo, situacion, hoy, debe, regla=None):
+    p = doc.add_paragraph(); p.paragraph_format.space_before = Pt(10); p.paragraph_format.space_after = Pt(2)
+    r = p.add_run(f'CAMBIO {n} — {titulo}'); r.bold = True; r.font.size = Pt(11.5); r.font.color.rgb = NARANJA
+    tb = doc.add_table(rows=3, cols=2); tb.style = 'Table Grid'
+    filas = [('Situación', situacion), ('Lo que dice hoy', hoy), ('Lo que debe decir', debe)]
+    for i, (a, b) in enumerate(filas):
+        c0 = tb.cell(i, 0); c0.width = Cm(3.4); c1 = tb.cell(i, 1); c1.width = Cm(13.6)
+        for c in (c0, c1): c.paragraphs[0].paragraph_format.space_after = Pt(0)
+        r0 = c0.paragraphs[0].add_run(a); r0.bold = True; r0.font.size = Pt(9.5); shd(c0, 'FFF8E7')
+        r1 = c1.paragraphs[0].add_run(b); r1.font.size = Pt(9.5)
+        if i == 2: r1.bold = True
+    if regla:
+        p = doc.add_paragraph(); p.paragraph_format.space_before = Pt(2); p.paragraph_format.space_after = Pt(2)
+        r = p.add_run('Regla para el asistente: ' + regla); r.font.size = Pt(9.5); r.italic = True
+
+p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(0)
+r = p.add_run('CAMBIOS AL ASISTENTE — HEIIU × LAHAUS AI'); r.bold = True; r.font.size = Pt(15); r.font.color.rgb = NARANJA
+p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(8)
+r = p.add_run('Ronda 1 · 25 de septiembre de 2026 · Documento vivo: cada prueba de la academia agrega cambios numerados'); r.font.size = Pt(9); r.font.color.rgb = GRIS
+
+t('Estos cambios salen de conversaciones de prueba hechas por la academia con el asistente. Cada uno trae la situación, lo que respondió y lo que debe responder. Los textos en negrita son los que van a la base de conocimiento; prevalecen sobre la versión anterior de INFO_ACADEMIA_PARA_ASISTENTE.')
+
+cambio(1, 'CÓMO DESCRIBE EL MÉTODO',
+ 'El asistente presenta el método en casi todas las respuestas y lo describe como "aprender de pie".',
+ '"El inglés se aprende de pie…" repetido en varias respuestas de una misma conversación.',
+ '"Nuestras clases son inmersivas, activas y prácticas: hablas en inglés desde el primer día, con un profesor al frente y un grupo pequeño."',
+ 'el método se menciona UNA vez por conversación, cuando el cliente pregunta cómo son las clases. No se repite como muletilla. La palabra "de pie" no se usa.')
+
+cambio(2, 'PADRE PREGUNTA POR EL USO DEL CELULAR',
+ 'Un padre o acudiente pregunta si los estudiantes usan celular en clase.',
+ 'No hay respuesta definida.',
+ '"En clase el celular se guarda: la clase es hablada, con el profesor y el grupo, y no se usan pantallas. El celular se usa en casa, para la práctica diaria: cada estudiante graba un video corto en inglés todos los días y lo envía a la academia. Ese es su portafolio de avance."',
+ 'si insiste en que el hijo es menor: la modalidad sabatina recibe desde los 12 años con contrato firmado por el acudiente; el resto de la respuesta es la misma.')
+
+cambio(3, 'PREGUNTA POR PLANES DE PAGO',
+ 'El cliente pregunta cómo puede pagar o si hay planes de pago.',
+ 'Responde con los precios de los programas y no con las formas de pago: "El ARRANQUE cuesta $2.990.000… y el A1 $1.596.000".',
+ '"Sí, tienes varias formas de pagar: de contado (transferencia, tarjeta o efectivo en la sede), a cuotas con una inicial y mensualidades, con cesantías, con crédito de tu cooperativa o banco, y si eres afiliado a Cajasan tienes condiciones especiales por nuestro convenio. El plan exacto se arma en tu asesoría según el programa que elijas. ¿Eres afiliado a Cajasan?"',
+ 'cuando preguntan por pago, la respuesta es sobre FORMAS de pago, no sobre precios. El detalle de cuotas y porcentajes no se da por chat: se agenda la asesoría.')
+
+cambio(4, '"¿POR QUÉ TAN CARO?"',
+ 'El cliente objeta el precio.',
+ '"Es una inversión por la calidad y el respaldo. Somos la única academia con garantía… ¿Para quién buscas el curso y qué edad tiene el estudiante?" — la misma pregunta de cierre que ya había hecho en la respuesta anterior.',
+ '"Te entiendo. Míralo por hora: el Arranque son 200 horas presenciales por $2.990.000, menos de $15.000 la hora con profesor, grupo pequeño, libros y certificado por nivel. Y es la única academia de la ciudad que firma garantía: si cumples y no avanzas, te devolvemos el 100% del nivel. Además tenemos el Fondo de Becas para el programa completo y convenio con Cajasan para afiliados. ¿Te agendo la asesoría para ver qué opción te queda mejor?"',
+ 'ante una objeción de precio: precio por hora + garantía + Fondo y Cajasan, y cerrar con la cita. Nunca repetir la misma pregunta de cierre dos veces seguidas en una conversación.')
+
+cambio(5, 'EL CONVENIO CON CAJASAN COMO RESPALDO',
+ 'El asistente nunca menciona el convenio con Cajasan.',
+ 'No lo menciona.',
+ '"Somos la única academia de inglés de Bucaramanga con convenio con Cajasan: si eres afiliado, tienes condiciones especiales que te explicamos en la asesoría."',
+ 'se menciona cuando el cliente habla de precio o de pago, y siempre que diga que es afiliado. El asistente pregunta "¿eres afiliado a Cajasan?" en toda conversación que llegue al tema del pago. No promete porcentajes: los da la asesoría.')
+
+cambio(6, 'ESTILO: EMOJIS Y PREGUNTAS DE CIERRE',
+ 'Estilo general de las respuestas.',
+ 'El mismo emoji (📈) al final de cada respuesta, y la misma pregunta de cierre repetida.',
+ 'Máximo un emoji por respuesta y no siempre el mismo; puede no llevar. La pregunta de cierre cambia según lo que el cliente acaba de decir, y siempre apunta a agendar la asesoría o a saber para quién es el curso.',
+ 'una respuesta = una idea + una pregunta. Sin listas de precios cuando no las pidieron.')
+
+p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(10)
+r = p.add_run('Los cambios se prueban con la misma conversación que los originó. La academia valida y cierra cada ronda.'); r.font.size = Pt(9); r.font.color.rgb = GRIS
+
+out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\plataforma LaHaus\CAMBIOS_ASISTENTE_LAHAUS.docx'
+doc.save(out); print('OK', out)
