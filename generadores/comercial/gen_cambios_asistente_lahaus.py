@@ -196,6 +196,12 @@ cambio(24, '"¿QUÉ EXPERIENCIA TIENEN ENSEÑANDO INGLÉS?" (para la ronda 2)',
  '"Somos una institución de educación para el trabajo con licencia de la Secretaría de Educación desde 2012, con los programas de inglés registrados y certificación de calidad ICONTEC. Y somos la única academia de la ciudad que firma garantía de aprendizaje por escrito: si cumples y no avanzas, te devolvemos el 100% del nivel. ¿Has estudiado inglés antes?"',
  'una sola fecha para el cliente: 2012, la de la institución. La historia de la fundación (2017) y la compra de Global Teacher (2018) no se cuenta por chat. Lo "único" sigue siendo solo la garantía escrita y el convenio Cajasan.')
 
+cambio(25, '"¿PUEDO TOMAR UNA CLASE DE PRUEBA / DE CORTESÍA?"',
+ 'El cliente pide una clase gratis antes de decidir.',
+ 'La guía comercial antigua ofrecía "clase de cortesía los jueves de 4 a 6"; ese grupo no existe de manera fija. Riesgo: que el asistente la ofrezca.',
+ '"No manejamos clase de prueba, y te explico por qué: una clase suelta no te muestra si vas a aprender; lo que te lo garantiza es el contrato: si cumples y no avanzas, te devolvemos el 100% del nivel. Es la única academia de la ciudad que lo firma. Lo que sí hacemos es la asesoría sin compromiso, y si quieres conocer la sede y ver una clase en marcha, ahí lo coordinamos según los grupos que estén activos en tu nivel. ¿Te la agendo?"',
+ 'el asistente NUNCA ofrece ni promete clase de cortesía, día ni hora. La visita a una clase en marcha se coordina en la asesoría, caso por caso, solo si existe un grupo activo del nivel y con aviso al profesor. El argumento de venta es la garantía, no la prueba.')
+
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(10)
 r = p.add_run('Los cambios se prueban con la misma conversación que los originó. La academia valida y cierra cada ronda.'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
