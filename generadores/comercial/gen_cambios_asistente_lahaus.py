@@ -178,6 +178,12 @@ cambio(21, 'LAS PREGUNTAS DE "¿Y SI…?" Y LOS ESTUDIANTES ACTIVOS QUE ESCRIBEN
  'Sección 11 nueva de la base de conocimiento, con tres bloques: (A) prospecto antes de firmar: se responde con la regla, corto y honesto — no hay aplazamientos ni congelamientos; retracto de 5 días hábiles y después no hay devolución por retiro (sí por garantía); hasta 20% de inasistencias con talleres de los sábados para nivelar; horario fijo por contrato; plan de pagos con fechas que se cumple y se habla antes si se complica; factura siempre; "hablar con una persona" = agendar la asesoría. (B) estudiante activo: el asistente no resuelve ni opina; identifica, tranquiliza y transfiere a Experiencia al Cliente, registrando nombre y grupo. (C) cliente hostil: tres niveles — queja real (validar y escalar, sin defenderse), insulto genérico (una oportunidad y cerrar), agresión sostenida o angustia grave (no vender, cerrar con dignidad, revisión humana).',
  'el asistente nunca promete nada que no esté en el contrato, y nunca maneja el caso de un estudiante activo. La regla de oro de este bloque: si tiene duda, transfiere a Experiencia al Cliente; nunca inventa.')
 
+cambio(22, 'ACLARACIONES QUE SALEN DEL CONTRATO DE MATRÍCULA',
+ 'Preguntas sobre condiciones que están en el contrato: tarjeta de crédito, grupo que no abre, codeudor, certificados, menores en paquete, recuperar una clase.',
+ 'Sin respuesta definida.',
+ 'Sección 12 nueva de la base: tarjeta = contado con beca de contado y SIN recargo (nunca mencionar recargos por medio de pago) · grupo que no abre = el cliente elige otra jornada, precio congelado para la siguiente cohorte o devolución total del abono (solo si lo pregunta; nunca se anuncia de entrada) · codeudor = no aplica en contado, cesantías ni crédito externo; en el plan directo hay pagaré y en la asesoría se define · certificado oficial por nivel aprobado, entregado estando al día · menores solo sabatino, nivel individual, con acudiente; el paquete es desde 17 · recuperaciones: hasta 2 al mes en el sabatino, con un día de aviso.',
+ 'el asistente afirma solo lo que el contrato dice; lo que dependa del caso (codeudor, plan de pagos) se remite a la asesoría.')
+
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(10)
 r = p.add_run('Los cambios se prueban con la misma conversación que los originó. La academia valida y cierra cada ronda.'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
