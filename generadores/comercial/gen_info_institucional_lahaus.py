@@ -99,10 +99,10 @@ t('Nuestra exigencia: somos estrictos en asistencia y puntualidad. El resultado 
 sec('8. LOS NIVELES')
 tabla([
     ['Nivel', 'Horas', 'Qué logra el estudiante'],
-    ['A1 — Fundamentos', '90 h', 'Presentarse, hablar de su rutina, su familia y su día a día, y mantener una conversación básica en presente, pasado y futuro.'],
-    ['A2 — Vida diaria y trabajo', '110 h', 'Hablar de su trabajo, hacer y recibir llamadas, resolver situaciones cotidianas (compras, citas, viajes), pedir y dar información. Presentación oral final sobre su vida.'],
-    ['B1 — Comunicación con fluidez', '175 h', 'Conversar con fluidez sobre trabajo, estudio y temas de actualidad; hacer presentaciones cortas y un pitch; consolidar la gramática intermedia. Proyecto oral final.'],
-    ['B2 — Nivel profesional', '200 h', 'Sostener conversaciones profesionales, entrevistas y presentaciones en inglés; argumentar y mediar en una discusión. Nivel para trabajar o estudiar en inglés. Proyecto final.'],
+    ['A1 — Fundamentos', '90 h', 'Presentarse, hablar de su rutina, su familia y su trabajo; números, hora y precios; lugares de la ciudad; presente, pasado simple y planes. Cierra con la presentación oral MY WORLD.'],
+    ['A2 — Vida diaria y trabajo', '110 h', 'Futuro, condicionales, presente perfecto, voz pasiva, comparativos, phrasal verbs. Situaciones: entrevista de trabajo, hotel, tienda, restaurante, servicio al cliente, reunión de equipo, primer día en un empleo. Cierra con la presentación oral MY LIFE (7-10 min).'],
+    ['B1 — Comunicación con fluidez', '175 h', 'Gramática consolidada en contexto profesional más tercer condicional, deducción, discurso indirecto y tiempos perfectos. Situaciones: briefings, entrevistas, onboarding, planeación de proyectos, evaluaciones de desempeño, negociación con proveedores. Presentación intermedia MY STORY, MY GOALS, taller de pitch y presentaciones finales.'],
+    ['B2 — Nivel profesional', '200 h', 'Primera mitad, vida real: restaurante, direcciones, compras, médico, arriendo, banco, aeropuerto, desacuerdos. Segunda mitad, mundo profesional: networking, CV en 3 minutos, entrevistas, reuniones, presentar una idea, cliente molesto, negociación, feedback, pitch de 90 segundos, pedir un aumento. Cierra con un simulacro de una jornada completa de trabajo en inglés.'],
 ], [4.6, 1.8, 10.6])
 t('Total del programa completo A1 a B2: 575 horas presenciales. Cada nivel termina con examen final y certificado oficial. Un estudiante puede entrar en el nivel que le corresponda según su prueba de ubicación.')
 t('Programa de lanzamiento vigente: ARRANQUE A1+A2 — los dos primeros niveles completos (200 horas), libros y certificados incluidos, cohorte que inicia el 5 de octubre de 2026.', bold=True)

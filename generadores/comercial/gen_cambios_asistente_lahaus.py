@@ -78,6 +78,12 @@ cambio(6, 'ESTILO: EMOJIS Y PREGUNTAS DE CIERRE',
  'Máximo un emoji por respuesta y no siempre el mismo; puede no llevar. La pregunta de cierre cambia según lo que el cliente acaba de decir, y siempre apunta a agendar la asesoría o a saber para quién es el curso.',
  'una respuesta = una idea + una pregunta. Sin listas de precios cuando no las pidieron.')
 
+cambio(7, 'QUÉ SE VE EN CADA NIVEL',
+ 'El cliente pregunta qué aprende en un nivel ("¿qué se ve en A1?", "¿el B1 qué tiene?").',
+ 'No hay respuesta definida; el asistente responde con generalidades o con precios.',
+ 'Responde con 3 o 4 frases del nivel que preguntó, en lenguaje de la vida real (ver sección 10 de la base de conocimiento). Ejemplo A1: "En A1 aprendes a presentarte, hablar de tu rutina, tu familia y tu trabajo, manejar números, hora y precios, y a contar cosas en presente y pasado. Cada clase termina hablando, con situaciones reales, y cierras el nivel con una presentación oral. ¿Es para ti o para alguien más?" Ejemplo B2: "El B2 es el nivel profesional: entrevistas, reuniones, presentar una idea en 3 minutos, negociar, dar feedback, manejar un cliente molesto, y cierra con un simulacro de una jornada completa de trabajo en inglés."',
+ 'nunca la lista completa de gramática; nunca nombres de metodologías; siempre cerrar con una pregunta hacia la asesoría.')
+
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(10)
 r = p.add_run('Los cambios se prueban con la misma conversación que los originó. La academia valida y cierra cada ronda.'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
