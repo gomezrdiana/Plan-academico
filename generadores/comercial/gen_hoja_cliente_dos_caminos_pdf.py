@@ -159,7 +159,7 @@ niveles = [
   'Situaciones: networking, tu CV en 3 minutos, entrevistas difíciles, reuniones, presentar una idea, cliente molesto, negociar y cerrar, dar y recibir feedback, pitch de 90 segundos, pedir un aumento.',
   'Cierra con un simulacro de una jornada completa de trabajo en inglés. Con el programa completo: Refuerzo PRO (pitch avanzado, negociación real y tu video del antes y después).'),
 ]
-y_top = H - band2 - 5 - 14; card_h2 = 116; gap2 = 9; m2 = 30; cw2 = W - 2 * m2
+y_top = H - band2 - 5 - 16; card_h2 = 136; gap2 = 12; m2 = 30; cw2 = W - 2 * m2
 fondos = [CREMA, white, CREMA, white]
 for i, (niv, nom, horas, que, sit, cierre) in enumerate(niveles):
     yt = y_top - i * (card_h2 + gap2); yb = yt - card_h2
@@ -168,15 +168,8 @@ for i, (niv, nom, horas, que, sit, cierre) in enumerate(niveles):
     rbox(m2, yb, 78, card_h2, NAR if i % 2 == 0 else NAR2, None, 12); c.setFillColor(NAR if i % 2 == 0 else NAR2); c.rect(m2 + 60, yb, 18, card_h2, fill=1, stroke=0)
     flow([P(niv, 30, white, True, TA_CENTER, 32), P(horas, 8.6, HexColor('#FFE7D6'), False, TA_CENTER)], m2 + 4, yb + card_h2 / 2 - 24, 70, 48)
     st_gap = ParagraphStyle('g', fontName='Helvetica', fontSize=3, leading=3)
-    flow([P(nom, 11.5, NAR2, True), Paragraph('', st_gap), P(que, 9.6, NEGRO, False, TA_LEFT, 12.4), Paragraph('', st_gap), P('<b>' + sit + '</b>', 9.2, GRIS, False, TA_LEFT, 11.8), Paragraph('', st_gap), P(cierre, 9.2, NAR2, True, TA_LEFT, 11.8)],
-         m2 + 90, yb + 6, cw2 - 100, card_h2 - 10)
-
-# caja final: como sabemos que avanzas
-by_top = y_top - 4 * (card_h2 + gap2) - 2; b_h = 74; by = by_top - b_h
-rbox(m2, by, cw2, b_h, CREMA, None, 10); c.setFillColor(AMA); c.roundRect(m2, by, 7, b_h, 3, fill=1, stroke=0)
-flow([P('LO QUE TE LLEVAS AL TERMINAR', 9.6, NAR2, True, TA_CENTER),
-      P('Un certificado oficial por cada nivel, válido en cualquier ciudad. Tu Módulo de Graduación: la página web publicada y tu primer mensaje de venta en inglés, o tu video de presentación y tu hoja de vida listos para irte. Con el programa completo, el Refuerzo PRO. Y algo que nadie te puede quitar: tu propio video del primer día al lado del último, para que veas cuánto cambiaste.', 8.8, GRIS, False, TA_CENTER, 11.4)],
-     m2 + 18, by + 6, cw2 - 30, b_h - 10)
+    flow([P(nom, 11.5, NAR2, True), Paragraph('', st_gap), P(que, 10, NEGRO, False, TA_LEFT, 13), Paragraph('', st_gap), P('<b>' + sit + '</b>', 9.6, GRIS, False, TA_LEFT, 12.4), Paragraph('', st_gap), P(cierre, 9.6, NAR2, True, TA_LEFT, 12.4)],
+         m2 + 90, yb + 8, cw2 - 100, card_h2 - 14)
 
 # pie
 c.setFillColor(NAR); c.rect(0, 0, W, 30, fill=1, stroke=0)
