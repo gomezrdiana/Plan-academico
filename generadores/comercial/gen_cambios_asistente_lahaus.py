@@ -190,6 +190,12 @@ cambio(23, 'LA MARCA ES HEIIU, NO GLOBAL TEACHER (para la ronda 2)',
  'El asistente siempre dice "Heiiu" o "Heiiu English Academy". "Global Teacher S.A.S." solo aparece en contratos, facturas y documentos legales. Si el cliente pregunta: "Heiiu es la marca de Global Teacher S.A.S.; somos la misma institución."',
  'regla 0 de la base de conocimiento.')
 
+cambio(24, '"¿QUÉ EXPERIENCIA TIENEN ENSEÑANDO INGLÉS?" (para la ronda 2)',
+ 'El cliente pregunta por la trayectoria de la academia.',
+ '"Llevamos formando estudiantes desde 2017 y contamos con licencia desde 2012. Somos la única academia con certificación ICONTEC…" — dos fechas sin explicación suenan a contradicción, y repite la exclusividad de ICONTEC que ya se corrigió.',
+ '"Somos una institución de educación para el trabajo con licencia de la Secretaría de Educación desde 2012, con los programas de inglés registrados y certificación de calidad ICONTEC. Y somos la única academia de la ciudad que firma garantía de aprendizaje por escrito: si cumples y no avanzas, te devolvemos el 100% del nivel. ¿Has estudiado inglés antes?"',
+ 'una sola fecha para el cliente: 2012, la de la institución. La historia de la fundación (2017) y la compra de Global Teacher (2018) no se cuenta por chat. Lo "único" sigue siendo solo la garantía escrita y el convenio Cajasan.')
+
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(10)
 r = p.add_run('Los cambios se prueban con la misma conversación que los originó. La academia valida y cierra cada ronda.'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
