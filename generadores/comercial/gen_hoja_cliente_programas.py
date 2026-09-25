@@ -112,7 +112,7 @@ for bt, tx in [('Asegura tu cupo con $300.000: ', 'te congela el cupo y el preci
     bullet(b, bt, tx)
 
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(5)
-run(p, 'Tu asesora: Paula Saenz · WhatsApp [línea de la academia] · Instagram @Heiiu_english · Heiiu English Academy, Bucaramanga', 8.5, False, GRIS)
+run(p, 'Tu asesora: Paula Saenz · WhatsApp 315 547 0657 · Instagram @Heiiu_english · Heiiu English Academy, Bucaramanga', 8.5, False, GRIS)
 
 out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\HOJA_CLIENTE_DOS_CAMINOS.docx'
 doc.save(out); print('OK', out)
