@@ -139,7 +139,7 @@ El ESTUDIANTE o EL SUSCRIPTOR podrá ejercer el DERECHO DE RETRACTO dentro de lo
 
 ### 22. PAGOS DE CONTADO: CESANTÍAS, CRÉDITO DE TERCEROS Y TARJETA DE CRÉDITO
 
-Se entienden como pago DE CONTADO para todos los efectos de este contrato, incluida la tarifa aplicable: (a) la transferencia, el efectivo y el débito; (b) el cheque de cesantías; (c) el crédito otorgado al ESTUDIANTE o al SUSCRIPTOR por una cooperativa, banco o entidad financiera cuyo desembolso se efectúe directamente a LA ACADEMIA; y (d) el pago con tarjeta de crédito, que causa el recargo por costo de transacción registrado en el ANEXO DE PLAN DE PAGOS e informado al ESTUDIANTE por escrito antes de la firma. En los casos (b) y (c), el cheque o el desembolso debe recibirse dentro de los DIEZ (10) DÍAS HÁBILES siguientes a la separación del cupo y, en todo caso, antes del inicio de clases; si no se recibe en ese plazo, el ESTUDIANTE podrá pagar por otro medio a la tarifa que corresponda a esa forma de pago, o su abono quedará como saldo a favor conforme a la cláusula 21. Las obligaciones que el ESTUDIANTE o EL SUSCRIPTOR adquieran con la entidad financiera o la cooperativa son ajenas a LA ACADEMIA, que no interviene en su trámite, aprobación ni cobro, y no podrá interceder en ellas si el ESTUDIANTE se atrasa, deja de asistir o reprueba.
+Se entienden como pago DE CONTADO para todos los efectos de este contrato, incluida la tarifa aplicable: (a) la transferencia, el efectivo y el débito; (b) el cheque de cesantías; (c) el crédito otorgado al ESTUDIANTE o al SUSCRIPTOR por una cooperativa, banco o entidad financiera cuyo desembolso se efectúe directamente a LA ACADEMIA; y (d) el pago con tarjeta de crédito o débito, sin recargo alguno por el medio de pago. En los casos (b) y (c), el cheque o el desembolso debe recibirse dentro de los DIEZ (10) DÍAS HÁBILES siguientes a la separación del cupo y, en todo caso, antes del inicio de clases; si no se recibe en ese plazo, el ESTUDIANTE podrá pagar por otro medio a la tarifa que corresponda a esa forma de pago, o su abono quedará como saldo a favor conforme a la cláusula 21. Las obligaciones que el ESTUDIANTE o EL SUSCRIPTOR adquieran con la entidad financiera o la cooperativa son ajenas a LA ACADEMIA, que no interviene en su trámite, aprobación ni cobro, y no podrá interceder en ellas si el ESTUDIANTE se atrasa, deja de asistir o reprueba.
 
 ### 23. MEDIOS DE PAGO AUTORIZADOS Y FACTURACIÓN
 
@@ -215,7 +215,7 @@ Hoja variable, la que más se reemplaza. Campos: nombre comercial del programa �
 
 ### 2. ANEXO DE PLAN DE PAGOS — **YA EXISTE** (`documentos_operativos/plantillas/ANEXO_PLAN_DE_PAGOS.docx`)
 
-Debe contener, además de la tabla de cuotas: porcentaje de cuota inicial pactado y mínimo vigente fijado por la academia · plazo de pago de la inicial · número de cuotas · tasa de interés remuneratorio pactada · recargo por costo de transacción de tarjeta de crédito · fechas de vencimiento. Ajuste requerido: retirar las remisiones a "la cláusula aceleratoria del contrato" y a "los gastos de cobranza conforme al contrato" sin número, y remitir a las cláusulas 24 y 25 de esta versión.
+Debe contener, además de la tabla de cuotas: porcentaje de cuota inicial pactado y mínimo vigente fijado por la academia · plazo de pago de la inicial · número de cuotas · tasa de interés remuneratorio pactada · fechas de vencimiento. Ajuste requerido: retirar las remisiones a "la cláusula aceleratoria del contrato" y a "los gastos de cobranza conforme al contrato" sin número, y remitir a las cláusulas 24 y 25 de esta versión.
 
 ### 3. ANEXO DE GARANTÍA HEIIU DE APRENDIZAJE — **YA EXISTE v2.2** (`recursos/comercial/productos/ANEXO_GARANTIA_HEIIU.md`)
 
@@ -296,7 +296,6 @@ Acuerdo de Recuperación de Asistencia (existe) · Acta de Paz y Salvo y Cierre 
 | 29 | Nueva | P10, sin tarifas, con paz y salvo y anulación del pagaré |
 | 30 | Une cl. 22 y 30 | La conducta ya no afecta la nota |
 
-> **SUPUESTO DE PLANEACIÓN — verificar:** el recargo por costo de transacción de tarjeta de crédito se remite al ANEXO DE PLAN DE PAGOS. La cifra que la doctrina menciona (5%) no aparece en ningún documento comercial del repositorio; gerencia debe fijarla en el anexo el mismo día que baje al material de venta, o retirar la mención.
 >
 > **SUPUESTO DE PLANEACIÓN — verificar:** el valor y el número de sesiones del paquete de recuperación del examen final quedan en el ANEXO DE CONDICIONES DEL PROGRAMA porque la política vigente dice que el costo lo fija coordinación, sin cifra.
 >
