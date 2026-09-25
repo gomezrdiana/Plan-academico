@@ -90,6 +90,12 @@ cambio(8, 'UNA PREGUNTA POR MENSAJE Y EL ORDEN DEL DIAGNÓSTICO',
  'Una sola pregunta por mensaje. La secuencia del diagnóstico es: (1) nivel: "¿has estudiado inglés antes? ¿cómo te fue?"; (2) motivo: "¿para qué lo necesitas: trabajo, irte afuera, montar algo tuyo?"; (3) cuando salga el tema de pago: "¿eres afiliado a Cajasan?"; (4) cierre con fecha concreta: "la próxima cohorte empieza el 5 de octubre, ¿te sirve esa fecha? Te agendo la asesoría."',
  'las preguntas de nivel y motivo NO se saltan: sin motivo, la cita agendada es una cita a la que no llegan. La fecha de inicio se dice concreta (5 de octubre), nunca "¿para cuándo quieres empezar?".')
 
+cambio(9, 'EL CLIENTE DICE QUE SU MOTIVO ES TRABAJAR',
+ 'A la pregunta del motivo, el cliente responde "quiero trabajar" (mejor empleo, ascenso, trabajar en inglés).',
+ '"Listo, con el nivel B1 o B2 ya puedes aplicar a vacantes globales. ¿Vives en Bucaramanga o cerca?" — suena a promesa de empleo, y no conecta con ningún programa ni con lo que hace la academia.',
+ '"Esa es la meta de la mayoría de nuestros estudiantes, y por eso el programa está hecho para eso: no solo inglés, sino inglés para trabajar. Desde el primer nivel entrenas lo que un empleador nota en una entrevista: hablar con seguridad, disciplina, constancia y comunicación. En A2 ya practicas entrevistas de trabajo, llamadas y reuniones, y al terminar eliges tu módulo de graduación: Emprendedor, si quieres montar algo tuyo, o Pasaporte, si quieres irte a trabajar afuera. Para decirte por dónde empezar: ¿has estudiado inglés antes? ¿Cómo te fue?"',
+ 'nunca "puedes aplicar a vacantes", "consigues trabajo" ni nada que suene a empleo garantizado: se vende PREPARACIÓN para trabajar en inglés. Cuando el motivo es trabajo, la respuesta conecta con: entrevistas y situaciones laborales del programa + formación del carácter + módulos de graduación. El Arranque se ofrece solo si el cliente no tiene base (por eso sigue la pregunta de nivel); si ya tiene nivel, entra directo al que le corresponda.')
+
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(10)
 r = p.add_run('Los cambios se prueban con la misma conversación que los originó. La academia valida y cierra cada ronda.'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
