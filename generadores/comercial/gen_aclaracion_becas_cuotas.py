@@ -59,7 +59,7 @@ tabla([
 t('Menos cuotas que el máximo SIEMPRE se puede, y el cliente paga menos interés. Más cuotas que el máximo, nunca.', bold=True)
 t('· Las tablas en pesos del Kit van SIN interés: son el precio base. El interés del 1,9% mensual sobre saldo solo existe con crédito directo de Heiiu, y ya está sumado en la tabla de "cuota tipo" (inicial 20% + máximo de cuotas).')
 t('· Si el cliente pide otra inicial u otro número de cuotas (por ejemplo 9 en vez de 11), el número sale del MOTOR_CUOTAS_FONDO_2026.xlsx, nunca de memoria. Ejemplo General completo: 11 cuotas de $525.855 · 9 cuotas de $631.100 · 6 cuotas de $920.909, siempre con inicial de $1.293.965.')
-t('· Cesantías, crédito de un tercero o tarjeta = CONTADO para nosotros: beca de contado y sin interés nuestro. Por tarjeta no se cobra ningún recargo.')
+t('· Cesantías, crédito de un tercero o tarjeta = CONTADO para nosotros: beca de contado y sin interés nuestro. Las condiciones del pago con tarjeta se tratan en la cita.')
 t('· Al cliente se le da el plan completo: inicial + número de cuotas + valor de cada cuota. Nunca solo la cuota.')
 
 sec('3. EL SABATINO ES OTRO PRODUCTO')

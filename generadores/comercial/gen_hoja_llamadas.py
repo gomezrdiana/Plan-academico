@@ -76,7 +76,7 @@ item('el que ya intentó y fracasó, o el que compara precio → Arranque. El qu
 sec('4. LA PLATA — REGLAS QUE NO SE ROMPEN')
 item('transferencia, débito, o efectivo SOLO en la sede con recibo. Nada de efectivo por fuera ni cuentas personales.', 'Contado:')
 item('cesantías y crédito de un tercero (Comultrasan, banco, financiera) = CONTADO: abono de $300.000 hoy, desembolso en máximo 10 días hábiles y antes del inicio. Si no llega: paga por otro medio o el abono queda como saldo a favor. Nunca devolución en efectivo.', 'Cuenta como contado:')
-item('cuenta como contado, con la beca de contado. Sin recargo: la ley no lo permite.', 'Tarjeta de crédito:')
+item('cuenta como contado, con la beca de contado. Sus condiciones se tratan en la cita, no por escrito.', 'Tarjeta de crédito:')
 item('el último recurso: 1,9% mensual sobre saldo, inicial mínimo 20%, siempre con pagaré firmado.', 'Crédito directo Heiiu:')
 item('toda beca sale por escrito con vencimiento a 72 horas. El abono de $300.000 congela cupo y precio 7 días. Si venció, venció.', 'Vigencia:')
 

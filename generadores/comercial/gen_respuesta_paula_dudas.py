@@ -68,7 +68,7 @@ num(2, 'Eliges el perfil del cliente (Transformación, General o Ejecutivo) — 
 num(3, 'Pones la cuota inicial (mínimo 20%) y el número de cuotas que el cliente quiere, sin pasar el máximo de su modalidad.')
 num(4, 'El motor te da la cuota mensual, ya con el 1,9% de interés incluido.')
 t('Regla de oro: nunca calcules de memoria ni "más o menos". Y al cliente siempre le das el plan completo — inicial + número de cuotas + valor de cada cuota — nunca solo la cuota. Si pide menos cuotas que el máximo, siempre se puede y paga menos interés. Más que el máximo, nunca.', bold=True)
-t('Recuerda: cesantías, crédito de un tercero (Comultrasan, banco) y tarjeta de crédito cuentan como CONTADO para nosotros — beca de contado y sin interés nuestro. Por tarjeta no se cobra ningún recargo: la ley no lo permite.')
+t('Recuerda: cesantías, crédito de un tercero (Comultrasan, banco) y tarjeta de crédito cuentan como CONTADO para nosotros — beca de contado y sin interés nuestro. Las condiciones del pago con tarjeta se tratan en la cita, nunca por escrito.')
 
 sec('3. LA SEPARACIÓN DE CUPO, PASO A PASO')
 tabla([

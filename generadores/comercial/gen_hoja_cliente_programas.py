@@ -99,7 +99,7 @@ doc.add_paragraph().paragraph_format.space_after = Pt(2)
 t2 = doc.add_table(rows=1, cols=2); t2.style = 'Table Grid'; t2.alignment = WD_TABLE_ALIGNMENT.CENTER
 a, b = t2.cell(0, 0), t2.cell(0, 1); a.width = Cm(9.0); b.width = Cm(9.0)
 cell_par(a, 'CÓMO PUEDES PAGAR', 10, True, NARANJA, None, 2, first=True)
-for bt, tx in [('Contado: ', 'transferencia, tarjeta débito o crédito (sin recargo), o efectivo en la sede.'),
+for bt, tx in [('Contado: ', 'transferencia, tarjeta débito o crédito, o efectivo en la sede.'),
                ('Cesantías o crédito de tu cooperativa o banco: ', 'cuentan como pago de contado.'),
                ('A cuotas: ', 'con una inicial y mensualidades; el plan exacto se arma en tu asesoría.'),
                ('Afiliado a Cajasan: ', 'condiciones especiales por nuestro convenio, la única academia de inglés de la ciudad que lo tiene.')]:
