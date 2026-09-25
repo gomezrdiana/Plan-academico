@@ -41,6 +41,7 @@ p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_fo
 r = p.add_run('Ronda 1 · 25 de septiembre de 2026 · Documento vivo: cada prueba de la academia agrega cambios numerados'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
 t('Estos cambios salen de conversaciones de prueba hechas por la academia con el asistente. Cada uno trae la situación, lo que respondió y lo que debe responder. Los textos en negrita son los que van a la base de conocimiento; prevalecen sobre la versión anterior de INFO_ACADEMIA_PARA_ASISTENTE.')
+t('PRINCIPIO GENERAL, que resume los cambios 9, 11 y 12: el asistente tiene que VENDER antes de agendar. La cita es la consecuencia de que el cliente entendió qué compra. Una conversación que corre a pedir horario sin haber presentado el programa produce citas a las que la gente no llega.', bold=True)
 
 cambio(1, 'CÓMO DESCRIBE EL MÉTODO',
  'El asistente presenta el método en casi todas las respuestas y lo describe como "aprender de pie".',
