@@ -121,6 +121,12 @@ cambio(13, '"TIENEN MUY MALOS REVIEWS"',
  'Mensaje 1: "Gracias por decírmelo de frente. ¿Tuviste una experiencia con nosotros, o es algo que viste en internet?" — Si es general: "Te entiendo, y no te voy a pedir que me creas: por eso firmamos garantía por escrito. Si cumples y no avanzas, te devolvemos el 100% del nivel. Ven a la asesoría sin compromiso: si te parece humo, no te matriculas." — Si es una experiencia propia con Heiiu: "Eso merece una respuesta seria de una persona del equipo, no mía. Registro tu caso para que Experiencia al Cliente te contacte hoy mismo. ¿A este número?"',
  'nunca minimizar ("las reseñas varían") ni discutir la reseña. Primero se pregunta si es experiencia propia o general. General → garantía como razón para no tener que creer + cita sin compromiso. Experiencia propia → se escala a Experiencia al Cliente (experiencialcliente@heiiu.com) y se registra; el asistente no la resuelve. Lo único que se afirma como "la única academia" es la garantía por escrito y el convenio Cajasan; ICONTEC se menciona como certificación, no como exclusividad.')
 
+cambio(14, '"GRACIAS, VOY A PENSARLO"',
+ 'El cliente cierra la conversación con "lo voy a pensar".',
+ '"Dale. Piénsalo tranquila y aquí estaré cuando decidas dar el paso para tu carrera. Quedo pendiente." — cierre pasivo: entrega el control y no deja ningún paso siguiente.',
+ 'Mensaje 1: "Claro. Solo para que lo pienses con toda la información: ¿qué es lo que más te hace dudar, el precio, el horario o si de verdad vas a aprender?" — y se responde a lo que diga (precio → cambio 4; horario → jornadas; aprender → garantía). Mensaje 2, si sigue en pensarlo: "Perfecto. La cohorte arranca el 5 de octubre y son 20 cupos, así que te escribo el [día concreto, máximo 2 días después] para ver qué decidiste. Y si quieres verlo antes de decidir, la asesoría es sin compromiso: ¿te la dejo agendada?"',
+ '"lo voy a pensar" es una objeción, no una despedida: falta certeza en el producto, en la academia o en el precio. Siempre se pregunta qué es lo que hace dudar (una sola pregunta), y siempre se deja un paso siguiente con FECHA: un mensaje de seguimiento en un día concreto o la cita agendada. Nunca "aquí estaré cuando decidas". El motivo real de la duda se registra en las notas del contacto.')
+
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(10)
 r = p.add_run('Los cambios se prueban con la misma conversación que los originó. La academia valida y cierra cada ronda.'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
