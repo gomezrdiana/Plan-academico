@@ -108,7 +108,7 @@ flow([P('LA GARANTÍA HEIIU, TAL COMO QUEDA EN TU CONTRATO', 9.6, NAR2, True, TA
      m + 18, gy + 6, W - 2 * m - 30, g_h - 10)
 
 # ================= PAGO / SIGUIENTE PASO =================
-py_top = gy - 12; p_h = 118; py = py_top - p_h
+py_top = gy - 12; p_h = 136; py = py_top - p_h
 rbox(m, py, cw, p_h, white, LINEA, 10)
 rbox(x2, py, cw, p_h, white, LINEA, 10)
 flow([P('CÓMO PUEDES PAGAR', 9.6, NAR2, True)], m + 12, py_top - 18, cw - 24, 16)
