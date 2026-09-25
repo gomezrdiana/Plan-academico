@@ -174,13 +174,13 @@ for i, (niv, nom, horas, que, sit, cierre) in enumerate(niveles):
 # caja final: como sabemos que avanzas
 by_top = y_top - 4 * (card_h2 + gap2) - 2; b_h = 74; by = by_top - b_h
 rbox(m2, by, cw2, b_h, CREMA, None, 10); c.setFillColor(AMA); c.roundRect(m2, by, 7, b_h, 3, fill=1, stroke=0)
-flow([P('CÓMO SABEMOS QUE AVANZAS (y por eso podemos firmar garantía)', 9.6, NAR2, True, TA_CENTER),
-      P('Entras con una prueba internacional (EF SET) y una grabación oral en tu primera clase: esa es tu foto de partida. Cada día grabas un video corto de práctica y lo envías: ese es tu portafolio. Cada nivel termina con un examen final aplicado por un evaluador externo y un certificado oficial. Así tu avance no es una opinión: es evidencia tuya, mes a mes.', 8.8, GRIS, False, TA_CENTER, 11.4)],
+flow([P('LO QUE TE LLEVAS AL TERMINAR', 9.6, NAR2, True, TA_CENTER),
+      P('Un certificado oficial por cada nivel, válido en cualquier ciudad. Tu Módulo de Graduación: la página web publicada y tu primer mensaje de venta en inglés, o tu video de presentación y tu hoja de vida listos para irte. Con el programa completo, el Refuerzo PRO. Y algo que nadie te puede quitar: tu propio video del primer día al lado del último, para que veas cuánto cambiaste.', 8.8, GRIS, False, TA_CENTER, 11.4)],
      m2 + 18, by + 6, cw2 - 30, b_h - 10)
 
 # pie
 c.setFillColor(NAR); c.rect(0, 0, W, 30, fill=1, stroke=0)
-flow([P('Cada nivel termina con examen final aplicado por un evaluador externo y certificado oficial. Garantía por escrito en cada nivel. · Tu asesora: <b>Paula Saenz</b> · WhatsApp <b>315 547 0657</b>', 8.4, white, False, TA_CENTER)], m2, 9, W - 2 * m2, 16)
+flow([P('Garantía por escrito en cada nivel · Tu asesora: <b>Paula Saenz</b> · WhatsApp <b>315 547 0657</b> · Instagram @Heiiu_english', 8.6, white, False, TA_CENTER)], m2, 9, W - 2 * m2, 16)
 
 c.showPage(); c.save()
 print('OK', OUT)
