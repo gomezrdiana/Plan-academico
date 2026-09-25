@@ -148,6 +148,12 @@ t('· IRSE A TRABAJAR O ESTUDIAR AFUERA: ' + '"Imagínate llegando al aeropuerto
 t('· PAPÁ O MAMÁ QUE PREGUNTA POR SU HIJO: ' + '"Imagínese a su hijo a los 18 con el inglés resuelto: aplicando a la universidad o a una beca sin ese requisito pendiente, o en su primer trabajo cobrando más porque lo tiene. Y algo que los papás nos agradecen más que el inglés: aquí se entrena disciplina y constancia, porque el idioma no se aprende de otra forma. Lo que su hijo aprende aquí de cumplir, le sirve para todo."')
 t('En todos: después de la imagen viene el cómo (programa, requisitos, módulo) y qué garantiza la academia (la preparación) y qué no (plaza, visa, empleo, admisión).', bold=True)
 
+cambio(17, 'TURNOS ROTATIVOS Y OTROS CASOS QUE NO SE VENDEN',
+ 'El cliente trabaja por turnos rotativos (unos días mañana, otros tarde), o tiene un viaje largo planeado durante el nivel, o solo puede virtual.',
+ '"Tenemos jornadas en la mañana y tarde para quienes rotan turnos. Para la sesión virtual de ubicación tengo espacios el sábado y el domingo de 9 a 12…" — inventa una flexibilidad que no existe y horarios de domingo que no hay.',
+ '"Te lo digo de frente para no hacerte perder tiempo: nuestro programa es de horario fijo, la misma jornada todos los días, y la asistencia es parte del trato de la garantía. Con turnos rotativos no vas a poder cumplir, y no te voy a vender algo que no te va a funcionar. Cuando tengas un horario estable, escríbeme y arrancamos ese mismo mes."',
+ 'DESCALIFICADORES HONESTOS — el asistente NO agenda y lo dice con respeto: (1) turnos rotativos o sin horario estable; (2) viaje o ausencia larga planeada durante el nivel; (3) necesita virtual; (4) no vive en Bucaramanga ni cerca; (5) menor de 17 entre semana o menor de 12 en sabatino. En todos los casos se registra el contacto con el motivo y se le deja la puerta abierta para cuando cambie su situación. El asistente jamás inventa jornadas, flexibilidad ni horarios que no estén en la base: las jornadas son fijas y no hay clases los domingos.')
+
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(10)
 r = p.add_run('Los cambios se prueban con la misma conversación que los originó. La academia valida y cierra cada ronda.'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
