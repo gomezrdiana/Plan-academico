@@ -69,7 +69,7 @@ flow([P('CAMINO 1 · ARRANQUE A1 + A2', 11.5, white, True, TA_CENTER), P('Empiez
 flow([P('$2.990.000', 24, NAR2, True, TA_CENTER, 26), P('Precio de lanzamiento · 20 cupos · cohorte del 5 de octubre', 7.8, GRIS, False, TA_CENTER, 10)], m + 8, top - 96, cw - 16, 48)
 y = bullets([
     ('200 horas presenciales: ', 'los dos primeros niveles completos.'),
-    ('Libros incluidos ', 'y certificado oficial por cada nivel aprobado.'),
+    ('Libros incluidos si aseguras tu cupo hoy mismo, ', 'y certificado oficial por cada nivel aprobado.'),
     ('Hablas desde el primer día: ', 'clases activas, en inglés, con situaciones reales: presentarte, tu trabajo, llamadas, entrevistas.'),
     ('Jornadas: ', 'mañana 8:00 a 12:00 (dos meses y medio) o noche 6:30 a 8:30 PM (cinco meses).'),
     ('Garantía por escrito ', 'en tu contrato.'),
@@ -89,7 +89,7 @@ flow([P('CAMINO 2 · PROGRAMA COMPLETO A1 → B2', 11.5, white, True, TA_CENTER)
 flow([P('Beca del Fondo según tu perfil', 16, NAR2, True, TA_CENTER, 19), P('Precio pleno $8.696.000 · tu beca se define en la asesoría', 7.8, GRIS, False, TA_CENTER, 10)], x2 + 8, top - 96, cw - 16, 48)
 bullets([
     ('575 horas presenciales: ', 'los cuatro niveles, de cero a nivel profesional.'),
-    ('Libros incluidos ', 'y certificado oficial por cada nivel aprobado.'),
+    ('Libros incluidos si aseguras tu cupo hoy mismo, ', 'y certificado oficial por cada nivel aprobado.'),
     ('Todo lo del Arranque, ', 'y además B1 y B2: presentaciones, reuniones, negociación, entrevistas difíciles, pitch de 90 segundos, pedir un aumento, manejar un cliente molesto.'),
     ('Garantía por escrito ', 'en cada nivel.'),
     ('Módulo de Graduación ', 'al terminar A2 (Emprendedor o Pasaporte).'),
@@ -118,7 +118,7 @@ bullets([('Contado: ', 'transferencia, tarjeta débito o crédito, o efectivo en
          ('Afiliado a Cajasan: ', 'condiciones especiales por nuestro convenio, la única academia de inglés de la ciudad que lo tiene.')],
         m + 10, py_top - 24, cw - 20, gap=2.2, size=8.6)
 flow([P('TU SIGUIENTE PASO', 9.6, NAR2, True)], x2 + 12, py_top - 18, cw - 24, 16)
-bullets([('Asegura tu cupo con $300.000: ', 'te congela el cupo y el precio por 7 días, y se cruza con tu primer pago.'),
+bullets([('Asegura tu cupo HOY con $300.000: ', 'te congela el cupo y el precio por 7 días, te deja los libros incluidos, y se cruza con tu primer pago.'),
          ('Tienes 5 días hábiles ', 'para cambiar de opinión con devolución total, por ley.'),
          ('La matrícula se formaliza en la sede: ', 'Carrera 27 # 48-49, segundo piso, Sotomayor.'),
          ('Cohorte del Arranque: ', '5 de octubre. Los 20 cupos de lanzamiento se asignan en orden de llegada.')],
