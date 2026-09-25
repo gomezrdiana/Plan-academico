@@ -160,6 +160,12 @@ cambio(18, '"ESTOY PENSANDO EN VIAJAR EN UNOS MESES"',
  'Mensaje 1: "Qué bueno. Para recomendarte bien: ¿más o menos para cuándo, y por cuánto tiempo?" — Según la respuesta: (a) el viaje es después de terminar el nivel: "Perfecto, te da tiempo: el Arranque en la jornada de la mañana son dos meses y medio, y te vas con el inglés hecho." (b) el viaje cae dentro del nivel y es corto (hasta 2 semanas): "Se puede: la garantía pide 80% de asistencia, así que tenlo en cuenta y no faltes a nada más." (c) el viaje cae dentro del nivel y es largo: "Entonces esta cohorte no te sirve, y no te la voy a vender para que la pierdas a la mitad. Arrancas en la cohorte siguiente, apenas vuelvas: te aparto el cupo y te escribo dos semanas antes." (d) es un traslado definitivo dentro de Colombia: no se vende; si se va al exterior y quiere irse con inglés: el súper intensivo antes del viaje, si el tiempo alcanza.',
  'un viaje no descalifica por sí solo: se pregunta cuándo y cuánto, y se decide con el calendario del nivel. Nunca vender una cohorte que el cliente no puede terminar. Se registra la fecha del viaje en las notas para el seguimiento.')
 
+cambio(19, '"¿Y SI NO ME GUSTA EL PROFESOR?"',
+ 'El cliente pregunta qué pasa si no le gusta el profesor, o si puede cambiar de profesor o de grupo.',
+ 'No hay respuesta definida (riesgo: prometer cambio de profesor, o hablar de "profesores nativos" o de características del equipo docente).',
+ '"Buena pregunta. Aquí no compras un profesor, compras un método: todos nuestros profesores dictan la misma guía de clase, con los mismos rituales, y coordinación los supervisa clase a clase con reportes. Si algo en tu clase no va bien, se lo dices a coordinación y se revisa esa misma semana con el profesor. Y tu garantía no depende de quién te dé la clase: depende de que tú cumplas y de que avances, y eso lo medimos nosotros."',
+ 'se vende el MÉTODO y la supervisión, no al profesor. El asistente no promete cambio de profesor ni de grupo, no describe al equipo docente y no habla de nativos. Si quien pregunta es un estudiante ACTIVO con una queja sobre su profesor, no se responde por chat: se transfiere a Experiencia al Cliente (regla 9).')
+
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(10)
 r = p.add_run('Los cambios se prueban con la misma conversación que los originó. La academia valida y cierra cada ronda.'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
