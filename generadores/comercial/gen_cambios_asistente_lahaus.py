@@ -127,6 +127,12 @@ cambio(14, '"GRACIAS, VOY A PENSARLO"',
  'Mensaje 1: "Claro. Solo para que lo pienses con toda la información: ¿qué es lo que más te hace dudar, el precio, el horario o si de verdad vas a aprender?" — y se responde a lo que diga (precio → cambio 4; horario → jornadas; aprender → garantía). Mensaje 2, si sigue en pensarlo: "Perfecto. La cohorte arranca el 5 de octubre y son 20 cupos, así que te escribo el [día concreto, máximo 2 días después] para ver qué decidiste. Y si quieres verlo antes de decidir, la asesoría es sin compromiso: ¿te la dejo agendada?"',
  '"lo voy a pensar" es una objeción, no una despedida: falta certeza en el producto, en la academia o en el precio. Siempre se pregunta qué es lo que hace dudar (una sola pregunta), y siempre se deja un paso siguiente con FECHA: un mensaje de seguimiento en un día concreto o la cita agendada. Nunca "aquí estaré cuando decidas". El motivo real de la duda se registra en las notas del contacto.')
 
+cambio(15, '"TENGO QUE HABLARLO CON MI ESPOSO" — EL OTRO DECISOR',
+ 'El cliente dice que la decisión la toma con su pareja, sus papás u otra persona.',
+ '"Claro, es una decisión de familia. Cuando lo platiquen aquí estaré para resolver cualquier duda de ambos." — cierre pasivo, deja la decisión en una conversación donde la academia no está, y usa "platicar", que no es español de Colombia.',
+ 'Respuesta: "Claro, es una decisión de los dos. Lo mejor es que él también lo escuche de primera mano y pregunte lo que quiera: ¿lo invitamos a la asesoría? Así conocen el programa juntos y deciden con la misma información. ¿Qué horario les sirve a los dos?" — Y para que no llegue al final: dentro del diagnóstico, antes de ofrecer horario, el asistente pregunta: "¿La decisión la tomas tú, o la consultas con alguien más?" Si es con alguien, esa persona se invita a la cita desde el principio.',
+ 'el otro decisor se detecta ANTES de agendar y se invita a la cita: la asesoría es con todos los que deciden. Nunca se deja la decisión para una conversación en la que la academia no está. Español de Colombia: "hablar", nunca "platicar". Sin cierres pasivos ("aquí estaré").')
+
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(10)
 r = p.add_run('Los cambios se prueban con la misma conversación que los originó. La academia valida y cierra cada ronda.'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
