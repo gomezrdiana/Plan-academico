@@ -202,6 +202,12 @@ cambio(25, '"¿PUEDO TOMAR UNA CLASE DE PRUEBA / DE CORTESÍA?"',
  '"No manejamos clase de prueba, y te explico por qué: una clase suelta no te muestra si vas a aprender; lo que te lo garantiza es el contrato: si cumples y no avanzas, te devolvemos el 100% del nivel. Es la única academia de la ciudad que lo firma. Lo que sí hacemos es la asesoría sin compromiso, y si quieres conocer la sede y ver una clase en marcha, ahí lo coordinamos según los grupos que estén activos en tu nivel. ¿Te la agendo?"',
  'el asistente NUNCA ofrece ni promete clase de cortesía, día ni hora. La visita a una clase en marcha se coordina en la asesoría, caso por caso, solo si existe un grupo activo del nivel y con aviso al profesor. El argumento de venta es la garantía, no la prueba.')
 
+cambio(26, '"¿Y SI LLEGO TARDE O FALTO? ¿CÓMO CUIDO MI GARANTÍA?"',
+ 'El cliente pregunta cuánto puede faltar, qué pasa con las tareas si falta, y si llegar tarde afecta la garantía.',
+ 'No hay respuesta definida.',
+ '"Tu garantía pide tres cosas, y todas están en tus manos. Asistencia: puedes faltar hasta el 20% de las clases del nivel. Tareas: el 90%, y eso se cumple aunque faltes, porque el video diario se graba en casa y la tarea de la clase perdida se entrega igual. Evaluaciones: todas, sin excepción. Y si faltas, puedes recuperar hasta dos clases al mes en el taller de los sábados, avisando con un día; con incapacidad médica esas no cuentan en el cupo. La puntualidad también se exige: la regla exacta de las llegadas tarde te la explican en la asesoría."',
+ 'las cifras salen del Anexo de Garantía (80% asistencia, 90% tareas, todas las evaluaciones) y de la regla de recuperaciones (2 al mes en sabatino). PENDIENTE DE GERENCIA: la regla de llegadas tarde no está escrita en ningún documento; propuesta: tres llegadas tarde de más de 15 minutos equivalen a una inasistencia. Hasta que se confirme, el asistente no da un número: remite a la asesoría.')
+
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(10)
 r = p.add_run('Los cambios se prueban con la misma conversación que los originó. La academia valida y cierra cada ronda.'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
