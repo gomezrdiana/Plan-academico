@@ -129,5 +129,58 @@ fy = py - 12
 c.setFillColor(NAR); c.rect(0, 0, W, 30, fill=1, stroke=0)
 flow([P('Tu asesora: <b>Paula Saenz</b> · WhatsApp <b>315 547 0657</b> · Instagram @Heiiu_english · Heiiu English Academy, Bucaramanga', 8.8, white, False, TA_CENTER)], m, 9, W - 2 * m, 16)
 
+c.showPage()
+
+# ======================= PÁGINA 2: TU RUTA DE A1 A B2 =======================
+band2 = 84
+c.setFillColor(NAR); c.rect(0, H - band2, W, band2, fill=1, stroke=0)
+c.setFillColor(AMA); c.rect(0, H - band2 - 5, W, 5, fill=1, stroke=0)
+lh2 = 58; lw2 = lh2 * lw_ / lh_
+c.drawImage(logo, 34, H - band2 + (band2 - lh2) / 2, width=lw2, height=lh2, mask=None)
+flow([P('Tu ruta de A1 a B2', 22, white, True, TA_LEFT, 25),
+      P('Qué aprendes en cada nivel · 575 horas presenciales · un certificado oficial por cada nivel aprobado', 8.6, HexColor('#FFE7D6'), False, TA_LEFT, 11.5)],
+     34 + lw2 + 22, H - band2 + 8, W - (34 + lw2 + 22) - 30, band2 - 22)
+
+niveles = [
+ ('A1', 'FUNDAMENTOS', '90 horas',
+  'Te presentas y presentas a otros, hablas de tu rutina, tu familia, tu trabajo y tu ciudad. Manejas números, hora y precios. Cuentas cosas en presente, en pasado y haces planes.',
+  'Situaciones: conocer a alguien, describir tu día, pedir y dar información básica, hablar de lo que hiciste ayer.',
+  'Cierra con tu presentación oral: MY WORLD.'),
+ ('A2', 'VIDA DIARIA Y TRABAJO', '110 horas',
+  'Hablas de futuro, condiciones y experiencias (presente perfecto), describes personas y cosas, comparas, usas los verbos con preposición que se oyen todos los días.',
+  'Situaciones: entrevista de trabajo, llamadas, hotel, tienda, restaurante, servicio al cliente, reunión de equipo, primer día en un empleo.',
+  'Cierra con tu presentación oral de 7 a 10 minutos: MY LIFE. Y eliges tu Módulo de Graduación: Emprendedor o Pasaporte.'),
+ ('B1', 'COMUNICACIÓN CON FLUIDEZ', '175 horas',
+  'Consolidas toda la gramática en contexto profesional y agregas la del nivel: deducir, el tercer condicional, "debí haber", conectores, preguntas indirectas, discurso indirecto y tiempos perfectos.',
+  'Situaciones: briefings de trabajo, entrevistas, onboarding, coordinar horarios, planear proyectos, evaluaciones de desempeño, negociar con proveedores.',
+  'Presentación intermedia MY STORY, MY GOALS; taller de pitch y presentaciones finales.'),
+ ('B2', 'NIVEL PROFESIONAL', '200 horas',
+  'Primera mitad, vida real: quejas en un restaurante, direcciones, compras y devoluciones, médico, arriendo, banco, aeropuerto, desacuerdos. Segunda mitad, mundo profesional.',
+  'Situaciones: networking, tu CV en 3 minutos, entrevistas difíciles, reuniones, presentar una idea, cliente molesto, negociar y cerrar, dar y recibir feedback, pitch de 90 segundos, pedir un aumento.',
+  'Cierra con un simulacro de una jornada completa de trabajo en inglés. Con el programa completo: Refuerzo PRO (pitch avanzado, negociación real y tu video del antes y después).'),
+]
+y_top = H - band2 - 5 - 14; card_h2 = 116; gap2 = 9; m2 = 30; cw2 = W - 2 * m2
+fondos = [CREMA, white, CREMA, white]
+for i, (niv, nom, horas, que, sit, cierre) in enumerate(niveles):
+    yt = y_top - i * (card_h2 + gap2); yb = yt - card_h2
+    rbox(m2, yb, cw2, card_h2, fondos[i], LINEA if fondos[i] == white else None, 12)
+    # etiqueta de nivel a la izquierda
+    rbox(m2, yb, 78, card_h2, NAR if i % 2 == 0 else NAR2, None, 12); c.setFillColor(NAR if i % 2 == 0 else NAR2); c.rect(m2 + 60, yb, 18, card_h2, fill=1, stroke=0)
+    flow([P(niv, 30, white, True, TA_CENTER, 32), P(horas, 8.6, HexColor('#FFE7D6'), False, TA_CENTER)], m2 + 4, yb + card_h2 / 2 - 24, 70, 48)
+    st_gap = ParagraphStyle('g', fontName='Helvetica', fontSize=3, leading=3)
+    flow([P(nom, 11.5, NAR2, True), Paragraph('', st_gap), P(que, 9.6, NEGRO, False, TA_LEFT, 12.4), Paragraph('', st_gap), P('<b>' + sit + '</b>', 9.2, GRIS, False, TA_LEFT, 11.8), Paragraph('', st_gap), P(cierre, 9.2, NAR2, True, TA_LEFT, 11.8)],
+         m2 + 90, yb + 6, cw2 - 100, card_h2 - 10)
+
+# caja final: como sabemos que avanzas
+by_top = y_top - 4 * (card_h2 + gap2) - 2; b_h = 74; by = by_top - b_h
+rbox(m2, by, cw2, b_h, CREMA, None, 10); c.setFillColor(AMA); c.roundRect(m2, by, 7, b_h, 3, fill=1, stroke=0)
+flow([P('CÓMO SABEMOS QUE AVANZAS (y por eso podemos firmar garantía)', 9.6, NAR2, True, TA_CENTER),
+      P('Entras con una prueba internacional (EF SET) y una grabación oral en tu primera clase: esa es tu foto de partida. Cada día grabas un video corto de práctica y lo envías: ese es tu portafolio. Cada nivel termina con un examen final aplicado por un evaluador externo y un certificado oficial. Así tu avance no es una opinión: es evidencia tuya, mes a mes.', 8.8, GRIS, False, TA_CENTER, 11.4)],
+     m2 + 18, by + 6, cw2 - 30, b_h - 10)
+
+# pie
+c.setFillColor(NAR); c.rect(0, 0, W, 30, fill=1, stroke=0)
+flow([P('Cada nivel termina con examen final aplicado por un evaluador externo y certificado oficial. Garantía por escrito en cada nivel. · Tu asesora: <b>Paula Saenz</b> · WhatsApp <b>315 547 0657</b>', 8.4, white, False, TA_CENTER)], m2, 9, W - 2 * m2, 16)
+
 c.showPage(); c.save()
 print('OK', OUT)
