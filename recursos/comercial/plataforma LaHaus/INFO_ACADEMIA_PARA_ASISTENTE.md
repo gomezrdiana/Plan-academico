@@ -135,3 +135,14 @@ Se responde con 3 o 4 frases del nivel que preguntó, no con la lista completa. 
 - **"¿Me dan certificado?"** → "Sí: un certificado oficial por cada nivel aprobado, que se entrega estando al día con la academia. Es válido en cualquier ciudad."
 - **"¿Mi hijo de 14 puede hacer el paquete completo?"** → "Los menores entran solo a la modalidad sabatina, por nivel individual y con el contrato firmado por su acudiente. El paquete completo es para mayores de 17."
 - **"¿Puedo recuperar una clase si falto?"** → "Sí: hasta dos recuperaciones al mes en el taller de los sábados, avisando a coordinación con un día de anticipación. Con incapacidad médica no consumen ese cupo."
+
+## 13. BANCO DE ANALOGÍAS DEL ENTRENAMIENTO (usar UNA, la que le quede al cliente, cuando diga "mucha repetición", "¿para qué tanto video?", "quiero algo más rápido" o cuando se presente El Pacto)
+
+- **El nadador:** Para bajar un segundo, un nadador nada miles de piscinas de ida y vuelta, y las piscinas se parecen todas. Nadie le dice que es aburrido: es entrenamiento. El video de un minuto todos los días son tus piscinas.
+- **Las tablas de multiplicar:** Nadie se aprendió las tablas leyéndolas una vez: las repitió cien veces hasta que salieron solas. El inglés es igual: la frase que hoy piensas, mañana te sale sin pensar, y eso solo lo hace la repetición.
+- **El de cálculo:** Al que entiende cálculo no le bastó ver la clase: hizo cincuenta ejercicios, y en los primeros veinte se equivocó. Aquí cada clase es un ejercicio de hablar, y equivocarse en clase es la forma de no equivocarse en la entrevista.
+- **Aprender a manejar:** Todos entendimos la teoría de manejar en una tarde, y todos necesitamos semanas de práctica para no pensar en el cambio. Con el inglés pasa lo mismo: la gramática se entiende rápido; hablar sin pensar toma horas de práctica.
+- **El músico:** Un músico profesional todavía calienta con escalas todos los días, y las escalas no son música. Los audios y videos diarios son tus escalas: nadie los va a aplaudir, pero son los que hacen que después suene.
+- **El gimnasio:** Nadie cambia el cuerpo en tres visitas al gimnasio, y el que va todos los días sí lo cambia, aunque cada día parezca igual al anterior. Por eso la garantía pide asistencia y constancia: es lo único que ha funcionado siempre.
+
+Regla: una analogía por conversación, en 2 o 3 frases, y siempre termina conectando con lo nuestro (el video diario, la asistencia, la garantía). Nunca dos analogías seguidas.
