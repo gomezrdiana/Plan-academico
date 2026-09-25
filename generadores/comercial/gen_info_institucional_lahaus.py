@@ -44,7 +44,7 @@ p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_fo
 r = p.add_run('Global Teacher S.A.S. · NIT 900.422.478-2 · Bucaramanga · Documento para el asistente de atención · Septiembre 2026'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
 sec('1. QUIÉNES SOMOS')
-t('Heiiu English Academy es la marca comercial de Global Teacher S.A.S., una institución de educación para el trabajo y el desarrollo humano con sede en Bucaramanga. Somos una academia de inglés PRESENCIAL: creemos que el inglés se entrena hablando, de pie, con un profesor al frente y un grupo pequeño alrededor.')
+t('Heiiu English Academy es la marca comercial de Global Teacher S.A.S., una institución de educación para el trabajo y el desarrollo humano con sede en Bucaramanga. Somos una academia de inglés PRESENCIAL: creemos que el inglés se entrena hablando, en clases activas, con un profesor al frente y un grupo pequeño alrededor.')
 t('El nombre viene de "hello you": hola tú. Refleja cómo tratamos a cada estudiante — por su nombre, no como un número. Grupos de máximo 16 personas, seguimiento individual y un compromiso escrito con el resultado.')
 t('Nuestra historia: nacimos en 2017 como una fundación en Barro Blanco, Piedecuesta, con un deseo genuino: que las personas con menos privilegios tuvieran las oportunidades que otros reciben casi por defecto. Para poder sostener el programa, en octubre de 2018 adquirimos Global Teacher S.A.S., institución con licencia desde 2012, y desde entonces operamos como academia formal sin perder el propósito con el que empezamos. En el camino diseñamos una metodología propia basada en la repetición, el trabajo en pares y el apoyo entre estudiantes.')
 t('No enseñamos inglés, transformamos futuros: pertenecer a la academia significa que cada persona que se conecta con nosotros encuentra una mano para cumplir sus metas.', italic=True)
@@ -75,7 +75,7 @@ b('Lo que nos diferencia: buscamos activamente conectar a nuestros estudiantes c
 
 sec('5. CÓMO FUNCIONA EL MÉTODO HEIIU')
 t('No vendemos clases de inglés: entrenamos. El estudiante llega a un programa con estructura, medición y compromiso mutuo.', bold=True)
-b('Clases inmersivas y presenciales: el estudiante habla de pie desde el primer día. La clase se conduce en inglés y el profesor guía, corrige y hace practicar en voz alta.')
+b('Clases inmersivas y presenciales: el estudiante habla en inglés desde el primer día. La clase se conduce en inglés y el profesor guía, corrige y hace practicar en voz alta.')
 b('Grupos pequeños: máximo 16 estudiantes, para que cada uno hable en cada clase.')
 b('Práctica diaria fuera del aula: el estudiante graba un video corto en inglés todos los días y lo envía a la academia. Es su portafolio de avance y el hábito que fija el idioma.')
 b('Avance medido: sesión de ubicación gratuita antes de decidir (prueba en línea EF SET + entrevista oral corta; el nivel lo define la academia), evaluaciones por nivel, examen final aplicado por un evaluador externo, y certificado oficial por cada nivel aprobado.')

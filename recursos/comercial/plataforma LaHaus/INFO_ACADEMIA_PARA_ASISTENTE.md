@@ -3,7 +3,7 @@
 
 ## 1. QUIÉNES SOMOS
 
-Academia de inglés PRESENCIAL en Bucaramanga. Institución de educación para el trabajo y desarrollo humano con licencia de funcionamiento desde 2012, programas de inglés registrados ante la Secretaría de Educación (Resolución 1581-1131 y 2253-2025) y certificación de calidad ICONTEC (NTC 5555 e ISO 9001). Método propio: clases inmersivas, el estudiante habla de pie desde el primer día. Somos la única academia de la ciudad con GARANTÍA DE APRENDIZAJE POR ESCRITO en el contrato.
+Academia de inglés PRESENCIAL en Bucaramanga. Institución de educación para el trabajo y desarrollo humano con licencia de funcionamiento desde 2012, programas de inglés registrados ante la Secretaría de Educación (Resolución 1581-1131 y 2253-2025) y certificación de calidad ICONTEC (NTC 5555 e ISO 9001). Método propio: clases inmersivas, activas y prácticas — el estudiante habla en inglés desde el primer día. (El método se menciona UNA vez por conversación, cuando el cliente pregunta cómo son las clases; no se repite en cada respuesta.) Somos la única academia de la ciudad con GARANTÍA DE APRENDIZAJE POR ESCRITO en el contrato.
 
 ## 2. PRODUCTO PRINCIPAL AHORA: ARRANQUE A1+A2 (lanzamiento)
 
