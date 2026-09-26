@@ -12,6 +12,7 @@
 ☐ **Carta de instrucciones del pagaré** — firmada el mismo día, con el No. de contrato escrito
 ☐ **Autorización de reporte a centrales de riesgo** — firmada + huella
 ☐ **Anexo de Garantía Heiiu** — firmado (toda matrícula nueva lo lleva)
+☐ **ADENDA de anexos y compromisos** (1 hoja, desde 26/09/2026) — firmada junto con el contrato de 24: incorpora los anexos, crea el video diario y la evaluación de entrada, y fija retracto / saldo a favor / grupo que no abre
 ☐ **Factura/orden de compra** emitida
 ☐ **COPIA de todo el paquete entregada al estudiante** — y así se le dice: "aquí está tu copia completa"
 
