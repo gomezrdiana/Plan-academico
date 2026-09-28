@@ -40,7 +40,9 @@ def tabla(filas, anchos):
             elif j == 0: r.bold = True; shd(c, 'FFF8E7')
 
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(0)
-r = p.add_run('B1 NOCTURNO — CÓMO FUNCIONA ESTE COHORTE'); r.bold = True; r.font.size = Pt(14); r.font.color.rgb = NAR
+r = p.add_run('SYLLABUS — B1 NOCTURNO'); r.bold = True; r.font.size = Pt(15); r.font.color.rgb = NAR
+p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(0)
+r = p.add_run('Cómo funciona este cohorte y qué hace cada docente'); r.bold = True; r.font.size = Pt(11); r.font.color.rgb = NAR
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(6)
 r = p.add_run('Instrucciones para los dos docentes · Inicia 28 de septiembre de 2026 · 6:30 a 8:30 PM, lunes a viernes · 88 clases'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
@@ -85,8 +87,8 @@ sec('7. LO QUE NO CAMBIA')
 t('Frase del Día en el tablero antes de empezar (cada clase estrena la suya; la de ayer va en el PASE como referencia). Feedback diario del docente; notas y resultados solo por coordinación. Cuatro bloques largos. Cero material impreso preparado: todo en tablero o dictado. Simulación profesional con un guest, observadores con tarea y el docente como coach (nunca como guest). Tarea con hora de entrega: siempre antes de las 6:30 PM del día siguiente. Sin nombres de estudiantes en la guía; sin nombres de metodologías frente a los estudiantes.')
 
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(8)
-r = p.add_run('Dudas: coordinación, por el grupo de docentes. La guía del día llega la noche anterior.'); r.font.size = Pt(9); r.font.color.rgb = GRIS
+r = p.add_run('La guía del día llega la noche anterior por el grupo de docentes, y el reporte se entrega la misma noche. Muy pronto las guías y los reportes se manejarán por una nueva plataforma de la academia; se avisará con anticipación. Dudas: coordinación, por el grupo.'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
-out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\VERSION_2\B1_2H\INSTRUCCIONES_DOCENTES_B1_2H.docx'
+out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\VERSION_2\B1_2H\SYLLABUS_B1_NOCTURNO_2H.docx'
 os.makedirs(os.path.dirname(out), exist_ok=True)
 doc.save(out); print('OK', out)
