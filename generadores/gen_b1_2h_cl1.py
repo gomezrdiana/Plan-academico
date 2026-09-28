@@ -9,7 +9,7 @@ import os
 from gen_a1_a2_clases_pdfs import md_to_pdf
 
 D = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-B1_2H = os.path.join(D, 'VERSION_2', 'B1_2H')
+B1_2H = os.path.join(D, 'VERSION_2', 'B1_2H', 'CONVERSACION')
 os.makedirs(os.path.join(B1_2H, 'GUIAS'), exist_ok=True)
 os.makedirs(os.path.join(B1_2H, 'REPORTES'), exist_ok=True)
 
