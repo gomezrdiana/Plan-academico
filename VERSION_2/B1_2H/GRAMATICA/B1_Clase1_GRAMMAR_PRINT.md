@@ -3,7 +3,7 @@
 **Grammar 1/44 · noche 2 de 88 · 120 min · 6:30-8:30 PM · Bloques: B1 22' + B2 45' + B3 38' + B4 15' = 120**
 **Modulo ancla:** A2 Book **M17 "You Didn't, or You Haven't? — The Present Perfect vs The Simple Past" (p.163-165)** — hoy la regla SE SELLA EN PAPEL
 **Focus (1 linea):** Lo que ayer les salio de la boca, hoy queda escrito: negativo didn't vs haven't, pregunta "Have you...?" con short answer, "for", y los participios.
-**Virtud:** PRUDENCIA v2 — dia 2 de 5
+**Virtud:** PRUDENCIA — noche 2 de 10 (Cl 1-5 de cada pista)
 **Frase del Dia:** *"Prudence knows a closed door from an open one: 'I didn't do it' is finished; 'I haven't done it yet' is still possible."*
 
 > **ENGLISH ONLY desde el Bloque 1. Ya no hay excepcion de idioma** — la de ayer era solo para el cronograma y el ritual de la primera clase. Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges.

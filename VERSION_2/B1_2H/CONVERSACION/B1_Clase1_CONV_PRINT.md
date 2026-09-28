@@ -3,7 +3,7 @@
 **Conv 1/44 · noche 1 de 88 · 120 min · 6:30-8:30 PM · Bloques: B1 25' + B2 40' + B3 35' + B4 20' = 120**
 **Modulo ancla:** A2 Book **M17 "You Didn't, or You Haven't? — The Present Perfect vs The Simple Past" (p.163-164)** — hoy solo USO ORAL
 **Focus (1 linea):** Abrir el nivel, grabar la foto de partida de cada voz, y hablar la maquina del pasado: "last year I worked" (cerrado) vs "I have worked" (abierto).
-**Virtud:** PRUDENCIA v1 — dia 1 de 5 (ABRE el nivel)
+**Virtud:** PRUDENCIA — noche 1 de 10 (Cl 1-5 de cada pista; ABRE el nivel)
 **Frase del Dia:** *"Prudence weighs the clock before it speaks: what I did last year is closed, and what I have achieved this year is still open."*
 
 > **ENGLISH ONLY desde el Bloque 2.** Unica excepcion HOY: cronograma, condiciones del programa y el ritual de Carta/Capsula pueden ir en espanol. Todo lo demas del dia, en ingles — si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges.

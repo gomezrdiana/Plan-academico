@@ -14,7 +14,7 @@ V2 = _hos.path.join(ROOT, 'VERSION_2')
 COHORTE_LABEL = {
     'A1_4H': 'A1 (4h)', 'A1_2H': 'A1 (2h noche)',
     'A2_4H': 'A2 (4h)', 'A2_2H': 'A2 (2h PM)',
-    'B1_4H/CONVERSACION': 'B1 Mastery (4h AM)', 'B1_4H/GRAMATICA': 'B1 Mastery (4h AM)', 'B1_2H': 'B1 (2h noche)',
+    'B1_4H/CONVERSACION': 'B1 Mastery (4h AM)', 'B1_4H/GRAMATICA': 'B1 Mastery (4h AM)', 'B1_2H/CONVERSACION': 'B1 Mastery (2h noche)', 'B1_2H/GRAMATICA': 'B1 Mastery (2h noche)',
     'B2_4H': 'B2 (4h)', 'B2_2H': 'B2 (2h noche)',
 }
 
@@ -41,11 +41,13 @@ ____________________________________________________________________
 
 ## Asistencia y entregables
 
-**Asistieron:** ______ de ______ estudiantes.  **Portafolio (quien hizo su audio/video?):** ______ de ______
+**Asistieron:** ______ de ______ estudiantes.  **Llegaron tarde (mas de 15 min):** ______  (cada 3 llegadas tarde = 1 inasistencia; los nombres van a coordinacion)
+
+**Videos de portafolio RECIBIDOS de la clase anterior:** ______ de ______  ·  [ ] Vi cada video y le dije a cada uno su mejora al abrir la clase
 
 **Tickets de salida ENGRAPADOS a este reporte:** ______ de ______ asistentes (reporte sin tickets = incompleto, se devuelve)
 
-- [ ] Error papers recogidos   ·   [ ] Fotos/videos del dia
+- [ ] Error papers recogidos   ·   [ ] Fotos/videos del dia   ·   [ ] PASE escrito enviado al otro docente (si el nivel tiene dos)
 
 > El detalle con nombres (errores por estudiante, ausencias) va en su libreta privada para coordinacion, como siempre. Este reporte viaja fisico con los tickets y error papers.
 
