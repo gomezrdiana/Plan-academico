@@ -61,15 +61,16 @@ b('Regla dura: ', 'la simulación de Gramática NUNCA repite la de Conversación
 
 sec('3. LO NUEVO DESDE ESTE COHORTE (aplica a los dos)')
 b('Grabación oral de entrada (solo Clase 1): ', 'Angie graba a cada estudiante 1-2 minutos hablando, mientras el resto trabaja. Es la foto de partida del nivel para la garantía. Se sube esa noche a la carpeta que coordinación indique.')
-b('Portafolio = VIDEO diario, enviado: ', 'cada estudiante graba un video de mínimo 3 minutos, hablado de corrido y sin leer, y lo envía el mismo día al canal del cohorte. Ya no es audio y ya no se queda en el celular. Audio solo por excepción, máximo 2 por semana. El docente del día revisa al inicio quién lo ENVIÓ (no quién "lo hizo") y lo marca en el reporte.')
+b('Portafolio = VIDEO diario, enviado: ', 'cada estudiante graba un video de mínimo 3 minutos, hablado de corrido y sin leer, y lo envía el mismo día al canal del cohorte. Ya no es audio y ya no se queda en el celular. Audio solo por excepción, máximo 2 por semana. El docente del día VE los videos antes de la clase y anota al menos UNA cosa por mejorar de cada uno (una frase, con el error real). Al inicio de la clase, con la lista en mano, marca quién ENVIÓ y le dice a cada uno su mejora en voz alta, en 5 segundos. Video recibido + mejora anotada van al reporte de la noche. Es la revisión más importante del día: el video es la clase particular de cada estudiante.')
 b('Puntualidad: ', 'la clase empieza a las 6:30 en punto. Llegada después de las 6:45 se marca como LLEGADA TARDE en el reporte; cada 3 cuentan como una inasistencia para el contrato y la garantía. Se dice en la Clase 1 como parte de la formación: llegar a tiempo es lo que estamos entrenando, no un castigo.')
 b('Las condiciones de la garantía se dicen una vez, en Clase 1: ', 'asistencia mínima 80%, 90% de tareas incluido el video diario, todas las evaluaciones. Después no se vuelven a explicar: se cumplen.')
 b('Inglés: ', '100% inglés desde el Bloque 2 de la Clase 1. El español solo para el cronograma, los rituales y la Cápsula en la primera clase.')
-b('Nada de notas ni resultados a los estudiantes: ', 'toda pregunta de evaluación se responde "coordinación". El docente enseña; coordinación evalúa y comunica.')
+b('Feedback sí, notas no: ', 'el docente da feedback TODOS los días y de frente: la mejora de cada video, el error paper, la corrección en la simulación, "esto te salió, esto te falta". Eso es lo que el estudiante más valora y es tuyo. Lo único que el docente NO comunica son NOTAS y RESULTADOS de las evaluaciones (midterm, final, aprobó o no, garantía): eso lo comunica coordinación, para que nadie negocie una nota con su profesor. Si preguntan "¿cómo voy?", se responde con feedback concreto; si preguntan "¿qué nota saqué?", se responde "eso te lo dice coordinación".')
 
-sec('4. EL REPORTE DE CADA NOCHE (a coordinación, antes de dormir)')
+sec('4. EL REPORTE DE CADA CLASE (en la plataforma, al terminar la clase)')
+t('Se llena en la plataforma de reportes de la academia la misma noche, al salir de la clase, con estas cinco piezas:')
 b('Asistencia ', 'con la columna nueva de llegada tarde.')
-b('Videos recibidos ', 'del día anterior: quién envió y quién no.')
+b('Videos recibidos ', 'del día anterior: quién envió, quién no, y la mejora anotada por cada video visto.')
 b('Error paper ', 'sin nombres (foto del papel) y el registro con nombres aparte, solo para coordinación.')
 b('Tickets de salida ', 'recogidos (foto, o entrega física al día siguiente).')
 b('El PASE ', 'al otro docente, por el grupo.')
@@ -77,8 +78,11 @@ b('El PASE ', 'al otro docente, por el grupo.')
 sec('5. EL PLAN DEL NIVEL (para que los dos lo tengan en la cabeza)')
 t('Cl 1-5 puente de repaso A1/A2 · Cl 6-43 módulos con simulaciones profesionales, con entrevistas simuladas en Cl 20 y Cl 36 · Cl 44 MIDTERM "My Story, My Goals" (5 min) · Cl 45-85 segunda mitad, con negociación en Cl 56 y Cl 70 y debate en Cl 62 y Cl 76 · Cl 80-84 taller de pitch · Cl 86-87 presentaciones finales en formato panel ("Shark Tank": 3 minutos ante tres compañeros que preguntan) · Cl 88 examen final con evaluador externo. Estos hitos llegan dentro de la guía del día; en la Clase 1 solo se anuncian las fechas del midterm y del final.')
 
-sec('6. LO QUE NO CAMBIA')
-t('Frase del Día en el tablero antes de empezar (cada clase estrena la suya; la de ayer va en el PASE como referencia). Cuatro bloques largos. Cero material impreso preparado: todo en tablero o dictado. Simulación profesional con un guest, observadores con tarea y el docente como coach (nunca como guest). Tarea con hora de entrega: siempre antes de las 6:30 PM del día siguiente. Sin nombres de estudiantes en la guía; sin nombres de metodologías frente a los estudiantes.')
+sec('6. LAS VIRTUDES: LO QUE HACE QUE ESTO SEA HEIIU Y NO UN CURSO DE INGLÉS')
+t('Cada bloque de 5 clases trabaja una de las cuatro virtudes cardinales, por calendario absoluto (Cl 1-5 Prudencia; la guía del día dice cuál sigue): PRUDENCIA (pensar antes de actuar, planear, decidir), FORTALEZA (coraje para hablar, iniciativa, no rendirse), TEMPLANZA (disciplina, manejo del tiempo, paciencia) y JUSTICIA (trabajo en equipo, liderazgo ético, empatía). La virtud no es un adorno: es el hilo del que cuelga la clase. La Frase del Día la lleva dentro, el ritual VATS de 5 a 7 minutos al inicio la activa (Virtud, Activar, Hablar, Compartir: una pregunta que junta la virtud con la gramática del día), y la simulación la pone a prueba. Por eso vendemos "inglés y carácter": puntualidad, constancia, decir la verdad, terminar lo que se empieza. Un estudiante que sale de aquí hablando inglés pero sin haber entrenado eso, no recibió el programa completo. El docente la nombra, la usa y la exige, todos los días, sin sermón: en una frase y en lo que pide.')
+
+sec('7. LO QUE NO CAMBIA')
+t('Frase del Día en el tablero antes de empezar (cada clase estrena la suya; la de ayer va en el PASE como referencia). Feedback diario del docente; notas y resultados solo por coordinación. Cuatro bloques largos. Cero material impreso preparado: todo en tablero o dictado. Simulación profesional con un guest, observadores con tarea y el docente como coach (nunca como guest). Tarea con hora de entrega: siempre antes de las 6:30 PM del día siguiente. Sin nombres de estudiantes en la guía; sin nombres de metodologías frente a los estudiantes.')
 
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(8)
 r = p.add_run('Dudas: coordinación, por el grupo de docentes. La guía del día llega la noche anterior.'); r.font.size = Pt(9); r.font.color.rgb = GRIS

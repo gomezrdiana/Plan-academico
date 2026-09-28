@@ -20,7 +20,7 @@
 
 1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Abre en tu cuaderno la columna **"llegada tarde"** y anotala HOY: llegada despues de las 6:45 se marca; cada 3 cuentan como una inasistencia para contrato y garantia. NO vuelvas a explicar la regla ni las condiciones de la garantia: eso se dijo ayer, una sola vez. Hoy solo se registra.
 2. **Rituales en 1 minuto, no se re-presentan (1'):** *"You already know the five rituals from yesterday: the Phrase of the Day, the daily video, the exit ticket, the error paper, and the hand-off between our two classes. I do not explain them again. I apply them."*
-3. **PRIMER CHEQUEO DE PORTAFOLIO — publico, con lista en mano (3').** Di: *"Yesterday you all had ONE task: the three-minute video. I am not asking who made it. I am asking who SENT it."* Nombre por nombre, marcas ENVIO o NO ENVIO en tu cuaderno; eso entra al reporte de esta noche. Al que no envio, una sola frase y sigues: *"You send yesterday's video TODAY, together with today's video. Two videos, same day. The list goes to coordination tonight."* Sin discusion, sin negociar, sin hablar de notas ni de la garantia.
+3. **PRIMER CHEQUEO DE PORTAFOLIO — publico, con lista en mano (3').** Di: *"Yesterday you all had ONE task: the three-minute video. I am not asking who made it. I am asking who SENT it."* Nombre por nombre, marcas ENVIO o NO ENVIO en tu cuaderno, y al que envio le dices en voz alta UNA cosa por mejorar de su video, en 5 segundos, con el error real ("your -ed endings: work-ED, not work"); ya los viste antes de clase. Eso entra al reporte de esta noche: video recibido + la mejora anotada. Al que no envio, una sola frase y sigues: *"You send yesterday's video TODAY, together with today's video. Two videos, same day. The list goes to coordination tonight."* Sin discusion, sin negociar; feedback si (la mejora de cada video), pero sin hablar de notas ni de la garantia.
 4. **Recuperacion activa de lo de AYER (10', oral, DE PIE, en cadena, sin cuaderno).** Disparadores = las frases que salieron ayer, tal como vienen en tu PASE (si el PASE trae otras, usas esas):
    - "Say a TRUE sentence about last year." (closed) → "Now the same idea with 'I have...' and no time word." (open)
    - "Fix it out loud: 'Yesterday I have worked.'"
@@ -146,7 +146,7 @@ contenido del dia. No repitas la mia.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ **Lista de videos: quien ENVIO y quien NO** ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche ☐ ~87% DE PIE confirmado
+**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ **Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto** ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche ☐ ~87% DE PIE confirmado
 
 [PAGEBREAK]
 
@@ -183,7 +183,7 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 
 **QUE RECIBE ESTE PROFESOR DE LA CL 1 (no estuvo presente; todo le llega en el PASE de anoche):**
 - **Ya quedo hecho ayer y NO se repite:** los 5 rituales presentados y guionados · la **evaluacion oral de entrada grabada y subida** (no se regraba a nadie) · el cronograma (solo Cl 44 midterm y Cl 88 final) y las **3 condiciones de la garantia** dichas una sola vez · el **ritual de anclaje** (Capsula de 30 dias, con Carta para el estudiante nuevo) sellado y entregado a coordinacion · **MY STORY piece 0** lanzado oralmente.
-- **Lo que arranca HOY y es nuevo en el nivel:** el **chequeo publico de portafolio con lista en mano** (quien ENVIO el video No. 1, no quien "lo hizo"), la **tarea escrita** (ayer la unica tarea fue el video) y el **100% ingles sin excepcion** (la excepcion de espanol era solo de la Cl 1).
+- **Lo que arranca HOY y es nuevo en el nivel:** el **chequeo publico de portafolio con lista en mano** (quien ENVIO el video No. 1, no quien "lo hizo", y una mejora dicha en voz alta por video visto; el docente ve los videos ANTES de la clase), la **tarea escrita** (ayer la unica tarea fue el video) y el **100% ingles sin excepcion** (la excepcion de espanol era solo de la Cl 1).
 - **Capa de contenido de hoy:** la Cl 1 dejo M17 en AFIRMATIVO y ORAL, y dejo escrito en su caja "NO TOCAR AUN" exactamente lo que hoy se sella: negativo, pregunta con short answer, for, participios y Exercises 1 p.165. La Cl 2 cierra ese pendiente, no lo amplia.
 - **Errores oidos ayer que el PASE trae como disparadores del Bloque 1:** "Yesterday I have worked" (tiempo cerrado mas perfect) · "I have studied since 5 years" · "he have improved" · did y have mezclados en la misma frase.
 
