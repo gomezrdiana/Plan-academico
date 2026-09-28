@@ -13,6 +13,6 @@ B1_2H = os.path.join(D, 'VERSION_2', 'B1_2H')
 os.makedirs(os.path.join(B1_2H, 'GUIAS'), exist_ok=True)
 os.makedirs(os.path.join(B1_2H, 'REPORTES'), exist_ok=True)
 
-md_to_pdf(os.path.join(B1_2H, 'B1_Clase1_PRINT.md'),
-          os.path.join(B1_2H, 'GUIAS', 'B1_Clase1_GUIA.pdf'))
-print('OK: B1_Clase1_GUIA.pdf')
+md_to_pdf(os.path.join(B1_2H, 'B1_Clase1_CONV_PRINT.md'),
+          os.path.join(B1_2H, 'GUIAS', 'B1_Clase1_CONV_GUIA.pdf'))
+print('OK: B1_Clase1_CONV_GUIA.pdf')
