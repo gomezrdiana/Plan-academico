@@ -582,8 +582,24 @@ def build(cfg):
         d.b(bold_txt, txt)
 
     # 6
-    d.sec('6. LAS VIRTUDES: LO QUE HACE QUE ESTO SEA HEIIU Y NO UN CURSO DE INGLÉS')
-    d.t(VIRTUDES)
+    d.sec('6. LAS VIRTUDES: POR QUÉ LAS HACEMOS Y CÓMO SE HACEN BIEN')
+    d.t('Por qué, en tres frases que puedes repetir:', bold=True)
+    d.b('Porque es lo que vendemos. ', 'Al estudiante no se le prometió inglés: se le prometió entrenamiento con garantía y un destino (un trabajo, irse, emprender). Lo que decide si llega a ese destino no es la gramática: es si aparece a tiempo, si sostiene el esfuerzo cuando ya no es novedad, si se atreve a hablar con miedo, si cumple lo que dijo. Eso es lo que un jefe, una familia de Au Pair o un cliente evalúan primero. Las virtudes son ese entrenamiento, con nombre.')
+    d.b('Porque el inglés no se aprende sin ellas. ', 'Repetir mil veces lo mismo es templanza. Hablar frente a otros sabiendo que te vas a equivocar es fortaleza. Grabar el video el día que no quieres es prudencia y templanza juntas. Un estudiante que entiende que la virtud del bloque es lo que le va a permitir sostener el nivel, deja de ver el ritual como relleno.')
+    d.b('Porque es lo que hace que se queden. ', 'El que abandona en la semana 3 no abandona por la gramática: abandona porque no tenía nombre para lo que le estaba pasando. Cuando el docente le dice "esto que sientes es la parte de fortaleza del nivel, y por eso la estamos entrenando", el estudiante se queda. La retención del grupo depende de esto más que de cualquier otra cosa que hagas.')
+    d.t('Las cuatro, por calendario absoluto (bloques de 5 clases; Cl 1-5 Prudencia; la guía del día dice cuál sigue, y no se desplaza por festivos):', bold=True)
+    d.b('PRUDENCIA: ', 'pensar antes de actuar, planear, decidir. En inglés: preparar lo que vas a decir antes de decirlo; elegir el tiempo verbal antes de abrir la boca.')
+    d.b('FORTALEZA: ', 'coraje para hablar con miedo, iniciativa, no rendirse. En inglés: pedir la palabra, ser el guest en la simulación, grabar el video aunque salga mal.')
+    d.b('TEMPLANZA: ', 'disciplina, manejo del tiempo, paciencia con la repetición. En inglés: el video diario, llegar a tiempo, hacer el drill completo sin atajos.')
+    d.b('JUSTICIA: ', 'trabajo en equipo, liderazgo ético, empatía. En inglés: escuchar al compañero en la simulación, corregir sin humillar, ayudar al que va más lento.')
+    d.t('Cómo se hace bien, en 5 a 7 minutos (el ritual VATS, al inicio de la clase):', bold=True)
+    d.b('V, Virtud (1 min): ', 'el docente nombra la virtud del bloque y la conecta con lo de HOY en una frase: "Esta semana es fortaleza. Hoy la simulación es una entrevista: la fortaleza es contestar aunque no tengas la palabra perfecta."')
+    d.b('A, Activar (2 min): ', 'una pregunta, en inglés, que junte la virtud con la gramática del día. Ejemplo con presente perfecto: "What is something you have done this year that took courage?" Cada uno piensa 30 segundos.')
+    d.b('T, Hablar (2-3 min): ', 'en parejas o en cadena de pie, cada uno responde en una o dos frases. El docente escucha y anota errores para el error paper, no corrige aquí.')
+    d.b('S, Compartir (1 min): ', 'dos o tres respuestas al grupo. El docente cierra con una sola frase que conecta: "That is why today you speak first and think second."')
+    d.t('Lo que NO es: no es un sermón, no es una charla de motivación, no dura 15 minutos y no se salta cuando "no hay tiempo". Es una frase, una pregunta y las voces de ellos. Si el docente lo recorta, la clase pierde su hilo y el estudiante pierde la razón para volver mañana.')
+    d.t('Cuando un estudiante pregunte "¿y esto qué tiene que ver con inglés?", la respuesta es esta:', bold=True)
+    d.t('"Todo. Aquí no te estamos enseñando palabras: te estamos entrenando para el día que las necesites de verdad, en una entrevista, en un vuelo, frente a un cliente. Ese día no te va a fallar el vocabulario: te va a fallar el nervio, o la constancia, o la preparación. Eso es lo que entrenamos con las virtudes. Y es lo que hace que el que se gradúa aquí no solo hable inglés: se le nota."')
 
     # 7
     d.sec('7. LO QUE NO CAMBIA')
