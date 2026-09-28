@@ -602,14 +602,19 @@ def build(cfg):
     d.t('"Todo. Aquí no te estamos enseñando palabras: te estamos entrenando para el día que las necesites de verdad, en una entrevista, en un vuelo, frente a un cliente. Ese día no te va a fallar el vocabulario: te va a fallar el nervio, o la constancia, o la preparación. Eso es lo que entrenamos con las virtudes. Y es lo que hace que el que se gradúa aquí no solo hable inglés: se le nota."')
 
     # 7
-    d.sec('7. LO QUE NO CAMBIA')
-    d.t('Frase del Día en el tablero antes de empezar: cada clase estrena la suya, se usa 3 o más veces natural y al cierre un '
-        'estudiante la dice y otro la usa en una oración nueva. Feedback diario del docente; notas y resultados solo por '
-        'coordinación. Cuatro bloques largos, nunca doce actividades sueltas. Cero material impreso preparado: todo en tablero o '
-        'dictado, con Plan B en cada bloque. Simulación realista — cotidiana o profesional, nunca fantasiosa — con un guest, '
-        'observadores con tarea concreta y el docente como coach: el docente NUNCA juega guest. Ticket de salida en los últimos '
-        '5 minutos, se recogen todos y no se evalúan. Tarea con hora de entrega: siempre %s, no fragmentada, y no se acepta "no '
-        'me dio tiempo". Sin nombres de estudiantes en la guia; sin nombres de metodologías frente a los estudiantes.' % cfg['due'])
+    d.sec('7. LOS RITUALES Y POR QUÉ EXISTEN (lo que no cambia)')
+    d.t('Ninguno de estos es un capricho ni una formalidad. Cada uno resuelve un problema concreto que ya nos costó estudiantes. El docente que entiende para qué sirve cada uno, lo hace bien; el que lo ve como regla, lo recorta.')
+    d.b('La Frase del Día en el tablero, antes de que entren. ', 'Es UNA frase que lleva dentro la gramática del día y la virtud de la semana. Se lee, se repite en coro, se usa tres veces en la clase y al cierre alguien la dice de memoria. Por qué: una frase que se oye, se dice y se usa diez veces en contexto se queda; una lista de veinte palabras copiadas no. Es la forma más barata de repetición espaciada que existe, y es el ancla visible de toda la clase: el estudiante distraído levanta la vista y sabe de qué se trata hoy. Reemplazó a las listas de vocabulario en cuaderno, que nadie volvía a abrir. Cada clase estrena la suya; la de ayer va en el reporte solo como referencia.')
+    d.b('El chequeo de portafolio, al abrir. ', 'Quién envió el video y una mejora dicha en voz alta a cada uno. Por qué: es el único momento del día en que cada estudiante recibe feedback personal, y es lo que hace que el video se grabe mañana también. Un portafolio que nadie ve muere en dos semanas.')
+    d.b('La recuperación al abrir (lo de hace 3 y hace 7 clases). ', 'Dos o tres preguntas de pie sobre lo que se vio hace tres y siete clases, antes de lo nuevo. Por qué: lo que se recupera justo cuando se está olvidando se fija para siempre; lo que se vio una sola vez se pierde en diez días. Son tres minutos que valen una clase de repaso.')
+    d.b('Cuatro bloques largos, no doce cortos. ', 'Por qué: hablar un idioma exige tiempo sostenido en una misma situación; con actividades de ocho minutos el estudiante nunca llega a la parte difícil, que es donde se aprende.')
+    d.b('La simulación con un guest, observadores con tarea y el docente como coach (nunca como guest). ', 'Por qué: el estudiante que hace de guest vive la situación real (una entrevista, una queja, una negociación) y los que observan trabajan con una ficha, así nadie mira el techo. Si el docente hace de guest, la simulación se vuelve una conversación con el profesor, que es justo lo que el estudiante ya sabe hacer.')
+    d.b('El error paper: anónimo en el tablero, con nombres solo para coordinación. ', 'Por qué: el error sin nombre se corrige entre todos y nadie se avergüenza, así que la próxima vez se atreven a hablar igual; el registro con nombres le permite a coordinación ver quién repite qué y actuar antes de que se vuelva un retiro.')
+    d.b('El ticket de salida, en los últimos 5 minutos. ', 'Tres a cinco frases escritas por cada estudiante con la estructura de hoy, con nombre, sin calificar. Por qué: es la evidencia diaria de que cada uno aprendió lo de ese día, sin depender de la opinión de nadie. Es lo que sostiene la garantía y lo que le muestra a coordinación quién va y quién no. Se recogen todos: un ticket que falta es una señal.')
+    d.b('La tarea con hora de entrega, sin excepciones. ', 'Por qué: la constancia no se enseña con discursos, se entrena con fechas que se cumplen. Y la hora fija (antes de la clase siguiente) evita el "te lo mando después", que es el principio del abandono.')
+    d.b('Cero material impreso: todo en el tablero, en el papel del estudiante o dictado. ', 'Por qué: sin hoja, la atención está en el docente y en hablar; con hoja, el estudiante lee en vez de escuchar. Y el material de Heiiu es propiedad intelectual de la academia: la guía es solo para el docente y no se fotografía ni se comparte.')
+    d.b('Sin nombres de estudiantes en las guías, sin nombres de metodologías frente a ellos, sin notas de boca del docente. ', 'Por qué: la guía es reutilizable y no lleva casos personales; los nombres de las técnicas son de la academia y no se enseñan; y las notas van por coordinación para que ningún estudiante negocie su resultado con su profesor.')
+
     if cfg.get('sec7_extra'):
         d.t(cfg['sec7_extra'], bold=True, after=2)
 
