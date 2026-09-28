@@ -545,7 +545,7 @@ def build(cfg):
         'las guarda en el computador de la academia.' % cfg['grabador'])
     d.b('Portafolio = VIDEO diario, enviado: ',
         'cada estudiante graba un video de mínimo %s, hablado de corrido y sin leer, y lo envía el mismo día al grupo de '
-        'WhatsApp del cohorte (donde están el docente y la auxiliar administrativa, que los descarga y archiva por estudiante). '
+        'WhatsApp del cohorte (donde están el docente y la auxiliar administrativa). El grupo ES el archivo del portafolio: los videos diarios no se descargan; solo se guardan en el computador de la academia la grabación de entrada y la de salida de cada nivel. '
         'Ya no es audio y ya no se queda en el celular: audio solo por excepción, máximo 2 por semana. EL DOCENTE VE los '
         'videos antes de la clase y anota al menos UNA cosa por mejorar de cada uno — una frase, con el error real. En el '
         'chequeo de portafolio, con la lista en mano, marca quién ENVIÓ y le dice a cada uno su mejora en voz alta, en 5 '
