@@ -1,6 +1,6 @@
-# B1 MASTERY NOCTURNO 2H — Cl 2/88 — GRAMATICA (martes, jueves y viernes alternos) — HOJA DE RUTA
+# B1 MASTERY NOCTURNO 2H — Cl 1/44 GRAMATICA (martes, jueves y viernes alternos) — HOJA DE RUTA
 
-**Sesion 2/88 · 120 min · 6:30-8:30 PM · Bloques: B1 22' + B2 45' + B3 38' + B4 15' = 120**
+**Grammar 1/44 · noche 2 de 88 · 120 min · 6:30-8:30 PM · Bloques: B1 22' + B2 45' + B3 38' + B4 15' = 120**
 **Modulo ancla:** A2 Book **M17 "You Didn't, or You Haven't? — The Present Perfect vs The Simple Past" (p.163-165)** — hoy la regla SE SELLA EN PAPEL
 **Focus (1 linea):** Lo que ayer les salio de la boca, hoy queda escrito: negativo didn't vs haven't, pregunta "Have you...?" con short answer, "for", y los participios.
 **Virtud:** PRUDENCIA v2 — dia 2 de 5
@@ -105,7 +105,7 @@ EXERCISES 1 (A2 Book, p.165) — Complete the sentence using the
 
 1. **Error paper al tablero, sin nombres (4').** Escribes 4-6 errores REALES del dia, anonimos. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio con la forma corregida. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte de coordinacion. Doble protocolo, siempre.
 2. **Ticket de salida (4'):** 3-5 frases con la estructura de hoy — al menos 1 con *didn't*, 1 con *haven't... yet* y 1 pregunta *"Have you...?"* — con nombre en el papel. Se recogen TODOS. NO los evaluas ni los comentas: viajan fisicos con el error paper a coordinacion.
-3. **Cierre (3'):** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Cl 3 is with the other teacher and you TALK. Same level, same plan, two voices. Bring your paper and send your video."* Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."* Nada mas.
+3. **Cierre (3'):** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Tomorrow is CONVERSATION Cl 2 with the other teacher and you TALK. Same level, same plan, two voices. Bring your paper and send your video."* Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."* Nada mas.
 
 **Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
@@ -115,7 +115,7 @@ NOT NEGOTIABLE. NOT FRAGMENTED. TIME: 30-45 min (B1).
     5-6 lines CLOSED (simple past, each with a fixed time word) and
     5-6 lines OPEN (present perfect). At least TWO must be negative:
     one "I didn't..." and one "I haven't... yet".
-    Underline the time word. Circle the verb. Bring the notebook to Cl 3.
+    Underline the time word. Circle the verb. Bring the notebook to Conversation Cl 2.
 (2) DAILY PORTFOLIO VIDEO No. 2 — minimum 3 minutes, speaking, straight
     through, NO reading, NO script. Content: what you DIDN'T do last year
     and what you HAVEN'T done YET this year. Close with the Phrase of
@@ -123,10 +123,10 @@ NOT NEGOTIABLE. NOT FRAGMENTED. TIME: 30-45 min (B1).
 ```
 > **El video es DIARIO: no es la tarea de una pista ni un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
-4. **PASE al PROFESOR DE CONVERSACION (Cl 3) — se lo dejas ESTA MISMA NOCHE**, en papel en la carpeta del cohorte o por el grupo de docentes. No es opcional y no se pasa de palabra: **la Cl 3 la dicta otra persona que no estuvo hoy.** Copia este texto y llenalo antes de salir:
+4. **PASE al PROFESOR DE CONVERSACION (Conv Cl 2, manana) — se lo dejas ESTA MISMA NOCHE**, en papel en la carpeta del cohorte o por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase de manana la dicta otra persona que no estuvo hoy.** Copia este texto y llenalo antes de salir:
 ```
-PASE Grammar Cl 2 -> Conv Cl 3 — del profe de GRAMATICA al de CONVERSACION
-Entregado la noche de la Cl 2. Virtud: PRUDENCIA v2 (Cl 1-5), manana dia 3 de 5.
+PASE Grammar Cl 1 -> Conv Cl 2 — del profe de GRAMATICA al de CONVERSACION
+Entregado la noche de Grammar Cl 1. Virtud: PRUDENCIA (Cl 1-5 de cada pista), manana noche 3 de 10.
 QUE SE SELLO HOY EN PAPEL (M17 capa 2, A2 Book p.163-165):
 negativo didn't vs haven't yet · pregunta "Have you...?" con short answer corto
 · "for" mas duracion · participios regulares e irregulares (apoyo M16 p.147-150)
@@ -182,18 +182,18 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
 **QUE RECIBE ESTE PROFESOR DE LA CL 1 (no estuvo presente; todo le llega en el PASE de anoche):**
-- **Ya quedo hecho ayer y NO se repite:** los 5 rituales presentados y guionados · la **evaluacion oral de entrada grabada y enviada a la auxiliar administrativa** (no se regraba a nadie) · el cronograma (solo Cl 44 midterm y Cl 88 final) y las **3 condiciones de la garantia** dichas una sola vez · el **ritual de anclaje** (Capsula de 30 dias, con Carta para el estudiante nuevo) sellado y entregado a coordinacion · **MY STORY piece 0** lanzado oralmente.
+- **Ya quedo hecho ayer y NO se repite:** los 5 rituales presentados y guionados · la **evaluacion oral de entrada grabada y enviada a la auxiliar administrativa** (no se regraba a nadie) · el cronograma (solo Cl 22 midterm y Cl 44 final) y las **3 condiciones de la garantia** dichas una sola vez · el **ritual de anclaje** (Capsula de 30 dias, con Carta para el estudiante nuevo) sellado y entregado a coordinacion · **MY STORY piece 0** lanzado oralmente.
 - **Lo que arranca HOY y es nuevo en el nivel:** el **chequeo publico de portafolio con lista en mano** (quien ENVIO el video No. 1, no quien "lo hizo", y una mejora dicha en voz alta por video visto; el docente ve los videos ANTES de la clase), la **tarea escrita** (ayer la unica tarea fue el video) y el **100% ingles sin excepcion** (la excepcion de espanol era solo de la Cl 1).
 - **Capa de contenido de hoy:** la Cl 1 dejo M17 en AFIRMATIVO y ORAL, y dejo escrito en su caja "NO TOCAR AUN" exactamente lo que hoy se sella: negativo, pregunta con short answer, for, participios y Exercises 1 p.165. La Cl 2 cierra ese pendiente, no lo amplia.
 - **Errores oidos ayer que el PASE trae como disparadores del Bloque 1:** "Yesterday I have worked" (tiempo cerrado mas perfect) · "I have studied since 5 years" · "he have improved" · did y have mezclados en la misma frase.
 
-**B3 ES DISTINTO DE CONV CL 1 PORQUE:** ayer el escenario fue **MEET THE NEW TEAM** — primer dia en un equipo nuevo, registro de presentacion personal, roles guest mas manager, contenido en AFIRMATIVO (*"I started..."*, *"I have..."*) y meta social (caer bien, presentarse). Hoy es **INCIDENT REPORT TO HR** — reporte formal de una falla laboral, registro de rendicion de cuentas, roles empleado mas oficial de Recursos Humanos, y el contenido obligatorio es el **NEGATIVO y la PREGUNTA** (*"I haven't spoken to the supplier yet"*, *"Have you finished the form yet?"*) con short answers cortos. **Ni el titulo, ni los roles, ni el guion, ni la carga gramatical se repiten**, y los observers de hoy no anotan aciertos y mejoras: llevan un **conteo de rayas closed / open** que no existia ayer. Regla de no duplicacion entre pistas (nace de la auditoria del B1 4H: B3 duplicado en Cl 30 y Cl 40) cumplida. `Year-in-review briefing` queda como Plan B, no como escenario principal, precisamente porque es el que uso el B1 4H Grammar Cl 1 y este cohorte puede cruzarse con ese material.
+**B3 ES DISTINTO DEL DE CONV CL 1 PORQUE:** ayer el escenario fue **MEET THE NEW TEAM** — primer dia en un equipo nuevo, registro de presentacion personal, roles guest mas manager, contenido en AFIRMATIVO (*"I started..."*, *"I have..."*) y meta social (caer bien, presentarse). Hoy es **INCIDENT REPORT TO HR** — reporte formal de una falla laboral, registro de rendicion de cuentas, roles empleado mas oficial de Recursos Humanos, y el contenido obligatorio es el **NEGATIVO y la PREGUNTA** (*"I haven't spoken to the supplier yet"*, *"Have you finished the form yet?"*) con short answers cortos. **Ni el titulo, ni los roles, ni el guion, ni la carga gramatical se repiten**, y los observers de hoy no anotan aciertos y mejoras: llevan un **conteo de rayas closed / open** que no existia ayer. Regla de no duplicacion entre pistas (nace de la auditoria del B1 4H: B3 duplicado en Cl 30 y Cl 40) cumplida. `Year-in-review briefing` queda como Plan B, no como escenario principal, precisamente porque es el que uso el B1 4H Grammar Cl 1 y este cohorte puede cruzarse con ese material.
 
 **SUPUESTOS Y DECISIONES PENDIENTES:**
 - `SUPUESTO DE PLANEACION — verificar`: **"since" NO aparece en el A2 Book** (busqueda completa del texto: cero ocurrencias). El libro solo trae **"for"** en la Guide 1 punto 3 ("I have studied [for 2 hours]"). Por eso esta guia ensena **for** como regla del libro y trata **"since 5 years"** solo como **correccion de un error real oido ayer**, nunca como regla nueva. Si coordinacion quiere for/since como contraste formal, hay que sacarlo del libro B1, no inventarlo aqui.
 - `SUPUESTO DE PLANEACION — verificar`: **paginacion.** Guide 1 = p.163-164, Exercises 1 = p.165, Verbal Practice 1 = p.167 segun los pies de pagina del libro digital. La Cl 1 cito "p.163-164"; se mantiene la misma referencia para no desalinear las dos guias.
-- **DECISION PARA COORDINACION — que hace la Cl 3 (Conversacion).** Dos caminos y hay que elegir HOY, porque el PASE de esta noche lo condiciona: **(a) seguir en M17** con produccion oral extendida (el negativo y el "not yet" en conversacion libre y simulacion), lo cual da 3 dias al mismo modulo pero consolida de verdad la bisagra A2→B1; o **(b) pasar al puente A1 M4 "Where Should We Live?" (Should)**, que es lo que dice el mapa heredado del cohorte 4H. **Recomendacion de esta guia: (a), seguir en M17 una clase mas.** Razon: en 2h se cubre la mitad de contenido por dia que en 4h, el mapa Cl 1-5 viene del formato 4H y ya estaba marcado como pendiente de reanclaje a 88 clases; cerrar M17 con una tercera pasada oral cuesta una clase y evita arrastrar el error "yesterday I have..." todo el nivel. `SUPUESTO DE PLANEACION — verificar con Diana antes de las 6:30 PM`.
+- **Que hace manana Conv Cl 2 (resuelto por coordinacion 28/09):** el mapa es el del B1 Mastery por pista, asi que Conv Cl 2 = "Speak the two pasts in the negative and the question" (M17 hablado: didn't vs haven't yet, la pregunta con short answer), en simulacion; NO pasa todavia al puente A1 M4, que es Conv Cl 3. El PASE de esta noche le entrega a Conv Cl 2 exactamente lo que hoy quedo sellado en papel.
 - **Correccion de doctrina frente al PASE de la Cl 1 — la Frase del Dia NO se traspasa.** La regla de la hoja de instrucciones es "la misma para los dos docentes del **mismo dia**", y en el formato 2h cada dia tiene **un solo docente**: por eso cada clase estrena su propia Frase del Dia, nueva y sobre el contenido del dia. La instruccion del PASE de la Cl 1 ("la MISMA que debes usar manana") queda **superada**; asi lo dice el PASE de hoy hacia adelante. Coordinacion debe corregir esa linea en la plantilla de PASE para que no se vuelva a colar.
-- **Virtud:** calendario absoluto por numero de clase, bloques de 5. **Cl 1-5 = PRUDENCIA**, hoy **v2, dia 2 de 5**. No se desplaza por festivos ni cancelaciones.
-- **Proyecto del nivel (MY STORY, MY GOALS):** hoy NO hay avance de pieza nueva — la clase de Gramatica sella la herramienta que la pieza necesita, y el papel de 10-12 lineas de la tarea es materia prima directa para la pieza 1 que arma Conversacion en la Cl 3. Se anota aqui para que no se lea como pieza perdida.
-- **Pendientes de coordinacion que siguen abiertos desde la Cl 1:** canal exacto de entrega de videos (sin el, el chequeo de hoy no tiene contra que verificar) · lista definitiva nuevos vs continuos · reanclaje del mapa modulo-clase a 88 clases · si el cohorte tiene taller sabatino.
+- **Virtud:** calendario absoluto por numero de clase, bloques de 5. **Cl 1-5 de cada pista = PRUDENCIA**, hoy **noche 2 de 10**. No se desplaza por festivos ni cancelaciones.
+- **Proyecto del nivel (MY STORY, MY GOALS):** hoy NO hay avance de pieza nueva — la clase de Gramatica sella la herramienta que la pieza necesita, y el papel de 10-12 lineas de la tarea es materia prima directa para la pieza 1 que arma Conversacion manana, en Conv Cl 2. Se anota aqui para que no se lea como pieza perdida.
+- **Pendientes de coordinacion que siguen abiertos desde la Cl 1:** canal exacto de entrega de videos (sin el, el chequeo de hoy no tiene contra que verificar) · lista definitiva nuevos vs continuos · si el cohorte tiene taller sabatino.

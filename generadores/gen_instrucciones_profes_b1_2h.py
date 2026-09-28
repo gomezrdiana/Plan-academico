@@ -44,16 +44,16 @@ r = p.add_run('SYLLABUS — B1 NOCTURNO'); r.bold = True; r.font.size = Pt(15); 
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(0)
 r = p.add_run('Cómo funciona este cohorte y qué hace cada docente'); r.bold = True; r.font.size = Pt(11); r.font.color.rgb = NAR
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(6)
-r = p.add_run('Instrucciones para los dos docentes · Inicia 28 de septiembre de 2026 · 6:30 a 8:30 PM, lunes a viernes · 88 clases'); r.font.size = Pt(9); r.font.color.rgb = GRIS
+r = p.add_run('Instrucciones para los dos docentes · Inicia 28 de septiembre de 2026 · 6:30 a 8:30 PM, lunes a viernes · 44 clases de Conversación + 44 de Gramática (88 noches)'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
 sec('1. DOS PISTAS, DOS DOCENTES, DÍAS ALTERNOS')
-t('Es el mismo nivel B1 Mastery del cohorte de la mañana, pero en 2 horas diarias. En vez de dos clases el mismo día, las pistas se reparten por día de la semana:')
+t('Es el mismo nivel B1 Mastery: 44 clases de Conversación y 44 de Gramática, cada pista con su propia numeración del 1 al 44 y sus propias guías. En el formato de 4 horas las dos pistas se dan el mismo día; aquí, en 2 horas diarias, se reparten por día de la semana. El estudiante vive 88 noches:')
 tabla([
     ['Pista', 'Docente', 'Clases', 'Qué hace'],
     ['CONVERSACIÓN', 'Angie', 'Lunes y miércoles, y viernes alternos (empieza el viernes 3 de octubre)', 'Produce ORAL el módulo del día: historia, pares, simulación profesional. No enseña la regla en papel.'],
     ['GRAMÁTICA', 'Cristian', 'Martes y jueves, y viernes alternos (empieza el viernes 10 de octubre)', 'Sella EN PAPEL lo que salió oral el día anterior: regla del libro citada en el tablero, drill, ejercicio escrito, y una simulación DISTINTA a la de Conversación.'],
 ], [3.2, 2.2, 3.0, 8.6])
-t('Hoy, Clase 1, abre Conversación. Mañana, Clase 2, Gramática. Cada docente recibe únicamente la guía de su día.', bold=True)
+t('Hoy abre Conversación Cl 1. Mañana, Gramática Cl 1. Pasado mañana, Conversación Cl 2, y así. Cada docente recibe únicamente la guía de su día, numerada dentro de su pista.', bold=True)
 t('Cuando un mismo docente dicta dos clases seguidas (viernes y lunes de Angie; jueves y viernes de Cristian), la segunda es de CONSOLIDACIÓN de su pista: en Conversación, producción extendida y simulación larga; en Gramática, taller de precisión y escritura. Ahí es donde caen los hitos del nivel (entrevistas simuladas, taller de pitch). La guía del día lo trae resuelto; el docente no tiene que decidirlo.')
 
 sec('2. EL PASE ENTRE LOS DOS (lo que hace que esto funcione)')
@@ -78,7 +78,7 @@ b('Tickets de salida ', 'recogidos (foto, o entrega física al día siguiente).'
 b('El PASE ', 'al otro docente, por el grupo.')
 
 sec('5. EL PLAN DEL NIVEL (para que los dos lo tengan en la cabeza)')
-t('Cl 1-5 puente de repaso A1/A2 · Cl 6-43 módulos con simulaciones profesionales, con entrevistas simuladas en Cl 20 y Cl 36 · Cl 44 MIDTERM "My Story, My Goals" (5 min) · Cl 45-85 segunda mitad, con negociación en Cl 56 y Cl 70 y debate en Cl 62 y Cl 76 · Cl 80-84 taller de pitch · Cl 86-87 presentaciones finales en formato panel ("Shark Tank": 3 minutos ante tres compañeros que preguntan) · Cl 88 examen final con evaluador externo. Estos hitos llegan dentro de la guía del día; en la Clase 1 solo se anuncian las fechas del midterm y del final.')
+t('Los números son de cada pista (Cl 10 = Conversación Cl 10 y Gramática Cl 10, en noches consecutivas). Cl 1-5 puente de repaso A1/A2 · Cl 6-21 módulos con simulaciones profesionales, con entrevistas simuladas en Cl 10 y Cl 18 · Cl 22 MIDTERM "My Story, My Goals" (5 min) · Cl 23-42 segunda mitad, con negociación en Cl 28 y Cl 35 y debate en Cl 31 y Cl 38 · Cl 40-42 taller de pitch · Cl 43 presentaciones finales en formato panel ("Shark Tank": 3 minutos ante tres compañeros que preguntan) · Cl 44 cierre y examen final con evaluador externo, en la última noche. Estos hitos llegan dentro de la guía del día; en la Clase 1 solo se anuncian midterm y final.')
 
 sec('6. LAS VIRTUDES: POR QUÉ LAS HACEMOS Y CÓMO SE HACEN BIEN')
 t('Por qué, en tres frases que puedes repetir:', bold=True)
