@@ -59,7 +59,7 @@ def parse_print(path):
     t = io.open(path, encoding='utf-8').read()
     m = re.search(r'\*\*Virtud:\*\*\s*([^\n]+)', t)
     virtud = m.group(1).split(' · ')[0].replace('**', '').strip() if m else None
-    m = re.search(r'\*\*Modulos?:\*\*\s*([^\n]+)', t)
+    m = re.search(r'\*\*Modulos?(?: ancla)?:\*\*\s*([^\n]+)', t)
     modulo = m.group(1).replace('**', '').strip() if m else None
     if modulo and len(modulo) > 95:
         modulo = modulo[:92].rstrip() + '...'
