@@ -69,7 +69,7 @@ ONE QUESTION DECIDES: is the time period CLOSED or still OPEN?
    - Plan B sin material: hoja del propio cuaderno, doblada en cuatro y sellada con doblez; nombre, fecha y tipo escritos afuera. CERO material tuyo.
    - **Mientras escriben en silencio, TU escribes la tarea en el tablero.** No hables.
 2. **Ticket de salida (4'):** 3-5 frases con la estructura de hoy — al menos 2 de pasado cerrado (con marca de tiempo) y 2 de *"I have..."* — con nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
-3. **Cierre (4'):** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Cl 2 is a GRAMMAR class with the other teacher: same level, same plan, same Phrase of the Day. You lock this same hinge on paper — the negative, the question, and the 'not yet' logic. Bring your paper and send your video. Questions about evaluation go to coordination, not to me and not to my colleague."*
+3. **Cierre (4'):** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Cl 2 is a GRAMMAR class with the other teacher: same level, same plan, a new Phrase of the Day. You lock this same hinge on paper — the negative, the question, and the 'not yet' logic. Bring your paper and send your video. Questions about evaluation go to coordination, not to me and not to my colleague."*
 
 **Tarea (escrita en el tablero durante el ritual, leida en voz alta al cierre):**
 ```
@@ -90,8 +90,8 @@ Send it to the group coordination gives you. Label: B1-2H-VIDEO-1.
 5. **PASE al PROFESOR DE GRAMATICA (Cl 2) — se lo dejas ESTA MISMA NOCHE**, en papel en la carpeta del cohorte o por mensaje escrito directo a el o ella. No es opcional y no se pasa de palabra: **la Cl 2 la dicta otra persona que no estuvo hoy.** Copia este texto y llenalo antes de salir:
 ```
 PASE Conv Cl 1 -> Grammar Cl 2 — del profe de CONVERSACION al de GRAMATICA
-Entregado la noche de la Cl 1. Frase del Dia de hoy (la MISMA que debes usar
-manana) y virtud de hoy (PRUDENCIA v1, dia 1 de 5) al pie de este papel.
+Entregado la noche de la Cl 1. Frase del Dia de hoy (solo como referencia: manana
+estrenas la tuya) y virtud de hoy (PRUDENCIA v1, dia 1 de 5) al pie de este papel.
 3 gaps frescos de hoy (error literal, SIN nombre aqui; nombres en mi reporte):
 1. ____________________  2. ____________________  3. ____________________
 Patrones orales oidos hoy: (a) "Yesterday I have worked" (tiempo cerrado mas
@@ -164,8 +164,8 @@ Virtud: PRUDENCIA v1 (Cl 1-5). Firma Conv: ____________ Recibido: ____________
 **Diseño del cohorte (decisiones de gerencia):**
 - B1 Mastery nocturno **2h, 6:30-8:30 PM, cinco dias por semana. 175 h ≈ 88 clases.** Una sola pista de contenido con **dias alternos y DOS profesores**: clases impares = CONVERSACION (profe A), clases pares = GRAMATICA (profe B), con **PASE escrito bidireccional entre dias**. Cl 1 = CONVERSACION. Base: matriz generica de formato 2h (B1 20-25' · B2 40-45' · B3 35-40' · B4 15-20'). `SUPUESTO DE PLANEACION — verificar`: es el primer cohorte B1 nocturno con esta alternancia diaria entre dos personas; confirmar el esquema con Diana antes de la Cl 5.
 - **Reglas de los dos profesores (obligatorias, valen para toda clase del nivel):**
-  1. **La Frase del Dia del dia es UNA sola y la misma para los dos.** La escribe quien dicta ese dia y la traspasa en el PASE; el otro NO inventa una nueva cuando le toca. La **virtud es la misma** para ambos (calendario absoluto por numero de clase, bloques de 5).
-  2. **PASE escrito la MISMA noche**, de la persona que dicto a la que dicta al dia siguiente: en papel en la carpeta del cohorte o por mensaje escrito directo. Nunca de palabra, nunca al dia siguiente en el pasillo. Lleva los 3 gaps literales sin nombre, la Frase del Dia, la virtud y "lo que ya se hizo, no lo repitas".
+  1. **Cada clase estrena su Frase del Dia** (en 2h cada dia tiene un solo docente). La de ayer va en el PASE solo como referencia de continuidad; el docente del dia escribe la suya sobre el mismo modulo y la misma virtud. La **virtud es la misma** para ambos (calendario absoluto por numero de clase, bloques de 5).
+  2. **PASE escrito la MISMA noche**, de la persona que dicto a la que dicta al dia siguiente: en papel en la carpeta del cohorte o por mensaje escrito directo. Nunca de palabra, nunca al dia siguiente en el pasillo. Lleva los 3 gaps literales sin nombre, la Frase del Dia de referencia, la virtud y "lo que ya se hizo, no lo repitas".
   3. **Error paper y tickets de salida se entregan a coordinacion CADA NOCHE**, por quien dicto ese dia. Los nombres y citas literales van en el reporte firmado de esa persona, no en el papel anonimo.
   4. Cada profe lleva su propia **columna "llegada tarde"** y su propio registro de videos recibidos; coordinacion consolida las dos columnas para el conteo de asistencia y garantia del nivel.
 - **Lo que el profe de GRAMATICA (Cl 2) necesita saber de esta Cl 1 — no estuvo presente** (todo va escrito en el PASE que recibe esta noche): (a) los 5 rituales ya quedaron presentados, NO repite la presentacion — arranca aplicandolos; (b) la **evaluacion oral de entrada ya esta grabada y subida**, no se regraba; (c) **el canal de entrega de videos ya se les comunico** — usa exactamente el mismo y en su Bloque 1 verifica que LLEGO el video No. 1 de 3 min (unica tarea de hoy; la escrita la asigna el); (d) el cronograma (midterm Cl 44, final Cl 88) y las 3 condiciones de la garantia ya se dijeron una vez, no se repiten; (e) su contenido es M17 capa 2 (negativo, pregunta con short answer, "not yet", for/since) con simulacion de escenario DISTINTO al de hoy.
