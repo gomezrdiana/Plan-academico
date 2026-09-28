@@ -1,4 +1,4 @@
-# B1 MASTERY NOCTURNO 2H — Cl 1/88 — CONVERSACION (clase impar) — HOJA DE RUTA
+# B1 MASTERY NOCTURNO 2H — Cl 1/88 — CONVERSACION (lunes, miercoles y viernes alternos) — HOJA DE RUTA
 
 **Sesion 1/88 · 120 min · 6:30-8:30 PM · Bloques: B1 25' + B2 40' + B3 35' + B4 20' = 120**
 **Modulo ancla:** A2 Book **M17 "You Didn't, or You Haven't? — The Present Perfect vs The Simple Past" (p.163-164)** — hoy solo USO ORAL
@@ -162,7 +162,7 @@ Virtud: PRUDENCIA v1 (Cl 1-5). Firma Conv: ____________ Recibido: ____________
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
 **Diseño del cohorte (decisiones de gerencia):**
-- B1 Mastery nocturno **2h, 6:30-8:30 PM, cinco dias por semana. 175 h ≈ 88 clases.** Una sola pista de contenido con **dias alternos y DOS profesores**: clases impares = CONVERSACION (profe A), clases pares = GRAMATICA (profe B), con **PASE escrito bidireccional entre dias**. Cl 1 = CONVERSACION. Base: matriz generica de formato 2h (B1 20-25' · B2 40-45' · B3 35-40' · B4 15-20'). `SUPUESTO DE PLANEACION — verificar`: es el primer cohorte B1 nocturno con esta alternancia diaria entre dos personas; confirmar el esquema con Diana antes de la Cl 5.
+- B1 Mastery nocturno **2h, 6:30-8:30 PM, cinco dias por semana. 175 h ≈ 88 clases.** Una sola pista de contenido con **dias alternos y DOS profesores**: CONVERSACION (profe A) lunes y miercoles, GRAMATICA (profe B) martes y jueves, viernes alternos (Cl 5 = Conversacion, Cl 10 = Gramatica), con **PASE escrito bidireccional entre dias**. Cl 1 = CONVERSACION. Dos clases seguidas del mismo docente (viernes-lunes / jueves-viernes): la segunda es de CONSOLIDACION de su pista. Base: matriz generica de formato 2h (B1 20-25' · B2 40-45' · B3 35-40' · B4 15-20'). `SUPUESTO DE PLANEACION — verificar`: es el primer cohorte B1 nocturno con esta alternancia diaria entre dos personas; confirmar el esquema con Diana antes de la Cl 5.
 - **Reglas de los dos profesores (obligatorias, valen para toda clase del nivel):**
   1. **Cada clase estrena su Frase del Dia** (en 2h cada dia tiene un solo docente). La de ayer va en el PASE solo como referencia de continuidad; el docente del dia escribe la suya sobre el mismo modulo y la misma virtud. La **virtud es la misma** para ambos (calendario absoluto por numero de clase, bloques de 5).
   2. **PASE escrito la MISMA noche**, de la persona que dicto a la que dicta al dia siguiente: en papel en la carpeta del cohorte o por mensaje escrito directo. Nunca de palabra, nunca al dia siguiente en el pasillo. Lleva los 3 gaps literales sin nombre, la Frase del Dia de referencia, la virtud y "lo que ya se hizo, no lo repitas".
@@ -199,7 +199,4 @@ Por eso el anuncio del proyecto en la Cl 1 ya dice *"and at the end you DEFEND i
 
 **QUE FALTA DECIDIR (coordinacion, antes de las 6:30 PM de hoy):**
 1. **Canal de entrega de los videos de portafolio y de las grabaciones de entrada** — la guia dice "el grupo/canal que coordinacion les indica" a proposito. Hay que darle al profe el canal exacto hoy mismo, o el video No. 1 no tiene donde llegar.
-2. **Nombres de los DOS profesores asignados** (la guia es reutilizable y no los lleva): quien lleva CONVERSACION (clases impares, arranca hoy) y quien lleva GRAMATICA (clases pares, arranca Cl 2), mas el medio exacto por el que se pasan el PASE cada noche.
-3. **Lista nuevos vs continuos** del cohorte, para cerrar el protocolo dual Carta/Capsula.
-4. **Reanclaje del mapa modulo-clase a 88 clases** (el puente Cl 1-5 viene del formato 4H).
-5. Si el cohorte tiene **taller sabatino** o no (B1 si tiene sabatino en el catalogo; este cohorte es de lunes a viernes).
+2. Lista nuevos vs continuos (protocolo Carta/Capsula) y reanclaje del mapa modulo-clase a 88 clases (el puente Cl 1-5 viene del 4H).

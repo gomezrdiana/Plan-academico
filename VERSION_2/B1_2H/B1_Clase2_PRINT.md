@@ -1,4 +1,4 @@
-# B1 MASTERY NOCTURNO 2H — Cl 2/88 — GRAMATICA (clase par) — HOJA DE RUTA
+# B1 MASTERY NOCTURNO 2H — Cl 2/88 — GRAMATICA (martes, jueves y viernes alternos) — HOJA DE RUTA
 
 **Sesion 2/88 · 120 min · 6:30-8:30 PM · Bloques: B1 22' + B2 45' + B3 38' + B4 15' = 120**
 **Modulo ancla:** A2 Book **M17 "You Didn't, or You Haven't? — The Present Perfect vs The Simple Past" (p.163-165)** — hoy la regla SE SELLA EN PAPEL

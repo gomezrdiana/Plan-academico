@@ -45,13 +45,14 @@ p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_fo
 r = p.add_run('Instrucciones para los dos docentes · Inicia 28 de septiembre de 2026 · 6:30 a 8:30 PM, lunes a viernes · 88 clases'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
 sec('1. DOS PISTAS, DOS DOCENTES, DÍAS ALTERNOS')
-t('Es el mismo nivel B1 Mastery del cohorte de la mañana, pero en 2 horas diarias. En vez de dos clases el mismo día, las pistas se alternan por día:')
+t('Es el mismo nivel B1 Mastery del cohorte de la mañana, pero en 2 horas diarias. En vez de dos clases el mismo día, las pistas se reparten por día de la semana:')
 tabla([
     ['Pista', 'Docente', 'Clases', 'Qué hace'],
-    ['CONVERSACIÓN', 'Angie', 'Impares: 1, 3, 5…', 'Produce ORAL el módulo del día: historia, pares, simulación profesional. No enseña la regla en papel.'],
-    ['GRAMÁTICA', 'Cristian', 'Pares: 2, 4, 6…', 'Sella EN PAPEL lo que salió oral el día anterior: regla del libro citada en el tablero, drill, ejercicio escrito, y una simulación DISTINTA a la de Conversación.'],
+    ['CONVERSACIÓN', 'Angie', 'Lunes y miércoles, y viernes alternos (empieza el viernes 3 de octubre)', 'Produce ORAL el módulo del día: historia, pares, simulación profesional. No enseña la regla en papel.'],
+    ['GRAMÁTICA', 'Cristian', 'Martes y jueves, y viernes alternos (empieza el viernes 10 de octubre)', 'Sella EN PAPEL lo que salió oral el día anterior: regla del libro citada en el tablero, drill, ejercicio escrito, y una simulación DISTINTA a la de Conversación.'],
 ], [3.2, 2.2, 3.0, 8.6])
 t('Hoy, Clase 1, abre Conversación. Mañana, Clase 2, Gramática. Cada docente recibe únicamente la guía de su día.', bold=True)
+t('Cuando un mismo docente dicta dos clases seguidas (viernes y lunes de Angie; jueves y viernes de Cristian), la segunda es de CONSOLIDACIÓN de su pista: en Conversación, producción extendida y simulación larga; en Gramática, taller de precisión y escritura. Ahí es donde caen los hitos del nivel (entrevistas simuladas, taller de pitch). La guía del día lo trae resuelto; el docente no tiene que decidirlo.')
 
 sec('2. EL PASE ENTRE LOS DOS (lo que hace que esto funcione)')
 b('Al terminar cada clase, ', 'el docente escribe el PASE al otro: 3 líneas con lo que salió bien, los 3 errores más repetidos y qué queda pendiente del módulo. Se manda por el grupo de docentes esa misma noche.')
@@ -77,7 +78,7 @@ sec('5. EL PLAN DEL NIVEL (para que los dos lo tengan en la cabeza)')
 t('Cl 1-5 puente de repaso A1/A2 · Cl 6-43 módulos con simulaciones profesionales, con entrevistas simuladas en Cl 20 y Cl 36 · Cl 44 MIDTERM "My Story, My Goals" (5 min) · Cl 45-85 segunda mitad, con negociación en Cl 56 y Cl 70 y debate en Cl 62 y Cl 76 · Cl 80-84 taller de pitch · Cl 86-87 presentaciones finales en formato panel ("Shark Tank": 3 minutos ante tres compañeros que preguntan) · Cl 88 examen final con evaluador externo. Estos hitos llegan dentro de la guía del día; en la Clase 1 solo se anuncian las fechas del midterm y del final.')
 
 sec('6. LO QUE NO CAMBIA')
-t('Frase del Día en el tablero antes de empezar (la misma para los dos docentes del mismo día). Cuatro bloques largos. Cero material impreso preparado: todo en tablero o dictado. Simulación profesional con un guest, observadores con tarea y el docente como coach (nunca como guest). Tarea con hora de entrega: siempre antes de las 6:30 PM del día siguiente. Sin nombres de estudiantes en la guía; sin nombres de metodologías frente a los estudiantes.')
+t('Frase del Día en el tablero antes de empezar (cada clase estrena la suya; la de ayer va en el PASE como referencia). Cuatro bloques largos. Cero material impreso preparado: todo en tablero o dictado. Simulación profesional con un guest, observadores con tarea y el docente como coach (nunca como guest). Tarea con hora de entrega: siempre antes de las 6:30 PM del día siguiente. Sin nombres de estudiantes en la guía; sin nombres de metodologías frente a los estudiantes.')
 
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_before = Pt(8)
 r = p.add_run('Dudas: coordinación, por el grupo de docentes. La guía del día llega la noche anterior.'); r.font.size = Pt(9); r.font.color.rgb = GRIS
