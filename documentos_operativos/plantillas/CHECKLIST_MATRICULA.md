@@ -11,7 +11,8 @@
 ☐ **Pagaré EN BLANCO** — solo identificación del deudor diligenciada (nombre, cédula, dirección) + firma + HUELLA. *Los valores NO se llenan — para eso está la carta de instrucciones*
 ☐ **Carta de instrucciones del pagaré** — firmada el mismo día, con el No. de contrato escrito
 ☐ **Autorización de reporte a centrales de riesgo** — firmada + huella
-☐ **Anexo de Garantía Heiiu** — firmado (toda matrícula nueva lo lleva)
+☐ **Anexo de Garantía Heiiu (v2.3)** — firmado (toda matrícula nueva lo lleva)
+☐ **Recibo de Separación de Cupo** — si separó antes: el recibo con su número (PS-xxx o GT-xxx), el pantallazo del comprobante y la aceptación escrita, archivados
 ☐ **ADENDA de anexos y compromisos** (1 hoja, desde 26/09/2026) — firmada junto con el contrato de 24: incorpora los anexos, crea el video diario y la evaluación de entrada, y fija retracto / saldo a favor / grupo que no abre
 ☐ **Factura/orden de compra** emitida
 ☐ **COPIA de todo el paquete entregada al estudiante** — y así se le dice: "aquí está tu copia completa"
@@ -26,7 +27,7 @@
 
 ## 3. REGLAS DE LA VENTA (lo que se dice y lo que JAMÁS se dice)
 
-☐ Precio según **tabla única** — inicial mínima **30%** en paquetes · el contado siempre tiene el mejor precio · a cuotas el total es MAYOR que el contado
+☐ Precio según **el Kit y el motor de cuotas** — inicial mínima **20%** en crédito directo · el contado siempre tiene el mejor precio · a cuotas el total es MAYOR que el contado · afiliado a Cajasan con carné = columna Transformación
 ☐ Toda beca se presenta como **"Beca del Fondo Heiiu"** — JAMÁS "patrocinio", "patrocinador" o "apoyos externos"
 ☐ La garantía se explica **leyendo el anexo** — nunca de memoria ni con promesas adicionales
 ☐ **Nada se promete por fuera del contrato** (ni congelaciones, ni devoluciones, ni cambios de horario/profesor, ni resultados)
@@ -34,13 +35,14 @@
 
 ## 4. ARRANQUE DEL ESTUDIANTE
 
-☐ **Evaluación de entrada ORAL GRABADA** — agendada para antes de su primera clase (fecha: ____ / ____ / ______). *Sin esta grabación, la garantía no tiene contra qué medirse*
+☐ **Evaluación de entrada:** EF SET registrado en la ficha (fecha, puntaje, nivel) + **grabación ORAL en su primera clase** (el profesor la hace y la sube). *Sin esta grabación, la garantía no tiene contra qué medirse*
+☐ **Video diario explicado y el canal de entrega indicado** (dónde envía el video cada día) — el estudiante lo firmó en la adenda
 ☐ Fecha de inicio y horario confirmados por escrito (WhatsApp/correo al estudiante)
 ☐ Estudiante registrado en: lista del cohorte · plan de cuotas de cartera (auxiliar) · ficha de estudiante
 
 ## 5. CIERRE DEL EXPEDIENTE
 
-☐ Expediente físico armado en este orden: checklist (esta hoja) → contrato → pagaré → carta de instrucciones → autorización centrales → anexo garantía → factura
+☐ Expediente físico armado en este orden: checklist (esta hoja) → contrato → **adenda** → anexo garantía → recibo de separación (si hubo) → plan de pagos y pagaré → carta de instrucciones → autorización centrales → factura
 ☐ Verificado por coordinación — **Firma de quien verifica:** ______________________ Fecha: ____ / ____ / ______
 
 > *Un expediente completo cobra solo, defiende solo y garantiza solo. Uno incompleto es un pleito futuro con nuestra firma.*
