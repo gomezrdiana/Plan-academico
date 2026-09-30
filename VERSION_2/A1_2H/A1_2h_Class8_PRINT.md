@@ -5,19 +5,23 @@
 
 > **HOY SOLO: M5 vocabulario numerico 0-100 (p.62) y los 7 pares trampa -teen / -ty. NO TOCAR AÚN: la Guia 1 con LA HORA y LOS PRECIOS (p.63-64) — eso es de Cl 9.**
 
-## BLOQUE 1 (22') — Apertura
+## BLOQUE 1 (23') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
-- **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (primer dia con el mapa completo: Cl N-3 = Cl 5 · Cl N-7 = Cl 1):
+- **Recuperacion (8'), oral y DE PIE, en cadena, sin cuaderno** (primer dia con el mapa completo: Cl N-3 = Cl 5 · Cl N-7 = Cl 1):
   - De **Cl 5** (respuesta corta): preguntas rapidas tuyas con *can* y con *should* (*"Can you play golf?" "Should he live in Rome?"*) — SOLO respuesta corta, 5-6 estudiantes, maximo 60 segundos por vuelta.
   - De **Cl 1** (marco afirmativo + vocabulario M1): 4-5 estudiantes producen *"I can play ..."* con deportes distintos y consonante final fuerte.
   - De **Cl 1** (pronunciacion M0): coro rapido de truco 1 ("i" = "e" espanola: *six, sick, kid*) y truco 3 ("th": *three, think*) — hoy son la base para *six, sixteen, three, thirteen, thirty*.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 7 (6'):** recoges los papeles (8 lineas con *where should ... live*); 2 estudiantes leen 1 linea cada uno. Anotas en libreta quien NO entrego.
+- **VATS — TEMPLANZA v1, dia 3 (5'), con su porque:**
+  - **Virtud (1'):** *"Hoy son los numeros, y los numeros se aprenden repitiendo. Templanza es la paciencia con la repeticion: un poco, todos los dias, sin saltarse ninguno."*
+  - **Activar + Hablar (3'), DE PIE en parejas y luego en cadena:** en el tablero: *"I should practice ____ minutes every day."* 30 segundos para pensar; cada uno responde en 1-2 frases (*"I should practice twenty minutes every day."*); la pareja repite el numero en voz alta para confirmarlo. Tu escuchas y anotas para el error paper; aqui NO corriges.
+  - **Cierre (1'):** *"A little, every day."*
+- **Revision de tarea Cl 7 (4'):** recoges los papeles (8 lineas con *where should ... live*); 2 estudiantes leen 1 linea cada uno. Anotas en libreta quien NO entrego.
 
-## BLOQUE 2 (43') — M5 parte 1: los numeros 0-100
+## BLOQUE 2 (42') — M5 parte 1: los numeros 0-100
 
 - **Vocabulario del modulo (tablero, p.62) (15'):** escribe la tabla completa por bloques y trabaja coro + individuales bloque por bloque:
 
@@ -36,7 +40,7 @@ PARES TRAMPA (marcalos en el tablero):
 
   El acento cambia de lugar: en *-teen* al final, en *-ty* al principio. Coro alternando el par 3 veces cada uno.
 - **Historia interactiva (18'):** TU narras una historia absurda de conteo en el edificio: alguien esta contando cosas y siempre se equivoca por diez. Narras 2-3 frases (*"The neighbor has thirteen balls. No — thirty balls..."*) → PAUSA → el grupo repite el fragmento en coro corrigiendo el numero → un estudiante AGREGA el siguiente objeto y su cantidad, y TU lo tejes. Fuerza los pares trampa en cada pausa. NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan la lista completa de cantidades.
-- **Meta en 1 linea (di al inicio):** *"By the end of this block, each of you will say 10 numbers between 13 and 99 with no mistakes."* Preparacion en parejas (5', oral: uno senala un numero escrito en su cuaderno, el otro lo dice) → ejecucion ante el grupo → feedback: logro primero, forma despues.
+- **Meta en 1 linea (di al inicio):** *"By the end of this block, each of you will say 10 numbers between 13 and 99 with no mistakes."* Preparacion en parejas (4', oral: uno senala un numero escrito en su cuaderno, el otro lo dice) → ejecucion ante el grupo → feedback: logro primero, forma despues.
 
 ## BLOQUE 3 (37') — Drill de pie + Simulacion
 

@@ -3,19 +3,25 @@
 **Virtud:** PRUDENCIA (v1, dia 2 de 5) · **Modulo:** M1 Juan Can Play Soccer — The Structure of English, PARTE 2: frase negativa y pregunta (Libro A1 p.9-18)
 **Frase del Dia:** *"Can you think first? Yes, I can."*
 
-## BLOQUE 1 (22') — Apertura
+> **HOY SOLO: M1 Guia 1 p.9 reglas 5-7 — la negativa "cannot / can't" y la pregunta "Can Juan play soccer?", respondida con frase completa. NO TOCAR AÚN: M2, la tabla de pronombres sujetos y la pregunta con "what" (p.19-22) — eso es de Cl 3 y Cl 4.**
+
+## BLOQUE 1 (23') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
-- **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** — de Cl 1 (unica clase existente; el mapa N-3/N-7 completo arranca cuando haya historial):
+- **Recuperacion (8'), oral y DE PIE, en cadena, sin cuaderno** — de Cl 1 (unica clase existente; el mapa N-3/N-7 completo arranca cuando haya historial):
   - De Cl 1 (marco afirmativo): *"One TRUE sentence: 'I can play ...'"* — 5-6 estudiantes en cadena, sin repetir deporte.
   - De Cl 1 (tercera persona): senalas a un companero y el siguiente de la cadena dice *"He can play ..." / "She can play ..."* con lo que oyo.
   - De Cl 1 (pronunciacion M0): coro rapido de truco 3 ("th": *think, three, this*) y truco 2 (consonante final fuerte: *can't, rock, walk*).
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (3') — PRIMERA VEZ:** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte. Si alguien no entendio el ritual, repites el guion de Cl 1 en 1 linea.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 1 (6'):** recoges los papeles (6 frases afirmativas); 2 estudiantes leen 1 frase cada uno. Anotas en libreta quien NO entrego. El push-back no se acepta: *"This is what your level requires."*
+- **VATS — PRUDENCIA v1, dia 2 (5'), con su porque:**
+  - **Virtud (1'):** *"Esta semana es prudencia: pensar antes de actuar. Hoy aprendemos a decir lo que NO puedes y a preguntar: la prudencia es saber lo que puedes y lo que todavia no, antes de decir que si."*
+  - **Activar + Hablar (3'), DE PIE en parejas y luego en cadena:** en el tablero: *"I can ____. I can't ____ (yet)."* 30 segundos para pensar; cada uno responde en 1-2 frases (*"I can play soccer. I can't play golf."*). Tu escuchas y anotas para el error paper; aqui NO corriges.
+  - **Cierre (1'):** *"Think first. Then say can or can't."*
+- **Revision de tarea Cl 1 (4'):** recoges los papeles (6 frases afirmativas); 2 estudiantes leen 1 frase cada uno. Anotas en libreta quien NO entrego. El push-back no se acepta: *"This is what your level requires."*
 
-## BLOQUE 2 (43') — M1 parte 2: negativa + pregunta
+## BLOQUE 2 (42') — M1 parte 2: negativa + pregunta
 
 - **Repaso relampago del marco (5'):** el cuadro de Cl 1 vuelve al tablero y el grupo lo completa en coro con 2 deportes nuevos.
 - **Tablero verbatim (M1, Guia 1, p.9, reglas 5-7):**
@@ -33,7 +39,7 @@ Can      | Juan   | ---   | play  | soccer?  ->  Can Juan play soccer?
 
   Modelas *cannot / can't* aplicando el truco 2 del M0 (consonante final fuerte): *can't* con la "t" marcada. Coro 3x.
 - **Historia interactiva (20'):** TU narras una historia absurda con los personajes de Cl 1 (el vecino, la senora del tercer piso, el perro del edificio) donde CADA personaje puede un deporte y NO puede otro. Narras 2-3 frases (*"The dog can play soccer. But the dog can't play golf..."*) → PAUSA → el grupo repite el fragmento en coro → un estudiante AGREGA el siguiente personaje con su *can* y su *can't*, y TU lo tejes. En 3 puntos de la historia paras y lanzas la pregunta al grupo (*"Can the dog play golf?"*) para que el coro la repita como PREGUNTA antes de responder. NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan la historia completa.
-- **Meta en 1 linea (di al inicio):** *"By the end of this block, each of you will say 1 thing you can play, 1 thing you can't play, and ask one classmate a question."* Preparacion en parejas (6', oral) → cada estudiante lo ejecuta ante el grupo → feedback: primero el logro, despues la forma.
+- **Meta en 1 linea (di al inicio):** *"By the end of this block, each of you will say 1 thing you can play, 1 thing you can't play, and ask one classmate a question."* Preparacion en parejas (5', oral) → cada estudiante lo ejecuta ante el grupo → feedback: primero el logro, despues la forma.
 
 ## BLOQUE 3 (37') — Drill de pie + Simulacion
 

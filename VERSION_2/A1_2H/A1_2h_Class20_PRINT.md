@@ -3,18 +3,24 @@
 **Virtud:** FORTALEZA (v1, dia 5 de 5) · **Modulo:** M11 She Ate in the Restaurant — The Simple Past for Irregular Verbs, PARTE 2: la negativa y la pregunta con "did" (el verbo vuelve al infinitivo) + respuesta corta + practica integrada regular vs irregular (Libro A1 p.143, Guia 1 regla 3 + Practica Verbal 2-4, p.147-151)
 **Frase del Dia:** *"Did you go to bed late? I didn't — I woke up early."*
 
-## BLOQUE 1 (22') — Apertura
+> **HOY SOLO: M11 Guia 1 p.143 regla 3 — en negativa y pregunta con "did" el verbo VUELVE al infinitivo + respuesta corta + regular vs irregular. Con esto cierra M11. NO TOCAR AÚN: los adverbios de frecuencia (M12, p.153) — eso es de Cl 21.**
+
+## BLOQUE 1 (23') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
-- **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 17 · Cl N-7 = Cl 13):
+- **Recuperacion (8'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 17 · Cl N-7 = Cl 13):
   - De **Cl 17** (pasado regular con -ed): dices un verbo regular (*like · love · arrive · visit · help · work · study · play*) y la cadena produce una afirmativa completa en pasado (*"She visited Felicity." · "He worked in the office."*); 4-5 estudiantes, con el sonido final correcto (*studied* = "staDID", *worked* = "work'T").
   - De **Cl 13** (presente simple, verbo base): dices un sujeto plural o *I/you* y la cadena produce una frase en presente (*"I play soccer." · "They work in the office."*), en cadena rapida — sirve de contraste directo con el pasado de hoy.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte. Cierre del cuarto bloque de 5 clases: el conteo acumulado va a la libreta para coordinacion, sin comentario en clase.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 19 (6'):** recoges los papeles (los 8 pares presente/pasado + 8 frases afirmativas del ayer real); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego.
+- **VATS — FORTALEZA v1, dia 5 (5'), con su porque:**
+  - **Virtud (1'):** *"Hoy cierra la fortaleza. En la pregunta con 'did' el verbo vuelve al infinitivo. Fortaleza es contestar la pregunta dificil con la verdad."*
+  - **Activar + Hablar (3'), DE PIE en parejas y luego en cadena:** en el tablero: *"Did you go to bed late? Did you wake up early?"* 30 segundos para pensar; cada uno responde en 1-2 frases (*"No, I didn't. I went to bed early."*). Tu escuchas y anotas para el error paper; aqui NO corriges.
+  - **Cierre (1'):** *"Hard question, true answer."*
+- **Revision de tarea Cl 19 (4'):** recoges los papeles (los 8 pares presente/pasado + 8 frases afirmativas del ayer real); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego.
 
-## BLOQUE 2 (43') — M11 parte 2: en negativa y pregunta, el verbo VUELVE al infinitivo
+## BLOQUE 2 (42') — M11 parte 2: en negativa y pregunta, el verbo VUELVE al infinitivo
 
 - **Puente desde Cl 19 (6'):** los 8 pares en el tablero (*wake up/woke up ... go to bed/went to bed*) y cadena rapida de afirmativas del ayer real. Todos de pie, 60 segundos, sin repetir verbo.
 - **Tablero verbatim (M11, Guia 1, p.143, regla 3) (12'):**
@@ -34,7 +40,7 @@ NUNCA:  "Did she ate?"   "She didn't ate."   "Did they went?"
 
   Regla oral unica, en 6 palabras, repetida todo el dia: *"did already says past — verb goes back."* Coro 3x de los tres renglones (afirmativa / negativa / pregunta) con tres verbos distintos.
 - **Historia interactiva (15'):** TU narras "el vecino que lo nego todo": cuentas su ayer y de cada accion alguien duda. Narras 2-3 frases (*"Yesterday the neighbor woke up at 4:00. He ate dinner at 5:00 AM. He swam in the river!"*) → PAUSA → el grupo repite el fragmento en coro → lanzas la duda (*"Did he really swim in the river?"*) y el coro responde con la respuesta corta → un estudiante AGREGA la siguiente accion, y el de al lado la NIEGA con *didn't* + verbo base, y TU tejes las dos versiones. NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan el ayer del vecino diciendo 2 cosas que hizo y 2 que no hizo.
-- **Meta en 1 linea (di al inicio) (10'):** *"By the end of this block, each of you will ask 2 questions 'Did you ...?', answer with a short answer, and say 2 things you didn't do yesterday — regular and irregular mixed."* Preparacion en parejas (5', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
+- **Meta en 1 linea (di al inicio) (9'):** *"By the end of this block, each of you will ask 2 questions 'Did you ...?', answer with a short answer, and say 2 things you didn't do yesterday — regular and irregular mixed."* Preparacion en parejas (5', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
 
 ## BLOQUE 3 (37') — Drill de pie + Simulacion
 

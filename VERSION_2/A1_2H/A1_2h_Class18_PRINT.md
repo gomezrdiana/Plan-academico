@@ -5,18 +5,22 @@
 
 > **HOY SOLO: M10 Guia 1 p.125 reglas 4-5 — "didn't", la pregunta con "did" + verbo base, la respuesta corta y "who", siempre con verbos REGULARES (like, love, arrive, visit, help). NO TOCAR AÚN: los verbos irregulares (woke up, got dressed, ate, swam, went to bed) de M11 p.141-142 — eso es de Cl 19.**
 
-## BLOQUE 1 (22') — Apertura
+## BLOQUE 1 (23') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
-- **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 15 · Cl N-7 = Cl 11):
+- **Recuperacion (8'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 15 · Cl N-7 = Cl 11):
   - De **Cl 15** (tercera persona con -s, afirmativa): senalas a un companero y la cadena produce la frase completa en presente (*"He works in the office." · "She studies English." · "It arrives late."*); 4-5 estudiantes. Ojo: exige la **-s** audible al final del verbo.
   - De **Cl 11** (what time + at): escribes 5 horas en el tablero; un estudiante pregunta *"What time ...?"* y el siguiente responde *"At + hora"*, en cadena rapida.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 17 (6'):** recoges los papeles (frases en pasado regular afirmativo); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego.
+- **VATS — FORTALEZA v1, dia 3 (5'), con su porque:**
+  - **Virtud (1'):** *"Esta semana es fortaleza: hablar aunque de miedo y no rendirse. Hoy decimos lo que NO hicimos y preguntamos 'Did you...?': fortaleza es decir la verdad completa, tambien cuando es 'I didn't'."*
+  - **Activar + Hablar (3'), DE PIE en parejas y luego en cadena:** en el tablero: *"Did you study yesterday? Did you practice?"* 30 segundos para pensar; cada uno responde en 1-2 frases (*"Yes, I studied." · "No, I didn't practice. I worked."*). Tu escuchas y anotas para el error paper; aqui NO corriges.
+  - **Cierre (1'):** *"Yes or no — the truth."*
+- **Revision de tarea Cl 17 (4'):** recoges los papeles (frases en pasado regular afirmativo); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego.
 
-## BLOQUE 2 (43') — M10 parte 2: "didn't", la pregunta con "did" y la respuesta corta
+## BLOQUE 2 (42') — M10 parte 2: "didn't", la pregunta con "did" y la respuesta corta
 
 - **Puente desde Cl 17 (6'):** los 5 verbos del modulo en el tablero (LIKE · LOVE · ARRIVE · VISIT · HELP) y cadena rapida de afirmativas con -ed (*"He liked tennis." · "She visited Felicity."*). Repaso de sonido final (p.125): *wanted* = "wanTED" · *studied* = "staDID" · *played* = "play'D" · *worked* = "work'T".
 - **Tablero verbatim (M10, Guia 1, p.125, reglas 3-5) (12'):**
@@ -41,7 +45,7 @@ No, he didn't.           Who did Roddy love? - He loved Alina.
 
   Marca con el dedo el contraste tres veces: *"I played" / "I didn't PLAY" / "Did you PLAY?"* — nunca *"didn't played"* ni *"Did you played?"*. Coro 3x.
 - **Historia interactiva (15'):** TU narras el ayer absurdo de un vecino del edificio, y de cada accion dices tambien lo que NO hizo. Narras 2-3 frases (*"Yesterday the neighbor arrived at 3:00. He didn't visit his mother. He helped the dog!"*) → PAUSA → el grupo repite el fragmento en coro → un estudiante AGREGA la siguiente accion (afirmativa o con *didn't*) y TU la tejes; cada 2-3 pausas lanzas la pregunta (*"Did he visit his mother?"*) y el coro responde con la respuesta corta (*"No, he didn't."*). NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan el ayer del vecino con 2 cosas que hizo y 2 que no hizo.
-- **Meta en 1 linea (di al inicio) (10'):** *"By the end of this block, each of you will say 2 things you did yesterday, 2 things you didn't do, and ask 1 question 'Did you ...?'"* Preparacion en parejas (5', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
+- **Meta en 1 linea (di al inicio) (9'):** *"By the end of this block, each of you will say 2 things you did yesterday, 2 things you didn't do, and ask 1 question 'Did you ...?'"* Preparacion en parejas (5', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
 
 ## BLOQUE 3 (37') — Drill de pie + Simulacion
 

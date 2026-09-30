@@ -3,19 +3,25 @@
 **Virtud:** PRUDENCIA (v1, dia 5 de 5) · **Modulo:** M3 No, I can't. — Short Answer (Libro A1 p.33-40)
 **Frase del Dia:** *"Can you decide now? Yes, I can."*
 
-## BLOQUE 1 (22') — Apertura
+> **HOY SOLO: M3 completo (p.33-40) — la respuesta corta con can: "Yes, I can. / No, I can't. / Yes, he can." NO TOCAR AÚN: el auxiliar "should" (M4, p.41-43) — eso es de Cl 6.**
+
+## BLOQUE 1 (23') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
-- **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 2; Cl N-7 aun no existe):
+- **Recuperacion (8'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 2; Cl N-7 aun no existe):
   - De **Cl 2** (negativa + pregunta con can): tu lanzas rapido *"Can the dog play golf?"*, *"Can your neighbor play hockey?"* — 4-5 estudiantes responden con FRASE COMPLETA (hoy todavia completa; la respuesta corta llega en el Bloque 2).
   - De **Cl 4** (pregunta con what): 3-4 estudiantes preguntan *"What can he/she/they play?"* sobre un companero y la cadena responde con pronombre.
   - De **Cl 3** (pronombres): coro rapido nombre → pronombre con 6 nombres reales del grupo.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte. Es el quinto dia: si alguien acumula fallas, va a la libreta para coordinacion, sin comentario en clase.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 4 (6'):** recoges los papeles (4 preguntas con *what* + 4 respuestas); 2 estudiantes leen 1 par cada uno. Anotas en libreta quien NO entrego.
+- **VATS — PRUDENCIA v1, dia 5 (5'), con su porque:**
+  - **Virtud (1'):** *"Hoy cierra la semana de prudencia. Prudencia no es tardar: es pensar un segundo y decidir claro, si o no."*
+  - **Activar + Hablar (3'), DE PIE en parejas y luego en cadena:** en el tablero: *"Can you decide now? Can you ____ today?"* 30 segundos para pensar; cada uno responde en 1-2 frases (*"Yes, I can play tennis today." / "No, I can't play tennis today."*) — aqui todavia con FRASE COMPLETA; la respuesta corta llega en el Bloque 2. Tu escuchas y anotas para el error paper; aqui NO corriges.
+  - **Cierre (1'):** *"One second to think. Then decide."*
+- **Revision de tarea Cl 4 (4'):** recoges los papeles (4 preguntas con *what* + 4 respuestas); 2 estudiantes leen 1 par cada uno. Anotas en libreta quien NO entrego.
 
-## BLOQUE 2 (43') — M3: la respuesta corta
+## BLOQUE 2 (42') — M3: la respuesta corta
 
 - **Tablero verbatim (M3, Guia 1, p.34) (10'):**
 
@@ -31,7 +37,7 @@ En ingles hacemos exactamente lo mismo, terminando la respuesta con el AUXILIAR:
   Ojo de pronunciacion: *can't* con la "t" final marcada (truco 2 del M0) — es lo unico que distingue *can* de *can't* al oido. Coro 3x alternando *"Yes, I can." / "No, I can't."*
 - **Ejemplos al tablero (p.35), coro + individuales:** *Can Juan play soccer? — Yes, he can. / No, he can't. · Can Sarah and Jessica play badminton? — Yes, they can. / No, they can't. · Can we play basketball? — Yes, we can. / No, we can't. · Can I play golf? — Yes, you can. / No, you can't. · Can the dog play soccer? — Yes, it can. / No, it can't.* Marca en el tablero el cambio de pronombre en *"Can I ...?" → "Yes, you can."*
 - **Historia interactiva (18'):** TU narras una historia absurda en la que el grupo del edificio quiere armar un equipo y hay que decidir rapido: en cada pausa preguntas por un personaje (*"Can the grandmother play basketball?"*) y el grupo responde EN CORO SOLO con respuesta corta; un estudiante AGREGA el siguiente personaje y su deporte, y TU lo tejes. Marca el ritmo: pregunta - respuesta corta - siguiente. NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan quien quedo en el equipo, usando frases completas.
-- **Meta en 1 linea (di al inicio):** *"By the end of this block, each of you will answer 6 questions with a short answer, with no hesitation."* Preparacion en parejas (6', oral) → ejecucion en cadena → feedback: logro primero, forma despues.
+- **Meta en 1 linea (di al inicio):** *"By the end of this block, each of you will answer 6 questions with a short answer, with no hesitation."* Preparacion en parejas (5', oral) → ejecucion en cadena → feedback: logro primero, forma despues.
 
 ## BLOQUE 3 (37') — Drill de pie + Simulacion
 

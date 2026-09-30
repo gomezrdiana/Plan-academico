@@ -10,12 +10,13 @@
 - **Warm-up (8'), DE PIE, en cadena** (no hay recuperacion hoy — es la primera clase del nivel): saludas a cada estudiante con *"Hello! Welcome!"*; cada uno responde *"Hello!"* y dice su nombre; el grupo repite el nombre en coro. Energia alta, cero explicaciones, cero espanol tuyo.
 - **Presentacion guionada de los rituales permanentes (8')** — 2-3 lineas en ingles MUY simple cada uno, con gesto (di y muestra, no expliques gramatica):
   - **Frase del Dia:** *"Every class: one phrase on the board. We say it. We use it."*
-  - **Portafolio diario de VIDEO:** *"Every day: ONE VIDEO of you speaking English. Minimum ONE minute, in one take, no reading. You send it TODAY to the class WhatsApp group. I watch every video. Every class: ONE thing to fix."* (Audio solo por excepcion, maximo 2 por semana. Desde Cl 2 le dices a cada uno UNA mejora de su video.)
+  - **Portafolio diario de VIDEO:** *"Every day: ONE VIDEO of you speaking English. Minimum ONE minute, in one take, no reading. You send it TODAY to the class WhatsApp group. I watch every video. Every class: ONE thing to fix."* (Audio solo por excepcion, maximo 2 por semana. Desde Cl 2 le dices a cada uno UNA mejora de su video.) Si preguntan por notas o resultados: *"That is coordination, not me."*
+  - **Grabacion de entrada:** *"Today I record you, one minute, one by one: your starting photo."* (Se hace en paralelo al Bloque 3.)
   - **Puntualidad:** *"Class starts at 6:30. On time, every day."* Y en espanol, una sola vez: *"Despues de 6:45 es llegada tarde; 3 llegadas tarde = 1 falla. Es entrenamiento, no castigo."*
   - **Ticket de salida:** *"At the end of class: you write 3 short phrases on paper. You give the paper to me."*
   - **Error paper:** *"I write errors on a paper. No names. Errors are good — they help us."*
 - **Frase del Dia en tablero (4')** (escrita ANTES de clase): 2 lecturas tuyas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en una oracion nueva.
-- **Virtud de la semana (3'):** PRUDENCIA = pensar antes de actuar. 1 linea en espanol: *"Hoy aprendemos 'can': antes de decir lo que puedes hacer, piensa — eso es prudencia."* Pregunta que junta virtud y gramatica, en el tablero: *"I can think before I play ____."* Cada estudiante DE PIE la completa con un deporte. Cierre (1 frase): *"Think first. Then play."*
+- **VATS — abre PRUDENCIA v1 (3'):** PRUDENCIA = pensar antes de actuar. 1 linea en espanol: *"Hoy aprendemos 'can': antes de decir lo que puedes hacer, piensa — eso es prudencia."* Por que (1 frase): *"El dia que necesites tu ingles — una entrevista, un cliente, un vuelo — lo que te salva es haber preparado la frase antes de abrir la boca."* Pregunta que junta virtud y gramatica, en el tablero: *"I can think before I play ____."* Cada estudiante DE PIE la completa con un deporte. Cierre (1 frase): *"Think first. Then play."*
 - **Cronograma del nivel (2') — anunciar tal cual, SOLO numeros de clase:** *"This level: 45 classes. Cl 11: special session. Cl 22 and Cl 23: midterm. Cl 34: special session. Cl 44 and Cl 45: FINAL."* NO comentes contenido, formato, notas ni resultados.
 
 ## BLOQUE 2 (40') — M0 Pronunciacion + M1 parte 1 (vocabulario + afirmativa)
@@ -44,6 +45,8 @@ Juan   | can      | ---   | play  | soccer   ->  Juan can play soccer.
   - Minimos por ronda: 3 frases *"I can play ..."* del socio + 3 repeticiones en tercera persona del recepcionista.
   - Rotacion cada 3 min hasta que todos pasen al menos 1 vez. Debrief (4'): observers reportan (anonimo); correcciones al tablero, coro 2x.
 
+> **EN PARALELO A LA SIMULACION — GRABACION DE ENTRADA DEL NIVEL (obligatoria hoy).** Llamas de a UNO a los OBSERVERS (nunca al guest ni al recepcionista en turno) a la puerta: el estudiante en el pasillo, tu en la puerta con TU celular, viendo el salon (la simulacion no se detiene; nadie hace fila). **45-60 seg por estudiante, en video, una sola toma.** Antes de grabar, en espanol: *"Esta es tu foto de partida. Al final del nivel vas a ver cuanto avanzo tu voz. Habla, no leas."* Preguntas, en ingles simplisimo: *"What is your name? Where are you from? Why English?"* Si no puede en ingles, responde en ESPANOL y se graba igual: es la foto de partida. NO corriges, NO repites la toma, NO comentas. Etiqueta `A1-2H-ENTRADA-CL1-[nombre]`. Si no alcanzas a todos, sigues durante la Carta del Bloque 4 (todos escriben, tu grabas). Nadie sale hoy sin grabar. Se ENVIAN ESTA NOCHE a la auxiliar administrativa (WhatsApp, una por una con el nombre del estudiante).
+
 ## BLOQUE 4 (25') — Cierre
 
 - **MY WORLD — avance de proyecto hoy (4'): pieza 1 "WHAT I CAN DO".** Anuncia el proyecto en 2 lineas: *"This level has one project: MY WORLD. At the end, you present your world. We build one piece every class."* Hoy cada estudiante dice en voz alta: su nombre + 2 frases *"I can play ..."*. Esa misma pieza es el video de la tarea.
@@ -66,7 +69,7 @@ TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: I can't play — and questions with can."*
 
-□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45)  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Cartas cerradas recogidas  □ Fotos/videos del dia  □ Lista del grupo de WhatsApp lista para ver los videos ANTES de Cl 2
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos: no aplica hoy (primer chequeo con mejora en Cl 2)  □ Grabaciones de entrada ENVIADAS ESTA NOCHE a la auxiliar administrativa, una por una con el nombre (lista de grabados y faltantes al reporte)  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Cartas cerradas recogidas  □ Fotos/videos del dia  □ Lista del grupo de WhatsApp lista para ver los videos ANTES de Cl 2
 
 [PAGEBREAK]
 
@@ -112,3 +115,5 @@ TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 - Virtud: PRUDENCIA v1 cubre Cl 1-5 (calendario absoluto por numero de clase, tabla A1 NOCTURNO 2H). Hoy dia 1.
 - Proxima clase (Cl 2): M1 parte 2 — negativa "cannot/can't" y pregunta "Can Juan play soccer?" (Guia 1, p.9 reglas 5-7; ejemplos p.10).
 - Las cartas cerradas viajan HOY con los tickets y el error paper a coordinacion.
+- **Grabacion de entrada (doctrina 24/09/2026):** la evaluacion de entrada del nivel incluye una grabacion oral en la primera clase; es la foto de partida del expediente para la garantia y coordinacion la compara con la grabacion de salida de Cl 44. La auxiliar administrativa la guarda en el computador de la academia (carpeta del cohorte, una por estudiante); los videos diarios NO se descargan, se quedan en el grupo de WhatsApp. El docente no comenta, no califica y no habla de garantia.
+- Plan B grabacion: si con la simulacion y la Carta no alcanza, grabas durante el ticket de salida; si aun falta alguien (llego tarde, se fue antes), se anota en el reporte como FALTANTE y coordinacion decide. No se pasa a otra clase por iniciativa del docente.

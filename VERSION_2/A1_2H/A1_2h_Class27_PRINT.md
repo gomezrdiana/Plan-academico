@@ -5,19 +5,23 @@
 
 > **HOY SOLO: M18 — "want" y "need" se comportan IGUAL que "have" (a/an para uno solo, some en la afirmativa, any en la negativa y la pregunta), mas la pregunta "What do you need?" (Guia 1, p.224-225). NO TOCAR AÚN: el segundo verbo con "to" — "I need TO GO", "I have TO study" (M19, p.233) — eso es Cl 28. Hoy despues de want/need/have va un OBJETO, nunca otro verbo.**
 
-## BLOQUE 1 (22') — Apertura
+## BLOQUE 1 (24') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
-- **Recuperacion (9'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 24 · Cl N-7 = Cl 20):
+- **Recuperacion (8'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 24 · Cl N-7 = Cl 20):
   - De **Cl 24** (adjetivos posesivos): dices un sujeto y un sustantivo (*"she / team" · "they / mother" · "he / house"*) y la cadena arma la frase con el posesivo correcto (*"She likes her team."*); 4 estudiantes. Ojo con *his/her* cruzados.
   - De **Cl 20** (pasado irregular en negativa y pregunta): 3 estudiantes en cadena preguntan *"Did you (verbo) yesterday?"* y el siguiente responde con respuesta corta + una negativa con *didn't* + verbo base.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — contrasta *want* y *need* en una sola linea, que es el punto del dia. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 26 (6'):** recoges los papeles (8 frases con *have*: 3 con *some*, 3 con *any*, 2 preguntas, con *only* y *too*); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
+- **VATS — TEMPLANZA v2, dia 2 (5'), con su porque:**
+  - **Virtud (1'):** *"Esta semana es templanza: controlar el impulso. Hoy 'want' y 'need': templanza es distinguir lo que QUIERES de lo que NECESITAS."*
+  - **Activar + Hablar (3'), DE PIE en parejas y luego en cadena:** en el tablero: *"I need ____. I only want ____."* 30 segundos para pensar; cada uno responde en 1-2 frases (*"I need some water. I only want some ice cream."*). Tu escuchas y anotas para el error paper; aqui NO corriges.
+  - **Cierre (1'):** *"Need first. Want later."*
+- **Revision de tarea Cl 26 (4'):** recoges los papeles (8 frases con *have*: 3 con *some*, 3 con *any*, 2 preguntas, con *only* y *too*); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 - **Puente desde Cl 26 (1'):** una linea: *"Yesterday: HAVE. Today: two more verbs that work exactly the same — WANT and NEED."* Nada mas: la regla la descubren en el Bloque 2.
 
-## BLOQUE 2 (43') — M18: tres verbos, una sola mecanica
+## BLOQUE 2 (41') — M18: tres verbos, una sola mecanica
 
 - **Vocabulario del modulo (tablero, p.224) (9'):**
 
@@ -54,8 +58,8 @@ A paper      (un papel)
 ```
 
   Regla oral unica, repetida todo el dia: *"want, need, have — same machine, different meaning."* Coro 3x de las tres filas con el mismo objeto, cambiando solo el verbo (*"I have a pen. I want a pen. I need a pen."*). El error que vas a cazar hoy: *"He wants some pen"* (singular con *some*) y *"She need"* (sin la "-s").
-- **Historia interactiva (16'):** TU narras "el primer dia de clase del vecino que no trajo nada", todo con *want / need / have*. Narras 2-3 frases (*"The neighbor has a chair. He doesn't have any paper. He needs a pencil and he wants some coffee!"*) → PAUSA → el grupo repite el fragmento en coro → un estudiante AGREGA que tiene, que necesita o que quiere otro personaje, y TU lo tejes cuidando el verbo, la "-s" de tercera persona y *a/an* vs *some/any*. Cada 2-3 pausas lanzas la pregunta de control con *what* (*"What does he need?"*) y el coro responde. NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan que tiene, que necesita y que quiere el vecino — y el grupo decide en coro que es lo que REALMENTE necesita (ahi entra la virtud).
-- **Meta en 1 linea (di al inicio) (7'):** *"By the end of this block, each of you will say 1 thing you HAVE, 1 thing you NEED and 1 thing you only WANT — and will ask a classmate 'What do you need?'"* Preparacion en parejas (4', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
+- **Historia interactiva (15'):** TU narras "el primer dia de clase del vecino que no trajo nada", todo con *want / need / have*. Narras 2-3 frases (*"The neighbor has a chair. He doesn't have any paper. He needs a pencil and he wants some coffee!"*) → PAUSA → el grupo repite el fragmento en coro → un estudiante AGREGA que tiene, que necesita o que quiere otro personaje, y TU lo tejes cuidando el verbo, la "-s" de tercera persona y *a/an* vs *some/any*. Cada 2-3 pausas lanzas la pregunta de control con *what* (*"What does he need?"*) y el coro responde. NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan que tiene, que necesita y que quiere el vecino — y el grupo decide en coro que es lo que REALMENTE necesita (ahi entra la virtud).
+- **Meta en 1 linea (di al inicio) (6'):** *"By the end of this block, each of you will say 1 thing you HAVE, 1 thing you NEED and 1 thing you only WANT — and will ask a classmate 'What do you need?'"* Preparacion en parejas (4', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
 
 ## BLOQUE 3 (37') — Drill de pie + Simulacion
 

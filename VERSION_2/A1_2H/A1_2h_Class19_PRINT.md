@@ -5,18 +5,22 @@
 
 > **HOY SOLO: M11 los 8 pares presente→pasado irregular (p.141-142) y Guia 1 p.142-143 reglas 1-2 — unicamente la AFIRMATIVA (Practica Verbal 1, p.145-146). NO TOCAR AÚN: la negativa con "didn't" ni la construccion de la pregunta con "did" + verbo base (p.143, regla 3) — eso es de Cl 20.**
 
-## BLOQUE 1 (22') — Apertura
+## BLOQUE 1 (23') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
-- **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 16 · Cl N-7 = Cl 12):
+- **Recuperacion (8'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 16 · Cl N-7 = Cl 12):
   - De **Cl 16** (does: negativo y pregunta): dices un sujeto y un verbo y la cadena produce la negativa y luego la pregunta (*"he / work" → "He doesn't work." → "Does he work?"*); 4-5 estudiantes. Ojo: tras *does*, el verbo va SIN -s.
   - De **Cl 12** (times and places): escribes 4 lugares y 4 horas en el tablero; un estudiante pregunta *"What time ...?"* o *"Where ...?"* y el siguiente responde con *at + hora* / *in + lugar*, en cadena rapida.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 18 (6'):** recoges los papeles (10 lineas: afirmativas con -ed, negativas con *didn't*, preguntas con *Did* y *Who*); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego.
+- **VATS — FORTALEZA v1, dia 4 (5'), con su porque:**
+  - **Virtud (1'):** *"Hoy el pasado irregular: los verbos que cambian. Fortaleza es levantarte aunque estes cansado, y hoy vas a poder contarlo en ingles."*
+  - **Activar + Hablar (3'), DE PIE en parejas y luego en cadena:** en el tablero: *"Yesterday I woke up at ____ and I ____."* 30 segundos para pensar; cada uno responde en 1-2 frases (*"Yesterday I woke up at five and I went to work."*). Tu escuchas y anotas para el error paper; aqui NO corriges.
+  - **Cierre (1'):** *"Tired — but I woke up."*
+- **Revision de tarea Cl 18 (4'):** recoges los papeles (10 lineas: afirmativas con -ed, negativas con *didn't*, preguntas con *Did* y *Who*); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego.
 
-## BLOQUE 2 (43') — M11 parte 1: los verbos que cambian de raiz (wake up → woke up)
+## BLOQUE 2 (42') — M11 parte 1: los verbos que cambian de raiz (wake up → woke up)
 
 - **Vocabulario del modulo — presente → pasado irregular (tablero, p.141-142) (12'):**
 
@@ -47,7 +51,7 @@ I      | did      | ---   | ate   | lunch   ->  I ate lunch.       (Yo almorce.)
 
   El marco es EXACTAMENTE el mismo de Cl 17-18: lo unico que cambia es que aqui el verbo no se lleva "-ed", se transforma. Coro 3x de los 8 pares.
 - **Historia interactiva (15'):** TU narras el ayer al reves de una familia del edificio, todo en pasado irregular y todo en el orden equivocado. Narras 2-3 frases (*"Yesterday the grandmother woke up at midnight. She ate dinner for breakfast. The dog swam in the kitchen!"*) → PAUSA → el grupo repite el fragmento en coro → un estudiante AGREGA la siguiente accion de alguien usando un pasado irregular y TU la tejes con la forma correcta (*"He got dressed ..." "They went to bed ..."*). NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan el dia al reves completo.
-- **Meta en 1 linea (di al inicio) (8'):** *"By the end of this block, each of you will tell 4 TRUE things about your real yesterday with irregular verbs: I woke up, I got dressed, I ate, I went to bed."* Preparacion en parejas (4', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
+- **Meta en 1 linea (di al inicio) (7'):** *"By the end of this block, each of you will tell 4 TRUE things about your real yesterday with irregular verbs: I woke up, I got dressed, I ate, I went to bed."* Preparacion en parejas (4', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
 
 ## BLOQUE 3 (37') — Drill de pie + Simulacion
 

@@ -5,18 +5,22 @@
 
 > **HOY SOLO: M20 las 5 palabras de estado (p.246) y Guia 1 reglas 1-3 — "be" se comporta como CUALQUIER verbo detras de can / should / will, y "ser" y "estar" son la misma palabra. Solo la frase AFIRMATIVA (Practica Verbal 1-3, p.249-254). NO TOCAR AÚN: la negativa "shouldn't be", la pregunta "Should Juan be happy?" ni la palabra "how" (regla 4 + PV4-7, p.255-262) — eso es Cl 30. La Frase del Dia SI trae una negativa: se dice y se usa, no se analiza.**
 
-## BLOQUE 1 (22') — Apertura
+## BLOQUE 1 (24') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
-- **Recuperacion (9'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 26 · Cl N-7 = Cl 22):
+- **Recuperacion (8'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 26 · Cl N-7 = Cl 22):
   - De **Cl 26** (*have* + *some/any*): dices sujeto + objeto (*"he / coffee" · "they / questions"*) y la cadena produce la afirmativa con *some* y la negativa con *any* (*"He has some coffee." → "He doesn't have any coffee."*); 4 estudiantes. Ojo: *has*, nunca *"haves"*.
   - De **Cl 22** (expresiones de frecuencia, AL FINAL): dices verbo + expresion (*"swim / twice a week" · "study / every day"*) y la cadena arma la frase con la expresion al final; 3 estudiantes.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — trae *can be* y *should be*, que es el marco del dia. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 28 (6'):** recoges los papeles (8 frases con doble verbo: 3 con *have to*, 2 con *need to*, 1 con *want to*, 1 negativa, 1 pregunta con *what*, con complemento en 5); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
+- **VATS — TEMPLANZA v2, dia 4 (5'), con su porque:**
+  - **Virtud (1'):** *"Hoy 'be' detras de can, should y will. Templanza es poder estar cansado sin estar enojado: tu decides como vas a estar."*
+  - **Activar + Hablar (3'), DE PIE en parejas y luego en cadena:** en el tablero: *"Tonight I will be ____. I should be ____."* 30 segundos para pensar; cada uno responde en 1-2 frases (*"Tonight I will be tired, but I should be happy."*) con los estados del modulo (happy · ok · sad · angry · tired). Tu escuchas y anotas para el error paper; aqui NO corriges.
+  - **Cierre (1'):** *"I can be tired, but I should be ok."*
+- **Revision de tarea Cl 28 (4'):** recoges los papeles (8 frases con doble verbo: 3 con *have to*, 2 con *need to*, 1 con *want to*, 1 negativa, 1 pregunta con *what*, con complemento en 5); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 
-## BLOQUE 2 (43') — M20 parte 1: "be" es un verbo normal detras del ayudante
+## BLOQUE 2 (41') — M20 parte 1: "be" es un verbo normal detras del ayudante
 
 - **Vocabulario del modulo (tablero, p.246) (9'):**
 
@@ -51,8 +55,8 @@ Tired    (cansado)
 ```
 
   Regla oral unica, repetida todo el dia: *"after can, should and will — be is just a normal verb."* Coro 3x de la fila del cuadro con los tres ayudantes (*"Juan can be happy. Juan should be happy. Juan will be happy."*). Detente 30 segundos en la regla 2: escribe en el tablero *"Yo SOY feliz / Yo ESTOY feliz"* y al lado una sola linea en ingles, *"I am happy"* — una palabra para las dos. No lo expliques mas.
-- **Historia interactiva (15'):** TU narras "el edificio de los animos cambiantes", todo en afirmativa con *can/should/will be*. Narras 2-3 frases (*"Tomorrow the grandmother will be happy. The dog can be angry at six o'clock. The neighbor should be a pilot — he wakes up at four!"*) → PAUSA → el grupo repite el fragmento en coro → un estudiante AGREGA como estara o que sera otro personaje, y TU lo tejes cuidando el *a/an* de la regla 3 y marcando el ayudante con la mano. Cada 2-3 pausas lanzas *"And you? Tired or ok?"* y 2-3 estudiantes responden con frase completa. NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan como estara el edificio completo.
-- **Meta en 1 linea (di al inicio) (7'):** *"By the end of this block, each of you will say 3 TRUE sentences: how you will be tomorrow, what you can be, and where you should be at six."* Preparacion en parejas (4', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
+- **Historia interactiva (14'):** TU narras "el edificio de los animos cambiantes", todo en afirmativa con *can/should/will be*. Narras 2-3 frases (*"Tomorrow the grandmother will be happy. The dog can be angry at six o'clock. The neighbor should be a pilot — he wakes up at four!"*) → PAUSA → el grupo repite el fragmento en coro → un estudiante AGREGA como estara o que sera otro personaje, y TU lo tejes cuidando el *a/an* de la regla 3 y marcando el ayudante con la mano. Cada 2-3 pausas lanzas *"And you? Tired or ok?"* y 2-3 estudiantes responden con frase completa. NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan como estara el edificio completo.
+- **Meta en 1 linea (di al inicio) (6'):** *"By the end of this block, each of you will say 3 TRUE sentences: how you will be tomorrow, what you can be, and where you should be at six."* Preparacion en parejas (4', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
 
 ## BLOQUE 3 (37') — Drill de pie + Simulacion
 

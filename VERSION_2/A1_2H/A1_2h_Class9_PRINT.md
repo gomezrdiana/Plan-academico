@@ -5,19 +5,23 @@
 
 > **HOY SOLO: M5 Guia 1 p.63 reglas 1-6 — la hora y los precios, con los ejemplos p.64; las horas se dicen sueltas o con verbos ya conocidos. NO TOCAR AÚN: la palabra "at" ("a las") ni la pregunta "What time...?" (M6, p.73-74, reglas 4-6) — eso es de Cl 11.**
 
-## BLOQUE 1 (22') — Apertura
+## BLOQUE 1 (23') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
-- **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 6 · Cl N-7 = Cl 2):
+- **Recuperacion (8'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 6 · Cl N-7 = Cl 2):
   - De **Cl 6** (should): das un problema en 3 palabras (*"She is tired."*) y 4-5 estudiantes producen la recomendacion, alternando *should* y *shouldn't*.
   - De **Cl 2** (negativa y pregunta con can): 4-5 estudiantes transforman en cadena una frase que tu das: afirmativa → negativa → pregunta → respuesta.
   - De **Cl 8** (numeros): 60 segundos de pares trampa en coro (*thirteen/thirty, fourteen/forty, fifteen/fifty...*).
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 8 (6'):** recoges los papeles (numeros en letras + 6 numeros reales); 2 estudiantes leen 3 numeros cada uno en voz alta. Anotas en libreta quien NO entrego.
+- **VATS — TEMPLANZA v1, dia 4 (5'), con su porque:**
+  - **Virtud (1'):** *"Hoy es la hora. Templanza es manejar el tiempo: saber a que hora empiezas y a que hora paras, tambien para descansar."*
+  - **Activar + Hablar (3'), DE PIE en parejas y luego en cadena:** en el tablero: *"____ o'clock — I should ____."* 30 segundos para pensar; cada uno responde en 1-2 frases (*"Ten o'clock — I should sleep." · "Six thirty — I should start."*). Tu escuchas y anotas para el error paper; aqui NO corriges.
+  - **Cierre (1'):** *"On time — and then rest."*
+- **Revision de tarea Cl 8 (4'):** recoges los papeles (numeros en letras + 6 numeros reales); 2 estudiantes leen 3 numeros cada uno en voz alta. Anotas en libreta quien NO entrego.
 
-## BLOQUE 2 (43') — M5 parte 2: la hora y los precios
+## BLOQUE 2 (42') — M5 parte 2: la hora y los precios
 
 - **Tablero verbatim (M5, Guia 1, p.63) (12'):**
 
@@ -41,7 +45,7 @@ LOS PRECIOS
 
 - **Ejemplos al tablero (p.64), coro + individuales (8'):** horas — *1:00 ONE O'CLOCK · 1:35 ONE THIRTY-FIVE · 2:58 TWO FIFTY-EIGHT · 3:02 THREE OH TWO · 11:07 ELEVEN OH SEVEN · 12:45 TWELVE FORTY-FIVE*. Precios — *$1.00 ONE DOLLAR · $1.35 ONE DOLLAR AND THIRTY-FIVE CENTS / ONE THIRTY-FIVE · $32.14 THIRTY-TWO DOLLARS AND FOURTEEN CENTS / THIRTY-TWO FOURTEEN · $3.09 THREE DOLLARS AND NINE CENTS / THREE OH NINE*.
 - **Historia interactiva (18'):** TU narras una historia absurda de un dia en el que todo pasa a una hora rara y todo cuesta un precio raro. Narras 2-3 frases (*"The neighbor wakes up at three oh two. His coffee costs twelve seventy-five..."*) → PAUSA → el grupo repite el fragmento en coro diciendo bien la hora y el precio → un estudiante AGREGA el siguiente evento con SU hora y SU precio, y TU lo tejes. Fuerza al menos una hora con "oh", una en punto con "o'clock" y un precio en las dos formas. NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan el dia completo con sus horas.
-- **Meta en 1 linea (di al inicio):** *"By the end of this block, each of you will say 5 clock times and 3 prices, correctly, with no hesitation."* Preparacion en parejas (5', oral: uno escribe una hora o un precio en su cuaderno y lo muestra, el otro lo dice) → ejecucion ante el grupo → feedback: logro primero, forma despues.
+- **Meta en 1 linea (di al inicio):** *"By the end of this block, each of you will say 5 clock times and 3 prices, correctly, with no hesitation."* Preparacion en parejas (4', oral: uno escribe una hora o un precio en su cuaderno y lo muestra, el otro lo dice) → ejecucion ante el grupo → feedback: logro primero, forma despues.
 
 ## BLOQUE 3 (37') — Drill de pie + Simulacion
 

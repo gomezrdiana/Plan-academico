@@ -3,19 +3,25 @@
 **Virtud:** TEMPLANZA (v1, dia 2 de 5) · **Modulo:** M4 Where Should We Live? — Giving Recommendations, PARTE 2: "where", la respuesta corta con should y la palabra "in" (Libro A1 p.43-45, reglas 4-6)
 **Frase del Dia:** *"Where should we start? We should start slowly."*
 
-## BLOQUE 1 (22') — Apertura
+> **HOY SOLO: M4 Guia 1 p.43 reglas 4-6 — "where", la respuesta corta con should y "in" + ciudad. Con esto cierra M4. NO TOCAR AÚN: los numeros (M5, p.61-62) — eso es de Cl 8.**
+
+## BLOQUE 1 (23') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
-- **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 4; Cl N-7 aun no existe):
+- **Recuperacion (8'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 4; Cl N-7 aun no existe):
   - De **Cl 4** (pregunta con what): 4-5 estudiantes preguntan *"What can he/she/they play?"* sobre companeros y la cadena responde con pronombre, sin repetir deporte.
   - De **Cl 6** (should): tu das un problema en 3 palabras (*"He is tired."*) y 4-5 estudiantes responden con una recomendacion (*"He should sleep."*), alternando afirmativa y negativa.
   - De **Cl 6** (vocabulario del modulo): coro rapido de las ciudades del tablero + *live*, cuidando la "v" (truco 6 del M0).
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 6 (6'):** recoges los papeles (8 recomendaciones); 2 estudiantes leen 1 recomendacion cada uno. Anotas en libreta quien NO entrego.
+- **VATS — TEMPLANZA v1, dia 2 (5'), con su porque:**
+  - **Virtud (1'):** *"Esta semana es templanza: paciencia y ritmo. Hoy recomendamos con 'should' y 'where': templanza es recomendarte lo que te conviene, no lo que te provoca."*
+  - **Activar + Hablar (3'), DE PIE en parejas y luego en cadena:** en el tablero: *"Where should you live? Where shouldn't you live?"* 30 segundos para pensar; cada uno responde en 1-2 frases (*"I should live in London. I shouldn't live in New York."*). Tu escuchas y anotas para el error paper; aqui NO corriges.
+  - **Cierre (1'):** *"We should start slowly."*
+- **Revision de tarea Cl 6 (4'):** recoges los papeles (8 recomendaciones); 2 estudiantes leen 1 recomendacion cada uno. Anotas en libreta quien NO entrego.
 
-## BLOQUE 2 (43') — M4 parte 2: "where" + respuesta corta + "in"
+## BLOQUE 2 (42') — M4 parte 2: "where" + respuesta corta + "in"
 
 - **Tablero verbatim (M4, Guia 1, p.43, reglas 4-6) (10'):**
 
@@ -35,7 +41,7 @@ RESPUESTA CORTA: igual que con "can", es simplemente "should" y "shouldn't".
   Contrasta con lo de Cl 4: *what* pregunta por la COSA, *where* pregunta por el LUGAR. Coro 3x con *"What should he play?"* / *"Where should he live?"*.
 - **Ejemplos al tablero (p.44-45), coro + individuales:** *Where should Martin live? — He should live in London. · Where should Sandra live? — She should live in Paris. · Where should Donald and Douglas live? — They should live in New York. · Where should Julius live? — He should live in Rome. · Where should James live? — He should live in Madrid. · Where should Walter live? — He should live in Orlando.*
 - **Historia interactiva (18'):** TU narras una historia absurda: la familia del edificio tiene que mudarse y cada quien opina donde deberia vivir cada quien. Narras 2-3 frases (*"The grandmother should live in Paris. She shouldn't live in New York..."*) → PAUSA → el grupo repite el fragmento en coro → en cada pausa lanzas la pregunta (*"Where should the dog live?"*) y un estudiante AGREGA la respuesta con *should + live in + ciudad*, que TU tejes al siguiente tramo. Mete tambien respuestas cortas (*"Should he live in Rome?" — "No, he shouldn't."*). NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan donde termino viviendo cada personaje.
-- **Meta en 1 linea (di al inicio):** *"By the end of this block, each of you will ask 1 question with WHERE, answer it with IN, and give 2 short answers with should."* Preparacion en parejas (6', oral) → ejecucion en cadena → feedback: logro primero, forma despues.
+- **Meta en 1 linea (di al inicio):** *"By the end of this block, each of you will ask 1 question with WHERE, answer it with IN, and give 2 short answers with should."* Preparacion en parejas (5', oral) → ejecucion en cadena → feedback: logro primero, forma despues.
 
 ## BLOQUE 3 (37') — Drill de pie + Simulacion
 

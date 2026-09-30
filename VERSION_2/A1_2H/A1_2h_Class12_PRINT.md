@@ -3,6 +3,8 @@
 **Virtud:** JUSTICIA (v1, dia 2 de 5) · **Modulo:** M7 Where and What Time? — Times and Places, COMPLETO (Libro A1 p.89-98)
 **Frase del Dia:** *"Everybody will eat in the restaurant at one o'clock."*
 
+> **HOY SOLO: M7 completo (p.89-98) — lugares con "the" + lugar y hora en la misma frase, con will. NO TOCAR AÚN: el presente simple con do / does (M8, p.99) — eso es de Cl 13.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.

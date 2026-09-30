@@ -5,16 +5,20 @@
 
 > **HOY SOLO: M14 las 6 profesiones (p.178) y Guia 1 p.179 reglas 1-3 — "with" significa "con" y en la PREGUNTA va al FINAL de la frase. NO TOCAR AÚN: los adjetivos posesivos my/your/his/her/our/their (M15, p.187) — eso es Cl 24; hoy las respuestas usan nombres propios o "the" (the doctor, the nurse).**
 
-## BLOQUE 1 (22') — Apertura + montaje de la charla
+## BLOQUE 1 (23') — Apertura + montaje de la charla
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
-- **Recuperacion (6', version corta — hoy hay charla), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 20 · Cl N-7 = Cl 16):
+- **Recuperacion (5', version corta — hoy hay charla), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 20 · Cl N-7 = Cl 16):
   - De **Cl 20** (pasado irregular en negativa y pregunta): dices un verbo irregular (*eat · swim · wake up · go to bed*) y la cadena produce la pregunta y la respuesta corta (*"Did you swim yesterday?" — "No, I didn't. I didn't swim."*); 3-4 estudiantes. Ojo: tras *did* el verbo vuelve al infinitivo.
   - De **Cl 16** (presente: la negativa y la pregunta NUNCA omiten *do/does*): dices sujeto + verbo y la cadena arma las dos formas (*"he / work" → "He doesn't work here." → "Does he work here?"*); 3-4 estudiantes. Ojo: tras *does* el verbo va SIN -s. Ese es el marco que hoy recibe *with* al final.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (2'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — tiene *with* al final de la pregunta, que es el punto del dia. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 22 (4'):** recoges los papeles (8 frases: 5 con expresion al final + 1 con *every day* + 2 con adverbio + 1 pregunta *How often*). NO se leen hoy en voz alta (el tiempo de voz es de la charla). Anotas en libreta quien NO entrego. Push-back no se acepta.
+- **VATS — PRUDENCIA v2, dia 3 (3', version corta: hoy hay charla), con su porque:**
+  - **Virtud (30"):** *"Hoy terminan las charlas. Prudencia es ensayar con alguien antes de hablar frente a todos."*
+  - **Hablar (2'), DE PIE en parejas:** en el tablero: *"Who do you practice with?"* Cada uno responde en 1 frase (*"I practice with Ana." — con un nombre, todavia sin my / your*). Tu escuchas y anotas para el error paper; aqui NO corriges.
+  - **Cierre (30"):** *"Plan it with your team."*
+- **Revision de tarea Cl 22 (3'):** recoges los papeles (8 frases: 5 con expresion al final + 1 con *every day* + 2 con adverbio + 1 pregunta *How often*). NO se leen hoy en voz alta (el tiempo de voz es de la charla). Anotas en libreta quien NO entrego. Push-back no se acepta.
 - **Montaje de la charla (7'):** vuelves a escribir en el tablero el mismo guion de las 20 piezas de la clase anterior (nada impreso — lo escribes tu):
 
 ```
@@ -31,9 +35,9 @@ MY WORLD - 3 to 4 minutes
 
   Encuadre en 2 lineas, tal cual: *"Today the second half of the group gives their MY WORLD talk: 3 to 4 minutes, with your 20 pieces."* TU CONDUCES y CRONOMETRAS. NO evaluas, NO das nota, NO comentas resultados ni formato de evaluacion — eso es exclusivo de coordinacion. Errores → tu libreta privada con nombres, nunca en voz alta durante la ronda.
 
-## BLOQUE 2 (43') — CHARLAS MY WORLD (segunda mitad del grupo)
+## BLOQUE 2 (42') — CHARLAS MY WORLD (segunda mitad del grupo)
 
-- **Ensayo en parejas (6'), TODOS DE PIE:** cada estudiante que habla hoy ensaya su charla completa 1 vez, en voz alta; la pareja (uno de los que ya hablo) solo escucha y le dice 1 cosa que entendio, sin corregir. Tu circulas sin corregir.
+- **Ensayo en parejas (5'), TODOS DE PIE:** cada estudiante que habla hoy ensaya su charla completa 1 vez, en voz alta; la pareja (uno de los que ya hablo) solo escucha y le dice 1 cosa que entendio, sin corregir. Tu circulas sin corregir.
 - **Rondas de charla (30'):** UNO al frente da sus 3-4 minutos, de pie, con las piezas 1-20. El RESTO son OBSERVERS ACTIVOS con tarea ESCRITA en papel: por cada persona anotan **(a) 1 cosa que entendieron de esa persona + (b) 1 frase nueva que ellos podrian decir de si mismos inspirada en eso + (c) 1 error ANONIMO, sin nombre**. Tras cada charla: 1 pregunta corta de un observer, respondida por quien hablo. Tu cronometras (aviso a los 3 min), das UN prompt si se congela 15+ segundos (la primera palabra de la pieza siguiente del guion del tablero) y te retiras — NUNCA hablas por el estudiante, nunca completas su frase, nunca dices si estuvo bien o mal. Solo *"Thank you. Next, please."*
 - **Cierre del evento (7'):** los observers entregan sus notas (papel, anonimo, no se evalua — viajan con los tickets) y tu pasas al tablero 4-5 formas que se repitieron en LAS DOS clases de charlas, SIN nombres; coro 2x de la version correcta. Cierras el evento con una sola linea: *"All of you spoke. That is the work."* Nada mas.
 

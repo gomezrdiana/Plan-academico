@@ -3,6 +3,8 @@
 **Virtud:** FORTALEZA (v1, dia 1 de 5) · **Modulo:** M9 He Eats in the Restaurant — The Simple Present, Affirmative Exception, PARTE 2: el negativo y la pregunta que NUNCA omiten "do/does" + Practica Verbal (Libro A1 p.112-122, Guia 1 regla 1 + Ejemplos p.113 + PV 2-4)
 **Frase del Dia:** *"He doesn't stay in bed — he wakes up and he studies."*
 
+> **HOY SOLO: M9 parte 2 (p.113-122) — negativa y pregunta que NUNCA omiten do / does (el verbo va sin "-s") + respuesta corta. Con esto cierra M9. NO TOCAR AÚN: el pasado con "-ed" (M10, p.123) — eso es de Cl 17.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
@@ -12,7 +14,7 @@
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (2'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Apertura de virtud — FORTALEZA (3'):** hoy arranca el cuarto bloque de 5 clases. En 1-2 lineas y en espanol: FORTALEZA = aguantar cuando cuesta, insistir, no rendirse a la primera. Luego la conectas con la clase: la Frase del Dia usa la forma negativa (*"he doesn't stay in bed"*) — decir lo que uno NO hace es tan importante como decir lo que hace, y hoy toda la clase vive de esa negativa. Cierras pidiendo a 2-3 estudiantes que digan en voz alta una cosa que NO abandonan (en espanol o como puedan en ingles); no se comenta ni se evalua ninguna respuesta. Se dice DE PIE, idealmente con *don't* (*"I don't stop."*). Cierre: *"We don't stop."*
+- **VATS — abre FORTALEZA v1 (3'):** hoy arranca el cuarto bloque de 5 clases. En 1-2 lineas y en espanol: FORTALEZA = aguantar cuando cuesta, insistir, no rendirse a la primera. Por que (1 frase): *"El dia real vas a hablar con miedo y sin la palabra perfecta; lo que te sostiene es haber entrenado hablar igual — ser el guest, grabar el video aunque salga mal."* Luego la conectas con la clase: la Frase del Dia usa la forma negativa (*"he doesn't stay in bed"*) — decir lo que uno NO hace es tan importante como decir lo que hace, y hoy toda la clase vive de esa negativa. Cierras pidiendo a 2-3 estudiantes que digan en voz alta una cosa que NO abandonan (en espanol o como puedan en ingles); no se comenta ni se evalua ninguna respuesta. Se dice DE PIE, idealmente con *don't* (*"I don't stop."*). Cierre: *"We don't stop."*
 - **Revision de tarea Cl 15 (5'):** recoges los papeles (8 lineas del presente afirmativo sin do/does); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 
 ## BLOQUE 2 (43') — M9 parte 2: en negativo y en pregunta el auxiliar SIEMPRE vuelve

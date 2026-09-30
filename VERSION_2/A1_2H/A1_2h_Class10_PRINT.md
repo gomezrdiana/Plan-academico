@@ -5,19 +5,23 @@
 
 > **HOY SOLO: M6 vocabulario de rutina (p.72) y Guia 1 p.73 reglas 1-3 — "will" en afirmativa, negativa ("won't") y pregunta; la produccion es sobre QUE hara, no a que hora. NO TOCAR AÚN: la pregunta "What time...?", la respuesta corta con will y la palabra "at" (p.73-74, reglas 4-6) — eso es de Cl 11.**
 
-## BLOQUE 1 (22') — Apertura
+## BLOQUE 1 (23') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
-- **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 7 · Cl N-7 = Cl 3):
+- **Recuperacion (8'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 7 · Cl N-7 = Cl 3):
   - De **Cl 7** (where + should + in): 4-5 estudiantes preguntan *"Where should he/she live?"* sobre companeros y la cadena responde con *"... should live in + ciudad"*; 2 respuestas cortas al final (*"Yes, he should." / "No, he shouldn't."*).
   - De **Cl 3** (pronombres sujetos): senalas personas del grupo y la cadena produce pronombre + frase completa, velocidad alta, sin repetir pronombre seguido.
   - De **Cl 9** (horas): 60 segundos de horas al azar escritas en el tablero, dichas en cadena.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte. Cierre del segundo bloque de 5 clases: el conteo acumulado va a la libreta para coordinacion, sin comentario en clase.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 9 (6'):** recoges los papeles (8 horas + 6 precios en letras); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego.
+- **VATS — TEMPLANZA v1, dia 5 (5'), con su porque:**
+  - **Virtud (1'):** *"Hoy cierra la templanza y estrenamos 'will'. Templanza es decidir hoy lo que vas a hacer manana, y cumplirlo aunque no tengas ganas."*
+  - **Activar + Hablar (3'), DE PIE en parejas y luego en cadena:** en el tablero: *"Tomorrow I will ____. I won't ____."* 30 segundos para pensar; cada uno responde en 1-2 frases (*"Tomorrow I will wake up early. I won't eat dinner late."*). Tu escuchas y anotas para el error paper; aqui NO corriges.
+  - **Cierre (1'):** *"Say it today. Do it tomorrow."*
+- **Revision de tarea Cl 9 (4'):** recoges los papeles (8 horas + 6 precios en letras); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego.
 
-## BLOQUE 2 (43') — M6 parte 1: vocabulario de rutina + "will"
+## BLOQUE 2 (42') — M6 parte 1: vocabulario de rutina + "will"
 
 - **Vocabulario del modulo (tablero, p.72) (10'):** Wake up (despertarse) · Shower (banarse) · Eat breakfast (desayunar) · Eat lunch (almorzar) · Eat dinner (cenar) · Study (estudiar) · Go to bed (acostarse). Pronunciacion coral + individual; ojo con *breakfast* (consonante final fuerte, truco 2 del M0) y *shower / study* (truco 8, "sh" y "st" duras).
 - **Tablero verbatim (M6, Guia 1, p.73, reglas 1-3) (10'):**
@@ -41,7 +45,7 @@ Will     | Juan   | play  | soccer?  ->  Will Juan play soccer?
 
   Pon en el tablero las tres columnas juntas — *can* (Cl 2) / *should* (Cl 6) / *will* (hoy) — y muestra que el marco NO cambia: solo cambia el ayudante. Coro 3x.
 - **Historia interactiva (18'):** TU narras una historia absurda del dia de manana en el edificio: cada personaje anuncia lo que hara y lo que NO hara, y siempre en el orden equivocado (se acuesta antes de desayunar, etc.). Narras 2-3 frases (*"Tomorrow the neighbor will wake up. He won't shower..."*) → PAUSA → el grupo repite el fragmento en coro → un estudiante AGREGA la siguiente accion con *will* o *won't* y TU la tejes; cada 2-3 pausas lanzas la pregunta (*"Will he eat breakfast?"*) para que el coro la repita como pregunta. NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan el dia completo del vecino en orden.
-- **Meta en 1 linea (di al inicio):** *"By the end of this block, each of you will say 3 things you will do tomorrow and 2 things you won't do."* Preparacion en parejas (6', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
+- **Meta en 1 linea (di al inicio):** *"By the end of this block, each of you will say 3 things you will do tomorrow and 2 things you won't do."* Preparacion en parejas (5', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
 
 ## BLOQUE 3 (37') — Drill de pie + Simulacion
 

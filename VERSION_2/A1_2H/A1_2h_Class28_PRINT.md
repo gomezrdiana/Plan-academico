@@ -3,19 +3,25 @@
 **Virtud:** TEMPLANZA (v2, dia 3 de 5) · **Modulo:** M19 What Do You Need to Do? — Double Verbs, COMPLETO (Libro A1 p.233-244, vocabulario p.234 + Guia 1 p.234-235 reglas 1-5 + Practica Verbal 1-4 p.236-244)
 **Frase del Dia:** *"I don't want to wait, but I have to wait."*
 
-## BLOQUE 1 (22') — Apertura
+> **HOY SOLO: M19 completo (p.233-244) — doble verbo: want to / need to / have to + verbo, con "to" entre los dos. NO TOCAR AÚN: "be" detras de can / should / will (M20, p.245) — eso es de Cl 29.**
+
+## BLOQUE 1 (24') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
-- **Recuperacion (9'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 25 · Cl N-7 = Cl 21):
+- **Recuperacion (8'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 25 · Cl N-7 = Cl 21):
   - De **Cl 25** (pronombres objeto): dices una frase con nombre o cosa (*"I love Ana." · "We know the engineers." · "I like hamburgers."*) y la cadena la repite reemplazando SOLO el objeto (*"I love her." · "We know them." · "I like them."*); 4 estudiantes. Ojo con *him/her* cruzados.
   - De **Cl 21** (adverbios de frecuencia, ANTES del verbo): dices verbo + adverbio (*"study / always" · "eat / never"*) y la cadena arma la frase con el adverbio pegado al verbo; 3 estudiantes. Hoy vuelve a aparecer: con dos verbos, el adverbio se pega al PRIMERO.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — trae el contraste *want to* / *have to* que es el punto del dia. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 27 (6'):** recoges los papeles (8 frases con *want / need / have* + 3 negativas con *any* + 2 preguntas con *what*); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
+- **VATS — TEMPLANZA v2, dia 3 (5'), con su porque:**
+  - **Virtud (1'):** *"Hoy dos verbos juntos. Templanza es hacer lo que TIENES que hacer aunque no QUIERAS hacerlo."*
+  - **Activar + Hablar (3'), DE PIE en parejas y luego en cadena:** en el tablero: *"Today I have to ____. I want to ____."* 30 segundos para pensar; cada uno responde en 1-2 frases (*"Today I have to study. I want to sleep."*). Tu escuchas y anotas para el error paper; aqui NO corriges.
+  - **Cierre (1'):** *"Have to first. Want to later."*
+- **Revision de tarea Cl 27 (4'):** recoges los papeles (8 frases con *want / need / have* + 3 negativas con *any* + 2 preguntas con *what*); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 - **Puente desde Cl 27 (1'):** una linea, con dos frases en el tablero: *"I need a pen."* / *"I need TO STUDY."* Senalas la segunda y dices *"Today: two verbs together."* Nada mas.
 
-## BLOQUE 2 (43') — M19: entre los dos verbos va "to"
+## BLOQUE 2 (41') — M19: entre los dos verbos va "to"
 
 - **Vocabulario del modulo (tablero, p.234) (8'):**
 
@@ -55,8 +61,8 @@ Find   (encontrar / buscar)
 ```
 
   Regla oral unica, con gesto, repetida todo el dia: *"two verbs? put TO in the middle."* Juntas las dos manos y metes un dedo entre ellas al decir *to*. Coro 3x de las tres filas (*want to / need to / have to*) con el mismo segundo verbo. Detente 30 segundos en la regla 4 y lee en voz alta la frase con los DOS "do": *"What DO you want to DO?"* — el primero es el ayudante, el segundo es el verbo. Coro 3x de esa sola frase.
-- **Historia interactiva (15'):** TU narras "la semana imposible del vecino", todo con doble verbo. Narras 2-3 frases (*"The neighbor has to work at six. He wants to go to the pool, but he needs to find his dog. He doesn't want to tell his mother!"*) → PAUSA → el grupo repite el fragmento en coro → un estudiante AGREGA algo que ese personaje quiere, necesita o tiene que hacer, y TU lo tejes metiendo *to* entre los dos verbos y marcandolo con el gesto. Cada 2-3 pausas lanzas *"What does he have to do?"* y el coro responde. NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan la semana del vecino separando lo que TIENE QUE hacer de lo que QUIERE hacer — ahi entra la virtud.
-- **Meta en 1 linea (di al inicio) (7'):** *"By the end of this block, each of you will say 2 things you HAVE TO do this week, 1 thing you NEED TO do and 1 thing you WANT TO do — and will ask 'What do you have to do?'"* Preparacion en parejas (4', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
+- **Historia interactiva (14'):** TU narras "la semana imposible del vecino", todo con doble verbo. Narras 2-3 frases (*"The neighbor has to work at six. He wants to go to the pool, but he needs to find his dog. He doesn't want to tell his mother!"*) → PAUSA → el grupo repite el fragmento en coro → un estudiante AGREGA algo que ese personaje quiere, necesita o tiene que hacer, y TU lo tejes metiendo *to* entre los dos verbos y marcandolo con el gesto. Cada 2-3 pausas lanzas *"What does he have to do?"* y el coro responde. NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan la semana del vecino separando lo que TIENE QUE hacer de lo que QUIERE hacer — ahi entra la virtud.
+- **Meta en 1 linea (di al inicio) (6'):** *"By the end of this block, each of you will say 2 things you HAVE TO do this week, 1 thing you NEED TO do and 1 thing you WANT TO do — and will ask 'What do you have to do?'"* Preparacion en parejas (4', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
 
 ## BLOQUE 3 (37') — Drill de pie + Simulacion
 

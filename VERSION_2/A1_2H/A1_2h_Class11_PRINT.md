@@ -3,6 +3,8 @@
 **Virtud:** JUSTICIA (v1, dia 1 de 5) · **Modulo:** M6 What Time Will You Eat Lunch? — The Simple Future, PARTE 2: la pregunta "What time...?", la respuesta corta con will y la palabra "at" (Libro A1 p.73-74, reglas 4-6) + MINI-PRESENTACION MY WORLD (media sesion)
 **Frase del Dia:** *"I will wait my turn. I will speak at my time."*
 
+> **HOY SOLO: mini-presentacion MY WORLD (media sesion) + M6 Guia 1 p.73-74 reglas 4-6 — "What time...?", la respuesta corta con will y "at" + hora. Con esto cierra M6. NO TOCAR AÚN: M7, lugares con "the" (p.89-98) — eso es de Cl 12.**
+
 ## BLOQUE 1 (22') — Apertura + montaje de la mini-presentacion
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
@@ -10,7 +12,7 @@
   - De **Cl 8** (numeros 0-100): escribes 6 numeros al azar en el tablero (*17 · 40 · 68 · 91 · 13 · 100*) y la cadena los dice en palabras, velocidad alta, 90 segundos.
   - De **Cl 4** (la palabra "what" + preguntas): 4 estudiantes en cadena preguntan *"What can your brother/mother/friend play?"* a un companero y este responde con frase completa (*"He can play ..."*).
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Apertura de virtud — JUSTICIA (3'):** escribes JUSTICE / JUSTICIA en el tablero. Lo dices en 2 lineas: *"Justicia es dar a cada uno lo que le corresponde: el mismo turno, el mismo tiempo, la misma exigencia."* Aterrizas en 3 conductas de ESTE salon, en el tablero: **1) espero mi turno · 2) no interrumpo al que habla · 3) todos pasan, nadie se salta.** Ronda relampago DE PIE, con el futuro de hoy: *"What will you do today?"* — cada uno responde con la conducta que va a cuidar (*"I will wait my turn."*). Cierre (1 frase): *"Same turn, same time, for everyone."* Es el marco del bloque de 5 clases (Cl 11-15).
+- **VATS — abre JUSTICIA v1 (3'):** escribes JUSTICE / JUSTICIA en el tablero. Lo dices en 2 lineas: *"Justicia es dar a cada uno lo que le corresponde: el mismo turno, el mismo tiempo, la misma exigencia."* Por que (1 frase): *"En un trabajo real hablas en equipo: escuchar al companero, corregir sin humillar y ayudar al que va mas lento es lo que un jefe o un cliente ve primero."* Aterrizas en 3 conductas de ESTE salon, en el tablero: **1) espero mi turno · 2) no interrumpo al que habla · 3) todos pasan, nadie se salta.** Ronda relampago DE PIE, con el futuro de hoy: *"What will you do today?"* — cada uno responde con la conducta que va a cuidar (*"I will wait my turn."*). Cierre (1 frase): *"Same turn, same time, for everyone."* Es el marco del bloque de 5 clases (Cl 11-15).
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — hoy encaja sola entre presentacion y presentacion. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Chequeo de portafolio CON LA LISTA EN MANO (2'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte (el de Cl 10 fue video de hito). Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos. Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Revision de tarea Cl 10 (2'):** recoges los papeles (10 lineas con will/won't sobre su manana real). NO se leen hoy en voz alta (el tiempo de voz es de la presentacion). Anotas en libreta quien NO entrego. Push-back no se acepta.

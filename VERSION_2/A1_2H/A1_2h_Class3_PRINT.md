@@ -5,19 +5,23 @@
 
 > **HOY SOLO: M2 vocabulario de pronombres sujetos (p.20) + Guia 1 p.21 regla 4 — reemplazar el nombre por el pronombre en el marco con "can". NO TOCAR AÚN: la palabra interrogativa "what" ni la pregunta "What can Juan play?" (p.21, reglas 1-3) — eso es de Cl 4.**
 
-## BLOQUE 1 (22') — Apertura
+## BLOQUE 1 (23') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
-- **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl 3: aun no existe Cl N-3 ni Cl N-7 — se recupera de las clases que SI existen, Cl 1 y Cl 2):
+- **Recuperacion (8'), oral y DE PIE, en cadena, sin cuaderno** (Cl 3: aun no existe Cl N-3 ni Cl N-7 — se recupera de las clases que SI existen, Cl 1 y Cl 2):
   - De Cl 2 (negativa): *"One TRUE sentence with CAN'T: 'I can't play ...'"* — 4-5 estudiantes en cadena.
   - De Cl 2 (pregunta): *"Ask the next classmate: 'Can you play (sport)?' — the classmate answers with a FULL sentence."* — 3-4 pares.
   - De Cl 1 (vocabulario + pronunciacion): coro rapido de los 9 deportes del tablero con consonante final fuerte (truco 2) y truco 6 ("v": *volleyball, very*).
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 2 (6'):** recoges los papeles (8 frases con can/can't + preguntas); 2 estudiantes leen 1 frase cada uno. Anotas en libreta quien NO entrego.
+- **VATS — PRUDENCIA v1, dia 3 (5'), con su porque:**
+  - **Virtud (1'):** *"Hoy cambiamos el nombre por el pronombre. Prudencia es mirar primero DE QUIEN hablas y despues hablar: he, she, we, they."*
+  - **Activar + Hablar (3'), DE PIE en parejas y luego en cadena:** en el tablero: *"____ can think first."* 30 segundos para pensar; cada uno responde en 1-2 frases (*"She can think first." · "They can think first."*) — cada uno senala a un companero o a un grupo y usa el pronombre correcto. Tu escuchas y anotas para el error paper; aqui NO corriges.
+  - **Cierre (1'):** *"We can think before we speak."*
+- **Revision de tarea Cl 2 (4'):** recoges los papeles (8 frases con can/can't + preguntas); 2 estudiantes leen 1 frase cada uno. Anotas en libreta quien NO entrego.
 
-## BLOQUE 2 (43') — M2 parte 1: pronombres sujetos
+## BLOQUE 2 (42') — M2 parte 1: pronombres sujetos
 
 - **Vocabulario del modulo (tablero, p.20) (8'):** I (yo) · You (tu / usted / ustedes) · He (el) · She (ella) · The dog (el perro) · It (eso) · We (nosotros) · They (ellos / ellas). Pronunciacion coral + individual. Marca en el tablero que *he / she* son personas y *it* es cosa o animal.
 - **Tablero verbatim (M2, Guia 1, p.21, regla 4):**
@@ -32,7 +36,7 @@ Juan -> He | Maria -> She | The dog -> It | Juan y yo -> We | Juan y Maria -> Th
 ```
 
 - **Historia interactiva (20'):** TU narras una historia absurda con los personajes ya conocidos (el vecino, la senora del tercer piso, el perro del edificio) e instalas los pronombres en el acto: dices la frase con NOMBRE y de inmediato la repites con PRONOMBRE (*"The neighbor can play hockey in the elevator. HE can play hockey in the elevator..."*). Narras 2-3 frases → PAUSA → el grupo repite el fragmento en coro SOLO con pronombre → un estudiante AGREGA el siguiente personaje y TU lo tejes senalando el pronombre que le toca. Cuando aparezcan dos personajes juntos, fuerza *they*; cuando te incluyas, fuerza *we*. NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan la historia usando SOLO pronombres.
-- **Meta en 1 linea (di al inicio):** *"By the end of this block, each of you will say 4 sentences about 4 different people using he, she, we, they."* Preparacion en parejas (6', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
+- **Meta en 1 linea (di al inicio):** *"By the end of this block, each of you will say 4 sentences about 4 different people using he, she, we, they."* Preparacion en parejas (5', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
 
 ## BLOQUE 3 (37') — Drill de pie + Simulacion
 

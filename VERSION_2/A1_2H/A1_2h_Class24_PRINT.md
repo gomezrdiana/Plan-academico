@@ -3,19 +3,25 @@
 **Virtud:** PRUDENCIA (v2, dia 4 de 5) · **Modulo:** M15 I Love My Parents — The Possessive Adjectives, COMPLETO (Libro A1 p.187-196, vocabulario p.188 + Guia 1 p.189 + Ejemplos p.190 + Practica Verbal 1-3 p.191-196)
 **Frase del Dia:** *"My mother plans her week, and I plan my week."*
 
-## BLOQUE 1 (22') — Apertura
+> **HOY SOLO: M15 completo (p.187-196) — los posesivos (tabla de la Guia 1, p.189) + la familia (p.188). NO TOCAR AÚN: los pronombres objeto me / him / her / them (M16, p.197) — eso es de Cl 25.**
+
+## BLOQUE 1 (24') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
-- **Recuperacion (9'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 21 · Cl N-7 = Cl 17):
+- **Recuperacion (7'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 21 · Cl N-7 = Cl 17):
   - De **Cl 21** (adverbios de frecuencia, ANTES del verbo): dices verbo + adverbio (*"study / always" · "work / never" · "swim / sometimes"*) y la cadena arma la frase con el adverbio pegado al verbo; 4 estudiantes. Ojo: nunca al final, nunca al inicio.
   - De **Cl 17** (pasado regular con -ed): dices un verbo regular (*visit · help · study · work · arrive*) y la cadena produce una afirmativa de su ayer real con el sonido final correcto (*studied* = "staDID", *worked* = "work'T"); 3-4 estudiantes.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — tiene tres posesivos distintos. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 23 (5'):** recoges los papeles (8 lineas: 4 preguntas con *with* al final en tiempos distintos + 4 respuestas reales con 2 profesiones); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
+- **VATS — PRUDENCIA v2, dia 4 (5'), con su porque:**
+  - **Virtud (1'):** *"Hoy los posesivos: my, your, his, her. Prudencia es planear TU semana antes de que otro te la planee."*
+  - **Activar + Hablar (3'), DE PIE en parejas y luego en cadena:** en el tablero: *"I plan my week. My ____ plans his / her week."* 30 segundos para pensar; cada uno responde en 1-2 frases (*"My mother plans her week. My brother plans his week."*). Tu escuchas y anotas para el error paper; aqui NO corriges.
+  - **Cierre (1'):** *"I plan my week."*
+- **Revision de tarea Cl 23 (4'):** recoges los papeles (8 lineas: 4 preguntas con *with* al final en tiempos distintos + 4 respuestas reales con 2 profesiones); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 - **Vuelve el ritmo normal (1'):** una sola linea, sin comentar nada del evento de las dos clases anteriores: *"Back to the book. Today: my, your, his, her."* Ni una palabra sobre calidad, notas ni resultados.
 
-## BLOQUE 2 (43') — M15: el posesivo dice DE QUIEN es
+## BLOQUE 2 (41') — M15: el posesivo dice DE QUIEN es
 
 - **Vocabulario del modulo (tablero, p.188) (9'):**
 
@@ -53,8 +59,8 @@ A team      (un equipo)
 ```
 
   Regla oral unica, con gesto, repetida todo el dia: *"in Spanish 'su' is one word — in English it is four."* Senalas a un hombre imaginario a tu izquierda al decir HIS y a una mujer a tu derecha al decir HER, cada vez. Coro 3x de la columna completa. El error que vas a cazar hoy: *"She likes his team"* cuando se habla de ella, y *"I play with my friend's"* con apostrofe (eso no es de hoy).
-- **Historia interactiva (16'):** TU narras "la familia que se presta todo en el edificio", todo con posesivos. Narras 2-3 frases (*"The grandmother sleeps in her house. Her brother sleeps in my house! Their dog eats dinner with our family."*) → PAUSA → el grupo repite el fragmento en coro → un estudiante AGREGA quien hace algo con la cosa o la persona de quien, y TU la tejes poniendo el posesivo correcto y marcandolo con el gesto de izquierda/derecha. Cada 2-3 pausas lanzas la pregunta de control (*"Whose house? HER house or HIS house?"*) y el coro responde. NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan el enredo de la familia completo.
-- **Meta en 1 linea (di al inicio) (7'):** *"By the end of this block, each of you will say 4 TRUE sentences about your people, with 4 different possessives: my, his, her, their."* Preparacion en parejas (4', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
+- **Historia interactiva (15'):** TU narras "la familia que se presta todo en el edificio", todo con posesivos. Narras 2-3 frases (*"The grandmother sleeps in her house. Her brother sleeps in my house! Their dog eats dinner with our family."*) → PAUSA → el grupo repite el fragmento en coro → un estudiante AGREGA quien hace algo con la cosa o la persona de quien, y TU la tejes poniendo el posesivo correcto y marcandolo con el gesto de izquierda/derecha. Cada 2-3 pausas lanzas la pregunta de control (*"Whose house? HER house or HIS house?"*) y el coro responde. NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan el enredo de la familia completo.
+- **Meta en 1 linea (di al inicio) (6'):** *"By the end of this block, each of you will say 4 TRUE sentences about your people, with 4 different possessives: my, his, her, their."* Preparacion en parejas (4', oral) → ejecucion ante el grupo → feedback: logro primero, forma despues.
 
 ## BLOQUE 3 (37') — Drill de pie + Simulacion
 

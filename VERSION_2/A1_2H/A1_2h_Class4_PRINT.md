@@ -5,19 +5,23 @@
 
 > **HOY SOLO: M2 Guia 1 p.21 reglas 1-3 — la pregunta con "what" y su contraste con la pregunta sencilla; las respuestas se dan con FRASE COMPLETA ("Yes, he can play soccer."). NO TOCAR AÚN: la respuesta corta "Yes, I can. / No, I can't." (M3, p.33-35) — eso es de Cl 5.**
 
-## BLOQUE 1 (22') — Apertura
+## BLOQUE 1 (23') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
-- **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 1; Cl N-7 aun no existe):
+- **Recuperacion (8'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 1; Cl N-7 aun no existe):
   - De **Cl 1** (marco afirmativo + vocabulario M1): *"One sentence: 'I can play ...' — a different sport from your neighbor."* — 4-5 estudiantes en cadena, con consonante final fuerte (truco 2 del M0).
   - De **Cl 3** (pronombres): senalas a companeros o al perro dibujado y la cadena responde con el pronombre + frase completa (*"They can play volleyball."*) — 4-5 estudiantes.
   - De **Cl 3** (negativa con pronombre): 3 estudiantes producen *"He can't play ..." / "She can't play ..."*.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
 - **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 3 (6'):** recoges los papeles (8 frases nombre → pronombre); 2 estudiantes leen 1 par cada uno. Anotas en libreta quien NO entrego.
+- **VATS — PRUDENCIA v1, dia 4 (5'), con su porque:**
+  - **Virtud (1'):** *"Hoy preguntamos con 'what'. Prudencia es preguntar antes de suponer: primero pregunto que puede hacer el otro, despues decido."*
+  - **Activar + Hablar (3'), DE PIE en parejas y luego en cadena:** en el tablero: *"What can you plan today?"* 30 segundos para pensar; cada uno responde en 1-2 frases (*"I can plan the video." · "I can plan the homework."*); luego la cadena cuenta lo del companero (*"She can plan the video."*). Tu escuchas y anotas para el error paper; aqui NO corriges.
+  - **Cierre (1'):** *"Ask first. Then plan."*
+- **Revision de tarea Cl 3 (4'):** recoges los papeles (8 frases nombre → pronombre); 2 estudiantes leen 1 par cada uno. Anotas en libreta quien NO entrego.
 
-## BLOQUE 2 (43') — M2 parte 2: la pregunta con "what"
+## BLOQUE 2 (42') — M2 parte 2: la pregunta con "what"
 
 - **Tablero verbatim (M2, Guia 1, p.21, reglas 1-3) (10'):**
 
@@ -37,7 +41,7 @@ A la pregunta con "what" NO: "What can Juan play?" -> "Juan can play soccer."
 
   Modela la pronunciacion "wat" (nunca "juat"). Coro 3x con 3 sujetos distintos.
 - **Historia interactiva (18'):** TU narras una historia absurda en la que alguien nuevo llega al edificio y NADIE sabe que puede jugar. Narras 2-3 frases → PAUSA → el grupo repite en coro → en cada pausa TU lanzas la pregunta del modulo (*"What can the new neighbor play?"*), el grupo la repite como pregunta y un estudiante AGREGA la respuesta con pronombre (*"He can play badminton."*), que TU tejes al siguiente tramo. Alterna preguntas sencillas (*"Can he play golf?"* → yes/no) con preguntas con *what* para que el contraste quede claro. NUNCA huecos para llenar. Cierre: 2-3 estudiantes recuentan la historia.
-- **Meta en 1 linea (di al inicio):** *"By the end of this block, each of you will ask 2 questions with WHAT and answer 2 with a pronoun."* Preparacion en parejas (6', oral) → ejecucion en cadena ante el grupo → feedback: logro primero, forma despues.
+- **Meta en 1 linea (di al inicio):** *"By the end of this block, each of you will ask 2 questions with WHAT and answer 2 with a pronoun."* Preparacion en parejas (5', oral) → ejecucion en cadena ante el grupo → feedback: logro primero, forma despues.
 
 ## BLOQUE 3 (37') — Drill de pie + Simulacion
 

@@ -3,6 +3,8 @@
 **Virtud:** PRUDENCIA (v2, dia 5 de 5) · **Modulo:** M16 I Like It! — Object Pronouns, COMPLETO (Libro A1 p.197-208, vocabulario p.198 + Guia 1 p.199 reglas 1-3 + Ejemplos p.201 + Practica Verbal 1-3 p.203-208)
 **Frase del Dia:** *"I listen to them before I answer him."*
 
+> **HOY SOLO: M16 completo (p.197-208) — los pronombres objeto (tabla de 7 pares + reglas 1-3, p.199). NO TOCAR AÚN: "have" con some / any (M17, p.209) — eso es de Cl 26.**
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
