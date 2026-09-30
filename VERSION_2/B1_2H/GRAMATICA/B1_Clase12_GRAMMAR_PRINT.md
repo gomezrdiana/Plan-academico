@@ -26,7 +26,7 @@
    - "Fix it out loud: 'She doesn't works late.'" (Cl 5)
    - "Question and short answer: 'Does he check the log every day?' — 'Yes, he does.'" (Cl 5)
 4. **Lectura del PASE recibido, en voz alta (2').** Lees los 3 errores literales del papel: *"These three broke the rule out loud last class. Tonight we give memory a map."*
-   > **Si dictaste tu la clase anterior (viernes y lunes, o jueves y viernes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.** En ese caso dictas los 10 items en vez de 8 y el Bloque 3 sube a 5 rotaciones.
+   > **Si dictaste tu la clase anterior (jueves y viernes, o viernes y lunes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.** En ese caso dictas los 10 items en vez de 8 y el Bloque 3 sube a 5 rotaciones.
 5. **Frase del Dia (3').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea: *"No rule for these verbs — but groups help memory, and READ looks the same and sounds different."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
 > **[VIRTUD] JUSTICIA — Cl 2 de 5. Tablero: "JUSTICE — DAY 2 OF 5".** (5', el ritual completo)
@@ -82,14 +82,15 @@ DICTATION — write the past + the group:
 1. **Tablero (1'):** `EXPENSE REPORT REVIEW — 1 EMPLOYEE (GUEST) — 1 FINANCE REVIEWER — EVERYONE ELSE OBSERVES`. Debajo escribes el reporte de gastos y ahi se queda:
 ```
 EXPENSE REPORT — 2-day business trip
- taxi to the airport ........ 45,000   (4:30 AM)
- hotel, 1 night ............ 180,000
- dinner with the client ..... 95,000   (receipt: YES)
- phone charger .............. 38,000
- lunch, day 2 ............... 30,000   (receipt: MISSING)
- printed samples ............ 60,000
+ taxi to the airport ........ $24.50   (4:30 AM)
+ hotel, 1 night ............. $89.00
+ dinner with the client ..... $46.35   (receipt: YES)
+ phone charger .............. $18.05
+ lunch, day 2 ............... $13.05   (receipt: MISSING)
+ printed samples ............ $32.40
+ AMOUNTS IN TWO GROUPS (A1 M5): $13.05 = "thirteen oh five"
 ```
-2. **Escenario profesional realista (solo tablero y sala), 2'.** El empleado vuelve de un viaje de trabajo de dos dias y la persona de finanzas revisa su reporte antes de reembolsar. **1 estudiante = guest / empleado:** justifica cada linea en pasado irregular y con la hora o el dia del viaje (*"I left at 4:30, so I took a taxi. I met the client that night and we ate at the hotel. I forgot my charger, so I bought one. I brought the samples back."*) — y **reconoce el recibo perdido** sin inventar (*"I lost that receipt. I paid 30,000 in cash."*). **1 estudiante rota como revisor de finanzas**, preciso y frio: *"Tell me about the taxi. · Why a new charger? · Who paid for the client's dinner? · Where is the receipt for lunch?"*. Los dos DE PIE a un lado y otro de una mesa imaginaria. **TU eres COACH desde afuera — NUNCA eres el empleado ni el revisor.** Si se congelan 15 seg, sueltas UN prompt (*"Tell him why you bought it"*) y te retiras.
+2. **Escenario profesional realista (solo tablero y sala), 2'.** El empleado vuelve de un viaje de trabajo de dos dias y la persona de finanzas revisa su reporte antes de reembolsar. **1 estudiante = guest / empleado:** justifica cada linea en pasado irregular y con la hora o el dia del viaje (*"I left at 4:30, so I took a taxi. I met the client that night and we ate at the hotel. I forgot my charger, so I bought one. I brought the samples back."*) — y **reconoce el recibo perdido** sin inventar (*"I lost that receipt. I paid thirteen oh five in cash."*). **1 estudiante rota como revisor de finanzas**, preciso y frio: *"Tell me about the taxi. · Why a new charger? · Who paid for the client's dinner? · Where is the receipt for lunch?"*. Los dos DE PIE a un lado y otro de una mesa imaginaria. **TU eres COACH desde afuera — NUNCA eres el empleado ni el revisor.** Si se congelan 15 seg, sueltas UN prompt (*"Tell him why you bought it"*) y te retiras.
 3. **Minimos por rotacion:** el empleado justifica las 6 lineas con **al menos 6 irregulares de 4 grupos distintos**, dice una vez *"I read the travel policy before I left"* con el sonido "red", reconoce el recibo perdido, y responde 3 preguntas del revisor.
 4. **OBSERVERS ACTIVOS con ficha en su propio papel (la dibujan en 30 seg):** cinco columnas `G1 · G2 · G3 · G4 · G5` — **escriben cada irregular que oigan en su grupo**, mas `-ED WHERE IT DOES NOT GO` y 1 pregunta. Al cerrar cada rotacion cantan: *"two G1, five G2, two G3, three G4, four G5 — one 'buyed'."* Si una columna queda vacia, se dice en el debrief.
 5. **4 rotaciones (~7' cada una)**, empleado y revisor nuevos en cada una; el revisor cambia de perfil (amable, con prisa, desconfiado, nuevo en el cargo). Entre rotaciones, 45 seg de cadena rapida de pie: *"spend-spent · pay-paid · buy-bought · read-read."*
@@ -118,7 +119,8 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     work, study or family: where you went, how you got there, what you
     bought, what you spent, who you met. At least 10 irregular past verbs
     from at least 4 groups. Close with the Phrase of the Day.
-    Send it TODAY to the cohort group. Label: B1-2H-VIDEO-24.
+    Send it TODAY to the cohort WhatsApp group. Label: B1-2H-VIDEO-24.
+    Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **El video es DIARIO: no es la tarea de una pista ni un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
@@ -146,7 +148,7 @@ LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el contenido de manana.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche ☐ ~87% DE PIE confirmado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~87% DE PIE confirmado
 
 [PAGEBREAK]
 
@@ -176,6 +178,7 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - **Que cambio para 120 min:** la fuente reparte 110' (20/40/35/15); aqui 22/45/38/15 = 120. Los 10 minutos extra fueron **a produccion**: +2' al chequeo de portafolio con lista, +5' al Bloque 2 (el **dictado de los Ejemplos**, que la fuente no tenia) y +3' al Bloque 3 (una **cuarta rotacion**).
 - **DE PIE 87%:** Bloques 1, 2 y 3 completos (105 de 120). El dictado se escribe de pie junto al tablero.
 - **B3 REDISENADO POR ANTI-DUPLICADO.** La fuente 4H de Grammar Cl 12 usaba **"PROJECT DEBRIEF — What happened?"** (alguien cuenta al lead el cierre de un proyecto) y la de Conv Cl 12 usa **"START-OF-WEEK TEAM STAND-UP"** (alguien cuenta al lead su semana): el mismo guion de reporte de equipo. Aqui el escenario es **EXPENSE REPORT REVIEW AFTER A BUSINESS TRIP**: cambia el registro (rendicion de cuentas con dinero, no reunion de equipo), cambian los roles (empleado y revisor de finanzas), cambia la meta (justificar cada linea y declarar un recibo perdido) y cambia la carga: el reporte del tablero obliga a los irregulares de dinero y viaje (went, took, left, paid, spent, bought, forgot, lost, met, brought) y a READ, y los observers **escriben cada verbo en su grupo**. Ni el titulo, ni los roles, ni el guion, ni la carga se repiten.
+- **Cifras del reporte de gastos en dolares y centavos (revision 30/09):** la version anterior usaba miles de pesos (45,000, 180,000), que el libro no enseña (A1 M5 llega a cien, con precios en dos grupos); asi el empleado dice los montos con la mecanica del libro (*"thirteen oh five"*), igual que en Conv Cl 3 y Grammar Cl 3.
 - **Tarea por pista:** Gramatica deja la tarea ESCRITA (15 frases, 3 por grupo) y recuerda el video diario (No. 24). Ayer Conversacion dejo SOLO el video (No. 23).
 - **Recuperacion por pista:** N-3 = **Grammar Cl 9** · N-7 = **Grammar Cl 5**. Sin mapa semanal de tickets: NO se citan tickets.
 - **Virtud:** JUSTICIA, Cl 2 de 5 (Cl 11-15), calendario absoluto. Angulo de Gramatica: **honestidad con lo que es de todos** (liderazgo etico: el recibo perdido se declara) y ayuda al que va mas lento en el group walk. Conversacion trabajo **escuchar completo**.

@@ -16,8 +16,8 @@
 
 **Objective: reactivate the future and the time prepositions, and open frequency orally.**
 
-1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Anota la columna **"llegada tarde"**. No re-explicas la regla: se dijo una vez en la Cl 1. Hoy solo se registra.
-2. **Chequeo de portafolio, publico, con lista en mano (4').** Di: *"I am not asking who made the video. I am asking who SENT it."* Nombre por nombre marcas ENVIO / NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar en 5 segundos**, con el error real de SU video: *"'watches' came out 'watchs' — the -ez sound."* Al que no envio: *"You send it TODAY together with today's video. Two videos, same day. The list goes to coordination tonight."* Sin discutir, sin hablar de notas ni de la garantia.
+1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Anota la columna **"llegada tarde"** (despues de las 6:45 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). No re-explicas la regla: se dijo una vez en la Cl 1. Hoy solo se registra.
+2. **Chequeo de portafolio, publico, con lista en mano (4').** Di: *"I am not asking who made the video. I am asking who SENT it."* Nombre por nombre marcas ENVIO / NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar en 5 segundos**, con el error real de SU video: *"'watches' came out 'watchs' — the -ez sound."* Al que no envio: *"You send it TODAY together with today's video. Two videos, same day. The list goes to coordination tonight."* Sin discutir; si preguntan por notas o por la garantia: *"That is coordination, not me."*
 3. **Recuperacion espaciada (8', oral, DE PIE, en cadena, sin cuaderno).** **N-3 = Conv Cl 4** (will mas in / on / at). N-7 de esta pista todavia no existe, asi que el segundo bloque de disparadores sale del PASE que recibiste. Errores oidos al tablero **ANONIMOS**, coro 2x, y 1 minuto de re-produccion correcta:
    - "From Conv Cl 4: one real plan for next week — 'I WILL...'."
    - "IN, ON or AT: ___ the morning? ___ the first day? ___ nine o'clock?" (Cl 4)
@@ -88,7 +88,8 @@ an adverb ("I am usually...", "I am never..."); (c) three sentences about a
 coworker (he / she + adverb + verb-S); (d) MY STORY piece 6 — the habit you
 ALWAYS keep and the thing you NEVER do, to build your English.
 Close with the Phrase of the Day.
-Send it to the cohort group the SAME day. Label: B1-2H-CONV-7.
+Send it to the cohort WhatsApp group the SAME day. Label: B1-2H-CONV-7.
+Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **La tarea de hoy es SOLO el video** — la tarea escrita de este contenido la asigna el profe de Gramatica la proxima noche. No pidas ademas un papel: las tareas de las dos pistas NO se duplican.
 > Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
@@ -125,7 +126,7 @@ TAREA ESCRITA: la asignas TU. Yo hoy deje SOLO el video.
 Firma Conv: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ **Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto** ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado
 
 [PAGEBREAK]
 

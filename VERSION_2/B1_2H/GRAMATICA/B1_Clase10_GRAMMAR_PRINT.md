@@ -20,19 +20,19 @@
 
 1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de 6:45 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra.
 2. **Chequeo de portafolio con lista en mano (4').** Ya viste los videos antes de entrar. Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'they helped I' — 'they helped ME'"*). Al que no envio: *"You send yesterday's video TODAY, together with today's. Two videos, same day. The list goes to coordination tonight."* Sin discusion.
-3. **Recuperacion espaciada DE TU PISTA (8', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 7** (posicion del adverbio: antes del verbo principal, despues de BE) · N-7 = **Grammar Cl 3** (should con horas y precios). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
+3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 7** (posicion del adverbio: antes del verbo principal, despues de BE) · N-7 = **Grammar Cl 3** (should con horas y precios). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
    - "Adverb + verb: 'She often calls; we sometimes wait.'" (Cl 7)
    - "With BE: 'They ARE always on time.' — fix 'she always is late'." (Cl 7)
    - "Advice with a number: 'You should send it before 5.'" (Cl 3)
-   - "A price and a time out loud: 'It costs thirty thousand; we open at eight.'" (Cl 3)
+   - "A price and a time out loud: 'It costs seven thirty-five; we open at eight.'" (Cl 3)
 4. **Lectura del PASE recibido, en voz alta (3'). Hoy tiene dos partes:** los 3 errores literales y **el reporte del hito** (cuantos quedaron grabados y cual de las 6 preguntas se cayo mas). Di: *"Yesterday you sat in an interview in English. Tonight we fix what fell, in writing, and we do the one thing almost nobody does after an interview."* **NO repitas la entrevista y NO comentes desempeños individuales ni resultados.** Si preguntan como les fue o si cuenta para algo: *"That is coordination, not me."*
-   > **Si dictaste tu la clase anterior (viernes y lunes, o jueves y viernes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.** En ese caso dictas los 10 items del libro en vez de 8 y el Bloque 3 sube a 5 rotaciones.
+   > **Si dictaste tu la clase anterior (jueves y viernes, o viernes y lunes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.** En ese caso dictas los 10 items del libro en vez de 8 y el Bloque 3 sube a 5 rotaciones.
 5. **Frase del Dia (3').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea: *"Subject before the verb, object after it — and after a preposition too."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
-> **[VIRTUD] TEMPLANZA — Cl 5 de 5. CIERRA el bloque. Tablero: "TEMPERANCE — DAY 5 OF 5 — CLOSING".** (3', el ritual completo)
+> **[VIRTUD] TEMPLANZA — Cl 5 de 5. CIERRA el bloque. Tablero: "TEMPERANCE — DAY 5 OF 5 — CLOSING".** (5', el ritual completo)
 > **Por que:** templanza es lo que se hace DESPUES, cuando ya nadie esta mirando. La entrevista termino ayer; el que manda la nota de seguimiento hoy es el que se queda en la cabeza de quien decide. Eso no es talento: es disciplina.
 > **En el aula hoy:** terminar lo que se empezo. Se escribe la nota, hoy, a mano, completa.
-> **V (1'):** *"Day five closes here. Temperance is what you do after the hard part is over."* · **A (1'):** pregunta, 30 seg de pensar: *"What is one thing you finished this month that nobody asked you to finish?"* · **T (1'):** cadena de pie, cada uno 1-2 frases con un pronombre objeto; escuchas y anotas, NO corriges aqui · **S (30''):** 2-3 al grupo y cierras: *"Anyone can start. Temperance is the last ten percent."*
+> **V (1'):** *"Day five closes here. Temperance is what you do after the hard part is over."* · **A (1'):** pregunta, 30 seg de pensar: *"What is one thing you finished this month that nobody asked you to finish?"* · **T (2'):** cadena de pie, cada uno 1-2 frases con un pronombre objeto; escuchas y anotas, NO corriges aqui · **S (1'):** 2-3 al grupo y cierras: *"Anyone can start. Temperance is the last ten percent."*
 > **Si alguien pregunta que tiene que ver con ingles:** *"Everything. On the day you need this language, what fails is not vocabulary: it is nerve, or consistency, or preparation. That is what we train here."*
 
 ## BLOQUE 2 — SELLAR M16 EN PAPEL Y CERRAR EL HITO (45') — DE PIE los primeros 33'
@@ -116,7 +116,8 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     A REFERENCE" — speak as if you were your own former manager, talking
     about you in the third person: "I hired her... I trained him..."
     Close with the Phrase of the Day.
-    Send it TODAY to the cohort group. Label: B1-2H-VIDEO-20.
+    Send it TODAY to the cohort WhatsApp group. Label: B1-2H-VIDEO-20.
+    Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **El video es DIARIO: no es la tarea de una pista ni un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
@@ -147,7 +148,7 @@ LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el contenido de manana.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ **Notas de seguimiento del hito recogidas (TODAS) y contadas en el reporte** ☐ Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche ☐ Retrospectiva de cierre de virtud hecha ☐ ~78% DE PIE confirmado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ **Notas de seguimiento del hito recogidas (TODAS) y contadas en el reporte** ☐ Retrospectiva de cierre de virtud hecha ☐ ~78% DE PIE confirmado
 
 [PAGEBREAK]
 

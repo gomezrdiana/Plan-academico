@@ -18,19 +18,19 @@
 
 1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de 6:45 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
 2. **Chequeo de portafolio con lista en mano (4').** Ya viste los videos antes de entrar. Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'every days' — 'every DAY'"*). Al que no envio: *"You send yesterday's video TODAY, together with today's. Two videos, same day. The list goes to coordination tonight."* Sin discusion.
-3. **Recuperacion espaciada DE TU PISTA (8', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Conv Cl 6** (el dia de trabajo en present simple, las tres formas y la -s de tercera persona) · N-7 = **Conv Cl 2** (los dos pasados en negativo y pregunta). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
+3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Conv Cl 6** (el dia de trabajo en present simple, las tres formas y la -s de tercera persona) · N-7 = **Conv Cl 2** (los dos pasados en negativo y pregunta). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
    - "Three shapes, fast: 'She works... She doesn't work... Does she work?'" (Cl 6)
-   - "Fix it out loud: 'Does she works on Fridays?'" (Cl 6)
+   - "Fix it out loud: 'Does she works on weekends?'" (Cl 6)
    - "One thing you HAVEN'T done YET this year, and one you DIDN'T do last year." (Cl 2)
    - "Short answer only: 'Have you sent the report?'" (Cl 2)
 4. **Lectura del PASE recibido, en voz alta (3').** Lees los 3 errores literales del papel: *"These three came out of your writing last class. Tonight the same precision moves to ownership."*
    > **Si dictaste tu la clase anterior (viernes y lunes, o jueves y viernes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.** En ese caso sumas las 2 rotaciones extra del Bloque 3 que estan en el Plan B.
 5. **Frase del Dia (3').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea, sin clase de gramatica: *"Match the OWNER, not the object. People take 's; things take 'of'."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
-> **[VIRTUD] TEMPLANZA — Cl 4 de 5. Tablero: "TEMPERANCE — DAY 4 OF 5".** (3', el ritual completo)
+> **[VIRTUD] TEMPLANZA — Cl 4 de 5. Tablero: "TEMPERANCE — DAY 4 OF 5".** (5', el ritual completo)
 > **Por que:** templanza es medida, y tambien medida de lo que uno reclama. El profesional templado no se atribuye el trabajo de otro ni entrega el propio sin nombre. Eso se oye en el idioma: *her* decision, no *my* decision.
 > **En el aula hoy:** nombrar al dueño correcto de cada cosa, sin apropiarse de nada y sin regalar nada.
-> **V (1'):** *"Day four. Measured means we name what is ours and claim nothing that isn't."* · **A (1'):** pregunta, 30 seg de pensar: *"What is ONE thing in this level that is truly YOURS — your habit, your goal — and one thing that is someone else's merit?"* · **T (1'):** cadena de pie, cada uno 1-2 frases con un posesivo; escuchas y anotas, NO corriges aqui · **S (30''):** 2-3 al grupo y cierras: *"One more day of temperance, and my next class closes it."*
+> **V (1'):** *"Day four. Measured means we name what is ours and claim nothing that isn't."* · **A (1'):** pregunta, 30 seg de pensar: *"What is ONE thing in this level that is truly YOURS — your habit, your goal — and one thing that is someone else's merit?"* · **T (2'):** cadena de pie, cada uno 1-2 frases con un posesivo; escuchas y anotas, NO corriges aqui · **S (1'):** 2-3 al grupo y cierras: *"One more day of temperance, and my next class closes it."*
 > **Si alguien pregunta que tiene que ver con ingles:** *"Everything. On the day you need this language — an interview, a client, a flight — what fails is not vocabulary: it is nerve, or consistency, or preparation. That is what we train here."*
 
 ## BLOQUE 2 — LO QUE ES TUYO, EN VOZ ALTA (45')
@@ -59,7 +59,7 @@ Match the OWNER, not the object:  a woman's report -> HER report.
 **Objective: hold the three forms under pressure in a real handover, where naming the wrong owner has a cost.**
 
 1. Tablero: `OFFICE INVENTORY HANDOVER — 1 GUEST — 1 INCOMING COLLEAGUE — EVERYONE ELSE OBSERVES`
-2. **Escenario profesional realista (solo tablero y sala), 2'.** Alguien sale de vacaciones o cambia de area y entrega el inventario de un escritorio o de una sala compartida al colega que lo reemplaza, diciendo de quien es cada cosa y que hay que devolver a quien. **1 estudiante = guest**: entrega el inventario nombrando dueños (*"This is the manager's folder. That's her charger — give it back on Friday. The cover of the report is torn, so don't file it yet."*). **1 estudiante rota como colega que entra** y confirma o pregunta por lo que no le quedo claro (*"Is this the analyst's laptop or yours? Whose keys are these — the supervisor's? What is the code of the cabinet?"*). **TU eres COACH desde afuera — NUNCA juegas guest ni colega.** Si se congelan 15 seg, sueltas UN prompt (*"Ask who that folder belongs to"*) y te retiras.
+2. **Escenario profesional realista (solo tablero y sala), 2'.** Alguien sale de vacaciones o cambia de area y entrega el inventario de un escritorio o de una sala compartida al colega que lo reemplaza, diciendo de quien es cada cosa y que hay que devolver a quien. **1 estudiante = guest**: entrega el inventario nombrando dueños (*"This is the manager's folder. That's her charger — give it back tomorrow. The cover of the report is torn, so don't file it yet."*). **1 estudiante rota como colega que entra** y confirma o pregunta por lo que no le quedo claro (*"Is this the analyst's laptop or yours? Whose keys are these — the supervisor's? What is the code of the cabinet?"*). **TU eres COACH desde afuera — NUNCA juegas guest ni colega.** Si se congelan 15 seg, sueltas UN prompt (*"Ask who that folder belongs to"*) y te retiras.
 3. **OBSERVERS ACTIVOS con ficha en su propio papel (la dibujan ellos en 30 seg):** tres columnas, `ADJECTIVE` · `'S (person)` · `OF (thing)`. **Una raya por cada forma que oigan** en la columna que corresponda, mas 1 error y 1 pregunta al final. Al cerrar cada rotacion cantan el conteo: *"six adjectives, four 's, two of."*
 4. **Minimos por rotacion:** el guest entrega 8 objetos nombrando dueño (minimo 3 adjetivos + 3 con 's + 2 con of) + responde 3 preguntas del colega que entra + corrige en voz alta 1 dueño mal atribuido.
 5. **4 rotaciones (~8' cada una)**, guest y colega nuevos en cada una, el espacio cambia (escritorio compartido, sala de reuniones, bodega de equipos, recepcion). Entre rotaciones, 45 seg de cadena rapida de pie: *"manager -> the manager's folder; report -> the cover of the report."*
@@ -84,15 +84,16 @@ Content: "A TOUR OF MY WORKPLACE" — walk me through the space and say who
 owns what: at least 4 possessive adjectives, 3 with 's for real people,
 and 3 with OF for things. Then your three WHAT IS MINE lines.
 Close with the Phrase of the Day.
-Send it TODAY to the cohort group. Label: B1-2H-VIDEO-17.
+Send it TODAY to the cohort WhatsApp group. Label: B1-2H-VIDEO-17.
+Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **La tarea de hoy es SOLO el video** — la tarea escrita de este modulo la asigna el docente de Gramatica manana. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
 4. **PASE al docente de GRAMATICA (Grammar Cl 9) — se lo dejas ESTA MISMA NOCHE**, en papel en la carpeta del cohorte o por mensaje escrito directo por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase de manana la dicta otra persona que no estuvo hoy.** Copia este texto y llenalo antes de salir:
 ```
 PASE Conv Cl 9 -> Grammar Cl 9 — del docente de CONVERSACION al de GRAMATICA
-Virtud: TEMPLANZA, Cl 4 de 5 (Cl 6-10). Manana es Cl 5 de 5: CIERRA la virtud
-en tu pista, y la guia te trae la retrospectiva de cierre de bloque.
+Virtud: TEMPLANZA, Cl 4 de 5 (Cl 6-10). Tu Grammar Cl 9 tambien es Cl 4 de 5;
+la cierra la Cl 10 de cada pista, con retrospectiva de cierre de bloque.
 LO QUE SALIO ORAL HOY: las tres formas de posesion (adjetivo · 's de persona ·
 of de cosa) sobre el lugar de trabajo real. Modulo A1 M15 Guia 1 p.189 + M30
 Guia 1 p.335.
@@ -116,7 +117,7 @@ LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo modulo.
 Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ **Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto** ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche ☐ Pieza WHAT IS MINE producida por todos ☐ Hito de Cl 10 anunciado en UNA frase
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ Pieza WHAT IS MINE producida por todos ☐ Hito de Cl 10 anunciado en UNA frase
 
 [PAGEBREAK]
 

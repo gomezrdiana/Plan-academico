@@ -82,7 +82,9 @@ straight through, NO reading, NO script on camera.
 Content: your MY STORY piece 3 — "My plan for this level": 4 things you
 WILL do and 1 thing you WON'T do, each one pinned with at, on or in
 (use all three), and say every hour out loud in two groups.
-Close with the Phrase of the Day. Send it to the cohort group the SAME day.
+Close with the Phrase of the Day.
+Send it to the cohort WhatsApp group the SAME day.
+Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **La tarea de hoy es SOLO el video** — la tarea ESCRITA de este contenido la asigna el docente de Gramatica. No pidas ademas un papel: **las tareas de las dos pistas NO se duplican.**
 > Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
@@ -110,7 +112,7 @@ LA FRASE DEL DIA NO SE TRASPASA: cada clase estrena la suya. No repitas la mia.
 Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ **Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto** ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado
 
 [PAGEBREAK]
 

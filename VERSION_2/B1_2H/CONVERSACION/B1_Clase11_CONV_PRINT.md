@@ -92,7 +92,8 @@ Content: "WHAT I DID THIS WEEK — AND WHO HELPED ME". At least 10 regular
 past verbs (some /t/, some /d/, at least 2 /id/), a time marker in every
 sentence, and name 2 people by their role who helped you. Then your two
 lines of "A FIRST TIME THAT SHAPED ME". Close with the Phrase of the Day.
-Send it TODAY to the cohort group. Label: B1-2H-VIDEO-21.
+Send it TODAY to the cohort WhatsApp group. Label: B1-2H-VIDEO-21.
+Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **La tarea de hoy es SOLO el video** — la tarea escrita de este modulo la asigna el docente de Gramatica manana. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
@@ -125,7 +126,7 @@ LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo modulo.
 Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto ☐ Cuadernos de Grammar Cl 10 marcados SI / NO ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche ☐ Pieza "A FIRST TIME THAT SHAPED ME" dicha por todos ☐ Virtud JUSTICIA abierta
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ Cuadernos de Grammar Cl 10 marcados SI / NO ☐ Pieza "A FIRST TIME THAT SHAPED ME" dicha por todos ☐ Virtud JUSTICIA abierta
 
 [PAGEBREAK]
 

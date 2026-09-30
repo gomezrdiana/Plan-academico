@@ -81,7 +81,8 @@ speaking, straight through, NO reading, NO script on camera.
 Content: your MY STORY piece 1 — "Where I am now": 3 things you HAVE
 done, 3 things you HAVEN'T done YET, and how you will close them.
 Close with the Phrase of the Day.
-Send it to the cohort group the SAME day. Label: B1-2H-VIDEO-3.
+Send it to the cohort WhatsApp group the SAME day. Label: B1-2H-VIDEO-3.
+Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **La tarea de hoy es SOLO el video** — la tarea ESCRITA de este contenido la asigna el docente de Gramatica. No pidas ademas un papel: **las tareas de las dos pistas NO se duplican.**
 > Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
@@ -106,7 +107,7 @@ LA FRASE DEL DIA NO SE TRASPASA: cada clase estrena la suya. No repitas la mia.
 Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ **Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto** ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado
 
 [PAGEBREAK]
 

@@ -130,7 +130,8 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     through, NO reading, NO script. Content: your own MY PLAN TODAY,
     hour by hour, out loud, from the moment you wake up to the moment
     you go to bed, with two things you WON'T do. Close with the Phrase
-    of the Day. Send it TODAY to the cohort group.
+    of the Day. Send it TODAY to the cohort WhatsApp group.
+    Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **El video es DIARIO: no es la tarea de una pista, ni un premio, ni un reemplazo del papel.** Hoy se entregan las dos cosas. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
@@ -152,16 +153,14 @@ Videos que NO llegaron: __________________________________________________
 YA QUEDO HECHO HOY, NO LO REPITAS: el paradigma de will · Ejercicios 1 p.76 ·
 MY PLAN TODAY · el zone walk de tres preposiciones · la simulacion SERVICE
 SCHEDULING CALL (no repitas ese titulo ni su guion).
-TAREA QUE DEJE: 12 frases escritas mas el video con su plan del dia. NO pidas
-otro papel encima: las pistas no duplican tarea. La de Conversacion es SOLO el video.
-CONV CL 5 ARRANCA: A1 M8 "Where Do We Eat?" (presente simple, do/does) mas
-A1 M9 "He Eats in the Restaurant" (tercera persona -s). Verifica las paginas
-contra el libro antes de citarlas.
+TAREA QUE DEJE: 12 frases mas el video. Tu tarea es SOLO el video: no duplicar.
+CONV CL 5 ARRANCA: A1 M8 (presente simple, do/does) mas A1 M9 (tercera
+persona -s).
 LA FRASE DEL DIA NO SE TRASPASA: cada clase estrena la suya. No repitas la mia.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ **Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto** ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche ☐ ~87% DE PIE confirmado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~87% DE PIE confirmado
 
 [PAGEBREAK]
 

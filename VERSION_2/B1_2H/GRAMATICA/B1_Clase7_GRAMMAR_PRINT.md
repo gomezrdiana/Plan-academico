@@ -18,8 +18,8 @@
 
 **Objective: wake the future and the time prepositions, and point straight at tonight's one problem: position.**
 
-1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Anota la columna **"llegada tarde"**. No re-explicas la regla ni las condiciones de la garantia: se dijeron una vez en la Cl 1. Hoy solo se registra.
-2. **Chequeo de portafolio, publico, con lista en mano (4').** Di: *"I am not asking who made the video. I am asking who SENT it."* Nombre por nombre marcas ENVIO / NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar en 5 segundos**, con el error real de SU video: *"'I check always' — the adverb went after the verb, three times."* Al que no envio: *"You send it TODAY together with today's video. Two videos, same day. The list goes to coordination tonight."* Sin discutir, sin hablar de notas ni de la garantia.
+1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Anota la columna **"llegada tarde"** (despues de las 6:45 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). No re-explicas la regla ni las condiciones de la garantia: se dijeron una vez en la Cl 1. Hoy solo se registra.
+2. **Chequeo de portafolio, publico, con lista en mano (4').** Di: *"I am not asking who made the video. I am asking who SENT it."* Nombre por nombre marcas ENVIO / NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar en 5 segundos**, con el error real de SU video: *"'I check always' — the adverb went after the verb, three times."* Al que no envio: *"You send it TODAY together with today's video. Two videos, same day. The list goes to coordination tonight."* Sin discutir; si preguntan por notas o por la garantia: *"That is coordination, not me."*
 3. **Recuperacion espaciada (8', oral, DE PIE, en cadena, sin cuaderno).** **N-3 = Grammar Cl 4** (will mas in / on / at). N-7 de esta pista todavia no existe, asi que el segundo bloque de disparadores sale del PASE que recibiste. Errores oidos al tablero **ANONIMOS**, coro 2x, y 1 minuto de re-produccion correcta:
    - "From Grammar Cl 4: a plan plus a time — 'I will finish it ON the last day.'"
    - "IN / ON / AT: ___ 2026? ___ the afternoon? ___ six o'clock?" (Cl 4)
@@ -27,7 +27,7 @@
    - "Reciclo de Cl 6: say it with the right sound — he / watch · she / fix · it / cost. And: 'he ___ two clients' (HAS)."
    - Del PASE: los 3 errores literales que te dejaron por escrito anoche.
 4. **Lectura del PASE recibido, en voz alta (3').** *"These came out of your mouths last night. Tonight we don't discuss the meaning of the words — we fix WHERE they go, on paper."*
-   > **Si dictaste tu la clase anterior (viernes y lunes, o jueves y viernes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.**
+   > **Si dictaste tu la clase anterior (jueves y viernes, o viernes y lunes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.**
 5. **Frase del Dia (6' incluyendo el VATS).** Escrita en el tablero ANTES de que entren. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en 1 linea: *"Same words, different place, different English."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en oracion nueva propia.
 
 > **[VATS] RITUAL DE VIRTUD (5', DE PIE — no se recorta). TEMPLANZA ya se presento en la Cl 6: hoy NO se presenta, se aplica.**
@@ -115,7 +115,8 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     3 minutes, speaking, straight through, NO reading, NO script.
     Content: "How often my team does five things" — third person plus
     adverbs, and two sentences with BE. Close with the Phrase of the Day.
-    Send it TODAY to the cohort group. Label: B1-2H-GRAMMAR-7.
+    Send it TODAY to the cohort WhatsApp group. Label: B1-2H-GRAMMAR-7.
+    Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **El video es DIARIO: no es la tarea de una pista ni un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
@@ -148,7 +149,7 @@ las pistas no duplican tarea. Tu tarea es el video diario.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ **Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto** ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche ☐ ~87% DE PIE confirmado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~87% DE PIE confirmado
 
 [PAGEBREAK]
 

@@ -26,7 +26,7 @@
    - "One thing you WON'T do at ten tonight — with AT." (Cl 4)
    - "Question and short answer: 'Will you send it on the 15th?' — 'Yes, I will.'" (Cl 4)
 4. **Lectura del PASE recibido, en voz alta (2').** Lees los 3 errores literales del papel: *"These three came out of your mouths last class. Tonight we write them fair — every verb with the ending it deserves."*
-   > **Si dictaste tu la clase anterior (viernes y lunes, o jueves y viernes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.** En ese caso dictas los 10 items del libro en vez de 8 y el Bloque 3 sube a 5 rotaciones.
+   > **Si dictaste tu la clase anterior (jueves y viernes, o viernes y lunes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.** En ese caso dictas los 10 items del libro en vez de 8 y el Bloque 3 sube a 5 rotaciones.
 5. **Frase del Dia (3').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea: *"Three different sounds, one spelling: ED."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
 > **[VIRTUD] JUSTICIA — Cl 1 de 5. ABRE el bloque. Tablero: "JUSTICE — DAY 1 OF 5 — OPENING".** (5', el ritual completo)
@@ -117,7 +117,8 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     PROBLEM AT WORK" — what happened, step by step, with the time of each
     step, and one thing that failed on YOUR side. At least 10 regular past
     verbs. Close with the Phrase of the Day.
-    Send it TODAY to the cohort group. Label: B1-2H-VIDEO-22.
+    Send it TODAY to the cohort WhatsApp group. Label: B1-2H-VIDEO-22.
+    Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **El video es DIARIO: no es la tarea de una pista ni un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
@@ -138,15 +139,15 @@ YA QUEDO HECHO HOY, NO LO REPITAS: la tabla de familias y sonidos · el
 dictado de los Ejemplos p.126 · el drill de deletreo · el zone walk por
 familia · la simulacion PACKAGE TRACE AT THE COURIER COUNTER (no repitas ese
 titulo ni su guion) · chequeo de portafolio (videos que NO llegaron: ______).
-TU CLASE ABRE LOS IRREGULARES (went, came, took...): arranca con una ronda
-oral de 3 acciones regulares reales con marcador, y salta a la memoria.
+TU CLASE ABRE LOS IRREGULARES (went, came, took...): tu guia trae el puente
+("last class every past verb took ED; tonight the most common ones break it").
 TAREA QUE DEJE: 15 frases escritas mas el video No. 22, ambas antes de las
 6:30 PM de manana. NO pidas otro papel encima: las pistas no duplican tarea.
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el contenido de manana.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche ☐ Virtud JUSTICIA abierta ☐ ~87% DE PIE confirmado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ Virtud JUSTICIA abierta ☐ ~87% DE PIE confirmado
 
 [PAGEBREAK]
 

@@ -126,7 +126,8 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     through, NO reading, NO script. Content: five recommendations you
     would give a colleague, each with a time or a price said out loud in
     two groups. Close with the Phrase of the Day. Send it TODAY to the
-    cohort group.
+    cohort WhatsApp group.
+    Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **El video es DIARIO: no es la tarea de una pista, ni un premio, ni un reemplazo del papel.** Hoy se entregan las dos cosas. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
@@ -146,8 +147,7 @@ Videos que NO llegaron: __________________________________________________
 YA QUEDO HECHO HOY, NO LO REPITAS: el paradigma de should · Ejercicios 1 p.46 ·
 las dos practicas de numeros y horas · la simulacion RELOCATION DECISION
 MEETING (no repitas ese titulo ni su guion).
-TAREA QUE DEJE: 12 frases escritas mas el video. NO pidas otro papel encima:
-las pistas no duplican tarea. La de Conversacion es SOLO el video.
+TAREA QUE DEJE: 12 frases mas el video. Tu tarea es SOLO el video: no duplicar.
 CONV CL 4 ARRANCA: A1 M6 "What Time Will You Eat Lunch?" (p.71-74, will) mas
 las preposiciones de tiempo at / on / in. will se trata como should y can: es
 el mismo marco que hoy quedo sellado — apoyate en eso.
@@ -155,7 +155,7 @@ LA FRASE DEL DIA NO SE TRASPASA: cada clase estrena la suya. No repitas la mia.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ **Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto** ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche ☐ ~87% DE PIE confirmado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~87% DE PIE confirmado
 
 [PAGEBREAK]
 
@@ -182,10 +182,8 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
 - **De donde se deriva:** `VERSION_2/B1_4H/GRAMATICA/B1_Clase3_GRAMMAR_PRINT.md`. **Cambios para 120 min:** los 10 minutos extra van a PRODUCCION, no a explicacion — **+14' de escritura real** (Ejercicios 1 p.46 dictado y corregido) y **+6' de las dos practicas cronometradas del libro**, recortando tablero explicativo y el zone walk de 12' a 8'; **+3' al Bloque 3** como 4a rotacion. Mas VATS de 6 min con su porque, chequeo de portafolio con lista en mano y una mejora dicha por video, due **6:30 PM** (nunca 7:00) y ficha de observer con las cuatro casillas del paradigma.
-- **Contenido nuevo frente a la fuente 4H:** el 4H se queda en el paradigma mas drills orales. Esta guia agrega lo que el libro si trae y el 4H no usaba: **Ejercicios 1 p.46** ("Ahora es tu turno...") y las **dos practicas cronometradas** (p.65 numeros, p.67 horas). Eso es lo que justifica que exista la pista de Gramatica: aqui se escribe y se cronometra. **Paginacion corregida: M4 = p.41-46 y M5 = p.61-67** (el 4H citaba p.41-44 y p.61-64): Guia 1 p.42-43 · Ejemplos p.44-45 · Ejercicios 1 p.46 · Guia 1 de M5 p.63 · practicas p.65 y p.67.
-- **Miles y millones:** el libro llega a cien, con horas y precios en dolares y centavos; **no se ensenan cantidades grandes.** La guia 4H de Conv Cl 3 usa precios en miles de pesos, fuera del libro; ya quedo corregido en la nocturna de Conv Cl 3. **Pendiente coordinacion: corregirlo tambien en el archivo 4H.**
+- **Contenido nuevo frente a la fuente 4H:** el 4H se queda en el paradigma mas drills orales. Esta guia agrega lo que el libro si trae y el 4H no usaba: **Ejercicios 1 p.46** y las **dos practicas cronometradas** (p.65 numeros, p.67 horas). **Paginacion corregida: M4 = p.41-46 y M5 = p.61-67** (el 4H citaba p.41-44 y p.61-64): Guia 1 p.42-43 · Ejemplos p.44-45 · Ejercicios 1 p.46 · Guia 1 de M5 p.63 · practicas p.65 y p.67.
+- **Miles y millones:** el libro llega a cien, con horas y precios en dolares y centavos; **no se ensenan cantidades grandes.** **Pendiente coordinacion:** la guia 4H de Conv Cl 3 usa miles de pesos (ya corregido en la nocturna).
 - **Virtud:** PRUDENCIA, **Cl 3 de 5 de esta virtud** (Cl 1-5 de cada pista), calendario absoluto por numero de clase de la pista. **Recuperacion:** N-3 y N-7 de la pista no existen todavia (Gramatica tiene Cl 1 y Cl 2): se recupera Gramatica Cl 1-2 mas los 3 errores del PASE de Conversacion Cl 3. Sin mapa semanal → NO se citan tickets.
-- **ANTI-DUPLICADO — por que el B3 de hoy es DISTINTO del de Conversacion Cl 3:** ayer fue **TRAVEL ADVISORY DESK** (mostrador de servicio, cliente EXTERNO que pide recomendacion, advisor que cotiza, viajero que decide). Hoy es **RELOCATION DECISION MEETING**: reunion INTERNA entre colegas que cierran una decision de la empresa, sin cliente y sin mostrador, y la carga obligatoria son las **cuatro formas del paradigma** — incluida *"where should...?"* (punto 4 del libro) y el short answer corto (punto 5) —, con ficha de cuatro casillas que obliga a llenar la que quede en cero. El escenario sale del **titulo del propio modulo**. Ni titulo, ni roles, ni guion, ni ficha, ni carga gramatical se repiten. El 4H usaba **CONSULTANT DESK** aqui y se descarto: es practicamente el mismo guion que el TRAVEL ADVISORY DESK de Conversacion (cliente que pregunta, asesor que recomienda con precio). Ese era el duplicado que prohibe la regla del 28/09.
-- **Proyecto del nivel:** hoy **no hay pieza nueva** — Gramatica sella la herramienta; las 12 frases escritas de la tarea son materia prima de la pieza 3 que arma Conversacion en su Cl 4.
-- **Proxima clase de esta pista (Grammar Cl 4):** A1 **M6 "What Time Will You Eat Lunch?" (p.71-74, will)** + preposiciones **IN / ON / AT** (A1 M29 p.326; A2 M1 p.2; A2 M2 p.14). `SUPUESTO DE PLANEACION — verificar`: el anclaje modulo-clase del puente Cl 1-5 viene del mapa del B1 Mastery, no de una tabla del libro.
-- **Sin material preparado:** todo en tablero, papel del propio estudiante o voz; Plan B por bloque en el Anexo.
+- **ANTI-DUPLICADO — por que el B3 de hoy es DISTINTO del de Conversacion Cl 3:** ayer fue **TRAVEL ADVISORY DESK** (mostrador de servicio, cliente EXTERNO que pide recomendacion, advisor que cotiza, viajero que decide). Hoy es **RELOCATION DECISION MEETING**: reunion INTERNA entre colegas que cierran una decision de la empresa, sin cliente y sin mostrador, y la carga obligatoria son las **cuatro formas del paradigma** — incluida *"where should...?"* (punto 4 del libro) y el short answer corto (punto 5) —, con ficha de cuatro casillas que obliga a llenar la que quede en cero. Ni titulo, ni roles, ni guion, ni ficha, ni carga se repiten. El 4H usaba **CONSULTANT DESK** y se descarto: es el mismo guion que el TRAVEL ADVISORY DESK de Conversacion.
+- **Proyecto del nivel:** hoy **no hay pieza nueva** — las 12 frases de la tarea alimentan la pieza 3 (Conv Cl 4). **Proxima (Grammar Cl 4):** A1 M6 (p.71-76, will) + IN / ON / AT (A1 M29 p.327; A2 M1 p.3; A2 M2 p.15). (`SUPUESTO DE PLANEACION — verificar`: mapa del B1 Mastery.)

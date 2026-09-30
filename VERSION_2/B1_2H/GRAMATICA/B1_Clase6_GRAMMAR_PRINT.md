@@ -20,8 +20,8 @@
 
 **Objective: open Temperance in this track, count the portfolio, and put the written homework on the desk as tonight's raw material.**
 
-1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Anota la columna **"llegada tarde"**. No re-explicas la regla ni las condiciones de la garantia: se dijeron una vez en la Cl 1. Hoy solo se registra.
-2. **Chequeo de portafolio, publico, con lista en mano (4').** Di: *"I am not asking who made the video. I am asking who SENT it."* Nombre por nombre marcas ENVIO / NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar en 5 segundos**, con el error real de SU video: *"'he haves' — twice. Tonight we kill it."* Al que no envio: *"You send it TODAY together with today's video. Two videos, same day. The list goes to coordination tonight."* Sin discutir, sin hablar de notas ni de la garantia.
+1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Anota la columna **"llegada tarde"** (despues de las 6:45 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). No re-explicas la regla ni las condiciones de la garantia: se dijeron una vez en la Cl 1. Hoy solo se registra.
+2. **Chequeo de portafolio, publico, con lista en mano (4').** Di: *"I am not asking who made the video. I am asking who SENT it."* Nombre por nombre marcas ENVIO / NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar en 5 segundos**, con el error real de SU video: *"'he haves' — twice. Tonight we kill it."* Al que no envio: *"You send it TODAY together with today's video. Two videos, same day. The list goes to coordination tonight."* Sin discutir; si preguntan por notas o por la garantia: *"That is coordination, not me."*
 3. **Recuperacion espaciada (7', oral, DE PIE, en cadena, sin cuaderno).** **N-3 = Grammar Cl 3** (should / shouldn't mas numeros). N-7 de esta pista todavia no existe, asi que el segundo bloque de disparadores sale del PASE que recibiste. Errores oidos al tablero **ANONIMOS**, coro 2x, y 1 minuto de re-produccion correcta:
    - "From Grammar Cl 3: advice plus a number — 'You should call before nine.'"
    - "Say your floor and your extension as real numbers." (Cl 3)
@@ -30,7 +30,7 @@
    - Del PASE: los 3 errores literales que te dejaron por escrito anoche.
 4. **Tarea escrita SOBRE LA MESA (2') — NO la recojas todavia.** El papel de **12 lineas de la rutina de una persona real** que dejo Gramatica Cl 5 sale del cuaderno y queda a la vista. Di: *"Keep that paper open. In forty minutes somebody else reads it out loud."* Los que no la trajeron, a tu cuaderno (nombre SOLO ahi): *"Homework is the contract."*
 5. **Lectura del PASE recibido, en voz alta (2').** *"These came out of your mouths last night. Tonight we don't re-explain the rule — we finish it and we stress-test it."*
-   > **Si dictaste tu la clase anterior (viernes y lunes, o jueves y viernes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.**
+   > **Si dictaste tu la clase anterior (jueves y viernes, o viernes y lunes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.**
 6. **Frase del Dia (6' incluyendo el VATS).** Escrita en el tablero ANTES de que entren. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en 1 linea: *"One letter, three sounds. None of them rushed."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en oracion nueva propia.
 
 > **[VATS] RITUAL DE VIRTUD — HOY ABRE UNA VIRTUD NUEVA EN ESTA PISTA (5-6', DE PIE — no se recorta).**
@@ -69,13 +69,13 @@ THE 3 SOUNDS OF THE -S   (A1 Book M9, Guia 1 punto 4, p.112)
    - "closes" dicho "closs" -> **"clósez"**
 6. **Cierre del bloque — produccion libre, de pie (10').** Cada estudiante dice **3 frases verdaderas con HAS o HAVE sobre su trabajo** (1 afirmativa con HAS, 1 negativa, 1 pregunta al compañero con su short answer); **el grupo grita el sonido de cada -s que aparezca** (S, Z o EZ). El drill nunca cierra el bloque: cierra el uso libre.
 
-## BLOQUE 3 — AUDIT DESK MAS SIMULACION: EQUIPMENT AND ACCESS HANDOVER (40') — DE PIE 100%
+## BLOQUE 3 — AUDIT DESK MAS SIMULACION: SHOWROOM PRODUCT COMPARISON (40') — DE PIE 100%
 
 **Objective: put Cl 5's present under real load — first as auditors of each other's paper, then under time pressure.**
 
 1. **AUDIT DESK (14', DE PIE, papeles cruzados).** Cada uno entrega su papel de 12 lineas a otra persona. El auditor **lee las frases del otro EN VOZ ALTA** (de pie) y hace dos trabajos: (a) escribe sobre cada -s la letra de su sonido — **S / Z / EZ**; (b) caza forma rota (doble marca, -s caida, *have* donde va *has*). Tablero con conteo publico: `CLEAN | SOUND WRONG | FORM WRONG`. Al terminar, cada auditor reporta **1 hallazgo por tipo, sin nombre**. **Nadie califica: se audita.** Devuelven el papel a su dueño.
-2. **EQUIPMENT AND ACCESS HANDOVER (22', 4 rotaciones de ~5').** Tablero: `HANDOVER — 1 LEAVING (GUEST) — 1 TAKING OVER — EVERYONE ELSE OBSERVES`
-   **Escenario profesional realista (solo tablero y sala):** alguien deja su puesto y tiene que entregar equipo, accesos y responsabilidades antes de irse. **Se hace DE PIE, recorriendo la sala como si fuera el puesto de trabajo**, señalando objetos reales (*"this desk, that cabinet, the key here"*). **1 estudiante = guest / el que entrega:** *"She has the master key. He doesn't have admin access. The team has two laptops. Does the new person have an email account yet?"*. **1 estudiante rota como el que recibe** y pregunta: *"What does she have? Does the office have a spare charger? Who has the password?"* — con **short answer corto**. **TU eres COACH desde afuera — NUNCA juegas guest ni receptor.** Si se congelan 15 segundos, sueltas UN prompt (*"Ask who has the key"*) y te retiras.
+2. **SHOWROOM PRODUCT COMPARISON (22', 4 rotaciones de ~5').** Tablero: `SHOWROOM — 1 SALES REP (GUEST) — 1 COMPANY BUYER — EVERYONE ELSE OBSERVES`
+   **Escenario profesional realista (solo tablero y sala):** una empresa va a comprar equipos para su equipo de trabajo y su comprador visita la sala de exhibicion de un proveedor. **Se hace DE PIE: dos esquinas de la sala son dos modelos en exhibicion (MODEL A y MODEL B)** y el vendedor camina entre ellas señalando. **1 estudiante = guest / vendedor:** compara lo que tiene cada modelo (*"Model A has a camera and two years of warranty. Model B doesn't have a camera, but it has more memory. It costs less and it includes delivery."*). **1 estudiante rota como comprador de la empresa** y pregunta: *"Does it have a warranty? What does the cheaper one have? Does the delivery include installation? Which one has more memory?"* — con **short answer corto**. El producto cambia en cada rotacion (laptops, impresoras, sillas de oficina, planes de telefonia para el equipo). **TU eres COACH desde afuera — NUNCA juegas vendedor ni comprador.** Si se congelan 15 segundos, sueltas UN prompt (*"Ask what Model B doesn't have"*) y te retiras.
 3. **OBSERVERS ACTIVOS con ficha en su propio papel (la dibujan en 30 seg):** tres columnas — `HAS / HAVE OK` · `SOUND OK` · `BROKEN`. **Una raya por cada frase que oigan** mas 1 pregunta al final. Al cerrar cada rotacion **cantan el conteo en voz alta**.
 4. **Minimos por rotacion:** 3 frases afirmativas con HAS + 2 negativas con *doesn't have* + 3 preguntas con *"Does ... have?"* respondidas con short answer corto.
 5. **Debrief (4').** Los observers reportan TIPOS y conteos, nunca personas. Intervienes solo si un error sale 3 veces: tablero, coro 2x, sigue. Cierra: *"Temperance, night one, held. One letter, three sounds, no drama."*
@@ -104,7 +104,8 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     3 minutes, speaking, straight through, NO reading, NO script.
     Content: "What my team HAS and what it doesn't have" — say the -s
     sounds cleanly, do not swallow them. Close with the Phrase of the Day.
-    Send it TODAY to the cohort group. Label: B1-2H-GRAMMAR-6.
+    Send it TODAY to the cohort WhatsApp group. Label: B1-2H-GRAMMAR-6.
+    Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **El video es DIARIO: no es la tarea de una pista ni un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
@@ -128,8 +129,8 @@ YA QUEDO HECHO HOY, NO LO REPITAS: HAS en las tres formas · el sound sort de
 tres zonas · la micro-ensenanza entre pares · el audit desk sobre el papel de
 Cl 5 · chequeo de portafolio con lista (videos que NO llegaron: ____________).
 La tabla do/does NO volvio al tablero y no debe volver.
-ESCENARIO DE SIMULACION QUE USE HOY — NO LO REPITAS: "EQUIPMENT AND ACCESS
-HANDOVER" (el que se va entrega equipo y accesos, recorriendo la sala).
+ESCENARIO DE SIMULACION QUE USE HOY — NO LO REPITAS: "SHOWROOM PRODUCT
+COMPARISON" (vendedor y comprador comparan dos modelos: has / doesn't have).
 TU CLASE ABRE HOW OFTEN (A1 M12, adverbios de frecuencia, p.153-158), solo
 ORAL. Arranca con un "Routine Roundup": cada uno 1 frase con he/she mas verbo-S
 y el sonido correcto ANTES de meter el adverbio de frecuencia.
@@ -138,7 +139,7 @@ las pistas no duplican tarea. Tu tarea es el video diario.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ **Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto** ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Papel de 12 lineas recogido y auditado ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche ☐ ~87% DE PIE confirmado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ Papel de 12 lineas recogido y auditado ☐ ~87% DE PIE confirmado
 
 [PAGEBREAK]
 
@@ -174,7 +175,7 @@ Ejemplos p.212: "Does Fritz have a hamburger?" -> "Yes, he has a hamburger. /
 - **Nadie trajo el papel de 12 lineas:** el AUDIT DESK corre sobre el tablero — cada uno escribe 3 frases de tercera persona en su cuaderno y el de al lado las lee en voz alta y marca los sonidos. Mismo trabajo, misma exigencia, el bloque no se acorta.
 - **Sound sort atascado:** quedate en DOS zonas esta noche (`-EZ` vs el resto) y deja la separacion -s / -z como callback de Cl 7. Mejor dos sonidos limpios que tres borrosos.
 - **Micro-ensenanza que no arranca:** tu das la primera pareja como ejemplo en 30 seg y sales; nadie se queda sin explicar.
-- **El handover no arranca:** das la lista de objetos en el tablero (*key, laptop, admin access, parking spot, password, spare charger*) y cada estudiante dice quien LO TIENE y quien NO. Tu sigues fuera del rol.
+- **La comparacion no arranca:** escribes en el tablero dos columnas `MODEL A | MODEL B` con 5 caracteristicas (*camera, warranty, two trays, delivery, spare charger*) marcadas si / no, y cada estudiante dice cual la tiene y cual no. Tu sigues fuera del rol.
 - **Grupo pequeno esta noche:** 2 rotaciones largas y los minimos suben a 5 afirmativas con HAS y 4 preguntas.
 - **Sobra tiempo:** "has-or-have duel" — dices un sujeto y un tipo de frase, el grupo grita la forma; el que falla explica por que y la usa en una frase verdadera.
 
@@ -182,7 +183,7 @@ Ejemplos p.212: "Does Fritz have a hamburger?" -> "Yes, he has a hamburger. /
 
 - **Derivada de** `VERSION_2/B1_4H/GRAMATICA/B1_Clase6_GRAMMAR_PRINT.md` (mismo modulo, mismas citas verbatim, misma secuencia). Adaptacion al nocturno: 110 -> **120 min**; los 10 minutos extra fueron **a produccion** (sound sort 12 -> 13, micro-ensenanza 8 -> 10, cierre libre 3 -> 10 con las tres formas de HAS, audit desk 12 -> 14, y **4 rotaciones** en vez de 3), nunca a explicacion.
 - **Cl 6 NO repite Cl 5.** Cl 5 sello do/does mas la -s de tercera persona (A1 M8 p.99-101 y M9 p.111-113) y esa tabla **no vuelve al tablero**. Cl 6 aporta UNICAMENTE la capa que faltaba — **HAS (M17 p.211) mas los tres sonidos (M9 punto 4, p.112)** — y todo lo demas es aplicacion de alta exigencia en formatos que Cl 5 no uso: sound sort de tres zonas por SONIDO (Cl 5 uso zone walk de dos zonas por FORMA), micro-ensenanza entre pares, y audit desk sobre la tarea escrita.
-- **B3 distinto del de Conv Cl 6, en una linea:** Conv Cl 6 uso **"NEW-HIRE ROUTINE BRIEFING"** (empleado nuevo describiendo su jornada a un lider, foco en la rutina y en la -s); hoy es **"EQUIPMENT AND ACCESS HANDOVER"** (el que deja el puesto entrega equipo y accesos al que llega, foco obligatorio en HAS / doesn't have / "Does ... have?"). Ni el titulo, ni los roles, ni el guion, ni la ficha de los observers se repiten, y hoy el bloque arranca con un AUDIT DESK que Conv no tiene.
+- **B3 distinto del de Conv Cl 6, en una linea:** Conv Cl 6 uso **"NEW-HIRE ROUTINE BRIEFING"** (empleado nuevo describiendo su jornada a un lider, foco en la rutina y en la -s); hoy es **"SHOWROOM PRODUCT COMPARISON"** (vendedor y comprador de una empresa comparan dos modelos en exhibicion, foco obligatorio en HAS / doesn't have / "Does it have...?"). Ni el titulo, ni los roles, ni el guion, ni la ficha de los observers se repiten, y hoy el bloque arranca con un AUDIT DESK que Conv no tiene. **Revision del 30/09:** la version anterior (entrega de equipo y accesos al colega que llega) repetia el escenario de Conv Cl 9 (OFFICE INVENTORY HANDOVER) y el formato de Grammar Cl 2 (SHIFT HANDOVER); se cambio para que los escenarios del tramo sean distintos.
 - **Cita corregida:** guias previas citaban have/has como "M17 p.209-210". Verificado en `Libros/Libro A1.pdf`: p.209 = portada del modulo, p.210 = vocabulario, **Guia 1 = p.211**, ejemplos = p.212. Se mantiene la cita corregida.
 - **VIRTUD: hoy ABRE TEMPLANZA en la pista de Gramatica** (Cl 6-10 de cada pista, calendario absoluto por numero de clase de cada pista; no se desplaza por festivos ni cancelaciones). Conv Cl 6 la presento la noche anterior con el angulo de la semana; **esta guia la presenta con otro angulo — el detalle y la repeticion —** para que el estudiante la oiga dos veces sin oir lo mismo. Grammar Cl 7 ya no la presenta: la aplica.
 - **Recuperacion de esta pista:** N-3 = **Grammar Cl 3** (should / shouldn't mas numeros). **N-7 no existe aun** (seria Grammar Cl -1), asi que el segundo bloque de disparadores sale del PASE recibido. Sin mapa semanal de tickets todavia: NO citar tickets.

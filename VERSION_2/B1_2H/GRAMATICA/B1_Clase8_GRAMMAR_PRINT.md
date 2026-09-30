@@ -20,19 +20,19 @@
 
 1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de 6:45 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
 2. **Chequeo de portafolio con lista en mano (4').** Ya viste los videos antes de entrar. Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'every days' — 'every DAY', singular"*). Al que no envio: *"You send yesterday's video TODAY, together with today's. Two videos, same day. The list goes to coordination tonight."* Sin discusion.
-3. **Recuperacion espaciada DE TU PISTA (8', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 5** (do/does y la -s de tercera persona) · N-7 = **Grammar Cl 1** (didn't vs haven't yet, pregunta con short answer). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
+3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 5** (do/does y la -s de tercera persona) · N-7 = **Grammar Cl 1** (didn't vs haven't yet, pregunta con short answer). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
    - "Third person, two true sentences: 'She checks the numbers. He starts at 8.'" (Cl 5)
    - "Fix it out loud: 'He don't work Sundays.'" (Cl 5)
    - "One negative with 'haven't... yet' about this week." (Cl 1)
    - "Short answer only: 'Have you finished the report?' — two words." (Cl 1)
 4. **Lectura del PASE recibido, en voz alta (3').** Lees los 3 errores literales del papel: *"These three came out of your mouths last class. Tonight they go on paper and they stay fixed."*
-   > **Si dictaste tu la clase anterior (viernes y lunes, o jueves y viernes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.** En ese caso dictas los 14 items completos de Ejercicios 1 (los 7 del libro y sus 7 versiones con auxiliar cambiado) y el Bloque 3 sube a 5 rotaciones.
+   > **Si dictaste tu la clase anterior (jueves y viernes, o viernes y lunes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.** En ese caso dictas los 14 items completos de Ejercicios 1 (los 7 del libro y sus 7 versiones con auxiliar cambiado) y el Bloque 3 sube a 5 rotaciones.
 5. **Frase del Dia (3').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea: *"Change the auxiliary all you want — the number still closes the sentence."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
-> **[VIRTUD] TEMPLANZA — Cl 3 de 5. Tablero: "TEMPERANCE — DAY 3 OF 5".** (3', el ritual completo)
+> **[VIRTUD] TEMPLANZA — Cl 3 de 5. Tablero: "TEMPERANCE — DAY 3 OF 5".** (5', el ritual completo)
 > **Por que:** templanza es disciplina y paciencia con la repeticion. El drill completo, sin atajos, es lo que hace que la forma salga sin pensar el dia de la entrevista. El que recorta el drill no se ahorra tiempo: se ahorra el aprendizaje.
 > **En el aula hoy:** escribir el numero, no aproximarlo. Un habito con numero se puede auditar; uno sin numero, no.
-> **V (1'):** *"This block is temperance, and tonight it is written."* · **A (1'):** pregunta, 30 seg de pensar: *"How often SHOULD you practice English to reach your goal — and how often do you actually?"* · **T (1'):** cadena de pie, cada uno responde en 1-2 frases con la expresion al final y un auxiliar (should / can / will); escuchas y anotas, NO corriges aqui · **S (30''):** 2-3 al grupo y cierras: *"The gap between 'should' and 'do' is exactly the work of this block."*
+> **V (1'):** *"This block is temperance, and tonight it is written."* · **A (1'):** pregunta, 30 seg de pensar: *"How often SHOULD you practice English to reach your goal — and how often do you actually?"* · **T (2'):** cadena de pie, cada uno responde en 1-2 frases con la expresion al final y un auxiliar (should / can / will); escuchas y anotas, NO corriges aqui · **S (1'):** 2-3 al grupo y cierras: *"The gap between 'should' and 'do' is exactly the work of this block."*
 > **Si alguien pregunta que tiene que ver con ingles:** *"Everything. On the day you need this language, what fails is not vocabulary: it is nerve, or consistency, or preparation. That is what we train here."*
 
 ## BLOQUE 2 — SELLAR M13 EN PAPEL (45') — DE PIE ~90%
@@ -79,15 +79,15 @@ frequency, in a FULL sentence, expression at the END.
    Caminas mirando papeles y anotas errores literales en TU cuaderno. **Correccion oral en cadena de pie (los ultimos 4 min):** un estudiante distinto lee cada item resuelto y dice en 1 linea por que (*"'twice', not 'two times'"*, *"'every' takes no 'a'"*). Los items **3, 5, 6 y 7 se corrigen SEGUIDOS**: son los que llevan can / should / will / did, y ahi se ve que el auxiliar cambia pero la expresion no se mueve.
 6. **Cierre del bloque — produccion libre, de pie (4').** Cada estudiante: 1 frase con `should` + expresion sobre su propio trabajo y 1 pregunta *"How often do you...?"* al compañero, que responde en frase completa. El drill nunca cierra el bloque: cierra el uso libre.
 
-## BLOQUE 3 — SIMULACION: SAFETY AND MAINTENANCE LOG AUDIT (38') — DE PIE 100%
+## BLOQUE 3 — SIMULACION: NEW TENANT ORIENTATION (38') — DE PIE 100%
 
-**Objective: hold the expression, with auxiliaries, under real pressure — where the number is a standard that gets challenged.**
+**Objective: hold the expression, with auxiliaries, under real pressure — where every number is a service the new tenant is paying for.**
 
-1. Tablero: `SAFETY AND MAINTENANCE LOG AUDIT — 1 AREA TECHNICIAN (GUEST) — 1 AUDITOR — EVERYONE ELSE OBSERVES`
-2. **Escenario profesional realista (solo tablero y sala), 2'.** Un auditor externo revisa la bitacora de mantenimiento y seguridad de un area (extintores, copias de respaldo, limpieza de equipos, calibracion, revision de inventario). **1 estudiante = guest / tecnico del area:** declara con que frecuencia se hace cada cosa (*"We check the extinguishers twice a year. I back up the system every day. We calibrate the machine once a month."*). **1 estudiante rota como auditor** y pregunta obligatoriamente cambiando el auxiliar: *"How often DO you check it? How often DID you check it last quarter? How often SHOULD it be checked? How often CAN you do it?"* — y **cuestiona el numero cuando no alcanza el estandar**: *"Once a month is below the standard. You should do it twice a week."* El tecnico defiende o acepta y **repite la expresion completa**. **TU eres COACH desde afuera — NUNCA juegas tecnico ni auditor.** Si se congelan 15 seg, sueltas UN prompt (*"Ask him how often he did it last month"*) y te retiras.
+1. Tablero: `NEW TENANT ORIENTATION — 1 BUILDING MANAGER (GUEST) — 1 TENANT'S OFFICE MANAGER — EVERYONE ELSE OBSERVES`
+2. **Escenario profesional realista (solo tablero y sala), 2'.** Una empresa acaba de alquilar una oficina en un edificio empresarial y su jefe administrativo se reune con la administracion del edificio para saber con que frecuencia pasa cada servicio (aseo de zonas comunes, recoleccion de reciclaje, mantenimiento del ascensor, prueba de la alarma, reserva de la sala de juntas). **1 estudiante = guest / administrador del edificio:** declara con que frecuencia se hace cada cosa (*"We clean the lobby every day. The technician checks the elevator once a month. We collect the recycling twice a week."*). **1 estudiante rota como jefe administrativo del inquilino** y pregunta obligatoriamente cambiando el auxiliar: *"How often DO you clean the windows? How often DID the power fail last year? How often CAN we book the meeting room? How often SHOULD we test the alarm?"* — y **cuestiona el numero cuando no le alcanza**: *"Once a month is not enough for us. You should clean the parking twice a week."* El administrador responde o propone otra frecuencia y **repite la expresion completa**. **TU eres COACH desde afuera — NUNCA juegas administrador ni inquilino.** Si se congelan 15 seg, sueltas UN prompt (*"Ask her how often the power failed last year"*) y te retiras.
 3. **OBSERVERS ACTIVOS con ficha en su propio papel (la dibujan ellos en 30 seg):** tres columnas, `EVERY + SINGULAR` · `NUMBER + A + PERIOD` · `AUXILIARY USED (do/did/can/should/will)`. **Una raya por cada expresion oida** en su columna, y escriben el auxiliar cada vez que cambia. Al cerrar cada rotacion cantan el conteo: *"four 'every', seven with a number, five auxiliaries."*
-4. **Minimos por rotacion:** el tecnico declara 5 frecuencias distintas con la expresion al final + responde 4 preguntas del auditor con auxiliares DIFERENTES + acepta o rechaza 2 cuestionamientos del estandar repitiendo la expresion completa.
-5. **4 rotaciones (~8' cada una)**, tecnico y auditor nuevos en cada una, el area cambia cada vez (bodega, sistemas, cocina industrial, flota de vehiculos). Entre rotaciones, 45 seg de cadena rapida de pie: *"month -> once a month -> should we do it once a month?"*
+4. **Minimos por rotacion:** el administrador declara 5 frecuencias distintas con la expresion al final + responde 4 preguntas del inquilino con auxiliares DIFERENTES + responde a 2 cuestionamientos del numero repitiendo la expresion completa.
+5. **4 rotaciones (~8' cada una)**, administrador e inquilino nuevos en cada una, el edificio cambia cada vez (torre de oficinas, centro medico, bodega en zona franca, centro de negocios). Entre rotaciones, 45 seg de cadena rapida de pie: *"month -> once a month -> should we do it once a month?"*
 6. **Debrief (4').** Los observers reportan TIPOS y conteos, nunca personas (*"only two auxiliaries all round"*, *"'to the week' three times"*). Correcciones al tablero, coro 2x. Intervienes solo si un error sale 3 veces.
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
@@ -111,7 +111,8 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     through, NO reading, NO script. Content: "The standards of my job or
     my studies" — how often things SHOULD be done and how often they
     actually ARE. Close with the Phrase of the Day.
-    Send it TODAY to the cohort group. Label: B1-2H-VIDEO-16.
+    Send it TODAY to the cohort WhatsApp group. Label: B1-2H-VIDEO-16.
+    Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **El video es DIARIO: no es la tarea de una pista ni un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
@@ -129,7 +130,7 @@ QUE NO ALCANZO del modulo: _____________________________________________
 Conteo de la simulacion (every / numero / auxiliares): ____ / ____ / ____
 YA QUEDO HECHO HOY, NO LO REPITAS: la tabla de la Guia 1 en el tablero ·
 Ejercicios 1 p.168 · el drill de pregunta "How often + auxiliar" · la
-simulacion SAFETY AND MAINTENANCE LOG AUDIT (no repitas ese titulo ni su
+simulacion NEW TENANT ORIENTATION (no repitas ese titulo ni su
 guion) · chequeo de portafolio (videos que NO llegaron: ____________).
 TAREA QUE DEJE: 12 lineas escritas mas el video No. 16, ambas antes de las
 6:30 PM de manana. NO pidas otro papel encima: las pistas no duplican tarea.
@@ -137,7 +138,7 @@ LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el contenido de manana.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ **Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto** ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche ☐ ~87% DE PIE confirmado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~87% DE PIE confirmado
 
 [PAGEBREAK]
 
@@ -164,7 +165,7 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - **Drill en circulo atascado:** cadena sentada rapida — tu das la frase, el grupo grita "EVERY" o "NUMBER" en coro y un estudiante la coloca al final.
 - **Zone walk atascado:** las tres zonas se vuelven tres señas — mano izquierda = every, mano derecha = number + a, dos manos arriba = WRONG; misma velocidad, sin caminar.
 - **Dictado muy lento:** dictas 4 items en vez de 7 (elige 1, 3, 5 y 7 para cubrir presente, can, should y pasado) y los otros quedan de tarea; NO recortes la correccion oral en cadena.
-- **Simulacion que no arranca:** cambia el area a **una auditoria de inventario de bodega** (mismo guion de auditor y tecnico, mismos minimos). Tu sigues fuera del rol.
+- **Simulacion que no arranca:** escribes en el tablero 5 servicios del edificio con su frecuencia (*lobby / every day · elevator / once a month · recycling / twice a week · alarm / once a year · windows / every month*) y el administrador los dice completos mientras el inquilino pregunta con un auxiliar distinto cada vez. Tu sigues fuera del rol.
 - **Clase de CONSOLIDACION (dictaste tu la anterior, no hay PASE entrante):** dictas los 7 items del libro y luego pides los mismos 7 con el auxiliar cambiado (14 en total), y el Bloque 3 sube a 5 rotaciones.
 - **Grupo incompleto a las 6:30:** arrancas igual, registras la llegada tarde, el que llega se integra al drill sin repetirle nada.
 - **Sobra tiempo:** "raise the standard" — das una frecuencia baja ("once a year") y el grupo la sube con un auxiliar (*"we should do it four times a year"*).
@@ -173,7 +174,7 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 
 - **Se deriva de:** `VERSION_2/B1_4H/GRAMATICA/B1_Clase8_GRAMMAR_PRINT.md` (Grammar Cl 8 del B1 Mastery 4h). Mismo modulo (A1 M13), misma regla verbatim, misma secuencia de bloques.
 - **Que cambio para el nocturno de 120 min:** la fuente reparte 110' (20/40/35/15); aqui 22/45/38/15 = 120. Los 10 minutos extra fueron **a produccion**, no a explicacion: +2' al chequeo de portafolio con lista, +5' al Bloque 2 (el dictado y la correccion de **Ejercicios 1 p.168**, que la fuente 4H no alcanzaba a hacer) y +3' al Bloque 3 (una **cuarta rotacion**). Ademas: PASE escrito entrante y saliente entre docentes distintos, caja HOY SOLO, ritual VATS completo con su por que, y el eje de "varios auxiliares" que es la habilidad objetiva literal del modulo y que la fuente 4H solo insinuaba.
-- **B3 REDISENADO POR ANTI-DUPLICADO.** La fuente 4H de Grammar Cl 8 usaba **"SCHEDULE BRIEFING"** (planear la cadencia de un proyecto con el jefe) y la de Conv Cl 8 usa **"RECURRING-MEETING SCHEDULING"** (dos colegas acuerdan la cadencia del equipo): **son el mismo guion con otro nombre** — dos personas acordando cada cuanto pasan las cosas. En el nocturno, donde las dos clases caen en noches consecutivas, eso se habria sentido como la misma clase dos veces. Por eso hoy el escenario es **SAFETY AND MAINTENANCE LOG AUDIT**: cambia el registro (auditoria de cumplimiento, no acuerdo entre pares), cambian los roles (tecnico de area y auditor externo, no dos colegas), cambia la meta (defender un estandar frente a un tercero, no acordar una agenda) y cambia la carga gramatical (la expresion obligada con **can / should / will / did**, mas el cuestionamiento del numero, que en Conv no existia). Los observers de hoy llevan **tres** columnas, incluida la del auxiliar, ficha que ayer no existia. Ni el titulo, ni los roles, ni el guion, ni la carga se repiten.
+- **B3 REDISENADO POR ANTI-DUPLICADO.** La fuente 4H de Grammar Cl 8 usaba **"SCHEDULE BRIEFING"** (planear la cadencia de un proyecto con el jefe), el mismo guion que Conv Cl 8 (**"RECURRING-MEETING SCHEDULING"**: dos colegas acuerdan cada cuanto pasan las cosas). Hoy es **NEW TENANT ORIENTATION**: cambia el registro (un cliente externo que paga por los servicios, no un acuerdo entre pares), cambian los roles (administrador del edificio y jefe administrativo del inquilino), cambia la meta (saber y cuestionar con que frecuencia se presta cada servicio) y cambia la carga gramatical (la expresion obligada con **do / did / can / should**, que es la habilidad objetiva del modulo, mas el cuestionamiento del numero). Observers con tres columnas, incluida la del auxiliar. **Revision del 30/09:** la version anterior (auditoria externa de la bitacora de seguridad y mantenimiento) repetia el escenario de Grammar Cl 7 (SAFETY INSPECTION, inspector externo en el sitio); se cambio para que los escenarios del tramo sean distintos.
 - **Tarea por pista, sin duplicar:** Gramatica deja la tarea ESCRITA (12 lineas con auxiliares) y recuerda que el video diario sigue (No. 16). Ayer Conversacion dejo SOLO el video.
 - **Recuperacion espaciada por pista:** N-3 = **Grammar Cl 5** (do/does, tercera persona -s) · N-7 = **Grammar Cl 1** (didn't vs haven't yet, short answer). Sin mapa semanal de tickets todavia — NO se citan tickets.
 - **Virtud:** TEMPLANZA, Cl 3 de 5 (Cl 6-10 de cada pista), calendario absoluto. Conv Cl 9 es Cl 4 de 5; Cl 10 la cierra.

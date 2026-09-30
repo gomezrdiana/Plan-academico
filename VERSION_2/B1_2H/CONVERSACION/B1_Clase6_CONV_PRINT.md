@@ -16,8 +16,8 @@
 
 **Objective: reactivate the review arc, open Temperance, and switch the present on in all three forms.**
 
-1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Anota la columna **"llegada tarde"**. No re-explicas la regla: se dijo una vez en la Cl 1. Hoy solo se registra.
-2. **Chequeo de portafolio, publico, con lista en mano (4').** Di: *"I am not asking who made the video. I am asking who SENT it."* Nombre por nombre marcas ENVIO / NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar en 5 segundos**, con el error real de SU video (ya los viste antes de clase): *"'she doesn't works' — the base verb after doesn't."* Al que no envio: *"You send it TODAY together with today's video. Two videos, same day. The list goes to coordination tonight."* Sin discutir, sin hablar de notas ni de la garantia.
+1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Anota la columna **"llegada tarde"** (despues de las 6:45 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). No re-explicas la regla: se dijo una vez en la Cl 1. Hoy solo se registra.
+2. **Chequeo de portafolio, publico, con lista en mano (4').** Di: *"I am not asking who made the video. I am asking who SENT it."* Nombre por nombre marcas ENVIO / NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar en 5 segundos**, con el error real de SU video (ya los viste antes de clase): *"'she doesn't works' — the base verb after doesn't."* Al que no envio: *"You send it TODAY together with today's video. Two videos, same day. The list goes to coordination tonight."* Sin discutir; si preguntan por notas o por la garantia: *"That is coordination, not me."*
 3. **Recuperacion espaciada (7', oral, DE PIE, en cadena, sin cuaderno).** **N-3 = Conv Cl 3** (should / shouldn't mas numeros). N-7 de esta pista todavia no existe, asi que el segundo bloque de disparadores sale del PASE que recibiste. Errores oidos al tablero **ANONIMOS**, coro 2x, y 1 minuto de re-produccion correcta:
    - "From Conv Cl 3: one recommendation for a new coworker — 'You SHOULD...' / 'You SHOULDN'T...'."
    - "Say a real number out loud: your floor, your extension, how many people on your team." (Cl 3)
@@ -85,7 +85,8 @@ present tense; (b) three sentences about a coworker (he / she + verb-S)
 and one negative about the team (they don't / she doesn't);
 (c) MY STORY piece 5 — three habits you keep NOW to build your English
 and one you do NOT keep yet. Close with the Phrase of the Day.
-Send it to the cohort group the SAME day. Label: B1-2H-CONV-6.
+Send it to the cohort WhatsApp group the SAME day. Label: B1-2H-CONV-6.
+Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **La tarea de hoy es SOLO el video** — la tarea escrita de este contenido la asigna el profe de Gramatica la proxima noche. No pidas ademas un papel: las tareas de las dos pistas NO se duplican.
 > Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
@@ -123,7 +124,7 @@ TAREA ESCRITA: la asignas TU. Yo hoy deje SOLO el video.
 Firma Conv: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ **Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto** ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado
 
 [PAGEBREAK]
 
@@ -157,7 +158,7 @@ have -> HAS (A1 M17, Guia 1 p.211): "He HAS a car." (nunca "haves").
 - **Derivada de** `VERSION_2/B1_4H/CONVERSACION/B1_Clase6_CONV_PRINT.md` (mismo modulo, mismas citas, misma secuencia, mismo hito de proyecto). Adaptacion al nocturno: 110 -> **120 min**; los 10 minutos extra fueron **a produccion** (B2 de 40 a 46 con dos rondas completas y el zone walk de tres zonas, B3 de 35 a 37 con **4 rotaciones** en vez de 3), nunca a explicacion.
 - **VIRTUD NUEVA: hoy ABRE TEMPLANZA** (Cl 6-10 de cada pista, calendario absoluto por numero de clase de cada pista; no se desplaza por festivos ni cancelaciones). El VATS de hoy la **presenta** — nombre, que significa, como se ve en este salon, la conexion con el contenido del dia y el porque en una frase — y responde a "y esto que tiene que ver con ingles". Grammar Cl 6 es tambien Cl 1 de 5 en SU pista y por doctrina del cohorte tambien la presenta, con otro angulo (el PASE se lo indica por escrito para que no repita palabra por palabra). PRUDENCIA cerro en Cl 5 de cada pista.
 - **Recuperacion de esta pista:** N-3 = **Conv Cl 3** (should / shouldn't mas numeros, A1 M4 y M5). **N-7 no existe aun** (seria Conv Cl -1), asi que el segundo bloque de disparadores sale del PASE recibido. Sin mapa semanal de tickets todavia: NO citar tickets.
-- **Anti-duplicado:** el B3 de hoy (NEW-HIRE ROUTINE BRIEFING, onboarding caminando la sala) queda escrito dentro del PASE para que Gramatica Cl 6 no lo repita; su B3 usa otro escenario (entrega de equipos y accesos).
+- **Anti-duplicado:** el B3 de hoy (NEW-HIRE ROUTINE BRIEFING, onboarding caminando la sala) queda escrito dentro del PASE para que Gramatica Cl 6 no lo repita; su B3 usa otro escenario (comparacion de dos modelos en un showroom).
 - **Arranque de la marcha del libro:** el puente A1/A2 cerro en Cl 5. Cl 6 no introduce modulo nuevo en Conversacion: **exprime el presente completo en las tres formas** para que Gramatica Cl 6 pueda cerrar la capa que falta (HAS mas los tres sonidos) sin re-explicar do/does. Frontera respetada tal cual la fija la fuente 4H.
 - **El libro trata la -s como regla de PRONUNCIACION** (M9 punto 4) y **no trae** "-y -> -ies" como regla de ortografia para el presente: no se ensena como regla del libro. `SUPUESTO DE PLANEACION — verificar`: heredado de la fuente 4H, ya marcado alli.
 - **Proyecto MY STORY, MY GOALS:** piece 5 dicha en clase y grabada en el video de esta noche (*"what I do now to build my English"* mas un habito que todavia no sostiene). Se defiende en el panel de la Cl 43; midterm Cl 22. **El profe no comunica notas ni resultados.**

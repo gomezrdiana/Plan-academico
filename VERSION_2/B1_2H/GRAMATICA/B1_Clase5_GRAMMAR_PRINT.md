@@ -18,8 +18,8 @@
 
 **Objective: bring last night's spoken routines back into the room, and hear exactly where the form breaks.**
 
-1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Anota la columna **"llegada tarde"**. No re-explicas la regla ni las condiciones de la garantia: eso se dijo una vez en la Cl 1. Hoy solo se registra.
-2. **Chequeo de portafolio, publico, con lista en mano (4').** Di: *"I am not asking who made the video. I am asking who SENT it."* Nombre por nombre marcas ENVIO / NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar en 5 segundos**, con el error real de SU video (ya los viste antes de clase): *"'he study' — the -s fell off twice."* Al que no envio: *"You send it TODAY together with today's video. Two videos, same day. The list goes to coordination tonight."* Sin discutir, sin hablar de notas ni de la garantia.
+1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Anota la columna **"llegada tarde"** (despues de las 6:45 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). No re-explicas la regla ni las condiciones de la garantia: eso se dijo una vez en la Cl 1. Hoy solo se registra.
+2. **Chequeo de portafolio, publico, con lista en mano (4').** Di: *"I am not asking who made the video. I am asking who SENT it."* Nombre por nombre marcas ENVIO / NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar en 5 segundos**, con el error real de SU video (ya los viste antes de clase): *"'he study' — the -s fell off twice."* Al que no envio: *"You send it TODAY together with today's video. Two videos, same day. The list goes to coordination tonight."* Sin discutir; si preguntan por notas o por la garantia: *"That is coordination, not me."*
 3. **Recuperacion espaciada (8', oral, DE PIE, en cadena, sin cuaderno).** **N-3 = Grammar Cl 2.** N-7 de esta pista todavia no existe, asi que el segundo bloque de disparadores sale del PASE que recibiste. Errores oidos al tablero **ANONIMOS**, coro 2x, y 1 minuto de re-produccion correcta:
    - "From Grammar Cl 2: one true line with 'I haven't ___ yet' — and one with 'I didn't ___ last year'."
    - "Ask and answer SHORT: 'Have you ___?' -> 'Yes, I have / No, I haven't.'"
@@ -27,7 +27,7 @@
    - "Fix it out loud: 'She watch TV every night.'"
    - Del PASE: los 3 errores literales que te dejaron por escrito anoche.
 4. **Lectura del PASE recibido, en voz alta (3').** *"These three sentences came out of your mouths last night. Tonight we seal them on paper."* Cada estudiante devuelve una frase de la rutina de un tercero.
-   > **Si dictaste tu la clase anterior (viernes y lunes, o jueves y viernes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.**
+   > **Si dictaste tu la clase anterior (jueves y viernes, o viernes y lunes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.**
 5. **Frase del Dia (6' incluyendo el VATS).** Escrita en el tablero ANTES de que entren. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en 1 linea: *"Three verbs, three -s. The habit is what makes it prudent."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en oracion nueva propia.
 
 > **[VATS] RITUAL DE VIRTUD (5-6', dentro del bloque, DE PIE — no se recorta).**
@@ -80,7 +80,7 @@ WRITE IT — one line each, the form in brackets:
  1. she / open the store at 8        [+]
  2. he / work on the weekend         [-]
  3. they / close at six              [?]
- 4. it / cost twenty thousand        [+]
+ 4. it / cost thirteen oh five       [+]
  5. she / study at night             [+]
  6. he / watch the news              [+]
  7. the team / meet on the first day [?]
@@ -91,15 +91,15 @@ WRITE IT — one line each, the form in brackets:
    **Correccion oral en cadena de pie (ultimos 3 min del bloque):** un estudiante distinto lee cada item ya resuelto y dice en 1 linea por que (*"third person, affirmative, so it takes -es"*). Los items 5, 6, 9 y 10 se corrigen SEGUIDOS: ahi se ve toda la ortografia del -s.
 8. **Cierre del bloque — produccion libre, de pie (3').** Cada estudiante: 1 frase afirmativa verdadera sobre un compañero de trabajo (*"He opens the shop at seven"*) mas 1 pregunta *"Does he...?"* al compañero de al lado, que responde con **short answer corto**. El drill nunca cierra el bloque: cierra el uso libre.
 
-## BLOQUE 3 — SIMULACION: THE CALL — "WHO HANDLES THIS?" (38') — DE PIE 100%
+## BLOQUE 3 — SIMULACION: FRONT DESK — "WHO HANDLES THIS?" (38') — DE PIE 100%
 
-**Objective: hold do / does and the -s under real pressure, on the phone, where there are no gestures to hide behind.**
+**Objective: hold do / does and the -s under real pressure at a front desk, where the receptionist cannot point or walk away — only words.**
 
-1. Tablero: `THE CALL — 1 CLIENT (GUEST) — 1 AGENT — EVERYONE ELSE OBSERVES — BACK TO BACK`
-2. **Escenario profesional realista (solo tablero y sala), 2'.** Un cliente llama a una empresa porque no sabe a quien le corresponde su caso. **Los dos que actuan se paran ESPALDA CONTRA ESPALDA, de pie, sin mirarse:** es una llamada, no hay gestos ni señas, **solo palabras** — y ahi la forma se oye desnuda. **1 estudiante = guest / cliente:** llama y pregunta obligatoriamente en las tres formas (*"Does she work on the weekend? What time does the office open? Who handles refunds? Doesn't he answer this line?"*). **1 estudiante rota como agente** que contesta con **short answer corto mas frase completa** (*"No, she doesn't. She only works on weekdays. My colleague handles refunds — he checks the cases every morning. The office doesn't open before eight."*). **TU eres COACH desde afuera — NUNCA juegas cliente ni agente.** Si se congelan 15 segundos, sueltas UN prompt (*"Ask who handles the complaints"*) y te retiras.
+1. Tablero: `FRONT DESK — 1 VISITOR (GUEST) — 1 RECEPTIONIST — EVERYONE ELSE OBSERVES`
+2. **Escenario profesional realista (solo tablero y sala), 2'.** Un visitante llega sin cita a la recepcion de una empresa y no sabe a quien le corresponde su caso. **El mostrador es una linea imaginaria entre los dos, de pie: el recepcionista NO puede señalar, llamar a nadie ni salir del mostrador** — todo se resuelve con palabras, y ahi la forma se oye desnuda. **1 estudiante = guest / visitante:** pregunta obligatoriamente en las tres formas (*"Does she work on the weekend? What time does the office open? Who handles refunds? Doesn't he see clients without an appointment?"*). **1 estudiante rota como recepcionista** que contesta con **short answer corto mas frase completa** (*"No, she doesn't. She only works on weekdays. My colleague handles refunds — he checks the cases every morning. The office doesn't open before eight."*). **TU eres COACH desde afuera — NUNCA juegas visitante ni recepcionista.** Si se congelan 15 segundos, sueltas UN prompt (*"Ask who handles the complaints"*) y te retiras.
 3. **OBSERVERS ACTIVOS con ficha de escucha en su propio papel (la dibujan ellos en 30 seg):** tres columnas — `+S OK` · `BASE OK (doesn't / does + base)` · `BROKEN`. **Marcan una raya por cada frase que oigan** en la columna que corresponda. Al cerrar cada rotacion los observers **cantan el conteo en voz alta**: *"eight with the -s, six base, three broken."* Hace visible el balance sin nombrar a nadie.
-4. **Minimos por rotacion:** 4 preguntas del cliente con *"Does...?"* respondidas con short answer corto + 4 frases afirmativas de tercera persona con -s correcta + 2 negativas con *"doesn't"* mas verbo base.
-5. **4 rotaciones (~7' cada una)**, cliente y agente nuevos en cada una, **la empresa cambia cada vez** (una clinica, un taller, una tienda de repuestos, una oficina de servicios). Entre rotaciones, 60 seg de cadena de pie: *"work -> he works · watch -> she watches · study -> he studies · fix -> she fixes · carry -> he carries."*
+4. **Minimos por rotacion:** 4 preguntas del visitante con *"Does...?"* respondidas con short answer corto + 4 frases afirmativas de tercera persona con -s correcta + 2 negativas con *"doesn't"* mas verbo base.
+5. **4 rotaciones (~7' cada una)**, visitante y recepcionista nuevos en cada una, **la empresa cambia cada vez** (una clinica, un taller, una tienda de repuestos, una oficina de servicios). Entre rotaciones, 60 seg de cadena de pie: *"work -> he works · watch -> she watches · study -> he studies · fix -> she fixes · carry -> he carries."*
 6. **Debrief (4').** Los observers reportan TIPOS y conteos, nunca personas (*"the -s held, but the question kept the -s too", "short answers were too long"*). Correcciones al tablero, coro 2x. Intervienes solo si un error sale 3 veces. Cierra: *"Prudence closed its five nights with the small thing done right."*
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
@@ -123,7 +123,9 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
 (2) DAILY PORTFOLIO VIDEO — the video is DAILY, it does not stop: minimum
     3 minutes, speaking, straight through, NO reading, NO script.
     Content: the full day of that same person, third person only.
-    Close with the Phrase of the Day. Send it TODAY to the cohort group.
+    Close with the Phrase of the Day.
+    Send it TODAY to the cohort WhatsApp group.
+    Audio only by exception (max 2 a week): the rule is VIDEO.
     Label: B1-2H-GRAMMAR-5.
 ```
 > **El video es DIARIO: no es la tarea de una pista ni un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
@@ -131,8 +133,8 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
 4. **PASE al PROFESOR DE CONVERSACION (Conv Cl 6) — se lo dejas ESTA MISMA NOCHE**, en papel en la carpeta del cohorte o por mensaje escrito directo. No es opcional y no se pasa de palabra: **la clase siguiente la dicta otra persona que no estuvo hoy.** Copia este texto y llenalo antes de salir:
 ```
 PASE Grammar Cl 5 -> Conv Cl 6 — del profe de GRAMATICA al de CONVERSACION
-Virtud: hoy cerro PRUDENCIA (Cl 5 de 5). TU CLASE ABRE TEMPLANZA (Cl 6 de 5,
-dia 1 de 5): disciplina, manejo del tiempo, paciencia con la repeticion.
+Virtud: hoy cerro PRUDENCIA (Cl 5 de 5). TU CLASE ABRE TEMPLANZA (Conv Cl 6 =
+Cl 1 de 5): disciplina, manejo del tiempo, paciencia con la repeticion.
 La Frase del Dia NO se traspasa: estrenas la tuya.
 QUE QUEDO SELLADO HOY EN PAPEL (A1 M8 p.99-101 + M9 p.111-113):
 la tabla do/does completa · el negativo doesn't mas verbo BASE · la pregunta
@@ -146,8 +148,8 @@ YA QUEDO HECHO HOY, NO LO REPITAS: la tabla do/does en el tablero (si alguien
 la pide: "it is in your notebook — today we use it, we don't explain it") ·
 la ortografia del -s · el dictado de 10 items · el drill de las tres formas ·
 chequeo de portafolio con lista (videos que NO llegaron: ______________).
-ESCENARIO DE SIMULACION QUE USE HOY — NO LO REPITAS: "THE CALL — WHO HANDLES
-THIS?" (cliente externo por telefono, espalda contra espalda).
+ESCENARIO DE SIMULACION QUE USE HOY — NO LO REPITAS: "FRONT DESK — WHO
+HANDLES THIS?" (visitante externo en recepcion, sin señalar: solo palabras).
 TU CLASE: las tres formas del presente HABLADAS bajo carga (he works /
 she doesn't work / do you work?), y sale HAS en boca de ellos sin explicarlo:
 lo formaliza Gramatica Cl 6.
@@ -156,7 +158,7 @@ las pistas no duplican tarea. Tu tarea es el video diario.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ **Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto** ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche ☐ ~87% DE PIE confirmado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~87% DE PIE confirmado
 
 [PAGEBREAK]
 
@@ -169,20 +171,20 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 1. En el caso POSITIVO (nunca en negativo ni pregunta) generalmente omitimos el "do / does". 2. Con "do" no hay otro cambio. 3. Con "does", al eliminarlo, se corre la "-s" o "-es" al verbo: *"She plays soccer."* 4. La pronunciacion de la "-s" o "-es" depende del ultimo sonido del verbo.
 **Ejemplos del libro (p.112-113):** *"Where does he live?"* -> *"He lives in Bogota."* · *"Where does she eat?"* -> *"She eats in the restaurant."* · *"Does Fritz play soccer?"* -> *"No, he doesn't play soccer."*
 
-**CLAVE del dictado (para ti, no al tablero antes de que resuelvan):** 1. She opens the store at eight. · 2. He doesn't work on the weekend. · 3. Do they close at six? · 4. It costs twenty thousand. · 5. She studies at night. · 6. He watches the news. · 7. Does the team meet on the first day? · 8. She doesn't answer the phone. · 9. He fixes the machine. · 10. Do you carry the keys?
+**CLAVE del dictado (para ti, no al tablero antes de que resuelvan):** 1. She opens the store at eight. · 2. He doesn't work on the weekend. · 3. Do they close at six? · 4. It costs thirteen oh five. · 5. She studies at night. · 6. He watches the news. · 7. Does the team meet on the first day? · 8. She doesn't answer the phone. · 9. He fixes the machine. · 10. Do you carry the keys?
 
 **Plan B (cero material, todo tablero o voz):**
 - **Drill en circulo atascado:** cadena sentada rapida — tu das sujeto mas verbo mas tipo de frase, el grupo grita "+S" o "BASE" en coro y un estudiante produce la frase entera.
 - **Zone walk atascado:** las dos zonas se vuelven dos manos — izquierda arriba = BASE, derecha arriba = +S; misma velocidad, sin caminar.
 - **Dictado muy lento:** dictas 6 items en vez de 10 y los otros 4 quedan de tarea; **NO recortes la correccion oral en cadena**.
-- **La llamada no arranca:** se sientan frente a frente pero con un cuaderno abierto como pantalla entre las caras — sigue siendo llamada, sigue sin gestos. Tu sigues fuera del rol.
+- **La recepcion no arranca:** escribes en el tablero 4 preguntas fijas del visitante (*Who handles...? · Does she work...? · What time does...? · Doesn't he...?*) y el recepcionista las responde en orden. Tu sigues fuera del rol.
 - **Grupo pequeno esta noche:** 2 rotaciones largas y los minimos por rotacion suben a 6 preguntas y 6 afirmativas.
 - **Sobra tiempo:** "conjugation bee" — dices un verbo, el grupo lo pone en tercera persona en coro con la ortografia correcta; el que falla lo usa en una frase verdadera.
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
 - **Derivada de** `VERSION_2/B1_4H/GRAMATICA/B1_Clase5_GRAMMAR_PRINT.md` (mismo modulo, mismas citas verbatim, misma secuencia). Adaptacion al nocturno: 110 -> **120 min**; los 10 minutos extra fueron **a produccion escrita y oral** (B2 de 40 a 45 con el dictado de 10 items, B3 de 35 a 38 con **4 rotaciones** en vez de 3), nunca a explicacion.
-- **B3 REDISENADO POR ANTI-DUPLICADO.** La fuente 4H usaba **"TEAM ROUTINE BRIEFING — HOW THE TEAM WORKS / WHO DOES WHAT?"**, que es practicamente la misma escena que el B3 de Conv Cl 5 (**"TEAM SCHEDULE — WHO DOES WHAT, AND WHEN?"**): mismo registro interno, mismos roles (alguien describe al equipo mas alguien que pregunta). **En una sola linea: el B3 de hoy es distinto del de Conv Cl 5 porque cambia de registro interno a llamada de un cliente EXTERNO, cambia los roles (cliente y agente, espalda contra espalda y sin gestos) y cambia la carga gramatical obligatoria — Conv trabajo el afirmativo, hoy la escena no avanza sin negativo, pregunta y short answer corto.** Ni el titulo, ni los roles, ni el guion, ni la ficha de los observers se repiten (Conv conto -s OK / -s MISSING; hoy son tres columnas con BASE).
+- **B3 REDISENADO POR ANTI-DUPLICADO (dos veces).** (1) La fuente 4H usaba **"TEAM ROUTINE BRIEFING"**, practicamente la misma escena que el B3 de Conv Cl 5 (**"TEAM SCHEDULE COORDINATION"**: alguien describe al equipo y otro pregunta). (2) La primera version nocturna era una **llamada de espaldas**, el mismo formato que Grammar Cl 4 (SERVICE SCHEDULING CALL), que dicta la misma docente en la clase anterior de su pista. **Hoy es FRONT DESK — WHO HANDLES THIS?:** visitante externo en la recepcion de una empresa, cara a cara, con el recepcionista sin poder señalar ni llamar a nadie. Frente a Conv Cl 5 cambia el registro (cliente externo, no coordinacion interna), los roles (visitante y recepcionista) y la carga (la escena no avanza sin negativo, pregunta y short answer corto; Conv trabajo el afirmativo). Frente a Grammar Cl 4 deja de ser llamada y cambia la meta (encontrar al responsable de un caso, no agendar una hora). Ficha de observers de tres columnas con BASE (Conv conto -s OK / -s MISSING). Revision del 30/09.
 - **Virtud:** PRUDENCIA, **Cl 5 de 5 — cierra el bloque**. Calendario absoluto por numero de clase de cada pista: **Cl 6 de cada pista abre TEMPLANZA**. No se desplaza por festivos ni cancelaciones. El PASE de esta noche se lo avisa por escrito al profe de Conversacion.
 - **Recuperacion de esta pista:** N-3 = **Grammar Cl 2**. **N-7 no existe aun** (seria Grammar Cl -2), asi que el segundo bloque de disparadores sale del PASE recibido. Sin mapa semanal de tickets todavia: NO citar tickets.
 - **Cierre del puente A1/A2 en la pista de Gramatica.** El puente sello: present perfect vs simple past (A2 M17, Cl 1-2), should mas numeros (A1 M4/M5, Cl 3), will mas in/on/at (A1 M6/M29 y A2 M1-2, Cl 4) y simple present mas tercera persona (A1 M8/M9, Cl 5). **Grammar Cl 6 arranca la marcha del libro**: have -> HAS (A1 M17, Guia 1 p.211) mas los tres sonidos de la -s (A1 M9, Guia 1 punto 4, p.112). Grammar Cl 5 deja escrito en su caja "NO TOCAR AUN" exactamente eso, para que Cl 6 no lo amplie ni lo repita.

@@ -18,19 +18,20 @@
 
 1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de 6:45 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
 2. **Chequeo de portafolio con lista en mano (4').** Ya viste los videos antes de entrar. Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"'three times to the week' — say 'three times A week'"*). Al que no envio: *"You send yesterday's video TODAY, together with today's. Two videos, same day. The list goes to coordination tonight."* Sin discusion.
-3. **Recuperacion espaciada DE TU PISTA (8', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Conv Cl 5** (present simple y la -s de tercera persona) · N-7 = **Conv Cl 1** (los dos pasados y el arranque de MY STORY). Errores oidos al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
+3. **Recuperacion espaciada DE TU PISTA (5', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Conv Cl 5** (present simple y la -s de tercera persona) · N-7 = **Conv Cl 1** (los dos pasados y el arranque de MY STORY). Errores oidos al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
    - "A coworker's routine, two true sentences: 'He starts at 8. She checks the numbers.'" (Cl 5)
-   - "Turn it into a question: 'Does she work Mondays?'" (Cl 5)
+   - "Turn it into a question: 'Does she work weekends?'" (Cl 5)
    - "Fix it out loud: 'He work every day.'" (Cl 5)
    - "MY STORY, one sentence: who you are and ONE thing you have achieved in English." (Cl 1)
-4. **Lectura del PASE recibido, en voz alta (3').** Lees los 3 errores literales del papel: *"These three came out of your mouths last class. Today we count the week with real numbers."*
+4. **Lectura del PASE recibido, en voz alta (2').** Lees los 3 errores literales del papel: *"These three came out of your mouths last class. Today we count the week with real numbers."*
    > **Si dictaste tu la clase anterior (viernes y lunes, o jueves y viernes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.** En ese caso sumas las 2 rotaciones extra del Bloque 3 que estan en el Plan B.
-5. **Frase del Dia (3').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea, sin clase de gramatica: *"The number closes the sentence: 'twice a week', at the end."* Insertala natural **3+ veces** durante la clase; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
+5. **RHYTHM ROUNDUP, de pie (2') — lo pide el PASE.** Antes de tocar el tablero: cada estudiante da 1 frase verdadera con *"every day"* o *"twice a week"* AL FINAL (*"I check my email every morning"*). Rapido, en cadena, sin correcciones largas.
+6. **Frase del Dia (3').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea, sin clase de gramatica: *"The number closes the sentence: 'twice a week', at the end."* Insertala natural **3+ veces** durante la clase; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
-> **[VIRTUD] TEMPLANZA — Cl 3 de 5. Tablero: "TEMPERANCE — DAY 3 OF 5".** (3', el ritual completo)
+> **[VIRTUD] TEMPLANZA — Cl 3 de 5. Tablero: "TEMPERANCE — DAY 3 OF 5".** (5', el ritual completo)
 > **Por que:** templanza es disciplina y manejo del tiempo. Nadie aprende un idioma por talento: lo aprende el que sostiene la repeticion cuando ya dejo de ser novedad. El video diario, llegar a las 6:30 y hacer el drill completo sin atajos SON la templanza de este nivel.
 > **En el aula hoy:** dejar de decir "a lot" y "sometimes" y empezar a decir el numero exacto que SI puedes cumplir.
-> **V (1'):** *"This block is temperance. Today it has a number: the habit you can actually keep."* · **A (1'):** pregunta al grupo, 30 seg de pensar: *"How often do you practice English right now — the real number, not the one you wish?"* · **T (1'):** cadena de pie, cada uno 1-2 frases con su expresion al final; escuchas y anotas errores, NO corriges aqui · **S (30''):** 2-3 respuestas al grupo y cierras con una frase: *"A promise with a number is a plan. A promise without one is a wish."*
+> **V (1'):** *"This block is temperance. Today it has a number: the habit you can actually keep."* · **A (1'):** pregunta al grupo, 30 seg de pensar: *"How often do you practice English right now — the real number, not the one you wish?"* · **T (2'):** cadena de pie, cada uno 1-2 frases con su expresion al final; escuchas y anotas errores, NO corriges aqui · **S (1'):** 2-3 respuestas al grupo y cierras con una frase: *"A promise with a number is a plan. A promise without one is a wish."*
 > **Si alguien pregunta que tiene que ver con ingles:** *"Everything. The day you need this language — an interview, a flight, a client — what fails is not your vocabulary: it is your nerve or your consistency. That is what we train here."*
 
 ## BLOQUE 2 — TU RITMO EN NUMEROS (45')
@@ -61,7 +62,7 @@ NEVER: "three times to the week" · "every days" · "I twice a week go"
 **Objective: hold the expression, in the right place, under pressure — in a real scheduling conversation where the number is negotiated.**
 
 1. Tablero: `RECURRING-MEETING SCHEDULING — 1 GUEST — 1 COLLEAGUE — EVERYONE ELSE OBSERVES`
-2. **Escenario profesional realista (solo tablero y sala), 2'.** Dos colegas cierran la cadencia del equipo para el proximo trimestre: la reunion, el reporte, el backup, la revision de numeros. **1 estudiante = guest**: propone frecuencias reales (*"Let's meet twice a week. I send the report every Friday. We review the numbers once a month."*). **1 estudiante rota como colega** que ajusta y presiona (*"Once a week is enough for me. Can you do it three times a week? How often do you back it up?"*) — cada ajuste obliga a repetir la expresion completa. **TU eres COACH desde afuera — NUNCA juegas guest ni colega.** Si se congelan 15 seg, sueltas UN prompt (*"Give him a number"*) y te retiras.
+2. **Escenario profesional realista (solo tablero y sala), 2'.** Dos colegas cierran la cadencia del equipo para el proximo trimestre: la reunion, el reporte, el backup, la revision de numeros. **1 estudiante = guest**: propone frecuencias reales (*"Let's meet twice a week. I send the report every week. We review the numbers once a month."*). **1 estudiante rota como colega** que ajusta y presiona (*"Once a week is enough for me. Can you do it three times a week? How often do you back it up?"*) — cada ajuste obliga a repetir la expresion completa. **TU eres COACH desde afuera — NUNCA juegas guest ni colega.** Si se congelan 15 seg, sueltas UN prompt (*"Give him a number"*) y te retiras.
 3. **OBSERVERS ACTIVOS con ficha en su propio papel (la dibujan ellos en 30 seg):** dos columnas, `EVERY + SINGULAR` y `NUMBER + A + PERIOD`. **Una raya por cada expresion que oigan** en la columna que corresponda, mas 1 error de posicion y 1 pregunta al final. Al cerrar cada rotacion cantan el conteo en voz alta: *"five 'every', six with a number."*
 4. **Minimos por rotacion:** el guest dice 5 frases con expresion al final (minimo 3 distintas) + acepta o rechaza 3 ajustes del colega repitiendo la expresion completa + 1 contraste weekday/weekend.
 5. **4 rotaciones (~8' cada una)**, guest y colega nuevos en cada una, el proceso cambia cada vez (reunion de equipo, entrega a cliente, turno de fin de semana, mantenimiento). Entre rotaciones, 45 seg de cadena rapida de pie: *"week -> twice a week -> every week."*
@@ -83,14 +84,15 @@ speaking, straight through, NO reading, NO script on camera.
 Content: "MY REAL WEEK IN NUMBERS" — 6 different frequency expressions,
 each one at the END of the sentence, plus one weekday/weekend contrast,
 plus your three MY RHYTHM lines. Close with the Phrase of the Day.
-Send it TODAY to the cohort group. Label: B1-2H-VIDEO-15.
+Send it TODAY to the cohort WhatsApp group. Label: B1-2H-VIDEO-15.
+Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **La tarea de hoy es SOLO el video** — la tarea escrita de este modulo la asigna el docente de Gramatica manana. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
 4. **PASE al docente de GRAMATICA (Grammar Cl 8) — se lo dejas ESTA MISMA NOCHE**, en papel en la carpeta del cohorte o por mensaje escrito directo por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase de manana la dicta otra persona que no estuvo hoy.** Copia este texto y llenalo antes de salir:
 ```
 PASE Conv Cl 8 -> Grammar Cl 8 — del docente de CONVERSACION al de GRAMATICA
-Virtud: TEMPLANZA, Cl 3 de 5 (Cl 6-10). Manana es Cl 4 de 5.
+Virtud: TEMPLANZA, Cl 3 de 5 (Cl 6-10). Tu Grammar Cl 8 tambien es Cl 3 de 5.
 LO QUE SALIO ORAL HOY: expresiones de frecuencia con numero (once/twice/
 three times + a + day/week/month/year, every + singular) puestas AL FINAL
 de la frase + contraste weekday/weekend. Modulo A1 M13, Guia 1 p.167.
@@ -112,7 +114,7 @@ LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo modulo.
 Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ **Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto** ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche ☐ Pieza MY RHYTHM producida por todos
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ Pieza MY RHYTHM producida por todos
 
 [PAGEBREAK]
 
@@ -146,7 +148,7 @@ Firma Conversacion: ______________  Recibido Gramatica: ______________
 - **Se deriva de:** `VERSION_2/B1_4H/CONVERSACION/B1_Clase8_CONV_PRINT.md` (Conv Cl 8 del B1 Mastery 4h). Mismo modulo (A1 M13), mismas citas verbatim, misma secuencia y mismo escenario de simulacion.
 - **Que cambio para el nocturno de 120 min:** la fuente reparte 110' (20/40/35/15); aqui 22/45/38/15 = 120. Los 10 minutos extra fueron **a produccion**, no a explicacion: +2' al chequeo de portafolio con lista (ritual nuevo del nocturno), +5' al Bloque 2 (segunda ronda de parejas y la pieza de proyecto escrita) y +3' al Bloque 3 (una **cuarta rotacion**). Ademas: chequeo de portafolio con lista y mejora dicha por video, PASE escrito entrante y saliente entre docentes distintos, caja HOY SOLO, ritual VATS completo con su por que, y tarea de una sola pieza.
 - **Tarea por pista, sin duplicar:** Conversacion deja SOLO el video diario (No. 15, minimo 3 min, mismo dia, al grupo del cohorte). La tarea ESCRITA de M13 la asigna Gramatica Cl 8. La pieza del proyecto se produce EN CLASE, en el papel del estudiante, para no fragmentar la tarea.
-- **Anti-duplicado:** Conv usa hoy **RECURRING-MEETING SCHEDULING** (dos colegas acuerdan la cadencia del equipo; el numero se negocia). El PASE se lo prohibe explicitamente a Gramatica. La fuente 4H de Grammar Cl 8 usaba "SCHEDULE BRIEFING" (planear la cadencia de un proyecto con el jefe), que es practicamente el mismo guion — **por eso Grammar Cl 8 del nocturno lleva escenario rediseñado** (auditoria de bitacora de mantenimiento); queda dicho aqui para que coordinacion lo vea intencional.
+- **Anti-duplicado:** Conv usa hoy **RECURRING-MEETING SCHEDULING** (dos colegas acuerdan la cadencia del equipo; el numero se negocia). El PASE se lo prohibe explicitamente a Gramatica. La fuente 4H de Grammar Cl 8 usaba "SCHEDULE BRIEFING" (planear la cadencia de un proyecto con el jefe), que es practicamente el mismo guion — **por eso Grammar Cl 8 del nocturno lleva escenario rediseñado** (orientacion de un inquilino nuevo con la administracion del edificio); queda dicho aqui para que coordinacion lo vea intencional.
 - **Recuperacion espaciada por pista:** N-3 = **Conv Cl 5** (present simple, tercera persona -s) · N-7 = **Conv Cl 1** (apertura del nivel, los dos pasados, MY STORY). Sin mapa semanal de tickets todavia — NO se citan tickets.
 - **Virtud:** TEMPLANZA, Cl 3 de 5 (Cl 6-10 de cada pista), calendario absoluto por numero de clase. Cl 10 la cierra.
 - **Proyecto del nivel:** MY STORY, MY GOALS avanza la pieza "MY RHYTHM IN NUMBERS" (3 lineas, papel del estudiante, insumo directo del midterm de Cl 22).

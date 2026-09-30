@@ -20,19 +20,19 @@
 
 1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de 6:45 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
 2. **Chequeo de portafolio con lista en mano (4').** Ya viste los videos antes de entrar. Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'the book's cover' — 'the cover OF the book'"*). Al que no envio: *"You send yesterday's video TODAY, together with today's. Two videos, same day. The list goes to coordination tonight."* Sin discusion.
-3. **Recuperacion espaciada DE TU PISTA (8', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 6** (HAS, nunca "haves", y los tres sonidos de la -s) · N-7 = **Grammar Cl 2** (didn't vs haven't yet, pregunta con short answer). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
+3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 6** (HAS, nunca "haves", y los tres sonidos de la -s) · N-7 = **Grammar Cl 2** (didn't vs haven't yet, pregunta con short answer). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
    - "Third person with HAVE: 'She HAS two reports.' — never 'she haves'." (Cl 6)
    - "The three sounds of the -s: works / plays / watches." (Cl 6)
    - "One 'I haven't... yet' about this week." (Cl 2)
    - "Short answer only: 'Have you called the supplier?'" (Cl 2)
 4. **Lectura del PASE recibido, en voz alta (3').** Lees los 3 errores literales del papel: *"These three came out of your mouths last class. Tonight the apostrophe goes where it belongs and stays there."*
-   > **Si dictaste tu la clase anterior (viernes y lunes, o jueves y viernes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.** En ese caso dictas los 10 items del libro mas 5 propios del grupo, y el Bloque 3 sube a 5 rotaciones.
+   > **Si dictaste tu la clase anterior (jueves y viernes, o viernes y lunes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.** En ese caso dictas los 10 items del libro mas 5 propios del grupo, y el Bloque 3 sube a 5 rotaciones.
 5. **Frase del Dia (3').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea: *"One owner: apostrophe before the s. Many owners: apostrophe after the s."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
-> **[VIRTUD] TEMPLANZA — Cl 4 de 5. Tablero: "TEMPERANCE — DAY 4 OF 5".** (3', el ritual completo)
+> **[VIRTUD] TEMPLANZA — Cl 4 de 5. Tablero: "TEMPERANCE — DAY 4 OF 5".** (5', el ritual completo)
 > **Por que:** templanza es precision paciente. En un documento, un apostrofe mal puesto cambia de quien es la responsabilidad — y eso, en una reclamacion, en un contrato o en un inventario, cuesta dinero. La disciplina de escribirlo bien es la misma que sostiene el video diario.
 > **En el aula hoy:** revisar antes de entregar. Nadie escribe rapido y bien al mismo tiempo la primera vez: se escribe, se relee, se corrige.
-> **V (1'):** *"Day four, on paper. Temperance is the second look before you hand it in."* · **A (1'):** pregunta, 30 seg de pensar: *"What is one thing you wrote or said this month that you should have checked twice?"* · **T (1'):** cadena de pie, cada uno responde en 1-2 frases usando un posesivo; escuchas y anotas, NO corriges aqui · **S (30''):** 2-3 al grupo y cierras: *"One more class of temperance in each track, and then the next guide names the new virtue."*
+> **V (1'):** *"Day four, on paper. Temperance is the second look before you hand it in."* · **A (1'):** pregunta, 30 seg de pensar: *"What is one thing you wrote or said this month that you should have checked twice?"* · **T (2'):** cadena de pie, cada uno responde en 1-2 frases usando un posesivo; escuchas y anotas, NO corriges aqui · **S (1'):** 2-3 al grupo y cierras: *"One more class of temperance in each track, and then the next guide names the new virtue."*
 > **Si alguien pregunta que tiene que ver con ingles:** *"Everything. On the day you need this language, what fails is not vocabulary: it is nerve, or consistency, or preparation. That is what we train here."*
 
 ## BLOQUE 2 — SELLAR M15 Y M30 EN PAPEL (45') — DE PIE ~90%
@@ -107,7 +107,8 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     through, NO reading, NO script. Content: "WHO ANSWERS FOR WHAT ON MY
     TEAM" — name the owner of each tool, space and task, using all four
     forms. Close with the Phrase of the Day.
-    Send it TODAY to the cohort group. Label: B1-2H-VIDEO-18.
+    Send it TODAY to the cohort WhatsApp group. Label: B1-2H-VIDEO-18.
+    Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **El video es DIARIO: no es la tarea de una pista ni un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
@@ -129,7 +130,7 @@ YA QUEDO HECHO HOY, NO LO REPITAS: la tabla completa en el tablero · el
 dictado de Ejemplos 1 p.336 · el drill de apostrofe · la simulacion
 INSURANCE CLAIM AFTER AN OFFICE INCIDENT (no repitas ese titulo ni su guion)
 · chequeo de portafolio (videos que NO llegaron: ____________).
-MANANA ES TU HITO (ENTREVISTA SIMULADA): llegan con el papel de 12 lineas y
+TU PROXIMA CLASE DE CONVERSACION ES EL HITO (ENTREVISTA SIMULADA) — si por el calendario ya paso, esta linea no aplica: llegan con el papel de 12 lineas y
 con la posesion fresca. No tienen que volver a explicarla; usala dentro de
 la entrevista ("my previous role", "the company's clients", "my manager's team").
 TAREA QUE DEJE: 12 lineas escritas mas el video No. 18, ambas antes de las
@@ -138,7 +139,7 @@ LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el contenido de manana.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte firmado (con columna "llegada tarde") ☐ **Lista de videos: quien ENVIO y quien NO, con UNA mejora anotada por video visto** ☐ Error paper anonimo recogido ☐ Tickets recogidos (TODOS) ☐ Fotos del tablero y de la simulacion ☐ PASE entregado esta noche ☐ ~87% DE PIE confirmado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~87% DE PIE confirmado
 
 [PAGEBREAK]
 
