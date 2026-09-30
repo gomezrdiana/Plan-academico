@@ -50,11 +50,18 @@ A la persona que tiene un inmueble pero está reportada en centrales de riesgo y
 3. **Centrales (Ley 1266 de 2008 y Ley 2157 de 2021):** es legal reclamar reportes mal hechos y negociar y pagar la deuda; prometer borrar un reporte de una deuda existente no lo es, y la SIC sanciona a quien lo ofrece. **Promesa decidida: plazo estimado por escrito después del estudio, nunca resultado garantizado.** En la publicidad nunca "te borramos el reporte" ni "sales en X días".
 4. **El 50% adelantado:** si tras el estudio no hay solución posible, debe quedar escrito desde el contrato qué cubre ese pago (el estudio) para que no termine en queja.
 
-## 9. LA PRUEBA DE OCTUBRE
-- **Pauta:** prueba pequeña, hasta $500.000, con presupuesto de Carlos.
-- **Mensaje:** el problema (reportado, el banco no te presta aunque tengas un inmueble) + lo que dice la ley (los reportes con errores se pueden reclamar) + experiencia ("más de [X] años" — dato por confirmar con Carlos). Los casos de éxito son confidenciales: no se muestran en detalle.
-- **Filtro en el anuncio y en la primera respuesta:** tener un inmueble. Sin inmueble no hay crédito.
-- **Señal para poner más plata:** más clientes — personas que pagan la primera mitad del estudio y conversaciones con personas que sí tienen inmueble.
+## 9. PLAN DE OCTUBRE: DOS LÍNEAS, DOS CANALES (Diana, 30/09)
+
+| | Línea A: Radiografía y tablero (empresas) | Línea B: salir de centrales + crédito con hipoteca (personas) |
+|---|---|---|
+| Canal | Grupo de empresarios de Margarita Pasos + Instagram de Carlos + landing ceremolina.com. Sin pauta. | Instagram y Facebook con pauta pequeña (hasta $500.000, presupuesto de Carlos). Es público frío. |
+| Apoyo de Diana (hecho) | Encuesta al grupo (MENSAJES_ENCUESTA_GRUPO_MARGARITA.docx): mensajes 1A/1B → test 7 NO → muestra → llamada. | Anuncio + mensajes de entrada (ANUNCIO_PRUEBA_CENTRALES_v1.docx): gancho con filtro de inmueble, tres preguntas de calificación, respuesta si califica y si no. |
+| Lo que hace Diana en octubre | Manda los primeros 20 mensajes esta semana; sigue con el resto si contestan 2 de cada 10. | Entrega el anuncio a Carlos; lee los números a fin de mes. |
+| Lo que hace Carlos | Atiende a quien conteste; recorta el clip de 60-90 s del caso Florida; entrega la muestra de la Radiografía. | Publica el anuncio con su cuenta y presupuesto; atiende en menos de 30 minutos; cotiza el fee; hace el estudio con su equipo. |
+| Señal de que funciona (revisión 31/10) | De 40 mensajes, 3 conversaciones con el test hecho. | Con $500.000: 10 personas con inmueble y 2 que paguen la primera mitad. |
+| Si no funciona | Se cambia la pregunta de la encuesta. | Se cambia el gancho, no el presupuesto. |
+
+**Reporte semanal de Carlos a Diana (una línea por línea):** cuántos escribieron, cuántos calificaron, cuántos pagaron.
 
 ## 10. PREGUNTAS ABIERTAS (solo dos, ambas números de Carlos)
 1. Valor del fee de salida de centrales (el que se paga 50/50).
