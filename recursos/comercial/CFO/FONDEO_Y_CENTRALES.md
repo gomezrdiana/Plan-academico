@@ -1,5 +1,5 @@
-# FONDEO + SALIDA DE CENTRALES DE RIESGO — idea de negocio (Diana + Carlos)
-### Borrador vivo · 29/09/2026 · Construido por entrevista con Diana (5 rondas)
+# FONDEO + SALIDA DE CENTRALES DE RIESGO — negocio de Carlos (Diana apoya)
+### Borrador vivo · 29/09/2026, corregido 30/09 · Construido por entrevista (5 rondas; varias respuestas las escribió Carlos)
 
 ## 1. LA IDEA EN UNA FRASE
 A la persona que tiene un inmueble pero está reportada en centrales de riesgo y el banco ya no le presta: se estudia legalmente su reporte, se le saca de centrales cuando la ley lo permite, y se le consigue el capital con un fondeador, con hipoteca como garantía. A la empresa que necesita recursos: se le consigue fondeo con sus estados financieros y garantía inmobiliaria.
@@ -33,11 +33,11 @@ A la persona que tiene un inmueble pero está reportada en centrales de riesgo y
 - **Fondeo:** comisión por crédito colocado (monto y quién la paga: por definir, §9).
 - Toda tasa de crédito queda por debajo de la tasa de usura vigente, sumando comisiones y gastos.
 
-## 6. ROLES Y ESTRUCTURA
-- **Vehículo:** una S.A.S. nueva, separada de Global Teacher / Heiiu. **Socios: Diana y Carlos**, con las comisiones estructuradas entre todas las partes (Carlos, su equipo jurídico, Diana).
-- **Carlos y su equipo:** estudio jurídico, firma de reclamos y soluciones, relación con fondeadores, cierre.
-- **Diana:** pone la plata de la publicidad y diseña la estrategia de publicidad. Su porcentaje se acuerda con Carlos (por definir).
-- **Atención de los interesados que llegan por la pauta:** Carlos o Diana (definir uno, §9). Paula no: es la closer de Heiiu.
+## 6. ROLES Y ESTRUCTURA (corregido 30/09 por Diana)
+- **El negocio es de Carlos.** Él y su equipo jurídico hacen el estudio de cada caso, firman reclamos y soluciones, manejan la relación con los fondeadores, atienden a los interesados y cierran. El vehículo (S.A.S. o el que él decida) es suyo; Diana no es socia ni figura en él.
+- **Diana apoya sin sociedad y sin cobrar:** aporta lo que sabe hacer, que es armar cómo se vende un servicio: la oferta, el anuncio, el mensaje de entrada por WhatsApp, quién atiende y cómo se miden los resultados. No pone capital, no atiende leads, no opera. Su tiempo tiene tope mientras Heiiu esté en lanzamiento.
+- **La publicidad la paga Carlos.** Diana diseña la prueba y la lee; el presupuesto y la cuenta publicitaria son de él.
+- Las decisiones anteriores sobre "socios Diana y Carlos" y "Diana pone la plata de la pauta" quedan sin efecto: no las tomó Diana.
 
 ## 7. RELACIÓN CON RADIOGRAFÍA Y TABLERO
 - Es el mismo dolor (la deuda) con otra puerta de entrada: la Radiografía llega al empresario que "está bien" y no sabe que se desangra; esta línea llega al que ya sabe que está mal y necesita plata.
@@ -51,16 +51,15 @@ A la persona que tiene un inmueble pero está reportada en centrales de riesgo y
 4. **El 50% adelantado:** si tras el estudio no hay solución posible, debe quedar escrito desde el contrato qué cubre ese pago (el estudio) para que no termine en queja.
 
 ## 9. LA PRUEBA DE OCTUBRE
-- **Pauta:** prueba pequeña, hasta $500.000, con plata aparte de la de Heiiu.
+- **Pauta:** prueba pequeña, hasta $500.000, con presupuesto de Carlos.
 - **Mensaje:** el problema (reportado, el banco no te presta aunque tengas un inmueble) + lo que dice la ley (los reportes con errores se pueden reclamar) + experiencia ("más de [X] años" — dato por confirmar con Carlos). Los casos de éxito son confidenciales: no se muestran en detalle.
 - **Filtro en el anuncio y en la primera respuesta:** tener un inmueble. Sin inmueble no hay crédito.
 - **Señal para poner más plata:** más clientes — personas que pagan la primera mitad del estudio y conversaciones con personas que sí tienen inmueble.
 
-## 10. PREGUNTAS ABIERTAS (para cerrar con Carlos)
-1. Porcentaje de Diana y reparto de comisiones entre Carlos, su equipo jurídico y Diana.
-2. Comisión por fondeo: cuánto y quién la paga (el fondeador o el cliente).
-3. Precio del estudio legal para personas (la mitad que se paga al contratar).
-4. Qué cubre el 50% adelantado si el caso no tiene solución.
-5. Años exactos de experiencia para la publicidad, y tiempos típicos de salida de centrales para el "plazo estimado".
-6. Tasas que cobran los fondeadores (verificar por debajo de la usura).
-7. Quién atiende los leads: Carlos o Diana (uno solo, con horario).
+## 10. PREGUNTAS ABIERTAS (para que Carlos las conteste; con ellas Diana escribe la oferta y el anuncio)
+1. Comisión por fondeo: cuánto y quién la paga (el fondeador o el cliente).
+2. Precio del estudio legal para personas (la mitad que se paga al contratar).
+3. Qué cubre el 50% adelantado si el caso no tiene solución.
+4. Años exactos de experiencia para la publicidad, y tiempos típicos de salida de centrales para el "plazo estimado".
+5. Tasas que cobran los fondeadores (verificar por debajo de la usura).
+6. Quién de su equipo atiende los interesados de la pauta, con horario de respuesta.
