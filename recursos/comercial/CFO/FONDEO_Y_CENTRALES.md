@@ -80,8 +80,14 @@ La cara de la marca B es una asesora real del equipo, con su nombre y su cargo v
 
 **Reporte semanal de Carlos a Diana (una línea por línea):** cuántos escribieron, cuántos calificaron, cuántos pagaron.
 
-## 10. PREGUNTAS ABIERTAS (solo dos, ambas números de Carlos)
-1. Valor del fee de salida de centrales (el que se paga 50/50).
+## 9-BIS. EL PRECIO DE ENTRADA (Diana, 30/09): la limpieza es el medio, la comisión del crédito es el negocio
+Nadie desconocido paga $4 millones por un reclamo. Pero el cliente elegido (con inmueble, necesita plata) no compara el fee con su deuda: lo compara con el crédito que recibe. Decisión propuesta:
+- **Camino crédito (el de la pauta):** valor de entrada BAJO por el estudio y el reclamo (≈ el costo del socio jurídico en un caso típico), y el resto se cobra al desembolso, dentro o junto al 6%. "Pagas poco ahora y el grueso cuando te llega la plata."
+- **Solo limpieza, sin crédito:** fee completo por monto, con pagaré. Pocos clientes, casi siempre recomendados. No es el cliente de la pauta.
+- Pregunta para Carlos: ¿cuánto le cuesta el trabajo de su socio jurídico en un caso típico? Ese número es el precio de entrada.
+
+## 10. PREGUNTAS ABIERTAS
+1. Costo del socio jurídico por caso típico (= precio de entrada del camino crédito) y fee completo para el cliente que solo quiere la limpieza.
 2. Tasas que cobran los fondeadores (entidad e inversionista), para verificarlas contra la usura del mes.
 
 Lo demás ya está: comisión de fondeo 6% · experiencia y atención = las del negocio de dashboards (más de 20 años, 21 empresas, atiende Carlos con su equipo) · promesa = plazo estimado por escrito · prioridad octubre = personas con inmueble.
