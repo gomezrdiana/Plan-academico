@@ -28,9 +28,9 @@ A la persona que tiene un inmueble pero está reportada en centrales de riesgo y
 - **Personas con inmueble y reporte negativo** (prioridad): quieren mejorar su perfil financiero y necesitan plata que el banco les niega.
 - **Empresas** que buscan más recursos y tienen garantía inmobiliaria.
 
-## 5. CÓMO SE GANA LA PLATA
-- **Estudio y gestión de centrales (personas):** 50% al contratar, 50% contra resultado.
-- **Fondeo:** comisión por crédito colocado (monto y quién la paga: por definir, §9).
+## 5. CÓMO SE GANA LA PLATA (Diana, 30/09)
+- **Salida de centrales (personas): un solo fee** que incluye el estudio legal del caso, los reclamos y la gestión. Se paga 50% al contratar y 50% contra resultado. No hay cobro aparte por "estudio". Valor del fee: por confirmar con Carlos.
+- **Fondeo: comisión del 6% sobre el monto desembolsado**, la misma del paquete de fondeo que Carlos ya maneja. Se cobra al desembolso, nunca antes.
 - Toda tasa de crédito queda por debajo de la tasa de usura vigente, sumando comisiones y gastos.
 
 ## 6. ROLES Y ESTRUCTURA (corregido 30/09 por Diana)
@@ -56,10 +56,8 @@ A la persona que tiene un inmueble pero está reportada en centrales de riesgo y
 - **Filtro en el anuncio y en la primera respuesta:** tener un inmueble. Sin inmueble no hay crédito.
 - **Señal para poner más plata:** más clientes — personas que pagan la primera mitad del estudio y conversaciones con personas que sí tienen inmueble.
 
-## 10. PREGUNTAS ABIERTAS (para que Carlos las conteste; con ellas Diana escribe la oferta y el anuncio)
-1. Comisión por fondeo: cuánto y quién la paga (el fondeador o el cliente).
-2. Precio del estudio legal para personas (la mitad que se paga al contratar).
-3. Qué cubre el 50% adelantado si el caso no tiene solución.
-4. Años exactos de experiencia para la publicidad, y tiempos típicos de salida de centrales para el "plazo estimado".
-5. Tasas que cobran los fondeadores (verificar por debajo de la usura).
-6. Quién de su equipo atiende los interesados de la pauta, con horario de respuesta.
+## 10. PREGUNTAS ABIERTAS (solo dos, ambas números de Carlos)
+1. Valor del fee de salida de centrales (el que se paga 50/50).
+2. Tasas que cobran los fondeadores (entidad e inversionista), para verificarlas contra la usura del mes.
+
+Lo demás ya está: comisión de fondeo 6% · experiencia y atención = las del negocio de dashboards (más de 20 años, 21 empresas, atiende Carlos con su equipo) · promesa = plazo estimado por escrito · prioridad octubre = personas con inmueble.
