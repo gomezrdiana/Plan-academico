@@ -39,6 +39,12 @@ A la persona que tiene un inmueble pero está reportada en centrales de riesgo y
 - **La publicidad la paga Carlos.** Diana diseña la prueba y la lee; el presupuesto y la cuenta publicitaria son de él.
 - Las decisiones anteriores sobre "socios Diana y Carlos" y "Diana pone la plata de la pauta" quedan sin efecto: no las tomó Diana.
 
+## 6-BIS. DOS MARCAS (Diana, 30/09)
+- **Marca A = Carlos Remolina, financiero:** Radiografía, tablero y fondeo a empresas del grupo. Con su cara y su nombre (@carlosedo.cfo, ceremolina.com).
+- **Marca B = [nombre por elegir]: salir de centrales + crédito con hipoteca (personas) y fondeo con garantía (empresas por pauta).** Cuenta de Instagram propia, WhatsApp propio, sin la cara ni el nombre de Carlos al frente: se presenta como un equipo. Las caras son personas del equipo (35-50 años) o avatares marcados como IA que nunca se presentan con nombre y cargo de abogado real. El anuncio principal muestra al cliente (persona con su inmueble y su reporte), no al equipo. Carlos y su equipo atienden por detrás.
+- Nombres propuestos (ninguno promete borrar): Vía Libre Financiera · Segunda Puerta · Respaldo Capital.
+- Cuando se elija el nombre: ajustar ANUNCIO_PRUEBA_CENTRALES_v1.docx ("del equipo de [marca]"), PLAN_IG_CENTRALES_9_POSTS (post 7 sin el nombre de Carlos; bio de la marca) y el WhatsApp de destino.
+
 ## 7. RELACIÓN CON RADIOGRAFÍA Y TABLERO
 - Es el mismo dolor (la deuda) con otra puerta de entrada: la Radiografía llega al empresario que "está bien" y no sabe que se desangra; esta línea llega al que ya sabe que está mal y necesita plata.
 - La Radiografía no es requisito para fondear empresas (el fondeador pide estados financieros y garantía). Posible cruce: la empresa cuyos estados financieros no alcanzan para presentarla al fondeador es cliente natural de la Radiografía (por validar con Carlos).
