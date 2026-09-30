@@ -32,7 +32,7 @@
 - Lámina 1: Uno: revisamos tu reporte y tu deuda con nuestro equipo jurídico.
 - Lámina 2: Dos: te entregamos por escrito qué se puede hacer y el plazo estimado. Si no hay salida, también te lo decimos.
 - Lámina 3: Tres: si tu reporte sale y tienes un inmueble, te presentamos a un fondeador para el crédito.
-- Lámina 4: Se paga la mitad al empezar y la otra mitad cuando el reporte sale.
+- Lámina 4: Se paga la mitad al empezar y la otra mitad cuando el reclamo queda radicado, con la constancia en tu mano.
 - Cierre estándar.
 
 **5. "El banco te dijo que no. Eso no es el final."**
@@ -64,7 +64,7 @@
 
 **9. "Antes de pagarle a cualquiera que te prometa 'limpiar' tu reporte, lee esto."**
 - Lámina 1: Señales de estafa: te piden todo el dinero antes · prometen plazo exacto · no te dan nada por escrito · no tienen abogado.
-- Lámina 2: Señales de un servicio serio: estudian tu caso primero · te dicen qué no se puede · plazo estimado por escrito · pago por resultado.
+- Lámina 2: Señales de un servicio serio: estudian tu caso primero · te dicen qué no se puede · plazo estimado por escrito · no cobra todo por adelantado.
 - Lámina 3: Compara y decide.
 - Cierre estándar.
 

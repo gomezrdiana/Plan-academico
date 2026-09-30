@@ -29,7 +29,7 @@ A la persona que tiene un inmueble pero está reportada en centrales de riesgo y
 - **Empresas** que buscan más recursos y tienen garantía inmobiliaria.
 
 ## 5. CÓMO SE GANA LA PLATA (Diana, 30/09)
-- **Salida de centrales (personas): un solo fee** que incluye el estudio legal del caso, los reclamos y la gestión. Se paga 50% al contratar y 50% contra resultado. No hay cobro aparte por "estudio". Valor del fee: por confirmar con Carlos.
+- **Salida de centrales (personas): un solo fee** que incluye el estudio legal del caso, los reclamos y la gestión. **Se paga 50% al contratar y 50% al radicar el reclamo con constancia** (el trabajo ya está hecho; el resultado depende de la entidad), con pagaré por la segunda mitad firmado al contratar. Cuando el cliente toma el crédito, el saldo se descuenta del desembolso. No hay cobro aparte por "estudio". El fee depende del monto reportado; de lo cobrado, Carlos recibe 50% y su socio jurídico 50%. (Cambio 30/09: antes decía "contra resultado"; se cambió porque el cliente que ya salió del reporte no paga.)
 - **Fondeo: comisión del 6% sobre el monto desembolsado**, la misma del paquete de fondeo que Carlos ya maneja. Se cobra al desembolso, nunca antes.
 - Toda tasa de crédito queda por debajo de la tasa de usura vigente, sumando comisiones y gastos.
 
@@ -50,7 +50,7 @@ La cara de la marca B es una asesora real del equipo, con su nombre y su cargo v
 1. Empresa verificable: razón social, NIT y dirección física en la bio y en el primer mensaje.
 2. Una persona real y constante al frente, durante meses.
 3. "Quiénes somos" con el equipo detrás, verificable: Carlos como director financiero (20 años) y el abogado con su tarjeta profesional. No al frente, pero visibles.
-4. Cobro por resultado (50% contra resultado) y decir que no cuando el caso no tiene salida.
+4. No se cobra todo por adelantado (50% al contratar, 50% al radicar el reclamo) y se dice que no cuando el caso no tiene salida.
 5. Todo por escrito: contrato de servicio con lo que cubre y lo que no; estudio del caso entregado en documento.
 6. Enseñar a detectar estafas (post 9): quien te enseña a no caer no te va a tumbar.
 7. Primer paso sin riesgo: revisión inicial de 10 minutos por WhatsApp, sin costo, para decir si vale la pena estudiar el caso.
