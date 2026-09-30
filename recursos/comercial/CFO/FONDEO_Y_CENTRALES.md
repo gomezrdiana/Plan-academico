@@ -45,6 +45,17 @@ A la persona que tiene un inmueble pero está reportada en centrales de riesgo y
 - Nombres propuestos (ninguno promete borrar): Vía Libre Financiera · Segunda Puerta · Respaldo Capital.
 - Cuando se elija el nombre: ajustar ANUNCIO_PRUEBA_CENTRALES_v1.docx ("del equipo de [marca]"), PLAN_IG_CENTRALES_9_POSTS (post 7 sin el nombre de Carlos; bio de la marca) y el WhatsApp de destino.
 
+## 6-TER. CÓMO SE GANA LA CONFIANZA EN LA MARCA B (Diana, 30/09)
+La cara de la marca B es una asesora real del equipo, con su nombre y su cargo verdadero (asesora de casos: comunica, agenda, entrega). Nunca se presenta ni se insinúa como abogada. La confianza se construye con estas ocho cosas, todas verdaderas:
+1. Empresa verificable: razón social, NIT y dirección física en la bio y en el primer mensaje.
+2. Una persona real y constante al frente, durante meses.
+3. "Quiénes somos" con el equipo detrás, verificable: Carlos como director financiero (20 años) y el abogado con su tarjeta profesional. No al frente, pero visibles.
+4. Cobro por resultado (50% contra resultado) y decir que no cuando el caso no tiene salida.
+5. Todo por escrito: contrato de servicio con lo que cubre y lo que no; estudio del caso entregado en documento.
+6. Enseñar a detectar estafas (post 9): quien te enseña a no caer no te va a tumbar.
+7. Primer paso sin riesgo: revisión inicial de 10 minutos por WhatsApp, sin costo, para decir si vale la pena estudiar el caso.
+8. Testimonios reales en video apenas salgan los primeros clientes (con consentimiento); mientras tanto, casos anónimos con fechas.
+
 ## 7. RELACIÓN CON RADIOGRAFÍA Y TABLERO
 - Es el mismo dolor (la deuda) con otra puerta de entrada: la Radiografía llega al empresario que "está bien" y no sabe que se desangra; esta línea llega al que ya sabe que está mal y necesita plata.
 - La Radiografía no es requisito para fondear empresas (el fondeador pide estados financieros y garantía). Posible cruce: la empresa cuyos estados financieros no alcanzan para presentarla al fondeador es cliente natural de la Radiografía (por validar con Carlos).
