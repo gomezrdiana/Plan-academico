@@ -5,12 +5,13 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 9 · Cl N-7 = Cl 5):
   - De **Cl 9** (horas y precios en letras): escribes en el tablero 4 horas y 2 precios (*6:25 · 12:05 · 8:30 · 10:15 · $17.40 · $95.60*); la cadena los dice en palabras, uno cada uno, 2 vueltas, velocidad creciente.
   - De **Cl 5** (respuestas cortas con can): 4-5 estudiantes en cadena — tu preguntas *"Can she swim?" / "Can they play tennis?"* sobre la gente del grupo y responden SOLO con la respuesta corta y el pronombre correcto (*"Yes, she can." / "No, they can't."*).
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido). Hoy cuenta tambien la re-grabacion de la mini-presentacion.
-- **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Traducela una sola vez y sigue: *"Todos comeran en el restaurante a la una."* — todos incluidos, mismo lugar, misma hora: eso es JUSTICIA. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte. Hoy cuenta tambien la re-grabacion de la mini-presentacion.
+- **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Traducela una sola vez y sigue: *"Todos comeran en el restaurante a la una."* — todos incluidos, mismo lugar, misma hora: eso es JUSTICIA. Pregunta virtud + gramatica: *"Where and what time will we all eat?"* — 2-3 DE PIE responden (*"We will all eat in the restaurant at one."*). Cierre: *"Everybody in, nobody out."* Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 11 (6'):** recoges los papeles (8 lineas: 6 pares "What time will you...?" / "I will ... at ..." + 2 respuestas cortas); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 
 ## BLOQUE 2 (43') — M7: lugares con "the" + combinar lugar y hora
@@ -46,7 +47,7 @@ LAS DOS JUNTAS (el objetivo de hoy):
   - TU eres COACH desde afuera: NUNCA juegas vecino ni administrador. Congelados 15+ segundos → UN prompt (*"IN or AT?"*) y te retiras.
   - Minimos por ronda: 3 preguntas con *Where* + 3 con *What time* + 3 frases largas completas (verbo + in the + lugar + at + hora) + 1 respuesta corta con *will/won't*.
   - Rotacion cada 3 min hasta que todos pasen (cambias 1 horario del tablero entre rondas). Debrief (4'): observers reportan (anonimo); correcciones al tablero, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 11 "MY PLACES AND TIMES".** Cada estudiante dice al grupo 4 frases reales de su dia con verbo + *in the* + lugar + *at* + hora. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 11 "MY PLACES AND TIMES".** Cada estudiante dice al grupo 4 frases reales de su dia con verbo + *in the* + lugar + *at* + hora. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -55,14 +56,17 @@ LAS DOS JUNTAS (el objetivo de hoy):
 - **Tarea (tablero) (5'):**
 
 ```
-HOMEWORK CL 12 — DUE: Cl 13 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 12 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 13)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER — "MY PLAN TODAY" (book model, p.93): 8 lines about your
     real day, each one with WILL + IN THE + place + AT + time
     ("I will eat breakfast in the house at six forty-five AM.").
     Use at least 5 different places. Add 2 questions:
     one with "Where ...?" and one with "What time ...?".
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "My real day: where and what time."
     (= MY WORLD piece 11)
 ```
@@ -70,7 +74,7 @@ HOMEWORK CL 12 — DUE: Cl 13 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Cierre de Frase del Dia + anuncio (4'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Anuncio: *"Next class: the simple present."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

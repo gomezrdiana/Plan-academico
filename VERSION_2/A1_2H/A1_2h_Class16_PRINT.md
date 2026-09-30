@@ -5,13 +5,14 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (9'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 13 · Cl N-7 = Cl 9):
   - De **Cl 13** (presente simple, forma base con do/does): dices un sujeto y un verbo (*"we / study" · "he / work" · "the dog / play"*) y la cadena produce la frase afirmativa; con *he/she/it* la "-s" de ayer ya es obligatoria. 4-5 estudiantes, velocidad alta.
   - De **Cl 9** (horas y precios): 60 segundos — escribes 4 horas y 3 precios en el tablero y la cadena los dice en palabras, sin repetir persona seguida.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (2'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido).
+- **Chequeo de portafolio CON LA LISTA EN MANO (2'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Apertura de virtud — FORTALEZA (3'):** hoy arranca el cuarto bloque de 5 clases. En 1-2 lineas y en espanol: FORTALEZA = aguantar cuando cuesta, insistir, no rendirse a la primera. Luego la conectas con la clase: la Frase del Dia usa la forma negativa (*"he doesn't stay in bed"*) — decir lo que uno NO hace es tan importante como decir lo que hace, y hoy toda la clase vive de esa negativa. Cierras pidiendo a 2-3 estudiantes que digan en voz alta una cosa que NO abandonan (en espanol o como puedan en ingles); no se comenta ni se evalua ninguna respuesta.
+- **Apertura de virtud — FORTALEZA (3'):** hoy arranca el cuarto bloque de 5 clases. En 1-2 lineas y en espanol: FORTALEZA = aguantar cuando cuesta, insistir, no rendirse a la primera. Luego la conectas con la clase: la Frase del Dia usa la forma negativa (*"he doesn't stay in bed"*) — decir lo que uno NO hace es tan importante como decir lo que hace, y hoy toda la clase vive de esa negativa. Cierras pidiendo a 2-3 estudiantes que digan en voz alta una cosa que NO abandonan (en espanol o como puedan en ingles); no se comenta ni se evalua ninguna respuesta. Se dice DE PIE, idealmente con *don't* (*"I don't stop."*). Cierre: *"We don't stop."*
 - **Revision de tarea Cl 15 (5'):** recoges los papeles (8 lineas del presente afirmativo sin do/does); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 
 ## BLOQUE 2 (43') — M9 parte 2: en negativo y en pregunta el auxiliar SIEMPRE vuelve
@@ -53,7 +54,7 @@ RESPUESTA CORTA:  Yes, she does.  /  No, she doesn't.
   - TU eres COACH desde afuera: NUNCA juegas empleado ni supervisor. Congelados 15+ segundos → UN prompt (*"Auxiliary or S — not both."*) y te retiras.
   - Minimos por ronda: 4 preguntas con *Do/Does* + 3 negativas con *doesn't/don't* + 2 respuestas cortas + 2 afirmativas correctas con "-s".
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); correcciones al tablero, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 15 "WHAT MY PEOPLE DON'T DO".** Cada estudiante dice al grupo 2 cosas que una persona cercana NO hace y 1 que SI hace (*"My brother doesn't study at night. He doesn't work in the office. He plays soccer."*). Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 15 "WHAT MY PEOPLE DON'T DO".** Cada estudiante dice al grupo 2 cosas que una persona cercana NO hace y 1 que SI hace (*"My brother doesn't study at night. He doesn't work in the office. He plays soccer."*). Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -62,13 +63,16 @@ RESPUESTA CORTA:  Yes, she does.  /  No, she doesn't.
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 16 — DUE: Cl 17 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 16 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 17)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: 9 real lines about people you know:
     3 affirmative with HE/SHE/IT + verb + S (no auxiliary)
     + 3 negative with DOESN'T / DON'T + verb (no S)
     + 3 questions "Does ...?" / "Do ...?" with the short answer next to them.
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "Three things my family doesn't do."
     (= MY WORLD piece 15)
 ```
@@ -76,7 +80,7 @@ HOMEWORK CL 16 — DUE: Cl 17 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: WHAT TIME DID YOU ARRIVE — the past."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

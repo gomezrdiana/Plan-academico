@@ -7,12 +7,13 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (8', version corta — hoy abre virtud), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 18 · Cl N-7 = Cl 14):
   - De **Cl 18** (pasado regular: *didn't*, *did*, respuesta corta y *who*): dices un verbo regular (*visit · help · study · work · play*) y la cadena produce la pregunta y la respuesta corta (*"Did you study yesterday?" — "Yes, I did." / "No, I didn't."*); 4 estudiantes. Ojo: tras *did* el verbo va SIN -ed.
   - De **Cl 14** (presente: *don't / doesn't* y preguntas con *do / does*): dices un sujeto y un verbo y la cadena arma la negativa y la pregunta (*"she / work" → "She doesn't work in the office." → "Does she work in the office?"*); 3-4 estudiantes, en cadena rapida. Ese marco es el que hoy recibe el adverbio.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Apertura de virtud — PRUDENCIA v2 (3'):** escribes PRUDENCE / PRUDENCIA en el tablero. Segunda vuelta: ya no se explica que es, se sube el nivel. 2 lineas: *"Prudencia es pensar antes de actuar. En la segunda vuelta no basta con pensar: hay que pensar SIEMPRE, no a veces."* Aterrizas en 3 conductas de ESTE salon, en el tablero: **1) pienso mi frase antes de hablarla · 2) no adivino: reviso la regla del tablero · 3) hago la tarea el mismo dia, no la ultima hora.** Ronda relampago: cada estudiante dice EN VOZ ALTA cual de las tres va a cuidar hoy, usando un adverbio del dia (*"I always ..."* / *"I never ..."*). Es el marco del bloque Cl 21-25.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido). Arranca el quinto bloque de 5 clases: el conteo vuelve a cero en la libreta.
+- **Apertura de virtud — PRUDENCIA v2 (3'):** escribes PRUDENCE / PRUDENCIA en el tablero. Segunda vuelta: ya no se explica que es, se sube el nivel. 2 lineas: *"Prudencia es pensar antes de actuar. En la segunda vuelta no basta con pensar: hay que pensar SIEMPRE, no a veces."* Aterrizas en 3 conductas de ESTE salon, en el tablero: **1) pienso mi frase antes de hablarla · 2) no adivino: reviso la regla del tablero · 3) hago la tarea el mismo dia, no la ultima hora.** Ronda relampago DE PIE: cada estudiante dice EN VOZ ALTA cual de las tres va a cuidar hoy, usando un adverbio del dia (*"I always ..."* / *"I never ..."*). Cierre: *"Always think first."* Es el marco del bloque Cl 21-25.
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte. Arranca el quinto bloque de 5 clases: el conteo vuelve a cero en la libreta.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — hoy se cae sola, tiene los dos adverbios del modulo. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 20 (5'):** recoges los papeles (12 lineas del ayer real mezclando regular + irregular, con *didn't* y *Did you ...?*); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 
@@ -66,7 +67,7 @@ Never       (nunca)             0%
   - TU eres COACH desde afuera: NUNCA juegas asesor ni inscrito. Congelados 15+ segundos → UN prompt (senalas la fila del tablero *Sujeto | Auxiliar | ADVERBIO | Verbo*) y te retiras.
   - Minimos por ronda: 4 preguntas *How often ...?* + 4 respuestas con adverbio bien colocado + 1 frase con auxiliar (*can / should / will*) + el resumen final en tercera persona.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); la correccion nuclear al tablero — *"I play always soccer"* → *"I ALWAYS play soccer"*, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 20 "MY HABITS — HOW OFTEN".** Cada estudiante dice al grupo 4 frases reales con adverbio pegado al verbo (4 adverbios distintos, minimo 1 con *never*) y le lanza 1 pregunta *"How often do you ...?"* a un companero. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 20 "MY HABITS — HOW OFTEN".** Cada estudiante dice al grupo 4 frases reales con adverbio pegado al verbo (4 adverbios distintos, minimo 1 con *never*) y le lanza 1 pregunta *"How often do you ...?"* a un companero. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -75,13 +76,16 @@ Never       (nunca)             0%
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 21 - DUE: Cl 22 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 21 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 22)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: 8 sentences about YOUR real habits, adverb BEFORE the verb:
     5 with always / usually / often / sometimes / never (all five, one each)
     + 2 with an auxiliary (can / should / will) + adverb
     + 1 question "How often do you ...?".
     Hand in next class.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "My habits: how often." (= MY WORLD piece 20)
 (3) MY WORLD TALK - prepare your full talk, 3 to 4 minutes, OUT LOUD,
     with your pieces 1 to 20. Practice it 3 times alone with your phone.
@@ -91,7 +95,7 @@ HOMEWORK CL 21 - DUE: Cl 22 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Cierre de Frase del Dia + anuncio (4'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Anuncio: *"Next class: your MY WORLD talk, and 'twice a week'."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

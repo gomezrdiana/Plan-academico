@@ -5,12 +5,13 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 4; Cl N-7 aun no existe):
   - De **Cl 4** (pregunta con what): 4-5 estudiantes preguntan *"What can he/she/they play?"* sobre companeros y la cadena responde con pronombre, sin repetir deporte.
   - De **Cl 6** (should): tu das un problema en 3 palabras (*"He is tired."*) y 4-5 estudiantes responden con una recomendacion (*"He should sleep."*), alternando afirmativa y negativa.
   - De **Cl 6** (vocabulario del modulo): coro rapido de las ciudades del tablero + *live*, cuidando la "v" (truco 6 del M0).
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido).
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 6 (6'):** recoges los papeles (8 recomendaciones); 2 estudiantes leen 1 recomendacion cada uno. Anotas en libreta quien NO entrego.
 
@@ -48,7 +49,7 @@ RESPUESTA CORTA: igual que con "can", es simplemente "should" y "shouldn't".
   - TU eres COACH desde afuera: NUNCA juegas guest ni asesor. Congelados 15+ segundos → UN prompt (*"Where?"*) y te retiras.
   - Minimos por ronda: 2 preguntas con *Where* + 3 respuestas con *in + ciudad* + 2 respuestas cortas.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); correcciones al tablero, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 7 "WHERE I SHOULD LIVE".** Cada estudiante dice al grupo 2 frases: donde deberia vivir y por que (con un deporte o actividad que puede hacer alli). Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 7 "WHERE I SHOULD LIVE".** Cada estudiante dice al grupo 2 frases: donde deberia vivir y por que (con un deporte o actividad que puede hacer alli). Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -57,19 +58,22 @@ RESPUESTA CORTA: igual que con "can", es simplemente "should" y "shouldn't".
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 7 — DUE: Cl 8 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 7 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 8)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: 8 lines about real people you know:
     3 questions "Where should ... live?" + 3 answers with "should live in ...",
     + 2 short answers ("Yes, ... should." / "No, ... shouldn't.").
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "Where I should live and why."  (= MY WORLD piece 7)
 ```
 
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: numbers to one hundred."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

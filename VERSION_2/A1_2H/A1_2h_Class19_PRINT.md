@@ -7,11 +7,12 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 16 · Cl N-7 = Cl 12):
   - De **Cl 16** (does: negativo y pregunta): dices un sujeto y un verbo y la cadena produce la negativa y luego la pregunta (*"he / work" → "He doesn't work." → "Does he work?"*); 4-5 estudiantes. Ojo: tras *does*, el verbo va SIN -s.
   - De **Cl 12** (times and places): escribes 4 lugares y 4 horas en el tablero; un estudiante pregunta *"What time ...?"* o *"Where ...?"* y el siguiente responde con *at + hora* / *in + lugar*, en cadena rapida.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido).
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 18 (6'):** recoges los papeles (10 lineas: afirmativas con -ed, negativas con *didn't*, preguntas con *Did* y *Who*); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego.
 
@@ -61,7 +62,7 @@ I      | did      | ---   | ate   | lunch   ->  I ate lunch.       (Yo almorce.)
   - Minimos por ronda: 5 afirmativas irregulares del guest + el resumen completo en tercera persona del supervisor + 3 de esas frases con hora o lugar.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); correcciones al tablero, coro 2x.
   - **HOY NO se construyen preguntas ni negativas propias:** si el supervisor necesita preguntar, LEE una de las dos preguntas modelo que dejas escritas en el tablero (*What time did you wake up? · Where did you eat lunch?*). Esas dos se leen, no se fabrican — la construccion es de la proxima clase.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 18 "MY REAL YESTERDAY, HOUR BY HOUR".** Cada estudiante dice al grupo su ayer real en 5 frases afirmativas con verbo irregular, en orden y con hora. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 18 "MY REAL YESTERDAY, HOUR BY HOUR".** Cada estudiante dice al grupo su ayer real en 5 frases afirmativas con verbo irregular, en orden y con hora. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -70,13 +71,16 @@ I      | did      | ---   | ate   | lunch   ->  I ate lunch.       (Yo almorce.)
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 19 - DUE: Cl 20 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 19 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 20)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: two parts.
     A) Write the 8 pairs: wake up / woke up ... go to bed / went to bed.
     B) 8 affirmative sentences about YOUR real yesterday, in order,
        using 6 different irregular verbs + "at (time)" or "in (place)".
     Hand in next class.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "My real yesterday, hour by hour, from woke up to went to bed."
     (= MY WORLD piece 18)
 ```
@@ -84,7 +88,7 @@ HOMEWORK CL 19 - DUE: Cl 20 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: the irregular past — negatives and questions."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

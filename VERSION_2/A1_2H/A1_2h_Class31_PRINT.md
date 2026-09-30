@@ -7,12 +7,13 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (8', version corta — hoy abre virtud), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 28 · Cl N-7 = Cl 24):
   - De **Cl 28** (doble verbo con *to*): dices dos verbos sueltos (*"want / go" · "have / study" · "need / find"*) y la cadena arma la frase con *to* en medio y CON complemento (*"I have to study in the house."*); 4 estudiantes. Ojo: nunca *"I need go"*.
   - De **Cl 24** (adjetivos posesivos): dices sujeto + sustantivo (*"she / team" · "they / mother"*) y la cadena arma la frase con el posesivo correcto; 3 estudiantes. Ojo con *his/her* cruzados — hoy vuelven a aparecer al lado de *he's / she's*.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Apertura de virtud — JUSTICIA v2 (3'):** escribes JUSTICE / JUSTICIA en el tablero. Segunda vuelta: se sube el nivel. 2 lineas: *"Justicia es dar a cada uno lo que le corresponde: el mismo turno, el mismo tiempo, la misma exigencia. En la segunda vuelta ya no es esperar el turno — es cuidar que nadie se quede sin el suyo."* Aterrizas en 3 conductas de ESTE salon, en el tablero: **1) si alguien no ha pasado, lo nombro · 2) corrijo sin burla · 3) el que va mas rapido ayuda, no adelanta.** Ronda relampago: cada estudiante dice EN VOZ ALTA cual de las tres va a cuidar hoy, usando la estructura del dia (*"I'm the one who ..."* o simplemente *"I'm ... and I'm not ..."*). Es el marco del bloque Cl 31-35.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido). Arranca el septimo bloque de 5 clases: el conteo vuelve a cero en la libreta.
+- **Apertura de virtud — JUSTICIA v2 (3'):** escribes JUSTICE / JUSTICIA en el tablero. Segunda vuelta: se sube el nivel. 2 lineas: *"Justicia es dar a cada uno lo que le corresponde: el mismo turno, el mismo tiempo, la misma exigencia. En la segunda vuelta ya no es esperar el turno — es cuidar que nadie se quede sin el suyo."* Aterrizas en 3 conductas de ESTE salon, en el tablero: **1) si alguien no ha pasado, lo nombro · 2) corrijo sin burla · 3) el que va mas rapido ayuda, no adelanta.** Ronda relampago DE PIE: cada estudiante dice EN VOZ ALTA cual de las tres va a cuidar hoy, usando la estructura del dia (*"I'm the one who ..."* o simplemente *"I'm ... and I'm not ..."*). Cierre: *"We're a team."* Es el marco del bloque Cl 31-35.
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte. Arranca el septimo bloque de 5 clases: el conteo vuelve a cero en la libreta.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — trae afirmativa Y negativa contraidas en una sola linea. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 30 (5'):** recoges los papeles (8 lineas con *be*: 3 negativas, 3 preguntas con *how/where/what*, 2 respuestas con pronombre); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 
@@ -74,7 +75,7 @@
   - TU eres COACH desde afuera: NUNCA juegas invitado ni persona de la mesa. Congelados 15+ segundos → UN prompt (senalas la fila de la tabla) y te retiras.
   - Minimos por ronda: 3 afirmativas contraidas + 3 negativas (minimo 1 de cada forma) + 2 profesiones con *a/an* + la confirmacion en tercera persona.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); la correccion nuclear al tablero — *"I amn't Jack"* → *"I'M NOT Jack"*, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 28 "WHO I AM AND WHO I'M NOT".** Cada estudiante dice al grupo 4 frases reales: 2 afirmativas contraidas sobre si mismo (*"I'm ..."*, minimo 1 con profesion o rol) + 2 negativas usando las DOS formas (*"I'm not ..." / "She isn't ..."*). Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 28 "WHO I AM AND WHO I'M NOT".** Cada estudiante dice al grupo 4 frases reales: 2 afirmativas contraidas sobre si mismo (*"I'm ..."*, minimo 1 con profesion o rol) + 2 negativas usando las DOS formas (*"I'm not ..." / "She isn't ..."*). Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -83,7 +84,8 @@
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 31 - DUE: Cl 32 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 31 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 32)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 ON PAPER: 10 real lines with BE in the present (Modules 21 and 22):
     A) 5 AFFIRMATIVE with the contraction (I'm, you're, he's, she's,
        it's, we're, they're) - use 5 different pronouns.
@@ -92,14 +94,16 @@ ON PAPER: 10 real lines with BE in the present (Modules 21 and 22):
        ("He is not Jack." / "He's not Jack." / "He isn't Jack.").
        Remember: for "I" there is only ONE short form.
     Hand in next class.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "Who I am and who I'm not." (= MY WORLD piece 28)
 ```
 
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Cierre de Frase del Dia + anuncio (4'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Anuncio: *"Next class: Are you Juan? — questions with BE."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

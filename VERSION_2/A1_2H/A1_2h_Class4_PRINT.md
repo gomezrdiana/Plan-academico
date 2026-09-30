@@ -7,12 +7,13 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 1; Cl N-7 aun no existe):
   - De **Cl 1** (marco afirmativo + vocabulario M1): *"One sentence: 'I can play ...' — a different sport from your neighbor."* — 4-5 estudiantes en cadena, con consonante final fuerte (truco 2 del M0).
   - De **Cl 3** (pronombres): senalas a companeros o al perro dibujado y la cadena responde con el pronombre + frase completa (*"They can play volleyball."*) — 4-5 estudiantes.
   - De **Cl 3** (negativa con pronombre): 3 estudiantes producen *"He can't play ..." / "She can't play ..."*.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido).
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 3 (6'):** recoges los papeles (8 frases nombre → pronombre); 2 estudiantes leen 1 par cada uno. Anotas en libreta quien NO entrego.
 
@@ -50,7 +51,7 @@ A la pregunta con "what" NO: "What can Juan play?" -> "Juan can play soccer."
   - TU eres COACH desde afuera: NUNCA juegas guest ni organizador. Congelados 15+ segundos → UN prompt (*"What?"*) y te retiras.
   - Minimos por ronda: 3 preguntas con *What* + 1 pregunta sencilla con su yes/no + 3 pronombres distintos.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); correcciones al tablero, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 4 "WHAT MY PEOPLE CAN PLAY".** Cada estudiante hace 1 pregunta con *what* a un companero sobre la gente de ESE companero y responde 1 que le hagan. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 4 "WHAT MY PEOPLE CAN PLAY".** Cada estudiante hace 1 pregunta con *what* a un companero sobre la gente de ESE companero y responde 1 que le hagan. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -59,12 +60,15 @@ A la pregunta con "what" NO: "What can Juan play?" -> "Juan can play soccer."
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 4 — DUE: Cl 5 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 4 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 5)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: 8 lines about YOUR real people:
     4 questions "What can ... play?" + 4 answers with a pronoun.
     Two of the answers must be negative ("He can't play ..., but he can play ...").
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: ask and answer 4 "What can ... play?" out loud.
     (= MY WORLD piece 4)
 ```
@@ -72,7 +76,7 @@ HOMEWORK CL 4 — DUE: Cl 5 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: short answers — Yes, I can. No, I can't."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

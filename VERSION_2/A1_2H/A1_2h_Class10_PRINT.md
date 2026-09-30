@@ -7,12 +7,13 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 7 · Cl N-7 = Cl 3):
   - De **Cl 7** (where + should + in): 4-5 estudiantes preguntan *"Where should he/she live?"* sobre companeros y la cadena responde con *"... should live in + ciudad"*; 2 respuestas cortas al final (*"Yes, he should." / "No, he shouldn't."*).
   - De **Cl 3** (pronombres sujetos): senalas personas del grupo y la cadena produce pronombre + frase completa, velocidad alta, sin repetir pronombre seguido.
   - De **Cl 9** (horas): 60 segundos de horas al azar escritas en el tablero, dichas en cadena.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido). Cierre del segundo bloque de 5 clases: el conteo acumulado va a la libreta para coordinacion, sin comentario en clase.
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte. Cierre del segundo bloque de 5 clases: el conteo acumulado va a la libreta para coordinacion, sin comentario en clase.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 9 (6'):** recoges los papeles (8 horas + 6 precios en letras); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego.
 
@@ -54,7 +55,7 @@ Will     | Juan   | play  | soccer?  ->  Will Juan play soccer?
   - TU eres COACH desde afuera: NUNCA juegas guest ni recepcionista. Congelados 15+ segundos → UN prompt (*"Will or won't?"*) y te retiras.
   - Minimos por ronda: 4 preguntas con *Will* + 3 respuestas afirmativas + 2 con *won't* + el resumen final en tercera persona.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); correcciones al tablero, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 10 "MY TOMORROW".** Cada estudiante dice al grupo 3 cosas que hara manana y 1 que no hara. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 10 "MY TOMORROW".** Cada estudiante dice al grupo 3 cosas que hara manana y 1 que no hara. Esa pieza es el video de hoy (= video de hito Cl 10).
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -63,12 +64,17 @@ Will     | Juan   | play  | soccer?  ->  Will Juan play soccer?
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 10 — DUE: Cl 11 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 10 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 11)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: 10 lines about YOUR real tomorrow, using the 7 routine verbs:
     5 affirmative with WILL + 3 negative with WON'T + 2 questions "Will ...?".
     Use a pronoun in at least 4 lines.
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
+    TODAY = MILESTONE VIDEO (Cl 10): VIDEO only, no audio. Tonight the
+    teacher forwards it to the academy with your name.
     Today's topic: "My real tomorrow, from wake up to go to bed."
     (= MY WORLD piece 10)
 ```
@@ -76,7 +82,7 @@ HOMEWORK CL 10 — DUE: Cl 11 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: WHAT TIME will you eat lunch?"*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia  □ VIDEO DE HITO Cl 10: esta noche reenvias a la auxiliar administrativa el video de CADA estudiante, con su nombre (se guarda en el computador de la academia; los diarios normales no se descargan)
 
 [PAGEBREAK]
 

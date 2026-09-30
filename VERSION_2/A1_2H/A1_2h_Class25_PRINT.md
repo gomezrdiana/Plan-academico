@@ -5,14 +5,15 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (9'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 22 · Cl N-7 = Cl 18):
   - De **Cl 22** (expresiones de frecuencia, AL FINAL): dices verbo + expresion (*"swim / twice a week" · "visit my family / once a month" · "study / every day"*) y la cadena arma la frase con la expresion al final; 4 estudiantes. Contraste rapido: pide la misma frase con adverbio (*"I always study."*) y que digan donde va cada cosa.
   - De **Cl 18** (pasado regular: *didn't*, *did*, respuesta corta y *who*): 3-4 estudiantes en cadena preguntan *"Did you (verbo) yesterday?"* y el siguiente responde con respuesta corta + una negativa con *didn't* + verbo base.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido). Cierre del quinto bloque de 5 clases: el conteo acumulado va a la libreta para coordinacion, sin comentario en clase.
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte. Cierre del quinto bloque de 5 clases: el conteo acumulado va a la libreta para coordinacion, sin comentario en clase.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — trae dos pronombres objeto. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 24 (5'):** recoges los papeles (8 frases sobre su gente con 5 posesivos + 4 palabras de familia + 2 en tercera persona); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
-- **Cierre de virtud (2'):** PRUDENCIA v2 cierra hoy. Ronda relampago de pie: cada estudiante dice EN VOZ ALTA, en 1 frase, cual de las tres conductas del tablero de Cl 21 cumplio esta semana (*"I always checked the board."*). Sin comentario tuyo, sin evaluacion. Borras el cuadro de la virtud al terminar.
+- **Cierre de virtud (2'):** PRUDENCIA v2 cierra hoy. Ronda relampago de pie: cada estudiante dice EN VOZ ALTA, en 1 frase, cual de las tres conductas del tablero de Cl 21 cumplio esta semana (*"I always checked the board."*). Sin comentario tuyo, sin evaluacion. Conexion con hoy: la Frase del Dia es prudencia con pronombres objeto — escuchar antes de responder. Cierre: *"Listen first, then answer."* Borras el cuadro de la virtud al terminar.
 
 ## BLOQUE 2 (43') — M16: el pronombre que RECIBE la accion
 
@@ -67,7 +68,7 @@ Call                        (llamar)
   - TU eres COACH desde afuera: NUNCA juegas visita ni recepcionista. Congelados 15+ segundos → UN prompt (senalas la columna OBJETO del tablero) y te retiras.
   - Minimos por ronda: 4 respuestas con pronombre objeto (minimo 3 distintos) + 2 palabras de comida con *it* / *them* + 1 verbo del modulo (*know · hang out · talk · call*) + la confirmacion en tercera persona del recepcionista.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); la correccion nuclear al tablero — *"I know she"* → *"I know HER"*, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 22 "PEOPLE I KNOW AND FOOD I LIKE".** Cada estudiante dice al grupo 4 frases reales: 2 sobre gente que conoce, llama o con quien parcha (con *him / her / them*) + 2 sobre comida que le gusta o no (con *it / them*), y le lanza 1 pregunta *"Do you know ...?"* a un companero. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 22 "PEOPLE I KNOW AND FOOD I LIKE".** Cada estudiante dice al grupo 4 frases reales: 2 sobre gente que conoce, llama o con quien parcha (con *him / her / them*) + 2 sobre comida que le gusta o no (con *it / them*), y le lanza 1 pregunta *"Do you know ...?"* a un companero. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -76,7 +77,8 @@ Call                        (llamar)
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 25 - DUE: Cl 26 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 25 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 26)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 ON PAPER: 8 real sentences with OBJECT PRONOUNS (Module 16):
     replace the person or thing with me / you / him / her / it / us / them
     (at least 5 different ones)
@@ -85,14 +87,16 @@ ON PAPER: 8 real sentences with OBJECT PRONOUNS (Module 16):
     Two of the sentences must have a pronoun in BOTH positions
     ("She calls him.").
     Hand in next class.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "People I know and food I like." (= MY WORLD piece 22)
 ```
 
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Cierre de Frase del Dia + anuncio (4'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Anuncio: *"Next class: do you have any pizza? — have, some and any."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

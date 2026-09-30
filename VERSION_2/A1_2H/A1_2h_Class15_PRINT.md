@@ -7,13 +7,14 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 12 · Cl N-7 = Cl 8):
-  - De **Cl 12** (horas y lugares): escribes en el tablero 3 lugares y 3 horas; senalas uno de cada columna y la cadena produce la frase completa (*"I study in the school at 7:00 PM."*). 4-5 estudiantes, velocidad alta, sin repetir lugar seguido.
+  - De **Cl 12** (horas y lugares): escribes en el tablero 3 lugares y 3 horas; senalas uno de cada columna y la cadena produce la frase completa (*"I study in the school at 6:30 PM."*). 4-5 estudiantes, velocidad alta, sin repetir lugar seguido.
   - De **Cl 8** (numeros 0-100): 60 segundos de numeros al azar escritos en el tablero, dichos en cadena; luego cada estudiante encadena numero + lugar (*"Forty-five people in the restaurant."*).
   - De **Cl 14** (pregunta con do/does): 2-3 estudiantes preguntan *"Where do you eat lunch?" / "What time does he work?"* y la cadena responde con frase completa.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido). Cierre del tercer bloque de 5 clases: el conteo acumulado va a la libreta para coordinacion, sin comentario en clase.
-- **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva. Cierre de JUSTICIA en 1 linea: dar a cada quien lo que le corresponde — y hoy la gramatica hace lo mismo, porque *he / she / it* reciben SU "-s" y nadie mas.
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte. Cierre del tercer bloque de 5 clases: el conteo acumulado va a la libreta para coordinacion, sin comentario en clase.
+- **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva. Cierre de JUSTICIA en 1 linea: dar a cada quien lo que le corresponde — y hoy la gramatica hace lo mismo, porque *he / she / it* reciben SU "-s" y nadie mas. Ronda DE PIE: 3-4 estudiantes completan en voz alta *"My ____ plays fair."* (la "-s", siempre). Cierre: *"Fair for everyone."*
 - **Revision de tarea Cl 14 (6'):** recoges los papeles (frases del presente en negativo y pregunta con do/does); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 
 ## BLOQUE 2 (43') — M9 parte 1: la afirmativa pierde el auxiliar y el verbo gana "-s"
@@ -56,7 +57,7 @@ REGLA FISICA UNICA:  he / she / it  ->  verbo + S
   - TU eres COACH desde afuera: NUNCA juegas acompanante ni auxiliar. Congelados 15+ segundos → UN prompt (*"With S or without S?"*) y te retiras.
   - Minimos por ronda: 5 respuestas afirmativas con "-s" + 1 frase con *I/we/they* sin "-s" + el resumen final de la ficha.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); correcciones al tablero, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 14 "THE ROUTINE OF MY PEOPLE".** Cada estudiante dice al grupo 3 frases reales sobre la rutina de una persona cercana (*"My mother works in ... She wakes up at ... She eats dinner at ..."*), todas con "-s". Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 14 "THE ROUTINE OF MY PEOPLE".** Cada estudiante dice al grupo 3 frases reales sobre la rutina de una persona cercana (*"My mother works in ... She wakes up at ... She eats dinner at ..."*), todas con "-s". Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -65,12 +66,15 @@ REGLA FISICA UNICA:  he / she / it  ->  verbo + S
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 15 — DUE: Cl 16 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 15 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 16)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: 8 real lines about routines, NO "do/does":
     5 with HE/SHE/IT + verb + S  +  3 with I/WE/THEY + verb (no S).
     At least 4 lines must have a place (in the ...) or a time (at ...).
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "The daily routine of one person in my family."
     (= MY WORLD piece 14)
 ```
@@ -78,7 +82,7 @@ HOMEWORK CL 15 — DUE: Cl 16 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: he DOESN'T eat — negatives and questions."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

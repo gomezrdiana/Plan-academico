@@ -7,11 +7,12 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (9'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 26 · Cl N-7 = Cl 22):
   - De **Cl 26** (*have* + *some/any*): dices sujeto + objeto (*"he / coffee" · "they / questions"*) y la cadena produce la afirmativa con *some* y la negativa con *any* (*"He has some coffee." → "He doesn't have any coffee."*); 4 estudiantes. Ojo: *has*, nunca *"haves"*.
   - De **Cl 22** (expresiones de frecuencia, AL FINAL): dices verbo + expresion (*"swim / twice a week" · "study / every day"*) y la cadena arma la frase con la expresion al final; 3 estudiantes.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido).
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — trae *can be* y *should be*, que es el marco del dia. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 28 (6'):** recoges los papeles (8 frases con doble verbo: 3 con *have to*, 2 con *need to*, 1 con *want to*, 1 negativa, 1 pregunta con *what*, con complemento en 5); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 
@@ -65,7 +66,7 @@ Tired    (cansado)
   - TU eres COACH desde afuera: NUNCA juegas candidato ni reclutador. Congelados 15+ segundos → UN prompt (senalas la fila del cuadro *Sujeto | Ayudante | Verbo | Complemento*) y te retiras.
   - Minimos por ronda: 5 frases afirmativas con *be* (minimo 1 de cada campo: estado, profesion, lugar) + 2 ayudantes distintos + la ficha completa en tercera persona + 1 recomendacion con *should be*.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); la correccion nuclear al tablero — *"She can be maid"* → *"She can be A maid"*, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 26 "HOW I WILL BE AND WHAT I CAN BE".** Cada estudiante dice al grupo 4 frases reales: 2 de estado (*"Tomorrow I will be ..."*), 1 de profesion con *a/an* (*"I can be a ..."*) y 1 de lugar con *in* (*"At six I will be in ..."*). Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 26 "HOW I WILL BE AND WHAT I CAN BE".** Cada estudiante dice al grupo 4 frases reales: 2 de estado (*"Tomorrow I will be ..."*), 1 de profesion con *a/an* (*"I can be a ..."*) y 1 de lugar con *in* (*"At six I will be in ..."*). Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -74,7 +75,8 @@ Tired    (cansado)
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 29 - DUE: Cl 30 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 29 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 30)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 ON PAPER: 8 real AFFIRMATIVE sentences with BE (Module 20, part 1):
     3 about STATE (happy, ok, sad, angry, tired)
     + 3 about PROFESSION (doctor, nurse, pilot, engineer, secretary,
@@ -82,7 +84,9 @@ ON PAPER: 8 real AFFIRMATIVE sentences with BE (Module 20, part 1):
     + 2 about PLACE with IN (in the office, in the house, in London).
     Use all three helpers: CAN, SHOULD and WILL.
     Hand in next class.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "How I will be and what I can be."
     (= MY WORLD piece 26)
 ```
@@ -90,7 +94,7 @@ ON PAPER: 8 real AFFIRMATIVE sentences with BE (Module 20, part 1):
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Cierre de Frase del Dia + anuncio (4'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Anuncio: *"Next class: how should you be? — questions and negatives with BE."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

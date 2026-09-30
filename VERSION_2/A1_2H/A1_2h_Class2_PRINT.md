@@ -5,12 +5,13 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** — de Cl 1 (unica clase existente; el mapa N-3/N-7 completo arranca cuando haya historial):
   - De Cl 1 (marco afirmativo): *"One TRUE sentence: 'I can play ...'"* — 5-6 estudiantes en cadena, sin repetir deporte.
   - De Cl 1 (tercera persona): senalas a un companero y el siguiente de la cadena dice *"He can play ..." / "She can play ..."* con lo que oyo.
   - De Cl 1 (pronunciacion M0): coro rapido de truco 3 ("th": *think, three, this*) y truco 2 (consonante final fuerte: *can't, rock, walk*).
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3') — PRIMERA VEZ:** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido). Si alguien no entendio el ritual, repites el guion de Cl 1 en 1 linea.
+- **Chequeo de portafolio CON LA LISTA EN MANO (3') — PRIMERA VEZ:** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte. Si alguien no entendio el ritual, repites el guion de Cl 1 en 1 linea.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 1 (6'):** recoges los papeles (6 frases afirmativas); 2 estudiantes leen 1 frase cada uno. Anotas en libreta quien NO entrego. El push-back no se acepta: *"This is what your level requires."*
 
@@ -46,7 +47,7 @@ Can      | Juan   | ---   | play  | soccer?  ->  Can Juan play soccer?
   - TU eres COACH desde afuera: NUNCA juegas guest ni recepcionista. Congelados 15+ segundos → UN prompt y te retiras.
   - Minimos por ronda: 4 preguntas *"Can you play ...?"* + 2 respuestas positivas + 2 negativas.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); correcciones al tablero, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 2 "WHAT I CAN'T DO (YET)".** Cada estudiante dice al grupo 2 frases con *can't* sobre deportes reales + 1 pregunta a un companero. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 2 "WHAT I CAN'T DO (YET)".** Cada estudiante dice al grupo 2 frases con *can't* sobre deportes reales + 1 pregunta a un companero. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -55,11 +56,14 @@ Can      | Juan   | ---   | play  | soccer?  ->  Can Juan play soccer?
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 2 — DUE: Cl 3 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 2 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 3)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: 8 sentences with the frame of the module:
     3 affirmative (can) + 3 negative (can't) + 2 questions ("Can ... play ...?").
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "2 things I can play + 2 things I can't play."
     (= MY WORLD piece 2)
 ```
@@ -67,7 +71,7 @@ HOMEWORK CL 2 — DUE: Cl 3 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: he, she, we, they — the subject pronouns."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

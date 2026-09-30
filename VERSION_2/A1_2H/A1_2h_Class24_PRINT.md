@@ -5,11 +5,12 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (9'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 21 · Cl N-7 = Cl 17):
   - De **Cl 21** (adverbios de frecuencia, ANTES del verbo): dices verbo + adverbio (*"study / always" · "work / never" · "swim / sometimes"*) y la cadena arma la frase con el adverbio pegado al verbo; 4 estudiantes. Ojo: nunca al final, nunca al inicio.
   - De **Cl 17** (pasado regular con -ed): dices un verbo regular (*visit · help · study · work · arrive*) y la cadena produce una afirmativa de su ayer real con el sonido final correcto (*studied* = "staDID", *worked* = "work'T"); 3-4 estudiantes.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido).
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — tiene tres posesivos distintos. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 23 (5'):** recoges los papeles (8 lineas: 4 preguntas con *with* al final en tiempos distintos + 4 respuestas reales con 2 profesiones); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 - **Vuelve el ritmo normal (1'):** una sola linea, sin comentar nada del evento de las dos clases anteriores: *"Back to the book. Today: my, your, his, her."* Ni una palabra sobre calidad, notas ni resultados.
@@ -67,7 +68,7 @@ A team      (un equipo)
   - TU eres COACH desde afuera: NUNCA juegas paciente ni recepcionista. Congelados 15+ segundos → UN prompt (senalas la columna de posesivos del tablero) y te retiras.
   - Minimos por ronda: 4 respuestas del paciente con 4 posesivos distintos + 3 palabras de familia + 1 profesion (reciclada de Cl 23) + la ficha completa repetida en tercera persona por la recepcionista.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); la correccion nuclear al tablero — *"She likes his team"* (hablando de ella) → *"She likes HER team"*, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 21 "MY PEOPLE — MY FAMILY, MY TEAM, MY FRIENDS".** Cada estudiante dice al grupo 4 frases reales con 4 posesivos distintos sobre su gente (minimo 3 palabras de familia) y le lanza 1 pregunta *"Who do you live with?"* a un companero. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 21 "MY PEOPLE — MY FAMILY, MY TEAM, MY FRIENDS".** Cada estudiante dice al grupo 4 frases reales con 4 posesivos distintos sobre su gente (minimo 3 palabras de familia) y le lanza 1 pregunta *"Who do you live with?"* a un companero. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -76,7 +77,8 @@ A team      (un equipo)
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 24 - DUE: Cl 25 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 24 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 25)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 ON PAPER: 8 real sentences about YOUR people (Module 15):
     use 5 different possessives (my / your / his / her / our / their)
     + at least 4 family words (father, mother, parents, brother,
@@ -84,7 +86,9 @@ ON PAPER: 8 real sentences about YOUR people (Module 15):
     + 2 of the sentences in the third person about a classmate
       ("He studies with his sister.").
     Hand in next class.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "My people: my family, my team, my friends."
     (= MY WORLD piece 21)
 ```
@@ -92,7 +96,7 @@ ON PAPER: 8 real sentences about YOUR people (Module 15):
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Cierre de Frase del Dia + anuncio (4'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Anuncio: *"Next class: I like it! — him, her, it, them."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

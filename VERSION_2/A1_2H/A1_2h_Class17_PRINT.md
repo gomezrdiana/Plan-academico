@@ -7,12 +7,13 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 14 · Cl N-7 = Cl 10):
   - De **Cl 14** (presente en negativo y pregunta con do/does): dices una frase afirmativa (*"She works in the office."*) y el trio siguiente la devuelve en negativa y en pregunta; 2 respuestas cortas al final (*"Yes, she does." / "No, she doesn't."*). 4-5 estudiantes, velocidad alta.
   - De **Cl 10** (will + rutina): 3-4 estudiantes en cadena dicen 1 cosa que haran manana y 1 que no (*"I will eat dinner at eight. I won't study."*).
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido).
-- **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva. En 1 linea, la conexion con FORTALEZA (dia 2): la frase habla de alguien que llego cansado y aun asi hizo lo que tenia que hacer — eso es exactamente lo que hoy vamos a poder contar en ingles, porque estrenamos el PASADO.
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
+- **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva. En 1 linea, la conexion con FORTALEZA (dia 2): la frase habla de alguien que llego cansado y aun asi hizo lo que tenia que hacer — eso es exactamente lo que hoy vamos a poder contar en ingles, porque estrenamos el PASADO. Ronda DE PIE: 3-4 estudiantes completan *"Yesterday I arrived tired, but I ____."* con un verbo en "-ed". Cierre: *"Tired, but I did it."*
 - **Revision de tarea Cl 16 (6'):** recoges los papeles (9 lineas: afirmativas, negativas con doesn't/don't y preguntas con su respuesta corta); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 
 ## BLOQUE 2 (43') — M10 parte 1: el auxiliar "did" y la "-ed" del pasado
@@ -57,7 +58,7 @@ PRONUNCIACION DE LA "-D" / "-ED" (segun el ultimo sonido del verbo)
   - TU eres COACH desde afuera: NUNCA juegas cliente ni agente. Congelados 15+ segundos → UN prompt (*"Yesterday — where is the -ED?"*) y te retiras.
   - Minimos por ronda: 5 frases afirmativas en pasado con "-ed" (minimo 3 verbos distintos del modulo) + 1 hora con *at* + 1 lugar con *in the* + el resumen final en tercera persona.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); correcciones al tablero, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 16 "MY YESTERDAY".** Cada estudiante cuenta al grupo 4 frases reales de un dia reciente, en pasado y solo con verbos regulares (*"Yesterday I arrived at ... I studied ... I helped ... I visited ..."*). Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 16 "MY YESTERDAY".** Cada estudiante cuenta al grupo 4 frases reales de un dia reciente, en pasado y solo con verbos regulares (*"Yesterday I arrived at ... I studied ... I helped ... I visited ..."*). Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -66,12 +67,15 @@ PRONUNCIACION DE LA "-D" / "-ED" (segun el ultimo sonido del verbo)
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 17 — DUE: Cl 18 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 17 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 18)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: 8 real lines about YESTERDAY, all affirmative, NO "did":
     use ARRIVE, VISIT, HELP, LIKE and LOVE at least once each
     + 3 lines with a time (at ...) + 2 lines with a place (in the ...).
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "My real yesterday, from morning to night."
     (= MY WORLD piece 16)
 ```
@@ -79,7 +83,7 @@ HOMEWORK CL 17 — DUE: Cl 18 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: the past — negatives and questions with DID."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

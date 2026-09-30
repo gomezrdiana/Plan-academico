@@ -7,12 +7,13 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (primer dia con el mapa completo: Cl N-3 = Cl 5 · Cl N-7 = Cl 1):
   - De **Cl 5** (respuesta corta): preguntas rapidas tuyas con *can* y con *should* (*"Can you play golf?" "Should he live in Rome?"*) — SOLO respuesta corta, 5-6 estudiantes, maximo 60 segundos por vuelta.
   - De **Cl 1** (marco afirmativo + vocabulario M1): 4-5 estudiantes producen *"I can play ..."* con deportes distintos y consonante final fuerte.
   - De **Cl 1** (pronunciacion M0): coro rapido de truco 1 ("i" = "e" espanola: *six, sick, kid*) y truco 3 ("th": *three, think*) — hoy son la base para *six, sixteen, three, thirteen, thirty*.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido).
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 7 (6'):** recoges los papeles (8 lineas con *where should ... live*); 2 estudiantes leen 1 linea cada uno. Anotas en libreta quien NO entrego.
 
@@ -49,7 +50,7 @@ PARES TRAMPA (marcalos en el tablero):
   - TU eres COACH desde afuera: NUNCA juegas guest ni encargado. Congelados 15+ segundos → UN prompt (*"-teen or -ty?"*) y te retiras.
   - Minimos por ronda: 4 numeros dichos y confirmados, minimo 2 de ellos entre 13 y 99.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); correcciones al tablero, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 8 "MY NUMBERS".** Cada estudiante dice al grupo 4 numeros reales suyos con la etiqueta en ingles (*"My age: thirty-four."*). Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 8 "MY NUMBERS".** Cada estudiante dice al grupo 4 numeros reales suyos con la etiqueta en ingles (*"My age: thirty-four."*). Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -58,12 +59,15 @@ PARES TRAMPA (marcalos en el tablero):
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 8 — DUE: Cl 9 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 8 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 9)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: write in LETTERS (not digits):
     all the numbers from 13 to 20, then 30, 40, 50, 60, 70, 80, 90, 100,
     then 6 real numbers of your life (age, house number, etc.).
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: count out loud 1 to 30, then say your 6 real numbers.
     (= MY WORLD piece 8)
 ```
@@ -71,7 +75,7 @@ HOMEWORK CL 8 — DUE: Cl 9 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: what time is it, and how much does it cost."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

@@ -7,11 +7,12 @@
 
 ## BLOQUE 1 (22') — Apertura + montaje de la charla
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (6', version corta — hoy hay charla), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 19 · Cl N-7 = Cl 15):
   - De **Cl 19** (pasado irregular, afirmativa): dices un verbo en presente (*eat · swim · wake up · go to bed · get dressed*) y la cadena responde el pasado suelto y una frase completa de su ayer real (*"ate — I ate lunch at twelve."*); 3-4 estudiantes.
   - De **Cl 15** (presente afirmativo, la "-s" de he/she/it): dices un sujeto (*"my mother" · "the dog" · "my friends"*) y la cadena arma 1 afirmativa con la "-s" SOLO donde va (*"My mother works." · "My friends play soccer."*); 3-4 estudiantes. Ese marco es el que hoy recibe la expresion de frecuencia.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (2'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido).
+- **Chequeo de portafolio CON LA LISTA EN MANO (2'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — hoy encaja sola entre charla y charla. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 21 (4'):** recoges los papeles (8 frases de habitos con los 5 adverbios + 2 con auxiliar + 1 pregunta *How often*). NO se leen hoy en voz alta (el tiempo de voz es de la charla). Anotas en libreta quien NO entrego. Push-back no se acepta.
 - **Montaje de la charla (7'):** escribes en el tablero el guion de las 20 piezas ya construidas (nada impreso — lo escribes tu):
@@ -82,14 +83,17 @@ CONTRASTE CON CL 21 (esta fila se queda todo el dia en el tablero):
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 22 - DUE: Cl 23 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 22 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 23)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: 8 sentences about your real life:
     5 with an EXPRESSION at the END (once / twice / three times
       + a day / a week / a month / a year) + 1 with "every day"
     + 2 with an ADVERB before the verb (the contrast)
     + 1 question "How often do you ...?".
     Hand in next class.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "How often I do things: twice a week, every day."
 (3) MY WORLD TALK - the students who speak next class: practice your
     full talk 3 times OUT LOUD with your phone. Bring it ready.
@@ -98,7 +102,7 @@ HOMEWORK CL 22 - DUE: Cl 23 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: the rest of the MY WORLD talks, and 'who do you study with?'."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Observer notes (charlas)  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Observer notes (charlas)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

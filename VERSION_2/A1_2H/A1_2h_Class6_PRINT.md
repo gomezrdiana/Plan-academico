@@ -7,14 +7,15 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 3; Cl N-7 aun no existe):
   - De **Cl 3** (pronombres sujetos): senalas personas del grupo o el perro dibujado y la cadena produce pronombre + frase completa con *can* — 4-5 estudiantes, velocidad alta.
   - De **Cl 5** (respuesta corta): preguntas rapidas tuyas, SOLO respuesta corta, incluyendo la trampa *"Can I play ...?" → "Yes, you can."* — 4-5 estudiantes.
   - De **Cl 4** (pregunta con what): 2-3 estudiantes preguntan *"What can they play?"* y la cadena responde.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido).
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Virtud (incluida en la Frase del Dia):** TEMPLANZA = autocontrol, equilibrio, paciencia. 1 linea + la conectas con *should*: recomendarse a uno mismo lo que conviene.
+- **Virtud (incluida en la Frase del Dia):** TEMPLANZA = autocontrol, equilibrio, paciencia. 1 linea + la conectas con *should*: recomendarse a uno mismo lo que conviene. Pregunta virtud + gramatica: *"What should you do when you wait?"* — 3 estudiantes DE PIE responden con *should* (*"I should stay calm."*). Cierre (1 frase): *"Calm first, then act."*
 - **Revision de tarea Cl 5 (6'):** recoges los papeles (10 pares pregunta-respuesta corta); 2 estudiantes leen 1 par cada uno. Anotas en libreta quien NO entrego.
 
 ## BLOQUE 2 (43') — M4 parte 1: "should"
@@ -55,7 +56,7 @@ Should   | Juan   | play  | soccer?  ->  Should Juan play soccer?
   - TU eres COACH desde afuera: NUNCA juegas guest ni vendedor. Congelados 15+ segundos → UN prompt (*"Should or shouldn't?"*) y te retiras.
   - Minimos por ronda: 3 recomendaciones afirmativas + 2 negativas + 1 pregunta con *Should*.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); correcciones al tablero, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 6 "MY ADVICE".** Cada estudiante da al grupo 2 recomendaciones reales a un companero (1 con *should*, 1 con *shouldn't*). Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 6 "MY ADVICE".** Cada estudiante da al grupo 2 recomendaciones reales a un companero (1 con *should*, 1 con *shouldn't*). Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -64,19 +65,22 @@ Should   | Juan   | play  | soccer?  ->  Should Juan play soccer?
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 6 — DUE: Cl 7 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 6 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 7)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: 8 real recommendations for people you know:
     4 with SHOULD + 2 with SHOULDN'T + 2 questions "Should ... play ...?".
     Use a pronoun in at least 4 of them.
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "Three recommendations for my family."  (= MY WORLD piece 6)
 ```
 
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: WHERE should we live? — cities and short answers with should."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

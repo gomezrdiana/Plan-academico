@@ -7,12 +7,13 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (8', version corta — hoy abre virtud), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 23 · Cl N-7 = Cl 19):
   - De **Cl 23** (*with* al FINAL de la pregunta): dices una afirmativa (*"She works with the doctor."*) y la cadena la vuelve pregunta (*"Who does she work with?"*); 4 estudiantes. Ojo: nunca *"With who...?"*.
   - De **Cl 19** (pasado irregular, afirmativa): dices un verbo en presente (*eat · swim · wake up · go to bed*) y la cadena responde el pasado suelto y una frase completa de su ayer real; 3 estudiantes.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Apertura de virtud — TEMPLANZA v2 (3'):** escribes TEMPERANCE / TEMPLANZA en el tablero. Segunda vuelta: se sube el nivel. 2 lineas: *"Templanza es controlar el impulso: manejar el tiempo, la prisa y las ganas. En la segunda vuelta ya no es aguantarse — es decidir cuanto es suficiente."* Aterrizas en 3 conductas de ESTE salon, en el tablero: **1) llego a tiempo y no corro · 2) hablo cuando es mi turno, no antes · 3) hago la tarea completa, no la mitad.** Ronda relampago: cada estudiante dice EN VOZ ALTA cual de las tres va a cuidar hoy, usando la estructura del dia (*"I have some ..."* / *"I don't have any ..."*). Es el marco del bloque Cl 26-30.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido). Arranca el sexto bloque de 5 clases: el conteo vuelve a cero en la libreta.
+- **Apertura de virtud — TEMPLANZA v2 (3'):** escribes TEMPERANCE / TEMPLANZA en el tablero. Segunda vuelta: se sube el nivel. 2 lineas: *"Templanza es controlar el impulso: manejar el tiempo, la prisa y las ganas. En la segunda vuelta ya no es aguantarse — es decidir cuanto es suficiente."* Aterrizas en 3 conductas de ESTE salon, en el tablero: **1) llego a tiempo y no corro · 2) hablo cuando es mi turno, no antes · 3) hago la tarea completa, no la mitad.** Ronda relampago DE PIE: cada estudiante dice EN VOZ ALTA cual de las tres va a cuidar hoy, usando la estructura del dia (*"I have some ..."* / *"I don't have any ..."*). Cierre: *"Some patience, no hurry."* Es el marco del bloque Cl 26-30.
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte. Arranca el sexto bloque de 5 clases: el conteo vuelve a cero en la libreta.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — trae el par *some / any* completo. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 25 (5'):** recoges los papeles (8 frases con pronombres objeto, 3 verbos del modulo y 2 comidas); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 
@@ -74,7 +75,7 @@ Coffee       (cafe)            <- INCONTABLE
   - TU eres COACH desde afuera: NUNCA juegas cliente ni tendero. Congelados 15+ segundos → UN prompt (*"some or any?"*) y te retiras.
   - Minimos por ronda: 4 preguntas con *any* + 2 respuestas afirmativas con *some* + 2 negativas con *any* + 1 frase con *only* + 1 con *or* + el resumen final en tercera persona.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); la correccion nuclear al tablero — *"I don't have some water"* → *"I don't have ANY water"*, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 23 "WHAT I HAVE AND WHAT I DON'T HAVE".** Cada estudiante dice al grupo 4 frases reales: 2 con *some* (afirmativas) + 2 con *any* (negativas), minimo 1 incontable, y le lanza 1 pregunta *"Do you have any ...?"* a un companero. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 23 "WHAT I HAVE AND WHAT I DON'T HAVE".** Cada estudiante dice al grupo 4 frases reales: 2 con *some* (afirmativas) + 2 con *any* (negativas), minimo 1 incontable, y le lanza 1 pregunta *"Do you have any ...?"* a un companero. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -83,7 +84,8 @@ Coffee       (cafe)            <- INCONTABLE
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 26 - DUE: Cl 27 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 26 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 27)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 ON PAPER: 8 real sentences with HAVE (Module 17):
     3 affirmative with SOME + 3 negative with ANY
     + 2 questions "Do / Does ... have ANY ...?"
@@ -92,7 +94,9 @@ ON PAPER: 8 real sentences with HAVE (Module 17):
     at least 2 uncountable ones, one sentence with ONLY
     and one with TOO at the end.
     Hand in next class.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "What I have and what I don't have."
     (= MY WORLD piece 23)
 ```
@@ -100,7 +104,7 @@ ON PAPER: 8 real sentences with HAVE (Module 17):
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Cierre de Frase del Dia + anuncio (4'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Anuncio: *"Next class: what do you need? — want, need and have."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

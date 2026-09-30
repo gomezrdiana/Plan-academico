@@ -7,14 +7,15 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (9'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 27 · Cl N-7 = Cl 23):
   - De **Cl 27** (*want / need / have* + objeto): senalas un objeto de salon (*a pen · a chair · a paper*) y la cadena produce las tres frases con el mismo objeto (*"I have a pen. I want a pen. I need a pen."*); 4 estudiantes. Ojo: *a/an* en singular, *some/any* en plural e incontable.
   - De **Cl 23** (*with* al FINAL de la pregunta): dices una afirmativa (*"He studies with the engineer."*) y la cadena la vuelve pregunta (*"Who does he study with?"*); 3 estudiantes.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido). Cierre del sexto bloque de 5 clases: el conteo acumulado va a la libreta para coordinacion, sin comentario en clase.
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte. Cierre del sexto bloque de 5 clases: el conteo acumulado va a la libreta para coordinacion, sin comentario en clase.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — trae la pregunta con *how* y la negativa con *won't*, que son el punto del dia. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 29 (5'):** recoges los papeles (8 afirmativas con *be*: 3 de estado, 3 de profesion con *a/an*, 2 de lugar con *in*, con los tres ayudantes); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
-- **Cierre de virtud (2'):** TEMPLANZA v2 cierra hoy. Ronda relampago de pie: cada estudiante dice EN VOZ ALTA, en 1 frase con la estructura del dia, cual de las tres conductas del tablero de Cl 26 cumplio esta semana (*"I won't be late."* / *"I can be patient."*). Sin comentario tuyo, sin evaluacion. Borras el cuadro de la virtud al terminar.
+- **Cierre de virtud (2'):** TEMPLANZA v2 cierra hoy. Ronda relampago de pie: cada estudiante dice EN VOZ ALTA, en 1 frase con la estructura del dia, cual de las tres conductas del tablero de Cl 26 cumplio esta semana (*"I won't be late."* / *"I can be patient."*). Sin comentario tuyo, sin evaluacion. Conexion con hoy: templanza es decidir COMO vas a estar (*how* + *won't be*). Cierre: *"I won't be angry. I will be ok."* Borras el cuadro de la virtud al terminar.
 
 ## BLOQUE 2 (43') — M20 parte 2: la negativa, la pregunta y "how"
 
@@ -58,7 +59,7 @@ How             | should   | Juan   | be    | ---   ->  How should Juan be?
   - TU eres COACH desde afuera: NUNCA juegas cliente ni persona de agenda. Congelados 15+ segundos → UN prompt (el salto de medio paso) y te retiras.
   - Minimos por ronda: 4 preguntas (minimo 1 con *how*, 1 con *where*, 1 con *what*) + 2 negativas del cliente + 2 ayudantes distintos + la confirmacion final en tercera persona con pronombre.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); la correccion nuclear al tablero — *"How Juan should be?"* → *"How SHOULD Juan be?"*, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 27 "WHERE I WILL BE AND HOW I SHOULD BE".** Cada estudiante dice al grupo 4 frases reales: 1 pregunta con *how* a un companero, 1 con *where* a otro, 1 negativa propia (*"I won't be ..."*) y 1 recomendacion para si mismo con *should be*. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 27 "WHERE I WILL BE AND HOW I SHOULD BE".** Cada estudiante dice al grupo 4 frases reales: 1 pregunta con *how* a un companero, 1 con *where* a otro, 1 negativa propia (*"I won't be ..."*) y 1 recomendacion para si mismo con *should be*. Esa pieza es el video de hoy (= video de hito Cl 30).
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -67,7 +68,8 @@ How             | should   | Juan   | be    | ---   ->  How should Juan be?
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 30 - DUE: Cl 31 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 30 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 31)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 ON PAPER: 8 real lines with BE (Module 20, part 2):
     3 NEGATIVE ("I won't be ...", "She shouldn't be ...",
       "They can't be ...")
@@ -76,7 +78,11 @@ ON PAPER: 8 real lines with BE (Module 20, part 2):
       ("How will she be?" / "She will be tired.").
     Use all three helpers: CAN, SHOULD and WILL.
     Hand in next class.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
+    TODAY = MILESTONE VIDEO (Cl 30): VIDEO only, no audio. Tonight the
+    teacher forwards it to the academy with your name.
     Today's topic: "Where I will be and how I should be."
     (= MY WORLD piece 27)
 ```
@@ -84,7 +90,7 @@ ON PAPER: 8 real lines with BE (Module 20, part 2):
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Cierre de Frase del Dia + anuncio (4'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Anuncio: *"Next class: I'm Juan! — BE with no helper."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia  □ VIDEO DE HITO Cl 30: esta noche reenvias a la auxiliar administrativa el video de CADA estudiante, con su nombre (se guarda en el computador de la academia; los diarios normales no se descargan)
 
 [PAGEBREAK]
 

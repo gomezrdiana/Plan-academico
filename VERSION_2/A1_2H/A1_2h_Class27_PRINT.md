@@ -7,11 +7,12 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (9'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 24 · Cl N-7 = Cl 20):
   - De **Cl 24** (adjetivos posesivos): dices un sujeto y un sustantivo (*"she / team" · "they / mother" · "he / house"*) y la cadena arma la frase con el posesivo correcto (*"She likes her team."*); 4 estudiantes. Ojo con *his/her* cruzados.
   - De **Cl 20** (pasado irregular en negativa y pregunta): 3 estudiantes en cadena preguntan *"Did you (verbo) yesterday?"* y el siguiente responde con respuesta corta + una negativa con *didn't* + verbo base.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido).
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — contrasta *want* y *need* en una sola linea, que es el punto del dia. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 26 (6'):** recoges los papeles (8 frases con *have*: 3 con *some*, 3 con *any*, 2 preguntas, con *only* y *too*); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 - **Puente desde Cl 26 (1'):** una linea: *"Yesterday: HAVE. Today: two more verbs that work exactly the same — WANT and NEED."* Nada mas: la regla la descubren en el Bloque 2.
@@ -68,7 +69,7 @@ A paper      (un papel)
   - TU eres COACH desde afuera: NUNCA juegas empleado ni administracion. Congelados 15+ segundos → UN prompt (*"need or want?"*) y te retiras.
   - Minimos por ronda: 3 frases con *need* + 2 con *want* + 2 con *have* + 2 preguntas con *what* + la separacion final de las dos listas en tercera persona.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); la correccion nuclear al tablero — *"He wants some pen"* → *"He wants A pen"*, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 24 "WHAT I HAVE, WHAT I NEED, WHAT I ONLY WANT".** Cada estudiante dice al grupo 4 frases reales: 1 con *have*, 2 con *need*, 1 con *want*, minimo 3 objetos del modulo, y le lanza 1 pregunta *"What do you need?"* a un companero. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 24 "WHAT I HAVE, WHAT I NEED, WHAT I ONLY WANT".** Cada estudiante dice al grupo 4 frases reales: 1 con *have*, 2 con *need*, 1 con *want*, minimo 3 objetos del modulo, y le lanza 1 pregunta *"What do you need?"* a un companero. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -77,7 +78,8 @@ A paper      (un papel)
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 27 - DUE: Cl 28 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 27 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 28)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 ON PAPER: 8 real sentences with WANT / NEED / HAVE (Module 18):
     3 with NEED + 3 with WANT + 2 with HAVE,
     including 3 negatives with ANY and 2 questions with WHAT
@@ -85,7 +87,9 @@ ON PAPER: 8 real sentences with WANT / NEED / HAVE (Module 18):
     Use at least 4 module objects (marker, eraser, pencil, pen,
     chair, paper) and watch A / AN / SOME / ANY.
     Hand in next class.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "What I have, what I need, what I only want."
     (= MY WORLD piece 24)
 ```
@@ -93,7 +97,7 @@ ON PAPER: 8 real sentences with WANT / NEED / HAVE (Module 18):
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Cierre de Frase del Dia + anuncio (4'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Anuncio: *"Next class: what do you need TO DO? — two verbs together."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

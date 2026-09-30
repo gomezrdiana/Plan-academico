@@ -7,11 +7,12 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 15 · Cl N-7 = Cl 11):
   - De **Cl 15** (tercera persona con -s, afirmativa): senalas a un companero y la cadena produce la frase completa en presente (*"He works in the office." · "She studies English." · "It arrives late."*); 4-5 estudiantes. Ojo: exige la **-s** audible al final del verbo.
   - De **Cl 11** (what time + at): escribes 5 horas en el tablero; un estudiante pregunta *"What time ...?"* y el siguiente responde *"At + hora"*, en cadena rapida.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido).
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 17 (6'):** recoges los papeles (frases en pasado regular afirmativo); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego.
 
@@ -54,7 +55,7 @@ No, he didn't.           Who did Roddy love? - He loved Alina.
   - TU eres COACH desde afuera: NUNCA juegas visitante ni recepcionista. Congelados 15+ segundos → UN prompt (*"Did + base verb"*) y te retiras.
   - Minimos por ronda: 4 preguntas con *Did* + 2 respuestas cortas + 2 negativas con *didn't* + el resumen final en tercera persona.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); la correccion nuclear al tablero — *"Did you arrived?"* → *"Did you ARRIVE?"*, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 17 "WHAT I DIDN'T DO YESTERDAY".** Cada estudiante dice al grupo 3 cosas que SI hizo ayer y 2 que NO hizo, y le lanza 1 pregunta *"Did you ...?"* a un companero. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 17 "WHAT I DIDN'T DO YESTERDAY".** Cada estudiante dice al grupo 3 cosas que SI hizo ayer y 2 que NO hizo, y le lanza 1 pregunta *"Did you ...?"* a un companero. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -63,13 +64,16 @@ No, he didn't.           Who did Roddy love? - He loved Alina.
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 18 - DUE: Cl 19 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 18 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 19)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: 10 lines about YOUR real yesterday:
     4 affirmative with -ED + 3 negative with DIDN'T + 2 questions "Did you ...?"
     + 1 question with WHO ("Who did you help?").
     Use LIKE, LOVE, ARRIVE, VISIT, HELP at least once each.
     Hand in next class.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "3 things I did yesterday and 2 things I didn't do."
     (= MY WORLD piece 17)
 ```
@@ -77,7 +81,7 @@ HOMEWORK CL 18 - DUE: Cl 19 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: she ATE — the irregular past."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

@@ -5,13 +5,15 @@
 
 ## BLOQUE 1 (22') — Apertura + montaje de la mini-presentacion
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (6', version corta — hoy hay presentacion), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 8 · Cl N-7 = Cl 4):
   - De **Cl 8** (numeros 0-100): escribes 6 numeros al azar en el tablero (*17 · 40 · 68 · 91 · 13 · 100*) y la cadena los dice en palabras, velocidad alta, 90 segundos.
   - De **Cl 4** (la palabra "what" + preguntas): 4 estudiantes en cadena preguntan *"What can your brother/mother/friend play?"* a un companero y este responde con frase completa (*"He can play ..."*).
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Apertura de virtud — JUSTICIA (3'):** escribes JUSTICE / JUSTICIA en el tablero. Lo dices en 2 lineas: *"Justicia es dar a cada uno lo que le corresponde: el mismo turno, el mismo tiempo, la misma exigencia."* Aterrizas en 3 conductas de ESTE salon, en el tablero: **1) espero mi turno · 2) no interrumpo al que habla · 3) todos pasan, nadie se salta.** Ronda relampago: cada estudiante dice EN VOZ ALTA cual de las tres va a cuidar hoy. Es el marco del bloque de 5 clases (Cl 11-15).
+- **Apertura de virtud — JUSTICIA (3'):** escribes JUSTICE / JUSTICIA en el tablero. Lo dices en 2 lineas: *"Justicia es dar a cada uno lo que le corresponde: el mismo turno, el mismo tiempo, la misma exigencia."* Aterrizas en 3 conductas de ESTE salon, en el tablero: **1) espero mi turno · 2) no interrumpo al que habla · 3) todos pasan, nadie se salta.** Ronda relampago DE PIE, con el futuro de hoy: *"What will you do today?"* — cada uno responde con la conducta que va a cuidar (*"I will wait my turn."*). Cierre (1 frase): *"Same turn, same time, for everyone."* Es el marco del bloque de 5 clases (Cl 11-15).
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — hoy encaja sola entre presentacion y presentacion. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
-- **Revision de tarea Cl 10 (4'):** recoges los papeles (10 lineas con will/won't sobre su manana real). NO se leen hoy en voz alta (el tiempo de voz es de la presentacion). Anotas en libreta quien NO entrego. Push-back no se acepta.
+- **Chequeo de portafolio CON LA LISTA EN MANO (2'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte (el de Cl 10 fue video de hito). Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos. Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
+- **Revision de tarea Cl 10 (2'):** recoges los papeles (10 lineas con will/won't sobre su manana real). NO se leen hoy en voz alta (el tiempo de voz es de la presentacion). Anotas en libreta quien NO entrego. Push-back no se acepta.
 - **Montaje de la mini-presentacion (6'):** escribes en el tablero el guion de las 10 piezas ya construidas (nada impreso — lo escribes tu):
 
 ```
@@ -65,20 +67,23 @@ What time       -> Will     | Juan   | play  | ---
 - **Tarea (tablero) (5'):**
 
 ```
-HOMEWORK CL 11 — DUE: Cl 12 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 11 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 12)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER — "MY REAL DAY TOMORROW", 8 lines:
     6 pairs "What time will you ...?" / "I will ... at ...",
     using the 7 routine verbs,
     + 2 short answers ("Yes, I will." / "No, I won't.").
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: record your MY WORLD mini-presentation AGAIN, alone.
 ```
 
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Cierre de Frase del Dia + anuncio (4'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Anuncio: *"Next class: where and what time — times and places."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos  □ Observer notes (mini-presentacion)
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia  □ Observer notes (mini-presentacion)
 
 [PAGEBREAK]
 

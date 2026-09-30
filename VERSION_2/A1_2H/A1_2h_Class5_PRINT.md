@@ -5,12 +5,13 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 2; Cl N-7 aun no existe):
   - De **Cl 2** (negativa + pregunta con can): tu lanzas rapido *"Can the dog play golf?"*, *"Can your neighbor play hockey?"* — 4-5 estudiantes responden con FRASE COMPLETA (hoy todavia completa; la respuesta corta llega en el Bloque 2).
   - De **Cl 4** (pregunta con what): 3-4 estudiantes preguntan *"What can he/she/they play?"* sobre un companero y la cadena responde con pronombre.
   - De **Cl 3** (pronombres): coro rapido nombre → pronombre con 6 nombres reales del grupo.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido). Es el quinto dia: si alguien acumula fallas, va a la libreta para coordinacion, sin comentario en clase.
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte. Es el quinto dia: si alguien acumula fallas, va a la libreta para coordinacion, sin comentario en clase.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 4 (6'):** recoges los papeles (4 preguntas con *what* + 4 respuestas); 2 estudiantes leen 1 par cada uno. Anotas en libreta quien NO entrego.
 
@@ -44,7 +45,7 @@ En ingles hacemos exactamente lo mismo, terminando la respuesta con el AUXILIAR:
   - TU eres COACH desde afuera: NUNCA juegas guest ni asesor. Congelados 15+ segundos → UN prompt (*"Short answer."*) y te retiras.
   - Minimos por ronda: 6 preguntas + 6 respuestas cortas (minimo 2 negativas) + el resumen final en tercera persona.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); correcciones al tablero, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 5 "QUICK ANSWERS ABOUT ME".** Cada estudiante responde 4 preguntas rapidas del grupo con respuesta corta, sin titubear. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 5 "QUICK ANSWERS ABOUT ME".** Cada estudiante responde 4 preguntas rapidas del grupo con respuesta corta, sin titubear. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -53,12 +54,15 @@ En ingles hacemos exactamente lo mismo, terminando la respuesta con el AUXILIAR:
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 5 — DUE: Cl 6 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 5 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 6)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: 10 lines — write the question and the SHORT answer:
     5 positive ("Yes, ... can.") + 5 negative ("No, ... can't.").
     Use I, you, he, she, it, we and they at least once each.
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: someone asks you 5 "Can you ...?" questions and you answer
     with short answers, fast.  (= MY WORLD piece 5)
 ```
@@ -66,7 +70,7 @@ HOMEWORK CL 5 — DUE: Cl 6 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: SHOULD — how to give a recommendation."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

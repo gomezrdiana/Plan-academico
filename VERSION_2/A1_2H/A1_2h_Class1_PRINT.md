@@ -10,11 +10,12 @@
 - **Warm-up (8'), DE PIE, en cadena** (no hay recuperacion hoy — es la primera clase del nivel): saludas a cada estudiante con *"Hello! Welcome!"*; cada uno responde *"Hello!"* y dice su nombre; el grupo repite el nombre en coro. Energia alta, cero explicaciones, cero espanol tuyo.
 - **Presentacion guionada de los rituales permanentes (8')** — 2-3 lineas en ingles MUY simple cada uno, con gesto (di y muestra, no expliques gramatica):
   - **Frase del Dia:** *"Every class: one phrase on the board. We say it. We use it."*
-  - **Portafolio diario:** *"Every day: one audio or video. One to three minutes. With your phone. Every day."*
+  - **Portafolio diario de VIDEO:** *"Every day: ONE VIDEO of you speaking English. Minimum ONE minute, in one take, no reading. You send it TODAY to the class WhatsApp group. I watch every video. Every class: ONE thing to fix."* (Audio solo por excepcion, maximo 2 por semana. Desde Cl 2 le dices a cada uno UNA mejora de su video.)
+  - **Puntualidad:** *"Class starts at 6:30. On time, every day."* Y en espanol, una sola vez: *"Despues de 6:45 es llegada tarde; 3 llegadas tarde = 1 falla. Es entrenamiento, no castigo."*
   - **Ticket de salida:** *"At the end of class: you write 3 short phrases on paper. You give the paper to me."*
   - **Error paper:** *"I write errors on a paper. No names. Errors are good — they help us."*
 - **Frase del Dia en tablero (4')** (escrita ANTES de clase): 2 lecturas tuyas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en una oracion nueva.
-- **Virtud de la semana (3'):** PRUDENCIA = pensar antes de actuar. 1 linea en espanol + conecta con la Frase del Dia.
+- **Virtud de la semana (3'):** PRUDENCIA = pensar antes de actuar. 1 linea en espanol: *"Hoy aprendemos 'can': antes de decir lo que puedes hacer, piensa — eso es prudencia."* Pregunta que junta virtud y gramatica, en el tablero: *"I can think before I play ____."* Cada estudiante DE PIE la completa con un deporte. Cierre (1 frase): *"Think first. Then play."*
 - **Cronograma del nivel (2') — anunciar tal cual, SOLO numeros de clase:** *"This level: 45 classes. Cl 11: special session. Cl 22 and Cl 23: midterm. Cl 34: special session. Cl 44 and Cl 45: FINAL."* NO comentes contenido, formato, notas ni resultados.
 
 ## BLOQUE 2 (40') — M0 Pronunciacion + M1 parte 1 (vocabulario + afirmativa)
@@ -45,24 +46,27 @@ Juan   | can      | ---   | play  | soccer   ->  Juan can play soccer.
 
 ## BLOQUE 4 (25') — Cierre
 
-- **MY WORLD — avance de proyecto hoy (4'): pieza 1 "WHAT I CAN DO".** Anuncia el proyecto en 2 lineas: *"This level has one project: MY WORLD. At the end, you present your world. We build one piece every class."* Hoy cada estudiante dice en voz alta: su nombre + 2 frases *"I can play ..."*. Esa misma pieza es el audio de la tarea.
+- **MY WORLD — avance de proyecto hoy (4'): pieza 1 "WHAT I CAN DO".** Anuncia el proyecto en 2 lineas: *"This level has one project: MY WORLD. At the end, you present your world. We build one piece every class."* Hoy cada estudiante dice en voz alta: su nombre + 2 frases *"I can play ..."*. Esa misma pieza es el video de la tarea.
 - **Carta a Mi Yo del Futuro (9'):** cada estudiante escribe una carta BREVE a si mismo para el final del nivel — en espanol o en ingles muy simple, en una hoja de su propio cuaderno. Guion: *"Write a short letter to YOU at the end of this course. Where are you? What can you say in English?"* La doblan y cierran; TU las recoges TODAS cerradas y las entregas a coordinacion. No se leen en voz alta.
 - **Ticket de salida (5'):** cada estudiante escribe 3-5 frases afirmativas con el marco *sujeto + can + play + deporte*. Se recogen TODOS (no evaluas ni comentas).
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 1 — DUE: Cl 2 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 1 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 2)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: 6 affirmative sentences with the frame
     Subject + can + play + sport (use 6 different sports from the board).
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "My name + 2 things I can play."  (= MY WORLD piece 1)
 ```
 
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: I can't play — and questions with can."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Cartas cerradas recogidas  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45)  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Cartas cerradas recogidas  □ Fotos/videos del dia  □ Lista del grupo de WhatsApp lista para ver los videos ANTES de Cl 2
 
 [PAGEBREAK]
 
@@ -101,7 +105,7 @@ HOMEWORK CL 1 — DUE: Cl 2 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - Carta del futuro: si alguien no tiene hoja, otro estudiante le comparte una de su cuaderno (cero material del profe).
 
 **NOTA INTERNA:**
-- Primera clase del cohorte A1 nocturno 2h. NO existe recuperacion (no hay clases previas) ni chequeo de portafolio: el ritual se presenta hoy y el primer chequeo publico es Cl 2.
+- Primera clase del cohorte A1 nocturno 2h. NO existe recuperacion (no hay clases previas) ni chequeo de portafolio: el ritual (video diario al grupo de WhatsApp) se presenta hoy y el primer chequeo con lista en mano es Cl 2.
 - Ritmo 2h: M1 se trabaja en DOS clases (hoy afirmativa; Cl 2 negativa + pregunta). El nivel completo son 45 clases / 90h para M0-M35 sin saltos (el libro A1 no tiene modulos inexistentes en este tramo).
 - Proyecto del nivel: MY WORLD — presentacion personal final construida por piezas cada clase. (CONFIRMADO por coordinacion 11/08/2026.)
 - Cronograma anunciado (SOLO numeros de clase): mini-presentacion Cl 11 (SUPUESTO DE PLANEACION — verificar) · midterm Cl 22-23 (SUPUESTO DE PLANEACION — verificar) · mini-presentacion Cl 34 (SUPUESTO DE PLANEACION — verificar) · FINAL Cl 44-45; el Final lo aplica evaluador externo y ese dia NO hay guia pedagogica.

@@ -7,12 +7,13 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 11 · Cl N-7 = Cl 7):
   - De **Cl 11** (what time + at): cadena — cada estudiante pregunta al siguiente *"What time will you (verbo de rutina)?"* y este responde con frase completa y hora real con *at* (*"I will eat dinner at seven thirty PM."*); 2 vueltas, velocidad creciente. Cierre: 2 respuestas cortas (*"Will you study at nine?" — "Yes, I will." / "No, I won't."*).
   - De **Cl 7** (where + should + in): 4 estudiantes preguntan *"Where should he/she live?"* sobre companeros y la cadena responde con *"... should live in + ciudad"*.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido).
-- **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Traducela una sola vez: *"Yo no me cuelo en la fila. Y tu?"* — no colarse es JUSTICIA, y la frase trae en 6 palabras las dos formas del dia: la negativa con *don't* y la pregunta con *do*. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
+- **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Traducela una sola vez: *"Yo no me cuelo en la fila. Y tu?"* — no colarse es JUSTICIA, y la frase trae en 6 palabras las dos formas del dia: la negativa con *don't* y la pregunta con *do*. Ronda DE PIE: cada uno pregunta al de al lado *"Do you cut in line?"* y este responde *"No, I don't."* Cierre: *"Nobody cuts in line here."* Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 13 (6'):** recoges los papeles (8 frases afirmativas: 5 con *do* + 3 con *does*); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 
 ## BLOQUE 2 (43') — M8 parte 2: negativa, pregunta y respuesta corta
@@ -57,7 +58,7 @@ Does     | she    | ---   | play  | soccer? -> Does she play soccer?
   - TU eres COACH desde afuera: NUNCA juegas secretaria ni familiar. Congelados 15+ segundos → UN prompt (*"DO or DOES?"*) y te retiras.
   - Minimos por ronda: 5 preguntas con *do/does* + 4 respuestas cortas + 2 negativas con *don't/doesn't* + 1 pregunta con *what time* + 1 con *where*.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); correcciones al tablero, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 13 "WHAT I DON'T DO".** Cada estudiante dice al grupo 3 cosas reales que NO hace (*"I don't work in an office. I don't eat breakfast."*) + 1 pregunta con *Does* sobre alguien de su gente, y responde la que le hagan. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 13 "WHAT I DON'T DO".** Cada estudiante dice al grupo 3 cosas reales que NO hace (*"I don't work in an office. I don't eat breakfast."*) + 1 pregunta con *Does* sobre alguien de su gente, y responde la que le hagan. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -66,14 +67,17 @@ Does     | she    | ---   | play  | soccer? -> Does she play soccer?
 - **Tarea (tablero) (5'):**
 
 ```
-HOMEWORK CL 14 — DUE: Cl 15 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 14 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 15)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: 10 lines about YOUR real life:
     4 negatives with DON'T / DOESN'T
     + 4 questions ("Do you ...?" / "Does she ...?")
     + 2 short answers ("Yes, I do." / "No, he doesn't.").
     Every line with a place with THE or a time with AT.
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "What I don't do, and 3 questions for my family."
     (= MY WORLD piece 13)
 ```
@@ -81,7 +85,7 @@ HOMEWORK CL 14 — DUE: Cl 15 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Cierre de Frase del Dia + anuncio (4'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Anuncio: *"Next class: he eats — the third person."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

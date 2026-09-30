@@ -7,12 +7,13 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 10 · Cl N-7 = Cl 6):
   - De **Cl 10** (will + rutina): cadena rapida — cada estudiante dice 1 accion de la rutina con *will* y el siguiente la niega y anade la suya (*"I will eat lunch." — "I won't eat lunch, but I will study."*); 2 vueltas.
   - De **Cl 6** (should): 4-5 estudiantes dan 1 recomendacion real a un companero (*"You should study in the school."*) y 2 cierran con respuesta corta (*"Should he swim in the pool?" — "Yes, he should." / "No, he shouldn't."*).
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido).
-- **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Traducela una sola vez: *"Yo digo la verdad todos los dias."* — *every day* es exactamente lo que significa el presente, y decir la verdad es JUSTICIA. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
+- **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Traducela una sola vez: *"Yo digo la verdad todos los dias."* — *every day* es exactamente lo que significa el presente, y decir la verdad es JUSTICIA. Pregunta virtud + gramatica: *"What do you do every day to be fair?"* — 2-3 DE PIE responden con *do* (*"I do tell the truth." · "I do wait my turn."*). Cierre: *"Every day, the truth."* Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 12 (6'):** recoges los papeles (8 lineas "MY PLAN TODAY" con *will* + *in the* + lugar + *at* + hora, + 2 preguntas); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 
 ## BLOQUE 2 (43') — M8 parte 1: "do" y "does" + la afirmativa
@@ -55,7 +56,7 @@
   - TU eres COACH desde afuera: NUNCA juegas cliente ni recepcionista. Congelados 15+ segundos → UN prompt (*"DO or DOES?"*) y te retiras.
   - Minimos por ronda: 5 frases afirmativas con *do* + el resumen final completo en tercera persona con *does* + 2 lugares con *the* + 1 hora con *at*.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); correcciones al tablero, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 12 "MY HABITS".** Cada estudiante dice al grupo 3 frases reales de su rutina con *do* (donde come, donde trabaja, a que hora se despierta) + 1 con *does* sobre alguien de su gente. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 12 "MY HABITS".** Cada estudiante dice al grupo 3 frases reales de su rutina con *do* (donde come, donde trabaja, a que hora se despierta) + 1 con *does* sobre alguien de su gente. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -64,13 +65,16 @@
 - **Tarea (tablero) (5'):**
 
 ```
-HOMEWORK CL 13 — DUE: Cl 14 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 13 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 14)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: 8 AFFIRMATIVE sentences about REAL routines:
     5 with DO (I / you / we / they) + 3 with DOES (he / she / it).
     Every line must have a place with THE or a time with AT
     ("My mother does work in the office at eight o'clock AM.").
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "My habits: where I do eat, what time I do wake up."
     (= MY WORLD piece 12)
 ```
@@ -78,7 +82,7 @@ HOMEWORK CL 13 — DUE: Cl 14 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Cierre de Frase del Dia + anuncio (4'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Anuncio: *"Next class: simple present — negatives and questions."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

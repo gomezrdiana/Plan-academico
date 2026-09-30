@@ -5,11 +5,12 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (9'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 25 · Cl N-7 = Cl 21):
   - De **Cl 25** (pronombres objeto): dices una frase con nombre o cosa (*"I love Ana." · "We know the engineers." · "I like hamburgers."*) y la cadena la repite reemplazando SOLO el objeto (*"I love her." · "We know them." · "I like them."*); 4 estudiantes. Ojo con *him/her* cruzados.
   - De **Cl 21** (adverbios de frecuencia, ANTES del verbo): dices verbo + adverbio (*"study / always" · "eat / never"*) y la cadena arma la frase con el adverbio pegado al verbo; 3 estudiantes. Hoy vuelve a aparecer: con dos verbos, el adverbio se pega al PRIMERO.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido).
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy — trae el contraste *want to* / *have to* que es el punto del dia. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 27 (6'):** recoges los papeles (8 frases con *want / need / have* + 3 negativas con *any* + 2 preguntas con *what*); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego. Push-back no se acepta.
 - **Puente desde Cl 27 (1'):** una linea, con dos frases en el tablero: *"I need a pen."* / *"I need TO STUDY."* Senalas la segunda y dices *"Today: two verbs together."* Nada mas.
@@ -69,7 +70,7 @@ Find   (encontrar / buscar)
   - TU eres COACH desde afuera: NUNCA juegas miembro del equipo ni coordinador. Congelados 15+ segundos → UN prompt (el gesto de las dos manos con el dedo en medio) y te retiras.
   - Minimos por ronda: 2 frases con *have to* + 2 con *need to* + 1 con *want to* + 3 verbos del modulo + 2 preguntas con *what* + el resumen final en tercera persona.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); la correccion nuclear al tablero — *"I need go"* → *"I need TO go"*, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 25 "WHAT I HAVE TO DO THIS WEEK".** Cada estudiante dice al grupo 4 frases reales: 2 con *have to* (obligacion), 1 con *need to*, 1 con *want to*, minimo 3 con complemento, y le lanza 1 pregunta *"What do you have to do?"* a un companero. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 25 "WHAT I HAVE TO DO THIS WEEK".** Cada estudiante dice al grupo 4 frases reales: 2 con *have to* (obligacion), 1 con *need to*, 1 con *want to*, minimo 3 con complemento, y le lanza 1 pregunta *"What do you have to do?"* a un companero. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -78,7 +79,8 @@ Find   (encontrar / buscar)
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 28 - DUE: Cl 29 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 28 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 29)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 ON PAPER: 8 real sentences with DOUBLE VERBS (Module 19):
     3 with HAVE TO (real obligations this week)
     + 2 with NEED TO + 1 with WANT TO
@@ -88,14 +90,16 @@ ON PAPER: 8 real sentences with DOUBLE VERBS (Module 19):
     and add a complement to 5 of them
     ("I have to visit my family." not just "I have to visit.").
     Hand in next class.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
     Today's topic: "What I have to do this week." (= MY WORLD piece 25)
 ```
 
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Cierre de Frase del Dia + anuncio (4'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Anuncio: *"Next class: you should be happy! — the verb BE."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia
 
 [PAGEBREAK]
 

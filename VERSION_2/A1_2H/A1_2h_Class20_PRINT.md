@@ -5,11 +5,12 @@
 
 ## BLOQUE 1 (22') — Apertura
 
+- **Puntualidad (0'):** empiezas 6:30 en punto con quien este; quien entra despues de 6:45 = LLEGADA TARDE en el reporte (cada 3 = 1 inasistencia). Sin sermon: es formacion.
 - **Recuperacion (10'), oral y DE PIE, en cadena, sin cuaderno** (Cl N-3 = Cl 17 · Cl N-7 = Cl 13):
   - De **Cl 17** (pasado regular con -ed): dices un verbo regular (*like · love · arrive · visit · help · work · study · play*) y la cadena produce una afirmativa completa en pasado (*"She visited Felicity." · "He worked in the office."*); 4-5 estudiantes, con el sonido final correcto (*studied* = "staDID", *worked* = "work'T").
   - De **Cl 13** (presente simple, verbo base): dices un sujeto plural o *I/you* y la cadena produce una frase en presente (*"I play soccer." · "They work in the office."*), en cadena rapida — sirve de contraste directo con el pasado de hoy.
   - Errores oidos → tablero, ANONIMOS → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — preguntas y ANOTAS (no revisas contenido). Cierre del cuarto bloque de 5 clases: el conteo acumulado va a la libreta para coordinacion, sin comentario en clase.
+- **Chequeo de portafolio CON LA LISTA EN MANO (3'):** ya viste ANTES de clase los videos del grupo de WhatsApp del cohorte. Nombras a cada estudiante, marcas si ENVIO y le dices UNA mejora concreta en 5 segundos (*"Good: 1 minute without reading. Next: the final consonant strong."*). Feedback si; notas, resultados o garantia NO: *"That is coordination, not me."* Video recibido + mejora dicha → al reporte. Cierre del cuarto bloque de 5 clases: el conteo acumulado va a la libreta para coordinacion, sin comentario en clase.
 - **Frase del Dia en tablero (3')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 19 (6'):** recoges los papeles (los 8 pares presente/pasado + 8 frases afirmativas del ayer real); 2 estudiantes leen 2 lineas cada uno en voz alta. Anotas en libreta quien NO entrego.
 
@@ -47,7 +48,7 @@ NUNCA:  "Did she ate?"   "She didn't ate."   "Did they went?"
   - TU eres COACH desde afuera: NUNCA juegas pasajero ni agente. Congelados 15+ segundos → UN prompt (*"did + base verb"*) y te retiras.
   - Minimos por ronda: 4 preguntas con *Did* + 2 respuestas cortas + 2 negativas con *didn't* + minimo 2 verbos irregulares y 2 regulares + el resumen final en tercera persona.
   - Rotacion cada 3 min hasta que todos pasen. Debrief (4'): observers reportan (anonimo); la correccion nuclear al tablero — *"Did you ate?"* → *"Did you EAT?"*, coro 2x.
-- **MY WORLD — avance de proyecto hoy (5'): pieza 19 "MY REAL YESTERDAY — WHAT I DID AND WHAT I DIDN'T DO".** Cada estudiante dice al grupo 3 cosas que hizo ayer (minimo 1 regular y 1 irregular), 2 que no hizo con *didn't*, y le lanza 1 pregunta *"Did you ...?"* a un companero. Esa pieza es el audio de hoy.
+- **MY WORLD — avance de proyecto hoy (5'): pieza 19 "MY REAL YESTERDAY — WHAT I DID AND WHAT I DIDN'T DO".** Cada estudiante dice al grupo 3 cosas que hizo ayer (minimo 1 regular y 1 irregular), 2 que no hizo con *didn't*, y le lanza 1 pregunta *"Did you ...?"* a un companero. Esa pieza es el video de hoy (= video de hito Cl 20).
 
 ## BLOQUE 4 (18') — Cierre
 
@@ -56,13 +57,18 @@ NUNCA:  "Did she ate?"   "She didn't ate."   "Did they went?"
 - **Tarea (tablero):**
 
 ```
-HOMEWORK CL 20 - DUE: Cl 21 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
+HOMEWORK CL 20 - DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow (Cl 21)
+TIME: 15-20 min. NOT fragmented: do it in ONE sitting.
 (1) ON PAPER: 12 lines about YOUR real yesterday, mixing REGULAR + IRREGULAR:
     4 affirmative (2 regular with -ED + 2 irregular: woke up / ate / went to bed)
     + 4 negative with DIDN'T + base verb
     + 3 questions "Did you ...?" + 1 answer "Yes, I did." / "No, I didn't."
     Hand in next class.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY VIDEO - minimum 1 minute, in one take, WITHOUT reading.
+    SEND it TODAY to the class WhatsApp group.
+    Audio only by exception (maximum 2 per week).
+    TODAY = MILESTONE VIDEO (Cl 20): VIDEO only, no audio. Tonight the
+    teacher forwards it to the academy with your name.
     Today's topic: "What I did and what I didn't do yesterday."
     (= MY WORLD piece 19)
 ```
@@ -70,7 +76,7 @@ HOMEWORK CL 20 - DUE: Cl 21 before 6:30 PM · TIME: 15-20 min. NOT fragmented.
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: how often do you play?"*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado: asistencia + columna llegada tarde (despues de 6:45) · videos recibidos + mejora dicha a cada uno  □ Error paper recogido (anonimo) + libreta con nombres  □ Tickets engrapados al reporte (TODOS)  □ Fotos/videos del dia  □ VIDEO DE HITO Cl 20: esta noche reenvias a la auxiliar administrativa el video de CADA estudiante, con su nombre (se guarda en el computador de la academia; los diarios normales no se descargan)
 
 [PAGEBREAK]
 
