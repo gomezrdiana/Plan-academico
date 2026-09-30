@@ -66,5 +66,23 @@ for i, (a, b) in enumerate([('Qué se mide', 'Señal de que funciona'), ('Person
 d.add_paragraph()
 t('Regla de la prueba: se corre 3 semanas con el mismo anuncio. Si a la semana 2 no hay nadie con inmueble, se cambia el gancho, no el presupuesto.', size=9.5, color=GRIS, italic=True)
 
+
+h('7. VARIANTE PARA EMPRESAS: FONDEO CON GARANTÍA INMOBILIARIA (misma cuenta, segundo anuncio)')
+t('Público: dueños de empresa o negocio en Colombia. Mismo principio: filtro adentro, sin tasas ni promesas.', color=GRIS, size=9.5, after=4)
+t('Gancho:', bold=True, after=2)
+caja('¿Tu empresa necesita capital y el banco ya te dijo que no?')
+t('Cuerpo:', bold=True, after=2)
+caja('Cuando el banco cierra la puerta, no se acabaron las opciones. Con tus estados financieros y un inmueble como respaldo, hay fondeadores que sí prestan. Revisamos tus números, te decimos con claridad si tu empresa califica y cuánto, y te presentamos al fondeador correcto. Más de 20 años en finanzas, en Colombia y Estados Unidos.')
+t('Cierre:', bold=True, after=2)
+caja('Escríbenos por WhatsApp y cuéntanos dos cosas: cuánto necesitas y si tienes un inmueble para respaldar.')
+t('Primera respuesta por WhatsApp:', bold=True, after=2)
+caja('Hola, gracias por escribir. Soy [nombre], del equipo de Carlos Remolina. Para saber si podemos ayudarte, tres preguntas rápidas:\n1. ¿Cuánto necesita la empresa y para qué?\n2. ¿Tienes un inmueble libre (sin hipoteca vigente) para respaldar el crédito?\n3. ¿Tienes estados financieros del último año?\nCon eso te digo si tiene sentido revisar tu caso.')
+t('Si califica:', bold=True, after=2)
+caja('Con eso sí vale la pena revisarlo. Cómo funciona: nos envías los estados financieros y los documentos del inmueble, revisamos tu capacidad y te decimos cuánto y en qué condiciones se puede fondear; luego te presentamos al fondeador. Nuestra comisión es del 6% sobre lo desembolsado y se paga solo al desembolso. ¿Te agendo una llamada de 20 minutos con Carlos? ¿Mañana en la mañana o en la tarde?')
+t('Si los números no alcanzan para presentarlo a un fondeador, se le ofrece la Radiografía Financiera: es el mismo cliente, en otro momento.', size=9.5, color=GRIS, italic=True, after=6)
+
 out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\CFO\ANUNCIO_PRUEBA_CENTRALES_v1.docx'
-d.save(out); print('OK', out)
+try:
+    d.save(out); print('OK', out)
+except PermissionError:
+    alt = out.replace('_v1.docx', '_v1_NUEVO.docx'); d.save(alt); print('ABIERTO -> guardado como', alt)
