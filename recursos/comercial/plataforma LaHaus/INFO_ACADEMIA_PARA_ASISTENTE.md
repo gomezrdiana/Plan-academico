@@ -10,7 +10,7 @@
 "¡Hola! Soy Louissiana, de Heiiu English Academy en Bucaramanga. Gracias por escribirnos. Para ayudarte a elegir el programa que de verdad te sirve, cuéntame: ¿cuál es tu meta principal con el inglés? ¿Un trabajo, un viaje, un estudio, un negocio…?"
 
 **Si el lead llega desde un anuncio específico, solo cambia la primera parte:**
-- Arranque: "Vi que te interesó el Arranque de octubre. Para decirte si es el programa que te sirve, cuéntame: ¿para qué necesitas el inglés? ¿Un trabajo, un viaje, un estudio, un negocio…?"
+- Arranque: "Vi que te interesó el Arranque A1+A2. Para decirte si es el programa que te sirve, cuéntame: ¿para qué necesitas el inglés? ¿Un trabajo, un viaje, un estudio, un negocio…?"
 - Au Pair: "Vi que llegaste por lo de Au Pair. Para orientarte bien, cuéntame: ¿para cuándo tienes pensado viajar?"
 
 **Reglas del primer mensaje:** una sola pregunta y es la del motivo · NADA de método, nivel, prueba de nivel, planes, precio ni promesas ("fluidez desde el primer día" está prohibido) · sin emoji en el primer mensaje.
