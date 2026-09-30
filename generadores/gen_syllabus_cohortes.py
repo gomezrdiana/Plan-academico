@@ -539,10 +539,10 @@ def build(cfg):
 
     # 3 (compartida, parametrizada)
     d.sec('3. LO NUEVO DESDE ESTE COHORTE')
-    d.b('Grabación oral de entrada (solo Clase 1): ',
+    d.b('Grabación oral de entrada (Clase 1, o la primera clase a la que asista cada estudiante): ',
         '%s graba a cada estudiante 1 a 2 minutos hablando, mientras el resto trabaja. Es la foto de partida del nivel para la '
         'garantía. Esa misma noche se las envía a la auxiliar administrativa por WhatsApp, una por una con el nombre, y ella '
-        'las guarda en el computador de la academia.' % cfg['grabador'])
+        'las guarda en el computador de la academia. Al que no quede grabado en la Clase 1 (llegó tarde, se fue antes) o entre después como estudiante nuevo, se le graba en la primera clase a la que asista, ese mismo día: ningún estudiante queda sin grabación de entrada.' % cfg['grabador'])
     d.b('Portafolio = VIDEO diario, enviado: ',
         'cada estudiante graba un video de mínimo %s, hablado de corrido y sin leer, y lo envía el mismo día al grupo de '
         'WhatsApp del cohorte (donde están el docente y la auxiliar administrativa). El grupo ES el archivo del portafolio: los videos diarios no se descargan; solo se guardan en el computador de la academia la grabación de entrada, un video de hito cada 10 clases (Cl 10, 20, 30...: el docente reenvía a la auxiliar administrativa, con el nombre, el video de esa clase de cada estudiante) y la grabación de salida del nivel. Festivos: no hay clase, la siguiente clase se dicta el siguiente día hábil y las clases perdidas se recuperan al final del nivel hasta completar las horas. '
