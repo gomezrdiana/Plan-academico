@@ -1,10 +1,10 @@
 # FONDEO + SALIDA DE CENTRALES DE RIESGO — negocio de Carlos (Diana apoya)
 ### Borrador vivo · 29/09/2026, corregido 30/09 · Construido por entrevista (5 rondas; varias respuestas las escribió Carlos)
 
-## 1. LA IDEA EN UNA FRASE
-A la persona que tiene un inmueble pero está reportada en centrales de riesgo y el banco ya no le presta: se estudia legalmente su reporte, se le saca de centrales cuando la ley lo permite, y se le consigue el capital con un fondeador, con hipoteca como garantía. A la empresa que necesita recursos: se le consigue fondeo con sus estados financieros y garantía inmobiliaria.
+## 1. LA IDEA EN UNA FRASE (corregida 30/09 con la definición de Diana)
+**Defensa del deudor + crédito.** A la persona endeudada y reportada (por ejemplo, $100 millones en deudas y ningún banco le presta): el equipo jurídico revisa los documentos que firmó y la forma en que la cobraron y la reportaron; donde la ley encuentra fallas, el reporte se retira y, en algunos casos, la deuda deja de ser exigible. Si además tiene un inmueble, después se le consigue el crédito con un fondeador, con hipoteca. A la empresa que necesita recursos: fondeo con estados financieros y garantía inmobiliaria.
 
-**Prioridad de octubre: la línea de PERSONAS (salir de centrales + préstamo con hipoteca).** Las empresas y la Radiografía siguen, pero no se empujan a la vez.
+**Prioridad de octubre: la línea de PERSONAS.** El cliente de la pauta es el endeudado y reportado, con o sin inmueble; el inmueble solo importa para quien después quiera el crédito.
 
 ## 2. DE DÓNDE SALE
 - Carlos ya hace las dos cosas: busca fondeadores para quien el banco no le presta, y tiene un equipo de abogados y conocedores que estudia y resuelve reportes negativos.
@@ -29,7 +29,7 @@ A la persona que tiene un inmueble pero está reportada en centrales de riesgo y
 - **Empresas** que buscan más recursos y tienen garantía inmobiliaria.
 
 ## 5. CÓMO SE GANA LA PLATA (Diana, 30/09)
-- **Salida de centrales (personas): un solo fee** que incluye el estudio legal del caso, los reclamos y la gestión. **Se paga 50% al contratar y 50% al radicar el reclamo con constancia** (el trabajo ya está hecho; el resultado depende de la entidad), con pagaré por la segunda mitad firmado al contratar. Cuando el cliente toma el crédito, el saldo se descuenta del desembolso. No hay cobro aparte por "estudio". El fee depende del monto reportado; de lo cobrado, Carlos recibe 50% y su socio jurídico 50%. (Cambio 30/09: antes decía "contra resultado"; se cambió porque el cliente que ya salió del reporte no paga.)
+- **Defensa del deudor (personas): se cobra como un abogado.** Un valor de entrada por el estudio del caso, y honorarios sobre lo que se logre (reportes retirados; deuda que deja de ser exigible), con pagaré firmado al contratar. El resultado es plata que el cliente deja de deber, así que el cobro por resultado tiene sentido; el pagaré protege el cobro. Cuando el cliente toma el crédito, el saldo se descuenta del desembolso. Antes decía "un solo fee": **Se paga 50% al contratar y 50% al radicar el reclamo con constancia** (el trabajo ya está hecho; el resultado depende de la entidad), con pagaré por la segunda mitad firmado al contratar. Cuando el cliente toma el crédito, el saldo se descuenta del desembolso. No hay cobro aparte por "estudio". El fee depende del monto reportado; de lo cobrado, Carlos recibe 50% y su socio jurídico 50%. (Cambio 30/09: antes decía "contra resultado"; se cambió porque el cliente que ya salió del reporte no paga.)
 - **Fondeo: comisión del 6% sobre el monto desembolsado**, la misma del paquete de fondeo que Carlos ya maneja. Se cobra al desembolso, nunca antes.
 - Toda tasa de crédito queda por debajo de la tasa de usura vigente, sumando comisiones y gastos.
 
@@ -80,8 +80,8 @@ La cara de la marca B es una asesora real del equipo, con su nombre y su cargo v
 
 **Reporte semanal de Carlos a Diana (una línea por línea):** cuántos escribieron, cuántos calificaron, cuántos pagaron.
 
-## 9-BIS. EL PRECIO DE ENTRADA (Diana, 30/09): la limpieza es el medio, la comisión del crédito es el negocio
-Nadie desconocido paga $4 millones por un reclamo. Pero el cliente elegido (con inmueble, necesita plata) no compara el fee con su deuda: lo compara con el crédito que recibe. Decisión propuesta:
+## 9-BIS. EL PRECIO DE ENTRADA (Diana, 30/09)
+Con la definición corregida (defensa del deudor), $4 millones frente a $100 millones de deuda es barato y el cliente lo compara con lo que deja de deber: no hace falta que venga recomendado. Aun así, el valor de entrada debe ser bajo y el grueso ir sobre el resultado, con pagaré. Decisión propuesta:
 - **Camino crédito (el de la pauta):** valor de entrada BAJO por el estudio y el reclamo (≈ el costo del socio jurídico en un caso típico), y el resto se cobra al desembolso, dentro o junto al 6%. "Pagas poco ahora y el grueso cuando te llega la plata."
 - **Solo limpieza, sin crédito:** fee completo por monto, con pagaré. Pocos clientes, casi siempre recomendados. No es el cliente de la pauta.
 - Pregunta para Carlos: ¿cuánto le cuesta el trabajo de su socio jurídico en un caso típico? Ese número es el precio de entrada.
