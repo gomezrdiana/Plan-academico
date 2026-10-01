@@ -323,7 +323,7 @@ No somos vendedores. Somos las personas que evalúan si alguien merece acceder a
 - **No convencemos.** Preguntamos, escuchamos, decidimos.
 - **No perseguimos.** Filtramos.
 - **No nos sentimos mal por soltar a alguien.** Cada lead que soltamos es un cupo para alguien que sí lo aprovecha.
-- **Única academia con convenio Cajasan** por algo será 
+- **Convenio con Cajasan** (desde 30/09/2026 ya no somos los únicos: no decir "única") 
 
 **Las oportunidades no esperan. El patrocinio tampoco.**
 

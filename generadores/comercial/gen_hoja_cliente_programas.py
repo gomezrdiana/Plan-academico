@@ -102,7 +102,7 @@ cell_par(a, 'CÓMO PUEDES PAGAR', 10, True, NARANJA, None, 2, first=True)
 for bt, tx in [('Contado: ', 'transferencia, tarjeta débito o crédito, o efectivo en la sede.'),
                ('Cesantías o crédito de tu cooperativa o banco: ', 'cuentan como pago de contado.'),
                ('A cuotas: ', 'con una inicial y mensualidades; el plan exacto se arma en tu asesoría.'),
-               ('Afiliado a Cajasan: ', 'condiciones especiales por nuestro convenio, la única academia de inglés de la ciudad que lo tiene.')]:
+               ('Afiliado a Cajasan: ', 'condiciones especiales por nuestro convenio con la caja.')]:
     bullet(a, bt, tx)
 cell_par(b, 'TU SIGUIENTE PASO', 10, True, NARANJA, None, 2, first=True)
 for bt, tx in [('Asegura tu cupo con $300.000: ', 'te congela el cupo y el precio por 7 días, y se cruza con tu primer pago.'),

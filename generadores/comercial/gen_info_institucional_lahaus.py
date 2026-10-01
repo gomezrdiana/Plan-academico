@@ -69,7 +69,7 @@ b('Pasión.')
 sec('4. EXPERIENCIA')
 b('Equipo formando estudiantes desde 2017; institución con licencia de funcionamiento desde 2012.')
 b('Programas de inglés de nivel A1 a B2 alineados con el Marco Común Europeo de Referencia (MCER).')
-b('Convenio con Cajasan: la única academia de inglés de la ciudad con este convenio para sus afiliados. Las condiciones del convenio se explican en la asesoría personalizada.')
+b('Convenio con Cajasan: convenio vigente para sus afiliados. Las condiciones del convenio se explican en la asesoría personalizada.')
 b('Alianzas con empresas de la región para la formación de sus equipos, y programa para colegios.')
 b('Lo que nos diferencia: buscamos activamente conectar a nuestros estudiantes con oportunidades que les cambien los ingresos y la vida. Tenemos alianzas con programas internacionales como Au Pair, Work and Travel y campamentos de verano en Estados Unidos, además de bolsas de empleo en el exterior. El inglés es el requisito de entrada a todos ellos; la academia orienta y conecta, no garantiza plazas.')
 

@@ -115,7 +115,7 @@ flow([P('CÓMO PUEDES PAGAR', 9.6, NAR2, True)], m + 12, py_top - 18, cw - 24, 1
 bullets([('Contado: ', 'transferencia, tarjeta débito o crédito, o efectivo en la sede.'),
          ('Cesantías o crédito de tu cooperativa o banco: ', 'cuentan como pago de contado.'),
          ('A cuotas: ', 'con una inicial y mensualidades; el plan exacto se arma en tu asesoría.'),
-         ('Afiliado a Cajasan: ', 'condiciones especiales por nuestro convenio, la única academia de inglés de la ciudad que lo tiene.')],
+         ('Afiliado a Cajasan: ', 'condiciones especiales por nuestro convenio con la caja.')],
         m + 10, py_top - 24, cw - 20, gap=2.2, size=8.6)
 flow([P('TU SIGUIENTE PASO', 9.6, NAR2, True)], x2 + 12, py_top - 18, cw - 24, 16)
 bullets([('Asegura tu cupo HOY con $300.000: ', 'te congela el cupo y el precio por 7 días, te deja los libros incluidos, y se cruza con tu primer pago.'),
