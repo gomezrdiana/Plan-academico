@@ -86,8 +86,16 @@ Con la definición corregida (defensa del deudor), $4 millones frente a $100 mil
 - **Solo limpieza, sin crédito:** fee completo por monto, con pagaré. Pocos clientes, casi siempre recomendados. No es el cliente de la pauta.
 - Pregunta para Carlos: ¿cuánto le cuesta el trabajo de su socio jurídico en un caso típico? Ese número es el precio de entrada.
 
+## 9-TER. COMPUERTA ANTES DE PUBLICAR (Diana, 30/09): ¿hay abogado?
+- El socio de Carlos en la línea de centrales se llama Jorge. No está confirmado que sea abogado.
+- Si NO hay abogado con tarjeta profesional en el equipo: no se puede decir "equipo jurídico", "defensa del deudor" ni "la deuda deja de ser exigible". El producto se reduce a lo que cualquiera puede hacer: reclamar reportes mal hechos por habeas data y negociar la deuda con la entidad. El anuncio y los posts se bajan de tono a eso.
+- Si SÍ hay abogado (Jorge u otro): se verifica la tarjeta en el registro del Consejo Superior de la Judicatura y se usa el anuncio como está, con el abogado en el "quiénes somos".
+- **Dueños por producto, aunque salgan bajo la misma marca:** centrales = Carlos y Jorge (50/50 de lo cobrado); fondeo = solo Carlos (6%). El contrato de servicio y el pagaré los firma quien responde por cada parte.
+- **El anuncio NO se publica hasta resolver esto.**
+
 ## 10. PREGUNTAS ABIERTAS
-1. Costo del socio jurídico por caso típico (= precio de entrada del camino crédito) y fee completo para el cliente que solo quiere la limpieza.
+0. ¿Jorge (o alguien del equipo) es abogado con tarjeta profesional? (compuerta, sección 9-TER)
+1. Costo del socio por caso típico (= precio de entrada del camino crédito) y fee completo para el cliente que solo quiere la limpieza.
 2. Tasas que cobran los fondeadores (entidad e inversionista), para verificarlas contra la usura del mes.
 
 Lo demás ya está: comisión de fondeo 6% · experiencia y atención = las del negocio de dashboards (más de 20 años, 21 empresas, atiende Carlos con su equipo) · promesa = plazo estimado por escrito · prioridad octubre = personas con inmueble.
