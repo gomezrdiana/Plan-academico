@@ -18,7 +18,7 @@ Si apruebas, quedas en B1 y seguimos. Si no apruebas, o si no cumples alguno de 
 
 Antes de entrar a clase hoy firmas un acta con estas condiciones; Jacqueline la tiene en la sede.
 
-Tania, esto depende solo de ti, y por lo que vimos en el refuerzo, sí te alcanza. Nos vemos esta noche.
+Tania, en tres días de refuerzo subiste 18 puntos. Eso no lo hace cualquiera, y es la señal de que con ese mismo esfuerzo, sostenido dos semanas, no solo apruebas: puedes ser la mejor del grupo. Depende solo de ti. Nos vemos esta noche.
 
 Depto. Experiencia al Cliente — Heiiu English Academy
 
