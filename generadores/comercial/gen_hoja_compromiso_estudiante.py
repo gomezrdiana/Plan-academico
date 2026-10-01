@@ -41,7 +41,7 @@ d.save(BASE + r'\MENSAJE_GRUPOS_VIDEO_GARANTIA.docx'); print('OK mensaje')
 # ---------- 2. HOJA DE COMPROMISO ----------
 d = nuevo()
 t(d, 'HOJA DE COMPROMISO DEL ESTUDIANTE', bold=True, size=14, color=NAR, align=WD_ALIGN_PARAGRAPH.CENTER, after=2)
-t(d, 'Garantía de aprendizaje, portafolio de videos y puntualidad · Heiiu English Academy — Global Teacher S.A.S., NIT 900.422.478-2', size=9, color=GRIS, align=WD_ALIGN_PARAGRAPH.CENTER, after=10)
+t(d, 'Garantía de aprendizaje: asistencia, puntualidad, trabajo en clase y tareas · Heiiu English Academy — Global Teacher S.A.S., NIT 900.422.478-2', size=9, color=GRIS, align=WD_ALIGN_PARAGRAPH.CENTER, after=10)
 
 t(d, 'Yo, ______________________________________________, identificado(a) con documento No. ____________________, estudiante del nivel ______ en el grupo / jornada ____________________, declaro lo siguiente:', after=8)
 
@@ -50,11 +50,13 @@ items = [
      'Recibo en este acto el ANEXO DE GARANTÍA HEIIU DE APRENDIZAJE vigente, lo leí y lo acepto. Entiendo que la garantía aplica cuando cumplo sus tres condiciones: asistir al menos al 80% de las clases del nivel, entregar al menos el 90% de las tareas asignadas y presentar todas las evaluaciones del nivel.'),
     ('2. El video diario es parte de mis tareas. ',
      'Me comprometo a grabar y enviar al grupo de WhatsApp de mi cohorte, el mismo día de cada clase, un video en inglés hablado de corrido y sin leer, con la duración mínima de mi nivel (A1: 1 minuto · A2: 2 minutos · B1: 3 minutos · B2: 5 minutos). Entiendo que cada video es una tarea asignada y cuenta dentro del 90% de tareas de mi garantía. Puedo enviar audio en lugar de video solo de forma excepcional, máximo dos veces por semana.'),
-    ('3. Recibo feedback, no notas, de mi profesor. ',
+    ('3. Trabajo en clase. ',
+     'La clase es hablada y en inglés: participo en las simulaciones y en los ejercicios, entrego mi ticket de salida al final de cada clase y mantengo el celular guardado durante la clase. Lo que se practica en clase es lo que la garantía mide después.'),
+    ('4. Recibo feedback, no notas, de mi profesor. ',
      'Mi profesor ve mis videos y me da una recomendación concreta en clase. Las notas, los resultados de las evaluaciones y todo lo relacionado con la garantía me los comunica coordinación académica.'),
-    ('4. Puntualidad. ',
+    ('5. Puntualidad. ',
      'La clase empieza a la hora exacta de mi horario. Llegar más de quince (15) minutos después cuenta como llegada tarde, y cada tres (3) llegadas tarde se contabilizan como una (1) inasistencia. Entiendo que la puntualidad es parte de la formación del programa.'),
-    ('5. Esta hoja no cambia mi contrato. ',
+    ('6. Esta hoja no cambia mi contrato. ',
      'Precisa cómo se cumplen las condiciones de la garantía y hace parte de mi expediente académico. Todas las demás cláusulas de mi contrato de matrícula siguen iguales. La academia conserva mis videos y grabaciones únicamente como evidencia de mi avance académico, conforme a la Ley 1581 de 2012.'),
 ]
 for tit, txt in items:
