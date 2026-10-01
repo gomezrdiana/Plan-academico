@@ -32,7 +32,7 @@ for par in [
     'Les recordamos cómo funciona su garantía de aprendizaje: pide asistir al menos al 80% de las clases, entregar al menos el 90% de las tareas y presentar todas las evaluaciones del nivel.',
     'Desde esta semana, la tarea de cada clase incluye un video corto en inglés: [minutos] hablando de corrido, sin leer, enviado a este grupo el mismo día. Cada video cuenta como tarea entregada. Su profesor lo ve y al empezar la clase le da a cada uno una recomendación concreta para mejorar.',
     'Es la práctica que más rápido los hace hablar, y es la prueba de su avance.',
-    'Más adelante les entregaremos por escrito su garantía y estos compromisos, para que cada uno tenga claro qué le corresponde a la academia y qué le corresponde a usted.',
+    'En la próxima clase les entregaremos una hoja para firmar con su garantía por escrito y estos compromisos, para que cada uno tenga claro qué le corresponde a la academia y qué le corresponde a usted.',
     'Experiencia al Cliente — Heiiu English Academy',
 ]:
     t(d, par, after=8)

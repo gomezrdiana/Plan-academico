@@ -1,5 +1,5 @@
 # ANEXO AL CONTRATO DE MATRÍCULA — GARANTÍA HEIIU DE APRENDIZAJE
-### v2.3 · 25/09/2026 · PENDIENTE VoBo abogado — entra al paquete del contrato de 30 cláusulas
+### Versión 2.3 · octubre de 2026
 
 **Anexo al Contrato para Programa de Cursos Heiiu-Global Teacher SAS suscrito el ____ / ____ / ______ · Estudiante: ______________________________ · Documento: ______________**
 
