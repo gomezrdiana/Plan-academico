@@ -70,6 +70,11 @@ tabla([
 h('3. Cómo se mide: el tracker y el reporte del viernes')
 t('Él llena el tracker (una fila por empresa: contacto, fecha, estado, próximo paso con fecha) y cada viernes manda a gerencia una foto o el archivo con dos líneas por empresa. La hoja RESUMEN del tracker calcula sola las métricas de arriba. Lo que no está en el tracker no cuenta ni paga comisión.', after=4)
 
+h('3-BIS. La rutina diaria (sin reunión)')
+t('Todos los días hábiles, a las 6 PM (o antes de su clase de la noche), él manda a gerencia UN mensaje de tres líneas:', after=2)
+t('"Hoy: contacté [N] empresas ([nombres]). Reuniones: [N] ([empresa, día y hora]). Convenios / agendados con gerencia: [N]. · Mañana: [qué va a hacer, con nombres]. · Necesito de ti: [nada / una cosa concreta]."', bold=True, after=3)
+t('Gerencia lo lee en dos minutos, responde una línea y resuelve lo pedido en menos de 24 horas. Si un día no llega el mensaje, se pide. Si pasan tres días sin un contacto nuevo, se habla ese mismo día. El tracker se actualiza a diario; el viernes hay una llamada de 15 minutos con el tracker en pantalla para revisar la semana y ajustar el guion.', after=4)
+
 h('4. Los dos cortes')
 tabla([
     ['Corte', 'Qué se mira', 'Si va bien', 'Si no va'],
