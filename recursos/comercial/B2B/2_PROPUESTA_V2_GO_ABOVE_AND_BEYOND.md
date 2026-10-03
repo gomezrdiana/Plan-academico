@@ -1,3 +1,5 @@
+> **REEMPLAZADO (14/09/2026 y confirmado 03/10/2026):** la "Beca [Empresa]" de $965.000 sobre tarifa de lista YA NO APLICA. El modelo vigente está en `CONDICIONES_GO_ABOVE_AND_BEYOND` y en el Reglamento del Fondo art. 3.5: colaborador hasta 1,5 SMMLV con carta de la empresa = Beca Transformación (techo 45%); los demás, beneficio de convenio; regla del mejor beneficio; la empresa no paga. Este archivo se conserva solo como historial.
+
 # GO ABOVE AND BEYOND — REVISIÓN DE LA PROPUESTA · VERSIÓN FINAL
 ### Heiiu English Academy · 10 de agosto de 2026
 

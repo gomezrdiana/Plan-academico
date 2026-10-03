@@ -47,15 +47,15 @@ h('PROPUESTA DE TRABAJO — PILOTO DE ALIANZAS EMPRESARIALES', 15, before=0)
 t('Heiiu English Academy · Para el docente que lidera el piloto · 60 días · octubre a diciembre de 2026', color=GRIS, size=9.5, after=6)
 
 h('1. Qué vamos a hacer')
-t('Abrir alianzas con empresas de Bucaramanga para el programa de becas corporativas "Becas [Empresa]": la empresa entrega becas de inglés a sus empleados como premio, con su nombre, y la academia recibe estudiantes nuevos recomendados por su jefe. Si además la empresa quiere formar a su equipo con un programa pagado, esa venta la hace gerencia.')
-t('Tu papel es abrir la puerta y presentar: que el gerente diga "quiero esa reunión" o "quiero ese convenio". Gerencia negocia, cotiza y firma.', bold=True)
+t('Abrir alianzas con empresas de Bucaramanga como Heiiu Business Partner. Qué recibe la empresa, sin pagar nada: sus colaboradores con ingresos hasta 1,5 SMMLV, con carta de la empresa y desprendible, acceden a la Beca Transformación del Fondo (techo 45%) para su programa de inglés; los demás colaboradores reciben el beneficio de convenio (pagan a cuotas con el porcentaje de contado de su perfil); y la empresa recibe reporte de avance de sus becados, ceremonia de entrega y un diagnóstico de inglés para su equipo. La academia recibe estudiantes nuevos recomendados por su jefe. Si además la empresa quiere formar a su equipo con un programa pagado, esa venta la hace gerencia.')
+t('Tu papel: abrir la puerta, presentar y cerrar el convenio de alianza con el formato estándar, sin cambiarle nada (el convenio no tiene costo ni condiciones negociables). Gerencia lo firma por la academia. Todo lo que tenga precio (formación corporativa pagada) o se salga del formato, lo presenta y cierra gerencia.', bold=True)
 
 h('2. Qué se espera en 60 días')
 tabla([
     ['Qué', 'Mínimo', 'Bueno'],
     ['Empresas contactadas (decisor real, con respuesta)', '10', '20'],
     ['Reuniones realizadas con el decisor', '5', '10'],
-    ['Convenios de becas firmados (los firma gerencia)', '3', '5'],
+    ['Convenios firmados (los cierras tú con el formato; gerencia firma por la academia)', '3', '5'],
     ['Gerentes agendados con gerencia por formación pagada', '2', '4'],
     ['Personas que llegan por una alianza', '10', '20'],
     ['Matrículas por alianza (esto es lo que paga comisión)', '3', '6'],
@@ -65,8 +65,8 @@ t('Ritmo semanal: 3 empresas contactadas y 1 o 2 reuniones. No hace falta más; 
 h('3. Lo tuyo')
 b('Conseguir y contactar empresas nuevas (las que ya están en conversación con la academia te las decimos antes de empezar: esas no).')
 b('Presentar la propuesta con el material aprobado, sin cambiarlo: carta de alianza, términos de las becas, tarifario cerrado.')
-b('No negociar, no cotizar, no prometer condiciones ni descuentos. Si preguntan por precio o por formación pagada: "eso se lo presenta gerencia; le agendo 20 minutos".')
-b('Terminar cada visita con algo: convenio para firma, reunión con gerencia agendada, o un referido concreto.')
+b('Cerrar solo con el mini-convenio estándar, tal cual. No negociar, no cotizar, no prometer condiciones ni descuentos. Si preguntan por precio o por formación pagada: "eso se lo presenta gerencia; le agendo 20 minutos".')
+b('Terminar cada visita con algo: convenio firmado por la empresa, reunión con gerencia agendada (formación pagada), o un referido concreto.')
 b('Llenar el tracker el mismo día de cada contacto y mandar el reporte diario. Lo que no está en el tracker no existe.')
 b('Visitas fuera de tus horas de clase. Tus clases no se tocan.')
 b('Lenguaje de la casa: "beca", nunca "descuento", "gratis" ni "patrocinio". Nada de promesas de empleo, visas o resultados.')
@@ -75,7 +75,7 @@ h('4. Lo de gerencia')
 b('Entregarte el material listo: carta de alianza, términos, mini-convenio, tarifario, este documento y el tracker.')
 b('Hacer contigo el ensayo antes de la primera visita (gerencia hace de gerente difícil).')
 b('Responderte en menos de 24 horas lo que pidas en el reporte diario, y atender a cada gerente que agendes en menos de 48 horas.')
-b('Negociar, cotizar y firmar con las empresas que abras.')
+b('Firmar por la academia los convenios que cierres, y negociar, cotizar y cerrar la formación pagada con las empresas que abras.')
 b('Liquidarte la comisión cada mes, con el reporte de ingresos a la vista.')
 
 h('5. Lo que llenas y cuándo')

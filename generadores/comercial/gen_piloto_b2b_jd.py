@@ -44,12 +44,12 @@ def tabla(filas, anchos):
     d.add_paragraph().paragraph_format.space_after = Pt(1)
 
 h('PILOTO DE ALIANZAS EMPRESARIALES — TABLERO DE MÉTRICAS (60 DÍAS)', 14, before=0)
-t('Para el docente habilitado comercialmente que abre alianzas (programa "Becas [Empresa]" / Heiiu Business Partner). Se acuerda antes de la primera visita y se revisa cada viernes. Documento por rol.', color=GRIS, size=9, after=6)
+t('Para el docente habilitado comercialmente que abre alianzas (programa Heiiu Business Partner: beneficios del Fondo de Becas para los colaboradores de la empresa aliada, sin costo para la empresa). Se acuerda antes de la primera visita y se revisa cada viernes. Documento por rol.', color=GRIS, size=9, after=6)
 
 h('1. Lo que no cambia (el marco de agosto)')
 for x in [
     'Sale a visitar SOLO con el contrato docente v3.1 y el anexo de habilitación comercial firmados.',
-    'Abre y presenta; NO negocia, NO cotiza, NO promete condiciones. Todo gerente interesado en formación paga se agenda con gerencia. El tarifario es cerrado.',
+    'Abre, presenta y cierra el convenio de alianza con el formato estándar sin cambiarle nada (no tiene costo ni condiciones negociables); gerencia lo firma por la academia. NO negocia ni cotiza: la formación pagada y todo lo que se salga del formato lo cierra gerencia.',
     'Empresas NUEVAS que él consiga. Las tibias (empleadores de estudiantes, aliadas ya en conversación) las trabaja gerencia.',
     'Las visitas no chocan con sus clases. El compromiso comercial no puede costarle calidad docente.',
     'Comisión según el anexo firmado (canal propio: sobre el recaudo de las matrículas que lleguen por alianzas que él abrió). Se liquida mensual contra el reporte de ingresos.',
@@ -61,7 +61,7 @@ tabla([
     ['Métrica', 'Qué cuenta', 'Meta por semana', 'Meta a 60 días'],
     ['Empresas contactadas', 'Primer contacto real con un decisor (gerente, RR. HH., dueño): llamada, visita o mensaje con respuesta. No cuenta dejar una carta en recepción.', '3', '10 (mínimo) · 20 (bueno)'],
     ['Reuniones logradas', 'Reunión agendada y realizada con el decisor, con la carta de alianza presentada.', '1-2', '5 (mínimo) · 10 (bueno)'],
-    ['Convenios firmados', 'Mini-convenio de becas firmado (empresa, número de becas, vigencia). Lo firma gerencia.', '—', '3 (mínimo) · 5 (bueno)'],
+    ['Convenios firmados', 'Convenio Heiiu Business Partner estándar firmado por la empresa (y por gerencia por la academia).', '—', '3 (mínimo) · 5 (bueno)'],
     ['Reuniones con gerencia', 'Gerentes que pidieron formación paga y quedaron agendados con gerencia (él no cotiza).', '—', '2 o más'],
     ['Leads que llegan', 'Personas que escriben o llegan a la sede por una beca de alianza (con el nombre de la empresa).', '—', '10 o más'],
     ['Matrículas por alianza', 'Matrículas efectivas y recaudadas que vienen de una empresa que él abrió. Es lo que paga comisión.', '—', '3 o más'],
