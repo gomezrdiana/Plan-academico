@@ -1,14 +1,39 @@
 # -*- coding: utf-8 -*-
-"""Pieza de reactivacion de leads para LaHaus (imagen horizontal que acompana el mensaje de WhatsApp). Estilo de los carruseles IG Heiiu.
+"""Pieza de reactivacion de leads para LaHaus (horizontal). Version corta: titular + pregunta + garantia + boton.
+Fondo: foto real si existe `recursos/comercial/plataforma LaHaus/fondo_reactivacion.jpg` (con capa oscura); si no, fondo de marca.
 Salida: recursos/comercial/plataforma LaHaus/PIEZA_REACTIVACION_HEIIU.png"""
-from PIL import Image, ImageDraw, ImageFont
+import os
+from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 W, H = 1600, 840
-BG = (48, 39, 28); CREMA = (255, 248, 231); AMAR = (251, 201, 0); NAR = (229, 76, 9); GRIS = (200, 190, 175); CARD = (62, 51, 37)
+BG = (48, 39, 28); CREMA = (255, 248, 231); AMAR = (251, 201, 0); NAR = (229, 76, 9); GRIS = (210, 200, 185)
 F = 'C:/Windows/Fonts/'
+BASE = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\plataforma LaHaus'
 def font(name, size): return ImageFont.truetype(F + name, size)
 
-img = Image.new('RGB', (W, H), BG); d = ImageDraw.Draw(img)
+foto = os.path.join(BASE, 'fondo_reactivacion.jpg')
+if os.path.exists(foto):
+    img = Image.open(foto).convert('RGB')
+    # recorte a 1600x840 cubriendo
+    r = max(W / img.width, H / img.height); img = img.resize((int(img.width * r) + 1, int(img.height * r) + 1))
+    x = (img.width - W) // 2; y = (img.height - H) // 2; img = img.crop((x, y, x + W, y + H))
+    # capa oscura con degradado: mas oscura a la izquierda (texto), mas foto a la derecha
+    overlay = Image.new('RGBA', (W, H), (0, 0, 0, 0)); od = ImageDraw.Draw(overlay)
+    for i in range(W):
+        a = int(235 - 110 * (i / W))  # 235 -> 125
+        od.line([(i, 0), (i, H)], fill=(48, 39, 28, a))
+    img = Image.alpha_composite(img.convert('RGBA'), overlay).convert('RGB')
+else:
+    img = Image.new('RGB', (W, H), BG)
+    # fondo de marca: circulos suaves en naranja y amarillo, muy tenues
+    layer = Image.new('RGBA', (W, H), (0, 0, 0, 0)); ld = ImageDraw.Draw(layer)
+    ld.ellipse([980, -260, 1900, 660], fill=(229, 76, 9, 46))
+    ld.ellipse([1180, 300, 1760, 880], fill=(251, 201, 0, 34))
+    ld.ellipse([-320, 520, 420, 1260], fill=(229, 76, 9, 26))
+    layer = layer.filter(ImageFilter.GaussianBlur(70))
+    img = Image.alpha_composite(img.convert('RGBA'), layer).convert('RGB')
+
+d = ImageDraw.Draw(img)
 
 # logo
 try:
@@ -16,39 +41,28 @@ try:
     lh = 86; lw = int(logo.width * lh / logo.height); logo = logo.resize((lw, lh))
     pad = Image.new('RGBA', (lw + 36, lh + 24), NAR + (255,)); pad.paste(logo, (18, 12), logo)
     img.paste(pad, (72, 56), pad)
-except Exception as e:
+except Exception:
     d.text((72, 60), 'heiiu', font=font('calibrib.ttf', 54), fill=AMAR)
 
-# eyebrow + linea
-d.text((72, 212), 'YA DISTE EL PRIMER PASO', font=font('calibrib.ttf', 26), fill=AMAR, spacing=4)
-d.rectangle([72, 252, 182, 257], fill=NAR)
-
+# etiqueta
+d.text((72, 268), 'YA DISTE EL PRIMER PASO', font=font('calibrib.ttf', 26), fill=AMAR)
+d.rectangle([72, 308, 182, 313], fill=NAR)
 # titular
-d.text((72, 290), 'Nos escribiste', font=font('calibrib.ttf', 86), fill=CREMA)
-d.text((72, 384), 'por el inglés.', font=font('calibrib.ttf', 86), fill=CREMA)
-# subtitulo
-d.text((72, 500), '¿Sigue siendo una meta para ti?', font=font('georgiai.ttf', 44), fill=AMAR)
-# prueba
-d.text((72, 572), 'Desde 2012 en Bucaramanga. Entrenamiento presencial con', font=font('calibri.ttf', 29), fill=GRIS)
-d.text((72, 608), 'garantía de aprendizaje por escrito en el contrato.', font=font('calibri.ttf', 29), fill=GRIS)
+d.text((72, 340), 'Nos escribiste', font=font('calibrib.ttf', 96), fill=CREMA)
+d.text((72, 446), 'por el inglés.', font=font('calibrib.ttf', 96), fill=CREMA)
+# pregunta
+d.text((72, 572), '¿Sigue siendo una meta para ti?', font=font('georgiai.ttf', 46), fill=AMAR)
+# garantia
+d.text((72, 644), 'Garantía de aprendizaje firmada.', font=font('calibri.ttf', 30), fill=GRIS)
 # boton
-bx, by, bw, bh = 72, 672, 470, 70
+bx, by, bw, bh = 72, 706, 470, 70
 d.rounded_rectangle([bx, by, bx + bw, by + bh], radius=14, fill=AMAR)
-d.text((bx + 34, by + 17), 'Responde este mensaje  →', font=font('calibrib.ttf', 30), fill=(48, 39, 28))
+d.text((bx + 34, by + 17), 'Responde este mensaje  →', font=font('calibrib.ttf', 30), fill=BG)
 # pie
-d.text((72, 772), 'heiiu  ·  @heiiu_english  ·  Carrera 27 # 48-49, Sotomayor, segundo piso', font=font('calibri.ttf', 24), fill=GRIS)
+d.text((W - 72 - 330, 790), 'heiiu  ·  @heiiu_english', font=font('calibri.ttf', 24), fill=GRIS)
 
-# tarjetas de motivo (lado derecho)
-cards = [('UN TRABAJO', 'la vacante que hoy\npasas de largo'), ('UN VIAJE', 'pasar inmigración con\ntus propias respuestas'), ('UN ESTUDIO', 'la beca o el posgrado\nsin ese requisito'), ('UN NEGOCIO', 'clientes de afuera\nsin traductor')]
-cw, ch, gap = 300, 215, 24
-x0 = W - 72 - (2 * cw + gap); y0 = 262
-for i, (tit, sub) in enumerate(cards):
-    cx = x0 + (i % 2) * (cw + gap); cy = y0 + (i // 2) * (ch + gap)
-    d.rounded_rectangle([cx, cy, cx + cw, cy + ch], radius=22, fill=CARD, outline=(90, 76, 58), width=2)
-    d.rectangle([cx + 28, cy + 30, cx + 88, cy + 35], fill=NAR)
-    d.text((cx + 28, cy + 56), tit, font=font('calibrib.ttf', 32), fill=AMAR)
-    d.multiline_text((cx + 28, cy + 110), sub, font=font('calibri.ttf', 27), fill=CREMA, spacing=8)
-d.text((x0, y0 - 44), 'LO QUE NOS DIJISTE QUE QUERÍAS', font=font('calibrib.ttf', 22), fill=GRIS)
-
-out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\plataforma LaHaus\PIEZA_REACTIVACION_HEIIU.png'
-img.save(out, optimize=True); print('OK', out)
+out = os.path.join(BASE, 'PIEZA_REACTIVACION_HEIIU.png')
+try:
+    img.save(out, optimize=True); print('OK', out)
+except OSError:
+    out2 = os.path.join(BASE, 'PIEZA_REACTIVACION_HEIIU_v2.png'); img.save(out2, optimize=True); print('ABIERTA -> guardada como', out2)
