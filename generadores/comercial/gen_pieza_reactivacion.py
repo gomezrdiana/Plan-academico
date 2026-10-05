@@ -14,14 +14,16 @@ def font(name, size): return ImageFont.truetype(F + name, size)
 foto = os.path.join(BASE, 'fondo_reactivacion.jpg')
 if os.path.exists(foto):
     img = Image.open(foto).convert('RGB')
+    img = img.crop((int(img.width * 0.18), 0, img.width, int(img.height * 0.56)))  # franja superior, corrida a la derecha
     # recorte a 1600x840 cubriendo
     r = max(W / img.width, H / img.height); img = img.resize((int(img.width * r) + 1, int(img.height * r) + 1))
     x = (img.width - W) // 2; y = (img.height - H) // 2; img = img.crop((x, y, x + W, y + H))
     # capa oscura con degradado: mas oscura a la izquierda (texto), mas foto a la derecha
     overlay = Image.new('RGBA', (W, H), (0, 0, 0, 0)); od = ImageDraw.Draw(overlay)
     for i in range(W):
-        a = int(235 - 110 * (i / W))  # 235 -> 125
+        a = int(242 - 100 * (i / W))  # 242 -> 142
         od.line([(i, 0), (i, H)], fill=(48, 39, 28, a))
+    img = img.filter(ImageFilter.GaussianBlur(5))
     img = Image.alpha_composite(img.convert('RGBA'), overlay).convert('RGB')
 else:
     img = Image.new('RGB', (W, H), BG)
@@ -53,26 +55,27 @@ d.text((72, 446), 'por el inglés.', font=font('calibrib.ttf', 96), fill=CREMA)
 # pregunta
 d.text((72, 572), '¿Sigue siendo una meta para ti?', font=font('georgiai.ttf', 46), fill=AMAR)
 # garantia
-d.text((72, 644), 'Garantía de aprendizaje firmada.', font=font('calibri.ttf', 30), fill=GRIS)
+d.text((72, 640), 'Única academia de inglés con garantía', font=font('calibri.ttf', 29), fill=GRIS)
+d.text((72, 674), 'de aprendizaje firmada.', font=font('calibri.ttf', 29), fill=GRIS)
 # boton
-bx, by, bw, bh = 72, 706, 470, 70
+bx, by, bw, bh = 72, 726, 470, 66
 d.rounded_rectangle([bx, by, bx + bw, by + bh], radius=14, fill=AMAR)
 d.text((bx + 34, by + 17), 'Responde este mensaje  →', font=font('calibrib.ttf', 30), fill=BG)
 # tarjetas de motivo (lado derecho), semitransparentes para que se vea el fondo
 cards = [('UN TRABAJO', 'la vacante que hoy\npasas de largo'), ('UN VIAJE', 'pasar inmigración con\ntus propias respuestas'), ('UN ESTUDIO', 'la beca o el posgrado\nsin ese requisito'), ('UN NEGOCIO', 'clientes de afuera\nsin traductor')]
-cw, ch, gap = 300, 205, 24
-x0 = W - 72 - (2 * cw + gap); y0 = 300
+cw, ch, gap = 250, 160, 20
+x0 = W - 72 - (2 * cw + gap); y0 = 330
 cl = Image.new('RGBA', (W, H), (0, 0, 0, 0)); cd = ImageDraw.Draw(cl)
 for i, (tit, sub) in enumerate(cards):
     cx = x0 + (i % 2) * (cw + gap); cy = y0 + (i // 2) * (ch + gap)
-    cd.rounded_rectangle([cx, cy, cx + cw, cy + ch], radius=22, fill=(48, 39, 28, 190), outline=(120, 100, 75, 200), width=2)
+    cd.rounded_rectangle([cx, cy, cx + cw, cy + ch], radius=18, fill=(48, 39, 28, 175), outline=(140, 118, 88, 200), width=2)
 img = Image.alpha_composite(img.convert('RGBA'), cl).convert('RGB'); d = ImageDraw.Draw(img)
 for i, (tit, sub) in enumerate(cards):
     cx = x0 + (i % 2) * (cw + gap); cy = y0 + (i // 2) * (ch + gap)
-    d.rectangle([cx + 28, cy + 28, cx + 88, cy + 33], fill=NAR)
-    d.text((cx + 28, cy + 50), tit, font=font('calibrib.ttf', 30), fill=AMAR)
-    d.multiline_text((cx + 28, cy + 100), sub, font=font('calibri.ttf', 26), fill=CREMA, spacing=8)
-d.text((x0, y0 - 42), 'LO QUE NOS DIJISTE QUE QUERÍAS', font=font('calibrib.ttf', 22), fill=GRIS)
+    d.rectangle([cx + 22, cy + 22, cx + 70, cy + 26], fill=NAR)
+    d.text((cx + 22, cy + 40), tit, font=font('calibrib.ttf', 25), fill=AMAR)
+    d.multiline_text((cx + 22, cy + 82), sub, font=font('calibri.ttf', 22), fill=CREMA, spacing=6)
+d.text((x0, y0 - 40), 'LO QUE NOS DIJISTE QUE QUERÍAS', font=font('calibrib.ttf', 20), fill=GRIS)
 # pie
 d.text((W - 72 - 330, 790), 'heiiu  ·  @heiiu_english', font=font('calibri.ttf', 24), fill=GRIS)
 
