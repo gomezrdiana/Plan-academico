@@ -43,7 +43,7 @@ def tabla(filas, anchos):
             elif j == 0: r.bold = True
     d.add_paragraph().paragraph_format.space_after = Pt(1)
 
-h('PILOTO DE ALIANZAS EMPRESARIALES — TABLERO DE MÉTRICAS (60 DÍAS)', 14, before=0)
+h('PILOTO DE ALIANZAS EMPRESARIALES — TABLERO DE MÉTRICAS (60 DÍAS, CORTES CADA 15)', 14, before=0)
 t('Para el docente habilitado comercialmente que abre alianzas (Heiiu Business Partner: Oferta A alianza sin costo y Oferta B plan empresa estándar de 3 a 7 cupos, que cierra el docente; a la medida, gerencia). Se acuerda antes de la primera visita y se revisa cada viernes. Documento por rol.', color=GRIS, size=9, after=6)
 
 h('1. Lo que no cambia (el marco de agosto)')
@@ -59,9 +59,9 @@ for x in [
 h('2. Las métricas (actividad primero, resultado después)')
 tabla([
     ['Métrica', 'Qué cuenta', 'Meta por semana', 'Meta a 60 días'],
-    ['Empresas contactadas', 'Primer contacto real con un decisor (gerente, RR. HH., dueño): llamada, visita o mensaje con respuesta. No cuenta dejar una carta en recepción.', '3', '10 (mínimo) · 20 (bueno)'],
-    ['Reuniones logradas', 'Reunión agendada y realizada con el decisor, con la carta de alianza presentada.', '1-2', '5 (mínimo) · 10 (bueno)'],
-    ['Convenios firmados', 'Convenio Heiiu Business Partner estándar firmado por la empresa (y por gerencia por la academia).', '—', '3 (mínimo) · 5 (bueno)'],
+    ['Empresas contactadas', 'Primer contacto real con un decisor (gerente, RR. HH., dueño): llamada, visita o mensaje con respuesta. No cuenta dejar una carta en recepción.', '3', '24 (6 · 12 · 18 · 24 por corte)'],
+    ['Reuniones logradas', 'Reunión agendada y realizada con el decisor, con la carta de alianza presentada.', '1-2', '10 (2 · 5 · 8 · 10 por corte)'],
+    ['Convenios firmados', 'Convenio Heiiu Business Partner estándar firmado por la empresa (y por gerencia por la academia).', '—', '3 (1 al día 30 · 2 al 45 · 3 al 60)'],
     ['Planes empresa', 'Órdenes de plan empresa estándar cerradas por él, o planes a la medida agendados con gerencia.', '—', '2 o más'],
     ['Leads que llegan', 'Personas que escriben o llegan a la sede por una beca de alianza (con el nombre de la empresa).', '—', '10 o más'],
     ['Matrículas por alianza', 'Matrículas efectivas y recaudadas que vienen de una empresa que él abrió. Es lo que paga comisión.', '—', '3 o más'],
@@ -75,12 +75,14 @@ t('Todos los días hábiles, a las 6 PM (o antes de su clase de la noche), él m
 t('"Hoy: contacté [N] empresas ([nombres]). Reuniones: [N] ([empresa, día y hora]). Convenios / agendados con gerencia: [N]. · Mañana: [qué va a hacer, con nombres]. · Necesito de ti: [nada / una cosa concreta]."', bold=True, after=3)
 t('Gerencia lo lee en dos minutos, responde una línea y resuelve lo pedido en menos de 24 horas. Si un día no llega el mensaje, se pide. Si pasan tres días sin un contacto nuevo, se habla ese mismo día. El tracker se actualiza a diario; el viernes hay una llamada de 15 minutos con el tracker en pantalla para revisar la semana y ajustar el guion.', after=4)
 
-h('4. Los dos cortes')
+h('4. Los cuatro cortes (acumulado mínimo)')
 tabla([
-    ['Corte', 'Qué se mira', 'Si va bien', 'Si no va'],
-    ['Día 30', 'Actividad: contactadas y reuniones. Resultado mínimo: 1 convenio firmado o 3 reuniones con decisor.', 'Sigue; se ajusta el guion con lo que aprendió.', 'Se revisa juntos qué está fallando (puerta, discurso, público). Una semana más de prueba con el ajuste; si tampoco, se cierra el piloto sin drama.'],
-    ['Día 60', 'Resultado: convenios firmados y matrículas por alianza.', '3 convenios o 3 matrículas → se formaliza el rol "docente + desarrollo comercial" con metas trimestrales y el anexo se renueva.', 'Se agradece, se documenta lo aprendido, y él sigue siendo docente. El material y los contactos quedan en la academia (contrato con IP).'],
-], [1.6, 6.0, 4.9, 4.8])
+    ['Corte', 'Mínimo acumulado', 'Si va bien', 'Si no va'],
+    ['Día 15', '6 contactadas · 2 reuniones · tracker al día.', 'Sigue igual.', 'Sin 2 reuniones = falla la puerta o el discurso: role-play correctivo con gerencia esa semana y lista nueva de empresas.'],
+    ['Día 30', '12 contactadas · 5 reuniones · 1 convenio firmado.', 'Sigue; se afina el cierre con lo que aprendió.', 'Sin convenio firmado, el piloto se cierra. El material y los contactos quedan en la academia (contrato con IP).'],
+    ['Día 45', '18 contactadas · 8 reuniones · 2 convenios · 1 plan empresa cerrado o agendado · 3 leads con nombre de empresa · 1 matrícula.', 'Sigue.', 'Convenios sin leads = la empresa no difundió: visita de 20 min con el diagnóstico de inglés al equipo. Sin segundo convenio, se revisa si se cierra.'],
+    ['Día 60', '24 contactadas · 10 reuniones · 3 convenios · 2 planes empresa · 10 leads · 3 matrículas por alianza.', 'Se formaliza el rol "docente + desarrollo comercial" con metas trimestrales y el anexo se renueva.', 'Se agradece, se documenta lo aprendido, y él sigue siendo docente.'],
+], [1.4, 5.6, 4.4, 5.9])
 
 h('5. Lo que gerencia pone')
 for x in ['Material listo: carta de alianza v2, términos, mini-convenio revisado por contaduría, tarifario cerrado.', 'Role-play antes de la primera visita (gerente difícil: "¿qué cuesta?", "¿qué ganan?", "deme el descuento en plata"). Sale cuando pase sin regalar nada.', 'Respuesta en menos de 24 horas a cada gerente que él agende.', 'Liquidación de comisión mensual, transparente, contra el reporte de ingresos.']:
@@ -119,5 +121,5 @@ for a, f in filas: rs.append([a, f])
 for r in range(3, 3 + len(filas)): rs.cell(row=r, column=1).font = Font(bold=True)
 rs['B11'].number_format = '0%'; rs['B12'].number_format = '0%'
 rs.column_dimensions['A'].width = 42; rs.column_dimensions['B'].width = 14
-rs.append([]); rs.append(['Metas a 60 días: 10 contactadas · 5 reuniones · 3 convenios · 2 reuniones con gerencia · 10 leads · 3 matrículas. Cortes: día 30 y día 60.'])
+rs.append([]); rs.append(['Cortes (acumulado mínimo) — Día 15: 6 contactadas · 2 reuniones | Día 30: 12 · 5 · 1 convenio | Día 45: 18 · 8 · 2 convenios · 1 plan empresa · 3 leads · 1 matrícula | Día 60: 24 · 10 · 3 convenios · 2 planes empresa · 10 leads · 3 matrículas.'])
 wb.save(OUT + r'\PILOTO_B2B_TRACKER.xlsx'); print('OK tracker')

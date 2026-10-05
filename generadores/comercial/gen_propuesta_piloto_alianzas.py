@@ -52,17 +52,17 @@ t('OFERTA A — Alianza sin costo (la empresa como canal; la cierras tú con el 
 t('OFERTA B — Plan empresa (la empresa como cliente): la empresa paga los cupos de sus colaboradores a tarifa corporativa, $4.782.800 por cupo del programa completo, con factura y copago posible. De 3 a 7 cupos, en grupos regulares, de contado o 30% inicial y 3 cuotas mensuales: lo cierras tú con la ORDEN PLAN EMPRESA y gerencia firma. De 8 cupos en adelante, o si piden clases en la empresa, horarios propios u otros plazos, lo agendas con gerencia.', after=3)
 t('Tu papel: abrir la puerta, presentar y cerrar con los formatos estándar, sin cambiarles nada: el convenio de alianza (Oferta A) y la orden del plan empresa de 3 a 7 cupos (Oferta B). Gerencia firma por la academia. Todo lo que se salga del formato (8 cupos o más, clases en la empresa, horarios u otros plazos) lo presenta y cierra gerencia.', bold=True)
 
-h('2. Qué se espera en 60 días')
+h('2. Qué se espera: cuatro cortes, acumulado mínimo en cada uno')
 tabla([
-    ['Qué', 'Mínimo', 'Bueno'],
-    ['Empresas contactadas (decisor real, con respuesta)', '10', '20'],
-    ['Reuniones realizadas con el decisor', '5', '10'],
-    ['Convenios firmados (los cierras tú con el formato; gerencia firma por la academia)', '3', '5'],
-    ['Planes empresa cerrados (estándar) o agendados con gerencia (a la medida)', '2', '4'],
-    ['Personas que llegan por una alianza', '10', '20'],
-    ['Matrículas por alianza (esto es lo que paga comisión)', '3', '6'],
-], [10.0, 3.0, 3.0])
-t('Ritmo semanal: 3 empresas contactadas y 1 o 2 reuniones. No hace falta más; hace falta que sea todas las semanas.', color=GRIS, size=9.5)
+    ['Qué (acumulado)', 'Día 15', 'Día 30', 'Día 45', 'Día 60'],
+    ['Empresas contactadas (decisor real, con respuesta)', '6', '12', '18', '24'],
+    ['Reuniones realizadas con el decisor', '2', '5', '8', '10'],
+    ['Convenios firmados (los cierras tú; gerencia firma por la academia)', '—', '1', '2', '3'],
+    ['Planes empresa cerrados (estándar) o agendados con gerencia', '—', '—', '1', '2'],
+    ['Personas que llegan por una alianza (con nombre de empresa)', '—', '—', '3', '10'],
+    ['Matrículas por alianza (esto es lo que paga comisión)', '—', '—', '1', '3'],
+], [8.0, 2.0, 2.0, 2.0, 2.0])
+t('Ritmo semanal: 3 empresas contactadas y 1 o 2 reuniones, todas las semanas. Lo que falte en un corte se corrige esa misma semana, no en el siguiente.', color=GRIS, size=9.5)
 
 h('3. Lo tuyo')
 b('Conseguir y contactar empresas nuevas (las que ya están en conversación con la academia te las decimos antes de empezar: esas no).')
@@ -86,7 +86,7 @@ tabla([
     ['Tracker (una fila por empresa: contacto, fecha, canal, estado, próximo paso con fecha)', 'El mismo día de cada contacto', 'Archivo PILOTO_B2B_TRACKER.xlsx. La hoja RESUMEN calcula sola las métricas.'],
     ['Reporte diario', 'Días hábiles, 6 PM (antes si tienes clase en la noche)', 'Un mensaje de WhatsApp de 3 líneas: hoy contacté / reuniones / mañana. Y "necesito de ti", si hay algo.'],
     ['Revisión semanal', 'Viernes, 15 minutos por llamada', 'Tracker en pantalla: la semana contra la meta, y qué ajustar del discurso.'],
-    ['Cortes', 'Día 30 y día 60', 'Reunión corta con gerencia: actividad al día 30, resultados al día 60.'],
+    ['Cortes', 'Días 15, 30, 45 y 60', 'Reunión de 20 minutos con gerencia, con el tracker abierto, contra la tabla del punto 2.'],
 ], [6.0, 4.2, 6.6])
 
 h('6. Cómo se te paga')
@@ -95,8 +95,10 @@ b('Plan empresa: 5% del recaudo del primer año si lo cierras tú con el formato
 b('Se liquida cada mes, contra cuenta de cobro, cuando el pago del estudiante ya pasó el plazo legal de retracto. Transporte y comunicaciones por tu cuenta.')
 b('Esto queda escrito en el otrosí a tu contrato docente, que se firma junto con esta propuesta.')
 
-h('7. Qué pasa a los 30 y a los 60 días')
-b('Día 30: miramos actividad (contactadas y reuniones) y que haya al menos 1 convenio firmado o 3 reuniones con decisor. Si va, seguimos y ajustamos el discurso. Si no va, una semana de ajuste; si tampoco, cerramos el piloto sin problema.')
+h('7. Qué pasa en cada corte')
+b('Día 15: 6 contactadas y 2 reuniones. Si no hay 2 reuniones, el problema está en la puerta o en el discurso: role-play correctivo con gerencia esa misma semana y lista nueva de empresas.')
+b('Día 30: 12 contactadas, 5 reuniones y 1 convenio firmado. Sin convenio al día 30 el piloto se cierra. Con 1, sigue y se afina el cierre.')
+b('Día 45: 2 convenios, 1 plan empresa cerrado o agendado, y los primeros 3 leads con nombre de empresa. Si hay convenios pero no llegan personas, la falla es la difusión dentro de la empresa: se activa la visita de 20 minutos con el diagnóstico de inglés a su equipo.')
 b('Día 60: miramos resultados. Con 3 convenios o 3 matrículas por alianza, formalizamos el rol de docente con desarrollo comercial, con metas por trimestre. Si no, lo agradecemos, aprendemos y sigues siendo docente como siempre. Lo que ya se causó se sigue pagando.')
 
 h('8. Checklist de arranque (todo marcado antes de la primera visita)')
