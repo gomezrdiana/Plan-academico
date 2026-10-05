@@ -40,9 +40,10 @@ d = ImageDraw.Draw(img)
 # logo
 try:
     logo = Image.open(r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\marca heiiu\logo_heiiu_sobre_naranja.png').convert('RGBA')
-    lh = 86; lw = int(logo.width * lh / logo.height); logo = logo.resize((lw, lh))
-    pad = Image.new('RGBA', (lw + 36, lh + 24), NAR + (255,)); pad.paste(logo, (18, 12), logo)
-    img.paste(pad, (72, 56), pad)
+    lh = 130; lw = int(logo.width * lh / logo.height); logo = logo.resize((lw, lh))
+    pad = Image.new('RGBA', (lw + 44, lh + 30), NAR + (255,)); pad.paste(logo, (22, 15), logo)
+    sh = Image.new('RGBA', (pad.width + 24, pad.height + 24), (0, 0, 0, 0)); sd = ImageDraw.Draw(sh); sd.rounded_rectangle([12, 12, sh.width - 12, sh.height - 12], radius=10, fill=(0, 0, 0, 120)); sh = sh.filter(ImageFilter.GaussianBlur(10))
+    img.paste(sh, (72 - 12, 56 - 6), sh); img.paste(pad, (72, 56), pad)
 except Exception:
     d.text((72, 60), 'heiiu', font=font('calibrib.ttf', 54), fill=AMAR)
 
@@ -77,7 +78,7 @@ for i, (tit, sub) in enumerate(cards):
     d.multiline_text((cx + 22, cy + 82), sub, font=font('calibri.ttf', 22), fill=CREMA, spacing=6)
 d.text((x0, y0 - 40), 'LO QUE NOS DIJISTE QUE QUERÍAS', font=font('calibrib.ttf', 20), fill=GRIS)
 # pie
-d.text((W - 72 - 330, 790), 'heiiu  ·  @heiiu_english', font=font('calibri.ttf', 24), fill=GRIS)
+d.text((W - 72 - 400, 786), 'heiiu  ·  @heiiu_english', font=font('calibrib.ttf', 28), fill=AMAR)
 
 out = os.path.join(BASE, 'PIEZA_REACTIVACION_HEIIU.png')
 try:
