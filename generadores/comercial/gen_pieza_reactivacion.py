@@ -58,6 +58,21 @@ d.text((72, 644), 'Garantía de aprendizaje firmada.', font=font('calibri.ttf', 
 bx, by, bw, bh = 72, 706, 470, 70
 d.rounded_rectangle([bx, by, bx + bw, by + bh], radius=14, fill=AMAR)
 d.text((bx + 34, by + 17), 'Responde este mensaje  →', font=font('calibrib.ttf', 30), fill=BG)
+# tarjetas de motivo (lado derecho), semitransparentes para que se vea el fondo
+cards = [('UN TRABAJO', 'la vacante que hoy\npasas de largo'), ('UN VIAJE', 'pasar inmigración con\ntus propias respuestas'), ('UN ESTUDIO', 'la beca o el posgrado\nsin ese requisito'), ('UN NEGOCIO', 'clientes de afuera\nsin traductor')]
+cw, ch, gap = 300, 205, 24
+x0 = W - 72 - (2 * cw + gap); y0 = 300
+cl = Image.new('RGBA', (W, H), (0, 0, 0, 0)); cd = ImageDraw.Draw(cl)
+for i, (tit, sub) in enumerate(cards):
+    cx = x0 + (i % 2) * (cw + gap); cy = y0 + (i // 2) * (ch + gap)
+    cd.rounded_rectangle([cx, cy, cx + cw, cy + ch], radius=22, fill=(48, 39, 28, 190), outline=(120, 100, 75, 200), width=2)
+img = Image.alpha_composite(img.convert('RGBA'), cl).convert('RGB'); d = ImageDraw.Draw(img)
+for i, (tit, sub) in enumerate(cards):
+    cx = x0 + (i % 2) * (cw + gap); cy = y0 + (i // 2) * (ch + gap)
+    d.rectangle([cx + 28, cy + 28, cx + 88, cy + 33], fill=NAR)
+    d.text((cx + 28, cy + 50), tit, font=font('calibrib.ttf', 30), fill=AMAR)
+    d.multiline_text((cx + 28, cy + 100), sub, font=font('calibri.ttf', 26), fill=CREMA, spacing=8)
+d.text((x0, y0 - 42), 'LO QUE NOS DIJISTE QUE QUERÍAS', font=font('calibrib.ttf', 22), fill=GRIS)
 # pie
 d.text((W - 72 - 330, 790), 'heiiu  ·  @heiiu_english', font=font('calibri.ttf', 24), fill=GRIS)
 
