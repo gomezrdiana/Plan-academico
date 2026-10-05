@@ -83,7 +83,9 @@ ix, iy, isz = W - 72 - 300, 784, 30
 d.rounded_rectangle([ix, iy, ix + isz, iy + isz], radius=9, outline=AMAR, width=3)
 d.ellipse([ix + 8, iy + 8, ix + isz - 8, iy + isz - 8], outline=AMAR, width=3)
 d.ellipse([ix + isz - 10, iy + 5, ix + isz - 5, iy + 10], fill=AMAR)
-d.text((ix + isz + 12, iy - 3), '@heiiu_english', font=font('calibrib.ttf', 28), fill=AMAR)
+fh = font('calibrib.ttf', 28); bb = d.textbbox((0, 0), '@heiiu_english', font=fh)
+ty = iy + (isz - (bb[3] - bb[1])) // 2 - bb[1]
+d.text((ix + isz + 12, ty), '@heiiu_english', font=fh, fill=AMAR)
 
 out = os.path.join(BASE, 'PIEZA_REACTIVACION_HEIIU.png')
 try:
