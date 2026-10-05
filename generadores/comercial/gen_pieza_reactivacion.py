@@ -78,7 +78,12 @@ for i, (tit, sub) in enumerate(cards):
     d.multiline_text((cx + 22, cy + 82), sub, font=font('calibri.ttf', 22), fill=CREMA, spacing=6)
 d.text((x0, y0 - 40), 'LO QUE NOS DIJISTE QUE QUERÍAS', font=font('calibrib.ttf', 20), fill=GRIS)
 # pie
-d.text((W - 72 - 400, 786), 'heiiu  ·  @heiiu_english', font=font('calibrib.ttf', 28), fill=AMAR)
+# icono de Instagram dibujado + usuario
+ix, iy, isz = W - 72 - 300, 784, 30
+d.rounded_rectangle([ix, iy, ix + isz, iy + isz], radius=9, outline=AMAR, width=3)
+d.ellipse([ix + 8, iy + 8, ix + isz - 8, iy + isz - 8], outline=AMAR, width=3)
+d.ellipse([ix + isz - 10, iy + 5, ix + isz - 5, iy + 10], fill=AMAR)
+d.text((ix + isz + 12, iy - 3), '@heiiu_english', font=font('calibrib.ttf', 28), fill=AMAR)
 
 out = os.path.join(BASE, 'PIEZA_REACTIVACION_HEIIU.png')
 try:
