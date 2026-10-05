@@ -49,8 +49,8 @@ t('Heiiu English Academy · Para el docente que lidera el piloto · 60 días · 
 h('1. Qué vamos a hacer')
 t('Abrir alianzas con empresas de Bucaramanga. Llevas DOS ofertas y la frase es una sola: "si su empresa quiere premiar a su gente sin tocar presupuesto, firmamos la alianza hoy; si quiere formar a su equipo, le presento el plan empresa".')
 t('OFERTA A — Alianza sin costo (la empresa como canal; la cierras tú con el convenio estándar): todos sus colaboradores, con carta de la empresa, entran a la columna Transformación del Fondo (45% de contado, 36% a cuotas), igual que un afiliado a Cajasan. Tres Becas [Empresa] por trimestre, para quien la empresa elija: 45% aunque paguen a cuotas, libros incluidos y prioridad de cupo, entregadas con certificado a nombre de la empresa. Si todos sus becados cumplen, el trimestre siguiente son cinco; si alguno falla, vuelven a tres; nunca más de cinco ni se acumulan. Para la empresa: reporte de avance de sus becados y diagnóstico de inglés para su equipo.', after=3)
-t('OFERTA B — Plan empresa (la empresa como cliente; la cierra gerencia, tú la agendas): la empresa paga los cupos de sus colaboradores a tarifa corporativa, $4.782.800 por cupo del programa completo, mínimo 3, con factura y copago posible.', after=3)
-t('Tu papel: abrir la puerta, presentar y cerrar el convenio de alianza con el formato estándar, sin cambiarle nada (el convenio no tiene costo ni condiciones negociables). Gerencia lo firma por la academia. Todo lo que tenga precio (formación corporativa pagada) o se salga del formato, lo presenta y cierra gerencia.', bold=True)
+t('OFERTA B — Plan empresa (la empresa como cliente): la empresa paga los cupos de sus colaboradores a tarifa corporativa, $4.782.800 por cupo del programa completo, con factura y copago posible. De 3 a 7 cupos, en grupos regulares, de contado o 30% inicial y 3 cuotas mensuales: lo cierras tú con la ORDEN PLAN EMPRESA y gerencia firma. De 8 cupos en adelante, o si piden clases en la empresa, horarios propios u otros plazos, lo agendas con gerencia.', after=3)
+t('Tu papel: abrir la puerta, presentar y cerrar con los formatos estándar, sin cambiarles nada: el convenio de alianza (Oferta A) y la orden del plan empresa de 3 a 7 cupos (Oferta B). Gerencia firma por la academia. Todo lo que se salga del formato (8 cupos o más, clases en la empresa, horarios u otros plazos) lo presenta y cierra gerencia.', bold=True)
 
 h('2. Qué se espera en 60 días')
 tabla([
@@ -58,7 +58,7 @@ tabla([
     ['Empresas contactadas (decisor real, con respuesta)', '10', '20'],
     ['Reuniones realizadas con el decisor', '5', '10'],
     ['Convenios firmados (los cierras tú con el formato; gerencia firma por la academia)', '3', '5'],
-    ['Gerentes agendados con gerencia por formación pagada', '2', '4'],
+    ['Planes empresa cerrados (estándar) o agendados con gerencia (a la medida)', '2', '4'],
     ['Personas que llegan por una alianza', '10', '20'],
     ['Matrículas por alianza (esto es lo que paga comisión)', '3', '6'],
 ], [10.0, 3.0, 3.0])
@@ -91,7 +91,7 @@ tabla([
 
 h('6. Cómo se te paga')
 b('5% del recaudo de cada matrícula nueva que llegue por un convenio con una empresa que tú registraste y abriste, durante los 12 meses siguientes a la firma del convenio, cierre quien cierre.')
-b('3% del recaudo del primer año si una empresa que tú abriste contrata formación corporativa pagada con gerencia.')
+b('Plan empresa: 5% del recaudo del primer año si lo cierras tú con el formato estándar (3 a 7 cupos); 3% si lo agendas y lo cierra gerencia (8 o más cupos o condiciones a la medida).')
 b('Se liquida cada mes, contra cuenta de cobro, cuando el pago del estudiante ya pasó el plazo legal de retracto. Transporte y comunicaciones por tu cuenta.')
 b('Esto queda escrito en el otrosí a tu contrato docente, que se firma junto con esta propuesta.')
 
