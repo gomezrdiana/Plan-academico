@@ -105,8 +105,9 @@ def item(txt, bold=False):
     p.paragraph_format.space_after = Pt(4)
 
 sec('1. HEIIU BUSINESS PARTNER (becas para su equipo)')
-item('· Colaborador con ingresos hasta 1.5 SMMLV + carta de la empresa + desprendible de nómina = soporte válido para la BECA TRANSFORMACIÓN (techo 45%), dentro de los cupos trimestrales del Fondo.')
-item('· Los demás colaboradores de la empresa aliada reciben el BENEFICIO DE CONVENIO: pagan a cuotas con el porcentaje de contado de su perfil.')
+item('· OFERTA A (sin costo): todo colaborador con carta de la empresa = columna TRANSFORMACIÓN (45% contado / 36% cuotas), igual que Cajasan, dentro de los cupos trimestrales del Fondo (art. 3.5).')
+item('· BECA [EMPRESA]: 3 por empresa y ciclo, elegidas por la empresa: 45% aunque paguen a cuotas + libros + prioridad de cupo; si los 3 cumplen, +2 el ciclo siguiente. Entrega con certificado a nombre de la empresa.')
+item('· OFERTA B (plan empresa, la cierra gerencia): la empresa paga los cupos de sus colaboradores a tarifa corporativa, $4.782.800 por cupo del programa completo, mínimo 3, factura y copago (art. 3.6).')
 item('· REGLA DEL MEJOR BENEFICIO: los beneficios nunca se acumulan — si el colaborador califica a una beca superior del Fondo por su propio perfil, se le aplica la mejor.', bold=True)
 item('· Todo pasa por el Reglamento del Fondo de Becas (administrado y auditado por contaduría externa): la empresa no paga nada; el colaborador paga su programa con su beca aplicada.')
 item('· Compromisos de la empresa: designar un contacto de RRHH, emitir las cartas de postulación y difundir el beneficio internamente.')

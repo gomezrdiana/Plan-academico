@@ -44,7 +44,7 @@ def tabla(filas, anchos):
     d.add_paragraph().paragraph_format.space_after = Pt(1)
 
 h('PILOTO DE ALIANZAS EMPRESARIALES — TABLERO DE MÉTRICAS (60 DÍAS)', 14, before=0)
-t('Para el docente habilitado comercialmente que abre alianzas (programa Heiiu Business Partner: beneficios del Fondo de Becas para los colaboradores de la empresa aliada, sin costo para la empresa). Se acuerda antes de la primera visita y se revisa cada viernes. Documento por rol.', color=GRIS, size=9, after=6)
+t('Para el docente habilitado comercialmente que abre alianzas (Heiiu Business Partner: Oferta A alianza sin costo, que cierra el docente; Oferta B plan empresa a tarifa corporativa, que cierra gerencia). Se acuerda antes de la primera visita y se revisa cada viernes. Documento por rol.', color=GRIS, size=9, after=6)
 
 h('1. Lo que no cambia (el marco de agosto)')
 for x in [

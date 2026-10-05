@@ -10,7 +10,7 @@
 
 **Artículo 3 — Niveles de beca y cupos (modelo híbrido, ajuste 10/08/2026: el PERFIL define el techo, el COMPROMISO define cuánto del techo se otorga).**
 
-*3.1 Techo por perfil:* (a) Beca Transformación — techo 45%: exclusiva para aspirantes de estrato 1-2 / SISBÉN, máximo 30% de las matrículas nuevas por trimestre. (b) GENERAL — techo 32%: sin límite de cupos. (c) Programa Ejecutivo — techo 15%. (d) Sin beca — tarifa plena (incluye todo cliente empresarial). Los porcentajes aplican sobre la tarifa pública vigente.
+*3.1 Techo por perfil:* (a) Beca Transformación — techo 45%: exclusiva para aspirantes de estrato 1-2 / SISBÉN, máximo 30% de las matrículas nuevas por trimestre. (b) GENERAL — techo 32%: sin límite de cupos. (c) Programa Ejecutivo — techo 15%. (d) Sin beca — tarifa plena. (La empresa que paga por sus colaboradores va por tarifa corporativa, numeral 3.6, fuera del Fondo.) Los porcentajes aplican sobre la tarifa pública vigente.
 
 *3.2 Factor de compromiso (porcentaje del techo que se otorga, según paquete y forma de pago):* programa completo A1→B2: contado 100% · cuotas 80% — A2→B2: 80% · 60% — B1→B2: 55% · 35% — B2 solo: 45% · 25% — nivel suelto sin camino a B2: sin beca.
 
@@ -24,9 +24,11 @@
 | B2 solo contado / cuotas | 20% / 11% | 14% / 8% | 7% / 4% |
 | Nivel suelto | Sin beca | Sin beca | Sin beca |
 
-*3.4 Convenio Cajasan:* afiliado vigente (carné/certificado) que paga a cuotas recibe el porcentaje de contado de su perfil. No modifica el techo ni se acumula.
+*3.4 Convenio Cajasan:* el aspirante que acredite afiliación vigente a Cajasan (carné o certificado) accede a la columna Transformación (45% de contado / 36% a cuotas en el programa completo), sin exigir estrato. No se acumula con otros beneficios.
 
-*3.5 Convenio Empresa Aliada (Go Above and Beyond):* colaborador con ingresos hasta 1.5 SMMLV (desprendible) + carta de su empresa = perfil Transformación (techo 45%), dentro de cupos trimestrales. Demás colaboradores del aliado: beneficio 3.4. Los beneficios no se acumulan: se aplica el mejor.
+*3.5 Convenio Empresa Aliada (Heiiu Business Partner, iniciativa Go Above and Beyond):* (a) todo colaborador de una empresa aliada que presente carta de postulación de su empresa accede a la columna Transformación, igual que el afiliado a Cajasan; (b) Beca [Empresa]: hasta TRES colaboradores por empresa y por ciclo, elegidos por la empresa, reciben el porcentaje de contado de la columna Transformación (45% en el programa completo) aunque paguen a cuotas, más los libros del programa y prioridad de cupo; si los tres cumplen las condiciones de permanencia, la empresa desbloquea hasta dos becas adicionales el ciclo siguiente; (c) los beneficios no se acumulan: se aplica el mejor; (d) las becas por empresa entran en el cupo trimestral de la columna Transformación.
+
+*3.6 Tarifa corporativa (fuera del Fondo):* cuando una empresa paga directamente el programa de sus colaboradores (mínimo tres cupos), no aplica beca personal: aplica la tarifa corporativa por volumen que fija gerencia, equivalente al valor de contado de la columna Transformación, con factura a la empresa y copago permitido. Lo negocia y firma gerencia.
 
 **Artículo 4 — Condiciones de permanencia del beneficio.** La beca se mantiene mientras el estudiante cumpla TODAS: (1) asistencia mínima del 80%; (2) puntualidad en los pagos acordados (ninguna cuota con más de 5 días hábiles de mora); (3) cumplimiento de tareas y entregables del programa; (4) comportamiento conforme al contrato de matrícula.
 
