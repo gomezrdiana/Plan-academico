@@ -45,8 +45,9 @@ for i, (nv, hrs, pr, col) in enumerate(niveles):
     d.text((x + bw // 2, base_y - 40), pr, font=font('calibrib.ttf', 30), fill=BLANCO, anchor='mt')
 # línea base y total de lista
 d.line([(x0, base_y + 2), (x0 + 4 * bw + 3 * gap, base_y + 2)], fill=CAFE, width=3)
-d.text((x0, base_y + 14), 'Nivel suelto: sin beca.   Programa completo de lista: ', font=font('calibri.ttf', 26), fill=GRIS)
-d.text((x0 + 690, base_y + 10), '$8.696.000', font=font('calibrib.ttf', 34), fill=CAFE)
+d.text((x0, base_y + 14), 'Nivel suelto: sin beca.', font=font('calibri.ttf', 26), fill=GRIS)
+d.text((x0 + 300, base_y + 14), 'Programa completo de lista:', font=font('calibri.ttf', 26), fill=GRIS)
+d.text((x0 + 612, base_y + 9), '$8.696.000', font=font('calibrib.ttf', 34), fill=CAFE)
 
 # tarjeta becas del Fondo
 cx, cy, cw, ch = 1150, 190, 380, 300
