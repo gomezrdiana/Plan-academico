@@ -75,7 +75,7 @@ py = 712
 d.text((x0, py), 'PROGRAMAS', font=font('calibrib.ttf', 26), fill=NAR)
 progs = ['Súper intensivo 4 h · L-V 8:00 a 12:00 · ~7 meses', 'Intensivo 2 h · L-V 6:30 a 8:30 pm · ~14 meses', 'Tarde entre semana · en apertura', 'Sabatino 4 h · 8:00 a 12:00 · un nivel a la vez', 'Clases personalizadas · desde 30 h']
 for i, t in enumerate(progs):
-    cxp = x0 + (i % 2) * 500; cyp = py + 38 + (i // 2) * 32
+    cxp = x0 + (i % 2) * 560; cyp = py + 38 + (i // 2) * 32
     d.ellipse([cxp, cyp + 9, cxp + 10, cyp + 19], fill=AMAR, outline=NAR)
     d.text((cxp + 20, cyp), t, font=font('calibri.ttf', 22), fill=CAFE)
 
