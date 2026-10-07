@@ -61,12 +61,13 @@ d.text((cx + cw // 2, cy + 246), 'Se evalúa con soportes en la asesoría.', fon
 d.text((cx + cw // 2, cy + 270), 'Libros incluidos si separas el mismo día.', font=font('calibri.ttf', 19), fill=(255, 230, 210), anchor='mt')
 
 # tarjeta Cajasan / financiación
-cy2 = cy + ch + 24; ch2 = 170
+cy2 = cy + ch + 24; ch2 = 176
 d.rounded_rectangle([cx, cy2, cx + cw, cy2 + ch2], radius=20, fill=BLANCO, outline=NAR, width=3)
-d.text((cx + 22, cy2 + 18), 'CONVENIO CAJASAN', font=font('calibrib.ttf', 26), fill=NAR)
-d.text((cx + 22, cy2 + 54), 'Afiliados: condiciones especiales', font=font('calibri.ttf', 22), fill=CAFE)
-d.text((cx + 22, cy2 + 90), 'Crédito por nómina: Cajasan (0,8%)', font=font('calibri.ttf', 20), fill=GRIS)
-d.text((cx + 22, cy2 + 118), 'y Comultrasan (1,8%). Aprobación rápida.', font=font('calibri.ttf', 20), fill=GRIS)
+d.text((cx + 22, cy2 + 18), 'FINANCIACIÓN', font=font('calibrib.ttf', 26), fill=NAR)
+d.text((cx + 22, cy2 + 54), 'Cuotas con inicial y mensualidades', font=font('calibri.ttf', 22), fill=CAFE)
+d.text((cx + 22, cy2 + 84), 'Cesantías · crédito con tu banco o cooperativa', font=font('calibri.ttf', 20), fill=GRIS)
+d.text((cx + 22, cy2 + 112), 'Afiliados a Cajasan: condiciones especiales', font=font('calibri.ttf', 20), fill=GRIS)
+d.text((cx + 22, cy2 + 138), 'que se confirman en la asesoría.', font=font('calibri.ttf', 20), fill=GRIS)
 
 # programas (abajo izquierda)
 py = 712
@@ -78,7 +79,7 @@ for i, t in enumerate(progs):
     d.text((cxp + 20, cyp), t, font=font('calibri.ttf', 22), fill=CAFE)
 
 # pie
-d.text((x0, H - 46), 'Formas de pago: contado · cuotas con inicial y mensualidades · cesantías · crédito banco o cooperativa', font=font('calibri.ttf', 21), fill=GRIS)
+d.text((x0, H - 46), 'Separa tu cupo con $300.000 y congela el precio · Única academia de la ciudad con garantía de aprendizaje por escrito', font=font('calibri.ttf', 21), fill=GRIS)
 d.text((W - 190, H - 46), 'Heiiu English Academy · Bucaramanga', font=font('calibri.ttf', 21), fill=GRIS, anchor='rt')
 
 out = os.path.join(BASE, r'recursos\comercial\INDUCCION_COMERCIAL\PRECIOS_2026_HEIIU.png')
