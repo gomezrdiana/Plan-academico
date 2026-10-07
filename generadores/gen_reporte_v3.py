@@ -16,6 +16,7 @@ COHORTE_LABEL = {
     'A2_4H': 'A2 (4h)', 'A2_2H': 'A2 (2h PM)',
     'B1_4H/CONVERSACION': 'B1 Mastery (4h AM)', 'B1_4H/GRAMATICA': 'B1 Mastery (4h AM)', 'B1_2H/CONVERSACION': 'B1 Mastery (2h noche)', 'B1_2H/GRAMATICA': 'B1 Mastery (2h noche)',
     'B2_4H': 'B2 (4h)', 'B2_2H': 'B2 (2h noche)',
+    'A2_SUPLETORIO_2026-10': 'A2 SUPLETORIO oct-2026 (4h)',
 }
 
 CUERPO = """
@@ -59,7 +60,7 @@ def parse_print(path):
     t = io.open(path, encoding='utf-8').read()
     m = re.search(r'\*\*Virtud:\*\*\s*([^\n]+)', t)
     virtud = m.group(1).split(' · ')[0].replace('**', '').strip() if m else None
-    m = re.search(r'\*\*Modulos?(?: ancla)?:\*\*\s*([^\n]+)', t)
+    m = re.search(r'\*\*M[oó]dulos?(?: ancla)?:\*\*\s*([^\n]+)', t)
     modulo = m.group(1).replace('**', '').strip() if m else None
     if modulo and len(modulo) > 95:
         modulo = modulo[:92].rstrip() + '...'
@@ -72,6 +73,9 @@ def parse_print(path):
 
 def clase_de(nombre):
     m = re.search(r'Cla?s[se]{1,2}(\d+)', nombre)
+    if m:
+        return m.group(1)
+    m = re.search(r'Sesion(\d+)', nombre)
     return m.group(1) if m else '?'
 
 
@@ -95,8 +99,9 @@ def generar(cohorte):
         if len(bloques) < 4:
             print('SKIP (sin 4 bloques, es marcador?):', base)
             continue
-        header = '# REPORTE DE CLASE — %s%s · Clase %s\n\n' % (
-            COHORTE_LABEL.get(cohorte, cohorte), track_de(base), clase_de(base))
+        unidad = 'Sesion' if 'Sesion' in base else 'Clase'
+        header = '# REPORTE DE CLASE — %s%s · %s %s\n\n' % (
+            COHORTE_LABEL.get(cohorte, cohorte), track_de(base), unidad, clase_de(base))
         linea2 = []
         if modulo:
             linea2.append('**Modulo:** %s' % modulo)
