@@ -54,14 +54,12 @@ FINAL CHECK (last 5 minutes):
 - **Corrección en vivo (25'):** copias en el tablero 6 errores REALES (3 de los textos, 3 de las entrevistas), ANÓNIMOS. Por cada uno: el grupo dice qué está mal y qué regla del libro lo arregla -> reconstruyen la forma correcta -> cada estudiante dice 1 frase nueva propia con esa forma. Luego cada estudiante recibe de vuelta SU texto y reescribe en SU cuaderno 2 frases suyas corregidas (sin puntaje, sin comentario de calidad); el texto original vuelve a tus manos y viaja a coordinación. Los observers leen sus aciertos anónimos al final (1 min).
 - **Transiciones (5'):** entre escritura, entrevistas y corrección.
 
-## BLOQUE 3 (90') — TALLER DE VIDEOS (horas 3-4, parte del supletorio: el paquete son 12 horas en total, 3 x 4 h, por el valor de 6)
+## BLOQUE 3 (90') — VIDEOS (30') + ENSAYO DEL PROYECTO FINAL "MY LIFE" (60') (horas 3-4, parte del supletorio: 12 horas en total, 3 x 4 h, por el valor de 6)
 
-- **Recordatorio (1'):** *"Last workshop. Record, one improvement, record again."*
-- **Mecánica fija de cada video (3 rondas x ~29'), igual a las Sesiones 1 y 2:** grabación 60-90 segundos de pie, sin leer, cada uno con SU celular (5') -> ves cada video y das UNA sola mejora (7') -> regrabación con esa mejora (6') -> confirmación rápida (4') -> dictado entre pares: video regrabado de UN estudiante en voz alta (rota cada ronda), 2 frases pausadas, los demás escriben, corrección en el tablero sin decir de quién fue el error (7').
-- **Video 1 — "The interview question that was hardest for you today — answer it again."** Cada uno escoge su pregunta de la entrevista del Bloque 2 y la responde completa.
-- **Video 2 — "Tell your writing without the paper."** El tema que escribió en el simulacro (A o B), contado de memoria, con las 2 frases que corrigió.
-- **Video 3 — "Introduce yourself in 90 seconds: who you are, what you have done, what you did, and what you are going to do."** Versión final.
-- Si una ronda se demora, el dictado entre pares baja a 1 frase; NUNCA se recorta la regrabación.
+- **Videos (30', una sola ronda):** cada uno graba 60-90 segundos de pie, sin leer, con SU celular: *"Introduce yourself in 90 seconds: who you are, what you have done, what you did, and what you are going to do."* (10') -> ves cada video y das UNA sola mejora (10') -> regrabación (10'). Se envían al WhatsApp de coordinación antes de salir.
+- **Ensayo del proyecto final (60'):** el reintento incluye la exposición del proyecto del nivel ("MY LIFE", presentación oral de 7 a 10 minutos). Cada estudiante presenta COMPLETO, de pie, sin leer, con el apoyo visual que traiga (cartelera, cuaderno o celular; Plan B: sin apoyo). Orden: el que menos habló en el simulacro va primero. Por estudiante: presentación 7-10' + 3 preguntas del profesor como lo haría el evaluador ("Why?", "Tell me more about…", "What happened after that?") + UNA mejora dicha en voz alta (nunca una nota). Los demás son observers con tarea: uno anota tiempos verbales en pasado, otro los conectores, otro cuenta cuántas veces se detuvo a buscar palabras; al final cada observer dice una frase que escuchó bien dicha.
+- Con 4 estudiantes: 4 x 15' = 60'; con 3, el sobrante se usa en una segunda pasada de los primeros 2 minutos de cada presentación (la apertura es lo que más pesa).
+- El profesor NO dice "pasarías" ni da puntaje: *"Coordination handles that."*
 
 ## BLOQUE 4 (30') — Dictado del simulacro + plan de la última semana + cierre
 
@@ -87,8 +85,9 @@ LAST WEEK PLAN + HOMEWORK SESSION 3
 DUE: before 6:30 PM the day before the retake.
 (1) DAILY VIDEO - EVERY day until the retake, 1-2 min, no reading,
     sent the SAME day to the coordination WhatsApp.
-    Rotate the 3 topics: my last weekend / a job interview
-    introduction / my plans for next year.
+    It is your PROJECT "MY LIFE" in parts: day 1 the opening,
+    day 2 your past, day 3 your present, day 4 your plans,
+    day 5 the full 7-10 minutes in ONE take.
 (2) ONE TIMED WRITING - 30 minutes, ONE sitting, NOT fragmented,
     by hand, 100-120 words. The option you did NOT choose today
     (A or B). Use the FINAL CHECK of the board.
@@ -129,7 +128,7 @@ DUE: before 6:30 PM the day before the retake.
 - **Registro para coordinación:** de la entrevista anotas 2 errores literales + 1 acierto por estudiante en la libreta con nombres; los textos del simulacro viajan con los tickets. Ese registro es para coordinación; el profesor no da puntaje, ni dice "pasarías" o "te falta", ni compara estudiantes.
 - **Recuperación espaciada:** el Bloque 1 recupera la Sesión 1 (M12 + M14) y la Sesión 2 (M17 + M5). La revisión de tarea recoge el correo de la Sesión 2.
 - SUPUESTO DE PLANEACIÓN — verificar formato del examen: el simulacro (escritura 30' de 100-120 palabras con 2 opciones, entrevista oral de 7', dictado de 8 frases) es diseño de planeación: no se encontró en el repositorio la rúbrica ni el formato del examen final A2 con los pesos de este grupo (L 20 / R 25 / W 30 / S 25). Si coordinación tiene el formato real, se ajustan tiempos y temas sin cambiar la estructura de los 4 bloques.
-- SUPUESTO DE PLANEACIÓN — verificar: la política de recuperación (`POLITICA_RECUPERACION_FINAL`) dice que el reintento incluye "la exposición del proyecto final". Esta guía NO ensaya el proyecto del nivel porque no se confirmó cuál es (depende del cohorte de origen del grupo) ni su duración en el reintento. Si coordinación confirma que se expone, el video diario de la última semana pasa a ser el ensayo del proyecto, por partes, y se avisa al grupo por coordinación.
+- **Proyecto final (confirmado por coordinación 07/10):** el reintento SÍ incluye la exposición del proyecto "MY LIFE" (7-10 minutos); por eso la última hora de esta sesión es el ensayo completo. SUPUESTO DE PLANEACIÓN — verificar: duración exacta y criterios del evaluador externo para el proyecto en el reintento.
 - SUPUESTO DE PLANEACIÓN — verificar: la fecha del reintento no se conoce; el plazo de la tarea se escribe "antes de las 6:30 PM del día anterior al reintento". El reintento lo aplica un evaluador externo: no hay guía para ese día y el profesor no comunica fecha, criterios ni resultados (coordinación).
 - **Formato del supletorio (coordinación):** 12 horas (3 x 4 h) por el valor del paquete de 6; el celular se usa solo en el taller de videos. Lectura no se trabaja (aprobada en los tres con datos).
 - Virtud: FORTALEZA, día 3 de 3 = cierre. La Frase del Día une M17 (*have trained*), M12 (*when*), M5 (*will*) y la virtud.
