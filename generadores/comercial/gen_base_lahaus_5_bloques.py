@@ -38,7 +38,7 @@ for sec in sections:
     for chunk in sec.split(SEP):
         if chunk.strip(): paras.append(chunk.rstrip())
     paras.append('')  # linea en blanco entre secciones
-MAX = 4950  # limite de la plataforma: 5.000 caracteres por carga manual
+MAX = 4985  # limite de la plataforma: 5.000 caracteres por carga manual
 blocks, cur, acc = [], [], 0
 for x in paras:
     last_is_header = bool(cur) and cur[-1].isupper() and len(cur[-1]) < 120
