@@ -56,7 +56,7 @@ E.append(P('Hunter B2B · perfil senior de convenios', 'h1'))
 E.append(P('Abre y activa alianzas y planes empresa. No atiende citas de WhatsApp (eso lo hacen las asesoras). Modelo de ingreso por comisión con tres escalones, como en seguros.', 'sub'))
 
 E.append(P('La idea en una frase', 'h2'))
-E.append(P('Contrato laboral desde el día uno con el <b>mínimo legal: $2.000.000</b> (salario $1.750.905 + auxilio de transporte $249.095, decretos 1469 y 1470 de 2025). Comisiona desde la primera venta. Los tres primeros meses, si cumple los mínimos de actividad y resultado, su ingreso no baja de <b>$3.500.000</b> (piso); si básico más comisiones lo superan, recibe eso. El básico sube en el mes 7 y en el año 2 por resultados.'))
+E.append(P('Contrato laboral desde el día uno con el <b>mínimo legal: $2.000.000</b> (salario $1.750.905 + auxilio de transporte $249.095, decretos 1469 y 1470 de 2025). Comisiona desde la primera venta. Durante los tres primeros meses, <b>en cada mes que cumpla los mínimos</b> de actividad y resultado, le garantizamos un ingreso total de <b>$3.500.000</b>: si su básico más comisiones no llega, se le completa; si lo supera, recibe lo que produjo. <b>Si en un mes no cumple los mínimos, no hay $3.500.000</b>: recibe el mínimo legal más sus comisiones y entra en carta de ampliación. El básico sube en el mes 7 y en el año 2 por resultados.'))
 E.append(Spacer(1, 4))
 E.append(tarjetas([('10%', 'del recaudo corporativo<br/>(plan empresa)'), ('6%', 'del recaudo de cada estudiante<br/>que llega por su alianza'), ('$3.5M', 'piso de arranque<br/>meses 1, 2 y 3'), ('$2.0M', 'mínimo legal siempre<br/>(salario + auxilio)')]))
 
