@@ -20,7 +20,7 @@ p = d.add_paragraph(); r = p.add_run('AJUSTES DE CONFIGURACIÓN DEL AGENTE — P
 para('Heiiu English Academy · 07/10/2026 · Son cambios de configuración (preguntas, agendamiento, reintentos, notificaciones), no del documento de conocimiento, que ya fue recargado por nosotros. Cada punto trae el lead real donde se vio el fallo (conversaciones del 3 al 6 de octubre).', color=GRIS, size=9.5, after=10)
 
 p = d.add_paragraph(); r = p.add_run('MENSAJE (copiar y pegar)'); r.bold = True; r.font.size = Pt(12); r.font.color.rgb = NAR
-para('Jaider, gracias por la reunión. Te dejo por escrito los doce ajustes de configuración, cada uno con el lead donde lo vimos, para que me confirmes fecha de cada uno:')
+para('Jaider, gracias por la reunión. Te dejo por escrito los once ajustes de configuración, cada uno con el lead donde lo vimos, para que me confirmes fecha de cada uno:')
 
 items = [
  ('1. Orden de las preguntas: motivo → para quién → nivel → jornada → CITA.',
@@ -50,13 +50,10 @@ items = [
  ('9. Las preguntas de perfilación se dan por respondidas cuando el cliente ya las contestó por su cuenta.',
   'Si el cliente dice algo que responde una pregunta que aún no se le ha hecho, el agente no la hace. Si la plataforma obliga a "hacer" cada pregunta, el agente sigue preguntando lo que ya sabe.',
   'Lead del 7/10: escribió "quiero reforzar lo que ya sé" (es para él y tiene nivel) y el agente le preguntó "¿el curso es para ti o para alguien más?".'),
- ('10. El agente nunca dice que llamó ni que hizo algo fuera del chat.',
-  'Si existe una función de llamada automática, necesito saber cuándo se dispara y si realmente marca; si no existe, la plantilla "te llamé hace un momento pero no pude comunicarme" hay que eliminarla.',
-  'María Eugenia (lead, 6/10 9:23 am y 11:31 am): "te llamé hace un momento pero no pude comunicarme contigo", dos veces, sin que nadie la llamara.'),
- ('11. La línea de rescate es un estado de entrega: notificación a la asesora y el agente se detiene.',
+ ('10. La línea de rescate es un estado de entrega: notificación a la asesora y el agente se detiene.',
   'Cuando el agente responde "Te entiendo. Déjame que la asesora te escriba hoy…", no debe seguir con más preguntas ni ofertas hasta que la asesora actúe o el cliente escriba.',
   'María Eugenia (lead, 7/10 12:34 pm): dijo la línea de rescate y después mandó cinco mensajes más en seis horas (correo, Arranque, Cajasan, "¿te gustaría saber…?").'),
- ('12. La plantilla de la pregunta del correo no puede decir "para dejar tu registro al día".',
+ ('11. La plantilla de la pregunta del correo no puede decir "para dejar tu registro al día".',
   'Esa frase está prohibida desde el 30/09 y no está en nuestro documento: vive en la plantilla de la plataforma. El correo se pide solo al confirmar la cita, con su razón real ("para confirmarte la cita").',
   'María Eugenia (lead, 7/10 12:28 pm) y varios más esta semana.'),
 ]
