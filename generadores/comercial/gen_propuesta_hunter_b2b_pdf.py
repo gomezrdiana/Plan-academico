@@ -93,6 +93,17 @@ E.append(KeepTogether([P('La escalera: mínimos, metas, fijo e ingreso suben con
  ], [2.4 * cm, 3.6 * cm, 5.4 * cm, 3.0 * cm, W - 14.4 * cm], bold_col=4, shade_rows=(4, 5)),
  P('La cartera del 6% de las alianzas se suma a todo lo anterior. Comisiones y básico pagan prestaciones y seguridad social.', 'note')]))
 
+E.append(KeepTogether([P('Qué cuenta y qué no (definiciones del tablero)', 'h2'),
+ P('Cada término se registra en el tracker el mismo día, con su prueba; lo que no está en el tracker no existe. Una alianza que no activa en 30 días deja de contar como firma para los mínimos.'),
+ tabla([
+ ['Término', 'Cuenta cuando…', 'NO cuenta', 'Prueba en el tracker'],
+ ['Empresa contactada con decisor', 'Habló (llamada, reunión o chat con respuesta) con quien puede firmar o autorizar: gerente, dueño, talento humano o bienestar. Una vez por empresa.', 'Recepción, asistente, correo sin respuesta, "le paso el mensaje". Volver a hablar con la misma empresa.', 'Empresa, nombre y cargo del decisor, fecha, canal.'],
+ ['Reunión', 'Presentación de la alianza o del plan empresa al decisor, agendada y realizada (presencial o videollamada), de 20 minutos o más.', 'Llamadas de prospección, visitas sin decisor, reuniones canceladas.', 'Fecha, asistentes, resultado (interesa / no / pide propuesta).'],
+ ['Activación', 'Una alianza firmada hace algo que produce leads: charla en la empresa, mensaje en el canal interno con la postulación, feria o evento. Cada actividad es una activación.', 'Firmar el convenio (eso es firma). Una charla sin lista de asistentes.', 'Fecha, tipo, asistentes o postulaciones recibidas.'],
+ ['Firma (convenio o plan)', 'Convenio Business Partner firmado por el representante legal, o plan empresa con la orden firmada y la inicial pagada.', 'Carta de intención, "nos interesa", orden sin pago.', 'Documento firmado + comprobante del pago inicial (plan).'],
+ ['Cupo corporativo', 'Cada colaborador de un plan empresa con orden firmada e inicial pagada. 15 cupos en una orden = 15.', 'Becados de alianza (son estudiantes de la asesora; a ella le paga la cartera del 6%). Cupos de órdenes sin pago.', 'Orden + comprobante; la comisión se liquida sobre recaudo real.'],
+ ], [3.2 * cm, 5.6 * cm, 4.4 * cm, W - 13.2 * cm])]))
+
 E.append(KeepTogether([P('Qué pasa si no cumple', 'h2'),
  tabla([
  ['Situación', 'Consecuencia'],
