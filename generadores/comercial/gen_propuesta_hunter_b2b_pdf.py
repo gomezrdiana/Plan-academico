@@ -114,6 +114,7 @@ E.append(KeepTogether([P('Fronteras, por escrito el día uno', 'h2'),
  ['Docente del piloto B2B', 'Él conserva las empresas registradas en su tracker; ella, las nuevas. Quien registra primero en el tracker es dueño de la empresa. Mismo tablero, dos filas.'],
  ['Asesoras (inbound)', 'Todo lo que llega por WhatsApp, anuncios y reactivación es de ellas. Los estudiantes que lleguen por una alianza de ella los cierran las asesoras (comisión de cierre para ellas) y ella cobra la cartera del 6%.'],
  ['Gerencia', 'Firma todo convenio y toda orden; cierra los planes de 8 cupos o más y cualquier condición fuera del formato. Ella no negocia precios ni condiciones.'],
+ ['Atribución de un estudiante a su alianza', 'Cuatro condiciones: (1) la empresa está registrada a su nombre en el tracker, con fecha de firma, antes de que el estudiante escriba; (2) el estudiante trae la carta de postulación de la empresa (sin carta no hay beca ni atribución); (3) si el estudiante ya estaba en LaHaus antes de la fecha del convenio, es inbound; (4) el agente pregunta "¿vienes por una empresa aliada?", la asesora lo confirma con la carta y lo anota en la planilla de matrícula. La atribución la decide un papel y una fecha, no una discusión.'],
  ], [3.6 * cm, W - 3.6 * cm], bold_col=0)]))
 
 E.append(KeepTogether([P('Cómo decírselo (40 segundos)', 'h2'),
