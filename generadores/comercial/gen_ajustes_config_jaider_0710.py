@@ -24,8 +24,8 @@ para('Jaider, gracias por la reunión. Te dejo por escrito los trece ajustes de 
 
 items = [
  ('1. Orden de las preguntas: motivo → para quién → nivel → jornada → CITA.',
-  'El decisor ("¿decides tú o consultas?") va dentro de la oferta de cita, no antes. El precio no es un paso del flujo.',
-  'Yarhi (4/10): después de la jornada recibió precio + decisor y se fue sin que le ofrecieran cita. Jaime Pérez (6/10, 7:53 pm): decisor antes de la cita, ya con la base nueva. Henry (6/10, 8:09 pm): igual. Fernanda (7/10, 7:22 pm): soltó los dos precios sin que los pidiera y preguntó el decisor por segunda vez, en tres mensajes en el mismo minuto.'),
+  'El decisor ("¿decides tú o consultas?") va dentro de la oferta de cita, no antes. El precio no es un paso del flujo. Y la secuencia debe poder interrumpirse: si el cliente objeta ("es muy caro") o pregunta precio, el agente responde la objeción y ofrece la cita, no sigue con la siguiente pregunta de la lista.',
+  'Yarhi (4/10): después de la jornada recibió precio + decisor y se fue sin que le ofrecieran cita. Jaime Pérez (6/10, 7:53 pm): decisor antes de la cita, ya con la base nueva. Henry (6/10, 8:09 pm): igual. Fernanda (7/10, 7:22 pm): soltó los dos precios sin que los pidiera y preguntó el decisor por segunda vez, en tres mensajes en el mismo minuto. Tilcia (6/10): abrió con "es muy caro el semestre" y el agente arrancó la lista completa (meta, para quién, nivel, jornada, decisor, Cajasan, correo, "¿otro obstáculo?"); ella contestó dos monosílabos y se fue.'),
  ('2. Franjas de cita = horas concretas del calendario (videollamada o llamada).',
   'Nunca las jornadas de clase ("mañana 8-12 / noche 6:30-8:30") como si fueran la cita; nunca "fecha de corte" ni "siguiente cohorte". Un solo par de franjas hasta que el cliente responda; no se cambian.',
   'Jaime Pérez y Henry (6/10): "Estos serían los horarios para la siguiente fecha de corte: MAÑANA 8-12 o NOCHE 6:30-8:30". Yasmin (5/10): tres menús de franjas distintos en dos horas (3:00/11:00 → 4:00/10:00 → 3:30 video/4:00 sede/4:15 llamada). Isa Durango (6/10): 1:00/1:30/jueves 9:00 y luego 3:30/jueves 10:30.'),
@@ -68,6 +68,7 @@ for tit, regla, ej in items:
     para(regla, after=1)
     para('Ejemplo: ' + ej, size=9.5, color=GRIS, italic=True, after=8)
 
+para('**Bug de envío:** a Tilcia (6/10, 3:10 pm) le llegó el mismo mensaje dos veces en el mismo minuto.')
 para('**Pregunta aparte:** anoche el agente dio precios que no existen: a Henry (6/10, 8:16 pm) le dijo "$9.560.000" y "$3.150.000"; los únicos valores son $8.696.000 y $2.990.000. ¿De dónde salieron? Necesito saber si el modelo rellena cuando no tiene el dato, porque ya volvimos a cargar los dos precios con la instrucción de cuándo decirlos.')
 para('Gracias. Quedo atenta a las fechas.', after=12)
 
