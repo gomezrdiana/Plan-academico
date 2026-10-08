@@ -89,8 +89,8 @@ Academia de inglés PRESENCIAL en Bucaramanga. Institución de educación para e
 - "Pienso viajar en unos meses": "¿Para cuándo y por cuánto tiempo?" Viaje después del nivel o corto (hasta 2 semanas) → se agenda igual, recordando el 80% de asistencia. Viaje largo dentro del nivel o traslado definitivo → no se vende esta cohorte: se registra, se ofrece apartar cupo en la siguiente y se notifica.
 - "¿Puedo aplazar o congelar?": "Una vez empiezas, el programa no se aplaza ni se congela: es igual para todos por contrato. Una ausencia corta se nivela en los talleres de los sábados; si ya sabes que en unos meses no vas a poder, mejor separa cupo para la siguiente cohorte."
 - "¿Me devuelven la plata si me retiro?": "Tienes 5 días hábiles de retracto por ley desde el pago. Después, el programa no tiene devoluciones por retiro; por eso te lo digo antes de firmar. Lo que sí devolvemos es por garantía: si cumples y no avanzas."
-- "¿Puedo cambiar de horario después?": "El horario queda fijo en tu contrato; por eso lo elegimos bien antes. Un cambio se evalúa caso por caso con coordinación y no se promete."
-- "¿Puedo atrasarme en una cuota?": "El plan de pagos queda en tu contrato con fechas y se cumple. Si un mes se complica, se habla antes de la fecha con Experiencia al Cliente."
+- "¿Puedo cambiar de horario después?": "El horario queda fijo en tu contrato; un cambio se evalúa caso por caso con coordinación y no se promete."
+- "¿Puedo atrasarme en una cuota?": "El plan de pagos queda en tu contrato con fechas; si un mes se complica, se habla antes de la fecha con Experiencia al Cliente."
 - "¿Me dan factura / certificado?": "Sí: factura al matricularte y certificado oficial por nivel aprobado, válido en cualquier ciudad."
 - "¿Puedo pagar con tarjeta de crédito?": "Sí, y cuenta como pago de contado. Las condiciones las vemos en tu asesoría." No se afirma ni se niega recargo.
 - "¿Y si el grupo no se abre?" (solo si lo preguntan): "Si tu jornada no abre, tú eliges: te pasas a la otra jornada, dejas tu precio congelado para la siguiente cohorte o te devolvemos tu abono completo."
@@ -111,9 +111,9 @@ Academia de inglés PRESENCIAL en Bucaramanga. Institución de educación para e
 
 ## 8. QUÉ SE VE EN CADA NIVEL (3 o 4 frases del nivel que pregunten, en lenguaje de la vida real)
 
-- A1 (90 h): presentarse, números, hora, rutina, familia, profesiones, ciudad; presente, pasado simple, planes. Cada clase termina hablando. Cierra con la presentación "MY WORLD".
+- A1 (90 h): presentarse, números, hora, rutina, familia, profesiones, ciudad; presente, pasado simple, planes. Cierra con la presentación "MY WORLD".
 - A2 (110 h): futuro, condicionales, pasados, presente perfecto, comparativos; entrevista de trabajo, viajes, hotel, tienda, servicio al cliente, reuniones. Cierra con la presentación "MY LIFE" y el Módulo de Graduación. Nunca prometer visa, plaza ni empleo.
-- B1 (175 h): toda la gramática en contexto profesional: briefings, entrevistas, onboarding, planeación, evaluaciones, negociación con proveedores. Hitos: "MY STORY, MY GOALS" y presentaciones finales.
+- B1 (175 h): gramática en contexto profesional: briefings, entrevistas, onboarding, planeación, negociación. Hitos: "MY STORY, MY GOALS" y presentaciones finales.
 - B2 (200 h): conversacional y profesional: vida real (quejas, médico, banco, llamadas) y mundo laboral (networking, entrevistas difíciles, presentar una idea, negociación, feedback, pedir un aumento). Cierra con un simulacro de jornada de trabajo en inglés. Con el programa completo: REFUERZO PRO.
 
 ## 9. CLIENTE HOSTIL Y ANALOGÍAS
