@@ -20,7 +20,7 @@ p = d.add_paragraph(); r = p.add_run('AJUSTES DE CONFIGURACIÓN DEL AGENTE — P
 para('Heiiu English Academy · 07/10/2026 · Son cambios de configuración (preguntas, agendamiento, reintentos, notificaciones), no del documento de conocimiento, que ya fue recargado por nosotros. Cada punto trae el lead real donde se vio el fallo (conversaciones del 3 al 6 de octubre).', color=GRIS, size=9.5, after=10)
 
 p = d.add_paragraph(); r = p.add_run('MENSAJE (copiar y pegar)'); r.bold = True; r.font.size = Pt(12); r.font.color.rgb = NAR
-para('Jaider, gracias por la reunión. Te dejo por escrito los catorce ajustes de configuración, cada uno con el lead donde lo vimos, para que me confirmes fecha de cada uno:')
+para('Jaider, gracias por la reunión. Te dejo por escrito los dieciséis ajustes de configuración, cada uno con el lead donde lo vimos, para que me confirmes fecha de cada uno:')
 
 items = [
  ('1. Orden de las preguntas: motivo → para quién → nivel → jornada → CITA.',
@@ -36,7 +36,7 @@ items = [
   'Cadencia única y escrita para lead nuevo: 10 min, 1 h, 4 h, mañana siguiente, tarde siguiente (hoy varía de un lead a otro: a unos cada 5 minutos, a otros cada 35). Reactivación: máximo 2 en 48 horas y 1 a los 7 días. Cuando el cliente responde, el contador se reinicia.',
   'D🪐z (6/10): sin respuesta desde las 8:33, recibió cuatro preguntas distintas en 70 minutos (nombre → para quién → nivel → jornada). Adriana (5/10): tres preguntas apiladas. Gema (5/10): dos distintas y respondió "no entiendo la pregunta". Vanessa (5-6/10): cuatro seguidas. Fernanda (7/10): callada de 2:22 a 7:21 pm y recibió decisor, Cajasan y "¿quieres conocer cuál programa?", tres preguntas distintas; su "No señora" fue a la tercera.'),
  ('5. Notificaciones a María Eugenia (copia a Diana), y confirmar que le llegan.',
-  'Disparadores: segunda pregunta de precio; cualquier pregunta de mensualidad; "quiero hablar con una persona"; y cierres como "no por ahora", "no tengo el dinero", "me queda alta la cuota", "gracias por la información", "yo te confirmo". El agente responde una línea y no cierra la conversación.',
+  'Disparadores: segunda pregunta de precio; cualquier pregunta de mensualidad; "quiero hablar con una persona"; y cierres como "no por ahora", "no tengo el dinero", "me queda alta la cuota", "gracias por la información", "yo te confirmo". El agente responde una línea y no cierra la conversación. Y la frase "un asesor te va a contactar" solo puede salir si crea una tarea real para la asesora; hoy el agente la dice y no pasa nada (Elis, 7/10: la dijo dos veces, la conversación sigue en Agendando y nadie recibió nada).',
   'Leine (6/10) preguntó el precio tres veces y la mensualidad; Richard (6/10) "¿cuánto hay que pagar mensual?"; Yasmin (5/10) "no alcanzo"; Claudia (6/10) "por ahora no"; Adriana (5/10) "no contamos con ese dinero". Catorce despedidas en 14 conversaciones y ninguna notificación visible. El agente escribió "¿prefieres que un asesor te contacte?" a Richard e Isa: ¿esa frase dispara algo y a quién?'),
  ('6. La reactivación excluye leads con conversación en los últimos 30 días o en estado activo/agendando.',
   'El mensaje masivo no debe caer sobre una conversación en curso.',
@@ -65,6 +65,12 @@ items = [
  ('14. Validar el campo nombre antes de usarlo.',
   'Si el nombre del contacto tiene "@", números, está vacío, tiene más de tres palabras o una sola palabra de más de 15 letras (nombre y apellidos pegados), el agente saluda sin nombre ("Hola, soy Louissiana…"). Si es válido, usa solo el primer nombre con mayúscula inicial (llegó "valentina Martínez" y así lo repitió). Aplica al saludo, a los reintentos y a la plantilla de la llamada. Por nuestro lado, la próxima lista de reactivación va con el campo nombre limpio.',
   'Lead del 6/10 1:42 pm: "Hola Marttabuitrago@gmail.com, soy Louissiana…" y al día siguiente "Hola Marttabuitrago@gmail.com. Te llamé hace un momento…". Yeimi (6/10): "Hola Yeimicarolinajaimesmartin".'),
+ ('15. La plantilla "¿seguimos por aquí o hacemos una llamada?" no puede saltar directo a agendar.',
+  'Si el cliente elige llamada, el agente primero da una línea de contexto (academia de inglés presencial en Bucaramanga, garantía por escrito) y hace la pregunta del motivo; la llamada se agenda después de perfilar, igual que en chat.',
+  'Elis (7/10, Au Pair): dijo "una llamada" y recibió horas de una vez; preguntó dos veces "¿pero esto qué es?" y el agente siguió ofreciendo franjas. Se fue.'),
+ ('16. Una franja ofrecida debe quedar reservada mientras el cliente responde (2-3 minutos).',
+  'Si no es posible, revisar si el "ya se ocupó" fue real: ofrecer una hora y retirarla un minuto después, cuando el cliente ya dudaba, hace quedar al agente como poco confiable.',
+  'Elis (7/10): el agente ofreció 12:00 o 12:30; ella contestó "12" a los 60 segundos y el agente respondió que las 12:00 "ya se ocuparon".'),
 ]
 for tit, regla, ej in items:
     para('**' + tit + '**', after=1)
