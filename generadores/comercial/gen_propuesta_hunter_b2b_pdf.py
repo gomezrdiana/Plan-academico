@@ -64,7 +64,7 @@ E.append(P('Qué vende (las dos ofertas que ya existen)', 'h2'))
 E.append(tabla([
  ['Oferta', 'Qué es', 'Qué le paga a ella'],
  ['A. Alianza sin costo (Heiiu Business Partner)', 'La empresa firma el convenio estándar: sus colaboradores entran con carta a la columna Transformación y la empresa entrega 3 Becas [Empresa] por trimestre. La empresa no paga nada.', '6% del recaudo de cada estudiante que se matricule por esa alianza, mes a mes mientras paga (su cartera). El cierre del estudiante lo hace la asesora; la cartera es de ella.'],
- ['B. Plan empresa', f'La empresa paga cupos de sus colaboradores a tarifa corporativa (${CUPO:,.0f} por cupo del programa completo). De 3 a 7 cupos lo cierra ella con la orden estándar; 8 o más, lo cierra gerencia.', f'10% del recaudo corporativo del primer año: ${CUPO*COM_B2B:,.0f} por cupo pagado de contado (si lo cierra gerencia por ser a la medida, 5%).'],
+ ['B. Plan empresa', 'La empresa paga cupos de sus colaboradores a tarifa corporativa por volumen, escrita: de 3 a 7 cupos $4.782.800 cada uno; de 8 a 15, $4.350.000 (grupo cerrado en la sede desde 12); de 16 a 30, $3.950.000 (grupo cerrado en la sede o en la empresa). Ella cierra los tres tramos con la orden estándar y gerencia firma; más de 30 cupos lo cotiza gerencia con ella.', f'10% del recaudo corporativo del primer año en todos los tramos: ${CUPO*COM_B2B:,.0f} por cupo del tramo 1 de contado; un grupo cerrado de 16 cupos (${16*3_950_000:,.0f}) le deja ${16*3_950_000*COM_B2B:,.0f}.'],
  ['Activación', 'Una alianza firmada no vale hasta que produce: charla de 20 minutos en la empresa, diagnóstico de inglés al equipo, Experience Class. Es parte de su trabajo.', 'No paga por sí misma; es lo que convierte la firma en matrículas.'],
 ], [3.6 * cm, 6.6 * cm, W - 10.2 * cm], bold_col=0))
 
@@ -113,7 +113,7 @@ E.append(KeepTogether([P('Fronteras, por escrito el día uno', 'h2'),
  ['Con quién', 'Regla'],
  ['Docente del piloto B2B', 'Él conserva las empresas registradas en su tracker; ella, las nuevas. Quien registra primero en el tracker es dueño de la empresa. Mismo tablero, dos filas.'],
  ['Asesoras (inbound)', 'Todo lo que llega por WhatsApp, anuncios y reactivación es de ellas. Los estudiantes que lleguen por una alianza de ella los cierran las asesoras (comisión de cierre para ellas) y ella cobra la cartera del 6%.'],
- ['Gerencia', 'Firma todo convenio y toda orden; cierra los planes de 8 cupos o más y cualquier condición fuera del formato. Ella no negocia precios ni condiciones.'],
+ ['Gerencia', 'Firma todo convenio y toda orden. Ella cierra hasta 30 cupos con la tabla de volumen escrita, sin negociar precios ni condiciones; más de 30 cupos o cualquier condición fuera de la orden lo cotiza gerencia con ella. Nada se vende por debajo de $3.500.000 el cupo.'],
  ['Atribución de un estudiante a su alianza', 'Cuatro condiciones: (1) la empresa está registrada a su nombre en el tracker, con fecha de firma, antes de que el estudiante escriba; (2) el estudiante trae la carta de postulación de la empresa (sin carta no hay beca ni atribución); (3) si el estudiante ya estaba en LaHaus antes de la fecha del convenio, es inbound; (4) el agente pregunta "¿vienes por una empresa aliada?", la asesora lo confirma con la carta y lo anota en la planilla de matrícula. La atribución la decide un papel y una fecha, no una discusión.'],
  ], [3.6 * cm, W - 3.6 * cm], bold_col=0)]))
 
