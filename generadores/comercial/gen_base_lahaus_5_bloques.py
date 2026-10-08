@@ -62,7 +62,7 @@ for i, b in enumerate(blocks, 1):
         q = d.add_paragraph(); q.paragraph_format.space_after = Pt(2)
         rr = q.add_run(line); rr.font.size = Pt(10)
         if line.isupper() and len(line) < 120: rr.bold = True
-out = BASE + rf'\BASE_LAHAUS_BLOQUES_5000_{fecha}.docx'
+out = BASE + r'\BASE_LAHAUS_BLOQUES_5000.docx'
 try: d.save(out); print('OK', out)
 except PermissionError: d.save(out.replace('.docx', '_v2.docx')); print('ABIERTO -> _v2')
 print('bloques:', [len(b) for b in blocks])
