@@ -73,8 +73,8 @@ E.append(KeepTogether([P('Cuánto gana según lo que produzca (de contado)', 'h2
  ['Produce en el mes', 'Recaudo', 'Comisión', 'Con básico (desde el mes 4)'],
  ['3 cupos de plan empresa', f'${3*CUPO:,.0f}', f'${3*CUPO*COM_B2B:,.0f}', f'${3*CUPO*COM_B2B + 1_750_000:,.0f}'],
  ['5 cupos', f'${5*CUPO:,.0f}', f'${5*CUPO*COM_B2B:,.0f}', f'${5*CUPO*COM_B2B + 1_750_000:,.0f}'],
- ['8 cupos (meta meses 4-6)', f'${8*CUPO:,.0f}', f'${8*CUPO*COM_B2B:,.0f}', f'${8*CUPO*COM_B2B + 1_750_000:,.0f}'],
- ['12 cupos (meta desde el mes 7)', f'${12*CUPO:,.0f}', f'${12*CUPO*COM_B2B:,.0f}', f'${12*CUPO*COM_B2B + 2_000_000:,.0f}'],
+ ['10 cupos (meta meses 4-6)', f'${10*CUPO:,.0f}', f'${10*CUPO*COM_B2B:,.0f}', f'${10*CUPO*COM_B2B + 1_750_000:,.0f}'],
+ ['15 cupos (meta desde el mes 7)', f'${15*CUPO:,.0f}', f'${15*CUPO*COM_B2B:,.0f}', f'${15*CUPO*COM_B2B + 2_000_000:,.0f}'],
  ['+ 10 estudiantes por alianzas pagando cuotas de $450.000', '$4.500.000 al mes', '$270.000 al mes, se suma a lo anterior', 'cartera que crece cada mes'],
  ], [5.6 * cm, 3.6 * cm, 3.6 * cm, W - 12.8 * cm], bold_col=2, shade_rows=(3, 4)),
  P('Los cupos a cuotas pagan la comisión a medida que la empresa paga. Un plan de 5 cupos (~$24 millones) le deja $2.4 millones; dos planes así al mes ya la ponen por encima de $6 millones.', 'note')]))
@@ -83,12 +83,12 @@ E.append(KeepTogether([P('La escalera: mínimos, metas, fijo e ingreso suben con
  P('Los mínimos de los meses 1-3 dan derecho al piso de $3.500.000; si no los cumple, recibe el mínimo legal más lo que haya comisionado. Todo se registra en el tracker B2B y se mide los viernes.'),
  tabla([
  ['Etapa', 'Fijo', 'Mínimo para el piso', 'Meta', 'Gana si cumple la meta'],
- ['Mes 1', 'Mínimo legal (dentro del piso)', '15 empresas contactadas con decisor · 6 reuniones · 2 activaciones · 1 firma (convenio o plan)', '2 firmas', '$3.500.000 (piso)'],
- ['Mes 2', 'Mínimo legal (dentro del piso)', '2 firmas acumuladas · 3 cupos corporativos · 2 activaciones', '4 cupos', '$3.500.000 (piso; 4 cupos = $1.9M de comisión)'],
- ['Mes 3', 'Mínimo legal (dentro del piso)', '4 firmas acumuladas · 6 cupos acumulados', '8 cupos', '$3.830.000 (8 cupos superan el piso)'],
- ['Meses 4 a 6', 'Mínimo legal (~$1.750.000)', '—', '8 cupos o $38M de recaudo corporativo', '$5.580.000'],
- ['Meses 7 a 12', 'Básico $2.000.000', '—', '12 cupos o $57M', '$7.740.000'],
- ['Año 2', 'Básico $2.300.000', '—', '12 a 15 cupos', '$8.000.000 a $9.500.000'],
+ ['Mes 1', 'Mínimo legal (dentro del piso)', '40 empresas contactadas con decisor (2 por día) · 12 reuniones · 3 activaciones · 2 firmas (convenio o plan)', '3 firmas', '$3.500.000 (piso)'],
+ ['Mes 2', 'Mínimo legal (dentro del piso)', '4 firmas acumuladas · 5 cupos corporativos · 3 activaciones', '6 cupos', '$3.500.000 (piso; 6 cupos = $2.9M de comisión)'],
+ ['Mes 3', 'Mínimo legal (dentro del piso)', '6 firmas acumuladas · 10 cupos acumulados', '10 cupos', '$4.780.000 (10 cupos superan el piso)'],
+ ['Meses 4 a 6', 'Mínimo legal (~$1.750.000)', '—', '10 cupos o $48M de recaudo corporativo', '$6.530.000'],
+ ['Meses 7 a 12', 'Básico $2.000.000', '—', '15 cupos o $72M', '$9.170.000'],
+ ['Año 2', 'Básico $2.300.000', '—', '15 a 20 cupos', '$9.500.000 a $11.900.000'],
  ], [2.4 * cm, 3.6 * cm, 5.4 * cm, 3.0 * cm, W - 14.4 * cm], bold_col=4, shade_rows=(4, 5)),
  P('Básico mínimo legal: verificar el valor vigente antes de firmar. La cartera del 6% de las alianzas se suma a todo lo anterior.', 'note')]))
 
@@ -98,7 +98,7 @@ E.append(KeepTogether([P('Qué pasa si no cumple', 'h2'),
  ['No llega al mínimo del mes (meses 1-3)', 'No hay piso: recibe el mínimo legal más sus comisiones, y entra en carta de ampliación (una semana con meta escrita).'],
  ['Falla dos mínimos seguidos', 'Salida dentro del período de prueba.'],
  ['Falla el mínimo del mes 2', 'El piso del mes 3 no existe.'],
- ['Segundo viernes del mes 1', 'Alerta temprana: 8 empresas contactadas y 3 reuniones; si no, carta esa misma semana.'],
+ ['Segundo viernes del mes 1', 'Alerta temprana: 20 empresas contactadas, 6 reuniones y 1 firma; si no, carta esa misma semana.'],
  ['Alianza firmada sin activar en 30 días', 'No cuenta como firma.'],
  ], [5.2 * cm, W - 5.2 * cm], bold_col=0),
  P('<b>El piso nunca se paga por no producir.</b>')]))
@@ -106,7 +106,7 @@ E.append(KeepTogether([P('Qué pasa si no cumple', 'h2'),
 E.append(KeepTogether([P('Lo que arriesga la academia', 'h2'),
  tarjetas([('~$2.3M', 'al mes si no produce nada<br/>(mínimo legal cargado)'), ('$3.5M', 'por mes de piso, solo si<br/>cumplió los mínimos'), ('$0', 'de comisión que no venga<br/>de recaudo ya cobrado')]),
  Spacer(1, 6),
- P('A meta desde el mes 7 (12 cupos, $57 millones de recaudo corporativo): ella gana $7.7 millones y la academia se queda con más de $49 millones. La comisión alta no es generosidad: es el único costo que crece solo cuando la caja crece.', 'note')]))
+ P('A meta desde el mes 7 (15 cupos, $72 millones de recaudo corporativo): ella gana $9.2 millones y la academia se queda con más de $62 millones. La comisión alta no es generosidad: es el único costo que crece solo cuando la caja crece.', 'note')]))
 
 E.append(KeepTogether([P('Fronteras, por escrito el día uno', 'h2'),
  tabla([
@@ -117,7 +117,7 @@ E.append(KeepTogether([P('Fronteras, por escrito el día uno', 'h2'),
  ], [3.6 * cm, W - 3.6 * cm], bold_col=0)]))
 
 E.append(KeepTogether([P('Cómo decírselo (40 segundos)', 'h2'),
- P('"Tu trabajo es abrir empresas, no atender citas. Entras de planta desde el primer día con el mínimo legal, y los tres primeros meses te garantizo $3.500.000 si cumples unos mínimos de actividad y resultado. Comisionas el 10% de todo lo que una empresa pague por sus cupos, y el 6% de lo que pague cada estudiante que entre por una alianza tuya, mes a mes, durante todo su programa: esa es tu cartera. Tu meta es llegar a 8 cupos al mes en el cuarto mes y a 12 en el séptimo; con 12 cupos estás por encima de $7.5 millones, más la cartera de tus alianzas. Las dos ofertas, el convenio y la orden de plan empresa, ya están escritas; tú las llevas a la empresa y las cierras."', 'q'),
+ P('"Tu trabajo es abrir empresas, no atender citas. Entras de planta desde el primer día con el mínimo legal, y los tres primeros meses te garantizo $3.500.000 si cumples unos mínimos de actividad y resultado. Comisionas el 10% de todo lo que una empresa pague por sus cupos, y el 6% de lo que pague cada estudiante que entre por una alianza tuya, mes a mes, durante todo su programa: esa es tu cartera. Tu meta es llegar a 10 cupos al mes en el cuarto mes y a 15 en el séptimo; con 15 cupos estás por encima de $9 millones, más la cartera de tus alianzas. Y el ritmo es de directora: dos empresas nuevas contactadas por día. Las dos ofertas, el convenio y la orden de plan empresa, ya están escritas; tú las llevas a la empresa y las cierras."', 'q'),
  P('Antes de firmar: entrevista con simulación de visita a una empresa (ella presenta las dos ofertas y cierra el convenio) · anexo del contrato con esta curva · básico mínimo legal vigente confirmado · fronteras firmadas con el docente del piloto y las asesoras · lista de empresas ya en conversación (excluidas).', 'note')]))
 
 doc.build(E, onFirstPage=pie, onLaterPages=pie); print('OK', out)
