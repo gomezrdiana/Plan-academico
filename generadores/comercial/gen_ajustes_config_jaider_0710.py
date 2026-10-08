@@ -20,7 +20,7 @@ p = d.add_paragraph(); r = p.add_run('AJUSTES DE CONFIGURACIÓN DEL AGENTE — P
 para('Heiiu English Academy · 07/10/2026 · Son cambios de configuración (preguntas, agendamiento, reintentos, notificaciones), no del documento de conocimiento, que ya fue recargado por nosotros. Cada punto trae el lead real donde se vio el fallo (conversaciones del 3 al 6 de octubre).', color=GRIS, size=9.5, after=10)
 
 p = d.add_paragraph(); r = p.add_run('MENSAJE (copiar y pegar)'); r.bold = True; r.font.size = Pt(12); r.font.color.rgb = NAR
-para('Jaider, gracias por la reunión. Te dejo por escrito los trece ajustes de configuración, cada uno con el lead donde lo vimos, para que me confirmes fecha de cada uno:')
+para('Jaider, gracias por la reunión. Te dejo por escrito los catorce ajustes de configuración, cada uno con el lead donde lo vimos, para que me confirmes fecha de cada uno:')
 
 items = [
  ('1. Orden de las preguntas: motivo → para quién → nivel → jornada → CITA.',
@@ -62,6 +62,9 @@ items = [
  ('13. Recordatorios de cita: dos como máximo, y ninguno antes de 12 horas después de agendar.',
   'Uno la noche anterior a las 7:00 pm (solo si la cita se agendó antes de ese día) y uno 60 minutos antes, con el enlace de la videollamada o "te llamamos a este número". Si la cita se agenda hoy para mañana, solo el de los 60 minutos.',
   'Vanesa Celis (7/10): agendó a las 2:38 pm para el jueves 4:30 pm y a las 4:32 pm le llegó "tu asesor tiene todo listo… ¿todo bien de tu parte?", dos horas después de decir "ok" dos veces.'),
+ ('14. Validar el campo nombre antes de usarlo.',
+  'Si el nombre del contacto tiene "@", números, está vacío o tiene más de tres palabras, el agente saluda sin nombre ("Hola, soy Louissiana…"). Aplica al saludo, a los reintentos y a la plantilla de la llamada. Por nuestro lado, la próxima lista de reactivación va con el campo nombre limpio.',
+  'Lead del 6/10 1:42 pm: "Hola Marttabuitrago@gmail.com, soy Louissiana…" y al día siguiente "Hola Marttabuitrago@gmail.com. Te llamé hace un momento…".'),
 ]
 for tit, regla, ej in items:
     para('**' + tit + '**', after=1)
