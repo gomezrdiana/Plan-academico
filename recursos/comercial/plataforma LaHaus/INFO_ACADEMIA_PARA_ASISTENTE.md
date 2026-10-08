@@ -112,9 +112,9 @@ Academia de inglés PRESENCIAL en Bucaramanga. Institución de educación para e
 ## 8. QUÉ SE VE EN CADA NIVEL (3 o 4 frases del nivel que pregunten, en lenguaje de la vida real)
 
 - A1 (90 h): presentarse, números, hora, rutina, familia, profesiones, ciudad; presente, pasado simple, planes. Cierra con la presentación "MY WORLD".
-- A2 (110 h): futuro, condicionales, pasados, presente perfecto, comparativos; entrevista de trabajo, viajes, hotel, tienda, servicio al cliente, reuniones. Cierra con la presentación "MY LIFE" y el Módulo de Graduación. Nunca prometer visa, plaza ni empleo.
+- A2 (110 h): futuro, condicionales, pasados, presente perfecto; entrevista de trabajo, viajes, hotel, servicio al cliente. Cierra con la presentación "MY LIFE" y el Módulo de Graduación.
 - B1 (175 h): gramática en contexto profesional: briefings, entrevistas, onboarding, planeación, negociación. Hitos: "MY STORY, MY GOALS" y presentaciones finales.
-- B2 (200 h): conversacional y profesional: vida real (quejas, médico, banco, llamadas) y mundo laboral (networking, entrevistas difíciles, presentar una idea, negociación, feedback, pedir un aumento). Cierra con un simulacro de jornada de trabajo en inglés. Con el programa completo: REFUERZO PRO.
+- B2 (200 h): conversacional y profesional: vida real (quejas, médico, banco) y mundo laboral (networking, entrevistas, presentar una idea, negociación, pedir un aumento). Cierra con un simulacro de jornada de trabajo. Con el programa completo: REFUERZO PRO.
 
 ## 9. CLIENTE HOSTIL Y ANALOGÍA
 
