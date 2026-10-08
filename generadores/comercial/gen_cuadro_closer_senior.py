@@ -97,6 +97,41 @@ for t in [f'• Riesgo máximo de la academia: ${PISO*MESES_PISO:,.0f} (tres mes
     ws.cell(row=r, column=1, value=t); ws.merge_cells(start_row=r, start_column=1, end_row=r, end_column=16); r += 1
 for col, w in zip('ABCDEFGHIJKLMNOP', (13, 9, 14, 16, 14, 13, 11, 16) + (12,) * 8): ws.column_dimensions[col].width = w
 
+# ---------- hoja: como cuenta cada tipo de venta
+k = wb.create_sheet('REGLAS DE CONTEO')
+k['A1'] = 'CÓMO CUENTA CADA TIPO DE VENTA (para la meta y para la comisión)'; k['A1'].font = Font(bold=True, size=13, color='E54C09')
+hdr = ['Tipo de venta', 'Cuenta para la meta', 'Comisión', 'Nota']
+for j, h in enumerate(hdr, 1):
+    c = k.cell(row=3, column=j, value=h); c.font = H; c.fill = F; c.border = B
+filas = [
+ ('Programa completo de contado ($4.78M-$5.9M)', '1 contrato', '12% / 15% del recaudo, de una vez ($574k-$709k)', 'Mejor venta posible'),
+ ('Arranque de contado ($2.99M)', '1 contrato', '$358.800 de una vez (12%)', ''),
+ ('Cualquier programa a cuotas', '1 contrato cuando la INICIAL está pagada (mínimo $1.000.000 o 30%)', '12% de la inicial ese mes + 12% de cada cuota cuando entra', 'La cartera: comisión mes a mes'),
+ ('Separación de $300.000 sola', '0 (lead en proceso)', '12% de los $300.000; el resto cuando pague la inicial', 'No llena la meta'),
+ ('Nivel suelto / sabatino ($1.6M-$2.3M)', '½ contrato', '12% del recaudo', ''),
+ ('Cliente antiguo (continuidad, supletorio)', '½ contrato', '6% del recaudo', ''),
+ ('Plan empresa que ella abra (fuera del piloto docente)', '1 contrato por cupo', '3% del recaudo corporativo del primer año', 'Gerencia firma'),
+]
+for i, fila in enumerate(filas, 4):
+    for j, v in enumerate(fila, 1):
+        c = k.cell(row=i, column=j, value=v); c.border = B; c.alignment = Alignment(wrap_text=True, vertical='top')
+k.cell(row=12, column=1, value='Regla: la meta solo se cumple con programas con inicial pagada; separaciones y niveles sueltos no la llenan. La comisión siempre es sobre plata que entró.').font = Font(italic=True)
+k.merge_cells('A12:D12')
+k.cell(row=14, column=1, value='LO QUE RECIBE LA ACADEMIA (si fueran de contado)').font = Font(bold=True, color='E54C09')
+hdr = ['Contratos al mes', 'Recaudo', 'Comisión (12%/15%)', 'Neto academia', '% para ella']
+for j, h in enumerate(hdr, 1):
+    c = k.cell(row=15, column=j, value=h); c.font = H; c.fill = F; c.border = B
+for i, n in enumerate((8, 10, 12, 15, 18), 16):
+    rec = n * EQ; com = comision(7, n) if n >= 12 else comision(4, n)
+    vals = [n, rec, com, rec - com, com / rec]
+    for j, v in enumerate(vals, 1):
+        c = k.cell(row=i, column=j, value=v); c.border = B
+        if j in (2, 3, 4): c.number_format = '$#,##0'
+        if j == 5: c.number_format = '0.0%'
+k.cell(row=22, column=1, value='12 contratos al mes = la academia sana (~100 estudiantes pagando, ~$35M de caja). A cuotas, el recaudo del mes arranca en ~$14M de iniciales y llega a ~$36M hacia el quinto mes con la cartera; la comisión va igual de atrás.').alignment = Alignment(wrap_text=True)
+k.merge_cells('A22:E22'); k.row_dimensions[22].height = 40
+for col, w in zip('ABCDE', (44, 30, 40, 18, 12)): k.column_dimensions[col].width = w
+
 # ---------- hoja 2: tablero semanal
 t = wb.create_sheet('TABLERO SEMANAL')
 t['A1'] = 'TABLERO SEMANAL DEL CLOSER — lo llena ella cada viernes; gerencia lo revisa en 10 minutos'; t['A1'].font = Font(bold=True, size=13, color='E54C09')
