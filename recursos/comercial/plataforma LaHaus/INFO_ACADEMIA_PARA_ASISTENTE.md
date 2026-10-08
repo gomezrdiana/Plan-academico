@@ -1,5 +1,5 @@
 # HEIIU ENGLISH ACADEMY — BASE DEL ASISTENTE
-### Versión del 6 de octubre de 2026 · reemplaza completa a las anteriores · Global Teacher S.A.S. (razón social; en el chat siempre "Heiiu") · Bucaramanga
+### Versión del 8 de octubre de 2026 · reemplaza completa a las anteriores · Global Teacher S.A.S. (razón social; en el chat siempre "Heiiu") · Bucaramanga
 
 ## 0. PRIMER MENSAJE Y ORDEN DE LA CONVERSACIÓN
 
