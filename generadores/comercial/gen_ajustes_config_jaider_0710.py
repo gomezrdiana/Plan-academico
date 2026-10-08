@@ -20,7 +20,7 @@ p = d.add_paragraph(); r = p.add_run('AJUSTES DE CONFIGURACIÓN DEL AGENTE — P
 para('Heiiu English Academy · 07/10/2026 · Son cambios de configuración (preguntas, agendamiento, reintentos, notificaciones), no del documento de conocimiento, que ya fue recargado por nosotros. Cada punto trae el lead real donde se vio el fallo (conversaciones del 3 al 6 de octubre).', color=GRIS, size=9.5, after=10)
 
 p = d.add_paragraph(); r = p.add_run('MENSAJE (copiar y pegar)'); r.bold = True; r.font.size = Pt(12); r.font.color.rgb = NAR
-para('Jaider, gracias por la reunión. Te dejo por escrito los once ajustes de configuración, cada uno con el lead donde lo vimos, para que me confirmes fecha de cada uno:')
+para('Jaider, gracias por la reunión. Te dejo por escrito los doce ajustes de configuración, cada uno con el lead donde lo vimos, para que me confirmes fecha de cada uno:')
 
 items = [
  ('1. Orden de las preguntas: motivo → para quién → nivel → jornada → CITA.',
@@ -56,6 +56,9 @@ items = [
  ('11. La plantilla de la pregunta del correo no puede decir "para dejar tu registro al día".',
   'Esa frase está prohibida desde el 30/09 y no está en nuestro documento: vive en la plantilla de la plataforma. El correo se pide solo al confirmar la cita, con su razón real ("para confirmarte la cita").',
   'María Eugenia (lead, 7/10 12:28 pm) y varios más esta semana.'),
+ ('12. Agrupar los mensajes que el cliente manda en ráfaga y responder una sola vez.',
+  'Muchos clientes escriben en fragmentos (tres o cuatro mensajes en el mismo minuto). El agente debería esperar 20-30 segundos y responder a todo junto; hoy contesta cada fragmento por separado y repite preguntas.',
+  'Sandra (7/10, 5:15-5:18 pm): fragmentos "Un viaje" / "Mi hija va a estudiar…" / "Quiero saber q costo tiene"; el agente mandó dos respuestas por minuto y preguntó la jornada tres veces. (Aun así agendó: viernes 9/10 11:00 am.)'),
 ]
 for tit, regla, ej in items:
     para('**' + tit + '**', after=1)
