@@ -73,13 +73,13 @@ E.append(Spacer(1, 6))
 E.append(tarjetas([('10%', 'de lo que paga cada empresa<br/>por los cupos de su gente'), ('6%', 'mes a mes, de cada estudiante<br/>que entra por tu alianza'), ('$3.5M', 'ingreso garantizado en tus<br/>3 primeros meses (con mínimos)')], w=5.6))
 
 # ---------- 2. Tu trabajo ----------
-E.append(P('Tu trabajo', 'h2'))
-E.append(P('Abrir empresas y activarlas. <b>No atiendes citas ni mensajes de WhatsApp</b>: eso lo hacen las asesoras. Tú estás afuera, con los gerentes, en talento humano, en bienestar, en las fundaciones, en las ferias.'))
-for t in ['<b>Contactas</b> a quien decide: gerente, dueño, talento humano, bienestar o la fundación de la empresa.',
-          '<b>Presentas</b> las dos ofertas en una reunión de 20 minutos.',
-          '<b>Cierras</b> el convenio o la orden de plan empresa (gerencia firma).',
-          '<b>Activas</b> la alianza: charla de 20 minutos en la empresa, diagnóstico de inglés al equipo, una clase de muestra. Una firma que no se activa no produce.',
-          '<b>Registras</b> todo en el tablero de alianzas el mismo día. Así tu trabajo se ve y tu cartera queda protegida.']:
+E.append(P('El rol', 'h2'))
+E.append(P('Liderarás el desarrollo del canal corporativo e institucional de Heiiu: identificar, abrir y consolidar alianzas con empresas, áreas de bienestar y fundaciones de Bucaramanga y su área metropolitana. Es un rol de campo y de relacionamiento con la alta dirección; la atención de prospectos individuales y el proceso de matrícula están a cargo del equipo de asesoría comercial.'))
+for t in ['<b>Prospección y relacionamiento:</b> identificar empresas y fundaciones con potencial y establecer contacto con quienes toman la decisión (gerencia, talento humano, bienestar, responsabilidad social).',
+          '<b>Presentación de la propuesta de valor:</b> exponer las dos modalidades de vinculación (alianza sin costo y plan empresa) en reuniones ejecutivas.',
+          '<b>Negociación y cierre:</b> formalizar convenios y órdenes de plan empresa dentro de las condiciones comerciales establecidas, con firma de gerencia.',
+          '<b>Activación de alianzas:</b> coordinar charlas, diagnósticos de nivel y clases de muestra que conviertan cada convenio en estudiantes matriculados.',
+          '<b>Seguimiento y reporte:</b> mantener actualizado el tablero de alianzas (gestión, resultados y cartera) para la revisión semanal con gerencia.']:
     E.append(LI(t))
 
 # ---------- 3. Lo que vendes ----------
