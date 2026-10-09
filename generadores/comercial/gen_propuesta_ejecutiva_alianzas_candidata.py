@@ -53,51 +53,51 @@ def pie(canvas, doc):
     canvas.saveState(); canvas.setFillColor(NAR); canvas.rect(0, letter[1] - 0.5 * cm, letter[0], 0.5 * cm, fill=1, stroke=0)
     canvas.setFillColor(AMAR); canvas.rect(0, letter[1] - 0.5 * cm, 4 * cm, 0.5 * cm, fill=1, stroke=0)
     canvas.setFont('Cal', 8.5); canvas.setFillColor(GRIS)
-    canvas.drawString(2 * cm, 1.1 * cm, 'Heiiu English Academy · Propuesta de vinculación · Ejecutiva de Alianzas Empresariales · confidencial · octubre 2026')
+    canvas.drawString(2 * cm, 1.1 * cm, 'Heiiu English Academy · Propuesta de vinculación · Ejecutivo(a) de Alianzas Empresariales · confidencial · octubre 2026')
     canvas.drawRightString(letter[0] - 2 * cm, 1.1 * cm, f'{doc.page}'); canvas.restoreState()
 
 CUPO = 4_782_800; COM = 0.10
 m = lambda v: f'${v:,.0f}'.replace(',', '.')
 out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\PROPUESTA_EJECUTIVA_ALIANZAS.pdf'
-doc = SimpleDocTemplate(out, pagesize=letter, leftMargin=2 * cm, rightMargin=2 * cm, topMargin=1.6 * cm, bottomMargin=1.8 * cm, title='Propuesta de vinculación · Ejecutiva de Alianzas Empresariales')
+doc = SimpleDocTemplate(out, pagesize=letter, leftMargin=2 * cm, rightMargin=2 * cm, topMargin=1.6 * cm, bottomMargin=1.8 * cm, title='Propuesta de vinculación · Ejecutivo(a) de Alianzas Empresariales')
 W = letter[0] - 4 * cm
 E = []
 
 # ---------- 1. Apertura ----------
 E.append(P('HEIIU ENGLISH ACADEMY · PROPUESTA DE VINCULACIÓN', 'kicker'))
-E.append(P('Ejecutiva de Alianzas Empresariales', 'h1'))
-E.append(P('Para Angyber Aguilera Fonseca', 'sub'))
-E.append(caja([P('Las empresas de Bucaramanga necesitan gente que hable inglés, y no solo dentro de su equipo. Con sus programas de bienestar, con beneficios para las familias de sus colaboradores o a través de sus fundaciones, pueden aportar a la educación de su comunidad: formar personas en inglés para abrirles oportunidades. Nosotros tenemos el programa, la licencia y una garantía de aprendizaje por escrito. Lo que nos falta es quien abra esas puertas. <b>Ese canal no existe todavía en Heiiu: buscamos a la persona que lo construya y lo haga suyo.</b>'),
-              P('Tu experiencia en alianzas estratégicas, convenios y dirección comercial es justo lo que este canal necesita: llevar nuestras ofertas a las empresas y convertirlas en estudiantes.')]))
+E.append(P('Ejecutivo(a) de Alianzas Empresariales', 'h1'))
+E.append(P('Canal corporativo e institucional · Bucaramanga y área metropolitana', 'sub'))
+E.append(caja([P('Las empresas de Bucaramanga necesitan gente que hable inglés, y no solo dentro de su equipo. Con sus programas de bienestar, con beneficios para las familias de sus colaboradores o a través de sus fundaciones, pueden aportar a la educación de su comunidad: formar personas en inglés para abrirles oportunidades. Heiiu tiene el programa, la licencia y una garantía de aprendizaje por escrito. <b>Buscamos a la persona que construya este canal y lo haga suyo.</b>'),
+              P('El cargo requiere experiencia en alianzas estratégicas, convenios y dirección comercial: llevar las ofertas de Heiiu a las empresas y convertirlas en estudiantes.')]))
 E.append(Spacer(1, 6))
-E.append(tarjetas([('10%', 'de lo que paga cada empresa<br/>por los cupos de su gente'), ('6%', 'mes a mes, de cada estudiante<br/>que entra por tu alianza'), ('$3.5M', 'ingreso garantizado en tus<br/>3 primeros meses (con mínimos)')], w=5.6))
+E.append(tarjetas([('10%', 'de lo que paga cada empresa<br/>por los cupos de su gente'), ('6%', 'mes a mes, de cada estudiante<br/>que entra por la alianza'), ('$3.5M', 'ingreso mínimo garantizado los<br/>3 primeros meses (con indicadores)')], w=5.6))
 
-# ---------- 2. Tu trabajo ----------
+# ---------- 2. El rol ----------
 E.append(P('El rol', 'h2'))
-E.append(P('Liderarás el desarrollo del canal corporativo e institucional de Heiiu: identificar, abrir y consolidar alianzas con empresas, áreas de bienestar y fundaciones de Bucaramanga y su área metropolitana. Es un rol de campo y de relacionamiento con la alta dirección; la atención de prospectos individuales y el proceso de matrícula están a cargo del equipo de asesoría comercial.'))
+E.append(P('Liderar el desarrollo del canal corporativo e institucional de Heiiu: identificar, abrir y consolidar alianzas con empresas, áreas de bienestar y fundaciones de Bucaramanga y su área metropolitana. Es un rol de campo y de relacionamiento con la alta dirección; la atención de prospectos individuales y el proceso de matrícula están a cargo del equipo de asesoría comercial.'))
 for t in ['<b>Prospección y relacionamiento:</b> identificar empresas y fundaciones con potencial y establecer contacto con quienes toman la decisión (gerencia, talento humano, bienestar, responsabilidad social).',
           '<b>Presentación de la propuesta de valor:</b> exponer las dos modalidades de vinculación (alianza sin costo y plan empresa) en reuniones ejecutivas.',
           '<b>Negociación y cierre:</b> formalizar convenios y órdenes de plan empresa dentro de las condiciones comerciales establecidas, con firma de gerencia.',
           '<b>Activación de alianzas:</b> coordinar charlas, diagnósticos de nivel y clases de muestra que conviertan cada convenio en estudiantes matriculados.',
-          '<b>Desarrollo de nuevas oportunidades:</b> a partir de lo que escuchas en el mercado, proponer a gerencia nuevos programas, formatos y líneas de expansión (sectores, ciudades, convocatorias públicas o de cooperación).']:
+          '<b>Desarrollo de nuevas oportunidades:</b> a partir de lo que se escucha en el mercado, proponer a gerencia nuevos programas, formatos y líneas de expansión (sectores, ciudades, convocatorias públicas o de cooperación).']:
     E.append(LI(t))
 
-E.append(KeepTogether([P('Cómo trabajamos juntas', 'h2'),
- P('Tienes autonomía para organizar tu agenda, tus visitas y tu forma de trabajar. Lo que no soltamos es el seguimiento: este canal es estratégico para Heiiu y queremos potenciarlo al máximo en este momento, así que es crucial no dejar pasar ninguna oportunidad. Por eso lo acompañamos de cerca, contigo.'),
- LI('<b>Tu tablero de alianzas:</b> lo llevas al día con tus empresas, reuniones, firmas, cupos y próximos pasos. Es tu herramienta: deja registrada cada empresa que abres, protege tu cartera y es la base de nuestras reuniones.'),
- LI('<b>Dos reuniones fijas por semana, de 30 minutos:</b> el lunes definimos las empresas y reuniones de la semana; el jueves revisamos resultados contra la meta del mes y ajustamos.')]))
+E.append(KeepTogether([P('Autonomía y seguimiento', 'h2'),
+ P('El cargo tiene autonomía para organizar su agenda, sus visitas y su forma de trabajar. Lo que no se suelta es el seguimiento: este canal es estratégico para Heiiu y queremos potenciarlo al máximo en este momento, así que es crucial no dejar pasar ninguna oportunidad. Por eso lo acompañamos de cerca.'),
+ LI('<b>Tablero de alianzas:</b> se lleva al día con empresas, reuniones, firmas, cupos y próximos pasos. Es la herramienta del cargo: deja registrada cada empresa que se abre, protege la cartera y es la base de las reuniones.'),
+ LI('<b>Dos reuniones fijas por semana, de 30 minutos, con gerencia:</b> el lunes se definen las empresas y reuniones de la semana; el jueves se revisan resultados contra la meta del mes y se ajusta.')]))
 
-# ---------- 3. Lo que vendes ----------
+# ---------- 3. Las ofertas ----------
 E.append(PageBreak())
-E.extend(([P('Lo que llevas a las empresas', 'h2'),
+E.extend(([P('Lo que se lleva a las empresas', 'h2'),
  tabla([
- ['Oferta', 'Qué recibe la empresa', 'Qué ganas tú'],
- ['A. Alianza sin costo', 'Firma un convenio estándar. Sus colaboradores entran con beca del Fondo (columna Transformación): el programa completo, que vale ' + m(8_696_000) + ', les queda desde ' + m(4_782_800) + '. Además, la empresa entrega 3 becas con su nombre por trimestre. A la empresa no le cuesta nada: es un beneficio para su gente.', '<b>6% de lo que pague cada estudiante</b> que entre por esa alianza, mes a mes, durante todo su programa. Esa es tu cartera: crece con cada alianza activa.'],
- ['B. Plan empresa', 'La empresa paga los cupos de su gente con tarifa corporativa por volumen, sobre un precio de lista de ' + m(8_696_000) + ' por persona: de 3 a 7 cupos, ' + m(4_782_800) + ' cada uno; de 8 a 15, ' + m(4_350_000) + '; de 16 a 30, ' + m(3_950_000) + ' con grupo cerrado en la sede o en la empresa.', '<b>10% de lo que pague la empresa</b> el primer año. Un plan de 5 cupos te deja ' + m(5 * CUPO * COM) + '; un grupo cerrado de 16, ' + m(16 * 3_950_000 * COM) + '.'],
+ ['Oferta', 'Qué recibe la empresa', 'Comisión del cargo'],
+ ['A. Alianza sin costo', 'Firma un convenio estándar. Sus colaboradores entran con beca del Fondo (columna Transformación): el programa completo, que vale ' + m(8_696_000) + ', les queda desde ' + m(4_782_800) + '. Además, la empresa entrega 3 becas con su nombre por trimestre. A la empresa no le cuesta nada: es un beneficio para su gente.', '<b>6% de lo que pague cada estudiante</b> que entre por esa alianza, mes a mes, durante todo su programa. Es la cartera del cargo: crece con cada alianza activa.'],
+ ['B. Plan empresa', 'La empresa paga los cupos de su gente con tarifa corporativa por volumen, sobre un precio de lista de ' + m(8_696_000) + ' por persona: de 3 a 7 cupos, ' + m(4_782_800) + ' cada uno; de 8 a 15, ' + m(4_350_000) + '; de 16 a 30, ' + m(3_950_000) + ' con grupo cerrado en la sede o en la empresa.', '<b>10% de lo que pague la empresa</b> el primer año. Un plan de 5 cupos deja ' + m(5 * CUPO * COM) + '; un grupo cerrado de 16, ' + m(16 * 3_950_000 * COM) + '.'],
  ], [3.4 * cm, 7.2 * cm, W - 10.6 * cm], bold_col=0),
- P('Todos estos valores ya traen el descuento sobre el precio de lista (' + m(8_696_000) + ' el programa completo, 575 horas, de cero a B2): por eso no hay descuentos adicionales que negociar. El convenio y la orden de plan empresa están escritos y son estándar. Más de 30 cupos lo cotizamos juntas con gerencia.', 'note')]))
+ P('Todos estos valores ya traen el descuento sobre el precio de lista (' + m(8_696_000) + ' el programa completo, 575 horas, de cero a B2): por eso no hay descuentos adicionales que negociar. El convenio y la orden de plan empresa están escritos y son estándar. Más de 30 cupos se cotizan con gerencia.', 'note')]))
 
-# ---------- 4. Cómo ganas ----------
+# ---------- 4. Compensación ----------
 E.append(KeepTogether([P('Esquema de compensación', 'h2'),
  P('La vinculación es mediante <b>contrato laboral desde el primer día</b>: salario mínimo legal vigente más auxilio de transporte (' + m(2_000_000) + ' mensuales en 2026; se ajusta cada enero según el decreto del Gobierno), con prestaciones sociales y seguridad social. A este básico se suma una <b>comisión variable desde el primer cierre</b>, que también constituye salario.'),
  P('Durante los tres primeros meses, mientras se construye la cartera, la academia garantiza un <b>ingreso mínimo de ' + m(3_500_000) + '</b> en cada mes en que se cumplan los indicadores de gestión. Cuando las comisiones superan ese valor, se liquida el total generado, sin tope.'),
@@ -108,20 +108,20 @@ E.append(KeepTogether([P('Esquema de compensación', 'h2'),
  ['No se alcanzan los indicadores', 'Básico + la comisión generada, y un plan de ajuste de una semana con metas concretas.'],
  ], [8.2 * cm, W - 8.2 * cm], bold_col=0)]))
 
-# ---------- 5. Cuánto puedes ganar ----------
+# ---------- 5. Proyección ----------
 E.append(KeepTogether([P('Proyección comisional (pagos de contado)', 'h2'),
  tabla([
- ['Si en el mes cierras…', 'La empresa paga', 'Tu comisión', 'Tu ingreso ese mes'],
+ ['Cierre en el mes', 'La empresa paga', 'Comisión', 'Ingreso ese mes'],
  ['3 cupos de plan empresa', m(3 * CUPO), m(3 * CUPO * COM), m(3_500_000) + ' (meses 1-3) · ' + m(3 * CUPO * COM + 2_000_000) + ' después'],
  ['5 cupos', m(5 * CUPO), m(5 * CUPO * COM), m(5 * CUPO * COM + 2_000_000)],
  ['10 cupos', m(10 * CUPO), m(10 * CUPO * COM), m(10 * CUPO * COM + 2_000_000)],
  ['15 cupos (desde el mes 7)', m(15 * CUPO), m(15 * CUPO * COM), m(15 * CUPO * COM + 2_549_095)],
  ['Un grupo cerrado de 15 (' + m(4_350_000) + ' c/u)', m(15 * 4_350_000), m(15 * 4_350_000 * COM), m(15 * 4_350_000 * COM + 2_000_000)],
  ], [5.6 * cm, 3.6 * cm, 3.2 * cm, W - 12.4 * cm], bold_col=3, shade_rows=(4,)),
- P('<b>Y tu cartera se suma a todo esto:</b> 10 estudiantes de tus alianzas pagando cuotas de ' + m(450_000) + ' te dejan ' + m(270_000) + ' cada mes, y 30 estudiantes, ' + m(810_000) + ' cada mes, mientras estudian. Cada alianza que activas sigue pagándote. Si la empresa paga a cuotas, tu comisión llega a medida que paga.', 'note')]))
+ P('<b>La cartera se suma a todo esto:</b> 10 estudiantes de las alianzas pagando cuotas de ' + m(450_000) + ' generan ' + m(270_000) + ' de comisión cada mes, y 30 estudiantes, ' + m(810_000) + ' cada mes, mientras estudian. Cada alianza activa sigue generando comisión. Si la empresa paga a cuotas, la comisión se liquida a medida que paga.', 'note')]))
 
-# ---------- 6. Tu crecimiento ----------
-E.append(KeepTogether([P('Tu crecimiento', 'h2'),
+# ---------- 6. Plan de crecimiento ----------
+E.append(KeepTogether([P('Plan de crecimiento', 'h2'),
  tabla([
  ['Etapa', 'Básico', 'Meta del mes', 'Ingreso con la meta'],
  ['Meses 1 a 3', 'Mínimo legal vigente + auxilio (' + m(2_000_000) + ' en 2026)', 'Construir la base (ver indicadores)', 'Desde ' + m(3_500_000) + ' garantizado'],
@@ -129,9 +129,9 @@ E.append(KeepTogether([P('Tu crecimiento', 'h2'),
  ['Meses 7 a 12', 'Mínimo vigente + ' + m(550_000) + ' + auxilio (' + m(2_550_000) + ' en 2026)', '15 cupos', m(9_720_000)],
  ['Año 2', 'Mínimo vigente + ' + m(850_000) + ' + auxilio (' + m(2_850_000) + ' en 2026)', '15 a 20 cupos', m(10_000_000) + ' a ' + m(12_400_000)],
  ], [2.8 * cm, 4.8 * cm, 4.2 * cm, W - 11.8 * cm], bold_col=3, shade_rows=(3, 4)),
- P('Valores calculados con el salario mínimo y el auxilio de transporte de 2026. Cada enero se ajustan al decreto del Gobierno: el básico de cada etapa nunca queda por debajo del mínimo legal vigente más el auxilio, y los ingresos de la tabla suben en la misma proporción. Los aumentos de etapa son por resultados, no por calendario: se pasa a la siguiente etapa cuando se cumplió la meta en al menos 2 de los 3 meses anteriores. No incluyen tu cartera de alianzas.', 'note')]))
+ P('Valores calculados con el salario mínimo y el auxilio de transporte de 2026. Cada enero se ajustan al decreto del Gobierno: el básico de cada etapa nunca queda por debajo del mínimo legal vigente más el auxilio, y los ingresos de la tabla suben en la misma proporción. Los aumentos de etapa son por resultados, no por calendario: se pasa a la siguiente etapa cuando se cumplió la meta en al menos 2 de los 3 meses anteriores. No incluyen la cartera de alianzas.', 'note')]))
 
-# ---------- 7. Lo que esperamos ----------
+# ---------- 7. Lo que buscamos ----------
 E.append(KeepTogether([P('Lo que buscamos en la persona que se una al equipo', 'h2'),
  P('Un ritmo de dirección comercial: dos empresas nuevas con quien decide, cada día. En los tres primeros meses, estos son los indicadores de gestión que respaldan el ingreso mínimo de ' + m(3_500_000) + ':'),
  tabla([
@@ -140,17 +140,17 @@ E.append(KeepTogether([P('Lo que buscamos en la persona que se una al equipo', '
  ['Mes 2', '40 empresas · 12 reuniones · 3 activaciones', '4 firmas acumuladas · 5 cupos corporativos'],
  ['Mes 3', '40 empresas · 12 reuniones · 3 activaciones', '6 firmas acumuladas · 10 cupos acumulados'],
  ], [2.0 * cm, 8.6 * cm, W - 10.6 * cm], bold_col=0),
- P('Desde el mes 4 se mantienen como indicador de cada mes las 40 empresas y las 12 reuniones, junto con la meta de cupos; y cada alianza activa debe tener al menos una activación por trimestre (la alianza que pasa un trimestre sin actividad deja de contar). Cada contacto, reunión, activación, firma y cupo se registra con su prueba en el tablero el mismo día; las definiciones exactas te las entregamos en la inducción. Una alianza que no se activa en 30 días no cuenta como firma.', 'note')]))
+ P('Desde el mes 4 se mantienen como indicador de cada mes las 40 empresas y las 12 reuniones, junto con la meta de cupos; y cada alianza activa debe tener al menos una activación por trimestre (la alianza que pasa un trimestre sin actividad deja de contar). Cada contacto, reunión, activación, firma y cupo se registra con su prueba en el tablero el mismo día; las definiciones exactas se entregan en la inducción. Una alianza que no se activa en 30 días no cuenta como firma.', 'note')]))
 
-# ---------- 8. Reglas claras ----------
-E.append(KeepTogether([P('Reglas claras que te protegen', 'h2'),
- LI('<b>Tus empresas son tuyas:</b> la que registras primero en el tablero es tuya.'),
- LI('<b>Tu cartera es tuya:</b> el estudiante que llega con la carta de postulación de tu empresa aliada te paga el 6% mes a mes, aunque la matrícula la haga una asesora.'),
- LI('<b>No compites con las asesoras:</b> lo que llega por anuncios y WhatsApp es de ellas; lo que abres afuera es tuyo.'),
- LI('<b>Gerencia firma contigo:</b> cada convenio y cada orden. Tú cierras; nosotras respaldamos.')]))
+# ---------- 8. Reglas ----------
+E.append(KeepTogether([P('Reglas de atribución y cartera', 'h2'),
+ LI('<b>Empresas registradas:</b> la empresa que el cargo registra primero en el tablero queda a su nombre.'),
+ LI('<b>Cartera propia:</b> el estudiante que llega con la carta de postulación de una empresa aliada genera el 6% mes a mes para el cargo, aunque la matrícula la haga una asesora.'),
+ LI('<b>Canales separados:</b> lo que llega por anuncios y WhatsApp es del equipo de asesoría; lo que se abre en campo es del cargo.'),
+ LI('<b>Firma de gerencia:</b> cada convenio y cada orden los firma gerencia; el cargo cierra y la academia respalda.')]))
 
-# ---------- 9. Lo que te damos ----------
-E.append(KeepTogether([P('Lo que tienes desde el día uno', 'h2'),
+# ---------- 9. Herramientas ----------
+E.append(KeepTogether([P('Herramientas desde el primer día', 'h2'),
  LI('El convenio de alianza, la orden de plan empresa y la tabla de precios, listos para firmar.'),
  LI('Un producto que se puede mostrar: academia presencial con licencia de la Secretaría de Educación desde 2012 y garantía de aprendizaje por escrito, la única academia presencial de Bucaramanga que la firma.'),
  LI('Clases de muestra y diagnósticos de inglés para activar a las empresas, dictados por el equipo académico.')]))
