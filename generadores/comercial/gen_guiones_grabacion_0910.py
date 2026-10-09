@@ -33,6 +33,25 @@ def guion(num, titulo, prioridad, vende, quien, dura, escena, texto, pantalla, c
 p = d.add_paragraph(); r = p.add_run('GUIONES — JORNADA DE GRABACIÓN 09/10/2026'); r.bold = True; r.font.size = Pt(15); r.font.color.rgb = NAR
 para('Venden el SERVICIO, no el producto: garantía por escrito, profesor que entrena (coach), acompañamiento diario, y un plan con fecha de llegada. Reglas del calendario: gancho de destino, sin precio ni nombre del programa, nunca "fácil", "rápido" ni "gratis"; caras de profes, estudiantes con cláusula de imagen y coordinación; nunca gerencia. Verticales (9:16), 20-30 segundos, subtítulos grandes. Cada guion abre con un GANCHO de 2 segundos (imagen + texto grande) que es lo que detiene el dedo; la clase, el profe o el contrato son la prueba que viene después. Cierre siempre a WhatsApp. GRUPO DISPONIBLE EL 09/10: un grupo de B1/B2 de 5 estudiantes; 3 de ellos empezaron de cero (A1) en Heiiu y tienen video de entrada en el portafolio: son los protagonistas de los guiones 2 y 6.', color=GRIS, size=9.5, after=8)
 
+h('QUÉ VAMOS A LOGRAR CON ESTOS VIDEOS', 12)
+para('Una sola pregunta: ¿qué hace que un desconocido en Bucaramanga pida cita por una academia que no vende fácil? Cada pieza es una hipótesis distinta; del 15 al 31/10 corren con el mismo presupuesto, cada una en su propio conjunto de anuncios, y se miden tres números por pieza: costo por conversación, costo por cita atendida y citas. La que gane se queda con la pauta de noviembre y define el mensaje de todo (agente, flyers, asesoras); las demás se apagan.', after=4)
+tb = d.add_table(rows=1, cols=3); tb.style = 'Table Grid'
+for j, t in enumerate(['Pieza', 'Hipótesis que prueba', 'Gana si…']):
+    c = tb.rows[0].cells[j]; r = c.paragraphs[0].add_run(t); r.bold = True; r.font.size = Pt(9)
+for fila in [
+ ['6 "El video de hoy" + 2 "Esto es una clase"', 'PRUEBA: ver gente real hablando convierte más que cualquier promesa (lo que dice el cliente que compró en otra parte: "no me importa la garantía si veo que los que muestran hablan").', 'Menor costo por cita de todas.'],
+ ['4 "Siete meses"', 'VELOCIDAD CON NÚMERO: "7 meses, 575 horas" compite con el "rápido" de Open English y E4CC sin mentir; nadie más publica horas.', 'Costo por cita igual o menor que las de prueba, y leads que ya no preguntan "¿cuánto dura?".'],
+ ['3 "La vacante"', 'DESTINO TRABAJO AQUÍ: el gancho de empleo trae las conversaciones más baratas (dato propio: destino cuesta la mitad que producto).', 'Más conversaciones baratas, aunque conviertan menos a cita.'],
+ ['8 "El pasaporte"', 'DESTINO IRSE (Au Pair, Work and Travel, Europa): la conversación más barata de la base, sin confundirse con agencia de empleo.', 'Conversaciones baratas que SÍ contestan al agente (hoy 3 de 5 creen que es una agencia).'],
+ ['1 "Te lo firmamos"', 'GARANTÍA COMO CIERRE, no como gancho: en retargeting (quien ya vio otra pieza o preguntó precio) sube la tasa de cita. Es donde está la rotura real: 284 preguntaron precio, 21 agendaron.', 'Entre los que ya preguntaron precio, más citas que sin ella.'],
+ ['5 "El Pacto"', 'FILTRO: decir "no es fácil" trae menos leads pero más citas atendidas (menos "no contesta").', 'Menos leads, mayor % que contesta y asiste a la cita.'],
+ ['7 "Su hijo a los 18"', 'PADRES: abre el grupo de la tarde y el sabatino con un comprador distinto (el acudiente).', 'Citas con acudiente para la franja 1:30-6:00.'],
+]:
+    row = tb.add_row().cells
+    for j, v in enumerate(fila):
+        r = row[j].paragraphs[0].add_run(v); r.font.size = Pt(9); r.bold = (j == 0)
+para('Lo que NO se prueba porque ya se sabe que no diferencia: "fácil", "gratis", descuento, nombre del programa, miedo ("¿te congelas?"), profesores nativos.', size=9.5, color=GRIS, after=8)
+
 h('ORDEN DE GRABACIÓN (prioridad)', 12)
 for t in ['1. GUION 6 "El video de hoy" (los 3 que empezaron de cero: día 1 vs. hoy) y GUION 2 "Esto es una clase": estudiantes reales hablando. Es la prueba que más convierte en compras caras (investigación 08/10) y lo que ningún avatar ni competidor puede mostrar.',
           '2. GUION 4 "Siete meses": velocidad con número (575 h, 7 meses). Ningún competidor publica sus horas.',
