@@ -38,7 +38,8 @@ for t in ['1. GUION 6 "El video de hoy" (los 3 que empezaron de cero: día 1 vs.
           '2. GUION 4 "Siete meses": velocidad con número (575 h, 7 meses). Ningún competidor publica sus horas.',
           '3. GUION 3 "La vacante": el destino #1 de la base.',
           '4. GUION 1 "Te lo firmamos": la garantía va DESPUÉS del precio (bot, cita, retargeting), no como gancho de alcance. Se graba igual.',
-          '5. Si hay tiempo: GUION 5 "El Pacto" (filtro, poco volumen), GUION 7 "Su hijo a los 18".']:
+          '5. GUION 8 "El pasaporte": el destino de irse (Au Pair / Work and Travel / Europa), la conversación más barata.',
+          '6. Si hay tiempo: GUION 5 "El Pacto" (filtro, poco volumen), GUION 7 "Su hijo a los 18".']:
     para(t, after=2)
 
 guion(1, 'TE LO FIRMAMOS', 'PRIORITARIO', 'La garantía por escrito, legible y fácil de cobrar. OJO: siempre "única academia PRESENCIAL de Bucaramanga" (las plataformas online E4CC y EF sí tienen garantía escrita; Wall Street ya no opera en la ciudad). Y la nuestra cabe en 3 líneas.',
@@ -116,6 +117,17 @@ guion(7, 'SU HIJO A LOS 18', 'ALTERNO (para el grupo de la tarde y el sabatino)'
       '"Pregúntenos qué horario le sirve a su hijo. Escríbanos." Botón: WhatsApp.',
       'El grupo de la tarde está "en apertura": el anuncio no promete horario fijo; el agente captura la franja.',
       gancho='Texto grande sobre jóvenes en clase: "A los 18, con el inglés resuelto."')
+
+guion(8, 'EL PASAPORTE', 'PRIORITARIO (destino: irse)', 'El destino #2 de la base: Au Pair, Work and Travel, Europa. Sin prometer familia, visa ni empleo: la entrevista es en inglés y aquí se ensaya.',
+      'Simulación real del grupo B1/B2: entrevista con una familia o un empleador del exterior, un estudiante responde, otro hace de entrevistador. Luego un profe a cámara.', '25-30 s',
+      'Dos segundos de la entrevista en inglés; 8 segundos más de la simulación; profe a cámara; cierre.',
+      ['(simulación: "Tell me about yourself. Why do you want to live with a family abroad?")',
+       'Profe: Au Pair, Work and Travel, Europa: ninguno te recibe por querer irte. Te reciben porque pasas la entrevista. Y la entrevista es en inglés.',
+       'Aquí la ensayamos hasta que la contestas sin pensar.'],
+      '"El inglés es el pasaporte" · "Entrevista real en clase"',
+      '"Cuéntanos a dónde quieres ir y te decimos qué nivel te pide. Escríbenos." Botón: WhatsApp.',
+      'Prohibido: "te conseguimos la familia / la visa / el empleo", nombres de agencias, países con salario prometido. Es preparación para la entrevista, no colocación. Prueba la hipótesis destino "irse" contra destino "trabajo aquí" (guion 3).',
+      gancho='Estudiante a cámara, en inglés, respondiendo "Tell me about yourself". Texto grande: "La familia te entrevista en inglés antes de elegirte."')
 
 h('CHECKLIST DEL DÍA DE GRABACIÓN', 12)
 for t in ['• Vertical 9:16, subtítulos grandes desde el primer segundo, sin música encima de la voz en los guiones 1, 5 y 6.',
