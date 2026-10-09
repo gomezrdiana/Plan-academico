@@ -67,7 +67,7 @@ E = []
 E.append(P('HEIIU ENGLISH ACADEMY · PROPUESTA DE VINCULACIÓN', 'kicker'))
 E.append(P('Ejecutiva de Alianzas Empresariales', 'h1'))
 E.append(P('Para Angyber Aguilera Fonseca', 'sub'))
-E.append(caja([P('Las empresas de Bucaramanga necesitan gente que hable inglés, y la mayoría no tiene cómo formarla. Nosotros tenemos el programa, la licencia y una garantía de aprendizaje por escrito. Lo que nos falta es quien abra esas puertas. <b>Ese canal no existe todavía en Heiiu: lo construyes tú, y es tuyo.</b>'),
+E.append(caja([P('Las empresas de Bucaramanga necesitan gente que hable inglés, y la mayoría no tiene cómo formarla. Nosotros tenemos el programa, la licencia y una garantía de aprendizaje por escrito. Lo que nos falta es quien abra esas puertas. <b>Ese canal no existe todavía en Heiiu: buscamos a la persona que lo construya y lo haga suyo.</b>'),
               P('Tú vienes de dirigir alianzas, convenios y equipos comerciales. Aquí no vas a empezar de cero: las ofertas, los contratos y los precios ya están escritos. Tu trabajo es llevarlos a las empresas y convertirlos en estudiantes.')]))
 E.append(Spacer(1, 10))
 E.append(tarjetas([('10%', 'de lo que paga cada empresa<br/>por los cupos de su gente'), ('6%', 'mes a mes, de cada estudiante<br/>que entra por tu alianza'), (m(3_500_000), 'ingreso garantizado en tus<br/>3 primeros meses (con mínimos)'), ('Planta', 'contrato laboral desde el día uno,<br/>con todas las prestaciones')]))
