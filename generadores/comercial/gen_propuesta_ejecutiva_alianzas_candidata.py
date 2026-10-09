@@ -135,12 +135,12 @@ E.append(KeepTogether([P('Tu crecimiento', 'h2'),
 E.append(KeepTogether([P('Lo que buscamos en la persona que se una al equipo', 'h2'),
  P('Un ritmo de dirección comercial: dos empresas nuevas con quien decide, cada día. En los tres primeros meses, estos son los indicadores de gestión que respaldan el ingreso mínimo de ' + m(3_500_000) + ':'),
  tabla([
- ['Mes', 'Mínimos'],
- ['Mes 1', '40 empresas contactadas con quien decide · 12 reuniones · 3 activaciones · 2 firmas (convenio o plan)'],
- ['Mes 2', '4 firmas acumuladas · 5 cupos corporativos · 3 activaciones'],
- ['Mes 3', '6 firmas acumuladas · 10 cupos acumulados'],
- ], [2.4 * cm, W - 2.4 * cm], bold_col=0),
- P('Cada contacto, reunión, activación, firma y cupo se registra con su prueba en el tablero el mismo día; las definiciones exactas te las entregamos en la inducción. Una alianza que no se activa en 30 días no cuenta como firma.', 'note')]))
+ ['Mes', 'Gestión (cada mes)', 'Resultados'],
+ ['Mes 1', '40 empresas contactadas con quien decide · 12 reuniones · 3 activaciones', '2 firmas (convenio o plan)'],
+ ['Mes 2', '40 empresas · 12 reuniones · 3 activaciones', '4 firmas acumuladas · 5 cupos corporativos'],
+ ['Mes 3', '40 empresas · 12 reuniones · 3 activaciones', '6 firmas acumuladas · 10 cupos acumulados'],
+ ], [2.0 * cm, 8.6 * cm, W - 10.6 * cm], bold_col=0),
+ P('Desde el mes 4 la gestión base (40 empresas, 12 reuniones y 3 activaciones al mes) se mantiene como indicador de cada mes, junto con la meta de cupos. Cada contacto, reunión, activación, firma y cupo se registra con su prueba en el tablero el mismo día; las definiciones exactas te las entregamos en la inducción. Una alianza que no se activa en 30 días no cuenta como firma.', 'note')]))
 
 # ---------- 8. Reglas claras ----------
 E.append(KeepTogether([P('Reglas claras que te protegen', 'h2'),

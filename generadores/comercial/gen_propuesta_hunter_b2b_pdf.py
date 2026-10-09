@@ -85,11 +85,11 @@ E.append(KeepTogether([P('La escalera: mínimos, metas, fijo e ingreso suben con
  tabla([
  ['Etapa', 'Fijo', 'Mínimo para el piso', 'Meta', 'Gana si cumple la meta'],
  ['Mes 1', '$2.000.000 (mínimo legal)', '40 empresas contactadas con decisor (2 por día) · 12 reuniones · 3 activaciones · 2 firmas (convenio o plan)', '3 firmas', '$3.500.000 (piso)'],
- ['Mes 2', '$2.000.000', '4 firmas acumuladas · 5 cupos corporativos · 3 activaciones', '6 cupos', '$3.500.000 (piso; 6 cupos = $2.9M de comisión)'],
- ['Mes 3', '$2.000.000', '6 firmas acumuladas · 10 cupos acumulados', '10 cupos', '$6.780.000 (básico + 10 cupos)'],
- ['Meses 4 a 6', '$2.000.000', '—', '10 cupos o $48M de recaudo corporativo', '$6.780.000'],
- ['Meses 7 a 12', 'Mínimo vigente + $550.000 + auxilio ($2.550.000 en 2026)', '—', '15 cupos o $72M', '$9.720.000'],
- ['Año 2', 'Mínimo vigente + $850.000 + auxilio ($2.850.000 en 2026)', '—', '15 a 20 cupos', '$10.000.000 a $12.400.000'],
+ ['Mes 2', '$2.000.000', '40 empresas · 12 reuniones · 3 activaciones + 4 firmas acumuladas · 5 cupos corporativos', '6 cupos', '$3.500.000 (piso; 6 cupos = $2.9M de comisión)'],
+ ['Mes 3', '$2.000.000', '40 empresas · 12 reuniones · 3 activaciones + 6 firmas acumuladas · 10 cupos acumulados', '10 cupos', '$6.780.000 (básico + 10 cupos)'],
+ ['Meses 4 a 6', '$2.000.000', 'Gestión base cada mes: 40 empresas · 12 reuniones · 3 activaciones (sin piso)', '10 cupos o $48M de recaudo corporativo', '$6.780.000'],
+ ['Meses 7 a 12', 'Mínimo vigente + $550.000 + auxilio ($2.550.000 en 2026)', 'Gestión base cada mes', '15 cupos o $72M', '$9.720.000'],
+ ['Año 2', 'Mínimo vigente + $850.000 + auxilio ($2.850.000 en 2026)', 'Gestión base cada mes', '15 a 20 cupos', '$10.000.000 a $12.400.000'],
  ], [2.4 * cm, 3.6 * cm, 5.4 * cm, 3.0 * cm, W - 14.4 * cm], bold_col=4, shade_rows=(4, 5)),
  P('Se sube de etapa (y de básico) cuando cumplió la meta en al menos 2 de los 3 meses anteriores. La cartera del 6% de las alianzas se suma a todo lo anterior. Comisiones y básico pagan prestaciones y seguridad social; el mínimo y el auxilio se ajustan cada enero por decreto.', 'note')]))
 
