@@ -17,7 +17,7 @@ st = {
  'kicker': ParagraphStyle('kicker', fontName='CalB', fontSize=10, textColor=GRIS, leading=13, spaceAfter=2),
  'h1': ParagraphStyle('h1', fontName='CalB', fontSize=24, textColor=NAR, leading=28, spaceAfter=6),
  'sub': ParagraphStyle('sub', fontName='Cal', fontSize=11.5, textColor=CAFE, leading=15, spaceAfter=10),
- 'h2': ParagraphStyle('h2', fontName='CalB', fontSize=14, textColor=NAR, leading=17, spaceBefore=8, spaceAfter=5),
+ 'h2': ParagraphStyle('h2', fontName='CalB', fontSize=14, textColor=NAR, leading=17, spaceBefore=6, spaceAfter=4),
  'p': ParagraphStyle('p', fontName='Cal', fontSize=10, textColor=CAFE, leading=13.5, spaceAfter=5),
  'big': ParagraphStyle('big', fontName='CalB', fontSize=22, textColor=NAR, leading=26, alignment=1),
  'bigl': ParagraphStyle('bigl', fontName='Cal', fontSize=9.5, textColor=GRIS, leading=12, alignment=1),
@@ -83,7 +83,7 @@ for t in ['<b>Prospección y relacionamiento:</b> identificar empresas y fundaci
     E.append(LI(t))
 
 # ---------- 3. Lo que vendes ----------
-E.append(KeepTogether([P('Lo que llevas a las empresas (ya está construido)', 'h2'),
+E.extend(([P('Lo que llevas a las empresas', 'h2'),
  tabla([
  ['Oferta', 'Qué recibe la empresa', 'Qué ganas tú'],
  ['A. Alianza sin costo', 'Firma un convenio estándar. Sus colaboradores entran con beca del Fondo (columna Transformación) y la empresa entrega 3 becas con su nombre por trimestre. A la empresa no le cuesta nada: es un beneficio para su gente.', '<b>6% de lo que pague cada estudiante</b> que entre por esa alianza, mes a mes, durante todo su programa. Esa es tu cartera: crece con cada alianza activa.'],
@@ -134,7 +134,7 @@ E.append(KeepTogether([P('Lo que esperamos de ti los tres primeros meses', 'h2')
  ['Mes 2', '4 firmas acumuladas · 5 cupos corporativos · 3 activaciones'],
  ['Mes 3', '6 firmas acumuladas · 10 cupos acumulados'],
  ], [2.4 * cm, W - 2.4 * cm], bold_col=0),
- P('Qué cuenta: <b>contacto</b> = hablaste con quien puede firmar (no la recepción); <b>reunión</b> = presentación de 20 minutos o más con quien decide; <b>activación</b> = la alianza hizo algo que trae estudiantes (charla, postulación, feria); <b>firma</b> = convenio firmado, u orden de plan empresa firmada con la inicial pagada; <b>cupo</b> = cada colaborador de una orden pagada. Todo con su prueba en el tablero el mismo día. Una alianza que no se activa en 30 días no cuenta como firma.', 'note')]))
+ P('Cada contacto, reunión, activación, firma y cupo se registra con su prueba en el tablero el mismo día; las definiciones exactas te las entregamos en la inducción. Una alianza que no se activa en 30 días no cuenta como firma.', 'note')]))
 
 # ---------- 8. Reglas claras ----------
 E.append(KeepTogether([P('Reglas claras que te protegen', 'h2'),
@@ -147,17 +147,14 @@ E.append(KeepTogether([P('Reglas claras que te protegen', 'h2'),
 E.append(KeepTogether([P('Lo que tienes desde el día uno', 'h2'),
  LI('El convenio de alianza, la orden de plan empresa y la tabla de precios, listos para firmar.'),
  LI('Un producto que se puede mostrar: academia presencial con licencia de la Secretaría de Educación desde 2012 y garantía de aprendizaje por escrito, la única academia presencial de Bucaramanga que la firma.'),
- LI('Clases de muestra y diagnósticos de inglés para activar a las empresas, dictados por el equipo académico.'),
- LI('Tablero de alianzas para ver tu avance y tu cartera cada semana.'),
- LI('Gerencia a tu lado en las reuniones grandes y en cada firma.')]))
+ LI('Clases de muestra y diagnósticos de inglés para activar a las empresas, dictados por el equipo académico.')]))
 
 # ---------- 10. Próximos pasos ----------
-E.append(KeepTogether([P('Próximos pasos', 'h2'),
+E.extend(([P('Próximos pasos', 'h2'),
  P('<b>1. Conversación de 40 minutos.</b> Me presentas la alianza como si yo fuera la gerente de una empresa de 40 empleados. Es para ver cómo lo harías, no un examen.'),
  P('<b>2. Documentos:</b> contrato laboral con este esquema de ingreso como anexo, y el acuerdo de reglas de cartera.'),
  P('<b>3. Fecha de inicio</b> y tu primera semana: inducción del producto, tu lista de empresas objetivo y tus primeras citas.'),
- Spacer(1, 8),
- caja([P('<b>Queremos construir este canal contigo.</b> Si las empresas de esta ciudad empiezan a formar a su gente en inglés con nosotros, va a ser porque alguien les abrió la puerta. Esa persona puedes ser tú.', 'p'),
-       P('Gerencia · Heiiu English Academy', 'note')])]))
+ Spacer(1, 4),
+ caja([P('<b>Queremos construir este canal contigo.</b> Si las empresas de esta ciudad empiezan a formar a su gente en inglés con nosotros, será porque alguien les abrió la puerta. Esa persona puedes ser tú. <font color="#6B6B6B">— Gerencia, Heiiu English Academy</font>', 'p')])]))
 
 doc.build(E, onFirstPage=pie, onLaterPages=pie); print('OK', out)
