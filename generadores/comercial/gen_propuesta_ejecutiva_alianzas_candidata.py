@@ -79,7 +79,8 @@ for t in ['<b>Prospección y relacionamiento:</b> identificar empresas y fundaci
           '<b>Presentación de la propuesta de valor:</b> exponer las dos modalidades de vinculación (alianza sin costo y plan empresa) en reuniones ejecutivas.',
           '<b>Negociación y cierre:</b> formalizar convenios y órdenes de plan empresa dentro de las condiciones comerciales establecidas, con firma de gerencia.',
           '<b>Activación de alianzas:</b> coordinar charlas, diagnósticos de nivel y clases de muestra que conviertan cada convenio en estudiantes matriculados.',
-          '<b>Seguimiento y reporte:</b> mantener actualizado el tablero de alianzas (gestión, resultados y cartera) para la revisión semanal con gerencia.']:
+          '<b>Seguimiento y reporte:</b> mantener actualizado el tablero de alianzas (gestión, resultados y cartera) para la revisión semanal con gerencia.',
+          '<b>Desarrollo de nuevas oportunidades:</b> a partir de lo que escuchas en el mercado, proponer a gerencia nuevos programas, formatos y líneas de expansión (sectores, ciudades, convocatorias públicas o de cooperación).']:
     E.append(LI(t))
 
 # ---------- 3. Lo que vendes ----------
