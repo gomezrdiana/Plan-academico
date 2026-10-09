@@ -67,15 +67,15 @@ E = []
 E.append(P('HEIIU ENGLISH ACADEMY · PROPUESTA DE VINCULACIÓN', 'kicker'))
 E.append(P('Ejecutiva de Alianzas Empresariales', 'h1'))
 E.append(P('Para Angyber Aguilera Fonseca', 'sub'))
-E.append(caja([P('Las empresas de Bucaramanga necesitan gente que hable inglés, y la mayoría no tiene cómo formarla. Nosotros tenemos el programa, la licencia y una garantía de aprendizaje por escrito. Lo que nos falta es quien abra esas puertas. <b>Ese canal no existe todavía en Heiiu: buscamos a la persona que lo construya y lo haga suyo.</b>'),
+E.append(caja([P('Las empresas de Bucaramanga necesitan gente que hable inglés, y no solo dentro de su equipo. Con sus programas de bienestar, con beneficios para las familias de sus colaboradores o a través de sus fundaciones, pueden aportar a la educación de su comunidad: formar personas en inglés para abrirles oportunidades. Nosotros tenemos el programa, la licencia y una garantía de aprendizaje por escrito. Lo que nos falta es quien abra esas puertas. <b>Ese canal no existe todavía en Heiiu: buscamos a la persona que lo construya y lo haga suyo.</b>'),
               P('Tú vienes de dirigir alianzas, convenios y equipos comerciales. Aquí no vas a empezar de cero: las ofertas, los contratos y los precios ya están escritos. Tu trabajo es llevarlos a las empresas y convertirlos en estudiantes.')]))
 E.append(Spacer(1, 10))
 E.append(tarjetas([('10%', 'de lo que paga cada empresa<br/>por los cupos de su gente'), ('6%', 'mes a mes, de cada estudiante<br/>que entra por tu alianza'), (m(3_500_000), 'ingreso garantizado en tus<br/>3 primeros meses (con mínimos)'), ('Planta', 'contrato laboral desde el día uno,<br/>con todas las prestaciones')]))
 
 # ---------- 2. Tu trabajo ----------
 E.append(P('Tu trabajo', 'h2'))
-E.append(P('Abrir empresas y activarlas. <b>No atiendes citas ni mensajes de WhatsApp</b>: eso lo hacen las asesoras. Tú estás afuera, con los gerentes, en talento humano, en bienestar, en las ferias.'))
-for t in ['<b>Contactas</b> a quien decide: gerente, dueño, talento humano o bienestar.',
+E.append(P('Abrir empresas y activarlas. <b>No atiendes citas ni mensajes de WhatsApp</b>: eso lo hacen las asesoras. Tú estás afuera, con los gerentes, en talento humano, en bienestar, en las fundaciones, en las ferias.'))
+for t in ['<b>Contactas</b> a quien decide: gerente, dueño, talento humano, bienestar o la fundación de la empresa.',
           '<b>Presentas</b> las dos ofertas en una reunión de 20 minutos.',
           '<b>Cierras</b> el convenio o la orden de plan empresa (gerencia firma).',
           '<b>Activas</b> la alianza: charla de 20 minutos en la empresa, diagnóstico de inglés al equipo, una clase de muestra. Una firma que no se activa no produce.',
