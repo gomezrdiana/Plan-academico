@@ -70,7 +70,7 @@ E.append(P('Canal corporativo e institucional · Bucaramanga y área metropolita
 E.append(caja([P('Las empresas de Bucaramanga necesitan gente que hable inglés, y no solo dentro de su equipo. Con sus programas de bienestar, con beneficios para las familias de sus colaboradores o a través de sus fundaciones, pueden aportar a la educación de su comunidad: formar personas en inglés para abrirles oportunidades. Heiiu tiene el programa, la licencia y una garantía de aprendizaje por escrito. <b>Buscamos a la persona que construya este canal y lo haga suyo.</b>'),
               P('El cargo requiere experiencia en alianzas estratégicas, convenios y dirección comercial: llevar las ofertas de Heiiu a las empresas y convertirlas en estudiantes.')]))
 E.append(Spacer(1, 6))
-E.append(tarjetas([('10%', 'de lo que paga cada empresa<br/>por los cupos de su gente'), ('6%', 'mes a mes, de cada estudiante<br/>que entra por la alianza'), ('$3.5M', 'ingreso mínimo garantizado los<br/>3 primeros meses (con indicadores)')], w=5.6))
+E.append(tarjetas([('10%', 'de lo que paga cada empresa<br/>por los cupos de su gente'), ('6%', 'mes a mes el primer año<br/>de cada estudiante de la alianza'), ('$3.5M', 'ingreso mínimo garantizado los<br/>3 primeros meses (con indicadores)')], w=5.6))
 
 # ---------- 2. El rol ----------
 E.append(P('El rol', 'h2'))
@@ -92,7 +92,7 @@ E.append(PageBreak())
 E.extend(([P('Lo que se lleva a las empresas', 'h2'),
  tabla([
  ['Oferta', 'Qué recibe la empresa', 'Comisión del cargo'],
- ['A. Alianza sin costo', 'Firma un convenio estándar. Sus colaboradores entran con beca del Fondo (columna Transformación): el programa completo, que vale ' + m(8_696_000) + ', les queda desde ' + m(4_782_800) + '. Además, la empresa entrega 3 becas con su nombre por trimestre. A la empresa no le cuesta nada: es un beneficio para su gente.', '<b>6% de lo que pague cada estudiante</b> que entre por esa alianza, mes a mes, durante todo su programa. Es la cartera del cargo: crece con cada alianza activa.'],
+ ['A. Alianza sin costo', 'Firma un convenio estándar. Sus colaboradores entran con beca del Fondo (columna Transformación): el programa completo, que vale ' + m(8_696_000) + ', les queda desde ' + m(4_782_800) + '. Además, la empresa entrega 3 becas con su nombre por trimestre. A la empresa no le cuesta nada: es un beneficio para su gente.', '<b>6% de lo que pague cada estudiante</b> que entre por esa alianza durante su primer año, y 3% durante el segundo. Es la cartera del cargo: crece con cada alianza activa.'],
  ['B. Plan empresa', 'La empresa paga los cupos de su gente con tarifa corporativa por volumen, sobre un precio de lista de ' + m(8_696_000) + ' por persona: de 3 a 7 cupos, ' + m(4_782_800) + ' cada uno; de 8 a 15, ' + m(4_350_000) + '; de 16 a 30, ' + m(3_950_000) + ' con grupo cerrado en la sede o en la empresa.', '<b>10% de lo que pague la empresa</b> el primer año. Un plan de 5 cupos deja ' + m(5 * CUPO * COM) + '; un grupo cerrado de 16, ' + m(16 * 3_950_000 * COM) + '.'],
  ], [3.4 * cm, 7.2 * cm, W - 10.6 * cm], bold_col=0),
  P('Todos estos valores ya traen el descuento sobre el precio de lista (' + m(8_696_000) + ' el programa completo, 575 horas, de cero a B2): por eso no hay descuentos adicionales que negociar. El convenio y la orden de plan empresa están escritos y son estándar. Más de 30 cupos se cotizan con gerencia.', 'note')]))
@@ -118,18 +118,36 @@ E.append(KeepTogether([P('Proyección comisional (pagos de contado)', 'h2'),
  ['15 cupos (desde el mes 7)', m(15 * CUPO), m(15 * CUPO * COM), m(15 * CUPO * COM + 2_549_095)],
  ['Un grupo cerrado de 15 (' + m(4_350_000) + ' c/u)', m(15 * 4_350_000), m(15 * 4_350_000 * COM), m(15 * 4_350_000 * COM + 2_000_000)],
  ], [5.6 * cm, 3.6 * cm, 3.2 * cm, W - 12.4 * cm], bold_col=3, shade_rows=(4,)),
- P('<b>La cartera se suma a todo esto:</b> 10 estudiantes de las alianzas pagando cuotas de ' + m(450_000) + ' generan ' + m(270_000) + ' de comisión cada mes, y 30 estudiantes, ' + m(810_000) + ' cada mes, mientras estudian. Cada alianza activa sigue generando comisión. Si la empresa paga a cuotas, la comisión se liquida a medida que paga.', 'note')]))
+ P('<b>La cartera se suma a todo esto:</b> 10 estudiantes de las alianzas pagando cuotas de ' + m(450_000) + ' generan ' + m(270_000) + ' de comisión cada mes, y 30 estudiantes, ' + m(810_000) + ' cada mes, mientras estudian. Cada estudiante genera 6% el primer año y 3% el segundo; por eso el ingreso grande depende de seguir abriendo alianzas. Si la empresa paga a cuotas, la comisión se liquida a medida que paga.', 'note')]))
 
 # ---------- 6. Plan de crecimiento ----------
-E.append(KeepTogether([P('Plan de crecimiento', 'h2'),
+E.append(KeepTogether([P('Plan de crecimiento: metas trimestrales', 'h2'),
+ P('La meta se mide en <b>ventas firmadas</b> (valor total de los contratos con la inicial pagada: plan empresa, cupos y programas personalizados, de contado o a cuotas) y se evalúa <b>por trimestre</b>. Sube cada trimestre según este calendario, pactado desde la firma; nunca según lo vendido en el periodo anterior.'),
  tabla([
- ['Etapa', 'Básico', 'Meta del mes', 'Ingreso con la meta'],
- ['Meses 1 a 3', 'Mínimo legal vigente + auxilio (' + m(2_000_000) + ' en 2026)', 'Construir la base (ver indicadores)', 'Desde ' + m(3_500_000) + ' garantizado'],
- ['Meses 4 a 6', 'Mínimo legal vigente + auxilio', '10 cupos', m(6_780_000)],
- ['Meses 7 a 12', 'Mínimo vigente + ' + m(550_000) + ' + auxilio (' + m(2_550_000) + ' en 2026)', '15 cupos', m(9_720_000)],
- ['Año 2', 'Mínimo vigente + ' + m(850_000) + ' + auxilio (' + m(2_850_000) + ' en 2026)', '15 a 20 cupos', m(10_000_000) + ' a ' + m(12_400_000)],
- ], [2.8 * cm, 4.8 * cm, 4.2 * cm, W - 11.8 * cm], bold_col=3, shade_rows=(3, 4)),
- P('Valores calculados con el salario mínimo y el auxilio de transporte de 2026. Cada enero se ajustan al decreto del Gobierno: el básico de cada etapa nunca queda por debajo del mínimo legal vigente más el auxilio, y los ingresos de la tabla suben en la misma proporción. Los aumentos de etapa son por resultados, no por calendario: se pasa a la siguiente etapa cuando se cumplió la meta en al menos 2 de los 3 meses anteriores. No incluyen la cartera de alianzas.', 'note')]))
+ ['Trimestre', 'Meses', 'Meta (ventas al mes)', 'Básico', 'Ingreso con la meta*'],
+ ['T1', '1-3', m(48_000_000) + ' en el trimestre (rampa) + indicadores de gestión', 'Mínimo vigente + auxilio', 'Desde ' + m(3_500_000)],
+ ['T2', '4-6', m(48_000_000), 'Mínimo vigente + auxilio', m(6_800_000)],
+ ['T3', '7-9', m(66_000_000), 'Mínimo + ' + m(550_000) + ' + auxilio', m(9_150_000)],
+ ['T4', '10-12', m(78_000_000), 'Mínimo + ' + m(550_000) + ' + auxilio', m(10_350_000)],
+ ['T5', '13-15', m(84_000_000), 'Mínimo + ' + m(850_000) + ' + auxilio', m(11_250_000)],
+ ['T6', '16-18', m(92_000_000), 'Mínimo + ' + m(850_000) + ' + auxilio', m(12_050_000)],
+ ['T7', '19-21', m(100_000_000), 'Mínimo + ' + m(850_000) + ' + auxilio', m(12_850_000)],
+ ['T8', '22-24', m(108_000_000), 'Mínimo + ' + m(850_000) + ' + auxilio', m(13_650_000)],
+ ['Desde T9', '25 en adelante', 'La del trimestre anterior + 2,5%', 'Se revisa cada año', '—'],
+ ], [2.0 * cm, 2.2 * cm, 4.0 * cm, 4.4 * cm, W - 12.6 * cm], bold_col=4, shade_rows=(5, 6, 7, 8)),
+ P('*Básico más 10% de comisión sobre la meta, con pagos de contado y valores de 2026; no incluye acelerador ni cartera. El mínimo y el auxilio se ajustan cada enero según el decreto del Gobierno. El básico sube de escalón cuando se cumple la meta en al menos 2 de los 3 últimos trimestres. Los contratos firmados con inicial pagada cuentan para la meta aunque el grupo inicie después: la capacidad (salones, profesores, horarios) es responsabilidad de la academia.', 'note')]))
+
+E.append(KeepTogether([P('Acelerador por sobrecumplimiento (sin tope)', 'h2'),
+ tabla([
+ ['Ventas del trimestre frente a la meta', 'Comisión sobre lo que entra en ese tramo'],
+ ['Hasta el 100%', '10%'],
+ ['Del 100% al 130%', '15%'],
+ ['Más del 130%', '20%'],
+ ], [8.2 * cm, W - 8.2 * cm], bold_col=0),
+ P('El acelerador aplica en los trimestres con al menos 2 empresas nuevas firmadas con inicial pagada: premia abrir mercado, no solo crecer cuentas existentes. Ejemplo con meta trimestral de ' + m(252_000_000) + ': si se firman ' + m(360_000_000) + ', la comisión pasa de ' + m(36_000_000) + ' a ' + m(43_000_000) + ' en el trimestre.', 'note')]))
+
+E.append(KeepTogether([P('Proyección del cargo', 'h2'),
+ P('Con resultados sostenidos, el cargo puede crecer hacia la coordinación de un equipo comercial corporativo o liderar la apertura de nuevas sedes y mercados, de acuerdo con la evolución del canal y las decisiones de gerencia.')]))
 
 # ---------- 7. Lo que buscamos ----------
 E.append(KeepTogether([P('Lo que buscamos en la persona que se una al equipo', 'h2'),
@@ -137,15 +155,15 @@ E.append(KeepTogether([P('Lo que buscamos en la persona que se una al equipo', '
  tabla([
  ['Mes', 'Gestión (cada mes)', 'Resultados'],
  ['Mes 1', '40 empresas contactadas con quien decide · 12 reuniones · 3 activaciones', '2 firmas (convenio o plan)'],
- ['Mes 2', '40 empresas · 12 reuniones · 3 activaciones', '4 firmas acumuladas · 5 cupos corporativos'],
- ['Mes 3', '40 empresas · 12 reuniones · 3 activaciones', '6 firmas acumuladas · 10 cupos acumulados'],
+ ['Mes 2', '40 empresas · 12 reuniones · 3 activaciones', '4 firmas acumuladas · 5 cupos (≈' + m(24_000_000) + ' en ventas)'],
+ ['Mes 3', '40 empresas · 12 reuniones · 3 activaciones', '6 firmas acumuladas · 10 cupos (≈' + m(48_000_000) + ' en ventas acumuladas)'],
  ], [2.0 * cm, 8.6 * cm, W - 10.6 * cm], bold_col=0),
  P('Desde el mes 4 se mantienen como indicador de cada mes las 40 empresas y las 12 reuniones, junto con la meta de cupos; y cada alianza activa debe tener al menos una activación por trimestre (la alianza que pasa un trimestre sin actividad deja de contar). Cada contacto, reunión, activación, firma y cupo se registra con su prueba en el tablero el mismo día; las definiciones exactas se entregan en la inducción. Una alianza que no se activa en 30 días no cuenta como firma.', 'note')]))
 
 # ---------- 8. Reglas ----------
 E.append(KeepTogether([P('Reglas de atribución y cartera', 'h2'),
  LI('<b>Empresas registradas:</b> la empresa que el cargo registra primero en el tablero queda a su nombre.'),
- LI('<b>Cartera propia:</b> el estudiante que llega con la carta de postulación de una empresa aliada genera el 6% mes a mes para el cargo, aunque la matrícula la haga una asesora.'),
+ LI('<b>Cartera propia:</b> el estudiante que llega con la carta de postulación de una empresa aliada genera para el cargo el 6% de sus pagos el primer año y el 3% el segundo, aunque la matrícula la haga una asesora. La cartera no cuenta para la meta.'),
  LI('<b>Canales separados:</b> lo que llega por anuncios y WhatsApp es del equipo de asesoría; lo que se abre en campo es del cargo.'),
  LI('<b>Firma de gerencia:</b> cada convenio y cada orden los firma gerencia; el cargo cierra y la academia respalda.')]))
 

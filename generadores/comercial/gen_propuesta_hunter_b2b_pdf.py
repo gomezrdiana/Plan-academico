@@ -58,12 +58,12 @@ E.append(P('Abre y activa alianzas y planes empresa. No atiende citas de WhatsAp
 E.append(P('La idea en una frase', 'h2'))
 E.append(P('Contrato laboral desde el día uno con el <b>mínimo legal: $2.000.000</b> (salario $1.750.905 + auxilio de transporte $249.095, decretos 1469 y 1470 de 2025). Comisiona desde la primera venta. Durante los tres primeros meses, <b>en cada mes que cumpla los mínimos</b> de actividad y resultado, le garantizamos un ingreso total de <b>$3.500.000</b>: si su básico más comisiones no llega, se le completa; si lo supera, recibe lo que produjo. <b>Si en un mes no cumple los mínimos, no hay $3.500.000</b>: recibe el mínimo legal más sus comisiones y entra en carta de ampliación. El básico sube en el mes 7 y en el año 2 por resultados.'))
 E.append(Spacer(1, 4))
-E.append(tarjetas([('10%', 'del recaudo corporativo<br/>(plan empresa)'), ('6%', 'del recaudo de cada estudiante<br/>que llega por su alianza'), ('$3.5M', 'piso de arranque<br/>meses 1, 2 y 3'), ('$2.0M', 'mínimo legal siempre<br/>(salario + auxilio)')]))
+E.append(tarjetas([('10%', 'del recaudo corporativo<br/>(plan empresa)'), ('6%→3%', 'del recaudo de cada estudiante<br/>que llega por su alianza'), ('$3.5M', 'piso de arranque<br/>meses 1, 2 y 3'), ('$2.0M', 'mínimo legal siempre<br/>(salario + auxilio)')]))
 
 E.append(P('Qué vende (las dos ofertas que ya existen)', 'h2'))
 E.append(tabla([
  ['Oferta', 'Qué es', 'Qué le paga a ella'],
- ['A. Alianza sin costo (Heiiu Business Partner)', 'La empresa firma el convenio estándar: sus colaboradores entran con carta a la columna Transformación y la empresa entrega 3 Becas [Empresa] por trimestre. La empresa no paga nada.', '6% del recaudo de cada estudiante que se matricule por esa alianza, mes a mes mientras paga (su cartera). El cierre del estudiante lo hace la asesora; la cartera es de ella.'],
+ ['A. Alianza sin costo (Heiiu Business Partner)', 'La empresa firma el convenio estándar: sus colaboradores entran con carta a la columna Transformación y la empresa entrega 3 Becas [Empresa] por trimestre. La empresa no paga nada.', '6% del recaudo de cada estudiante que se matricule por esa alianza durante su primer año y 3% el segundo (su cartera). El cierre del estudiante lo hace la asesora; la cartera es de ella.'],
  ['B. Plan empresa', 'La empresa paga cupos de sus colaboradores a tarifa corporativa por volumen, escrita: de 3 a 7 cupos $4.782.800 cada uno; de 8 a 15, $4.350.000 (grupo cerrado en la sede desde 12); de 16 a 30, $3.950.000 (grupo cerrado en la sede o en la empresa). Ella cierra los tres tramos con la orden estándar y gerencia firma; más de 30 cupos lo cotiza gerencia con ella.', f'10% del recaudo corporativo del primer año en todos los tramos: ${CUPO*COM_B2B:,.0f} por cupo del tramo 1 de contado; un grupo cerrado de 16 cupos (${16*3_950_000:,.0f}) le deja ${16*3_950_000*COM_B2B:,.0f}.'],
  ['Activación', 'Una alianza firmada no vale hasta que produce: charla de 20 minutos en la empresa, diagnóstico de inglés al equipo, Experience Class. Es parte de su trabajo.', 'No paga por sí misma; es lo que convierte la firma en matrículas.'],
 ], [3.6 * cm, 6.6 * cm, W - 10.2 * cm], bold_col=0))
@@ -80,18 +80,19 @@ E.append(KeepTogether([P('Cuánto gana según lo que produzca (de contado)', 'h2
  ], [5.6 * cm, 3.6 * cm, 3.6 * cm, W - 12.8 * cm], bold_col=2, shade_rows=(3, 4)),
  P('Los cupos a cuotas pagan la comisión a medida que la empresa paga (40% inicial + 3 cuotas en los tramos 2 y 3). Un plan de 5 cupos (~$24 millones) le deja $2.4 millones; dos planes así al mes ya la ponen por encima de $6 millones con el básico.', 'note')]))
 
-E.append(KeepTogether([P('La escalera: mínimos, metas, fijo e ingreso suben con la antigüedad', 'h2'),
+E.append(KeepTogether([P('La escalera: metas trimestrales crecientes, fijo e ingreso', 'h2'),
  P('Los mínimos de los meses 1-3 dan derecho al piso de $3.500.000; si no los cumple, recibe el mínimo legal más lo que haya comisionado. Todo se registra a diario en el tablero de alianzas (cinco minutos al cierre del día) y gerencia lo revisa todos los días. Dos reuniones fijas de 30 minutos por semana: lunes (plan de la semana: empresas y reuniones) y jueves (resultados contra la meta del mes y ajustes). No se cancelan: si una se mueve, se repone ese mismo día.'),
  tabla([
  ['Etapa', 'Fijo', 'Mínimo para el piso', 'Meta', 'Gana si cumple la meta'],
  ['Mes 1', '$2.000.000 (mínimo legal)', '40 empresas contactadas con decisor (2 por día) · 12 reuniones · 3 activaciones · 2 firmas (convenio o plan)', '3 firmas', '$3.500.000 (piso)'],
  ['Mes 2', '$2.000.000', '40 empresas · 12 reuniones · 3 activaciones + 4 firmas acumuladas · 5 cupos corporativos', '6 cupos', '$3.500.000 (piso; 6 cupos = $2.9M de comisión)'],
- ['Mes 3', '$2.000.000', '40 empresas · 12 reuniones · 3 activaciones + 6 firmas acumuladas · 10 cupos acumulados', '10 cupos', '$6.780.000 (básico + 10 cupos)'],
- ['Meses 4 a 6', '$2.000.000', 'Gestión cada mes: 40 empresas · 12 reuniones · cada alianza activa con 1 activación por trimestre (sin piso)', '10 cupos o $48M de recaudo corporativo', '$6.780.000'],
- ['Meses 7 a 12', 'Mínimo vigente + $550.000 + auxilio ($2.550.000 en 2026)', 'Gestión base cada mes', '15 cupos o $72M', '$9.720.000'],
- ['Año 2', 'Mínimo vigente + $850.000 + auxilio ($2.850.000 en 2026)', 'Gestión base cada mes', '15 a 20 cupos', '$10.000.000 a $12.400.000'],
+ ['Mes 3', '$2.000.000', '40 empresas · 12 reuniones · 3 activaciones + 6 firmas acumuladas · 10 cupos acumulados (≈$48M de ventas en el T1)', '10 cupos', '$6.780.000 (básico + 10 cupos)'],
+ ['T2 (meses 4-6)', 'Mínimo vigente + auxilio', 'Gestión base cada mes (40 empresas · 12 reuniones · 1 activación por alianza por trimestre); sin piso', '$48M de ventas al mes', '$6.800.000'],
+ ['T3 (7-9) · T4 (10-12)', 'Mínimo + $550.000 + auxilio ($2.550.000 en 2026)', 'Gestión base cada mes', '$66M · $78M', '$9.150.000 · $10.350.000'],
+ ['T5 a T8 (meses 13-24)', 'Mínimo + $850.000 + auxilio ($2.850.000 en 2026)', 'Gestión base cada mes', '$84M · $92M · $100M · $108M', '$11.250.000 a $13.650.000'],
+ ['Desde T9 (mes 25)', 'Se revisa cada año', 'Gestión base cada mes', 'Trimestre anterior + 2,5% (~10% al año), salvo otrosí', '—'],
  ], [2.4 * cm, 3.6 * cm, 5.4 * cm, 3.0 * cm, W - 14.4 * cm], bold_col=4, shade_rows=(4, 5)),
- P('Se sube de etapa (y de básico) cuando cumplió la meta en al menos 2 de los 3 meses anteriores. La cartera del 6% de las alianzas se suma a todo lo anterior. Comisiones y básico pagan prestaciones y seguridad social; el mínimo y el auxilio se ajustan cada enero por decreto.', 'note')]))
+ P('Meta en ventas firmadas (contratos con inicial pagada: plan empresa, cupos, personalizados; contado o cuotas), evaluada por TRIMESTRE y creciente por calendario pactado (nunca según lo vendido antes: castiga al que rinde, Misra & Nair 2011). Sube de básico si cumple la meta en 2 de los 3 últimos trimestres. ACELERADOR sin tope: 10% hasta la meta, 15% del 100 al 130%, 20% sobre 130%, solo en trimestres con al menos 2 empresas nuevas firmadas. CARTERA decreciente por estudiante: 6% el primer año, 3% el segundo, 0% después; no cuenta para la meta. Contratos firmados que no se puedan iniciar por capacidad cuentan para la meta (se alquilan salones). Todo pactado en el anexo desde la firma: cambiarlo después exige otrosí (SL1183-2018). Comisiones y básico pagan prestaciones y seguridad social; el mínimo y el auxilio se ajustan cada enero por decreto.', 'note')]))
 
 E.append(KeepTogether([P('Qué cuenta y qué no (definiciones del tablero)', 'h2'),
  P('Cada término se registra en el tracker el mismo día, con su prueba; lo que no está en el tracker no existe. Una alianza que no activa en 30 días deja de contar como firma para los mínimos.'),
