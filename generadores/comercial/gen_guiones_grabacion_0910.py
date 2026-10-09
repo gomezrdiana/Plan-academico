@@ -18,8 +18,9 @@ def para(t, size=10.5, color=None, italic=False, after=4):
         if not part: continue
         r = p.add_run(part[2:-2] if part.startswith('**') else part); r.bold = part.startswith('**'); r.italic = italic; r.font.size = Pt(size)
         if color: r.font.color.rgb = color
-def guion(num, titulo, prioridad, vende, quien, dura, escena, texto, pantalla, cta, nota=None, gancho=None):
-    h(f'GUION {num} — {titulo}   [{prioridad}]', 12.5, 14)
+def guion(num, titulo, prioridad, vende, quien, dura, escena, texto, pantalla, cta, nota=None, gancho=None, codigo=None, prellenado=None):
+    h(f'GUION {num} — {titulo}   [{prioridad}]' + (f'   · anuncio {codigo}' if codigo else ''), 12.5, 14)
+    if prellenado: para(f'**Mensaje prellenado del botón de WhatsApp:** "{prellenado}"', after=2)
     if gancho: para(f'**GANCHO (segundos 0-2, lo que para el dedo):** {gancho}', after=2)
     para(f'**Qué vende:** {vende}', after=2)
     para(f'**Quién habla:** {quien}   ·   **Duración:** {dura}', after=2)
@@ -50,6 +51,7 @@ for fila in [
     row = tb.add_row().cells
     for j, v in enumerate(fila):
         r = row[j].paragraphs[0].add_run(v); r.font.size = Pt(9); r.bold = (j == 0)
+para('Cómo se lee (investigación Meta 08/10): con ~75 conversaciones en 17 días, el costo por cita por video no va a ser estadísticamente sólido; la lectura temprana se hace con tasa de gancho (vistas de 3 s ÷ impresiones), reproducción completa, CTR y costo por conversación. Ningún video se declara ganador con menos de 5 citas, y ninguno se apaga antes del corte del 22/10.', size=9.5, color=GRIS, after=2)
 para('Lo que NO se prueba porque ya se sabe que no diferencia: "fácil", "gratis", descuento, nombre del programa, miedo ("¿te congelas?"), profesores nativos.', size=9.5, color=GRIS, after=8)
 
 h('ORDEN DE GRABACIÓN (prioridad)', 12)
@@ -70,7 +72,8 @@ guion(1, 'TE LO FIRMAMOS', 'PRIORITARIO', 'La garantía por escrito, legible y f
       '"GARANTÍA DE APRENDIZAJE POR ESCRITO" · "Única academia presencial de Bucaramanga que la firma · sin letra pequeña"',
       '"Escríbenos y te mostramos el contrato antes de que decidas." Botón: WhatsApp.',
       'Que el contrato real se vea legible en el plano cerrado (cláusula de garantía). Sin cifras de precio en cuadro. Esta pieza se usa en retargeting (quien ya vio otro anuncio o preguntó precio): ahí es donde la garantía decide.',
-      gancho='Jacqueline levanta el contrato a cámara. Texto grande: "Si no aprendes, te devolvemos el 100%. Firmado."')
+      gancho='Jacqueline levanta el contrato a cámara. Texto grande: "Si cumples y no avanzas, te devolvemos el 100%. Firmado."',
+      codigo='V6_GARANTIA', prellenado='Hola, vi el video de la garantía (V6). ¿Me muestran el contrato?')
 
 guion(2, 'ESTO ES UNA CLASE', 'PRIORITARIO', 'El método visto: estudiantes hablando desde la primera clase, el profesor como coach, no como conferencista.',
       'Nadie a cámara: se graba la simulación real del grupo B1/B2 (entrevista de trabajo o reclamo a un proveedor), estudiantes de pie; protagonista uno de los 3 que empezó de cero en Heiiu. Voz del profe corrigiendo en vivo. Al final, el profe dice UNA frase a cámara.', '25-30 s',
@@ -80,18 +83,20 @@ guion(2, 'ESTO ES UNA CLASE', 'PRIORITARIO', 'El método visto: estudiantes habl
       '"Empezó de cero en Heiiu" (solo sobre los 3 que sí) · "Clase de B1, 7:00 PM" (nivel y hora reales) · "Hablas desde el primer día"',
       '"¿Quieres ver una clase así por dentro? Escríbenos." Botón: WhatsApp.',
       'Solo estudiantes con cláusula de imagen firmada y avisados ese día. Sin nombres en pantalla. Nunca poner cuánto tiempo lleva si no es el dato real del estudiante.',
-      gancho='Segundo 0: el estudiante de pie, a mitad de una frase en inglés, con el profe diciendo "Again. Louder." Texto grande: "Empezó de cero aquí. Escúchalo." Alternativa: "¿Cuánto llevas en: estoy aprendiendo inglés?"')
+      gancho='Segundo 0: el estudiante de pie, a mitad de una frase en inglés, con el profe diciendo "Again. Louder." Texto grande: "Empezó de cero aquí. Escúchalo." (Nunca ganchos que le atribuyan una carencia al que mira: política de Meta.)',
+      codigo='V2_CLASE', prellenado='Hola, vi el video de la clase (V2). Quiero ver una por dentro.')
 
 guion(3, 'LA VACANTE', 'PRIORITARIO', 'El destino #1 de la base: trabajo. Sin prometer empleo: el inglés quita la excusa.',
       'Un profe (Tomás o Juan Diego), a cámara, en el aula, sentado en el borde del escritorio. Tono directo, sin sonrisa de comercial.', '20 s',
       'Plano medio fijo. Al final, corte a 2 segundos de una simulación de entrevista de trabajo en clase.',
-      ['¿Cuántas vacantes has dejado pasar porque decían "inglés intermedio"?',
-       'El inglés no te da el puesto. Te quita la excusa que hoy te lo cierra.',
-       'Aquí entrenamos esa entrevista hasta que la haces sin pensar.'],
-      '"La vacante que hoy pasas de largo" · "Entrenamos la entrevista en clase"',
+      ['Hay vacantes que dicen "inglés intermedio". Ese renglón deja a mucha gente por fuera.',
+       'El inglés no da el puesto. Quita el requisito que lo cierra.',
+       'Aquí entrenamos esa entrevista hasta que se contesta sin pensar.'],
+      '"La vacante decía: inglés intermedio" · "Entrenamos la entrevista en clase"',
       '"Cuéntanos para qué necesitas el inglés y te decimos por dónde empezar. Escríbenos." Botón: WhatsApp.',
       'Nunca "consigue trabajo" ni "aplica a vacantes". Es preparación, no empleo.',
-      gancho='Texto grande sobre el profe mirando a cámara en silencio 1 segundo: "Decía: inglés intermedio. Y la cerraste."')
+      gancho='Texto grande sobre el profe mirando a cámara en silencio 1 segundo: "La vacante decía: inglés intermedio." (En tercera persona, no "tú no sabes": política de atributos personales de Meta.)',
+      codigo='V4_VACANTE', prellenado='Hola, vi el video de la vacante (V4). Necesito el inglés para el trabajo.')
 
 guion(4, 'SIETE MESES', 'PRIORITARIO', 'Velocidad con número: 575 h (estándar Cambridge para B2) en 7 meses. Es el único "rápido" verificable del mercado; los demás dicen "2x" o "10 meses" sin publicar horas.',
       'Profe a cámara, con el tablero detrás donde escribe (de verdad, en el momento) "575 h" y "7 meses".', '25 s',
@@ -102,7 +107,8 @@ guion(4, 'SIETE MESES', 'PRIORITARIO', 'Velocidad con número: 575 h (estándar 
       '"B2 = 575 horas" · "2 h/semana = 5 años" · "Aquí: 7 meses"',
       '"Pregúntanos qué fecha te queda. Escríbenos." Botón: WhatsApp.',
       'El "7 meses" aplica al súper intensivo de 4 h; en la noche son ~14 meses: no mezclar. Sin precio. Versión nocturna del cierre: "dos horas cada noche, catorce meses".',
-      gancho='El profe escribe en el tablero un "5 AÑOS" grande y lo tacha. Texto: "Lo que tarda el inglés a 2 horas por semana."')
+      gancho='El profe escribe en el tablero un "5 AÑOS" grande y lo tacha. Texto: "Lo que tarda el inglés a 2 horas por semana." Política: "7 meses" es descripción del programa; jamás "garantizado que hablas en 7 meses".',
+      codigo='V3_575H', prellenado='Hola, vi el video de los 7 meses (V3). ¿Qué jornada me sirve?')
 
 guion(5, 'EL PACTO', 'ALTERNO', 'La venta honesta: qué prometemos y qué no. Atrae al que va en serio y espanta al que busca "fácil" (y eso baja los leads que no contestan).',
       'Profe (Angie o Cristian) a cámara, en el aula, muy cerca, hablando bajo.', '25-30 s',
@@ -113,7 +119,8 @@ guion(5, 'EL PACTO', 'ALTERNO', 'La venta honesta: qué prometemos y qué no. At
       '"Lo que NO te prometemos" → "Lo que SÍ te firmamos"',
       '"Si vas en serio, escríbenos." Botón: WhatsApp.',
       'Es la pieza que más filtra: menos conversaciones, mejores. Medir costo por CITA, no por lead.',
-      gancho='Profe muy cerca, bajo: "No te voy a decir que es fácil." Texto grande: "Lo que NO te prometemos".')
+      gancho='Profe muy cerca, bajo: "No te voy a decir que es fácil." Texto grande: "Lo que NO te prometemos".',
+      codigo='V7_NOESFACIL', prellenado='Hola, vi el video de lo que no prometen (V7). Voy en serio.')
 
 guion(6, 'EL VIDEO DE HOY', 'PRIORITARIO', 'El acompañamiento diario: cada estudiante graba un video corto todos los días y el profe le dice qué mejorar. Antes y después real.',
       'Uno de los 3 estudiantes del grupo que empezó de cero en Heiiu (cláusula de imagen + autorización escrita para usar sus dos videos): 5 segundos de su video de entrada en A1 (día 1) y 5 segundos hablando hoy en B1 (grabado mañana o de su portafolio reciente). Luego el profe a cámara.', '25-30 s',
@@ -124,7 +131,8 @@ guion(6, 'EL VIDEO DE HOY', 'PRIORITARIO', 'El acompañamiento diario: cada estu
       '"Día 1" · "Hoy (hace ___ meses)" · "Un video al día. Un profesor que lo revisa."',
       '"¿Quieres que te acompañen así? Escríbenos." Botón: WhatsApp.',
       'Solo con autorización escrita del estudiante para usar sus dos videos. Si se puede, grabar los 3 (tres piezas distintas con el mismo guion: Meta premia conceptos y caras distintas).',
-      gancho='Segundo 0: su video de entrada, nervioso, sin poder terminar la frase. Texto grande: "Día 1." Corte seco al de hoy hablando de corrido: "Hoy."')
+      gancho='Segundo 0: su video de entrada, nervioso, sin poder terminar la frase. Texto grande: "Día 1." Corte seco al de hoy hablando de corrido: "Hoy." VERSIÓN B (testimonio, el formato con mejor tasa de acierto según Motion 2026): el mismo estudiante a cámara, en español, 5 segundos: "Empecé de cero hace ___ meses" (dato real) y luego 5 segundos hablando en inglés.',
+      codigo='V1_VIDEODEHOY', prellenado='Hola, vi el video del antes y después (V1). Quiero saber más.')
 
 guion(7, 'SU HIJO A LOS 18', 'ALTERNO (para el grupo de la tarde y el sabatino)', 'Padres: el inglés resuelto antes de la universidad, y la disciplina que se entrena aquí.',
       'Coordinación (Jacqueline) a cámara, en la recepción, hablando a un papá o mamá. Si hay un padre voluntario con cláusula, mejor él.', '25 s',
@@ -135,7 +143,8 @@ guion(7, 'SU HIJO A LOS 18', 'ALTERNO (para el grupo de la tarde y el sabatino)'
       '"Desde los 12 años" · "Tarde · noche · sábados" · "Garantía por escrito"',
       '"Pregúntenos qué horario le sirve a su hijo. Escríbanos." Botón: WhatsApp.',
       'El grupo de la tarde está "en apertura": el anuncio no promete horario fijo; el agente captura la franja.',
-      gancho='Texto grande sobre jóvenes en clase: "A los 18, con el inglés resuelto."')
+      gancho='Texto grande sobre jóvenes en clase: "A los 18, con el inglés resuelto."',
+      codigo='V8_PADRES', prellenado='Hola, vi el video para padres (V8). Es para mi hijo/a.')
 
 guion(8, 'EL PASAPORTE', 'PRIORITARIO (destino: irse)', 'El destino #2 de la base: Au Pair, Work and Travel, Europa. Sin prometer familia, visa ni empleo: la entrevista es en inglés y aquí se ensaya.',
       'Simulación real del grupo B1/B2: entrevista con una familia o un empleador del exterior, un estudiante responde, otro hace de entrevistador. Luego un profe a cámara.', '25-30 s',
@@ -143,13 +152,15 @@ guion(8, 'EL PASAPORTE', 'PRIORITARIO (destino: irse)', 'El destino #2 de la bas
       ['(simulación: "Tell me about yourself. Why do you want to live with a family abroad?")',
        'Profe: Au Pair, Work and Travel, Europa: ninguno te recibe por querer irte. Te reciben porque pasas la entrevista. Y la entrevista es en inglés.',
        'Aquí la ensayamos hasta que la contestas sin pensar.'],
-      '"El inglés es el pasaporte" · "Entrevista real en clase"',
+      '"No somos agencia. Te preparamos para la entrevista" · "El inglés es el pasaporte"',
       '"Cuéntanos a dónde quieres ir y te decimos qué nivel te pide. Escríbenos." Botón: WhatsApp.',
       'Prohibido: "te conseguimos la familia / la visa / el empleo", nombres de agencias, países con salario prometido. Es preparación para la entrevista, no colocación. Prueba la hipótesis destino "irse" contra destino "trabajo aquí" (guion 3).',
-      gancho='Estudiante a cámara, en inglés, respondiendo "Tell me about yourself". Texto grande: "La familia te entrevista en inglés antes de elegirte."')
+      gancho='Estudiante a cámara, en inglés, respondiendo "Tell me about yourself". Texto grande: "La familia te entrevista en inglés antes de elegirte." Texto del anuncio (no del video), primera línea obligatoria: "No somos agencia: te preparamos en inglés para la entrevista de Au Pair o de trabajo en el exterior. El trámite lo haces con la agencia que elijas."',
+      codigo='V5_PASAPORTE', prellenado='Hola, quiero prepararme en inglés para Au Pair / irme (V5).')
 
 h('CHECKLIST DEL DÍA DE GRABACIÓN', 12)
-for t in ['• Vertical 9:16, subtítulos grandes desde el primer segundo, sin música encima de la voz en los guiones 1, 5 y 6.',
+for t in ['• Vertical 9:16, subtítulos grandes desde el primer segundo, sin música encima de la voz en los guiones 1, 5 y 6. Texto y subtítulos dentro de la ZONA SEGURA de Reels (ni en el 14% superior ni en el 35% inferior de la pantalla); audio siempre (Meta: video 9:16 con audio y texto en zona segura = 34,5% menos costo por resultado que imágenes).',
+          '• Cada video lleva su código de anuncio (V1-V8) y su mensaje prellenado (están en cada guion): el editor nombra el archivo con el código.',
           '• Cláusula de imagen firmada por cada estudiante que aparezca; avisarles antes de la clase. Sin nombres en pantalla.',
           '• Prohibido en pantalla y en voz: precio, "Arranque", "A1 intensivo", "descuento", "gratis", "fácil", "rápido" sin número, "bilingüe", "consigue trabajo", "duplica tu salario", "profesores nativos", "única academia con garantía" sin la palabra PRESENCIAL (las online E4CC y EF la tienen), fecha de inicio de cohorte.',
           '• Cierre de todos: botón de WhatsApp (los anuncios nuevos van a clic-a-WhatsApp para que el agente los reciba; los de formulario llevan la pregunta de motivo).',
