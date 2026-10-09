@@ -155,12 +155,4 @@ E.append(KeepTogether([P('Lo que tienes desde el día uno', 'h2'),
  LI('Un producto que se puede mostrar: academia presencial con licencia de la Secretaría de Educación desde 2012 y garantía de aprendizaje por escrito, la única academia presencial de Bucaramanga que la firma.'),
  LI('Clases de muestra y diagnósticos de inglés para activar a las empresas, dictados por el equipo académico.')]))
 
-# ---------- 10. Próximos pasos ----------
-E.extend(([P('Próximos pasos', 'h2'),
- P('<b>1. Conversación de 40 minutos.</b> Me presentas la alianza como si yo fuera la gerente de una empresa de 40 empleados. Es para ver cómo lo harías, no un examen.'),
- P('<b>2. Documentos:</b> contrato laboral con este esquema de ingreso como anexo, y el acuerdo de reglas de cartera.'),
- P('<b>3. Fecha de inicio</b> y tu primera semana: inducción del producto, tu lista de empresas objetivo y tus primeras citas.'),
- Spacer(1, 4),
- caja([P('<b>Queremos construir este canal contigo.</b> Si las empresas de esta ciudad empiezan a formar a su gente en inglés con nosotros, será porque alguien les abrió la puerta. Esa persona puedes ser tú. <font color="#6B6B6B">— Gerencia, Heiiu English Academy</font>', 'p')])]))
-
 doc.build(E, onFirstPage=pie, onLaterPages=pie); print('OK', out)
