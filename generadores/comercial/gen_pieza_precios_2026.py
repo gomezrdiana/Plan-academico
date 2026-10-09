@@ -80,7 +80,7 @@ for i, t in enumerate(progs):
     d.text((cxp + 20, cyp), t, font=font('calibri.ttf', 22), fill=CAFE)
 
 # pie
-d.text((x0, H - 46), 'Separa tu cupo con $300.000 y congela el precio · Garantía de aprendizaje por escrito en tu contrato, sin letra pequeña', font=font('calibri.ttf', 21), fill=GRIS)
+d.text((x0, H - 46), 'Separa tu cupo con $300.000 y congela el precio · Única academia presencial de Bucaramanga con garantía de aprendizaje por escrito', font=font('calibri.ttf', 21), fill=GRIS)
 
 out = os.path.join(BASE, r'recursos\comercial\INDUCCION_COMERCIAL\PRECIOS_2026_HEIIU.png')
 try: img.save(out, optimize=True); print('OK', out)

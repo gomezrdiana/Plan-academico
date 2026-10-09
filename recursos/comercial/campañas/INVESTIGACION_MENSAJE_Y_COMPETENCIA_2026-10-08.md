@@ -7,7 +7,7 @@ Origen: objeción de una contacto de Diana ("la garantía no importa; quieren o�
 - **"Fácil" no diferencia:** lo prometen Open English, Duolingo, E4CC, Berlitz.
 - **"Rápido" sí, con número:** Cambridge estima 500-600 h guiadas para B2; las 575 h de Heiiu están en el estándar. A 2 h/semana ≈ 5 años; a 4 h/día ≈ 7 meses. Ningún competidor publica horas.
 - **La prueba visual (estudiantes hablando) convierte:** reseñas/prueba suben conversión 380% en productos caros (Spiegel, Northwestern).
-- **HALLAZGO CRÍTICO: NO decir "única con garantía por escrito".** Wall Street English (en Bucaramanga desde 2009: "aprendizaje 100% garantizado"), E4CC, EF English Live y Lingoda tienen garantías escritas con devolución. Riesgo de publicidad engañosa. Diferenciador real: **"por escrito, sin letra pequeña, 3 condiciones legibles"** (Best English Bucaramanga ya se vende como "sin letra pequeña").
+- **HALLAZGO: la frase correcta es "única academia PRESENCIAL de Bucaramanga con garantía por escrito".** E4CC, EF English Live y Lingoda (online) tienen garantías escritas; Wall Street English la tuvo en Bucaramanga desde 2009 pero ya no opera en la ciudad (confirmado por Diana 08/10). Sin la palabra "presencial" la afirmación es retable. Pendiente blindar: llamada de cliente a Smart, Colombo, Best English, Praxis, Lingui y Berlitz preguntando si tienen garantía por escrito. Añadir siempre "sin letra pequeña" (Best English ya se vende así).
 
 ## Qué prometen los competidores (textual)
 | Marca | Velocidad / facilidad | Garantía de dinero | Otros ganchos |

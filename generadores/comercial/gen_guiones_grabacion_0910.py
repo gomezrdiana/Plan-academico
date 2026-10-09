@@ -40,13 +40,13 @@ for t in ['1. GUION 2 "Esto es una clase" y GUION 6 "El video de hoy": estudiant
           '5. Si hay tiempo: GUION 5 "El Pacto" (filtro, poco volumen), GUION 7 "Su hijo a los 18".']:
     para(t, after=2)
 
-guion(1, 'TE LO FIRMAMOS', 'PRIORITARIO', 'La garantía por escrito, legible y fácil de cobrar. OJO: NUNCA decir "única" ni "nadie más": Wall Street English, E4CC y EF también tienen garantía escrita. Lo que diferencia es que la nuestra cabe en 3 líneas.',
+guion(1, 'TE LO FIRMAMOS', 'PRIORITARIO', 'La garantía por escrito, legible y fácil de cobrar. OJO: siempre "única academia PRESENCIAL de Bucaramanga" (las plataformas online E4CC y EF sí tienen garantía escrita; Wall Street ya no opera en la ciudad). Y la nuestra cabe en 3 líneas.',
       'Coordinación (Jacqueline), de pie, con el contrato impreso en la mano. Fondo: la recepción o un aula vacía con el tablero.', '20-25 s',
       'Plano medio. Al decir "aquí", muestra la hoja a cámara y señala la cláusula con el dedo. Al final, la firma de la academia en la hoja.',
       ['Todas las academias te prometen que vas a aprender inglés. Nosotros te lo firmamos.',
        'Aquí, en tu contrato, dice: si cumples con tu asistencia, tus tareas y tus evaluaciones, y no avanzas, te devolvemos el cien por ciento del nivel.',
        'No te pedimos que nos creas. Te pedimos que leas.'],
-      '"GARANTÍA DE APRENDIZAJE POR ESCRITO" · "Sin letra pequeña: 3 condiciones, las lees antes de firmar"',
+      '"GARANTÍA DE APRENDIZAJE POR ESCRITO" · "Única academia presencial de Bucaramanga que la firma · sin letra pequeña"',
       '"Escríbenos y te mostramos el contrato antes de que decidas." Botón: WhatsApp.',
       'Que el contrato real se vea legible en el plano cerrado (cláusula de garantía). Sin cifras de precio en cuadro. Esta pieza se usa en retargeting (quien ya vio otro anuncio o preguntó precio): ahí es donde la garantía decide.')
 
@@ -112,7 +112,7 @@ guion(7, 'SU HIJO A LOS 18', 'ALTERNO (para el grupo de la tarde y el sabatino)'
 h('CHECKLIST DEL DÍA DE GRABACIÓN', 12)
 for t in ['• Vertical 9:16, subtítulos grandes desde el primer segundo, sin música encima de la voz en los guiones 1, 5 y 6.',
           '• Cláusula de imagen firmada por cada estudiante que aparezca; avisarles antes de la clase. Sin nombres en pantalla.',
-          '• Prohibido en pantalla y en voz: precio, "Arranque", "A1 intensivo", "descuento", "gratis", "fácil", "rápido" sin número, "bilingüe", "consigue trabajo", "duplica tu salario", "profesores nativos", "única academia con garantía" (es falso: Wall Street, E4CC y EF la tienen), fecha de inicio de cohorte.',
+          '• Prohibido en pantalla y en voz: precio, "Arranque", "A1 intensivo", "descuento", "gratis", "fácil", "rápido" sin número, "bilingüe", "consigue trabajo", "duplica tu salario", "profesores nativos", "única academia con garantía" sin la palabra PRESENCIAL (las online E4CC y EF la tienen), fecha de inicio de cohorte.',
           '• Cierre de todos: botón de WhatsApp (los anuncios nuevos van a clic-a-WhatsApp para que el agente los reciba; los de formulario llevan la pregunta de motivo).',
           '• Grabar cada guion dos veces: una completa y una de 15 segundos (solo la frase fuerte + cierre) para pruebas.',
           '• Tomas de apoyo (10 minutos): estudiantes de pie en simulación, el tablero con la Frase del Día, el contrato de garantía en primer plano, la fachada y la recepción.',
