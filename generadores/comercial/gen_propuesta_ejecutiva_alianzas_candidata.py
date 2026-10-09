@@ -88,27 +88,28 @@ E.append(KeepTogether([P('Cómo trabajamos juntas', 'h2'),
  LI('<b>Dos reuniones fijas por semana, de 30 minutos:</b> el lunes definimos las empresas y reuniones de la semana; el jueves revisamos resultados contra la meta del mes y ajustamos.')]))
 
 # ---------- 3. Lo que vendes ----------
+E.append(PageBreak())
 E.extend(([P('Lo que llevas a las empresas', 'h2'),
  tabla([
  ['Oferta', 'Qué recibe la empresa', 'Qué ganas tú'],
- ['A. Alianza sin costo', 'Firma un convenio estándar. Sus colaboradores entran con beca del Fondo (columna Transformación) y la empresa entrega 3 becas con su nombre por trimestre. A la empresa no le cuesta nada: es un beneficio para su gente.', '<b>6% de lo que pague cada estudiante</b> que entre por esa alianza, mes a mes, durante todo su programa. Esa es tu cartera: crece con cada alianza activa.'],
- ['B. Plan empresa', 'La empresa paga los cupos de su gente con tarifa corporativa por volumen: de 3 a 7 cupos, ' + m(4_782_800) + ' cada uno; de 8 a 15, ' + m(4_350_000) + '; de 16 a 30, ' + m(3_950_000) + ' con grupo cerrado en la sede o en la empresa.', '<b>10% de lo que pague la empresa</b> el primer año. Un plan de 5 cupos te deja ' + m(5 * CUPO * COM) + '; un grupo cerrado de 16, ' + m(16 * 3_950_000 * COM) + '.'],
+ ['A. Alianza sin costo', 'Firma un convenio estándar. Sus colaboradores entran con beca del Fondo (columna Transformación): el programa completo, que vale ' + m(8_696_000) + ', les queda desde ' + m(4_782_800) + '. Además, la empresa entrega 3 becas con su nombre por trimestre. A la empresa no le cuesta nada: es un beneficio para su gente.', '<b>6% de lo que pague cada estudiante</b> que entre por esa alianza, mes a mes, durante todo su programa. Esa es tu cartera: crece con cada alianza activa.'],
+ ['B. Plan empresa', 'La empresa paga los cupos de su gente con tarifa corporativa por volumen, sobre un precio de lista de ' + m(8_696_000) + ' por persona: de 3 a 7 cupos, ' + m(4_782_800) + ' cada uno; de 8 a 15, ' + m(4_350_000) + '; de 16 a 30, ' + m(3_950_000) + ' con grupo cerrado en la sede o en la empresa.', '<b>10% de lo que pague la empresa</b> el primer año. Un plan de 5 cupos te deja ' + m(5 * CUPO * COM) + '; un grupo cerrado de 16, ' + m(16 * 3_950_000 * COM) + '.'],
  ], [3.4 * cm, 7.2 * cm, W - 10.6 * cm], bold_col=0),
- P('Los precios, el convenio y la orden de plan empresa son estándar y están escritos: no negocias descuentos, cierras. Más de 30 cupos lo cotizamos juntas con gerencia.', 'note')]))
+ P('Todos estos valores ya traen el descuento sobre el precio de lista (' + m(8_696_000) + ' el programa completo, 575 horas, de cero a B2): por eso no hay descuentos adicionales que negociar. El convenio y la orden de plan empresa están escritos y son estándar. Más de 30 cupos lo cotizamos juntas con gerencia.', 'note')]))
 
 # ---------- 4. Cómo ganas ----------
-E.append(KeepTogether([P('Cómo ganas', 'h2'),
- P('Entras con <b>contrato laboral desde el primer día</b>: salario mínimo legal más auxilio de transporte (' + m(2_000_000) + ' al mes en 2026), prestaciones y seguridad social. <b>Comisionas desde tu primera venta</b>, y tus comisiones también son salario.'),
- P('Mientras tu cartera arranca, los tres primeros meses te respaldamos: <b>en cada mes que cumplas los mínimos de trabajo, tu ingreso no baja de ' + m(3_500_000) + '</b>. Si tus comisiones lo superan, ganas lo que produjiste, sin tope.'),
+E.append(KeepTogether([P('Esquema de compensación', 'h2'),
+ P('La vinculación es mediante <b>contrato laboral desde el primer día</b>: salario mínimo legal vigente más auxilio de transporte (' + m(2_000_000) + ' mensuales en 2026; se ajusta cada enero según el decreto del Gobierno), con prestaciones sociales y seguridad social. A este básico se suma una <b>comisión variable desde el primer cierre</b>, que también constituye salario.'),
+ P('Durante los tres primeros meses, mientras se construye la cartera, la academia garantiza un <b>ingreso mínimo de ' + m(3_500_000) + '</b> en cada mes en que se cumplan los indicadores de gestión. Cuando las comisiones superan ese valor, se liquida el total generado, sin tope.'),
  tabla([
- ['En el mes…', 'Recibes'],
- ['Cumples los mínimos y lo que comisionas no llega a ' + m(3_500_000), 'Te completamos hasta ' + m(3_500_000) + '.'],
- ['Cumples los mínimos y produces más', 'Básico + todas tus comisiones, sin tope.'],
- ['No cumples los mínimos', 'Básico + tus comisiones (sin el complemento), y una semana con meta escrita para retomar.'],
+ ['En el mes', 'Compensación'],
+ ['Se cumplen los indicadores y la comisión es inferior a ' + m(3_500_000), 'Se garantiza el ingreso mínimo de ' + m(3_500_000) + '.'],
+ ['Se cumplen los indicadores y la comisión supera ese valor', 'Básico + la comisión total generada, sin tope.'],
+ ['No se alcanzan los indicadores', 'Básico + la comisión generada, y un plan de ajuste de una semana con metas concretas.'],
  ], [8.2 * cm, W - 8.2 * cm], bold_col=0)]))
 
 # ---------- 5. Cuánto puedes ganar ----------
-E.append(KeepTogether([P('Cuánto puedes ganar (pagos de contado)', 'h2'),
+E.append(KeepTogether([P('Proyección comisional (pagos de contado)', 'h2'),
  tabla([
  ['Si en el mes cierras…', 'La empresa paga', 'Tu comisión', 'Tu ingreso ese mes'],
  ['3 cupos de plan empresa', m(3 * CUPO), m(3 * CUPO * COM), m(3_500_000) + ' (meses 1-3) · ' + m(3 * CUPO * COM + 2_000_000) + ' después'],
@@ -123,16 +124,16 @@ E.append(KeepTogether([P('Cuánto puedes ganar (pagos de contado)', 'h2'),
 E.append(KeepTogether([P('Tu crecimiento', 'h2'),
  tabla([
  ['Etapa', 'Básico', 'Meta del mes', 'Ingreso con la meta'],
- ['Meses 1 a 3', m(2_000_000), 'Construir la base (ver mínimos)', 'Desde ' + m(3_500_000) + ' garantizado'],
- ['Meses 4 a 6', m(2_000_000), '10 cupos', m(6_780_000)],
- ['Meses 7 a 12', m(2_549_095) + ' (salario ' + m(2_300_000) + ' + auxilio)', '15 cupos', m(9_720_000)],
- ['Año 2', m(2_849_095) + ' (salario ' + m(2_600_000) + ' + auxilio)', '15 a 20 cupos', m(10_000_000) + ' a ' + m(12_400_000)],
+ ['Meses 1 a 3', 'Mínimo legal vigente + auxilio (' + m(2_000_000) + ' en 2026)', 'Construir la base (ver indicadores)', 'Desde ' + m(3_500_000) + ' garantizado'],
+ ['Meses 4 a 6', 'Mínimo legal vigente + auxilio', '10 cupos', m(6_780_000)],
+ ['Meses 7 a 12', 'Mínimo vigente + ' + m(550_000) + ' + auxilio (' + m(2_550_000) + ' en 2026)', '15 cupos', m(9_720_000)],
+ ['Año 2', 'Mínimo vigente + ' + m(850_000) + ' + auxilio (' + m(2_850_000) + ' en 2026)', '15 a 20 cupos', m(10_000_000) + ' a ' + m(12_400_000)],
  ], [2.8 * cm, 4.8 * cm, 4.2 * cm, W - 11.8 * cm], bold_col=3, shade_rows=(3, 4)),
- P('El básico sube por resultados, no por calendario. Y todo esto es sin contar tu cartera de alianzas.', 'note')]))
+ P('Valores calculados con el salario mínimo y el auxilio de transporte de 2026. Cada enero se ajustan al decreto del Gobierno: el básico de cada etapa nunca queda por debajo del mínimo legal vigente más el auxilio, y los ingresos de la tabla suben en la misma proporción. Los aumentos de etapa son por resultados, no por calendario, y no incluyen tu cartera de alianzas.', 'note')]))
 
 # ---------- 7. Lo que esperamos ----------
-E.append(KeepTogether([P('Lo que esperamos de ti los tres primeros meses', 'h2'),
- P('Ritmo de directora: dos empresas nuevas con quien decide, cada día. Son los mínimos que dan el respaldo de ' + m(3_500_000) + ':'),
+E.append(KeepTogether([P('Lo que buscamos en la persona que se una al equipo', 'h2'),
+ P('Un ritmo de dirección comercial: dos empresas nuevas con quien decide, cada día. En los tres primeros meses, estos son los indicadores de gestión que respaldan el ingreso mínimo de ' + m(3_500_000) + ':'),
  tabla([
  ['Mes', 'Mínimos'],
  ['Mes 1', '40 empresas contactadas con quien decide · 12 reuniones · 3 activaciones · 2 firmas (convenio o plan)'],
