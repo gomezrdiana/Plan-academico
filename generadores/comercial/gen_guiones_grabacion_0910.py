@@ -18,7 +18,7 @@ def para(t, size=10.5, color=None, italic=False, after=4):
         if not part: continue
         r = p.add_run(part[2:-2] if part.startswith('**') else part); r.bold = part.startswith('**'); r.italic = italic; r.font.size = Pt(size)
         if color: r.font.color.rgb = color
-def guion(num, titulo, prioridad, vende, quien, dura, escena, texto, pantalla, cta, nota=None, gancho=None, codigo=None, prellenado=None):
+def guion(num, titulo, prioridad, vende, quien, dura, escena, texto, pantalla, cta, nota=None, gancho=None, codigo=None, prellenado=None, corto=None):
     h(f'GUION {num} — {titulo}   [{prioridad}]' + (f'   · anuncio {codigo}' if codigo else ''), 12.5, 14)
     if prellenado: para(f'**Mensaje prellenado del botón de WhatsApp:** "{prellenado}"', after=2)
     if gancho: para(f'**GANCHO (segundos 0-2, lo que para el dedo):** {gancho}', after=2)
@@ -29,6 +29,7 @@ def guion(num, titulo, prioridad, vende, quien, dura, escena, texto, pantalla, c
     for linea in texto: para('"' + linea + '"', italic=True, after=2)
     para(f'**Texto en pantalla:** {pantalla}', after=2)
     para(f'**Cierre:** {cta}', after=2)
+    if corto: para('**VERSIÓN DE 15 SEGUNDOS (se corta en edición del mismo material; no se graba aparte):** ' + corto, after=2)
     if nota: para('Nota: ' + nota, size=9.5, color=GRIS)
 
 p = d.add_paragraph(); r = p.add_run('GUIONES — JORNADA DE GRABACIÓN 09/10/2026'); r.bold = True; r.font.size = Pt(15); r.font.color.rgb = NAR
@@ -66,26 +67,6 @@ for t in HOJA_PROFE:
     para(t, after=3)
 d.add_page_break()
 
-h('QUÉ VAMOS A LOGRAR CON ESTOS VIDEOS', 12)
-para('Una sola pregunta: ¿qué hace que un desconocido en Bucaramanga pida cita por una academia que no vende fácil? Cada pieza es una hipótesis distinta; del 15 al 31/10 corren con el mismo presupuesto, cada una en su propio conjunto de anuncios, y se miden tres números por pieza: costo por conversación, costo por cita atendida y citas. La que gane se queda con la pauta de noviembre y define el mensaje de todo (agente, flyers, asesoras); las demás se apagan.', after=4)
-tb = d.add_table(rows=1, cols=3); tb.style = 'Table Grid'
-for j, t in enumerate(['Pieza', 'Hipótesis que prueba', 'Gana si…']):
-    c = tb.rows[0].cells[j]; r = c.paragraphs[0].add_run(t); r.bold = True; r.font.size = Pt(9)
-for fila in [
- ['6 "Llegué sin una palabra" + 2 "Esto es una clase"', 'PRUEBA: ver gente real hablando convierte más que cualquier promesa (lo que dice el cliente que compró en otra parte: "no me importa la garantía si veo que los que muestran hablan").', 'Menor costo por cita de todas.'],
- ['4 "Siete meses"', 'VELOCIDAD CON NÚMERO: "7 meses, 575 horas" compite con el "rápido" de Open English y E4CC sin mentir; nadie más publica horas.', 'Costo por cita igual o menor que las de prueba, y leads que ya no preguntan "¿cuánto dura?".'],
- ['3 "La vacante"', 'DESTINO TRABAJO AQUÍ: el gancho de empleo trae las conversaciones más baratas (dato propio: destino cuesta la mitad que producto).', 'Más conversaciones baratas, aunque conviertan menos a cita.'],
- ['8 "El pasaporte"', 'DESTINO IRSE (Au Pair, Work and Travel, Europa): la conversación más barata de la base, sin confundirse con agencia de empleo.', 'Conversaciones baratas que SÍ contestan al agente (hoy 3 de 5 creen que es una agencia).'],
- ['1 "Te acompañamos (y te lo firmamos)"', 'GARANTÍA COMO CIERRE, no como gancho: en retargeting (quien ya vio otra pieza o preguntó precio) sube la tasa de cita. Es donde está la rotura real: 284 preguntaron precio, 21 agendaron.', 'Entre los que ya preguntaron precio, más citas que sin ella.'],
- ['5 "El Pacto"', 'FILTRO: decir "no es fácil" trae menos leads pero más citas atendidas (menos "no contesta").', 'Menos leads, mayor % que contesta y asiste a la cita.'],
- ['7 "El año después del colegio"', 'PADRES de jóvenes que salieron del colegio y no han entrado a la U: un comprador distinto (el acudiente) para tarde, noche y sábados.', 'Citas con acudiente de jóvenes de 17-20 años.'],
-]:
-    row = tb.add_row().cells
-    for j, v in enumerate(fila):
-        r = row[j].paragraphs[0].add_run(v); r.font.size = Pt(9); r.bold = (j == 0)
-para('Cómo se lee (investigación Meta 08/10): con ~75 conversaciones en 17 días, el costo por cita por video no va a ser estadísticamente sólido; la lectura temprana se hace con tasa de gancho (vistas de 3 s ÷ impresiones), reproducción completa, CTR y costo por conversación. Ningún video se declara ganador con menos de 5 citas, y ninguno se apaga antes del corte del 22/10.', size=9.5, color=GRIS, after=2)
-para('Lo que NO se prueba porque ya se sabe que no diferencia: "fácil", "gratis", descuento, nombre del programa, miedo ("¿te congelas?"), profesores nativos.', size=9.5, color=GRIS, after=8)
-
 h('ORDEN DE GRABACIÓN (prioridad)', 12)
 for t in ['1. GUION 6 "Llegué sin una palabra" (los 3 que empezaron de cero: confesión + inglés de hoy) y GUION 2 "Esto es una clase": estudiantes reales hablando. Es la prueba que más convierte en compras caras (investigación 08/10) y lo que ningún avatar ni competidor puede mostrar.',
           '2. GUION 4 "Siete meses": velocidad con número (575 h, 7 meses). Ningún competidor publica sus horas.',
@@ -106,6 +87,7 @@ guion(1, 'TE ACOMPAÑAMOS (Y TE LO FIRMAMOS)', 'PRIORITARIO', 'La motivación qu
       '"Escríbenos y te mostramos cómo lo hacemos, antes de decidir algo fácil que no te lleve a los resultados que necesitas." Botón: WhatsApp.',
       'El anexo real se ve legible en el plano final. Sin cifras de precio en cuadro. Esta pieza se usa en retargeting (quien ya vio otro anuncio o preguntó precio).',
       gancho='Jacqueline a cámara, sin papel todavía: "Tienes las ganas. Pero a veces te falla la motivación." Texto grande: "Las ganas no bastan."',
+      corto='0-3 s Jacqueline: "Tienes las ganas. Pero a veces te falla la motivación." (texto: "Las ganas no bastan") → 3-11 s: "Aquí tu profe es tu coach: te corrige, te pide cuentas y no te suelta. Tú pones tu parte y, si no aprendes, te devolvemos el nivel." (levanta el anexo) → 11-15 s cierre: "Escríbenos."',
       codigo='V6_GARANTIA', prellenado='Hola, vi el video del acompañamiento (V6). ¿Me muestran la garantía?')
 
 guion(2, 'ESTO ES UNA CLASE', 'PRIORITARIO', 'El método visto: estudiantes hablando desde la primera clase, el profesor como coach, no como conferencista.',
@@ -117,6 +99,7 @@ guion(2, 'ESTO ES UNA CLASE', 'PRIORITARIO', 'El método visto: estudiantes habl
       '"¿Quieres ver una clase así por dentro? Escríbenos." Botón: WhatsApp. VARIANTE DE CIERRE (grabar también): "Mándanos un audio de 30 segundos y te decimos tu nivel." (misma condición que el guion 6).',
       'Autorización de imagen: en el contrato de matrícula; grupo avisado ese día por la profe. Sin nombres en pantalla. Nunca poner cuánto tiempo lleva si no es el dato real del estudiante.',
       gancho='Segundo 0: el estudiante de pie, a mitad de una frase en inglés, con el profe diciendo "Again. Louder." Texto grande: "Empezó de cero aquí. Escúchalo." (Nunca ganchos que le atribuyan una carencia al que mira: política de Meta.)',
+      corto='0-3 s estudiante a mitad de frase + profe "Again. Louder." (texto: "Empezó de cero aquí. Escúchalo.") → 3-10 s la misma frase dicha bien + 3 s más de simulación → 10-15 s profe a cámara: "Aquí nadie copia del tablero. Hablas, te equivocas, te corregimos." + "Escríbenos."',
       codigo='V2_CLASE', prellenado='Hola, vi el video de la clase (V2). Quiero ver una por dentro.')
 
 guion(3, 'LA VACANTE', 'PRIORITARIO', 'El destino #1 de la base: trabajo. Sin prometer empleo: el inglés quita la excusa.',
@@ -129,6 +112,7 @@ guion(3, 'LA VACANTE', 'PRIORITARIO', 'El destino #1 de la base: trabajo. Sin pr
       '"Cuéntanos para qué necesitas el inglés y te decimos por dónde empezar. Escríbenos." Botón: WhatsApp. VARIANTE DE CIERRE: "Mándanos un audio de 30 segundos y te decimos tu nivel." (misma condición que el guion 6).',
       'Nunca "consigue trabajo" ni "aplica a vacantes". Es preparación, no empleo.',
       gancho='Texto grande sobre el profe mirando a cámara en silencio 1 segundo: "La vacante decía: inglés intermedio." (En tercera persona, no "tú no sabes": política de atributos personales de Meta.)',
+      corto='0-3 s fachada + texto "La vacante decía: inglés intermedio." → 3-10 s profe: "El inglés no te da el puesto. Pero sin inglés, ese puesto ni se abre." → 10-15 s 2 s de entrevista en clase + "Cuéntanos para qué necesitas el inglés. Escríbenos."',
       codigo='V4_VACANTE', prellenado='Hola, vi el video de la vacante (V4). Necesito el inglés para el trabajo.')
 
 guion(4, 'SIETE MESES', 'PRIORITARIO', 'Velocidad con número: el Marco Común Europeo estima 500-600 h guiadas para B2 (rango; varía por academia); Heiiu son 575 h en 7 meses (4 h/día) o 14 (2 h/noche). Es el único "rápido" verificable del mercado; los demás no publican horas.',
@@ -141,6 +125,7 @@ guion(4, 'SIETE MESES', 'PRIORITARIO', 'Velocidad con número: el Marco Común E
       '"Pregúntanos qué fecha te queda. Escríbenos." Botón: WhatsApp.',
       'Las dos jornadas van en la misma pieza (4 h/día = 7 meses; 2 h/noche = 14 meses) para no dejar por fuera al nocturno. Sin precio.',
       gancho='El profe escribe en el tablero un "5 AÑOS" grande y lo tacha. Texto: "Lo que tarda el inglés a 2 horas por semana." Política: "7 meses" es descripción del programa; jamás "garantizado que hablas en 7 meses".',
+      corto='0-3 s la profe tacha "5 AÑOS" en el tablero → 3-11 s: "Si estudias dos horas por semana, son cinco años. Aquí: cuatro horas al día, siete meses." (escribe "7 meses") → 11-15 s: "No es fácil. Es intenso. Pregúntanos qué fecha te queda."',
       codigo='V3_575H', prellenado='Hola, vi el video de los 7 meses (V3). ¿Qué jornada me sirve?')
 
 guion(5, 'EL PACTO', 'SE GRABA', 'La venta honesta: qué prometemos y qué no. Atrae al que va en serio y espanta al que busca "fácil" (y eso baja los leads que no contestan).',
@@ -153,6 +138,7 @@ guion(5, 'EL PACTO', 'SE GRABA', 'La venta honesta: qué prometemos y qué no. A
       '"Si vas en serio, escríbenos." Botón: WhatsApp.',
       'Es la pieza que más filtra: menos conversaciones, mejores. Medir costo por CITA, no por lead.',
       gancho='Profe muy cerca, bajo: "No te voy a decir que es fácil." Texto grande: "Lo que NO te prometemos".',
+      corto='0-3 s profe muy cerca: "No te voy a decir que es fácil." → 3-11 s: "Si buscas que sea divertido, no somos tu academia. Si buscas hablar inglés, sí." → 11-15 s: "Si vas en serio, escríbenos."',
       codigo='V7_NOESFACIL', prellenado='Hola, vi el video de lo que no prometen (V7). Voy en serio.')
 
 guion(6, 'LLEGUÉ SIN UNA PALABRA', 'PRIORITARIO', 'Prueba real: tres estudiantes que entraron a Heiiu sin hablar inglés y hoy hablan. Confesión en español + 10 s en inglés. (No hay video de entrada de este grupo; la prueba es su palabra con el dato real y su inglés de hoy.)',
@@ -165,6 +151,7 @@ guion(6, 'LLEGUÉ SIN UNA PALABRA', 'PRIORITARIO', 'Prueba real: tres estudiante
       '"¿Quieres llegar ahí? Escríbenos." Botón: WhatsApp. TOMA 2 DEL CIERRE (se graba adicional, 5 s de la profe): "Mándanos un audio de 30 segundos y te decimos tu nivel." Solo se publica si el agente recibe audios y alguien los responde en menos de 24 h; si no, "te decimos tu nivel en la cita".',
       'Grabar a los 3: tres piezas distintas con el mismo guion (Meta premia caras y conceptos distintos). Si uno no quiere salir, se hace con los que sí.',
       gancho='Segundo 0: el estudiante a cámara, en español: "Llegué el primer día sin hablar una palabra de inglés." (formato CONFESIÓN, top 5 de ganchos por tasa de acierto en Motion 2026). Corte seco a él hablando en inglés. En pantalla el dato exacto: "Hace ___ meses" (de la ficha del estudiante; sin dato real no se publica).',
+      corto='0-4 s estudiante en español: "Llegué el primer día sin hablar una palabra de inglés. Hace ___ meses." → 4-11 s el mismo estudiante hablando en inglés (texto: "Hoy") → 11-15 s profe: "¿Quieres llegar ahí? Escríbenos." Se arma una versión de 15 s por cada uno de los 3 estudiantes.',
       codigo='V1_VIDEODEHOY', prellenado='Hola, vi el video del antes y después (V1). Quiero saber más.')
 
 guion(7, 'EL AÑO DESPUÉS DEL COLEGIO', 'SE GRABA (padres de jóvenes de 17-20 años)', 'Padres de jóvenes que ya salieron del colegio y no han entrado a la universidad (no saben qué estudiar o todavía no alcanza la plata): ese año resuelve el inglés. Más la constancia que se entrena aquí.',
@@ -178,6 +165,7 @@ guion(7, 'EL AÑO DESPUÉS DEL COLEGIO', 'SE GRABA (padres de jóvenes de 17-20 
       '"Pregúntenos qué horario le sirve. Escríbanos." Botón: WhatsApp.',
       'Nada de Saber 11 ni de niños de colegio: el público son los que ya salieron. Sin precio.',
       gancho='Texto grande sobre jóvenes en clase: "Salió del colegio. ¿Y ahora qué?"',
+      corto='0-3 s texto sobre jóvenes en clase: "Salió del colegio. ¿Y ahora qué?" → 3-11 s Jacqueline: "Ese año no tiene que perderse: puede ser el año en que resuelve el inglés." → 11-15 s: "Pregúntenos qué horario le sirve. Escríbanos."',
       codigo='V8_PADRES', prellenado='Hola, vi el video del año después del colegio (V8). Es para mi hijo/a.')
 
 guion(8, 'EL PASAPORTE', 'PRIORITARIO (destino: irse)', 'El destino #2 de la base: Au Pair (solo Au Pair: es el programa donde la familia sí entrevista en inglés antes de elegir; Work and Travel y Europa no siempre exigen inglés, así que no se afirman). Sin prometer familia, visa ni empleo.',
@@ -190,6 +178,7 @@ guion(8, 'EL PASAPORTE', 'PRIORITARIO (destino: irse)', 'El destino #2 de la bas
       '"Cuéntanos a dónde quieres ir y te decimos qué nivel te pide. Escríbenos." Botón: WhatsApp.',
       'Prohibido: "te conseguimos la familia / la visa / el empleo", nombres de agencias, países con salario prometido, y afirmar que Work and Travel o Europa exigen inglés (no siempre). Es preparación para la entrevista, no colocación. Prueba la hipótesis destino "irse" contra destino "trabajo aquí" (guion 3).',
       gancho='Estudiante a cámara, en inglés, respondiendo "Tell me about yourself". Texto grande: "La familia te entrevista en inglés antes de elegirte." Texto del anuncio (no del video), primera línea obligatoria: "No somos agencia: te preparamos en inglés para la entrevista de Au Pair. El trámite lo haces con la agencia que elijas."',
+      corto='0-3 s candidata respondiendo "Tell me about yourself" (texto: "La familia te entrevista en inglés antes de elegirte.") → 3-11 s profe: "Sin esa entrevista, no hay familia. Aquí la ensayamos hasta que la contestas sin pensar." → 11-15 s: "Cuéntanos a dónde quieres ir. Escríbenos."',
       codigo='V5_PASAPORTE', prellenado='Hola, quiero prepararme en inglés para Au Pair / irme (V5).')
 
 guion(9, 'LA CORRECCIÓN DEL DÍA', 'PRIORITARIO (10 minutos; el único que da algo antes de pedir)', 'Reciprocidad + valor primero: el único formato tutorial del set. Muestra cómo se corrige en Heiiu y regala una corrección real.',
@@ -202,6 +191,7 @@ guion(9, 'LA CORRECCIÓN DEL DÍA', 'PRIORITARIO (10 minutos; el único que da a
       '"Mándanos un audio con tu propia frase usando esto, y te la corregimos." Botón: WhatsApp. (Si el agente no recibe audios: "Escríbenos y te decimos tu nivel en la cita".)',
       'Sin la palabra "gratis". El acento de la profe no es tema: la pieza muestra la corrección escrita, no una clase de pronunciación. Es la pieza que prueba la hipótesis de dar valor primero (Freedman y Fraser 1966).',
       gancho='Segundo 0: el marcador escribiendo el error en el tablero. Texto grande: "El error que más oigo en clase."',
+      corto='0-3 s el marcador escribiendo el error (texto: "El error que más oigo en clase") → 3-10 s lo tacha, escribe la forma correcta, el grupo repite → 10-15 s profe: "Mándanos un audio con tu propia frase usando esto, y te la corregimos."',
       codigo='V9_CORRECCION', prellenado='Hola, vi la corrección del día (V9). Aquí va mi audio.')
 
 h('CHECKLIST DEL DÍA DE GRABACIÓN', 12)
@@ -211,7 +201,7 @@ for t in ['• Vertical 9:16, subtítulos grandes desde el primer segundo, sin m
           '• La autorización de imagen está en el contrato de matrícula que todos firmaron; la profe lo plantea como ayuda a su trabajo y quien diga voluntariamente que no, queda fuera de plano. Sin nombres en pantalla.',
           '• Prohibido en pantalla y en voz: precio, "Arranque", "A1 intensivo", "descuento", "gratis", "fácil", "rápido" sin número, "bilingüe", "consigue trabajo", "duplica tu salario", "profesores nativos", "única academia con garantía" sin la palabra PRESENCIAL (las online E4CC y EF la tienen), fecha de inicio de cohorte.',
           '• Cierre de todos: botón de WhatsApp (los anuncios nuevos van a clic-a-WhatsApp para que el agente los reciba; los de formulario llevan la pregunta de motivo).',
-          '• Grabar cada guion dos veces: una completa y una de 15 segundos (solo la frase fuerte + cierre) para pruebas.',
+          '• Grabar cada guion completo (2 tomas). La versión de 15 segundos NO se graba aparte: se corta en edición siguiendo la línea "VERSIÓN DE 15 SEGUNDOS" de cada guion.',
           '• Tomas de apoyo (10 minutos): estudiantes de pie en simulación, el tablero con la Frase del Día, el anexo de garantía en primer plano, la fachada y la recepción.',
           '• Qué se mide del 15 al 31/10 por pieza: costo por conversación, costo por cita atendida, citas por pieza. La que gane se queda; la que no, se apaga.']:
     para(t, after=2)
