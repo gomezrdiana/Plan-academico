@@ -70,7 +70,7 @@ E.append(P('Para Angyber Aguilera Fonseca', 'sub'))
 E.append(caja([P('Las empresas de Bucaramanga necesitan gente que hable inglés, y no solo dentro de su equipo. Con sus programas de bienestar, con beneficios para las familias de sus colaboradores o a través de sus fundaciones, pueden aportar a la educación de su comunidad: formar personas en inglés para abrirles oportunidades. Nosotros tenemos el programa, la licencia y una garantía de aprendizaje por escrito. Lo que nos falta es quien abra esas puertas. <b>Ese canal no existe todavía en Heiiu: buscamos a la persona que lo construya y lo haga suyo.</b>'),
               P('Tu experiencia en alianzas estratégicas, convenios y dirección comercial es justo lo que este canal necesita: llevar nuestras ofertas a las empresas y convertirlas en estudiantes.')]))
 E.append(Spacer(1, 6))
-E.append(tarjetas([('10%', 'de lo que paga cada empresa<br/>por los cupos de su gente'), ('6%', 'mes a mes, de cada estudiante<br/>que entra por tu alianza'), (m(3_500_000), 'ingreso garantizado en tus<br/>3 primeros meses (con mínimos)'), ('Planta', 'contrato laboral desde el día uno,<br/>con todas las prestaciones')]))
+E.append(tarjetas([('10%', 'de lo que paga cada empresa<br/>por los cupos de su gente'), ('6%', 'mes a mes, de cada estudiante<br/>que entra por tu alianza'), ('$3.5M', 'ingreso garantizado en tus<br/>3 primeros meses (con mínimos)')], w=5.6))
 
 # ---------- 2. Tu trabajo ----------
 E.append(P('Tu trabajo', 'h2'))
