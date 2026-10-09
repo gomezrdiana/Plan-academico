@@ -129,7 +129,7 @@ E.append(KeepTogether([P('Tu crecimiento', 'h2'),
  ['Meses 7 a 12', 'Mínimo vigente + ' + m(550_000) + ' + auxilio (' + m(2_550_000) + ' en 2026)', '15 cupos', m(9_720_000)],
  ['Año 2', 'Mínimo vigente + ' + m(850_000) + ' + auxilio (' + m(2_850_000) + ' en 2026)', '15 a 20 cupos', m(10_000_000) + ' a ' + m(12_400_000)],
  ], [2.8 * cm, 4.8 * cm, 4.2 * cm, W - 11.8 * cm], bold_col=3, shade_rows=(3, 4)),
- P('Valores calculados con el salario mínimo y el auxilio de transporte de 2026. Cada enero se ajustan al decreto del Gobierno: el básico de cada etapa nunca queda por debajo del mínimo legal vigente más el auxilio, y los ingresos de la tabla suben en la misma proporción. Los aumentos de etapa son por resultados, no por calendario, y no incluyen tu cartera de alianzas.', 'note')]))
+ P('Valores calculados con el salario mínimo y el auxilio de transporte de 2026. Cada enero se ajustan al decreto del Gobierno: el básico de cada etapa nunca queda por debajo del mínimo legal vigente más el auxilio, y los ingresos de la tabla suben en la misma proporción. Los aumentos de etapa son por resultados, no por calendario: se pasa a la siguiente etapa cuando se cumplió la meta en al menos 2 de los 3 meses anteriores. No incluyen tu cartera de alianzas.', 'note')]))
 
 # ---------- 7. Lo que esperamos ----------
 E.append(KeepTogether([P('Lo que buscamos en la persona que se una al equipo', 'h2'),

@@ -91,7 +91,7 @@ E.append(KeepTogether([P('La escalera: mínimos, metas, fijo e ingreso suben con
  ['Meses 7 a 12', 'Mínimo vigente + $550.000 + auxilio ($2.550.000 en 2026)', '—', '15 cupos o $72M', '$9.720.000'],
  ['Año 2', 'Mínimo vigente + $850.000 + auxilio ($2.850.000 en 2026)', '—', '15 a 20 cupos', '$10.000.000 a $12.400.000'],
  ], [2.4 * cm, 3.6 * cm, 5.4 * cm, 3.0 * cm, W - 14.4 * cm], bold_col=4, shade_rows=(4, 5)),
- P('La cartera del 6% de las alianzas se suma a todo lo anterior. Comisiones y básico pagan prestaciones y seguridad social.', 'note')]))
+ P('Se sube de etapa (y de básico) cuando cumplió la meta en al menos 2 de los 3 meses anteriores. La cartera del 6% de las alianzas se suma a todo lo anterior. Comisiones y básico pagan prestaciones y seguridad social; el mínimo y el auxilio se ajustan cada enero por decreto.', 'note')]))
 
 E.append(KeepTogether([P('Qué cuenta y qué no (definiciones del tablero)', 'h2'),
  P('Cada término se registra en el tracker el mismo día, con su prueba; lo que no está en el tracker no existe. Una alianza que no activa en 30 días deja de contar como firma para los mínimos.'),
