@@ -47,7 +47,7 @@ for t in ['**Fecha y lugar:** jueves 09/10/2026, sede Heiiu. **Hora de llegada d
 d.add_page_break()
 h('HOJA DE LA PROFE — SECUENCIA DE LA CLASE CON CÁMARA (35-40 min de clase)', 12.5)
 para('Tú diriges. La cámara te sigue. La clase ocurre igual que siempre: las dos simulaciones son tu Bloque 3 y la corrección es tu error paper. Habla normal, corrige en voz alta como siempre, no mires a la cámara salvo cuando diga "A CÁMARA".', color=GRIS, size=9.5, after=6)
-for t in ['**20 min ANTES de la clase, salón vacío (10 min):**',
+HOJA_PROFE = ['**20 min ANTES de la clase, salón vacío (10 min):**',
           '  1. Escribe en el tablero un "5 AÑOS" grande y táchalo. A CÁMARA: "Llegar a B2 son unas quinientas setenta y cinco horas de clase. En cualquier academia. A dos horas por semana, eso son cinco años. Aquí son cuatro horas al día, de lunes a viernes: siete meses. No es fácil. Es rápido porque es intenso. Lo que firmamos: si cumples y no avanzas, te devolvemos el nivel." Mientras hablas, escribe "575 h" y "7 meses". (2 tomas.)',
           '  2. Sentada en el borde del escritorio, A CÁMARA, seria: "Hay vacantes que dicen inglés intermedio. Ese renglón deja a mucha gente por fuera. El inglés no da el puesto. Quita el requisito que lo cierra. En clase ensayamos esa pregunta: Tell me about yourself. Hasta que se contesta sin pensar." (2 tomas.)',
           '**EN LA CLASE:**',
@@ -59,7 +59,8 @@ for t in ['**20 min ANTES de la clase, salón vacío (10 min):**',
           '**Si sobra tiempo al final (opcional, 5 min, a solas):** muy cerca de la cámara, hablando bajo: "Te voy a decir lo que no te prometemos: que sea fácil, ni que te guste todos los días. Vas a tener clases pesadas y días de no querer venir. Lo que sí te prometemos: que hablas desde el primer día, que alguien revisa tu práctica todos los días, y que si cumples y no avanzas, te devolvemos la plata. Por escrito. Si buscas que sea divertido, no somos tu academia. Si buscas hablar inglés, sí."',
           '**Reglas mientras la cámara está prendida:** no digas precio, ni "Arranque", ni "fácil", ni "gratis", ni "rápido" sin el número, ni "garantizado en siete meses", ni "consigue trabajo", ni nombres de estudiantes. Si se te sale, repites la toma; no pasa nada.',
           '**Antes de empezar, confirma con Jacqueline:** cláusulas firmadas de los que salen en cámara, autorización de los 3 para usar su video de entrada, y quién NO firmó (lo ubicas fuera de plano).',
-          '**PLAN B SI LOS ESTUDIANTES NO COOPERAN:** (1) No firman: quedan fuera de plano; mínimo 2 firmados para las simulaciones y 1 de los 3 "de cero" para el día 1 vs. hoy; se confirma ANTES de la clase. (2) Firman pero les da pena: cámara en trípode al fondo, no en la cara; los primeros 5 minutos de la simulación no se graban; tú corriges como siempre y lo encuadras como lo que es: la clase de simulación de siempre, que en Heiiu se graba para el portafolio; cada uno recibe su clip editado para él (LinkedIn, familia). (3) Se traban o hablan mal: no importa; la pieza vende el entrenamiento, no la fluidez; el momento "Again. Louder." ES el anuncio; lo que no sirve es gente callada. (4) Nadie coopera: se graba todo lo que no necesita estudiantes (pasos 1 y 2 de esta hoja, la corrección del día tú sola en el tablero, El Pacto, y las piezas de Jacqueline) y las de estudiantes se reprograman la semana siguiente con otro grupo, avisando con dos días para las cláusulas. Nunca se paga a un estudiante por salir ni se presiona al que dijo que no.']:
+          '**PLAN B SI LOS ESTUDIANTES NO COOPERAN:** (1) No firman: quedan fuera de plano; mínimo 2 firmados para las simulaciones y 1 de los 3 "de cero" para el día 1 vs. hoy; se confirma ANTES de la clase. (2) Firman pero les da pena: cámara en trípode al fondo, no en la cara; los primeros 5 minutos de la simulación no se graban; tú corriges como siempre y lo encuadras como lo que es: la clase de simulación de siempre, que en Heiiu se graba para el portafolio; cada uno recibe su clip editado para él (LinkedIn, familia). (3) Se traban o hablan mal: no importa; la pieza vende el entrenamiento, no la fluidez; el momento "Again. Louder." ES el anuncio; lo que no sirve es gente callada. (4) Nadie coopera: se graba todo lo que no necesita estudiantes (pasos 1 y 2 de esta hoja, la corrección del día tú sola en el tablero, El Pacto, y las piezas de Jacqueline) y las de estudiantes se reprograman la semana siguiente con otro grupo, avisando con dos días para las cláusulas. Nunca se paga a un estudiante por salir ni se presiona al que dijo que no.']
+for t in HOJA_PROFE:
     para(t, after=3)
 d.add_page_break()
 
@@ -216,3 +217,18 @@ for t in ['• Vertical 9:16, subtítulos grandes desde el primer segundo, sin m
 out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\campañas\GUIONES_GRABACION_2026-10-09.docx'
 try: d.save(out); print('OK', out)
 except PermissionError: d.save(out.replace('.docx', '_v2.docx')); print('ABIERTO -> _v2')
+
+# ---- Hoja aparte para la profe (sin investigación ni notas internas) ----
+d2 = Document(); d2.styles['Normal'].font.name = 'Calibri'; d2.styles['Normal'].font.size = Pt(10.5)
+for sec in d2.sections: sec.left_margin = sec.right_margin = Pt(60); sec.top_margin = sec.bottom_margin = Pt(50)
+pp = d2.add_paragraph(); rr = pp.add_run('HOJA DE LA PROFE — CLASE CON CÁMARA · 09/10/2026'); rr.bold = True; rr.font.size = Pt(14); rr.font.color.rgb = NAR
+pp = d2.add_paragraph(); rr = pp.add_run('Tú diriges. La cámara te sigue. La clase ocurre igual que siempre: las dos simulaciones son tu Bloque 3 y la corrección es tu error paper. Habla normal, corrige en voz alta como siempre, no mires a la cámara salvo cuando diga "A CÁMARA". Son 35-40 minutos de clase; el resto sigue normal.'); rr.font.size = Pt(9.5); rr.font.color.rgb = GRIS
+pp = d2.add_paragraph(); rr = pp.add_run('Hora de la clase: ________   Salón: ________   Quien graba: ________   Coordinación (permisos y datos): Jacqueline'); rr.font.size = Pt(10)
+for t in HOJA_PROFE:
+    pp = d2.add_paragraph(); pp.paragraph_format.space_after = Pt(3)
+    for part in re.split(r'(\*\*[^*]+\*\*)', t):
+        if not part: continue
+        rr = pp.add_run(part[2:-2] if part.startswith('**') else part); rr.bold = part.startswith('**'); rr.font.size = Pt(10)
+out2 = out.replace('GUIONES_GRABACION_2026-10-09.docx', 'HOJA_PROFE_GRABACION_2026-10-09.docx')
+try: d2.save(out2); print('OK', out2)
+except PermissionError: d2.save(out2.replace('.docx', '_v2.docx')); print('ABIERTO -> _v2')
