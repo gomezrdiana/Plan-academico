@@ -41,7 +41,7 @@ for t in ['**Fecha y lugar:** jueves 09/10/2026, sede Heiiu, el salón de clase.
           '**Equipo:** celular o cámara en vertical (9:16, 1080x1920), micrófono de solapa o el celular a menos de 1,5 m del que habla, luz natural o del salón (sin aro de luz: se ve a anuncio). Un segundo celular para grabar la simulación desde otro ángulo.',
           '**Permisos:** todos los estudiantes tienen firmada la autorización de imagen en su contrato de matrícula. La profe les pregunta si están contentos con la clase y les pide ayuda: "parte de mi trabajo es grabar contenido"; si alguien dice voluntariamente que no quiere salir, queda fuera de plano. Coordinación le confirma a cada uno de los 3 que empezaron de cero cuántos meses lleva desde su PRIMERA CLASE (no desde la matrícula: a veces el grupo arrancó hasta dos meses después), para "hace ___ meses". Sin nombres de estudiantes en pantalla.',
           '**Orden cronológico del día:** (1) antes de la clase, con el salón vacío: guion 3 "Siete meses" (profe + tablero), guion 4 "La vacante" (profe), tomas de la fachada y la recepción; (2) durante la clase, con el grupo: guion 7 "La corrección del día" al abrir (usa el error paper real), guion 2 "Esto es una clase" (simulación de entrevista o reclamo, 10 minutos de pie), guion 5 "El pasaporte" (simulación de entrevista con familia/empleador, 10 minutos), guion 1 "Llegué sin una palabra" (cada uno de los 3 que empezó de cero: la frase en español con su dato real + 10 s en inglés); (3) después de la clase: guion 1 "Te acompañamos" (Jacqueline con el anexo de garantía impreso), guion 7 "El año después del colegio" (Jacqueline en recepción) y guion 8 "El Pacto" (profe, 5 minutos, a solas). Se graban los 9; ninguno es opcional. Total estimado: 3 horas.',
-          '**Qué se entrega (lunes 12/10, al WhatsApp de gerencia, enviados como DOCUMENTO, no como video, para que WhatsApp no los comprima):** por cada guion, dos archivos: versión completa (20-30 s) y versión de 15 s (gancho + frase fuerte + cierre). Nombre del archivo = código del anuncio + duración: V1_VIDEODEHOY_30s.mp4, V1_VIDEODEHOY_15s.mp4, etc. (los códigos están en cada guion). Formato 9:16, 1080x1920, MP4. Subtítulos grandes, palabra por palabra, dentro de la zona segura de Reels (ni en el 14% superior ni en el 35% inferior). Colores de marca: naranja #E54C09 y amarillo #FBC900 para los textos en pantalla (el amarillo nunca como texto sobre blanco). Logo de Heiiu solo en el último segundo. Sin música encima de la voz en los guiones 1, 6 y 8; en los demás, música baja o ninguna. Además, el material en bruto completo en una subcarpeta BRUTO (sirve para cortar otros ganchos sin volver a grabar).',
+          '**Qué se entrega (al WhatsApp de gerencia, enviados como DOCUMENTO, no como video, para que WhatsApp no los comprima; tanda 1 el lunes 12/10 y tanda 2 el miércoles 14/10, ver "Qué se edita primero"):** por cada guion, dos archivos: versión completa (20-30 s) y versión de 15 s (gancho + frase fuerte + cierre). Nombre del archivo = código del anuncio + duración: V1_VIDEODEHOY_30s.mp4, V1_VIDEODEHOY_15s.mp4, etc. (los códigos están en cada guion). Formato 9:16, 1080x1920, MP4. Subtítulos grandes, palabra por palabra, dentro de la zona segura de Reels (ni en el 14% superior ni en el 35% inferior). Colores de marca: naranja #E54C09 y amarillo #FBC900 para los textos en pantalla (el amarillo nunca como texto sobre blanco). Logo de Heiiu solo en el último segundo. Sin música encima de la voz en los guiones 1, 6 y 8; en los demás, música baja o ninguna. Además, el material en bruto completo en una subcarpeta BRUTO (sirve para cortar otros ganchos sin volver a grabar).',
           '**Lo que NO se graba ni se edita (reglas fijas):** precio, nombres de programas ("Arranque", "A1 intensivo"), "fácil", "gratis", "descuento", "rápido" sin número, "garantizado en X meses", "consigue trabajo", "visa", "profesores nativos", días de la semana. Si el profe lo dice, se repite la toma.']:
     para(t, after=3)
 
@@ -66,6 +66,26 @@ HOJA_PROFE = ['**Al empezar la clase (antes de prender la cámara):** pregúntal
 for t in HOJA_PROFE:
     para(t, after=3)
 d.add_page_break()
+
+h('QUÉ SE EDITA PRIMERO Y CUÁNDO SE ENTREGA', 12)
+para('Salen 11 videos en dos duraciones = 22 archivos. Se editan en dos tandas:', after=3)
+tb = d.add_table(rows=1, cols=3); tb.style = 'Table Grid'
+for jj, tt in enumerate(['#', 'TANDA 1 — los 9 primeros (versión de 30 s) · entrega lunes 12/10', 'Archivo']):
+    rr = tb.rows[0].cells[jj].paragraphs[0].add_run(tt); rr.bold = True; rr.font.size = Pt(9)
+for fila in [['1', 'Llegué sin una palabra — el MEJOR de los 3 estudiantes (el que hable más claro en inglés)', 'V1_VIDEODEHOY_A_30s.mp4'],
+             ['2', 'Esto es una clase', 'V2_CLASE_30s.mp4'],
+             ['3', 'Siete meses', 'V3_575H_30s.mp4'],
+             ['4', 'La vacante', 'V4_VACANTE_30s.mp4'],
+             ['5', 'El pasaporte (Au Pair)', 'V5_PASAPORTE_30s.mp4'],
+             ['6', 'Te acompañamos', 'V6_GARANTIA_30s.mp4'],
+             ['7', 'El Pacto', 'V7_NOESFACIL_30s.mp4'],
+             ['8', 'El año después del colegio', 'V8_PADRES_30s.mp4'],
+             ['9', 'La corrección del día', 'V9_CORRECCION_30s.mp4']]:
+    cells = tb.add_row().cells
+    for jj, v in enumerate(fila):
+        rr = cells[jj].paragraphs[0].add_run(v); rr.font.size = Pt(9)
+para('TANDA 2 — los 13 restantes · entrega miércoles 14/10: las 9 versiones de 15 s (V1_A_15s … V9_15s) + los otros 2 estudiantes de "Llegué sin una palabra" en 30 s y 15 s (V1_VIDEODEHOY_B_30s, V1_VIDEODEHOY_B_15s, V1_VIDEODEHOY_C_30s, V1_VIDEODEHOY_C_15s).', after=3)
+para('Las variantes con el cierre "Mándanos un audio" NO se editan hasta que gerencia lo autorice.', size=9.5, color=GRIS, after=8)
 
 h('ORDEN DE GRABACIÓN (prioridad)', 12)
 for t in ['1. GUION 6 "Llegué sin una palabra" (los 3 que empezaron de cero: confesión + inglés de hoy) y GUION 2 "Esto es una clase": estudiantes reales hablando. Es la prueba que más convierte en compras caras (investigación 08/10) y lo que ningún avatar ni competidor puede mostrar.',
