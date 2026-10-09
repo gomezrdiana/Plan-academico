@@ -33,21 +33,22 @@ p = d.add_paragraph(); r = p.add_run('GUIONES — JORNADA DE GRABACIÓN 09/10/20
 para('Venden el SERVICIO, no el producto: garantía por escrito, profesor que entrena (coach), acompañamiento diario, y un plan con fecha de llegada. Reglas del calendario: gancho de destino, sin precio ni nombre del programa, nunca "fácil", "rápido" ni "gratis"; caras de profes, estudiantes con cláusula de imagen y coordinación; nunca gerencia. Verticales (9:16), 20-30 segundos, subtítulos grandes, el primer segundo ya con la frase fuerte. Cierre siempre a WhatsApp.', color=GRIS, size=9.5, after=8)
 
 h('ORDEN DE GRABACIÓN (prioridad)', 12)
-for t in ['1. GUION 1 "Te lo firmamos" (coordinación con el contrato): la prueba que nadie más tiene.',
-          '2. GUION 2 "Esto es una clase" (aula real con estudiantes hablando): el servicio visto, no contado.',
-          '3. GUION 3 "La vacante" (profe): el destino #1 de la base.',
-          '4. Si hay tiempo: GUION 4 "Siete meses", GUION 5 "El Pacto", GUION 6 "El video de hoy", GUION 7 "Su hijo a los 18".']:
+for t in ['1. GUION 2 "Esto es una clase" y GUION 6 "El video de hoy": estudiantes reales hablando. Es la prueba que más convierte en compras caras (investigación 08/10) y lo que ningún avatar ni competidor puede mostrar.',
+          '2. GUION 4 "Siete meses": velocidad con número (575 h, 7 meses). Ningún competidor publica sus horas.',
+          '3. GUION 3 "La vacante": el destino #1 de la base.',
+          '4. GUION 1 "Te lo firmamos": la garantía va DESPUÉS del precio (bot, cita, retargeting), no como gancho de alcance. Se graba igual.',
+          '5. Si hay tiempo: GUION 5 "El Pacto" (filtro, poco volumen), GUION 7 "Su hijo a los 18".']:
     para(t, after=2)
 
-guion(1, 'TE LO FIRMAMOS', 'PRIORITARIO', 'La garantía por escrito: lo único que ninguna academia de la ciudad firma.',
+guion(1, 'TE LO FIRMAMOS', 'PRIORITARIO', 'La garantía por escrito, legible y fácil de cobrar. OJO: NUNCA decir "única" ni "nadie más": Wall Street English, E4CC y EF también tienen garantía escrita. Lo que diferencia es que la nuestra cabe en 3 líneas.',
       'Coordinación (Jacqueline), de pie, con el contrato impreso en la mano. Fondo: la recepción o un aula vacía con el tablero.', '20-25 s',
       'Plano medio. Al decir "aquí", muestra la hoja a cámara y señala la cláusula con el dedo. Al final, la firma de la academia en la hoja.',
       ['Todas las academias te prometen que vas a aprender inglés. Nosotros te lo firmamos.',
        'Aquí, en tu contrato, dice: si cumples con tu asistencia, tus tareas y tus evaluaciones, y no avanzas, te devolvemos el cien por ciento del nivel.',
        'No te pedimos que nos creas. Te pedimos que leas.'],
-      '"GARANTÍA DE APRENDIZAJE POR ESCRITO" · "Única academia de Bucaramanga que la firma"',
+      '"GARANTÍA DE APRENDIZAJE POR ESCRITO" · "Sin letra pequeña: 3 condiciones, las lees antes de firmar"',
       '"Escríbenos y te mostramos el contrato antes de que decidas." Botón: WhatsApp.',
-      'Que el contrato real se vea legible en el plano cerrado (cláusula de garantía). Sin cifras de precio en cuadro.')
+      'Que el contrato real se vea legible en el plano cerrado (cláusula de garantía). Sin cifras de precio en cuadro. Esta pieza se usa en retargeting (quien ya vio otro anuncio o preguntó precio): ahí es donde la garantía decide.')
 
 guion(2, 'ESTO ES UNA CLASE', 'PRIORITARIO', 'El método visto: estudiantes hablando desde la primera clase, el profesor como coach, no como conferencista.',
       'Nadie a cámara: se graba una simulación real en un aula activa (A2 o B1), 30 segundos de estudiantes de pie resolviendo una situación (entrevista, llamada, reclamo). Voz del profe corrigiendo en vivo. Al final, el profe dice UNA frase a cámara.', '25-30 s',
@@ -68,15 +69,15 @@ guion(3, 'LA VACANTE', 'PRIORITARIO', 'El destino #1 de la base: trabajo. Sin pr
       '"Cuéntanos para qué necesitas el inglés y te decimos por dónde empezar. Escríbenos." Botón: WhatsApp.',
       'Nunca "consigue trabajo" ni "aplica a vacantes". Es preparación, no empleo.')
 
-guion(4, 'SIETE MESES', 'ALTERNO', 'Un plan con fecha de llegada: de cero a B2 en unos siete meses en el súper intensivo. Honesto: no es rápido, son 575 horas.',
+guion(4, 'SIETE MESES', 'ALTERNO', 'Velocidad con número: 575 h (estándar Cambridge para B2) en 7 meses. Es el único "rápido" verificable del mercado; los demás dicen "2x" o "10 meses" sin publicar horas.',
       'Profe a cámara, con el tablero detrás donde escribe (de verdad, en el momento) "575 h" y "7 meses".', '25 s',
       'Plano medio; el profe se voltea y escribe en el tablero mientras habla; vuelve a cámara.',
-      ['No te vamos a decir que el inglés es rápido. Son quinientas setenta y cinco horas de entrenamiento.',
-       'Lo que sí te decimos es cuándo llegas: cuatro horas al día, de lunes a viernes, y en unos siete meses estás en B2, hablando. Con fecha. Y con garantía por escrito.',
-       'Si lo que buscas es una fecha, aquí la tienes.'],
-      '"575 horas · ~7 meses · de cero a B2" · "Con garantía por escrito"',
+      ['Llegar a B2 son unas quinientas setenta y cinco horas de clase. En cualquier academia.',
+       'A dos horas por semana, eso son cinco años. Aquí son cuatro horas al día, de lunes a viernes: siete meses.',
+       'No es fácil. Es rápido porque es intenso. Y te lo firmamos.'],
+      '"B2 = 575 horas" · "2 h/semana = 5 años" · "Aquí: 7 meses"',
       '"Pregúntanos qué fecha te queda. Escríbenos." Botón: WhatsApp.',
-      'El "~7 meses" aplica al súper intensivo de 4 h; en la noche son ~14 meses: no mezclar. Sin precio.')
+      'El "7 meses" aplica al súper intensivo de 4 h; en la noche son ~14 meses: no mezclar. Sin precio. Versión nocturna del cierre: "dos horas cada noche, catorce meses".')
 
 guion(5, 'EL PACTO', 'ALTERNO', 'La venta honesta: qué prometemos y qué no. Atrae al que va en serio y espanta al que busca "fácil" (y eso baja los leads que no contestan).',
       'Profe (Angie o Cristian) a cámara, en el aula, muy cerca, hablando bajo.', '25-30 s',
@@ -111,7 +112,7 @@ guion(7, 'SU HIJO A LOS 18', 'ALTERNO (para el grupo de la tarde y el sabatino)'
 h('CHECKLIST DEL DÍA DE GRABACIÓN', 12)
 for t in ['• Vertical 9:16, subtítulos grandes desde el primer segundo, sin música encima de la voz en los guiones 1, 5 y 6.',
           '• Cláusula de imagen firmada por cada estudiante que aparezca; avisarles antes de la clase. Sin nombres en pantalla.',
-          '• Prohibido en pantalla y en voz: precio, "Arranque", "A1 intensivo", "descuento", "gratis", "fácil", "rápido", "bilingüe en X meses", "consigue trabajo", fecha de inicio de cohorte.',
+          '• Prohibido en pantalla y en voz: precio, "Arranque", "A1 intensivo", "descuento", "gratis", "fácil", "rápido" sin número, "bilingüe", "consigue trabajo", "duplica tu salario", "profesores nativos", "única academia con garantía" (es falso: Wall Street, E4CC y EF la tienen), fecha de inicio de cohorte.',
           '• Cierre de todos: botón de WhatsApp (los anuncios nuevos van a clic-a-WhatsApp para que el agente los reciba; los de formulario llevan la pregunta de motivo).',
           '• Grabar cada guion dos veces: una completa y una de 15 segundos (solo la frase fuerte + cierre) para pruebas.',
           '• Tomas de apoyo (10 minutos): estudiantes de pie en simulación, el tablero con la Frase del Día, el contrato de garantía en primer plano, la fachada y la recepción.',
