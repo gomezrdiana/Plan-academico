@@ -75,7 +75,7 @@ E.append(tarjetas([('10%', 'de lo que paga cada empresa<br/>por los cupos de su 
 # ---------- 2. Tu trabajo ----------
 E.append(P('El rol', 'h2'))
 E.append(P('Liderarás el desarrollo del canal corporativo e institucional de Heiiu: identificar, abrir y consolidar alianzas con empresas, áreas de bienestar y fundaciones de Bucaramanga y su área metropolitana. Es un rol de campo y de relacionamiento con la alta dirección; la atención de prospectos individuales y el proceso de matrícula están a cargo del equipo de asesoría comercial.'))
-for t in ['<b>Reporte diario:</b> al cierre de cada día registras en el tablero de alianzas lo que hiciste (empresas contactadas, reuniones, activaciones, firmas y cupos) y lo que sigue. Es un registro corto, de cinco minutos, que gerencia revisa todos los días.',
+for t in ['<b>Tu tablero de alianzas:</b> lo llevas al día con tus empresas, reuniones, firmas, cupos y próximos pasos. Es tu herramienta: deja registrada cada empresa que abres, protege tu cartera y es la base de nuestras reuniones.',
           '<b>Reuniones de seguimiento:</b> dos por semana, fijas, de 30 minutos: lunes para definir las empresas y reuniones de la semana, y jueves para revisar resultados contra la meta del mes y ajustar.',
           '<b>Prospección y relacionamiento:</b> identificar empresas y fundaciones con potencial y establecer contacto con quienes toman la decisión (gerencia, talento humano, bienestar, responsabilidad social).',
           '<b>Presentación de la propuesta de valor:</b> exponer las dos modalidades de vinculación (alianza sin costo y plan empresa) en reuniones ejecutivas.',
