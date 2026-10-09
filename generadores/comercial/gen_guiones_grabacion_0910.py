@@ -232,3 +232,25 @@ for t in HOJA_PROFE:
 out2 = out.replace('GUIONES_GRABACION_2026-10-09.docx', 'HOJA_PROFE_GRABACION_2026-10-09.docx')
 try: d2.save(out2); print('OK', out2)
 except PermissionError: d2.save(out2.replace('.docx', '_v2.docx')); print('ABIERTO -> _v2')
+
+# ---- Hoja aparte para coordinación ----
+d3 = Document(); d3.styles['Normal'].font.name = 'Calibri'; d3.styles['Normal'].font.size = Pt(10.5)
+for sec in d3.sections: sec.left_margin = sec.right_margin = Pt(60); sec.top_margin = sec.bottom_margin = Pt(50)
+pp = d3.add_paragraph(); rr = pp.add_run('HOJA DE COORDINACIÓN — GRABACIÓN 09/10/2026'); rr.bold = True; rr.font.size = Pt(14); rr.font.color.rgb = NAR
+HOJA_COORD = [
+ '**ANTES DE LA CLASE (tu parte más importante):** (1) Cláusula de imagen firmada por cada estudiante del grupo B1/B2 que vaya a salir en cámara; quien no firme se ubica fuera de plano y se le avisa a la profe. (2) Autorización escrita de los 3 estudiantes que empezaron de cero en Heiiu para usar su video de entrada (día 1) y el de hoy. (3) Fecha de matrícula de esos 3 (para poner en pantalla "___ meses · ___ horas de clase"): se la entregas al que graba por escrito. (4) Avisar al grupo al llegar: "hoy la clase de simulación se graba; es la misma clase de siempre, con cámara; cada uno recibe su clip".',
+ '**Tener listo:** el contrato de matrícula real impreso (2 copias), abierto en la cláusula de la garantía de aprendizaje, con la firma de la academia. Sin precios a la vista en el cuadro.',
+ '**DESPUÉS DE LA CLASE, tus dos piezas (15 min, a cámara, de pie):**',
+ '  1. "Te lo firmamos" (20-25 s). Levantas el contrato a cámara y, señalando la cláusula con el dedo, dices: "Todas las academias te prometen que vas a aprender inglés. Nosotros te lo firmamos. Aquí, en tu contrato, dice: si cumples con tu asistencia, tus tareas y tus evaluaciones, y no avanzas, te devolvemos el cien por ciento del nivel. Si cumples y no avanzas, el que pierde plata somos nosotros. No te pedimos que nos creas: te pedimos que leas." Al final, la cámara cierra sobre la cláusula, que debe leerse. Dos tomas.',
+ '  2. "Su hijo a los 18" (25 s), en la recepción, como hablándole a un papá o una mamá: "En grado once, el Saber 11 ya le evalúa inglés. Imagínese a su hijo a los dieciocho con eso resuelto: la universidad o la beca sin ese requisito pendiente. Y algo que los papás nos agradecen más que el inglés: aquí se entrena constancia. Un video al día, asistencia, tareas. Lo que aprende de cumplir le sirve para todo. Desde los doce años, en la tarde, en la noche o los sábados." Dos tomas.',
+ '**Con la cámara prendida NO se dice:** precio, "Arranque", "fácil", "gratis", "descuento", "rápido", "garantizado en siete meses", "consigue trabajo", "profesores nativos", ni nombres de estudiantes. Si se te sale, se repite la toma.',
+ '**Al terminar:** le confirmas al que graba que tiene las fechas de matrícula de los 3 y la lista de quién firmó, y se lo reportas a gerencia por WhatsApp en una línea: "Grabación hecha: X estudiantes firmaron, piezas grabadas: ___".',
+]
+for t in HOJA_COORD:
+    pp = d3.add_paragraph(); pp.paragraph_format.space_after = Pt(3)
+    for part in re.split(r'(\*\*[^*]+\*\*)', t):
+        if not part: continue
+        rr = pp.add_run(part[2:-2] if part.startswith('**') else part); rr.bold = part.startswith('**'); rr.font.size = Pt(10)
+out3 = out.replace('GUIONES_GRABACION_2026-10-09.docx', 'HOJA_COORDINACION_GRABACION_2026-10-09.docx')
+try: d3.save(out3); print('OK', out3)
+except PermissionError: d3.save(out3.replace('.docx', '_v2.docx')); print('ABIERTO -> _v2')
