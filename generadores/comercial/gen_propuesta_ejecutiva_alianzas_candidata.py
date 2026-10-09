@@ -83,7 +83,7 @@ for t in ['<b>Prospección y relacionamiento:</b> identificar empresas y fundaci
     E.append(LI(t))
 
 E.append(KeepTogether([P('Cómo trabajamos juntas', 'h2'),
- P('Tienes autonomía para organizar tu agenda, tus visitas y tu forma de trabajar. Lo que no soltamos es el seguimiento: este canal es estratégico para Heiiu y lo vamos a acompañar de cerca, contigo.'),
+ P('Tienes autonomía para organizar tu agenda, tus visitas y tu forma de trabajar. Lo que no soltamos es el seguimiento: este canal es estratégico para Heiiu y queremos potenciarlo al máximo en este momento, así que es crucial no dejar pasar ninguna oportunidad. Por eso lo acompañamos de cerca, contigo.'),
  LI('<b>Tu tablero de alianzas:</b> lo llevas al día con tus empresas, reuniones, firmas, cupos y próximos pasos. Es tu herramienta: deja registrada cada empresa que abres, protege tu cartera y es la base de nuestras reuniones.'),
  LI('<b>Dos reuniones fijas por semana, de 30 minutos:</b> el lunes definimos las empresas y reuniones de la semana; el jueves revisamos resultados contra la meta del mes y ajustamos.')]))
 
