@@ -17,8 +17,8 @@ st = {
  'kicker': ParagraphStyle('kicker', fontName='CalB', fontSize=10, textColor=GRIS, leading=13, spaceAfter=2),
  'h1': ParagraphStyle('h1', fontName='CalB', fontSize=24, textColor=NAR, leading=28, spaceAfter=6),
  'sub': ParagraphStyle('sub', fontName='Cal', fontSize=11.5, textColor=CAFE, leading=15, spaceAfter=10),
- 'h2': ParagraphStyle('h2', fontName='CalB', fontSize=14, textColor=NAR, leading=17, spaceBefore=12, spaceAfter=6),
- 'p': ParagraphStyle('p', fontName='Cal', fontSize=10.5, textColor=CAFE, leading=14.5, spaceAfter=6),
+ 'h2': ParagraphStyle('h2', fontName='CalB', fontSize=14, textColor=NAR, leading=17, spaceBefore=8, spaceAfter=5),
+ 'p': ParagraphStyle('p', fontName='Cal', fontSize=10, textColor=CAFE, leading=13.5, spaceAfter=5),
  'big': ParagraphStyle('big', fontName='CalB', fontSize=22, textColor=NAR, leading=26, alignment=1),
  'bigl': ParagraphStyle('bigl', fontName='Cal', fontSize=9.5, textColor=GRIS, leading=12, alignment=1),
  'q': ParagraphStyle('q', fontName='Geo', fontSize=11.5, textColor=CAFE, leading=16, leftIndent=10, rightIndent=10, spaceAfter=6),
@@ -26,7 +26,7 @@ st = {
  'tcb': ParagraphStyle('tcb', fontName='CalB', fontSize=9.5, textColor=CAFE, leading=12.5),
  'th': ParagraphStyle('th', fontName='CalB', fontSize=9.5, textColor=colors.white, leading=12),
  'note': ParagraphStyle('note', fontName='Cal', fontSize=9, textColor=GRIS, leading=12, spaceAfter=6),
- 'li': ParagraphStyle('li', fontName='Cal', fontSize=10.5, textColor=CAFE, leading=14.5, leftIndent=12, bulletIndent=0, spaceAfter=3),
+ 'li': ParagraphStyle('li', fontName='Cal', fontSize=10, textColor=CAFE, leading=13.5, leftIndent=12, bulletIndent=0, spaceAfter=2),
 }
 P = lambda t, s='p': Paragraph(t, st[s])
 LI = lambda t: Paragraph(t, st['li'], bulletText='•')
@@ -69,7 +69,7 @@ E.append(P('Ejecutiva de Alianzas Empresariales', 'h1'))
 E.append(P('Para Angyber Aguilera Fonseca', 'sub'))
 E.append(caja([P('Las empresas de Bucaramanga necesitan gente que hable inglés, y no solo dentro de su equipo. Con sus programas de bienestar, con beneficios para las familias de sus colaboradores o a través de sus fundaciones, pueden aportar a la educación de su comunidad: formar personas en inglés para abrirles oportunidades. Nosotros tenemos el programa, la licencia y una garantía de aprendizaje por escrito. Lo que nos falta es quien abra esas puertas. <b>Ese canal no existe todavía en Heiiu: buscamos a la persona que lo construya y lo haga suyo.</b>'),
               P('Tú vienes de dirigir alianzas, convenios y equipos comerciales. Aquí no vas a empezar de cero: las ofertas, los contratos y los precios ya están escritos. Tu trabajo es llevarlos a las empresas y convertirlos en estudiantes.')]))
-E.append(Spacer(1, 10))
+E.append(Spacer(1, 6))
 E.append(tarjetas([('10%', 'de lo que paga cada empresa<br/>por los cupos de su gente'), ('6%', 'mes a mes, de cada estudiante<br/>que entra por tu alianza'), (m(3_500_000), 'ingreso garantizado en tus<br/>3 primeros meses (con mínimos)'), ('Planta', 'contrato laboral desde el día uno,<br/>con todas las prestaciones')]))
 
 # ---------- 2. Tu trabajo ----------
