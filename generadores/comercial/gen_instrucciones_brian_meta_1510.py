@@ -50,7 +50,7 @@ for t in ['V1_VIDEODEHOY → "Hola, vi el video del antes y después (V1). Quier
 para('Nada de precio ni de "quiero información" en el prellenado: el agente necesita un motivo para arrancar la conversación.', size=9.5, color=GRIS)
 
 h('3. Formularios actuales')
-for t in ['• PAUSAR hoy "Curso Inglés" y "Au Pair" tal como están (tipo "más volumen" con autorrelleno: la gente envía sin leer y después no contesta).',
+for t in ['• "Au Pair" ya quedó pausada el 08/10 (dato: de 7 citas por LaHaus, 4 vinieron de Curso Inglés, 2 de base de datos y 1 de Au Pair). "Curso Inglés" sigue al aire hasta que la campaña de WhatsApp esté activa el 15/10; ese día se pausa y la reemplaza el control con formulario "mayor intención".',
           '• El control nuevo (HEIIU_FORM_CONTROL_1510) se crea con tipo "MAYOR INTENCIÓN" (pantalla de confirmación de datos). Activar verificación del teléfono por SMS si está disponible en Colombia. Teléfono SIN autorrelleno.',
           '• Pantalla de introducción: "Te escribirá nuestro asistente por WhatsApp en menos de 5 minutos. Responde para agendar tu videollamada de 20 minutos."',
           '• Preguntas (máximo 4): ¿Para qué necesitas el inglés? (opción múltiple: trabajo / irme del país / estudio / mi hijo) · ¿Para cuándo quieres empezar? (este mes / en 1-2 meses / solo averiguando) · ¿Puedes asistir presencial en Bucaramanga? (sí / no) · Nombre y WhatsApp.',
@@ -58,7 +58,7 @@ for t in ['• PAUSAR hoy "Curso Inglés" y "Au Pair" tal como están (tipo "má
     para(t, after=2)
 
 h('4. Au Pair')
-for t in ['• La campaña separada de Au Pair se pausa: a $20.000/día no sale de aprendizaje y 3 de cada 5 leads creen que es una agencia de empleo.',
+for t in ['• La campaña separada de Au Pair ya está pausada (08/10): a $20.000/día no salía de aprendizaje, 1 cita en 8 días y 3 de cada 5 leads creían que era una agencia de empleo. Esos $20.000/día quedan reservados para el 15/10.',
           '• Vuelve como UN anuncio (V5_PASAPORTE) dentro del conjunto de WhatsApp. Primera línea del texto del anuncio: "No somos agencia: te preparamos en inglés para la entrevista de Au Pair o de trabajo en el exterior. El trámite lo haces con la agencia que elijas."',
           '• Prohibido por política de Meta (resultados irreales): prometer empleo, visa, familia anfitriona o salario. Solo preparación.',
           '• La categoría especial "Empleo" no es obligatoria para audiencia en Colombia; no marcarla.']:
