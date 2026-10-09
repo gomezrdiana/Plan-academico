@@ -39,7 +39,7 @@ for t in ['**Fecha y lugar:** jueves 09/10/2026, sede Heiiu, el salón de clase.
           '**Quién manda en el set: LA PROFE.** Ella dirige la clase y las escenas con la HOJA DE LA PROFE (página siguiente); el que graba (Isaac) sigue esa hoja y se encarga de que se vea y se oiga bien (encuadre, audio, dos ángulos); coordinación (Jacqueline) consigue permisos y datos antes de la clase y graba sus dos piezas después. Si algo no sale como está escrito, se graba la versión más cercana y se anota; no se inventa otra escena.',
           '**Equipo:** celular o cámara en vertical (9:16, 1080x1920), micrófono de solapa o el celular a menos de 1,5 m del que habla, luz natural o del salón (sin aro de luz: se ve a anuncio). Un segundo celular para grabar la simulación desde otro ángulo.',
           '**Permisos:** todos los estudiantes tienen firmada la autorización de imagen en su contrato de matrícula. La profe les pregunta si están contentos con la clase y les pide ayuda: "parte de mi trabajo es grabar contenido"; si alguien dice voluntariamente que no quiere salir, queda fuera de plano. Coordinación entrega la fecha de matrícula de los 3 que empezaron de cero (para "hace ___ meses" en pantalla). Sin nombres de estudiantes en pantalla.',
-          '**Orden cronológico del día:** (1) antes de la clase, con el salón vacío: guion 3 "Siete meses" (profe + tablero), guion 4 "La vacante" (profe), tomas de la fachada y la recepción; (2) durante la clase, con el grupo: guion 7 "La corrección del día" al abrir (usa el error paper real), guion 2 "Esto es una clase" (simulación de entrevista o reclamo, 10 minutos de pie), guion 5 "El pasaporte" (simulación de entrevista con familia/empleador, 10 minutos), guion 1 "Llegué sin una palabra" (cada uno de los 3 que empezó de cero: la frase en español con su dato real + 10 s en inglés); (3) después de la clase: guion 6 "Te lo firmamos" (Jacqueline con el contrato impreso), guion 9 "Su hijo a los 18" (Jacqueline en recepción) y guion 8 "El Pacto" (profe, 5 minutos, a solas). Se graban los 9; ninguno es opcional. Total estimado: 3 horas.',
+          '**Orden cronológico del día:** (1) antes de la clase, con el salón vacío: guion 3 "Siete meses" (profe + tablero), guion 4 "La vacante" (profe), tomas de la fachada y la recepción; (2) durante la clase, con el grupo: guion 7 "La corrección del día" al abrir (usa el error paper real), guion 2 "Esto es una clase" (simulación de entrevista o reclamo, 10 minutos de pie), guion 5 "El pasaporte" (simulación de entrevista con familia/empleador, 10 minutos), guion 1 "Llegué sin una palabra" (cada uno de los 3 que empezó de cero: la frase en español con su dato real + 10 s en inglés); (3) después de la clase: guion 1 "Te acompañamos" (Jacqueline con el anexo de garantía impreso), guion 9 "Su hijo a los 18" (Jacqueline en recepción) y guion 8 "El Pacto" (profe, 5 minutos, a solas). Se graban los 9; ninguno es opcional. Total estimado: 3 horas.',
           '**Qué se entrega (lunes 12/10, al WhatsApp de gerencia, enviados como DOCUMENTO, no como video, para que WhatsApp no los comprima):** por cada guion, dos archivos: versión completa (20-30 s) y versión de 15 s (gancho + frase fuerte + cierre). Nombre del archivo = código del anuncio + duración: V1_VIDEODEHOY_30s.mp4, V1_VIDEODEHOY_15s.mp4, etc. (los códigos están en cada guion). Formato 9:16, 1080x1920, MP4. Subtítulos grandes, palabra por palabra, dentro de la zona segura de Reels (ni en el 14% superior ni en el 35% inferior). Colores de marca: naranja #E54C09 y amarillo #FBC900 para los textos en pantalla (el amarillo nunca como texto sobre blanco). Logo de Heiiu solo en el último segundo. Sin música encima de la voz en los guiones 1, 6 y 8; en los demás, música baja o ninguna. Además, el material en bruto completo en una subcarpeta BRUTO (sirve para cortar otros ganchos sin volver a grabar).',
           '**Lo que NO se graba ni se edita (reglas fijas):** precio, nombres de programas ("Arranque", "A1 intensivo"), "fácil", "gratis", "descuento", "rápido" sin número, "garantizado en X meses", "consigue trabajo", "visa", "profesores nativos", días de la semana. Si el profe lo dice, se repite la toma.']:
     para(t, after=3)
@@ -76,7 +76,7 @@ for fila in [
  ['4 "Siete meses"', 'VELOCIDAD CON NÚMERO: "7 meses, 575 horas" compite con el "rápido" de Open English y E4CC sin mentir; nadie más publica horas.', 'Costo por cita igual o menor que las de prueba, y leads que ya no preguntan "¿cuánto dura?".'],
  ['3 "La vacante"', 'DESTINO TRABAJO AQUÍ: el gancho de empleo trae las conversaciones más baratas (dato propio: destino cuesta la mitad que producto).', 'Más conversaciones baratas, aunque conviertan menos a cita.'],
  ['8 "El pasaporte"', 'DESTINO IRSE (Au Pair, Work and Travel, Europa): la conversación más barata de la base, sin confundirse con agencia de empleo.', 'Conversaciones baratas que SÍ contestan al agente (hoy 3 de 5 creen que es una agencia).'],
- ['1 "Te lo firmamos"', 'GARANTÍA COMO CIERRE, no como gancho: en retargeting (quien ya vio otra pieza o preguntó precio) sube la tasa de cita. Es donde está la rotura real: 284 preguntaron precio, 21 agendaron.', 'Entre los que ya preguntaron precio, más citas que sin ella.'],
+ ['1 "Te acompañamos (y te lo firmamos)"', 'GARANTÍA COMO CIERRE, no como gancho: en retargeting (quien ya vio otra pieza o preguntó precio) sube la tasa de cita. Es donde está la rotura real: 284 preguntaron precio, 21 agendaron.', 'Entre los que ya preguntaron precio, más citas que sin ella.'],
  ['5 "El Pacto"', 'FILTRO: decir "no es fácil" trae menos leads pero más citas atendidas (menos "no contesta").', 'Menos leads, mayor % que contesta y asiste a la cita.'],
  ['7 "Su hijo a los 18"', 'PADRES: abre el grupo de la tarde y el sabatino con un comprador distinto (el acudiente).', 'Citas con acudiente para la franja 1:30-6:00.'],
 ]:
@@ -90,23 +90,23 @@ h('ORDEN DE GRABACIÓN (prioridad)', 12)
 for t in ['1. GUION 6 "Llegué sin una palabra" (los 3 que empezaron de cero: confesión + inglés de hoy) y GUION 2 "Esto es una clase": estudiantes reales hablando. Es la prueba que más convierte en compras caras (investigación 08/10) y lo que ningún avatar ni competidor puede mostrar.',
           '2. GUION 4 "Siete meses": velocidad con número (575 h, 7 meses). Ningún competidor publica sus horas.',
           '3. GUION 3 "La vacante": el destino #1 de la base.',
-          '4. GUION 1 "Te lo firmamos": la garantía va DESPUÉS del precio (bot, cita, retargeting), no como gancho de alcance. Se graba igual.',
+          '4. GUION 1 "Te acompañamos": la garantía va DESPUÉS del precio (bot, cita, retargeting), no como gancho de alcance. Se graba igual.',
           '5. GUION 8 "El pasaporte": el destino de irse (Au Pair / Work and Travel / Europa), la conversación más barata.',
           '6. GUION 9 "La corrección del día": 10 minutos, el único que da algo antes de pedir (reciprocidad).',
           '7. GUION 5 "El Pacto" (filtro, poco volumen) y GUION 7 "Su hijo a los 18". Se graban los 9; el orden es de prioridad por si algo falla, no una lista opcional.']:
     para(t, after=2)
 
-guion(1, 'TE LO FIRMAMOS', 'PRIORITARIO', 'La garantía por escrito, legible y fácil de cobrar. OJO: siempre "única academia PRESENCIAL de Bucaramanga" (las plataformas online E4CC y EF sí tienen garantía escrita; Wall Street ya no opera en la ciudad). Y la nuestra cabe en 3 líneas.',
-      'Coordinación (Jacqueline), de pie, con el contrato impreso en la mano. Fondo: la recepción o un aula vacía con el tablero.', '20-25 s',
-      'Plano medio. Al decir "aquí", muestra la hoja a cámara y señala la cláusula con el dedo. Al final, la firma de la academia en la hoja.',
-      ['Todas las academias te prometen que vas a aprender inglés. Nosotros te lo entregamos firmado.',
-       'Aquí, en tu contrato, dice: si cumples con tu asistencia, tus tareas y tus evaluaciones, y no avanzas, te devolvemos el cien por ciento del nivel.',
-       'Si cumples y no avanzas, el que pierde plata somos nosotros. No te pedimos que nos creas: te pedimos que leas.'],
-      '"GARANTÍA DE APRENDIZAJE POR ESCRITO" · "Única academia presencial de Bucaramanga que la firma · sin letra pequeña"',
-      '"Escríbenos y te mostramos el contrato antes de que decidas." Botón: WhatsApp.',
-      'Que el contrato real se vea legible en el plano cerrado (cláusula de garantía). Sin cifras de precio en cuadro. Esta pieza se usa en retargeting (quien ya vio otro anuncio o preguntó precio): ahí es donde la garantía decide.',
-      gancho='Jacqueline levanta el contrato a cámara. Texto grande: "Si cumples y no avanzas, te devolvemos el 100%. Firmado."',
-      codigo='V6_GARANTIA', prellenado='Hola, vi el video de la garantía (V6). ¿Me muestran el contrato?')
+guion(1, 'TE ACOMPAÑAMOS (Y TE LO FIRMAMOS)', 'PRIORITARIO', 'La motivación que falla y el acompañamiento que la sostiene (el profe como coach), cerrado con la garantía por escrito. OJO: siempre "única academia PRESENCIAL de Bucaramanga" (las plataformas online E4CC y EF sí tienen garantía escrita).',
+      'Coordinación (Jacqueline), de pie, con el ANEXO DE GARANTÍA impreso en la mano (el documento que se firma con la matrícula; la garantía no está en el contrato de 24 cláusulas). Fondo: la recepción o un aula vacía con el tablero.', '25-30 s',
+      'Plano medio. En la última frase, muestra el anexo a cámara y señala la garantía con el dedo. Cierre sobre la hoja, legible.',
+      ['Tienes las ganas de aprender inglés. Pero a veces te falla la motivación. Eso no solo pasa con el inglés: pasa con todo.',
+       'Por eso aquí no solo te enseñan. Te acompañan: tu profe es tu coach. Te corrige todos los días, te pide cuentas y no te deja soltar.',
+       'Y si cumples y no avanzas, te devolvemos el cien por ciento del nivel. Te lo entregamos firmado.'],
+      '"Las ganas no bastan" · "Tu profe es tu coach" · "Garantía de aprendizaje por escrito · única academia presencial de Bucaramanga que la firma"',
+      '"Escríbenos y te mostramos la garantía antes de que decidas." Botón: WhatsApp.',
+      'El anexo real se ve legible en el plano final. Sin cifras de precio en cuadro. Esta pieza se usa en retargeting (quien ya vio otro anuncio o preguntó precio).',
+      gancho='Jacqueline a cámara, sin papel todavía: "Tienes las ganas. Pero a veces te falla la motivación." Texto grande: "Las ganas no bastan."',
+      codigo='V6_GARANTIA', prellenado='Hola, vi el video del acompañamiento (V6). ¿Me muestran la garantía?')
 
 guion(2, 'ESTO ES UNA CLASE', 'PRIORITARIO', 'El método visto: estudiantes hablando desde la primera clase, el profesor como coach, no como conferencista.',
       'Nadie a cámara: se graba la simulación real del grupo B2, toda en inglés: entrevista de trabajo (escenario en el tablero: "A company in Bucaramanga is hiring a bilingual customer service assistant"; 3 preguntas en el tablero; 1 candidato, 1 entrevistador, 3 observadores de pie; rotan cada 4 minutos). La profe corrige en vivo lo visible (volumen, mirada, repetir la frase completa, pronunciación). Al final, la profe dice UNA frase a cámara. Todo esto está en la hoja de la profe; Isaac solo graba.', '25-30 s',
@@ -168,10 +168,11 @@ guion(6, 'LLEGUÉ SIN UNA PALABRA', 'PRIORITARIO', 'Prueba real: tres estudiante
       codigo='V1_VIDEODEHOY', prellenado='Hola, vi el video del antes y después (V1). Quiero saber más.')
 
 guion(7, 'SU HIJO A LOS 18', 'SE GRABA (para el grupo de la tarde y el sabatino)', 'Padres: el inglés resuelto antes de la universidad, y la disciplina que se entrena aquí.',
-      'Coordinación (Jacqueline) a cámara, en la recepción, hablando a un papá o mamá. Si hay un padre voluntario con cláusula, mejor él.', '25 s',
+      'Coordinación (Jacqueline) a cámara, en la recepción, hablando a un papá o mamá. Si hay un padre voluntario con cláusula, mejor él.', '25-30 s',
       'Plano medio fijo; corte de 3 segundos a jóvenes de 15-17 en clase (de espaldas o con autorización).',
       ['En grado once, el Saber 11 ya le evalúa inglés. Imagínese a su hijo a los dieciocho con eso resuelto: la universidad o la beca sin ese requisito pendiente.',
-       'Y algo que los papás nos agradecen más que el inglés: aquí se entrena constancia. Un video al día, asistencia, tareas. Lo que aprende de cumplir le sirve para todo.',
+       'Y algo que los papás nos agradecen más que el inglés: aquí se entrena constancia. Asistencia, tareas, cumplir. Y cumplir no es solo para aprender inglés: es para la vida.',
+       'En un mundo con inteligencia artificial, el que se sabe comunicar y cumple es el que avanza. Su hijo se lo va a agradecer.',
        'Desde los doce años, en la tarde, en la noche o los sábados.'],
       '"Desde los 12 años" · "Tarde · noche · sábados" · "Garantía por escrito"',
       '"Pregúntenos qué horario le sirve a su hijo. Escríbanos." Botón: WhatsApp.',
@@ -211,7 +212,7 @@ for t in ['• Vertical 9:16, subtítulos grandes desde el primer segundo, sin m
           '• Prohibido en pantalla y en voz: precio, "Arranque", "A1 intensivo", "descuento", "gratis", "fácil", "rápido" sin número, "bilingüe", "consigue trabajo", "duplica tu salario", "profesores nativos", "única academia con garantía" sin la palabra PRESENCIAL (las online E4CC y EF la tienen), fecha de inicio de cohorte.',
           '• Cierre de todos: botón de WhatsApp (los anuncios nuevos van a clic-a-WhatsApp para que el agente los reciba; los de formulario llevan la pregunta de motivo).',
           '• Grabar cada guion dos veces: una completa y una de 15 segundos (solo la frase fuerte + cierre) para pruebas.',
-          '• Tomas de apoyo (10 minutos): estudiantes de pie en simulación, el tablero con la Frase del Día, el contrato de garantía en primer plano, la fachada y la recepción.',
+          '• Tomas de apoyo (10 minutos): estudiantes de pie en simulación, el tablero con la Frase del Día, el anexo de garantía en primer plano, la fachada y la recepción.',
           '• Qué se mide del 15 al 31/10 por pieza: costo por conversación, costo por cita atendida, citas por pieza. La que gane se queda; la que no, se apaga.']:
     para(t, after=2)
 
@@ -239,13 +240,12 @@ d3 = Document(); d3.styles['Normal'].font.name = 'Calibri'; d3.styles['Normal'].
 for sec in d3.sections: sec.left_margin = sec.right_margin = Pt(60); sec.top_margin = sec.bottom_margin = Pt(50)
 pp = d3.add_paragraph(); rr = pp.add_run('HOJA DE COORDINACIÓN — GRABACIÓN 09/10/2026'); rr.bold = True; rr.font.size = Pt(14); rr.font.color.rgb = NAR
 HOJA_COORD = [
- '**ANTES DE LA CLASE:** (1) Entregar por escrito a Isaac la fecha de matrícula de los 3 estudiantes que empezaron de cero en Heiiu (va en pantalla como "hace ___ meses"). (2) La autorización de imagen ya está firmada en el contrato de todos; la profe lo plantea al grupo como ayuda a su trabajo; si alguien dice voluntariamente que no quiere salir, queda fuera de plano y listo.',
- '**Tener listo:** el contrato de matrícula real impreso (2 copias), abierto en la cláusula de la garantía de aprendizaje, con la firma de la academia. Sin precios a la vista en el cuadro.',
- '**DESPUÉS DE LA CLASE, tus dos piezas (15 min, a cámara, de pie):**',
- '  1. "Te lo firmamos" (20-25 s). Levantas el contrato a cámara y, señalando la cláusula con el dedo, dices: "Todas las academias te prometen que vas a aprender inglés. Nosotros te lo entregamos firmado. Aquí, en tu contrato, dice: si cumples con tu asistencia, tus tareas y tus evaluaciones, y no avanzas, te devolvemos el cien por ciento del nivel. Si cumples y no avanzas, el que pierde plata somos nosotros. No te pedimos que nos creas: te pedimos que leas." Al final, la cámara cierra sobre la cláusula, que debe leerse. Dos tomas.',
- '  2. "Su hijo a los 18" (25 s), en la recepción, como hablándole a un papá o una mamá: "En grado once, el Saber 11 ya le evalúa inglés. Imagínese a su hijo a los dieciocho con eso resuelto: la universidad o la beca sin ese requisito pendiente. Y algo que los papás nos agradecen más que el inglés: aquí se entrena constancia. Un video al día, asistencia, tareas. Lo que aprende de cumplir le sirve para todo. Desde los doce años, en la tarde, en la noche o los sábados." Dos tomas.',
+ '**Tu parte en la grabación son dos piezas, a cámara, después de la clase (15 minutos). La clase la maneja la profe y la grabación Isaac; tú no tienes que estar pendiente de nada más.**',
+ '**Antes de la clase, un solo dato:** dile a cada uno de los 3 estudiantes que empezaron de cero en Heiiu cuántos meses llevan desde su matrícula (míralo en su contrato). En cámara cada uno dice "Llegué el primer día sin hablar una palabra de inglés. Hace ___ meses": es para que digan el número exacto.',
+ '**Tener listo:** el ANEXO DE GARANTÍA HEIIU DE APRENDIZAJE impreso (el que se firma con la matrícula; está en recursos/comercial/productos/ANEXO_GARANTIA_HEIIU.pdf), 2 copias, con la firma de la academia. Sin precios a la vista.',
+ '  1. "Te acompañamos" (duración: 25 a 30 segundos), de pie, primero sin el papel: "Tienes las ganas de aprender inglés. Pero a veces te falla la motivación. Eso no solo pasa con el inglés: pasa con todo. Por eso aquí no solo te enseñan. Te acompañan: tu profe es tu coach. Te corrige todos los días, te pide cuentas y no te deja soltar." Y ahí levantas el anexo a cámara, señalando la garantía: "Y si cumples y no avanzas, te devolvemos el cien por ciento del nivel. Te lo entregamos firmado." Cierre: "Escríbenos y te mostramos la garantía antes de que decidas." La cámara termina sobre la hoja. Dos tomas.',
+ '  2. "Su hijo a los 18" (duración: 25 a 30 segundos), en la recepción, como hablándole a un papá o una mamá: "En grado once, el Saber 11 ya le evalúa inglés. Imagínese a su hijo a los dieciocho con eso resuelto: la universidad o la beca sin ese requisito pendiente. Y algo que los papás nos agradecen más que el inglés: aquí se entrena constancia. Asistencia, tareas, cumplir. Y cumplir no es solo para aprender inglés: es para la vida. En un mundo con inteligencia artificial, el que se sabe comunicar y cumple es el que avanza. Su hijo se lo va a agradecer. Desde los doce años, en la tarde, en la noche o los sábados." Cierre: "Pregúntenos qué horario le sirve a su hijo. Escríbanos." Dos tomas.',
  '**Con la cámara prendida NO se dice:** precio, "Arranque", "fácil", "gratis", "descuento", "rápido", "garantizado en siete meses", "consigue trabajo", "profesores nativos", ni nombres de estudiantes. Si se te sale, se repite la toma.',
- '**Al terminar:** le reportas a gerencia por WhatsApp en una línea: "Grabación hecha: piezas grabadas ___, quién quedó fuera de plano ___".',
 ]
 for t in HOJA_COORD:
     pp = d3.add_paragraph(); pp.paragraph_format.space_after = Pt(3)
