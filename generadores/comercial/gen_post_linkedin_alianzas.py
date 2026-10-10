@@ -5,7 +5,7 @@ Salida: recursos/comercial/INDUCCION_COMERCIAL/contratacion comercial/POST_LINKE
 from openpyxl import Workbook
 from openpyxl.styles import Font, Alignment
 
-EMAIL = 'auxiliaradministrativo@heiiu.com'; ASUNTO = 'Alianzas Heiiu'
+EMAIL = 'citasheiiu@gmail.com'; ASUNTO = 'Alianzas Heiiu'
 wb = Workbook()
 
 def hoja(nombre, lineas, ancho=120, primera=False):
@@ -89,7 +89,7 @@ hoja('NOTA INTERNA (no publicar)', [
  'Documentos del proceso: PROPUESTA_EJECUTIVA_ALIANZAS.pdf (se envía a quien pase el filtro del audio), ANEXO_COMPENSACION_EJECUTIVO_ALIANZAS_BORRADOR.docx (abogado), TABLERO_ALIANZAS.xlsx (seguimiento desde el día 1).',
  'En la publicación NO se dice "la única academia que firma la garantía" hasta completar el benchmarking de la primera semana (Smart, Colombo, Best English, Praxis, Lingui, Berlitz, Celai).',
  'Ya hay una candidata en conversación (perfil ex directora comercial de AME); la publicación abre el abanico y sirve de referencia de mercado.',
- 'Correo de recepción: confirmar que auxiliaradministrativo@heiiu.com está activo y que alguien lo revisa a diario; si no, cambiar por el que se use.',
+ 'Correo de recepción: citasheiiu@gmail.com, asunto "Alianzas Heiiu" (filtrar en Gmail por el asunto).',
 ])
 
 out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\POST_LINKEDIN_VACANTE_ALIANZAS.xlsx'
