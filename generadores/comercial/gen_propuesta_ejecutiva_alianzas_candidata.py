@@ -185,4 +185,7 @@ E.append(KeepTogether([P('Herramientas y equipo desde el primer día', 'h2'),
  LI('Un producto que se puede mostrar: academia presencial con licencia de la Secretaría de Educación desde 2012, programas registrados, triple certificación de calidad ICONTEC (NTC 5555, NTC 5580 e ISO 9001) vigente, con auditorías de seguimiento, convenio con la caja de compensación Cajasan, y garantía de aprendizaje por escrito, la única academia presencial de Bucaramanga que la firma.'),
  LI('Clases de muestra y diagnósticos de inglés para activar a las empresas, dictados por el equipo académico.')]))
 
+E.append(Spacer(1, 6))
+E.append(P('Esta es una propuesta de vinculación. Las condiciones definitivas, incluido el período de prueba de ley, quedan en el contrato laboral y en su anexo de compensación y metas, que se firman al ingresar.', 'note'))
+
 doc.build(E, onFirstPage=pie, onLaterPages=pie); print('OK', out)
