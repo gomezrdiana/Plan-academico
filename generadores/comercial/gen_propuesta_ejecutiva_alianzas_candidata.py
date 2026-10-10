@@ -172,13 +172,14 @@ E.append(KeepTogether([P('Lo que buscamos en la persona que se una al equipo', '
 E.append(KeepTogether([P('Reglas de atribución y cartera', 'h2'),
  LI('<b>Empresas registradas:</b> la empresa que el cargo registra primero en el tablero queda a su nombre.'),
  LI('<b>Cartera propia:</b> el estudiante que llega con la carta de postulación de una empresa aliada genera para el cargo el 6% de sus pagos durante los 12 meses siguientes a la firma de su matrícula y el 3% del mes 13 al 24, aunque la matrícula la haga una asesora. La cartera no cuenta para la meta.'),
- LI('<b>Canales separados:</b> lo que llega por anuncios y WhatsApp es del equipo de asesoría; lo que se abre en campo es del cargo.'),
+ LI('<b>Canales claros, trabajo en equipo:</b> lo que llega por anuncios y WhatsApp es del equipo de asesoría; lo que se abre en campo es del cargo. Las asesoras apoyan las activaciones y la matrícula de los interesados del canal, y cada una cobra su parte.'),
  LI('<b>Bases de datos propias:</b> los contactos que el cargo genere en ferias, colegios, charlas y empresas se registran en el sistema de la academia dentro de las 24 horas siguientes. El cargo es responsable de que el equipo de asesoría los gestione, con o sin su presencia, y hace seguimiento hasta el cierre. Las matrículas que salgan de esas bases, registradas a su nombre antes del primer contacto de la asesora, generan su comisión de cartera (6% y 3%).'),
  LI('<b>Cierre de apoyo:</b> cuando una asesora no pueda atender a un cliente y gerencia o coordinación se lo asigne, el cargo puede cerrar esa matrícula y recibe la misma comisión de cierre que habría recibido la asesora. Esas ventas no cuentan para la meta trimestral del cargo.'),
  LI('<b>Firma de gerencia:</b> cada convenio y cada orden los firma gerencia; el cargo cierra y la academia respalda.')]))
 
 # ---------- 9. Herramientas ----------
-E.append(KeepTogether([P('Herramientas desde el primer día', 'h2'),
+E.append(KeepTogether([P('Herramientas y equipo desde el primer día', 'h2'),
+ LI('<b>Un equipo que trabaja contigo:</b> el equipo de asesoría comercial apoya las activaciones (charlas, ferias, jornadas de inscripción en empresas y colegios), atiende y matricula a los interesados que genera el canal, y coordinación académica dicta las clases de muestra y los diagnósticos. El cargo lidera el canal; no lo hace solo.'),
  LI('El convenio de alianza, la orden de plan empresa y la tabla de precios, listos para firmar.'),
  LI('Un producto que se puede mostrar: academia presencial con licencia de la Secretaría de Educación desde 2012 y garantía de aprendizaje por escrito, la única academia presencial de Bucaramanga que la firma.'),
  LI('Clases de muestra y diagnósticos de inglés para activar a las empresas, dictados por el equipo académico.')]))
