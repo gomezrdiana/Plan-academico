@@ -89,7 +89,6 @@ E.append(KeepTogether([P('Autonomía y seguimiento', 'h2'),
  LI('<b>Dos reuniones fijas por semana, de 30 minutos, con gerencia:</b> el lunes se definen las empresas y reuniones de la semana; el jueves se revisan resultados contra la meta del mes y se ajusta.')]))
 
 # ---------- 3. Las ofertas ----------
-E.append(PageBreak())
 E.extend(([P('Lo que se lleva a las empresas', 'h2'),
  tabla([
  ['Oferta', 'Qué recibe la empresa', 'Comisión del cargo'],
