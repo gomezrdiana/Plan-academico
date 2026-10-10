@@ -67,7 +67,8 @@ E = []
 E.append(P('HEIIU ENGLISH ACADEMY · PROPUESTA DE VINCULACIÓN', 'kicker'))
 E.append(P('Ejecutivo(a) de Alianzas Empresariales', 'h1'))
 E.append(P('Canal corporativo e institucional · Bucaramanga y área metropolitana', 'sub'))
-E.append(caja([P('Las empresas de Bucaramanga necesitan gente que hable inglés, y no solo dentro de su equipo. Con sus programas de bienestar, con beneficios para las familias de sus colaboradores o a través de sus fundaciones, pueden aportar a la educación de su comunidad: formar personas en inglés para abrirles oportunidades. Heiiu tiene el programa, la licencia y una garantía de aprendizaje por escrito. <b>Buscamos a la persona que construya este canal y lo haga suyo.</b>'),
+E.append(caja([P('Las empresas de Bucaramanga necesitan gente que hable inglés, y no solo dentro de su equipo. Con sus programas de bienestar, con beneficios para las familias de sus colaboradores o a través de sus fundaciones, pueden aportar a la educación de su comunidad: formar personas en inglés para abrirles oportunidades. Heiiu tiene el programa, la licencia y una garantía de aprendizaje por escrito.'),
+              P('Pero en Heiiu no formamos solo en inglés: formamos personas. Cada clase entrena virtudes (prudencia, fortaleza, templanza y justicia) y hábitos de constancia y cumplimiento, porque el inglés abre la puerta y el carácter es el que sostiene lo que viene después. Esa es nuestra apuesta por un mejor santandereano: más preparado para emprender, para trabajar con el mundo y para competir en una economía que ya funciona con inteligencia artificial. <b>Buscamos a la persona que lleve esta propuesta a las empresas, construya este canal y lo haga suyo.</b>'),
               P('El cargo requiere experiencia en alianzas estratégicas, convenios y dirección comercial: llevar las ofertas de Heiiu a las empresas y convertirlas en estudiantes.')]))
 E.append(Spacer(1, 6))
 E.append(tarjetas([('10%', 'de lo que paga cada empresa<br/>por los cupos de su gente'), ('6%', 'mes a mes el primer año<br/>de cada estudiante de la alianza'), ('$3.5M', 'ingreso mínimo garantizado los<br/>3 primeros meses (con indicadores)')], w=5.6))
@@ -79,7 +80,7 @@ for t in ['<b>Prospección y relacionamiento:</b> identificar empresas y fundaci
           '<b>Presentación de la propuesta de valor:</b> exponer las dos modalidades de vinculación (alianza sin costo y plan empresa) en reuniones ejecutivas.',
           '<b>Negociación y cierre:</b> formalizar convenios y órdenes de plan empresa dentro de las condiciones comerciales establecidas, con firma de gerencia.',
           '<b>Activación de alianzas:</b> coordinar charlas, diagnósticos de nivel y clases de muestra que conviertan cada convenio en estudiantes matriculados.',
-          '<b>Desarrollo de nuevas oportunidades:</b> a partir de lo que se escucha en el mercado, proponer a gerencia nuevos programas, formatos y líneas de expansión (sectores, ciudades, convocatorias públicas o de cooperación).']:
+          '<b>Desarrollo de nuevas oportunidades:</b> a partir de lo que se escucha en el mercado, proponer a gerencia nuevos programas (por ejemplo, inglés para emprendedores o inglés para trabajar con inteligencia artificial), formatos y líneas de expansión (sectores, ciudades, convocatorias públicas o de cooperación).']:
     E.append(LI(t))
 
 E.append(KeepTogether([P('Autonomía y seguimiento', 'h2'),
