@@ -160,7 +160,7 @@ E.append(KeepTogether([P('Proyección del cargo', 'h2'),
 
 # ---------- 7. Lo que buscamos ----------
 E.append(KeepTogether([P('Lo que buscamos en la persona que se una al equipo', 'h2'),
- P('Un ritmo de dirección comercial: dos empresas nuevas con quien decide, cada día. En los tres primeros meses, la gestión y las firmas respaldan el ingreso mínimo de ' + m(3_500_000) + ', y la meta de ventas es de ' + m(30_000_000) + ' al mes:'),
+ P('Esperamos un ritmo constante: hablar cada día con quien decide en al menos dos empresas nuevas (40 al mes). En los tres primeros meses, cumplir esa gestión y las firmas del mes asegura el ingreso mínimo de ' + m(3_500_000) + '; la meta de ventas es de ' + m(30_000_000) + ' al mes:'),
  tabla([
  ['Mes', 'Gestión y firmas (respaldan el ingreso mínimo)', 'Meta de ventas'],
  ['Mes 1', '40 empresas contactadas con quien decide · 12 reuniones · 2 firmas', m(30_000_000) + ' (≈ 6 programas completos + 1 Arranque)'],
