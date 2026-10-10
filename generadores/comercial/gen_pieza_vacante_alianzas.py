@@ -1,58 +1,70 @@
 # -*- coding: utf-8 -*-
-"""Pieza gráfica 1080x1350 — vacante Ejecutivo(a) Senior de Alianzas Empresariales.
-Protagonista: el ingreso mensual alcanzable (cifras de la propuesta, con meta y pagos de contado; sin acelerador ni cartera).
+"""Pieza gráfica 1080x1350 — vacante Ejecutivo(a) Senior de Alianzas Empresariales. Estilo ejecutivo (fondo oscuro, curva de ingreso).
+Cifras de la propuesta: ingreso mensual cumpliendo la meta, pagos de contado; sin acelerador ni cartera.
 Salida: recursos/comercial/INDUCCION_COMERCIAL/contratacion comercial/PIEZA_VACANTE_ALIANZAS.png"""
 import os
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 BASE = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu'
-NAR = (229, 76, 9); AMAR = (251, 201, 0); CREMA = (255, 248, 231); CAFE = (48, 39, 28); BLANCO = (255, 255, 255); NAR2 = (240, 140, 90)
+NAR = (229, 76, 9); AMAR = (251, 201, 0); CREMA = (255, 248, 231); FONDO = (24, 21, 18); GRIS = (170, 160, 150); BLANCO = (255, 255, 255)
 F = 'C:/Windows/Fonts/'
 def font(n, s): return ImageFont.truetype(F + n, s)
 W, H = 1080, 1350
-im = Image.new('RGB', (W, H), CREMA); d = ImageDraw.Draw(im)
 
-# ---- cabecera ----
-TOP = 470
-d.rectangle([0, 0, W, TOP], fill=NAR)
-d.rectangle([0, 0, 300, 20], fill=AMAR)
+im = Image.new('RGB', (W, H), FONDO)
+glow = Image.new('RGBA', (W, H), (0, 0, 0, 0)); g = ImageDraw.Draw(glow)
+g.ellipse([W - 620, -380, W + 380, 520], fill=NAR + (110,))
+g.ellipse([-420, H - 520, 380, H + 300], fill=NAR + (60,))
+glow = glow.filter(ImageFilter.GaussianBlur(160))
+im = Image.alpha_composite(im.convert('RGBA'), glow)
+d = ImageDraw.Draw(im)
+
+M = 72
 try:
     logo = Image.open(os.path.join(BASE, r'recursos\marca heiiu\logo_heiiu_sobre_naranja.png')).convert('RGBA')
-    lh = 88; lw = int(logo.width * lh / logo.height); logo = logo.resize((lw, lh))
-    im.paste(logo, (64, 54), logo)
+    lh = 74; lw = int(logo.width * lh / logo.height); logo = logo.resize((lw, lh))
+    im.paste(logo, (M, 62), logo)
 except Exception:
-    d.text((64, 60), 'Heiiu', font=font('calibrib.ttf', 80), fill=BLANCO)
-d.rounded_rectangle([W - 400, 64, W - 64, 136], radius=36, fill=AMAR)
-d.text((W - 232, 100), 'CONTRATACIÓN INMEDIATA', font=font('calibrib.ttf', 28), fill=CAFE, anchor='mm')
-d.text((64, 185), 'BUSCAMOS', font=font('calibrib.ttf', 42), fill=AMAR)
-d.text((64, 232), 'EJECUTIVO(A) SENIOR', font=font('calibrib.ttf', 90), fill=BLANCO)
-d.text((64, 330), 'DE ALIANZAS EMPRESARIALES', font=font('calibrib.ttf', 60), fill=BLANCO)
-d.text((64, 410), 'Mínimo 5 años de experiencia B2B · Bucaramanga', font=font('calibri.ttf', 34), fill=CREMA)
+    d.text((M, 64), 'Heiiu', font=font('calibrib.ttf', 64), fill=BLANCO)
+d.rounded_rectangle([W - M - 330, 72, W - M, 128], radius=28, outline=AMAR, width=3)
+d.text((W - M - 165, 100), 'CONTRATACIÓN INMEDIATA', font=font('calibrib.ttf', 24), fill=AMAR, anchor='mm')
 
-# ---- cifra protagonista ----
-d.text((W // 2, TOP + 62), 'TU INGRESO PUEDE LLEGAR A', font=font('calibrib.ttf', 36), fill=CAFE, anchor='mm')
-d.text((W // 2, TOP + 168), '$13,6 MILLONES', font=font('calibrib.ttf', 118), fill=NAR, anchor='mm')
-d.text((W // 2, TOP + 258), 'AL MES  ·  y las comisiones no tienen techo', font=font('calibrib.ttf', 36), fill=CAFE, anchor='mm')
+def spaced(x, y, text, fnt, fill, sp=6):
+    for ch in text:
+        d.text((x, y), ch, font=fnt, fill=fill); x += d.textlength(ch, font=fnt) + sp
+spaced(M, 200, 'BUSCAMOS', font('calibrib.ttf', 30), AMAR, 8)
+d.text((M, 240), 'Ejecutivo(a) Senior', font=font('calibrib.ttf', 96), fill=BLANCO)
+d.text((M, 344), 'de Alianzas Empresariales', font=font('calibrib.ttf', 70), fill=NAR)
+d.text((M, 436), 'Mínimo 5 años de experiencia B2B  ·  Bucaramanga', font=font('calibri.ttf', 34), fill=GRIS)
+d.line([M, 506, M + 120, 506], fill=AMAR, width=5)
 
-# ---- escalera de ingresos (barras crecientes) ----
-etapas = [('Meses 1-3', '$3,5M', 'garantizados', 3.5), ('Meses 4-6', '$6,8M', '', 6.8), ('Meses 7-12', '$10,3M', '', 10.35), ('Año 2', '$13,6M', '', 13.65)]
-base_y = H - 230; maxh = 270; bw = 190; gap = (W - 128 - 4 * bw) // 3
-for i, (lab, val, sub, v) in enumerate(etapas):
-    x = 64 + i * (bw + gap); h = int(maxh * v / 13.65)
-    color = NAR if i == 3 else NAR2
-    d.rounded_rectangle([x, base_y - h, x + bw, base_y], radius=16, fill=color)
-    d.text((x + bw // 2, base_y - h - 34), val, font=font('calibrib.ttf', 42), fill=CAFE, anchor='mm')
-    if sub: d.text((x + bw // 2, base_y - h + 30), sub, font=font('calibrib.ttf', 24), fill=BLANCO, anchor='mm')
-    d.text((x + bw // 2, base_y + 28), lab, font=font('calibrib.ttf', 28), fill=CAFE, anchor='mm')
-d.text((W // 2, base_y + 66), 'Ingreso mensual cumpliendo la meta · contrato laboral + prestaciones', font=font('calibri.ttf', 26), fill=CAFE, anchor='mm')
+d.text((M, 540), 'Tu ingreso puede llegar a', font=font('calibri.ttf', 40), fill=CREMA)
+d.text((M - 4, 588), '$13,6M', font=font('calibrib.ttf', 168), fill=AMAR)
+x_mes = M + d.textlength('$13,6M', font=font('calibrib.ttf', 168)) + 22
+d.text((x_mes, 640), 'al mes', font=font('calibrib.ttf', 48), fill=BLANCO)
+d.text((x_mes, 700), 'comisiones sin techo', font=font('calibri.ttf', 34), fill=GRIS)
 
-# ---- pie ----
-FY = H - 120
-d.rectangle([0, FY, W, H], fill=CAFE)
-d.text((W // 2, FY + 42), 'Hoja de vida + audio de 1 minuto', font=font('calibrib.ttf', 32), fill=AMAR, anchor='mm')
-d.text((W // 2, FY + 86), 'citasheiiu@gmail.com · asunto "Alianzas Heiiu"', font=font('calibri.ttf', 32), fill=BLANCO, anchor='mm')
-d.rectangle([W - 300, H - 18, W, H], fill=AMAR)
+pts_v = [('Meses 1-3', '$5M', 5.0), ('Meses 4-6', '$6,8M', 6.8), ('Meses 7-12', '$10,3M', 10.35), ('Año 2', '$13,6M', 13.65)]
+cx0, cx1 = M + 70, W - M - 70; cy_base = 1110; ch = 230; vmin, vmax = 3.5, 13.65
+xs = [cx0 + i * (cx1 - cx0) / 3 for i in range(4)]
+ys = [cy_base - (v - vmin) / (vmax - vmin) * ch - 20 for _, _, v in pts_v]
+area = Image.new('RGBA', (W, H), (0, 0, 0, 0)); a = ImageDraw.Draw(area)
+a.polygon([(xs[0], cy_base)] + list(zip(xs, ys)) + [(xs[-1], cy_base)], fill=NAR + (70,))
+im = Image.alpha_composite(im, area); d = ImageDraw.Draw(im)
+d.line([(cx0 - 40, cy_base), (cx1 + 40, cy_base)], fill=(80, 72, 64), width=2)
+d.line(list(zip(xs, ys)), fill=NAR, width=7, joint='curve')
+for i, ((lab, val, v), x, y) in enumerate(zip(pts_v, xs, ys)):
+    r = 14 if i < 3 else 18
+    d.ellipse([x - r, y - r, x + r, y + r], fill=AMAR if i == 3 else NAR, outline=FONDO, width=4)
+    d.text((x, y - 44), val, font=font('calibrib.ttf', 40 if i < 3 else 46), fill=BLANCO if i < 3 else AMAR, anchor='mm')
+    d.text((x, cy_base + 32), lab, font=font('calibri.ttf', 28), fill=GRIS, anchor='mm')
+d.text((W // 2, cy_base + 76), 'Ingreso mensual cumpliendo la meta · mínimo garantizado de $3,5M los 3 primeros meses', font=font('calibri.ttf', 24), fill=GRIS, anchor='mm')
+
+d.line([M, 1218, W - M, 1218], fill=(70, 62, 55), width=1)
+d.text((W // 2, 1250), 'Contrato laboral  ·  Licencia desde 2012  ·  Triple certificación ICONTEC  ·  Convenio Cajasan', font=font('calibri.ttf', 26), fill=GRIS, anchor='mm')
+d.text((W // 2, 1300), 'Hoja de vida + audio de 1 min  →  citasheiiu@gmail.com  ·  asunto "Alianzas Heiiu"', font=font('calibrib.ttf', 30), fill=CREMA, anchor='mm')
 
 out = os.path.join(BASE, r'recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\PIEZA_VACANTE_ALIANZAS.png')
+im = im.convert('RGB')
 try: im.save(out); print('OK', out)
 except (PermissionError, OSError): im.save(out.replace('.png', '_v2.png')); print('ABIERTO -> _v2')
