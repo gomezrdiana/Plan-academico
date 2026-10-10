@@ -131,7 +131,7 @@ E.append(KeepTogether([P('Proyección comisional (pagos de contado)', 'h2'),
 E.append(KeepTogether([P('Plan de crecimiento: metas trimestrales', 'h2'),
  P('La meta se mide en <b>ventas firmadas</b> (valor total de los contratos con la inicial pagada: plan empresa, cupos y programas personalizados, de contado o a cuotas) y se evalúa <b>por trimestre</b>. Sube cada trimestre según este calendario, pactado desde la firma; nunca según lo vendido en el periodo anterior.'),
  tabla([
- ['Trimestre', 'Meses', 'Meta del trimestre (≈ al mes)', 'Programas completos en el trimestre**', 'Básico', 'Ingreso mensual con la meta*'],
+ ['Trim.', 'Meses', 'Meta del trimestre (≈ al mes)', 'Programas completos en el trimestre**', 'Básico', 'Ingreso mensual con la meta*'],
  ['T1', '1-3', m(90_000_000) + ' (≈' + m(30_000_000) + '/mes)', '≈ 18 + 3 Arranque (6 + 1 al mes)', 'Mínimo vigente + auxilio', m(5_000_000) + ' (mínimo ' + m(3_500_000) + ' garantizado)'],
  ['T2', '4-6', m(144_000_000) + ' (≈' + m(48_000_000) + '/mes)', '≈ 30', 'Mínimo vigente + auxilio', m(6_800_000)],
  ['T3', '7-9', m(198_000_000) + ' (≈' + m(66_000_000) + '/mes)', '≈ 41', 'Mínimo + ' + m(550_000) + ' + auxilio', m(9_150_000)],
