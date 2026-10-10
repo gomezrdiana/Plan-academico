@@ -18,7 +18,7 @@ def hoja(nombre, lineas, ancho=120, primera=False):
 
 hoja('POST LINKEDIN', [
  'Busco a la persona que abra las puertas de las empresas, los colegios y las fundaciones de Bucaramanga al inglés.',
- 'En Heiiu English Academy abrimos UNA vacante: Ejecutivo(a) de Alianzas Empresariales.',
+ 'En Heiiu English Academy abrimos UNA vacante de CONTRATACIÓN INMEDIATA: Ejecutivo(a) de Alianzas Empresariales.',
  'Te lo digo de frente, como le hablamos a nuestros estudiantes: este cargo es de calle y de relaciones con quien decide. Gerentes, talento humano, bienestar, rectores y fundaciones. No atiendes citas que llegan por anuncios: tú construyes el canal corporativo e institucional, y lo haces tuyo.',
  'QUÉ VAS A LLEVAR A LAS EMPRESAS',
  'No vendemos clases de inglés. Formamos personas: inglés con garantía de aprendizaje por escrito, formación en virtudes y hábitos en cada clase, y resultados que se pueden mostrar (la página web propia del estudiante, su pitch de negocio en inglés o su video para una vacante). Con el respaldo de una academia presencial con licencia desde 2012, triple certificación ICONTEC (NTC 5555, NTC 5580 e ISO 9001) y convenio con Cajasan. Las ofertas, el convenio y los precios ya están escritos: alianza sin costo para la empresa y plan empresa por volumen.',
@@ -44,7 +44,7 @@ hoja('POST LINKEDIN', [
 hoja('PIEZA GRAFICA', [
  'TEXTO PARA LA PIEZA GRÁFICA (imagen del post)',
  'Titular: BUSCAMOS EJECUTIVO(A) DE ALIANZAS EMPRESARIALES',
- 'Subtítulo: Abre las puertas de las empresas de Bucaramanga al inglés.',
+ 'Subtítulo: Abre las puertas de las empresas de Bucaramanga al inglés. CONTRATACIÓN INMEDIATA.',
  '· Contrato laboral + prestaciones',
  '· $3.500.000 garantizados los 3 primeros meses',
  '· 10% de lo que paga cada empresa + cartera mensual',
@@ -55,7 +55,7 @@ hoja('PIEZA GRAFICA', [
 
 hoja('PARA BRIAN', [
  'PARA BRIAN — SOLO LINKEDIN Y REDES',
- '1. PIEZA PRINCIPAL: crear la vacante gratuita en LinkedIn Empleos desde la página de empresa de Heiiu, con el texto del post (título: Ejecutivo(a) de Alianzas Empresariales · ubicación: Bucaramanga · presencial · tiempo completo). Aparece por búsqueda, no depende de seguidores.',
+ '1. PIEZA PRINCIPAL: crear la vacante gratuita en LinkedIn Empleos desde la página de empresa de Heiiu, con el texto del post (título: Ejecutivo(a) de Alianzas Empresariales — Contratación inmediata · ubicación: Bucaramanga · presencial · tiempo completo). Aparece por búsqueda, no depende de seguidores.',
  '2. Publicar el post en la página de Heiiu con la pieza gráfica, y compartirlo desde su perfil como apoyo, siempre enlazando a la vacante oficial.',
  '3. Replicar la pieza gráfica en Instagram y Facebook de la academia.',
  '4. Si se le pone pauta: segmentar Bucaramanga y área metropolitana; cargos actuales tipo ejecutivo de cuenta corporativa, gerente comercial, director comercial, ejecutivo de alianzas, desarrollo de negocios, key account manager; sectores educación, salud prepagada y asistencia médica, seguros, cajas de compensación, servicios empresariales.',
@@ -69,7 +69,7 @@ hoja('PORTALES (ACADEMIA)', [
  '· Cargo: Ejecutivo(a) de Alianzas Empresariales',
  '· Empresa: Heiiu English Academy (Global Teacher S.A.S.)',
  '· Ciudad: Bucaramanga y área metropolitana · tiempo completo · trabajo de campo',
- '· Contrato: laboral, con período de prueba de ley',
+ '· Contrato: laboral, con período de prueba de ley · CONTRATACIÓN INMEDIATA',
  '· Salario: básico (SMMLV + auxilio) + comisiones sin techo; ingreso mínimo garantizado de $3.500.000 los 3 primeros meses según indicadores',
  '· Experiencia: alianzas, convenios o venta corporativa B2B',
  '· Descripción: copiar el texto de la hoja POST LINKEDIN, sin los hashtags.',
@@ -79,7 +79,7 @@ hoja('PORTALES (ACADEMIA)', [
 
 hoja('MENSAJE DIRECTO', [
  'MENSAJE DIRECTO PARA PERFILES QUE YA ESTÁN TRABAJANDO (búsqueda activa en LinkedIn)',
- 'Hola [NOMBRE], vi tu perfil y tu experiencia en [alianzas / venta corporativa] en [EMPRESA]. En Heiiu English Academy, en Bucaramanga, estamos buscando UNA persona para construir nuestro canal de alianzas con empresas, colegios y fundaciones: contrato laboral, ingreso mínimo garantizado de $3.500.000 los tres primeros meses, 10% de lo que pague cada empresa y cartera mensual por cada estudiante de tus alianzas, sin techo.',
+ 'Hola [NOMBRE], vi tu perfil y tu experiencia en [alianzas / venta corporativa] en [EMPRESA]. En Heiiu English Academy, en Bucaramanga, estamos buscando, para contratación inmediata, UNA persona para construir nuestro canal de alianzas con empresas, colegios y fundaciones: contrato laboral, ingreso mínimo garantizado de $3.500.000 los tres primeros meses, 10% de lo que pague cada empresa y cartera mensual por cada estudiante de tus alianzas, sin techo.',
  'Si te interesa conocer la propuesta completa, o conoces a alguien con ese perfil, cuéntame y te la comparto.',
  'A quién buscar: personas en Bucaramanga con cargos de ejecutivo de cuenta corporativa, director o gerente comercial, ejecutivo de alianzas, desarrollo de negocios o key account en asistencia médica, salud prepagada, seguros, cajas de compensación, educación o servicios empresariales. Meta: 20 mensajes directos en la primera semana.',
 ])
