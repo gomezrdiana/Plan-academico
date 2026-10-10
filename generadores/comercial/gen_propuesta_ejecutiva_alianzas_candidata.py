@@ -108,6 +108,7 @@ E.append(KeepTogether([P('Lo que cada estudiante se lleva (además del certifica
 # ---------- 4. Compensación ----------
 E.append(KeepTogether([P('Esquema de compensación', 'h2'),
  P('La vinculación es mediante <b>contrato laboral desde el primer día</b>: salario mínimo legal vigente más auxilio de transporte (' + m(2_000_000) + ' mensuales en 2026; se ajusta cada enero según el decreto del Gobierno), con prestaciones sociales y seguridad social. A este básico se suma una <b>comisión variable desde el primer cierre</b>, que también constituye salario.'),
+ P('<b>La meta se mide en ventas firmadas; la comisión se paga sobre lo que efectivamente entra a caja.</b> Cada mes se liquida la comisión sobre lo recaudado en el mes anterior. Ejemplo: si en un periodo se firman ' + m(300_000_000) + ' en matrículas y planes, y en ese periodo entran ' + m(100_000_000) + ', la comisión se paga sobre los ' + m(100_000_000) + '; el resto se va pagando en los meses en que la empresa o el estudiante paguen sus cuotas.'),
  P('Durante los tres primeros meses, mientras se construye la cartera, la academia garantiza un <b>ingreso mínimo de ' + m(3_500_000) + '</b> en cada mes en que se cumplan los indicadores de gestión. Cuando las comisiones superan ese valor, se liquida el total generado, sin tope.'),
  tabla([
  ['En el mes', 'Compensación'],
