@@ -81,7 +81,7 @@ E.append(KeepTogether([P('Cuánto gana según lo que produzca (de contado)', 'h2
  P('Los cupos a cuotas pagan la comisión a medida que la empresa paga (40% inicial + 3 cuotas en los tramos 2 y 3). Un plan de 5 cupos (~$24 millones) le deja $2.4 millones; dos planes así al mes ya la ponen por encima de $6 millones con el básico.', 'note')]))
 
 E.append(KeepTogether([P('La escalera: metas trimestrales crecientes, fijo e ingreso', 'h2'),
- P('Los mínimos de los meses 1-3 dan derecho al piso de $3.500.000; si no los cumple, recibe el mínimo legal más lo que haya comisionado. Todo se registra a diario en el tablero de alianzas (cinco minutos al cierre del día) y gerencia lo revisa todos los días. Dos reuniones fijas de 30 minutos por semana: lunes (plan de la semana: empresas y reuniones) y jueves (resultados contra la meta del mes y ajustes). No se cancelan: si una se mueve, se repone ese mismo día.'),
+ P('Los mínimos de los meses 1-3 dan derecho al piso de $3.500.000; si no los cumple, recibe el mínimo legal más lo que haya comisionado. Todo se registra a diario en el tablero de alianzas (cinco minutos al cierre del día) y gerencia lo revisa todos los días. Seguimiento diario de 15 minutos a hora fija (ayer frente al plan y lo de hoy) y planeación semanal los lunes de 30 minutos. No se cancelan: si una se mueve, se repone ese mismo día.'),
  tabla([
  ['Etapa', 'Fijo', 'Mínimo para el piso', 'Meta', 'Gana si cumple la meta'],
  ['Mes 1', '$2.000.000 (mínimo legal)', '40 empresas contactadas con decisor (2 por día) · 12 reuniones · 3 activaciones · 2 firmas (convenio o plan)', '3 firmas', '$3.500.000 (piso)'],
