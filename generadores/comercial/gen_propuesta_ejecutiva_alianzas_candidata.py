@@ -132,7 +132,7 @@ E.append(KeepTogether([P('Plan de crecimiento: metas trimestrales', 'h2'),
  P('La meta se mide en <b>ventas firmadas</b> (valor total de los contratos con la inicial pagada: plan empresa, cupos y programas personalizados, de contado o a cuotas) y se evalúa <b>por trimestre</b>. Sube cada trimestre según este calendario, pactado desde la firma; nunca según lo vendido en el periodo anterior.'),
  tabla([
  ['Trimestre', 'Meses', 'Meta del trimestre (≈ al mes)', 'Programas completos en el trimestre**', 'Básico', 'Ingreso mensual con la meta*'],
- ['T1', '1-3', m(30_000_000) + ' (≈' + m(10_000_000) + '/mes)', '≈ 6 + 1 Arranque', 'Mínimo vigente + auxilio', 'Desde ' + m(3_500_000) + ' (garantizado)'],
+ ['T1', '1-3', m(90_000_000) + ' (≈' + m(30_000_000) + '/mes)', '≈ 18 + 3 Arranque (6 + 1 al mes)', 'Mínimo vigente + auxilio', m(5_000_000) + ' (mínimo ' + m(3_500_000) + ' garantizado)'],
  ['T2', '4-6', m(144_000_000) + ' (≈' + m(48_000_000) + '/mes)', '≈ 30', 'Mínimo vigente + auxilio', m(6_800_000)],
  ['T3', '7-9', m(198_000_000) + ' (≈' + m(66_000_000) + '/mes)', '≈ 41', 'Mínimo + ' + m(550_000) + ' + auxilio', m(9_150_000)],
  ['T4', '10-12', m(234_000_000) + ' (≈' + m(78_000_000) + '/mes)', '≈ 49', 'Mínimo + ' + m(550_000) + ' + auxilio', m(10_350_000)],
@@ -161,9 +161,9 @@ E.append(KeepTogether([P('Lo que buscamos en la persona que se una al equipo', '
  P('Un ritmo de dirección comercial: dos empresas nuevas con quien decide, cada día. En los tres primeros meses, estos son los indicadores de gestión que respaldan el ingreso mínimo de ' + m(3_500_000) + ':'),
  tabla([
  ['Mes', 'Gestión (cada mes)', 'Resultados'],
- ['Mes 1', '40 empresas contactadas con quien decide · 12 reuniones · 3 activaciones', '2 firmas (convenio o plan)'],
- ['Mes 2', '40 empresas · 12 reuniones · 3 activaciones', '4 firmas acumuladas · 3 programas completos (≈' + m(14_000_000) + ' en ventas)'],
- ['Mes 3', '40 empresas · 12 reuniones · 3 activaciones', '6 firmas acumuladas · ' + m(30_000_000) + ' en ventas acumuladas (≈ 6 programas completos + 1 Arranque)'],
+ ['Mes 1', '40 empresas contactadas con quien decide · 12 reuniones · 3 activaciones', '2 firmas · ' + m(30_000_000) + ' en ventas (≈ 6 programas completos + 1 Arranque)'],
+ ['Mes 2', '40 empresas · 12 reuniones · 3 activaciones', '4 firmas acumuladas · ' + m(60_000_000) + ' en ventas acumuladas'],
+ ['Mes 3', '40 empresas · 12 reuniones · 3 activaciones', '6 firmas acumuladas · ' + m(90_000_000) + ' en ventas acumuladas'],
  ], [2.0 * cm, 8.6 * cm, W - 10.6 * cm], bold_col=0),
  P('Desde el mes 4 se mantienen como indicador de cada mes las 40 empresas y las 12 reuniones, junto con la meta de cupos; y cada alianza activa debe tener al menos una activación por trimestre (la alianza que pasa un trimestre sin actividad deja de contar). Cada contacto, reunión, activación, firma y cupo se registra con su prueba en el tablero el mismo día; las definiciones exactas se entregan en la inducción. Una alianza que no se activa en 30 días no cuenta como firma.', 'note')]))
 
