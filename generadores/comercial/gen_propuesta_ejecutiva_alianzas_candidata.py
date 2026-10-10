@@ -182,7 +182,7 @@ E.append(KeepTogether([P('Reglas de atribución y cartera', 'h2'),
 E.append(KeepTogether([P('Herramientas y equipo desde el primer día', 'h2'),
  LI('<b>Un equipo que trabaja contigo:</b> el equipo de asesoría comercial apoya las activaciones (charlas, ferias, jornadas de inscripción en empresas y colegios), atiende y matricula a los interesados que genera el canal, y coordinación académica dicta las clases de muestra y los diagnósticos. El cargo lidera el canal; no lo hace solo.'),
  LI('El convenio de alianza, la orden de plan empresa y la tabla de precios, listos para firmar.'),
- LI('Un producto que se puede mostrar: academia presencial con licencia de la Secretaría de Educación desde 2012 y garantía de aprendizaje por escrito, la única academia presencial de Bucaramanga que la firma.'),
+ LI('Un producto que se puede mostrar: academia presencial con licencia de la Secretaría de Educación desde 2012, programas registrados, certificación de calidad ICONTEC (NTC 5555 e ISO 9001) vigente, con auditorías de seguimiento, y garantía de aprendizaje por escrito, la única academia presencial de Bucaramanga que la firma.'),
  LI('Clases de muestra y diagnósticos de inglés para activar a las empresas, dictados por el equipo académico.')]))
 
 doc.build(E, onFirstPage=pie, onLaterPages=pie); print('OK', out)
