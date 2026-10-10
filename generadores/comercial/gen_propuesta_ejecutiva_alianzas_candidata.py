@@ -71,7 +71,7 @@ E.append(caja([P('Las empresas de Bucaramanga necesitan gente que hable inglés,
               P('Pero en Heiiu no formamos solo en inglés: formamos personas. Cada clase entrena virtudes (prudencia, fortaleza, templanza y justicia) y hábitos de constancia y cumplimiento, porque el inglés abre la puerta y el carácter es el que sostiene lo que viene después. Y cada estudiante termina con resultados que puede mostrar, no solo con un certificado: la creación de su propia página web, el pitch para un proyecto de venta o un video presentándose para ser considerado en una vacante. Esa es nuestra apuesta por un mejor santandereano: más preparado para emprender, para trabajar con el mundo y para competir en una economía que ya funciona con inteligencia artificial. <b>Buscamos a la persona que lleve esta propuesta a las empresas, construya este canal y lo haga suyo.</b>'),
               P('El cargo requiere experiencia en alianzas estratégicas, convenios y dirección comercial: llevar las ofertas de Heiiu a las empresas y convertirlas en estudiantes.')]))
 E.append(Spacer(1, 6))
-E.append(tarjetas([('10%', 'de lo que paga cada empresa<br/>por los cupos de su gente'), ('6%', 'mes a mes el primer año<br/>de cada estudiante de la alianza'), ('$3.5M', 'ingreso mínimo garantizado los<br/>3 primeros meses (con indicadores)')], w=5.6))
+E.append(tarjetas([('10%', 'de lo que paga cada empresa<br/>por los cupos de su gente'), ('6%', 'de los pagos de cada estudiante<br/>de la alianza (12 meses)'), ('$3.5M', 'ingreso mínimo garantizado los<br/>3 primeros meses (con indicadores)')], w=5.6))
 
 # ---------- 2. El rol ----------
 E.append(P('El rol', 'h2'))
@@ -93,7 +93,7 @@ E.append(KeepTogether([P('Autonomía y seguimiento', 'h2'),
 E.extend(([P('Lo que se lleva a las empresas', 'h2'),
  tabla([
  ['Oferta', 'Qué recibe la empresa', 'Comisión del cargo'],
- ['A. Alianza sin costo', 'Firma un convenio estándar. Sus colaboradores entran con beca del Fondo (columna Transformación): el programa completo, que vale ' + m(8_696_000) + ', les queda desde ' + m(4_782_800) + '. Además, la empresa entrega 3 becas con su nombre por trimestre. A la empresa no le cuesta nada: es un beneficio para su gente.', '<b>6% de lo que pague cada estudiante</b> que entre por esa alianza durante su primer año, y 3% durante el segundo. Es la cartera del cargo: crece con cada alianza activa.'],
+ ['A. Alianza sin costo', 'Firma un convenio estándar. Sus colaboradores entran con beca del Fondo (columna Transformación): el programa completo, que vale ' + m(8_696_000) + ', les queda desde ' + m(4_782_800) + '. Además, la empresa entrega 3 becas con su nombre por trimestre. A la empresa no le cuesta nada: es un beneficio para su gente.', '<b>6% de lo que pague cada estudiante</b> que entre por esa alianza durante los 12 meses siguientes a la firma de su matrícula, y 3% del mes 13 al 24. Es la cartera del cargo: crece con cada alianza activa.'],
  ['B. Plan empresa', 'La empresa paga los cupos de su gente con tarifa corporativa por volumen, sobre un precio de lista de ' + m(8_696_000) + ' por persona: de 3 a 7 cupos, ' + m(4_782_800) + ' cada uno; de 8 a 15, ' + m(4_350_000) + '; de 16 a 30, ' + m(3_950_000) + ' con grupo cerrado en la sede o en la empresa.', '<b>10% de lo que pague la empresa</b> el primer año. Un plan de 5 cupos deja ' + m(5 * CUPO * COM) + '; un grupo cerrado de 16, ' + m(16 * 3_950_000 * COM) + '.'],
  ], [3.4 * cm, 7.2 * cm, W - 10.6 * cm], bold_col=0),
  P('Todos estos valores ya traen el descuento sobre el precio de lista (' + m(8_696_000) + ' el programa completo, 575 horas, de cero a B2): por eso no hay descuentos adicionales que negociar. El convenio y la orden de plan empresa están escritos y son estándar. Más de 30 cupos se cotizan con gerencia.', 'note')]))
@@ -125,7 +125,7 @@ E.append(KeepTogether([P('Proyección comisional (pagos de contado)', 'h2'),
  ['15 cupos (desde el mes 7)', m(15 * CUPO), m(15 * CUPO * COM), m(15 * CUPO * COM + 2_549_095)],
  ['Un grupo cerrado de 15 (' + m(4_350_000) + ' c/u)', m(15 * 4_350_000), m(15 * 4_350_000 * COM), m(15 * 4_350_000 * COM + 2_000_000)],
  ], [5.6 * cm, 3.6 * cm, 3.2 * cm, W - 12.4 * cm], bold_col=3, shade_rows=(4,)),
- P('<b>La cartera se suma a todo esto:</b> 10 estudiantes de las alianzas pagando cuotas de ' + m(450_000) + ' generan ' + m(270_000) + ' de comisión cada mes, y 30 estudiantes, ' + m(810_000) + ' cada mes, mientras estudian. Cada estudiante genera 6% el primer año y 3% el segundo; por eso el ingreso grande depende de seguir abriendo alianzas. Si la empresa paga a cuotas, la comisión se liquida a medida que paga.', 'note')]))
+ P('<b>La cartera se suma a todo esto:</b> 10 estudiantes de las alianzas pagando cuotas de ' + m(450_000) + ' generan ' + m(270_000) + ' de comisión cada mes, y 30 estudiantes, ' + m(810_000) + ' cada mes, mientras estudian. Cada estudiante genera 6% en los 12 meses siguientes a la firma de su matrícula y 3% del mes 13 al 24; por eso el ingreso grande depende de seguir abriendo alianzas. Si la empresa paga a cuotas, la comisión se liquida a medida que paga.', 'note')]))
 
 # ---------- 6. Plan de crecimiento ----------
 E.append(KeepTogether([P('Plan de crecimiento: metas trimestrales', 'h2'),
@@ -170,7 +170,7 @@ E.append(KeepTogether([P('Lo que buscamos en la persona que se una al equipo', '
 # ---------- 8. Reglas ----------
 E.append(KeepTogether([P('Reglas de atribución y cartera', 'h2'),
  LI('<b>Empresas registradas:</b> la empresa que el cargo registra primero en el tablero queda a su nombre.'),
- LI('<b>Cartera propia:</b> el estudiante que llega con la carta de postulación de una empresa aliada genera para el cargo el 6% de sus pagos el primer año y el 3% el segundo, aunque la matrícula la haga una asesora. La cartera no cuenta para la meta.'),
+ LI('<b>Cartera propia:</b> el estudiante que llega con la carta de postulación de una empresa aliada genera para el cargo el 6% de sus pagos durante los 12 meses siguientes a la firma de su matrícula y el 3% del mes 13 al 24, aunque la matrícula la haga una asesora. La cartera no cuenta para la meta.'),
  LI('<b>Canales separados:</b> lo que llega por anuncios y WhatsApp es del equipo de asesoría; lo que se abre en campo es del cargo.'),
  LI('<b>Firma de gerencia:</b> cada convenio y cada orden los firma gerencia; el cargo cierra y la academia respalda.')]))
 
