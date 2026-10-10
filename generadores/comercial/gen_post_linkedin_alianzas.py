@@ -17,11 +17,10 @@ def hoja(nombre, lineas, ancho=120, primera=False):
     return ws
 
 hoja('POST LINKEDIN', [
- 'Busco a la persona que abra las puertas de las empresas, los colegios y las fundaciones de Bucaramanga al inglés.',
+ 'Buscamos a la persona que abra las puertas de las empresas, los colegios y las fundaciones de Bucaramanga al inglés.',
  'En Heiiu English Academy abrimos UNA vacante de CONTRATACIÓN INMEDIATA: Ejecutivo(a) Senior de Alianzas Empresariales.',
  'Es un cargo de campo y de relacionamiento con la alta dirección: gerencias, talento humano, bienestar, rectorías y fundaciones. La misión es liderar el canal corporativo e institucional de Heiiu, construirlo y hacerlo crecer, con el respaldo de un equipo comercial y académico.',
- 'QUÉ VAS A LLEVAR A LAS EMPRESAS',
- 'No vendemos clases de inglés. Formamos personas: inglés con garantía de aprendizaje por escrito, formación en virtudes y hábitos en cada clase, y resultados que se pueden mostrar (la página web propia del estudiante, su pitch de negocio en inglés o su video para una vacante). Con el respaldo de una academia presencial con licencia desde 2012, triple certificación ICONTEC (NTC 5555, NTC 5580 e ISO 9001) y convenio con Cajasan. Las ofertas, el convenio y los precios ya están escritos: alianza sin costo para la empresa y plan empresa por volumen.',
+ 'Te respalda una academia presencial con licencia desde 2012, triple certificación ICONTEC (NTC 5555, NTC 5580 e ISO 9001), convenio con Cajasan y garantía de aprendizaje por escrito; las ofertas, el convenio y los precios ya están listos.',
  'QUÉ OFRECEMOS',
  '✔ Contrato laboral desde el primer día, con todas las prestaciones de ley.',
  '✔ Básico (salario mínimo vigente + auxilio) + comisiones sin techo: 10% de lo que paga cada empresa y cartera mensual por cada estudiante de tus alianzas.',
@@ -35,7 +34,9 @@ hoja('POST LINKEDIN', [
  '• Mercadeo y activación: eventos, ferias, charlas corporativas, BTL.',
  '• Deseable: contratación pública (SECOP), manejo de cartera y recaudo, o liderazgo de equipos comerciales.',
  '• Formación profesional en áreas comerciales, de mercadeo, administración, economía, contaduría o afines.',
- '• Disciplina de registro, curiosidad para proponer nuevas oportunidades y trabajo en Bucaramanga y su área metropolitana.',
+ '• Liderazgo: capacidad de liderar el canal, coordinarse con el equipo comercial y académico, y tomar decisiones con autonomía.',
+ '• Informes al día: presentar reportes claros de gestión y resultados, y mantener actualizado el tablero de alianzas.',
+ '• Curiosidad para proponer nuevas oportunidades y trabajo en Bucaramanga y su área metropolitana.',
  'CÓMO APLICAR',
  f'Envía tu hoja de vida a {EMAIL} con el asunto "{ASUNTO}" y, esto es lo importante, un audio o video de 1 minuto contándonos la alianza o el convenio más importante que hayas cerrado y cómo lo lograste. Sin el audio no revisamos la hoja de vida. En la entrevista nos presentarás la alianza como si fuéramos el gerente de una empresa de 40 empleados.',
  'Si conoces a alguien así, etiquétalo(a). La persona correcta llega a un cargo donde su esfuerzo se nota en su bolsillo.',
