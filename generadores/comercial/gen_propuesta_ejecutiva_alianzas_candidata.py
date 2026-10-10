@@ -18,15 +18,15 @@ st = {
  'h1': ParagraphStyle('h1', fontName='CalB', fontSize=24, textColor=NAR, leading=28, spaceAfter=6),
  'sub': ParagraphStyle('sub', fontName='Cal', fontSize=11.5, textColor=CAFE, leading=15, spaceAfter=10),
  'h2': ParagraphStyle('h2', fontName='CalB', fontSize=14, textColor=NAR, leading=17, spaceBefore=6, spaceAfter=4),
- 'p': ParagraphStyle('p', fontName='Cal', fontSize=10, textColor=CAFE, leading=13.5, spaceAfter=5),
+ 'p': ParagraphStyle('p', fontName='Cal', fontSize=10, textColor=CAFE, leading=13, spaceAfter=4),
  'big': ParagraphStyle('big', fontName='CalB', fontSize=22, textColor=NAR, leading=26, alignment=1),
  'bigl': ParagraphStyle('bigl', fontName='Cal', fontSize=9.5, textColor=GRIS, leading=12, alignment=1),
  'q': ParagraphStyle('q', fontName='Geo', fontSize=11.5, textColor=CAFE, leading=16, leftIndent=10, rightIndent=10, spaceAfter=6),
  'tc': ParagraphStyle('tc', fontName='Cal', fontSize=9.5, textColor=CAFE, leading=12.5),
  'tcb': ParagraphStyle('tcb', fontName='CalB', fontSize=9.5, textColor=CAFE, leading=12.5),
  'th': ParagraphStyle('th', fontName='CalB', fontSize=9.5, textColor=colors.white, leading=12),
- 'note': ParagraphStyle('note', fontName='Cal', fontSize=9, textColor=GRIS, leading=12, spaceAfter=6),
- 'li': ParagraphStyle('li', fontName='Cal', fontSize=10, textColor=CAFE, leading=13.5, leftIndent=12, bulletIndent=0, spaceAfter=2),
+ 'note': ParagraphStyle('note', fontName='Cal', fontSize=9, textColor=GRIS, leading=11.5, spaceAfter=4),
+ 'li': ParagraphStyle('li', fontName='Cal', fontSize=10, textColor=CAFE, leading=13, leftIndent=12, bulletIndent=0, spaceAfter=1.5),
 }
 P = lambda t, s='p': Paragraph(t, st[s])
 LI = lambda t: Paragraph(t, st['li'], bulletText='•')
@@ -117,6 +117,8 @@ E.append(KeepTogether([P('Esquema de compensación', 'h2'),
  ['No se alcanzan los indicadores', 'Básico + la comisión generada, y un plan de ajuste de una semana con metas concretas.'],
  ], [8.2 * cm, W - 8.2 * cm], bold_col=0)]))
 
+E.append(P('Esta es una propuesta de vinculación. Las condiciones definitivas, incluido el período de prueba de ley, quedan en el contrato laboral y en su anexo de compensación y metas, que se firman al ingresar.', 'note'))
+
 # ---------- 5. Proyección ----------
 E.append(KeepTogether([P('Proyección comisional (pagos de contado)', 'h2'),
  tabla([
@@ -179,13 +181,11 @@ E.append(KeepTogether([P('Reglas de atribución y cartera', 'h2'),
  LI('<b>Firma de gerencia:</b> cada convenio y cada orden los firma gerencia; el cargo cierra y la academia respalda.')]))
 
 # ---------- 9. Herramientas ----------
-E.append(KeepTogether([P('Herramientas y equipo desde el primer día', 'h2'),
- LI('<b>Un equipo que trabaja contigo:</b> el equipo de asesoría comercial apoya las activaciones (charlas, ferias, jornadas de inscripción en empresas y colegios), atiende y matricula a los interesados que genera el canal, y coordinación académica dicta las clases de muestra y los diagnósticos. El cargo lidera el canal; no lo hace solo.'),
+E.extend(([P('Herramientas y equipo desde el primer día', 'h2'),
+ LI('<b>Un equipo que trabaja con el cargo:</b> el equipo de asesoría comercial apoya las activaciones (charlas, ferias, jornadas de inscripción en empresas y colegios), atiende y matricula a los interesados que genera el canal, y coordinación académica dicta las clases de muestra y los diagnósticos. El cargo lidera el canal; no lo hace solo.'),
  LI('El convenio de alianza, la orden de plan empresa y la tabla de precios, listos para firmar.'),
  LI('Un producto que se puede mostrar: academia presencial con licencia de la Secretaría de Educación desde 2012, programas registrados, triple certificación de calidad ICONTEC (NTC 5555, NTC 5580 e ISO 9001) vigente, con auditorías de seguimiento, convenio con la caja de compensación Cajasan, y garantía de aprendizaje por escrito, la única academia presencial de Bucaramanga que la firma.'),
  LI('Clases de muestra y diagnósticos de inglés para activar a las empresas, dictados por el equipo académico.')]))
 
-E.append(Spacer(1, 6))
-E.append(P('Esta es una propuesta de vinculación. Las condiciones definitivas, incluido el período de prueba de ley, quedan en el contrato laboral y en su anexo de compensación y metas, que se firman al ingresar.', 'note'))
 
 doc.build(E, onFirstPage=pie, onLaterPages=pie); print('OK', out)
