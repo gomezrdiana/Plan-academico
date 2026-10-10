@@ -19,7 +19,7 @@ def hoja(nombre, lineas, ancho=120, primera=False):
 hoja('POST LINKEDIN', [
  'Busco a la persona que abra las puertas de las empresas, los colegios y las fundaciones de Bucaramanga al inglés.',
  'En Heiiu English Academy abrimos UNA vacante de CONTRATACIÓN INMEDIATA: Ejecutivo(a) Senior de Alianzas Empresariales.',
- 'Te lo digo de frente, como le hablamos a nuestros estudiantes: este cargo es de calle y de relaciones con quien decide. Gerentes, talento humano, bienestar, rectores y fundaciones. No atiendes citas que llegan por anuncios: tú construyes el canal corporativo e institucional, y lo haces tuyo.',
+ 'Es un cargo de campo y de relacionamiento con la alta dirección: gerencias, talento humano, bienestar, rectorías y fundaciones. La misión es liderar el canal corporativo e institucional de Heiiu, construirlo y hacerlo crecer, con el respaldo de un equipo comercial y académico.',
  'QUÉ VAS A LLEVAR A LAS EMPRESAS',
  'No vendemos clases de inglés. Formamos personas: inglés con garantía de aprendizaje por escrito, formación en virtudes y hábitos en cada clase, y resultados que se pueden mostrar (la página web propia del estudiante, su pitch de negocio en inglés o su video para una vacante). Con el respaldo de una academia presencial con licencia desde 2012, triple certificación ICONTEC (NTC 5555, NTC 5580 e ISO 9001) y convenio con Cajasan. Las ofertas, el convenio y los precios ya están escritos: alianza sin costo para la empresa y plan empresa por volumen.',
  'QUÉ OFRECEMOS',
