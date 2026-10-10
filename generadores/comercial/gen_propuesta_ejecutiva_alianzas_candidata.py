@@ -68,7 +68,7 @@ E.append(P('HEIIU ENGLISH ACADEMY · PROPUESTA DE VINCULACIÓN', 'kicker'))
 E.append(P('Ejecutivo(a) de Alianzas Empresariales', 'h1'))
 E.append(P('Canal corporativo e institucional · Bucaramanga y área metropolitana', 'sub'))
 E.append(caja([P('Las empresas de Bucaramanga necesitan gente que hable inglés, y no solo dentro de su equipo. Con sus programas de bienestar, con beneficios para las familias de sus colaboradores o a través de sus fundaciones, pueden aportar a la educación de su comunidad: formar personas en inglés para abrirles oportunidades. Heiiu tiene el programa, la licencia y una garantía de aprendizaje por escrito.'),
-              P('Pero en Heiiu no formamos solo en inglés: formamos personas. Cada clase entrena virtudes (prudencia, fortaleza, templanza y justicia) y hábitos de constancia y cumplimiento, porque el inglés abre la puerta y el carácter es el que sostiene lo que viene después. Esa es nuestra apuesta por un mejor santandereano: más preparado para emprender, para trabajar con el mundo y para competir en una economía que ya funciona con inteligencia artificial. <b>Buscamos a la persona que lleve esta propuesta a las empresas, construya este canal y lo haga suyo.</b>'),
+              P('Pero en Heiiu no formamos solo en inglés: formamos personas. Cada clase entrena virtudes (prudencia, fortaleza, templanza y justicia) y hábitos de constancia y cumplimiento, porque el inglés abre la puerta y el carácter es el que sostiene lo que viene después. Y cada estudiante termina con resultados que puede mostrar, no solo con un certificado. Esa es nuestra apuesta por un mejor santandereano: más preparado para emprender, para trabajar con el mundo y para competir en una economía que ya funciona con inteligencia artificial. <b>Buscamos a la persona que lleve esta propuesta a las empresas, construya este canal y lo haga suyo.</b>'),
               P('El cargo requiere experiencia en alianzas estratégicas, convenios y dirección comercial: llevar las ofertas de Heiiu a las empresas y convertirlas en estudiantes.')]))
 E.append(Spacer(1, 6))
 E.append(tarjetas([('10%', 'de lo que paga cada empresa<br/>por los cupos de su gente'), ('6%', 'mes a mes el primer año<br/>de cada estudiante de la alianza'), ('$3.5M', 'ingreso mínimo garantizado los<br/>3 primeros meses (con indicadores)')], w=5.6))
@@ -97,6 +97,12 @@ E.extend(([P('Lo que se lleva a las empresas', 'h2'),
  ['B. Plan empresa', 'La empresa paga los cupos de su gente con tarifa corporativa por volumen, sobre un precio de lista de ' + m(8_696_000) + ' por persona: de 3 a 7 cupos, ' + m(4_782_800) + ' cada uno; de 8 a 15, ' + m(4_350_000) + '; de 16 a 30, ' + m(3_950_000) + ' con grupo cerrado en la sede o en la empresa.', '<b>10% de lo que pague la empresa</b> el primer año. Un plan de 5 cupos deja ' + m(5 * CUPO * COM) + '; un grupo cerrado de 16, ' + m(16 * 3_950_000 * COM) + '.'],
  ], [3.4 * cm, 7.2 * cm, W - 10.6 * cm], bold_col=0),
  P('Todos estos valores ya traen el descuento sobre el precio de lista (' + m(8_696_000) + ' el programa completo, 575 horas, de cero a B2): por eso no hay descuentos adicionales que negociar. El convenio y la orden de plan empresa están escritos y son estándar. Más de 30 cupos se cotizan con gerencia.', 'note')]))
+
+E.append(KeepTogether([P('Lo que cada estudiante se lleva (además del certificado por nivel)', 'h2'),
+ LI('<b>Módulo de Graduación al cerrar A2, a elección:</b> <i>Emprendedor</i> (página web publicada con dominio propio, pitch de negocio en inglés, perfil para vender en el exterior, cuenta de pagos internacional y primer mensaje de venta a un cliente real) o <i>Pasaporte</i> (video de presentación, hoja de vida y entrevista en inglés para trabajar o estudiar afuera).'),
+ LI('<b>Portafolio profesional en B2:</b> hoja de vida y perfil de LinkedIn en inglés, video pitch de 60 segundos, banco de respuestas para entrevistas y proyecto final.'),
+ LI('<b>Garantía de aprendizaje por escrito</b> y formación en virtudes y hábitos en cada clase.'),
+ P('Para una empresa o una fundación, esto es lo que hace distinta la propuesta: no financia horas de clase, financia personas que salen con un resultado concreto.', 'note')]))
 
 # ---------- 4. Compensación ----------
 E.append(KeepTogether([P('Esquema de compensación', 'h2'),
