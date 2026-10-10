@@ -85,8 +85,8 @@ E.append(KeepTogether([P('La escalera: metas trimestrales crecientes, fijo e ing
  tabla([
  ['Etapa', 'Fijo', 'Mínimo para el piso', 'Meta', 'Gana si cumple la meta'],
  ['Mes 1', '$2.000.000 (mínimo legal)', '40 empresas contactadas con decisor (2 por día) · 12 reuniones · 3 activaciones · 2 firmas (convenio o plan)', '3 firmas', '$3.500.000 (piso)'],
- ['Mes 2', '$2.000.000', '40 empresas · 12 reuniones · 3 activaciones + 4 firmas acumuladas · 5 cupos corporativos', '6 cupos', '$3.500.000 (piso; 6 cupos = $2.9M de comisión)'],
- ['Mes 3', '$2.000.000', '40 empresas · 12 reuniones · 3 activaciones + 6 firmas acumuladas · 10 cupos acumulados (≈$48M de ventas en el T1)', '10 cupos', '$6.780.000 (básico + 10 cupos)'],
+ ['Mes 2', '$2.000.000', '40 empresas · 12 reuniones · 3 activaciones + 4 firmas acumuladas · 3 programas completos (≈$14M)', '3 programas', '$3.500.000 (piso; 6 cupos = $2.9M de comisión)'],
+ ['Mes 3', '$2.000.000', '40 empresas · 12 reuniones · 3 activaciones + 6 firmas acumuladas · $30M de ventas en el T1 (≈ 6 programas completos + 1 Arranque)', '$30M en el T1', '$6.780.000 (básico + 10 cupos)'],
  ['T2 (meses 4-6)', 'Mínimo vigente + auxilio', 'Gestión base cada mes (40 empresas · 12 reuniones · 1 activación por alianza por trimestre); sin piso', '$48M de ventas al mes', '$6.800.000'],
  ['T3 (7-9) · T4 (10-12)', 'Mínimo + $550.000 + auxilio ($2.550.000 en 2026)', 'Gestión base cada mes', '$66M · $78M', '$9.150.000 · $10.350.000'],
  ['T5 a T8 (meses 13-24)', 'Mínimo + $850.000 + auxilio ($2.850.000 en 2026)', 'Gestión base cada mes', '$84M · $92M · $100M · $108M', '$11.250.000 a $13.650.000'],

@@ -131,18 +131,18 @@ E.append(KeepTogether([P('Proyección comisional (pagos de contado)', 'h2'),
 E.append(KeepTogether([P('Plan de crecimiento: metas trimestrales', 'h2'),
  P('La meta se mide en <b>ventas firmadas</b> (valor total de los contratos con la inicial pagada: plan empresa, cupos y programas personalizados, de contado o a cuotas) y se evalúa <b>por trimestre</b>. Sube cada trimestre según este calendario, pactado desde la firma; nunca según lo vendido en el periodo anterior.'),
  tabla([
- ['Trimestre', 'Meses', 'Meta (ventas al mes)', 'Básico', 'Ingreso con la meta*'],
- ['T1', '1-3', m(48_000_000) + ' en el trimestre (rampa) + indicadores de gestión', 'Mínimo vigente + auxilio', 'Desde ' + m(3_500_000)],
- ['T2', '4-6', m(48_000_000), 'Mínimo vigente + auxilio', m(6_800_000)],
- ['T3', '7-9', m(66_000_000), 'Mínimo + ' + m(550_000) + ' + auxilio', m(9_150_000)],
- ['T4', '10-12', m(78_000_000), 'Mínimo + ' + m(550_000) + ' + auxilio', m(10_350_000)],
- ['T5', '13-15', m(84_000_000), 'Mínimo + ' + m(850_000) + ' + auxilio', m(11_250_000)],
- ['T6', '16-18', m(92_000_000), 'Mínimo + ' + m(850_000) + ' + auxilio', m(12_050_000)],
- ['T7', '19-21', m(100_000_000), 'Mínimo + ' + m(850_000) + ' + auxilio', m(12_850_000)],
- ['T8', '22-24', m(108_000_000), 'Mínimo + ' + m(850_000) + ' + auxilio', m(13_650_000)],
- ['Desde T9', '25 en adelante', 'La del trimestre anterior + 2,5%', 'Se revisa cada año', '—'],
- ], [2.0 * cm, 2.2 * cm, 4.0 * cm, 4.4 * cm, W - 12.6 * cm], bold_col=4, shade_rows=(5, 6, 7, 8)),
- P('*Básico más 10% de comisión sobre la meta, con pagos de contado y valores de 2026; no incluye acelerador ni cartera. El mínimo y el auxilio se ajustan cada enero según el decreto del Gobierno. El básico sube de escalón cuando se cumple la meta en al menos 2 de los 3 últimos trimestres. Los contratos firmados con inicial pagada cuentan para la meta aunque el grupo inicie después: la capacidad (salones, profesores, horarios) es responsabilidad de la academia.', 'note')]))
+ ['Trimestre', 'Meses', 'Meta del trimestre (≈ al mes)', 'Programas completos en el trimestre**', 'Básico', 'Ingreso mensual con la meta*'],
+ ['T1', '1-3', m(30_000_000) + ' (≈' + m(10_000_000) + '/mes)', '≈ 6 + 1 Arranque', 'Mínimo vigente + auxilio', 'Desde ' + m(3_500_000) + ' (garantizado)'],
+ ['T2', '4-6', m(144_000_000) + ' (≈' + m(48_000_000) + '/mes)', '≈ 30', 'Mínimo vigente + auxilio', m(6_800_000)],
+ ['T3', '7-9', m(198_000_000) + ' (≈' + m(66_000_000) + '/mes)', '≈ 41', 'Mínimo + ' + m(550_000) + ' + auxilio', m(9_150_000)],
+ ['T4', '10-12', m(234_000_000) + ' (≈' + m(78_000_000) + '/mes)', '≈ 49', 'Mínimo + ' + m(550_000) + ' + auxilio', m(10_350_000)],
+ ['T5', '13-15', m(252_000_000) + ' (≈' + m(84_000_000) + '/mes)', '≈ 53', 'Mínimo + ' + m(850_000) + ' + auxilio', m(11_250_000)],
+ ['T6', '16-18', m(276_000_000) + ' (≈' + m(92_000_000) + '/mes)', '≈ 58', 'Mínimo + ' + m(850_000) + ' + auxilio', m(12_050_000)],
+ ['T7', '19-21', m(300_000_000) + ' (≈' + m(100_000_000) + '/mes)', '≈ 63', 'Mínimo + ' + m(850_000) + ' + auxilio', m(12_850_000)],
+ ['T8', '22-24', m(324_000_000) + ' (≈' + m(108_000_000) + '/mes)', '≈ 68', 'Mínimo + ' + m(850_000) + ' + auxilio', m(13_650_000)],
+ ['Desde T9', '25+', 'La del trimestre anterior + 2,5%', '—', 'Se revisa cada año', '—'],
+ ], [1.7 * cm, 1.4 * cm, 4.0 * cm, 2.6 * cm, 4.0 * cm, W - 13.7 * cm], bold_col=5, shade_rows=(5, 6, 7, 8)),
+ P('**Programa completo de cero a B2 a tarifa corporativa (' + m(4_782_800) + '); el Arranque A1+A2 vale ' + m(2_990_000) + '. Cualquier combinación de contado, cuotas, cupos o personalizados cuenta por su valor. *Básico más 10% de comisión sobre la meta, con pagos de contado y valores de 2026; no incluye acelerador ni cartera. El mínimo y el auxilio se ajustan cada enero según el decreto del Gobierno. El básico sube de escalón cuando se cumple la meta en al menos 2 de los 3 últimos trimestres. Los contratos firmados con inicial pagada cuentan para la meta aunque el grupo inicie después: la capacidad (salones, profesores, horarios) es responsabilidad de la academia.', 'note')]))
 
 E.append(KeepTogether([P('Acelerador por sobrecumplimiento (sin tope)', 'h2'),
  tabla([
@@ -162,8 +162,8 @@ E.append(KeepTogether([P('Lo que buscamos en la persona que se una al equipo', '
  tabla([
  ['Mes', 'Gestión (cada mes)', 'Resultados'],
  ['Mes 1', '40 empresas contactadas con quien decide · 12 reuniones · 3 activaciones', '2 firmas (convenio o plan)'],
- ['Mes 2', '40 empresas · 12 reuniones · 3 activaciones', '4 firmas acumuladas · 5 cupos (≈' + m(24_000_000) + ' en ventas)'],
- ['Mes 3', '40 empresas · 12 reuniones · 3 activaciones', '6 firmas acumuladas · 10 cupos (≈' + m(48_000_000) + ' en ventas acumuladas)'],
+ ['Mes 2', '40 empresas · 12 reuniones · 3 activaciones', '4 firmas acumuladas · 3 programas completos (≈' + m(14_000_000) + ' en ventas)'],
+ ['Mes 3', '40 empresas · 12 reuniones · 3 activaciones', '6 firmas acumuladas · ' + m(30_000_000) + ' en ventas acumuladas (≈ 6 programas completos + 1 Arranque)'],
  ], [2.0 * cm, 8.6 * cm, W - 10.6 * cm], bold_col=0),
  P('Desde el mes 4 se mantienen como indicador de cada mes las 40 empresas y las 12 reuniones, junto con la meta de cupos; y cada alianza activa debe tener al menos una activación por trimestre (la alianza que pasa un trimestre sin actividad deja de contar). Cada contacto, reunión, activación, firma y cupo se registra con su prueba en el tablero el mismo día; las definiciones exactas se entregan en la inducción. Una alianza que no se activa en 30 días no cuenta como firma.', 'note')]))
 
