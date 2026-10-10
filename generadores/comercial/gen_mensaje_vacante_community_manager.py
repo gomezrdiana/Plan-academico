@@ -43,17 +43,17 @@ for t in ['Proponer la **parrilla de contenido** del mes.',
 p('Estas cantidades son el piso, no el techo: el material que se grabe y sirva se edita y se publica.', after=6)
 p('**En la academia**, el contenido principal son las **clases reales y los testimonios de estudiantes**: la mayoría de sus videos los muestran, con **mínimo 2 testimonios por semana**.')
 p('**Modalidad:** prestación de servicios, **semipresencial en Bucaramanga**: mínimo **3 jornadas de grabación por semana en la academia** (clases, estudiantes, testimonios) y **mínimo 1 por semana en la constructora**, agendadas cada semana. **La edición se hace de forma remota.** Disponibilidad prioritaria de lunes a sábado. Honorarios: **$1.800.000 mensuales**. Se requiere **equipo propio**: celular o cámara, micrófono y programas de edición de video e imagen.')
-p('Si te interesa, envíanos **antes del [día] a las [hora]**:', after=2)
+p('Si te interesa, envíanos **un solo correo a citasheiiu@gmail.com con el asunto "Vacante CM"**, **antes del [día] a las [hora]**, con:', after=2)
 for t in ['**Tu hoja de vida** y el enlace a tu portafolio o a cuentas que hayas manejado.',
           '**Tu disponibilidad** de lunes a sábado (mañanas, tardes, noches) y en qué zona de Bucaramanga vives.',
           '**El equipo y los programas** con los que trabajas.',
-          '**Un video corto grabado y editado por ti**, vertical, de 30 a 45 segundos, como un Reel para Instagram. Tema libre: un negocio, un lugar o una persona de tu entorno. Debe tener **subtítulos**, un **gancho en los primeros 3 segundos** y un **cierre que invite a hacer algo**. Envíalo como **documento** por WhatsApp o como enlace de Drive, para que no pierda calidad.',
+          '**Un video corto grabado y editado por ti**, vertical, de 30 a 45 segundos, como un Reel para Instagram. Tema libre: un negocio, un lugar o una persona de tu entorno. Debe tener **subtítulos**, un **gancho en los primeros 3 segundos** y un **cierre que invite a hacer algo**. Adjúntalo al correo o envía el enlace de Google Drive (con acceso abierto), para que no pierda calidad.',
           '**En 3 líneas: ¿cómo conseguirías que un estudiante acepte grabar su testimonio y que se vea natural, no actuado?**']:
     num(t)
-p('Si no recibimos los 5 puntos, no podremos continuar con tu proceso. ¡Gracias!', after=16)
+p('Si el correo no tiene el asunto "Vacante CM" o no incluye los 5 puntos, no podremos continuar con tu proceso. ¡Gracias!', after=16)
 
 p('USO INTERNO — CÓMO DESCARTAR (no enviar)', 12, NAR, 4, True)
-for t in ['1. No mandó los 5 puntos → fuera (si no sigue una instrucción simple, no cumple una parrilla).',
+for t in ['1. No mandó los 5 puntos o no puso el asunto "Vacante CM" → fuera (si no sigue una instrucción simple, no cumple una parrilla).',
           '2. No puede venir a grabar a Bucaramanga o vive muy lejos para 4 jornadas semanales → fuera.',
           '3. El video no tiene gancho, subtítulos ni cierre → fuera. Es lo que más pesa.',
           '4. El punto 5 es genérico ("contenido de valor", "tips") → baja prioridad.',
