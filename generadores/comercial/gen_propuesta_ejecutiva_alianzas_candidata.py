@@ -161,9 +161,9 @@ E.append(KeepTogether([P('Lo que buscamos en la persona que se una al equipo', '
  P('Un ritmo de dirección comercial: dos empresas nuevas con quien decide, cada día. En los tres primeros meses, la gestión y las firmas respaldan el ingreso mínimo de ' + m(3_500_000) + ', y la meta de ventas es de ' + m(30_000_000) + ' al mes:'),
  tabla([
  ['Mes', 'Gestión y firmas (respaldan el ingreso mínimo)', 'Meta de ventas'],
- ['Mes 1', '40 empresas contactadas con quien decide · 12 reuniones · 3 activaciones · 2 firmas', m(30_000_000) + ' (≈ 6 programas completos + 1 Arranque)'],
- ['Mes 2', '40 empresas · 12 reuniones · 3 activaciones · 4 firmas acumuladas', m(30_000_000) + ' en el mes'],
- ['Mes 3', '40 empresas · 12 reuniones · 3 activaciones · 6 firmas acumuladas', m(30_000_000) + ' en el mes'],
+ ['Mes 1', '40 empresas contactadas con quien decide · 12 reuniones · 2 firmas', m(30_000_000) + ' (≈ 6 programas completos + 1 Arranque)'],
+ ['Mes 2', '40 empresas · 12 reuniones · 4 firmas acumuladas · 2 activaciones', m(30_000_000) + ' en el mes'],
+ ['Mes 3', '40 empresas · 12 reuniones · 6 firmas acumuladas · 3 activaciones', m(30_000_000) + ' en el mes'],
  ], [2.0 * cm, 8.6 * cm, W - 10.6 * cm], bold_col=0),
  P('Desde el mes 4 se mantienen como indicador de cada mes las 40 empresas y las 12 reuniones, junto con la meta de cupos; y cada alianza activa debe tener al menos una activación por trimestre (la alianza que pasa un trimestre sin actividad deja de contar). Cada contacto, reunión, activación, firma y cupo se registra con su prueba en el tablero el mismo día; las definiciones exactas se entregan en la inducción. Una alianza que no se activa en 30 días no cuenta como firma. Solo para el primer mes: lo firmado con inicial pagada hasta 5 días calendario después del cierre del mes 1 cuenta para el mes 1.', 'note')]))
 

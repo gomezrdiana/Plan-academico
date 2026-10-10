@@ -84,9 +84,9 @@ E.append(KeepTogether([P('La escalera: metas trimestrales crecientes, fijo e ing
  P('Los mínimos de los meses 1-3 dan derecho al piso de $3.500.000; si no los cumple, recibe el mínimo legal más lo que haya comisionado. Todo se registra a diario en el tablero de alianzas (cinco minutos al cierre del día) y gerencia lo revisa todos los días. Seguimiento diario de 15 minutos a hora fija (ayer frente al plan y lo de hoy) y planeación semanal los lunes de 30 minutos. No se cancelan: si una se mueve, se repone ese mismo día.'),
  tabla([
  ['Etapa', 'Fijo', 'Mínimo para el piso', 'Meta', 'Gana si cumple la meta'],
- ['Mes 1', '$2.000.000 (mínimo legal)', '40 empresas contactadas con decisor (2 por día) · 12 reuniones · 3 activaciones · 2 firmas (convenio o plan)', '$30M en el mes (≈ 6 programas + 1 Arranque)', '$5.000.000 (piso $3.500.000)'],
- ['Mes 2', '$2.000.000', '40 empresas · 12 reuniones · 3 activaciones + 4 firmas acumuladas', '$30M en el mes', '$3.500.000 (piso; 6 cupos = $2.9M de comisión)'],
- ['Mes 3', '$2.000.000', '40 empresas · 12 reuniones · 3 activaciones + 6 firmas acumuladas', '$30M en el mes', '$6.780.000 (básico + 10 cupos)'],
+ ['Mes 1', '$2.000.000 (mínimo legal)', '40 empresas contactadas con decisor (2 por día) · 12 reuniones · 2 firmas (convenio o plan)', '$30M en el mes (≈ 6 programas + 1 Arranque)', '$5.000.000 (piso $3.500.000)'],
+ ['Mes 2', '$2.000.000', '40 empresas · 12 reuniones + 4 firmas acumuladas · 2 activaciones', '$30M en el mes', '$5.000.000 de contado (piso $3.500.000)'],
+ ['Mes 3', '$2.000.000', '40 empresas · 12 reuniones + 6 firmas acumuladas · 3 activaciones', '$30M en el mes', '$5.000.000 de contado (piso $3.500.000)'],
  ['T2 (meses 4-6)', 'Mínimo vigente + auxilio', 'Gestión base cada mes (40 empresas · 12 reuniones · 1 activación por alianza por trimestre); sin piso', '$48M de ventas al mes', '$6.800.000'],
  ['T3 (7-9) · T4 (10-12)', 'Mínimo + $550.000 + auxilio ($2.550.000 en 2026)', 'Gestión base cada mes', '$66M · $78M', '$9.150.000 · $10.350.000'],
  ['T5 a T8 (meses 13-24)', 'Mínimo + $850.000 + auxilio ($2.850.000 en 2026)', 'Gestión base cada mes', '$84M · $92M · $100M · $108M', '$11.250.000 a $13.650.000'],
