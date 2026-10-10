@@ -87,8 +87,8 @@ for t in ['<b>Colegios y ferias:</b> relacionamiento con colegios (rectoría, co
 E.append(KeepTogether([P('Autonomía y seguimiento', 'h2'),
  P('El cargo tiene autonomía para organizar su agenda, sus visitas y su forma de trabajar. Lo que no se suelta es el seguimiento: este canal es estratégico para Heiiu y queremos potenciarlo al máximo en este momento, así que es crucial no dejar pasar ninguna oportunidad. Por eso el seguimiento es diario.'),
  LI('<b>Tablero de alianzas:</b> se lleva al día con empresas, reuniones, firmas, cupos y próximos pasos. Es la herramienta del cargo: deja registrada cada empresa que se abre, protege la cartera y es la base de las reuniones.'),
- LI('<b>Seguimiento diario con gerencia, 15 minutos a hora fija:</b> qué se logró el día anterior frente al plan y qué empresas y reuniones siguen hoy.'),
- LI('<b>Planeación semanal, los lunes, 30 minutos:</b> empresas objetivo y reuniones de la semana, y avance frente a la meta del trimestre.')]))
+ LI('<b>Seguimiento diario con gerencia, 15 minutos a hora fija, liderado por el cargo:</b> presenta lo que logró el día anterior frente al plan y las empresas y reuniones de hoy.'),
+ LI('<b>Planeación semanal, los lunes, 30 minutos, liderada por el cargo:</b> presenta las empresas objetivo y reuniones de la semana y su avance frente a la meta del trimestre.')]))
 
 # ---------- 3. Las ofertas ----------
 E.extend(([P('Lo que se lleva a las empresas', 'h2'),
