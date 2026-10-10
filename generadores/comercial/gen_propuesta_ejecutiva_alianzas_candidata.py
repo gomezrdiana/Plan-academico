@@ -75,8 +75,9 @@ E.append(tarjetas([('10%', 'de lo que paga cada empresa<br/>por los cupos de su 
 
 # ---------- 2. El rol ----------
 E.append(P('El rol', 'h2'))
-E.append(P('Liderar el desarrollo del canal corporativo e institucional de Heiiu: identificar, abrir y consolidar alianzas con empresas, áreas de bienestar y fundaciones de Bucaramanga y su área metropolitana. Es un rol de campo y de relacionamiento con la alta dirección; la atención de prospectos individuales y el proceso de matrícula están a cargo del equipo de asesoría comercial.'))
-for t in ['<b>Prospección y relacionamiento:</b> identificar empresas y fundaciones con potencial y establecer contacto con quienes toman la decisión (gerencia, talento humano, bienestar, responsabilidad social).',
+E.append(P('Liderar el desarrollo del canal corporativo e institucional de Heiiu: identificar, abrir y consolidar alianzas con empresas, áreas de bienestar, fundaciones y colegios de Bucaramanga y su área metropolitana. Es un rol de campo y de relacionamiento con la alta dirección; la atención de prospectos individuales y el proceso de matrícula están a cargo del equipo de asesoría comercial.'))
+for t in ['<b>Colegios y ferias:</b> relacionamiento con colegios (rectoría, coordinación académica, asociaciones de padres) y participación en ferias escolares, universitarias y empresariales para presentar los programas y captar interesados.',
+          '<b>Prospección y relacionamiento:</b> identificar empresas y fundaciones con potencial y establecer contacto con quienes toman la decisión (gerencia, talento humano, bienestar, responsabilidad social).',
           '<b>Presentación de la propuesta de valor:</b> exponer las dos modalidades de vinculación (alianza sin costo y plan empresa) en reuniones ejecutivas.',
           '<b>Negociación y cierre:</b> formalizar convenios y órdenes de plan empresa dentro de las condiciones comerciales establecidas, con firma de gerencia.',
           '<b>Activación de alianzas:</b> coordinar charlas, diagnósticos de nivel y clases de muestra que conviertan cada convenio en estudiantes matriculados.',
@@ -172,6 +173,8 @@ E.append(KeepTogether([P('Reglas de atribución y cartera', 'h2'),
  LI('<b>Empresas registradas:</b> la empresa que el cargo registra primero en el tablero queda a su nombre.'),
  LI('<b>Cartera propia:</b> el estudiante que llega con la carta de postulación de una empresa aliada genera para el cargo el 6% de sus pagos durante los 12 meses siguientes a la firma de su matrícula y el 3% del mes 13 al 24, aunque la matrícula la haga una asesora. La cartera no cuenta para la meta.'),
  LI('<b>Canales separados:</b> lo que llega por anuncios y WhatsApp es del equipo de asesoría; lo que se abre en campo es del cargo.'),
+ LI('<b>Bases de datos propias:</b> los contactos que el cargo genere en ferias, colegios, charlas y empresas se registran en el sistema de la academia dentro de las 24 horas siguientes. El cargo es responsable de que el equipo de asesoría los gestione, con o sin su presencia, y hace seguimiento hasta el cierre. Las matrículas que salgan de esas bases, registradas a su nombre antes del primer contacto de la asesora, generan su comisión de cartera (6% y 3%).'),
+ LI('<b>Cierre de apoyo:</b> cuando una asesora no pueda atender a un cliente y gerencia o coordinación se lo asigne, el cargo puede cerrar esa matrícula y recibe la misma comisión de cierre que habría recibido la asesora. Esas ventas no cuentan para la meta trimestral del cargo.'),
  LI('<b>Firma de gerencia:</b> cada convenio y cada orden los firma gerencia; el cargo cierra y la academia respalda.')]))
 
 # ---------- 9. Herramientas ----------
