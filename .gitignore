@@ -50,3 +50,10 @@ recursos/experiencia_cliente/**/*.pdf
 
 # Hojas de vida de candidatos (datos personales de terceros)
 recursos/comercial/INDUCCION_COMERCIAL/contratacion comercial/LINKEDIN DIANA GOMEZ/Candidatos/
+
+# Carpetas con datos personales/financieros de terceros o de Diana (nunca al repo)
+recursos/experiencia_cliente/
+recursos/comercial/EFORSALUD - MATEO MONROY/
+recursos/comercial/contratacion/COMMUNITY_MANAGER/*.pdf
+recursos/comercial/INDUCCION_COMERCIAL/contratacion comercial/LINKEDIN DIANA GOMEZ/*.jpeg
+recursos/comercial/INDUCCION_COMERCIAL/contratacion comercial/LINKEDIN DIANA GOMEZ/Captura*
