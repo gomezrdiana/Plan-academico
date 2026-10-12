@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Brief de la PRUEBA PRÁCTICA pagada para candidatos a Community Manager (Kimberly, Sebastián).
-La prueba = ejecutar un guion del paquete de grabación 09/10 (GUION 4 'Siete meses', V3_575H) con las mismas
-reglas de entrega que el videógrafo. El texto del guion se copia verbatim de GUIONES_GRABACION_2026-10-09.docx.
+La prueba = ejecutar desde casa (sin ir a la academia) un guion del paquete de grabación 09/10 (GUION 4 'Siete meses',
+V3_575H) con las mismas reglas de entrega que el videógrafo; mide si sigue instrucciones y cómo maneja sus opiniones. El texto del guion se copia verbatim de GUIONES_GRABACION_2026-10-09.docx.
 Salida: recursos/comercial/contratacion/COMMUNITY_MANAGER/BRIEF_PRUEBA_PRACTICA_CM.docx"""
 import os, re
 from docx import Document
@@ -47,9 +47,15 @@ p('Pago: $100.000 contra entrega. Se paga igual si pasas o no la prueba. El mate
 h('1. Qué es la prueba')
 p('En Heiiu los anuncios se producen a partir de **guiones escritos por gerencia**: cada guion trae el gancho, el texto que se dice tal cual, lo que se ve, el texto en pantalla, el cierre y un **código** que identifica el anuncio en la pauta. El videógrafo recibe el guion, graba y entrega el video listo para subir a Meta, sin que gerencia intervenga. La prueba es exactamente eso: **tomas UN guion del paquete actual y entregas el anuncio terminado**, con las mismas reglas de entrega que usa el videógrafo. No es una pieza libre ni un video "creativo": se evalúa que el guion se ejecute como está escrito y que el archivo quede listo para pauta.')
 
-h('2. El guion asignado: GUION 4 "Siete meses" (anuncio V3_575H)')
-p('Necesitas a la profe y el tablero del salón vacío, unos 15 minutos antes de una clase. Gerencia coordina el día y la hora con la profe; tú llegas con tu equipo. La profe dice el texto; tú diriges el encuadre, el audio y las tomas (2 tomas mínimo).', after=6)
+h('2. El guion asignado: GUION 4 "Siete meses" (anuncio V3_575H) — se graba desde casa')
+p('**No tienes que venir a la academia.** Te grabas tú, o alguien que te haga el favor, en tu casa o donde quieras. Quien sale a cámara habla como **narrador(a)**: no dice ser profesor(a) ni estudiante de Heiiu. El guion es el que usa el videógrafo con la profe; abajo están las adaptaciones para casa. Todo lo demás se ejecuta tal cual.', after=6)
 caja(guion)
+p('**Adaptaciones para grabar en casa (solo estas):**', after=2)
+for t in ['El tablero se reemplaza por una hoja, cartulina o pizarra pequeña: se escribe "5 AÑOS" grande, se tacha, y luego "575 h", "7 meses", "14 meses". Tienen que quedar legibles en cámara.',
+          'Donde el texto dice "Aquí", se dice "En Heiiu".',
+          'La persona habla a cámara, plano medio, fondo limpio (una pared), sin logos de otras marcas ni ropa con marcas.',
+          'Si no tienes a nadie que te ayude, te grabas tú misma: cuenta igual.']: li(t)
+p('**Sobre las opiniones:** si crees que algo del guion debería cambiar (una palabra, el orden, el gancho), **entregas el video como está escrito** y mandas tus sugerencias aparte, en un mensaje de WhatsApp, con el porqué. Las dos cosas se valoran: que ejecutes lo que se pide y que pienses. Lo que no se valora es cambiar el guion por tu cuenta.', after=6)
 
 h('3. Reglas de grabación y edición (las mismas del videógrafo)')
 for t in [
@@ -69,8 +75,8 @@ for t in [
  '**Dos archivos:** versión completa (20-30 s) y versión de 15 s (gancho + frase fuerte + cierre), cortada del mismo material.',
  'Nombre de archivo = código + letra B (porque es la segunda versión de este anuncio) + duración: **V3_575H_B_30s.mp4** y **V3_575H_B_15s.mp4**.',
  'Enviados al WhatsApp de gerencia **como DOCUMENTO**, no como video (para que WhatsApp no los comprima).',
- 'Más el **material en bruto** completo en una carpeta de Drive compartida (sirve para cortar otros ganchos sin volver a grabar).',
- '**Plazo:** máximo 5 días calendario después de la grabación. Tú propones la fecha de entrega al confirmar.',
+ 'Más el **material en bruto** en una carpeta de Drive compartida (sirve para cortar otros ganchos sin volver a grabar).',
+ '**Plazo:** máximo 5 días calendario desde que recibes este brief. Tú propones la fecha de entrega al confirmar.',
 ]: li(t)
 
 h('5. Cómo se evalúa (pasa quien cumple los 7)')
@@ -82,9 +88,9 @@ for a, b in [
  ('2. Texto', 'La profe dice el texto tal cual; "575 h", "7 meses" y "14 meses" quedan escritos en el tablero y legibles.'),
  ('3. Subtítulos', 'Grandes, palabra por palabra, dentro de la zona segura. Sin errores de ortografía.'),
  ('4. Formato y nombre', '9:16, 1080x1920, MP4, nombres exactos, enviados como documento, bruto en Drive.'),
- ('5. Audio e imagen', 'Voz limpia sin eco ni ruido; encuadre estable; sin aro de luz.'),
+ ('5. Audio e imagen', 'Voz limpia sin eco ni ruido; encuadre estable; sin aro de luz; la hoja con las cifras se lee.'),
  ('6. Versión de 15 s', 'Respeta la estructura del guion (gancho → frase fuerte → cierre) y se entiende sola.'),
- ('7. Entrega', 'En la fecha que propusiste.'),
+ ('7. Entrega y sugerencias', 'En la fecha que propusiste. El video va como está escrito; las sugerencias, si las hay, aparte y con su porqué.'),
 ]:
     c = t.add_row().cells
     for j, v in enumerate([a, b]):
