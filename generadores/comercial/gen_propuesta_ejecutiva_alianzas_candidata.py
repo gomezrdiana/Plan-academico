@@ -128,7 +128,7 @@ E.append(KeepTogether([P('Proyección comisional (pagos de contado)', 'h2'),
  ['3 cupos de plan empresa', m(3 * CUPO), m(3 * CUPO * COM), m(3_500_000) + ' (meses 1-3) · ' + m(3 * CUPO * COM + 2_000_000) + ' después'],
  ['5 cupos', m(5 * CUPO), m(5 * CUPO * COM), m(5 * CUPO * COM + 2_000_000)],
  ['10 cupos', m(10 * CUPO), m(10 * CUPO * COM), m(10 * CUPO * COM + 2_000_000)],
- ['15 cupos (desde el mes 7)', m(15 * CUPO), m(15 * CUPO * COM), m(15 * CUPO * COM + 2_549_095)],
+ ['15 cupos (desde el mes 7)', m(15 * CUPO), m(15 * CUPO * COM), m(15 * CUPO * COM + 2_550_000)],
  ['Un grupo cerrado de 15 (' + m(4_350_000) + ' c/u)', m(15 * 4_350_000), m(15 * 4_350_000 * COM), m(15 * 4_350_000 * COM + 2_000_000)],
  ], [5.6 * cm, 3.6 * cm, 3.2 * cm, W - 12.4 * cm], bold_col=3, shade_rows=(4,)),
  P('<b>La cartera se suma a todo esto:</b> 10 estudiantes de las alianzas pagando cuotas de ' + m(450_000) + ' generan ' + m(270_000) + ' de comisión cada mes, y 30 estudiantes, ' + m(810_000) + ' cada mes, mientras estudian. Cada estudiante genera 6% en los 12 meses siguientes a la firma de su matrícula y 3% del mes 13 al 24; por eso el ingreso grande depende de seguir abriendo alianzas. Si la empresa paga a cuotas, la comisión se liquida a medida que paga.', 'note')]))
