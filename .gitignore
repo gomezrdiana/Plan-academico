@@ -47,3 +47,6 @@ recursos/experiencia_cliente/**/*.pdf
 # Archivos temporales de Excel
 ~$*
 **/~$*
+
+# Hojas de vida de candidatos (datos personales de terceros)
+recursos/comercial/INDUCCION_COMERCIAL/contratacion comercial/LINKEDIN DIANA GOMEZ/Candidatos/
