@@ -40,12 +40,12 @@ def caja(lines):
         if ln.startswith('GUION'): r.bold = True; r.font.color.rgb = NAR
     d.add_paragraph()
 
-p('HEIIU ENGLISH ACADEMY · COMMUNITY MANAGER', GRIS, 10)
+p('HEIIU ENGLISH ACADEMY + CONSTRUCTORA · COMMUNITY MANAGER DE LAS DOS MARCAS', GRIS, 10)
 p('PRUEBA PRÁCTICA PAGADA — PRODUCIR UN ANUNCIO DESDE UN GUION', NAR, 15)
-p('Pago: $100.000 contra entrega. Se paga igual si pasas o no la prueba. El material entregado queda para uso de la academia.', GRIS, 9.5)
+p('Pago: $100.000 contra entrega. Se paga igual si pasas o no la prueba. El material entregado queda para uso de la academia. Esta prueba usa un guion de la academia como ejemplo; el cargo cubre las dos marcas (academia y constructora) y sus redes.', GRIS, 9.5)
 
 h('1. Qué es la prueba')
-p('En Heiiu los anuncios de pauta paga se producen a partir de **guiones escritos por gerencia**: cada guion trae los primeros segundos que detienen a la persona, el texto que se dice tal cual, lo que se ve, las letras que van en pantalla, el cierre y un **código** que identifica el anuncio. El CM recibe el guion, graba, edita y entrega el video a gerencia para aprobación; gerencia se lo pasa al trafficker, que lo sube a Meta. La prueba es exactamente eso: **te enviamos UN guion y entregas el video terminado**, con las reglas de las secciones 3 y 4. Estos videos no son libres ni creativos, a diferencia de los orgánicos, porque son los que llevan el presupuesto de pauta: buscamos que el guion se ejecute como está escrito y que el archivo quede listo para pauta.')
+p('En las dos marcas (Heiiu y la constructora) los anuncios de pauta paga se producen a partir de **guiones escritos por gerencia**: cada guion trae los primeros segundos o gancho, el texto que se dice tal cual, lo que se ve, las letras que van en pantalla, el cierre y un **código** que identifica el anuncio. El CM recibe el guion, graba, edita y entrega el video a gerencia para aprobación; gerencia se lo pasa al trafficker, que lo sube a Meta. La prueba es exactamente eso: **te enviamos UN guion y entregas el video terminado**, con las reglas de las secciones 3 y 4. Estos videos no son libres ni creativos, a diferencia de los orgánicos, porque son los que llevan el presupuesto de pauta: buscamos que el guion se ejecute como está escrito y que el archivo quede listo para pauta.')
 
 h('2. El guion asignado: GUION 4 "Siete meses" (anuncio V3_575H) — se graba desde casa')
 p('**No tienes que venir a la academia.** Te grabas tú, o alguien que te haga el favor, en tu casa o donde quieras. Quien sale a cámara habla como presentador(a). El guion es el mismo que se graba en la academia con la profe; abajo está adaptado para casa. Todo lo demás se ejecuta tal cual. **Si algo no queda claro, escríbenos antes de grabar:** preferimos la comunicación abierta y resolver dudas a tiempo; intentamos dártelo muy detallado, pero cualquier pregunta es bienvenida.', after=6)
@@ -79,7 +79,7 @@ p('**Adaptaciones para grabar en casa (solo estas):**', after=2)
 for t in ['En vez de tablero se usa una hoja, cartulina o pizarra pequeña (ya está así en la tabla).',
           'La persona habla a cámara, plano medio, fondo limpio (una pared), sin logos de otras marcas ni ropa con marcas.',
           'Si no tienes a nadie que te ayude, te grabas tú misma: cuenta igual.']: li(t)
-p('**Si ves algo que mejoraría el guion** (una palabra, el orden, el inicio), nos encanta escucharlo: entrega el video como está escrito y mándanos tus ideas aparte, por WhatsApp, con el porqué. Así conocemos las dos cosas que nos importan: cómo ejecutas y cómo piensas.', after=6)
+p('**Si ves algo que mejoraría el guion** (una palabra, el orden, el inicio), por favor dínoslo lo antes posible para tenerlo en cuenta.', after=6)
 
 h('3. Reglas de grabación y edición (las mismas de todos nuestros anuncios)')
 for t in [
@@ -114,7 +114,7 @@ for a, b in [
  ('4. Formato y nombre', '9:16, 1080x1920, MP4, nombres exactos, enviados como documento, bruto en Drive.'),
  ('5. Audio e imagen', 'Voz limpia sin eco ni ruido; encuadre estable; sin aro de luz; la hoja con las cifras se lee.'),
  ('6. Versión de 15 s', 'Respeta la estructura del guion (gancho → frase fuerte → cierre) y se entiende sola.'),
- ('7. Entrega y sugerencias', 'En la fecha que propusiste. El video va como está escrito; las sugerencias, si las hay, aparte y con su porqué.'),
+ ('7. Entrega', 'En la fecha que propusiste, con el guion ejecutado como está escrito (las mejoras que propongas se conversan antes de grabar).'),
 ]:
     c = t.add_row().cells
     for j, v in enumerate([a, b]):
@@ -122,7 +122,8 @@ for a, b in [
 d.add_paragraph()
 
 h('6. Qué pasa después')
-p('Si pasas la prueba, se firma el contrato de prestación de servicios en las condiciones conversadas. El trabajo mensual tiene **dos partes**: (1) **los anuncios para pauta**: recibes el guion escrito por gerencia, grabas en la academia con los profes y los estudiantes, editas y entregas el video listo con su código, con estas mismas reglas (esta prueba mide esa parte, desde casa, antes de grabar en la academia); y (2) **el contenido orgánico**: testimonios, ejercicios en clase, historias y el día a día de la academia, guiado por tu creatividad y por las ideas que te demos, respetando las reglas de mensaje de Heiiu (la lista de prohibidos de la sección 3).')
+p('Si pasas la prueba, se firma el contrato de prestación de servicios en las condiciones conversadas, para las **dos marcas: la academia y la constructora**. En cada una el trabajo mensual tiene dos partes: (1) **los anuncios para pauta**: recibes el guion escrito por gerencia, grabas (en la academia con los profes y los estudiantes; en la constructora en sus proyectos), editas y entregas el video listo con su código, con estas mismas reglas (esta prueba mide esa parte, desde casa, antes de grabar en sitio); y (2) **el contenido orgánico**: en la academia, testimonios, ejercicios en clase, historias y el día a día; en la constructora, sus proyectos, avances y clientes; guiado por tu creatividad y por las ideas que te demos, respetando las reglas de mensaje de cada marca (las de Heiiu son la lista de prohibidos de la sección 3; las de la constructora se entregan aparte).')
+p('**Publicar hace parte del trabajo, no es un adicional:** el contenido orgánico de cada marca se programa y se publica en sus redes (Heiiu tiene Instagram, TikTok y Facebook; la constructora, las suyas), con la parrilla mensual y el informe de resultados que ya conversamos. Los anuncios de pauta, en cambio, los sube el trafficker.')
 p('Cualquier duda sobre el guion o la logística: por WhatsApp a gerencia, antes de grabar. Lo que no esté escrito en el guion, se pregunta.', GRIS, 9.5)
 
 try:
