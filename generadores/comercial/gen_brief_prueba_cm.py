@@ -45,19 +45,34 @@ p('PRUEBA PRÁCTICA PAGADA — PRODUCIR UN ANUNCIO DESDE UN GUION', NAR, 15)
 p('Pago: $100.000 contra entrega. Se paga igual si pasas o no la prueba. El material entregado queda para uso de la academia.', GRIS, 9.5)
 
 h('1. Qué es la prueba')
-p('En Heiiu los anuncios se producen a partir de **guiones escritos por gerencia**: cada guion trae el gancho, el texto que se dice tal cual, lo que se ve, el texto en pantalla, el cierre y un **código** que identifica el anuncio en la pauta. El videógrafo recibe el guion, graba y entrega el video listo para subir a Meta, sin que gerencia intervenga. La prueba es exactamente eso: **tomas UN guion del paquete actual y entregas el anuncio terminado**, con las mismas reglas de entrega que usa el videógrafo. No es una pieza libre ni un video "creativo": se evalúa que el guion se ejecute como está escrito y que el archivo quede listo para pauta.')
+p('En Heiiu los anuncios de pauta paga se producen a partir de **guiones escritos por gerencia**: cada guion trae los primeros segundos que detienen a la persona, el texto que se dice tal cual, lo que se ve, las letras que van en pantalla, el cierre y un **código** que identifica el anuncio. El CM recibe el guion, graba, edita y entrega el video a gerencia para aprobación; gerencia se lo pasa al trafficker, que lo sube a Meta. La prueba es exactamente eso: **te enviamos UN guion y entregas el video terminado**, con las reglas de las secciones 3 y 4. Estos videos no son libres ni creativos, a diferencia de los orgánicos, porque son los que llevan el presupuesto de pauta: buscamos que el guion se ejecute como está escrito y que el archivo quede listo para pauta.')
 
 h('2. El guion asignado: GUION 4 "Siete meses" (anuncio V3_575H) — se graba desde casa')
 p('**No tienes que venir a la academia.** Te grabas tú, o alguien que te haga el favor, en tu casa o donde quieras. Quien sale a cámara habla como **narrador(a)**: no dice ser profesor(a) ni estudiante de Heiiu. El guion es el que usa el videógrafo con la profe; abajo están las adaptaciones para casa. Todo lo demás se ejecuta tal cual.', after=6)
-caja(guion)
+p('**Tres palabras que vas a ver abajo:** *los primeros 2 segundos* son lo que hace que la persona deje de deslizar en Instagram o TikTok y se quede viendo; *lo que se dice* va hablado y además en subtítulos palabra por palabra; *las letras en pantalla* son textos grandes sobre el video (no son los subtítulos), en naranja o amarillo de la marca.', after=4)
+rod = d.add_table(rows=1, cols=4); rod.style = 'Table Grid'
+for j, v in enumerate(['Segundos', 'Qué se ve', 'Qué dice la persona (tal cual)', 'Letras grandes en pantalla']):
+    r = rod.rows[0].cells[j].paragraphs[0].add_run(v); r.bold = True; r.font.size = Pt(9.5)
+for row in [
+ ('0-2', 'Primer plano de la hoja: escribe "5 AÑOS" grande y lo tacha con una raya.', '(no habla todavía)', '"Lo que tarda el inglés a 2 horas por semana."'),
+ ('2-8', 'La persona a cámara, plano medio, la hoja a un lado.', '"El Marco Común Europeo calcula entre quinientas y seiscientas horas de clase para llegar a B2."', '"B2 = 500-600 h (Marco Común Europeo)"'),
+ ('8-18', 'Mientras habla escribe en la hoja, de verdad y en el momento: "575 h", "7 meses", "14 meses". Las cifras tienen que leerse.', '"Si estudias dos horas por semana, son cinco años. En Heiiu: cuatro horas al día, siete meses. O si trabajas, dos horas cada noche: catorce."', '"2 h/semana = 5 años" · luego "En Heiiu: 7 meses · noche: 14"'),
+ ('18-22', 'Vuelve a cámara, seria, sin sonrisa de comercial.', '"No es fácil. Es rápido porque es intenso."', '(ninguna)'),
+ ('22-25', 'Cierre a cámara. En el último segundo aparece el logo de Heiiu.', '"Pregúntanos qué fecha te queda. Escríbenos."', '"Garantía por escrito"'),
+]:
+    c = rod.add_row().cells
+    for j, v in enumerate(row):
+        r = c[j].paragraphs[0].add_run(v); r.font.size = Pt(9.5); r.bold = (j == 0)
+d.add_paragraph()
+p('**Versión de 15 segundos** (se corta del mismo material, no se graba aparte): 0-3 s tacha "5 AÑOS" en la hoja → 3-11 s: "Si estudias dos horas por semana, son cinco años. En Heiiu: cuatro horas al día, siete meses." (escribe "7 meses") → 11-15 s: "No es fácil. Es intenso. Pregúntanos qué fecha te queda."', after=4)
+p('**Qué vende este anuncio y qué no:** la velocidad con un número real. El Marco Común Europeo estima 500-600 horas guiadas para llegar a B2; Heiiu son 575 horas en 7 meses (4 h/día) o 14 meses (2 h/noche). "7 meses" se dice como descripción del programa; **jamás** "garantizado que hablas en 7 meses". Sin precio. Las dos jornadas van en la misma pieza para no dejar por fuera al nocturno.', after=6)
 p('**Adaptaciones para grabar en casa (solo estas):**', after=2)
-for t in ['El tablero se reemplaza por una hoja, cartulina o pizarra pequeña: se escribe "5 AÑOS" grande, se tacha, y luego "575 h", "7 meses", "14 meses". Tienen que quedar legibles en cámara.',
-          'Donde el texto dice "Aquí", se dice "En Heiiu".',
+for t in ['En vez de tablero se usa una hoja, cartulina o pizarra pequeña (ya está así en la tabla).',
           'La persona habla a cámara, plano medio, fondo limpio (una pared), sin logos de otras marcas ni ropa con marcas.',
           'Si no tienes a nadie que te ayude, te grabas tú misma: cuenta igual.']: li(t)
 p('**Sobre las opiniones:** si crees que algo del guion debería cambiar (una palabra, el orden, el gancho), **entregas el video como está escrito** y mandas tus sugerencias aparte, en un mensaje de WhatsApp, con el porqué. Las dos cosas se valoran: que ejecutes lo que se pide y que pienses. Lo que no se valora es cambiar el guion por tu cuenta.', after=6)
 
-h('3. Reglas de grabación y edición (las mismas del videógrafo)')
+h('3. Reglas de grabación y edición (las mismas de todos nuestros anuncios)')
 for t in [
  'Formato **9:16, 1080x1920, MP4**. Celular o cámara en vertical.',
  'Audio: micrófono de solapa o el celular a **menos de 1,5 m** de quien habla. Luz natural o del salón; **sin aro de luz** (se ve a anuncio).',
@@ -98,7 +113,7 @@ for a, b in [
 d.add_paragraph()
 
 h('6. Qué pasa después')
-p('Si pasas la prueba, se firma el contrato de prestación de servicios en las condiciones conversadas. El trabajo mensual tiene **dos partes**: (1) **los anuncios para pauta**: recibes el guion escrito por gerencia, grabas en la academia con los profes y los estudiantes, editas y entregas el video listo con su código, con estas mismas reglas (hoy lo hace nuestro videógrafo; esta prueba mide esa parte, desde casa, antes de grabar en la academia); y (2) **el contenido orgánico**: testimonios, ejercicios en clase, historias y el día a día de la academia, guiado por tu creatividad y por las ideas que te demos, respetando las reglas de mensaje de Heiiu (la lista de prohibidos de la sección 3).')
+p('Si pasas la prueba, se firma el contrato de prestación de servicios en las condiciones conversadas. El trabajo mensual tiene **dos partes**: (1) **los anuncios para pauta**: recibes el guion escrito por gerencia, grabas en la academia con los profes y los estudiantes, editas y entregas el video listo con su código, con estas mismas reglas (esta prueba mide esa parte, desde casa, antes de grabar en la academia); y (2) **el contenido orgánico**: testimonios, ejercicios en clase, historias y el día a día de la academia, guiado por tu creatividad y por las ideas que te demos, respetando las reglas de mensaje de Heiiu (la lista de prohibidos de la sección 3).')
 p('Dudas sobre el guion o la logística: por WhatsApp a gerencia antes de grabar. Lo que no esté escrito en el guion no se inventa: se pregunta.', GRIS, 9.5)
 
 try:
