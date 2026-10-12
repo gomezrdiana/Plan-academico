@@ -98,7 +98,7 @@ for a, b in [
 d.add_paragraph()
 
 h('6. Qué pasa después')
-p('Si pasas la prueba, se firma el contrato de prestación de servicios en las condiciones conversadas. Dentro del trabajo mensual, además de las historias, piezas y testimonios, **producirás anuncios a partir de los guiones de gerencia con estas mismas reglas**: ese material se suma al del videógrafo y se entrega listo para la pauta. La prueba es una muestra real de esa parte del trabajo.')
+p('Si pasas la prueba, se firma el contrato de prestación de servicios en las condiciones conversadas. En el trabajo mensual hay **dos tipos de contenido**: (1) **los anuncios para pauta**, que salen de guiones escritos por gerencia y se ejecutan tal cual, con estas mismas reglas (es lo que mide esta prueba); y (2) **el contenido orgánico**: testimonios, ejercicios en clase, historias y el día a día de la academia, donde la creatividad es tuya, con poca guía y respetando solo las reglas de mensaje de Heiiu (la lista de prohibidos de la sección 3). La mayor parte del mes es del segundo tipo; la prueba mide el primero porque es donde más cuesta encontrar a alguien que ejecute sin cambiar lo escrito.')
 p('Dudas sobre el guion o la logística: por WhatsApp a gerencia antes de grabar. Lo que no esté escrito en el guion no se inventa: se pregunta.', GRIS, 9.5)
 
 try:
