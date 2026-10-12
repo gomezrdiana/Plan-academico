@@ -16,7 +16,7 @@ NAR = RGBColor(0xE5, 0x4C, 0x09); GRIS = RGBColor(0x66, 0x66, 0x66)
 paras = [p.text for p in Document(SRC).paragraphs if p.text.strip()]
 i0 = next(i for i, t in enumerate(paras) if t.startswith('GUION') and 'SIETE MESES' in t.upper())
 i1 = next(i for i, t in enumerate(paras) if t.startswith('GUION') and i > i0)
-guion = paras[i0:i1]
+guion = [t for t in paras[i0:i1] if not t.startswith('Mensaje prellenado')]  # el prellenado lo configura el trafficker en Meta, no va en el video
 
 d = Document(); d.styles['Normal'].font.name = 'Calibri'; d.styles['Normal'].font.size = Pt(10.5)
 for s in d.sections: s.left_margin = s.right_margin = Pt(54); s.top_margin = s.bottom_margin = Pt(48)
@@ -73,7 +73,7 @@ for t in [
 h('4. Qué entregas')
 for t in [
  '**Dos archivos:** versión completa (20-30 s) y versión de 15 s (gancho + frase fuerte + cierre), cortada del mismo material.',
- 'Nombre de archivo = código + letra B (porque es la segunda versión de este anuncio) + duración: **V3_575H_B_30s.mp4** y **V3_575H_B_15s.mp4**.',
+ 'Nombre de archivo = código + letra B (porque es la segunda versión de este anuncio) + duración: **V3_575H_B_30s.mp4** y **V3_575H_B_15s.mp4**. El código identifica el guion para el trafficker, que es quien sube los anuncios a Meta y configura el botón de WhatsApp. **Tú no subes nada a Meta** ni configuras mensajes.',
  'Enviados al WhatsApp de gerencia **como DOCUMENTO**, no como video (para que WhatsApp no los comprima).',
  'Más el **material en bruto** en una carpeta de Drive compartida (sirve para cortar otros ganchos sin volver a grabar).',
  '**Plazo:** máximo 5 días calendario desde que recibes este brief. Tú propones la fecha de entrega al confirmar.',
