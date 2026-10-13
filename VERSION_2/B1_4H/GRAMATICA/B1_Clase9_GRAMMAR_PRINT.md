@@ -1,116 +1,178 @@
 # B1 MASTERY — Cl 9/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
 
-**Sesion 9/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
-**Modulo:** A1 Book **M15 "I Love My Parents" — Possessive Adjectives** (p.187-196) **+ M30 "When Is Juan's Birthday?" — The Possessive Case** (p.333-336)
-**Focus (1 line):** Lock three forms on paper — HER report (adjective), the boss's office ('s), the cover OF the file (of).
-**Virtud:** TEMPLANZA v1 — dia 4 de 5 (Cl 6-10)
-**Frase del Dia:** *"Temperance names ownership cleanly: HER laptop for the owner, the boss's office for the person, the cover OF the report for the thing — three steady forms, no confusion."*
+**Sesion 9/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Modulo:** A1 Book **M15 "I Love My Parents — The Possessive Adjectives" (Guia 1 p.189; ejemplos y Ejercicios 1 p.190; rango p.187-196)** mas **M30 "When Is Juan's Birthday? — The Possessive Case" (Guia 1 p.335; Ejemplos 1 p.336)** — ancla de hoy; la regla SE SELLA EN PAPEL
+**Focus (1 linea):** Lo que esta manana nombraron con la boca, ahora queda escrito: el apostrofe en su sitio — dueño singular, dueños PLURALES y dueño terminado en s — mas el adjetivo que responde.
+**Virtud:** TEMPLANZA — Cl 4 de 5 de esta virtud (Cl 6-10 de cada pista)
+**Frase del Dia:** *"Temperance writes the owner down: her badge, the technicians' keys, Chris' laptop, the screen of the projector — one apostrophe in the right place settles who answers for what."*
 
-> **DE PIE: Bloques 1-3 completos en/junto al tablero (~86%; piso 70%). Solo el Bloque 4 es sentado.** Movimiento SIEMPRE con contenido.
+> **ENGLISH ONLY de principio a fin.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges. Los rituales ya se presentaron en la Cl 1: hoy solo se APLICAN, no se explican.
 
----
+> **DE PIE: Bloques 1-3 completos en o junto al tablero (~95 de 110 min ≈ 86%; piso 70%). Solo el Bloque 4 es sentado.** Movimiento SIEMPRE con contenido: nada de "stand up / sit down" suelto.
 
-## BLOQUE 1 — APERTURA (20') — DE PIE
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video) y el PASE que te entrega el docente de Conversacion a las 10:00. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
-**Objective: wake present simple + the project page, then point at the three ownership forms.**
+> **HOY SOLO: la posesion ESCRITA — la tabla de adjetivos posesivos · el caso posesivo con el apostrofe en sus TRES casos del libro (dueño singular "Peter's dog", dueños PLURALES "my brothers' dog", dueño terminado en s o z "Chris' dog") · "of" para partes de cosas · y el adjetivo que RESPONDE a una pregunta hecha en caso posesivo (Ejemplos 1 p.336, dictados al papel del estudiante). NO TOCAR AUN: los pronombres objeto (call him, help us) ni el seguimiento escrito de la entrevista — eso es de GRAMATICA Cl 10. No menciones el hito de la entrevista: ya lo anuncio Conversacion.**
 
-1. **Recuperacion (10', oral, DE PIE, en cadena, sin cuaderno).** N-3 = Cl 6, N-7 = Cl 2. Errores anonimos al board; 1 min de re-produccion correcta:
-   - "Three shapes fast: 'He works / he doesn't work / does he work?'" (Cl 6)
-   - "A coworker in 3rd person, watch the -s." (Cl 6)
-   - "MY STORY (Cl 2): one goal in a full sentence." (Cl 2)
-   - "Fix it: 'He don't work Sundays.'" (Cl 6)
-2. **Frase del Dia (4').** Board antes de empezar; 2 lecturas, coro 2x, 1 solo. 3+ inserciones; cierre 1 de memoria + 1 nueva.
-3. **Chequeo publico de portafolio (3').** *"Who sent their daily audio since Cl 8?"* Numeros; contenido = coordinacion.
-4. **PASE recibido de Conv (hoy) (3'):** lee los 3 gaps: *"Fresh from this morning. We hold three forms on paper now."*
+## BLOQUE 1 — RECUPERACION DE LO ORAL DE ESTA MANANA (20') — DE PIE
 
-> [VIRTUD] Board: "TEMPERANCE — DAY 4". Di: *"Temperance measures ownership. Person or thing? 's or of? Match the owner. Pick the right form, calm."*
+**Objective: bring this morning's owners back into the room, and hear exactly which apostrophe fell.**
 
-## BLOQUE 2 — TRES FORMAS EN PAPEL (40') — DE PIE ~90%
+1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
+2. **Chequeo de portafolio, con la lista del PASE en mano (3').** Ya viste los videos antes de entrar. La lista ENVIO / NO ENVIO de hoy ya la marco Conversacion a las 8:00 y viene en el PASE: NO la repites nombre por nombre. Lees en voz alta solo los NO ENVIO (si alguno lo mando en el cambio de bloque, lo pasas a ENVIO) y a 2-3 estudiantes que Conversacion no corrigio les dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'the book's cover' — 'the cover OF the book'"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* Sin discusion.
+3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 6** (HAS, nunca "haves", y los tres sonidos de la -s) · N-7 = **Grammar Cl 2** (didn't vs haven't yet, pregunta con short answer). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
+   - "Third person with HAVE: 'She HAS two reports.' — never 'she haves'." (Cl 6)
+   - "The three sounds of the -s: works / plays / watches." (Cl 6)
+   - "One 'I haven't... yet' about this week." (Cl 2)
+   - "Short answer only: 'Have you called the supplier?'" (Cl 2)
+4. **Lectura del PASE recibido, en voz alta (3').** Lees los 3 errores literales del papel: *"These three came out of your mouths this morning. Now the apostrophe goes where it belongs and stays there."*
+5. **Frase del Dia (2').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea: *"One owner: apostrophe before the s. Many owners: apostrophe after the s."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
-**Objective: everyone produces adjective, 's for people, and of for things, fast and clean.**
+> **[VIRTUD] TEMPLANZA — Cl 4 de 5. Tablero: "TEMPERANCE — DAY 4 OF 5".** (5', el ritual completo)
+> **Por que:** templanza es precision paciente. En un documento, un apostrofe mal puesto cambia de quien es la responsabilidad — y eso, en una reclamacion, en un contrato o en un inventario, cuesta dinero. La disciplina de escribirlo bien es la misma que sostiene el video diario.
+> **En el aula hoy:** revisar antes de entregar. Nadie escribe rapido y bien al mismo tiempo la primera vez: se escribe, se relee, se corrige.
+> **V (1'):** *"Day four, on paper. Temperance is the second look before you hand it in."* · **A (1'):** pregunta, 30 seg de pensar: *"What is one thing you wrote or said this month that you should have checked twice?"* · **T (2'):** cadena de pie, cada uno responde en 1-2 frases usando un posesivo; escuchas y anotas, NO corriges aqui · **S (1'):** 2-3 al grupo y cierras: *"One more class of temperance in each track, and then the next guide names the new virtue."*
+> **Si alguien pregunta que tiene que ver con ingles:** *"Everything. On the day you need this language, what fails is not vocabulary: it is nerve, or consistency, or preparation. That is what we train here."*
 
-1. Board — cita del libro (M15 + M30):
+## BLOQUE 2 — SELLAR M15 Y M30 EN PAPEL (40') — DE PIE ~90%
+
+**Objective: everyone writes all three apostrophe cases correctly, and answers a possessive-case question with the right adjective — fast.**
+
+1. **Tablero 1 — la regla del libro (5').** La clase es 100% ingles, asi que en el tablero va en ingles; la cita verbatim en espanol la tienes en el ANEXO para tu preparacion.
 ```
-POSSESSIVES (A1 Book M15 p.187-196 / M30 p.333-336)
-ADJECTIVES (before the noun, no article):
-   my · your · his · her · its · our · their
-   "She likes HER team."   "He lives in HIS house."
-   *** NEVER "the my house" — the adjective replaces the article. ***
-'S — POSSESSIVE CASE (people): OWNER + 's + property
-   "the dog of my brother" -> "my brother's dog"
-   plural owners: apostrophe AFTER s -> "my brothers' dog"
-   owner ends in s/z: apostrophe + "-es" sound -> "Chris' dog"
-OF (things): "the cover OF the report" (things don't own -> use OF)
+POSSESSIVE ADJECTIVES — A1 Book M15, Guide 1 (p.189)
+  my · your · his · her · its · our · their     + NOUN, and NO article.
+  "She likes HER team."  "He lives in HIS house."  "It woke up with ITS mother."
+  *** NEVER "the my house" -- the adjective REPLACES the article. ***
+  Match the OWNER, not the object.
+
+POSSESSIVE CASE -- A1 Book M30, Guide 1 (p.335)
+  Spanish says "de" / "of":  "the dog OF my brother"  (correct, but...)
+  English puts the OWNER first + ('s) + the property:  "my brother's dog"
+  ONE OWNER              -> apostrophe BEFORE the s :  Peter's dog
+  MANY OWNERS            -> apostrophe AFTER the s  :  my brothers' dog
+                            (the pronunciation does NOT change)
+  OWNER ENDING IN S / Z  -> apostrophe after + "-es" sound : Chris' dog
+  PARTS OF THINGS        -> keep OF : the cover OF the report
 ```
-2. Señala la logica: *"Adjective replaces the article — never 'the my'. Match the OWNER, not the object. People take 's; things take 'of'. Two common drifts: 'the book's cover' (thing with 's) and 'his office' for a woman."*
-3. **Drill en circulo (10', DE PIE):** tu lanzas dueno + objeto + forma ("manager / office / 's") -> estudiante produce "the manager's office"; el siguiente lanza el proximo (incluye of: "report / cover / of" -> "the cover of the report"). Velocidad creciente.
-4. **Errores tipicos al board (coro 2x):**
-   - "the my laptop" -> "MY laptop"
-   - "the book's cover" -> "the cover OF the book"
-   - "his office" (mujer) -> "HER office"
-   - "the office of John" -> "JOHN'S office"
-5. **Zone walk (12', DE PIE):** tablero `PERSON -> 'S | THING -> OF | ADJECTIVE`. Tu dices un dueno + objeto; las parejas CAMINAN a la zona correcta segun persona/cosa/adjetivo Y producen la frase. El que llega justifica.
-6. Cierre del bloque: produccion libre de pie — cada uno 2 frases verdaderas (1 con 's de una persona real, 1 con of de una cosa).
+2. **Señala la logica (2').** *"Three apostrophes, three positions. 'The technician's keys' is one person. 'The technicians' keys' is the whole team — same sound, different responsibility. And when the thing ends in s already, you add the apostrophe and the '-es' sound: 'the class' dog'."*
+3. **Drill en circulo, DE PIE (8').** Cadena cerrada. Tu lanzas dueño + objeto ("the supervisor / keys", "the analysts / desks", "Chris / laptop", "the report / cover"). Estudiante 1 escribe la forma EN EL AIRE diciendo donde va el apostrofe (*"technicians, apostrophe, keys"*); estudiante 2 produce la frase completa; estudiante 3 la convierte en pregunta de caso posesivo (*"Where are the technicians' keys?"*); estudiante 4 la responde con el ADJETIVO (*"Their keys are in the cabinet."*) y lanza el siguiente par. Velocidad creciente; la cadena no se detiene cuando alguien se cae.
+4. **Zone walk, DE PIE, en parejas (8').** Tablero en cuatro zonas: `ADJECTIVE` · `ONE OWNER 'S` · `MANY OWNERS S'` · `OF (part of a thing)`. Dices un dueño y un objeto; cada pareja **CAMINA** a su zona **Y** produce la frase en voz alta, deletreando donde va el apostrofe. 10 disparadores, velocidad creciente. Al que se equivoca de zona lo corrige la pareja de la zona correcta, no tu.
+5. **Ejemplos 1, p.336 — EN EL PAPEL DEL ESTUDIANTE (13'). Dictado desde el tablero, nada impreso.** Esta es la tercera habilidad objetiva literal del modulo: **responder con el adjetivo posesivo a una pregunta hecha en caso posesivo.** Dictas SOLO la pregunta; ellos escriben la respuesta completa con adjetivo. Clave en el ANEXO, no la pongas antes.
+```
+DICTATION (A1 Book M30, Examples 1, p.336) — write the ANSWER, full
+sentence, with a POSSESSIVE ADJECTIVE.
+ 1. What is your mother's car?              6. Is that your mother's car?
+ 2. Where is your brother's team?           7. Who are your mother's brothers?
+ 3. Who is Bella's friend?                  8. How are Jenny and Olaf's sisters?
+ 4. Where is Oscar's teacher?               9. Where is your and Tatiana's house?
+ 5. Where is Javier's pen?                 10. Where is Sebastian's mother's house?
+THEN, 3 OF YOUR OWN, about real people at your work or study:
+ one with ONE owner ('s), one with MANY owners (s'), one with OF.
+```
+   Caminas mirando papeles y anotas errores literales en TU cuaderno. **Correccion oral en cadena de pie (los ultimos 4 min):** un estudiante distinto lee cada item resuelto y dice en 1 linea por que ese adjetivo (*"a mother is 'she' -> HER car"*). El item **10 se corrige al final y en voz alta**: lleva dos posesivos encadenados (*"Sebastian's mother's house"*) y ahi se ve todo el modulo.
+6. **Cierre del bloque — produccion libre, de pie (4').** Cada estudiante dice 2 frases verdaderas de su trabajo: 1 con dueños PLURALES (*"the drivers' schedule"*) y 1 con OF de una parte (*"the handle of the door"*). El drill nunca cierra el bloque: cierra el uso libre.
 
-## BLOQUE 3 — HANDOVER BRIEFING (35') — DE PIE 100%
+## BLOQUE 3 — SIMULACION: INSURANCE CLAIM AFTER AN OFFICE INCIDENT (35') — DE PIE 100%
 
-**Objective: hold the three forms under pressure in a realistic asset-handover.**
+**Objective: hold the apostrophe under real pressure, where naming the wrong owner changes who gets paid.**
 
-1. Board: `HANDOVER BRIEFING — NAME THE OWNER — 3 ROTATIONS`
-2. Escenario profesional realista: entrega de bienes de un proyecto a un colega. **1 estudiante = guest** (nombra duenos con las 3 formas: *"This is the manager's folder. That's her charger. The cover of the file is here."*); otro rota como colega que confirma/pregunta ("Is this the analyst's laptop? Is it John's?"); el resto = **OBSERVERS ACTIVOS**: 2 errores de forma, 1 acierto, 1 pregunta. Tu = COACH — NUNCA guest.
-3. 3 rotaciones (~8'). Entre rotaciones, 90 seg de cadena rapida ("Peter -> Peter's pen; report -> the cover of the report").
-4. Debrief con lo anotado (tipos, anonimos). Interven si un error aparece 3 veces en la misma pareja: board, coro 2x, sigue.
+1. Tablero: `INSURANCE CLAIM — WHOSE WAS IT, AND WHAT PART BROKE — 1 EMPLOYEE (GUEST) — 1 ASSESSOR — EVERYONE ELSE OBSERVES`
+2. **Escenario profesional realista (solo tablero y sala), 2'.** Hubo un incidente en la oficina la semana pasada — se inundo un piso, entro un ladron, se cayo un estante, fallo la electricidad. Un **ajustador de la aseguradora** levanta la reclamacion, y **solo cubre lo que es de la empresa**: los objetos personales van aparte. **1 estudiante = guest / empleado que reclama:** lista lo dañado nombrando dueño y parte afectada (*"The manager's laptop is dead. The screen of the projector cracked. The technicians' chairs are soaked. Chris' headset is missing. That jacket is mine, not the company's."*). **1 estudiante rota como ajustador** y presiona con preguntas de caso posesivo: *"Is that the analyst's or yours? Is it the company's property? Which part of the machine failed? How many owners does that item have?"* — y **rechaza lo que quede mal atribuido**: *"If it is your personal bag, it is not covered."* **TU eres COACH desde afuera — NUNCA juegas empleado ni ajustador.** Si se congelan 15 seg, sueltas UN prompt (*"Ask her whose desk that was"*) y te retiras.
+3. **OBSERVERS ACTIVOS con ficha en su propio papel (la dibujan ellos en 30 seg):** cuatro columnas, `ADJECTIVE` · `ONE OWNER 'S` · `MANY OWNERS S'` · `OF (part)`. **Una raya por cada forma oida**, mas 1 error y 1 pregunta al final. Al cerrar cada rotacion cantan el conteo: *"seven adjectives, five one-owner, two many-owners, three of."* La columna de dueños PLURALES es la que hay que llenar: si queda vacia, el grupo no esta usando la forma nueva.
+4. **Minimos por rotacion:** el empleado reclama 8 objetos (minimo 3 con 's de un dueño + 2 con dueños PLURALES + 2 con OF de una parte + 1 objeto personal excluido) + responde 4 preguntas del ajustador + corrige 1 atribucion equivocada en voz alta.
+5. **4 rotaciones (~7' cada una)**, empleado y ajustador nuevos en cada una, el incidente cambia (inundacion, robo, corto electrico, estante caido). Entre rotaciones, 45 seg de cadena rapida de pie: *"one driver -> the driver's route; all of them -> the drivers' routes."*
+6. **Debrief (4').** Los observers reportan TIPOS y conteos, nunca personas (*"the plural column is empty"*, *"'the projector's screen' three times"*). Correcciones al tablero, coro 2x. Intervienes solo si un error sale 3 veces.
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
 
-1. **Ticket de salida (5'):** 3-5 frases de posesion (1 adjetivo + 1 con 's + 1 con of), nombre en el papel. Se recogen TODOS; no se evaluan.
-2. **Tarea (board):**
+1. **Ticket de salida (4').** 3-5 frases de posesion sobre su trabajo real — al menos 1 con adjetivo, 1 con dueño singular ('s), 1 con dueños PLURALES (s') y 1 con OF — con nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
+2. **Error paper al tablero, sin nombres (4').** Escribes 4-6 errores REALES del dia, anonimos. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio con la forma corregida. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
+3. **Cierre (3').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with CONVERSATION Cl 10 and the other teacher, and it is a long speaking class. Bring your paper and send your video."* **NO des mas detalles del hito: ya se anuncio y no es tu clase.** Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."*
+
+**Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
-HOMEWORK CL 9 GRAMMAR — DUE Cl 10, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE 12 sentences: 4 with adjectives (his/her/our/their),
-    4 with 's for people (include 1 plural owner: the managers' desks),
-    4 with of for things. No "the my". Underline the possessive form.
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: "The things on my desk
-    and my team's desk, and who owns each". Label: B1-GRAMMAR-9. WhatsApp group.
-(3) Bring the paper to next class.
+HOMEWORK GRAMMAR CL 9 — TWO THINGS.
+DUE: Cl 10, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
+NOT FRAGMENTED. TIME: 30-45 min (B1).
+(1) WRITTEN, in your notebook, 12 lines about your real workplace:
+    4 with possessive adjectives (his/her/our/their/its),
+    4 with 's for ONE owner (a real person on your team),
+    2 with s' for MANY owners (the drivers' routes),
+    2 with OF for a part of a thing (the screen of the monitor).
+    No "the my". Underline the possessive. Mark where the apostrophe goes.
+    Bring the notebook to Conversation Cl 10.
+(2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
+    one assigned in CONVERSATION at 8:00. Send it TODAY to the cohort
+    WhatsApp group. Audio only by exception (max 2 a week).
 ```
-3. **Error paper** fisico anonimo cerrado; nombres + citas en tu reporte.
-4. **Proxima clase:** *"Cl 10: object pronouns — call HIM, help US, I like IT. Temperance day 5 closes the block; Cl 11 opens Justice. Evaluation questions to coordination, not to me."*
-5. **PASE a Conv Cl 10** (fisico, antes de salir):
+> **El video es DIARIO y es UNO solo: hoy es el que asigno Conversacion a las 8:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
+4. **PASE al docente de CONVERSACION (Conv Cl 10, a las 8:00 de la proxima clase) — se lo dejas HOY antes de salir**, en papel en la carpeta del cohorte o por mensaje escrito directo por el grupo de docentes. No es opcional y no se pasa de palabra: **la proxima clase es la del hito y la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo antes de salir:
 ```
-PASE Grammar -> Conv — Cl 9 -> Cl 10 (dia siguiente)
-3 gaps frescos de hoy (error literal, SIN nombre aqui):
-1. ______________________  2. ______________________  3. ______________________
-Patrones bajo presion: (a) "the my" (articulo + adjetivo); (b) 's en cosa;
-(c) genero por objeto no por dueno; (d) "of" para persona en vez de 's.
-Hoy quedaron lockeadas las 3 formas (M15 + M30). En Cl 10 abre object pronouns:
-pideles un "Pronoun Roundup" oral — cada uno reemplaza un nombre por him/her/it/them.
-Recuerda: el texto HEIIU "Mentors" es la lectura de Cl 10 (object pronouns).
+PASE Grammar Cl 9 -> Conv Cl 10 — del docente de GRAMATICA al de CONVERSACION
+Virtud: TEMPLANZA, Cl 4 de 5 (Cl 6-10). La Cl 10 es Cl 5 de 5: CIERRA la virtud
+en tu pista y tu guia trae la retrospectiva de cierre de bloque.
+QUE QUEDO SELLADO HOY EN PAPEL (A1 M15 Guia 1 p.189 + M30 Guia 1 p.335):
+tabla de adjetivos posesivos · apostrofe en sus TRES casos (dueño singular,
+dueños plurales, dueño en s/z) · OF para partes de cosas · el adjetivo que
+responde a una pregunta de caso posesivo (Ejemplos 1 p.336 dictado y resuelto
+en el cuaderno del estudiante, mas 3 items propios de su trabajo).
+3 ERRORES ESCRITOS de hoy (cita literal, SIN nombre aqui; nombres en mi reporte):
+1. ____________________  2. ____________________  3. ____________________
+QUE NO ALCANZO del modulo: _____________________________________________
+Conteo de la simulacion (adj / un dueño / varios dueños / of): ___/___/___/___
+YA QUEDO HECHO HOY, NO LO REPITAS: la tabla completa en el tablero · el
+dictado de Ejemplos 1 p.336 · el drill de apostrofe · la simulacion
+INSURANCE CLAIM AFTER AN OFFICE INCIDENT (no repitas ese titulo ni su guion)
+· chequeo de portafolio (videos que NO llegaron: ____________).
+TU PROXIMA CLASE (CONV CL 10) ES EL HITO (ENTREVISTA SIMULADA): llegan con el papel de 12 lineas y
+con la posesion fresca. No tienen que volver a explicarla; usala dentro de
+la entrevista ("my previous role", "the company's clients", "my manager's team").
+TAREA QUE DEJE: 12 lineas escritas, due Cl 10 antes de las 7:00 PM. El video
+del dia fue el tuyo. NO pidas otro papel encima: las pistas no duplican tarea.
+LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el contenido de la Cl 10.
+Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + handover) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Portafolio anotado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~86% DE PIE confirmado
 
 [PAGEBREAK]
 
-## ANEXO — VERBATIM DEL LIBRO + PLAN B (apoyo, no leer completo en clase)
+## ANEXO — M15 y M30 verbatim, clave del dictado y Plan B (no se lee en clase)
 
-**A1 Book M30 — regla verbatim (caso posesivo):**
-```
-"Para indicar posesion, en español usamos 'de' ('of'). Aunque es correcto,
- en ingles colocamos el PROPIETARIO primero, añadiendo ('s) despues, y
- finalmente la propiedad. Para dueños plurales, el apostrofe va despues de
- la 's'. Si el dueño o su nombre termina en 's', se coloca el apostrofe
- despues y agrega el sonido '-es'."
-Ejemplos: "my brother's dog", "Peter's dog", "my brothers' dog", "Chris' dog",
-          "your mother's car", "Oscar's teacher", "Javier's pen".
-```
-**Plan B:** si a los 30 min mezclan 's y of, deja hoy solo adjetivos + 's y trae 'of' como callback en Cl 10. Bloque 3 a 2 rotaciones. Todo en tablero.
+**A1 Book, Module 15 — "I Love My Parents / The Possessive Adjectives" (p.187-196).**
+**Habilidad objetiva (p.187), verbatim:** "Sin dudar, usar los adjetivas posesivos para generar frases afirmativas, negativas, y interrogativas."
+**Guia 1 (p.189), verbatim:** "Los adjetivos posesivos funcionan exactamente como los de español, pero son mas especificos ('Su' -> 'Your', 'his', 'her' o 'its')." Tabla: Mi = My · Tu / su (de usted(es)) = Your · Su (de el) = His · Su (de ella) = Her · Su (de un objeto o animal) = Its · Nuestro/a = Our · Su (de ellos/ellas) = Their.
+**Ejemplos (p.190), verbatim:** "I play with my friends." · "We eat dinner with our family." · "You love your brother." · "She likes her team." · "He lives in his house." · "She eats dinner with her sister." · "You can swim in your pool." · "They should eat lunch with their mother." · "It woke up with its mother."
+**Ejercicios 1 de M15 (p.190)** es un ejercicio de **traduccion espanol -> ingles** ("John trabaja con su padre", "Ana estudia con su clase", "Ana y John nadan con su equipo", "Yo amo a mi madre", "Nosotros amamos a nuestros padres", "Mis amigos nadan en su piscina"). **NO se dicta en esta clase**, porque la clase es 100% ingles y dictar frases en espanol rompe la regla de idioma. Se sustituye por el dictado de Ejemplos 1 de M30 (p.336), que es del libro, esta en ingles y cubre la tercera habilidad objetiva de M30.
 
-## NOTA INTERNA (no leer en clase)
+**A1 Book, Module 30 — "When Is Juan's Birthday? / The Possessive Case" (p.333-336).**
+**Habilidades objetivas (p.333), verbatim:** "Sin dudar, usar el caso posesivo para indicar posesion gramatical." · "Sin dudar, usar los adjetivos posesivos para responder a preguntas hechas en el caso posesivo."
+**Guia 1 (p.335), verbatim:** 1. "Para indicar posesion, en español, usamos la palabra 'de' ('of'). Ej. 'El perro de mi hermano' -> 'The dog of my brother'." 2. "Aunque esto es gramaticamente correcto, generalmente en ingles colocamos el 'propietario' primero, añadiendo una ('s) despues, y finalmente la 'propiedad'. The dog of my brother -> my brother's dog." 3. "Para dueños plurales, se coloca el apostrofe despues de la 's', pero la pronunciacion queda igual." 4. "Si el dueño o su nombre termine en 's', se coloca el apostrofe despues y agrega el sonido '-es'."
+**Cuadro del libro (p.335):** Peter's dog · My brother's dog · **My brothers' dog** (varios dueños) · **Chris' dog** y **The class' dog** (dueño en S o Z).
+**Vocabulario de M30 (p.334):** a hat · a phone · a key · a car · a motorbike · shoes · a jacket · a bag.
 
-- Modulo HOY = A1 Book M15 (p.187-196) + M30 (p.333-336), verbatim arriba. Proxima Grammar (Cl 10) = **M16 "I Like It! — Object Pronouns" (p.197-201)**.
-- **El libro NO cubre "whose"** ni "it's vs its" como contraste — no enseñarlos como del libro. El "Handover Briefing" usa "Is this X's?" en lugar de "Whose".
-- Recuperacion: N-3 = Cl 6 (present simple); N-7 = Cl 2 (MY STORY Page 1). Sin mapa semanal — NO citar tickets.
-- DE PIE ≥70% (piso 86%). Virtud Cl 6-10 = TEMPLANZA v1, dia 4.
-- PASE bidireccional; profe sin material preparado.
+**CLAVE del dictado (Ejemplos 1, p.336) — para ti, NO al tablero antes de que resuelvan:**
+1. "Her car is a Renault." · 2. "His team is on the soccer field." · 3. "Her friend is Amanda." · 4. "His teacher is in the class." · 5. "His pen is on the table." · 6. "Yes, it's her car." · 7. "Her brothers are John and Paul." · 8. "Their sisters are sad." · 9. "Our house is near Lebrija." · 10. "His mother's house is in Giron."
+
+**Plan B (cero material, todo tablero o voz):**
+- **Drill en circulo atascado:** cadena sentada rapida — tu das el dueño, el grupo grita "ONE" o "MANY" en coro y un estudiante dice donde va el apostrofe.
+- **Zone walk atascado:** las cuatro zonas se vuelven cuatro señas (mano izquierda, mano derecha, dos manos arriba, dos manos abajo); misma velocidad, sin caminar.
+- **Dictado muy lento:** dictas 5 items en vez de 10 (elige 1, 3, 7, 9 y 10 para cubrir her / his / plural / our / posesivo encadenado); los otros quedan de tarea. NO recortes la correccion oral en cadena ni los 3 items propios.
+- **Simulacion que no arranca:** cambia el incidente a **una perdida de equipos en un traslado de sede** (mismo guion de reclamante y ajustador, mismos minimos). Tu sigues fuera del rol.
+- **Grupo incompleto a las 10:00:** arrancas igual, registras la llegada tarde, el que llega se integra al drill sin repetirle nada.
+- **Sobra tiempo:** "one or many" — dices un objeto de la sala y el grupo produce las dos versiones (un dueño y varios dueños) señalando el apostrofe en el aire.
+
+## NOTA INTERNA PARA COORDINACION (no se lee en clase)
+
+- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/GRAMATICA/B1_Clase9_GRAMMAR_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), Conv 8:00-10:00 primero y Grammar 10:00-12:00 despues, el MISMO dia · PASE Conv -> Grammar en papel a las 10:00 y Grammar -> Conv para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion). Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
+- **B3 REDISENADO POR ANTI-DUPLICADO.** La guia 4H anterior de Grammar Cl 9 usaba **"HANDOVER BRIEFING"** (entrega de bienes de un proyecto a un colega) y la de Conv Cl 9 usa **"OFFICE INVENTORY HANDOVER"**: **es el mismo guion con otro nombre** — alguien entrega objetos y nombra dueños. Con las dos pistas el MISMO dia, se habria sentido como la misma clase dos veces. Por eso hoy el escenario es **INSURANCE CLAIM AFTER AN OFFICE INCIDENT**: cambia el registro (reclamacion ante un tercero con dinero en juego, no traspaso entre colegas), cambian los roles (empleado reclamante y ajustador de aseguradora, no saliente y entrante), cambia la meta (que quede cubierto lo que si es de la empresa, no que el otro sepa donde esta cada cosa) y cambia la carga gramatical: aqui son obligatorios los **dueños PLURALES (s')**, el **dueño terminado en s (Chris')** y el **OF de partes de cosas**, que en Conv no se tocaron, mas la exclusion explicita de lo personal. Los observers llevan **cuatro** columnas, ficha que Conv no uso esta manana. Ni el titulo, ni los roles, ni el guion, ni la carga se repiten.
+- **Tarea por pista, sin duplicar:** Gramatica deja la tarea ESCRITA (12 lineas con las cuatro formas) y recuerda que el video diario es UNO solo: el que Conversacion dejo esta manana (No. 9).
+- **Recuperacion espaciada por pista:** N-3 = **Grammar Cl 6** (HAS y los tres sonidos de la -s) · N-7 = **Grammar Cl 2** (didn't vs haven't yet, short answer). Sin mapa semanal de tickets todavia — NO se citan tickets.
+- **Virtud:** TEMPLANZA, Cl 4 de 5 (Cl 6-10 de cada pista), calendario absoluto. La **Cl 10 de cada pista la cierra** (con retrospectiva de cierre de bloque); la guia de Cl 11 estrena la virtud siguiente.
+- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — Gramatica sella la herramienta y las 12 lineas de la tarea son insumo directo de la entrevista simulada de la proxima clase (Conv Cl 10), donde el candidato tiene que hablar de *"my previous role"*, *"the company's clients"*, *"my manager's team"*.
+- **Hito:** el docente de Gramatica **no anuncia ni amplia** la entrevista simulada de Conv Cl 10 (ya la anuncio Conversacion en el cierre de Conv Cl 9, en una sola frase). Queda escrito en la caja HOY SOLO y en el cierre para que no se cruce el mensaje.
+- `SUPUESTO DE PLANEACION — verificar`: la regla **"las cosas llevan OF y las personas llevan 'S"** NO es cita verbatim. M30 presenta "of" como la estructura literal del español que el ingles **prefiere** convertir en 's, sin restringirla a cosas; y el libro no dice "partes de cosas". El reparto persona = 's / parte de cosa = of es **refuerzo pedagogico Heiiu** (ya venia asi en la guia 4H anterior) y se enseña como uso estandar.
+- `SUPUESTO DE PLANEACION — verificar`: **"whose" NO aparece en el A1 Book.** El ajustador puede usarlo porque es lenguaje natural de la situacion, pero **no se enseña ni se corrige como contenido del dia**.
+- **Nota de contexto:** los ejemplos y el dictado del libro son familiares ("your mother's car", "Bella's friend"). Se usan tal cual **como ejercicio del libro**; la produccion libre, la simulacion y la tarea son **laborales**, por la regla de simulaciones realistas y no familiares.

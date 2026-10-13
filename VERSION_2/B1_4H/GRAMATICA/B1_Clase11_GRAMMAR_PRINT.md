@@ -1,108 +1,183 @@
 # B1 MASTERY — Cl 11/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
 
-**Sesion 11/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
-**Modulo:** A2 Book **M12 "I Was Playing when My Mom Called — Past Simple vs. Past Continuous" (p.99-102)** — hoy la mitad PAST SIMPLE REGULAR
-**Focus (1 line):** Lock the spelling table (4 families) + the 3 -ed sounds + time markers on paper.
-**Virtud:** JUSTICIA v1 — dia 1 de 5 (ABRE bloque Cl 11-15)
-**Frase del Dia:** *"Justice on paper: worked /t/, lived /d/, wanted /ɪd/; four spellings, three sounds — give each verb its fair ending and the past stands clean."*
+**Sesion 11/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Modulo:** A2 Book **M12 "I Was Playing when My Mom Called — Past Simple vs. Past Continuous" (p.99-102)** — hoy la mitad PASADO SIMPLE REGULAR, sellada con el A1 Book **M10 "What Time Did You Arrive?" (Guia 1 p.125; Ejemplos p.126)**; la regla SE SELLA EN PAPEL
+**Focus (1 linea):** Lo que esta manana dijeron con la boca, ahora queda escrito: la ortografia del -ED en sus cuatro familias, los tres sonidos del libro y un marcador de tiempo en cada frase.
+**Virtud:** JUSTICIA — Cl 1 de 5 de esta virtud (Cl 11-15 de cada pista) — ABRE el bloque
+**Frase del Dia:** *"Justice gives every verb its fair ending: she worked, we delivered, they waited, I studied, he stopped — the sound changes, the ED stays on paper."*
 
-> **DE PIE: Bloques 1-3 completos en/junto al tablero (~95 de 110 min ≈ 86%; piso 70%). Solo el Bloque 4 (ticket + tarea) es sentado.** Movimiento SIEMPRE con contenido — nada de "stand up / sit down" simple.
+> **ENGLISH ONLY de principio a fin.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges. Los rituales ya se presentaron en la Cl 1: hoy solo se APLICAN, no se explican.
 
----
+> **DE PIE: Bloques 1-3 completos en o junto al tablero (~95 de 110 min ≈ 86%; piso 70%). Solo el Bloque 4 es sentado.** Movimiento SIEMPRE con contenido: nada de "stand up / sit down" suelto.
 
-> **HOY SOLO: past simple REGULAR — las 4 familias de ortografia del -ed, los 3 sonidos del -ed y los marcadores de tiempo. NO TOCAR AUN: los verbos irregulares, el negativo/pregunta con did/didn't, las expresiones ago/last con la secuencia first/then/finally, ni el past continuous was/were + -ing — eso es de Cl 12, 13, 14 y 15.**
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video) y el PASE que te entrega el docente de Conversacion a las 10:00. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
-## BLOQUE 1 — APERTURA (20') — DE PIE
+> **HOY SOLO: el pasado REGULAR escrito — las 4 familias de ortografia (base+ED · E+D · consonante+Y=IED · doble consonante) · los 3 sonidos del -ed con el cuadro del libro (p.125) · el marcador de tiempo · y los Ejemplos del libro (p.126) dictados al papel del estudiante, SOLO en afirmativo. NO TOCAR AUN: los verbos IRREGULARES (Cl 12) · el negativo y la pregunta con did / didn't (Cl 13) · ago / last con first-then-finally (Cl 14) · was / were + -ing y la interrupcion con when (Cl 15-16).**
 
-**Objective: wake prior structures and point them at today's new ending.**
+## BLOQUE 1 — RECUPERACION DE LO ORAL DE ESTA MANANA (20') — DE PIE
 
-1. **Recuperacion (10', oral, DE PIE, en cadena, sin cuaderno).** Disparadores (contenido Cl 8 y Cl 4); errores al tablero anonimos; 1 min de re-produccion correcta:
-   - "Fix the position: 'I go always to the gym.'" (Cl 8)
-   - "Add a frequency expression to a true sentence (every day / twice a week)." (Cl 8)
-   - "Say a true plan with WILL." (Cl 4)
-   - "IN, ON or AT: ___ 2020? ___ Monday? ___ 8:00?" (Cl 4)
-2. **Chequeo publico de portafolio (3').** *"Who sent their daily audio?"* Pregunta y anota numeros. NO revisas contenido.
-3. **Frase del Dia (4').** Board antes de empezar; 2 lecturas, coro 2x, 1 solo. Insertala 3+ veces; al cierre 1 la dice de memoria + 1 en oracion nueva.
-4. **PASE recibido de Conv (hoy) (3'):** lee los 3 gaps en voz alta: *"These came out of your mouths this morning. We seal them on paper now."*
+**Objective: every video is accounted for, and this morning's spoken past comes back into the room ready to be written.**
 
-> [VIRTUD] Board: "JUSTICE — DAY 1". Di: *"After Conv you spoke the past; here we hold the ending on paper. Justice gives each action its fair shape — four spellings, three sounds."*
+1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
+2. **Chequeo de portafolio, con la lista del PASE en mano (3').** Ya viste los videos antes de entrar. La lista ENVIO / NO ENVIO de hoy ya la marco Conversacion a las 8:00 y viene en el PASE: NO la repites nombre por nombre. Lees en voz alta solo los NO ENVIO (si alguno lo mando en el cambio de bloque, lo pasas a ENVIO) y a 2-3 estudiantes que Conversacion no corrigio les dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'I waitd' — 'I wait-ED', one more syllable"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* Sin discusion.
+3. **Recuperacion espaciada DE TU PISTA (7', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 8** (frecuencia + a(n) + periodo al FINAL de la frase, con auxiliares) · N-7 = **Grammar Cl 4** (will completo: won't, pregunta, short answer, at / on / in). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
+   - "The count goes at the END: 'We review the plan ___' (once a month)." (Cl 8)
+   - "Same count with a helper: 'You should back it up ___' (every day)." (Cl 8)
+   - "One thing you WON'T do at ten tonight — with AT." (Cl 4)
+   - "Question and short answer: 'Will you send it on the 15th?' — 'Yes, I will.'" (Cl 4)
+4. **Lectura del PASE recibido, en voz alta (2').** Lees los 3 errores literales del papel: *"These three came out of your mouths this morning. Now we write them fair — every verb with the ending it deserves."*
+5. **Frase del Dia (2').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea: *"Three different sounds, one spelling: ED."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
-## BLOQUE 2 — LA MAQUINA -ED EN PAPEL (40') — DE PIE ~90%
+> **[VIRTUD] JUSTICIA — Cl 1 de 5. ABRE el bloque. Tablero: "JUSTICE — DAY 1 OF 5 — OPENING".** (5', el ritual completo)
+> **Por que:** justicia en un equipo es tambien como se corrige. Corregir para humillar rompe al equipo; no corregir por miedo deja que el error llegue al cliente. Lo justo es decir el error con precision, sin burla, y ayudar al que va mas lento a llegar. Eso aplica al trabajo y aplica a esta sala.
+> **En el aula hoy:** en el zone walk y en la correccion en cadena, el compañero que corrige lo hace con una formula fija y respetuosa: *"Almost — it's STUDIED, with IED."* Nadie se rie del error de otro, y el que ya lo tiene ayuda al que no.
+> **V (1'):** *"A new block opens today: JUSTICE. In a team, justice is how you correct: exact, fair, and without making anyone small."* · **A (1'30''):** pregunta, 30 seg de pensar: *"Think of a time someone corrected you at work or at school. Was it fair or not? What made the difference?"* · **T (2'):** cadena de pie, cada uno 1-2 frases en pasado regular (*"My boss corrected me in 2022. She explained the problem and she helped me."*); escuchas y anotas, NO corriges aqui · **S (30''):** 2-3 al grupo y cierras: *"Today every correction in this room sounds like this: 'Almost — it's...'."*
+> **Si alguien pregunta que tiene que ver con ingles:** *"Everything. You will correct colleagues and clients in English. If you can do it exactly and fairly, they keep working with you. That is what we train here."*
 
-**Objective: everyone forms past regular with the right family, the right sound and a time marker, fast and clean.**
+## BLOQUE 2 — SELLAR EL -ED EN PAPEL (40') — DE PIE
 
-1. Board — tabla completa (ancla M12; la sub-tabla de spelling/IPA es refuerzo Heiiu, no cita literal del libro):
+**Objective: everyone writes the regular past with the right spelling family and the right sound, and every sentence carries a time marker.**
+
+1. **Tablero — la regla (5'), DE PIE.** La clase es 100% ingles; las citas verbatim en espanol las tienes en el ANEXO.
 ```
-PAST SIMPLE — REGULAR (A2 Book M12, p.99-102)
-4 SPELLING FAMILIES                    3 SOUNDS
-(A) base + ED     work -> worked       /t/  after k,p,s,sh,ch,f: worked, asked, stopped
-(B) ends in E + D live -> lived        /d/  after voiced/vowel: lived, played, called
-(C) cons + Y=IED  study-> studied      /ɪd/ after T or D ONLY (+syllable!): wanted, needed
-(D) CVC + DOUBLE  stop -> stopped      TIME: yesterday · last week · 2 days ago · in 2020
-    (vowel+Y just +ED: play -> played)
+PAST SIMPLE — REGULAR (A2 Book M12 p.100 -> A1 Book M10, Guide 1 p.125)
+"A simple action, finished in the past, at a specific time: I played yesterday."
+4 SPELLING FAMILIES                      3 SOUNDS (the book, p.125)
+(A) base + ED        work   -> worked    /t/  after a HARD consonant:
+(B) ends in E: + D   arrive -> arrived        worked, jumped, helped
+(C) consonant+Y: IED study  -> studied   /d/  after a vowel or SOFT sound:
+    (vowel+Y: just ED: play -> played)        played, lived, called
+(D) short C-V-C: DOUBLE   stop -> stopped /id/ after T or D (+1 syllable!):
+                                              wanted, visited, needed
+TIME MARKER, always: yesterday · last week · at 5:30 · in 2018
+SPELLING IS NEVER "T":  worked, not "workt"
 ```
-2. Señala la logica: *"Spelling is ALWAYS ED — never T. The sound changes, the spelling does not."*
-3. **Drill en circulo (10', DE PIE):** cadena — tu lanzas base + time marker ("finish / yesterday") → estudiante 1 dice la forma pasada + el sonido → 2 la usa en una frase de trabajo verdadera → 3 lanza el siguiente. Velocidad creciente.
-4. **Errores tipicos al board (coro 2x cada correccion):**
-   - "I workt" → "I WORKED" (spelling ED aunque suene /t/)
-   - "She studyed" → "She STUDIED" (cons+Y = IED)
-   - "He stopt" → "He STOPPED" (CVC doble)
-   - "waited" dicho /weɪt/ → "/ˈweɪtɪd/" (T/D + ED = silaba extra)
-   - "We livd" → "We LIVED" (E + D)
-5. **Zone walk (12', DE PIE):** tablero en 3 zonas `/t/ | /d/ | /ɪd/`. Dictas un verbo base ("work / live / want / play / need / stop / finish"); las parejas CAMINAN a la zona del sonido correcto Y producen la forma pasada + una frase con time marker. El que llega, justifica en 1 linea.
-6. Cierre del bloque: produccion libre de pie — cada uno 2 frases verdaderas "past regular + time marker" sobre su semana. El drill nunca cierra el bloque — cierra el uso libre.
+2. **Señala la logica (2'), DE PIE.** *"The sound changes, the spelling does not. You HEAR a t in 'worked' — you WRITE ED. Only T and D give the extra syllable: want-ED, need-ED."*
+3. **Drill en circulo, DE PIE (7').** Cadena cerrada. Tu lanzas verbo base + marcador ("finish / yesterday"). Estudiante 1 dice el pasado y **deletrea el final** (*"finished — E, D"*); estudiante 2 dice el sonido (*"t"*); estudiante 3 lo usa en una frase de trabajo verdadera con el marcador; estudiante 4 lanza el siguiente. Mezcla las 4 familias (arrive, study, stop, plan, deliver, request, carry, check). Velocidad creciente; la cadena no se detiene cuando alguien se cae.
+4. **Errores tipicos al tablero (4'), coro 2x cada correccion:**
+   - "I workt" -> "I WORKED" (el sonido es /t/, la ortografia es ED)
+   - "She studyed" -> "She STUDIED" (consonante + Y = IED)
+   - "He stoped" -> "He STOPPED" (C-V-C corto: doble consonante)
+   - "We waitd" -> "We WAIT-ED" (T + ED = silaba extra)
+   - "They arriveed" -> "They ARRIVED" (termina en E: solo + D)
+5. **Zone walk por FAMILIA, DE PIE, en parejas (7').** Tablero en cuatro zonas: `(A) +ED` · `(B) +D` · `(C) IED` · `(D) DOUBLE`. Dictas un verbo base (plan, deliver, reply, invite, finish, try, ship, request, change, carry); cada pareja **CAMINA** a su zona **Y** deletrea el pasado en voz alta **Y** lo usa en una frase con marcador. Al que llega a la zona equivocada lo corrige la pareja de la zona correcta, con la formula de hoy: *"Almost — it's..."*. No tu.
+6. **Ejemplos del libro, p.126 — EN EL PAPEL DEL ESTUDIANTE (12'), DE PIE junto al tablero. Dictado, nada impreso.** Dictas sujeto + verbo base + complemento; ellos escriben **la frase en pasado** y al lado **el sonido** (/t/, /d/, /id/). Clave en el ANEXO, no la pongas antes.
+```
+DICTATION (A1 Book M10, Examples p.126) — write the past + the sound:
+ 1. Juan / play / soccer            5. Mafe / work / in the office
+ 2. Miguel / like / tennis          6. I / live / in Canada
+ 3. the dog / arrive / at 1:00      7. Jefferson / help / Jonathan
+ 4. Carolina / study / at 5:30      8. I / visit / Felicity
+```
+   Caminas mirando papeles y anotas errores literales en TU cuaderno. **Correccion oral en cadena (ultimos 4 min):** un estudiante distinto lee cada item y dice la familia y el sonido en 1 linea. Los items **4 y 8 se corrigen seguidos**: IED y la unica /id/ del dictado, los que mas se caen.
+7. **Cierre del bloque — produccion libre, de pie (3').** Cada estudiante dice 2 frases verdaderas de su semana de trabajo: 1 con un verbo de la familia (C) o (D) y 1 con sonido /id/, cada una con marcador. El drill nunca cierra el bloque: cierra el uso libre.
 
-## BLOQUE 3 — WORKDAY BRIEFING (35') — DE PIE 100%
+## BLOQUE 3 — SIMULACION: PACKAGE TRACE AT THE COURIER COUNTER (35') — DE PIE 100%
 
-**Objective: use past regular under pressure in a realistic team check-in.**
+**Objective: rebuild a real timeline in the regular past, step by step, under the pressure of an unhappy customer.**
 
-1. Board: `WORKDAY BRIEFING — "WHAT DID YOU GET DONE?" — 3 ROTATIONS`
-2. Escenario profesional (solo tablero y sala): reporte de fin de semana laboral al equipo. **1 estudiante = guest** (reporta 5+ acciones en pasado regular con time marker: *"I finished the report yesterday. I called two clients. I planned the trip last week."*); otro rota como team lead que pregunta; el resto = **OBSERVERS ACTIVOS**: anotan 2 errores, 1 acierto, 1 pregunta, y cuentan los 3 sonidos. Tu = COACH desde afuera — NUNCA juegas guest.
-3. 3 rotaciones (~8' c/u). Entre rotaciones, 90 seg de cadena de sonidos para mantener el ritmo de pie.
-4. Debrief con lo anotado por observers (tipos, anonimos). Interven solo si un error aparece 3 veces en la misma pareja: board, coro 2x, sigue.
+1. **Tablero (1'):** `PACKAGE TRACE — 1 COUNTER AGENT (GUEST) — 1 CUSTOMER — EVERYONE ELSE OBSERVES`. Debajo escribes el registro del sistema, en verbo BASE, y ahi se queda:
+```
+TRACKING LOG (base verbs -- the agent says them in the PAST)
+ day 1  09:10  customer / order / online
+ day 1  15:40  warehouse / receive / the package
+ day 2  08:00  staff / pack / and / check / it
+ day 2  11:30  we / ship / it
+ day 3  10:15  driver / try / to deliver ... driver / call / customer
+ day 3  10:20  nobody / answer
+ day 4  17:00  we / return / it to the warehouse
+```
+2. **Escenario profesional realista (solo tablero y sala), 2'.** Oficina de mensajeria. Un cliente llega al mostrador porque su paquete nunca llego. **1 estudiante = guest / agente de mostrador:** reconstruye en voz alta la historia completa del paquete desde el registro, en pasado regular y con la hora de cada paso (*"You ordered it on day one at 9:10. We received it that afternoon. On day two we packed it and checked it..."*). **1 estudiante rota como el cliente**, molesto y concreto: *"When exactly? · Who called me? · Why was there no note?"* y exige la hora de cada paso. **Justicia en la escena:** el agente reconoce lo que fallo de su lado (*"We delayed it one day. The driver tried only once."*) sin culpar al cliente. Los dos DE PIE, el mostrador es una linea imaginaria entre ellos. **TU eres COACH desde afuera — NUNCA eres el agente ni el cliente.** Si se congelan 15 seg, sueltas UN prompt (*"Tell her what happened at 10:15"*) y te retiras.
+3. **Minimos por rotacion:** el agente dice los 7 pasos en pasado regular con su hora, **al menos un verbo de cada familia (A, B, C, D)**, 1 reconocimiento de falla propia, y responde 3 preguntas del cliente.
+4. **OBSERVERS ACTIVOS con ficha en su propio papel (la dibujan en 30 seg):** cuatro columnas `(A) +ED` · `(B) +D` · `(C) IED` · `(D) DOUBLE`. **Escriben cada verbo que oigan, bien deletreado, en su columna**, mas 1 error de sonido y 1 pregunta. Al cerrar cada rotacion, uno canta el conteo y otro deletrea en voz alta el verbo de la columna (D) (*"shipped: S-H-I-P-P-E-D"*).
+5. **4 rotaciones (~6' cada una)**, agente y cliente nuevos en cada una; el cliente cambia de perfil (con prisa, confundido, muy formal, que ya habia llamado dos veces). Entre rotaciones, 45 seg de cadena rapida de pie: *"ship -> shipped, double · try -> tried, IED · request -> requested, id."*
+6. **Debrief (4').** Los observers reportan TIPOS y conteos, nunca personas (*"'shiped' with one P twice", "the D column is strong", "nobody said 'requested'"*). Correcciones al tablero, coro 2x. Intervienes solo si un error sale 3 veces.
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
 
-1. **Ticket de salida (5'):** 3-5 frases con past regular + time marker, marca el sonido; nombre en el papel. Se recogen TODOS; no se evaluan ni comentan; viajan con el error paper a coordinacion.
-2. **Cierre JUSTICIA (ABRE):** *"Which past action did you name with precision today?"* — 2 respuestas. *"Day 1 of Justice. Cl 12 continues — day 2 — irregular verbs, pure memory."*
-3. **Tarea (board):**
+1. **Ticket de salida (4').** 3-5 frases en pasado regular con marcador de tiempo, marcando al lado la familia (A-D) y el sonido. Nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
+2. **Error paper al tablero, sin nombres (4').** Escribes 4-6 errores REALES del dia, anonimos. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio corregido. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
+3. **Cierre de JUSTICIA, dia 1 (2').** *"Who helped you get a verb right today?"* — 2 respuestas de una frase. Cierras: *"Day one of justice, in both of your classes."*
+4. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with CONVERSATION Cl 12 and the other teacher: the verbs that break the rule — went, came, took, thought. No ED, pure memory. Bring your notebook and send your video."* Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."*
+
+**Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
-HOMEWORK CL 11 GRAMMAR — DUE Cl 12, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE 15 sentences (5 sets of 3): one per spelling family + one
-    all-/ɪd/ set. Mark the family (A/B/C/D) and the sound (/t/ /d/ /ɪd/).
-    Time marker in each. NEVER "studyed" / "stopt" / "livd".
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: "5 things I did at
-    work this week". Label: B1-GRAMMAR-11. WhatsApp group.
-(3) Bring the paper to Cl 12.
+HOMEWORK GRAMMAR CL 11 — TWO THINGS.
+DUE: Cl 12, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
+NOT FRAGMENTED. TIME: 30-45 min (B1).
+(1) WRITTEN, in your notebook: 15 true sentences about your real work or
+    study week, in 5 sets of 3 — one set per spelling family (A, B, C, D)
+    and one set where every verb sounds /id/. A time marker in each.
+    Mark the family and the sound next to every verb.
+    NEVER "studyed" / "stoped" / "workt". Bring the notebook to
+    Conversation Cl 12.
+(2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
+    one assigned in CONVERSATION at 8:00. Send it TODAY to the cohort
+    WhatsApp group. Audio only by exception (max 2 a week).
 ```
-4. **Error paper** fisico anonimo cerrado; nombres + citas literales en tu reporte a coordinacion.
-5. **Proxima clase:** *"Cl 12: irregular past — went, came, took, brought, thought; no rule, memory. Questions about evaluation go to coordination, not to me."*
-6. **PASE a Conv Cl 12** (entregar fisicamente antes de salir):
+> **El video es DIARIO y es UNO solo: hoy es el que asigno Conversacion a las 8:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
+5. **PASE al docente de CONVERSACION (Conv Cl 12, a las 8:00 de la proxima clase) — se lo dejas HOY antes de salir**, en papel en la carpeta del cohorte o por mensaje escrito directo por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo antes de salir:
 ```
-PASE Grammar -> Conv — Cl 11 -> Cl 12
-3 gaps frescos de hoy (error literal, SIN nombre aqui):
-1. ______________________  2. ______________________  3. ______________________
-Patrones bajo presion: (a) "studyed / stopt / livd" (spelling drift);
-(b) /ɪd/ aplastado ("waited" = /weɪt/); (c) "I workt" (T en spelling);
-(d) frase en pasado SIN time marker.
-Hoy quedo lockeada la tabla -ed (4 familias + 3 sonidos). En Cl 12, abre
-con un "Past Action Roundup" oral (cada uno 3 acciones reales con time
-marker) y salta a IRREGULARES — sin regla, memoria pura.
+PASE Grammar Cl 11 -> Conv Cl 12 — del docente de GRAMATICA al de CONVERSACION
+Virtud: JUSTICIA, Cl 1 de 5 — abierta en las dos pistas (credito en la tuya,
+corregir sin humillar en la mia). La Cl 12 es Cl 2 de 5: tu guia trae el angulo.
+QUE QUEDO SELLADO HOY EN PAPEL (A2 M12 p.100 + A1 M10 Guia 1 p.125 /
+Ejemplos p.126): las 4 familias de ortografia del -ED · los 3 sonidos con el
+cuadro del libro · marcador de tiempo en cada frase · dictado del libro en
+afirmativo, resuelto en el cuaderno.
+3 ERRORES ESCRITOS de hoy (cita literal, SIN nombre aqui; nombres en mi reporte):
+1. ____________________  2. ____________________  3. ____________________
+QUE NO ALCANZO del modulo: _____________________________________________
+Conteo de la simulacion (A / B / C / D): ___/___/___/___
+YA QUEDO HECHO HOY, NO LO REPITAS: la tabla de familias y sonidos · el
+dictado de los Ejemplos p.126 · el drill de deletreo · el zone walk por
+familia · la simulacion PACKAGE TRACE AT THE COURIER COUNTER (no repitas ese
+titulo ni su guion) · chequeo de portafolio (videos que NO llegaron: ______).
+TU CLASE ABRE LOS IRREGULARES (went, came, took...): tu guia trae el puente
+("last class every past verb took ED; today the most common ones break it").
+TAREA QUE DEJE: 15 frases escritas, due Cl 12 antes de las 7:00 PM. El video
+del dia fue el tuyo. NO pidas otro papel encima: las pistas no duplican tarea.
+LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el contenido de la Cl 12.
+Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + briefing) ☐ PASE entregado ☐ Portafolio anotado ☐ ~86% DE PIE confirmado
-
----
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ Virtud JUSTICIA abierta ☐ ~86% DE PIE confirmado
 
 [PAGEBREAK]
 
-## NOTA INTERNA (no leer en clase)
+## ANEXO — M12 y M10 verbatim, clave del dictado y Plan B (no se lee en clase)
 
-- **Modulo HOY = A2 Book M12 (p.99-102).** El libro trata TODO el pasado (simple + continuo) como UN repaso de A1 en 4 paginas — el arco Cl 11-16 lo despliega. La tabla de 4 familias de spelling + IPA /t//d//ɪd/ es REFUERZO PEDAGOGICO Heiiu, NO cita verbatim del libro. `SUPUESTO DE PLANEACION — verificar` el desglose por clase con Diana.
-- **Proxima Grammar (Cl 12)** = M12 mitad IRREGULAR (5 grupos + trampa READ /rɛd/). Cl 14/15/16 son la parte verbatim del libro (time expressions, past continuous, when/while).
-- **Recuperacion:** N-3 = Cl 8 (frequency), N-7 = Cl 4 (WILL + IN/ON/AT). Sin mapa semanal de tickets → recuperacion desde el contenido de esos modulos, NO tickets.
-- **Fork de versiones (para Diana):** existen guias viejas V1 (Present Perfect + textos Heiiu) y V2 (Past Simple, protocolo vigente) para Cl 11/13. Esta hoja sigue V2 (alineada al libro M12); el Present Perfect es el arco M15-17 que arranca Cl 21.
-- **DE PIE ≥70% (piso 86%):** Bloques 1-3 de pie. Prohibido drill sin contenido.
-- **Virtud Cl 11-15 = JUSTICIA v1, dia 1 (calendario absoluto).** PASE bidireccional Conv↔Grammar.
-- **Plan B:** B2 si confunden las 4 familias a los 25' → land solo (A) ED + (C) IED hoy, (B)/(D) al opener de Cl 12; B3 si grupo cansado → 2 rotaciones + 1 demo.
+**A2 Book, Module 12 — "I Was Playing when My Mom Called. / Past Simple vs. Past Continuous" (p.99-102).**
+**Objetivo (p.99), verbatim:** "Diferenciar correctamente entre los usos del pasado simple y el pasado continuo."
+**Guide 1 (p.100), verbatim:** "1. En el nivel A1, aprendimos el pasado simple ('I played') y continuo ('I was playing')." · Pasado simple: "Un evento o accion simple, terminado en el pasado en un tiempo especifico. E.g. 'I played yesterday.'"
+
+**A1 Book, Module 10 — "What Time Did You Arrive? / The Simple Past for Regular Verbs" (p.123-127).**
+**Guia 1 (p.125), verbatim:** "2. El auxiliar 'did' tiene la misma propiedad especial que 'do/does': en el caso positivo, (NUNCA EN EL CASO NEGATIVO O DE LA PREGUNTA) generalmente lo omitimos y correr la '-d' o la '-ed' al verbo. ¡Este sistema NO funciona para todos los verbos!" · "3. La pronunciacion de la '-d' o '-ed' depende en el ultimo sonido del verbo."
+**Cuadro del libro (p.125):** termina en -t -> "-ed": Wanted "wanTED" · termina en -d -> Waded "wayDED" · consonante + y -> "-id": Studied "staDID", Partied "parTID" · vocal o consonante suave -> "-d": Played "play'D", Lived "lev'D" · consonante duro -> "-t": Jumped "yamp'T", Worked "work'T".
+**Vocabulario del modulo (p.124):** like · love · arrive · visit · help.
+
+**CLAVE del dictado (Ejemplos p.126) — verbatim del libro; para ti, NO al tablero antes de que resuelvan:**
+1. "He played soccer." /d/ · 2. "He liked tennis." /t/ · 3. "It arrived at 1:00." /d/ · 4. "She studied at 5:30." IED · 5. "She worked in the office." /t/ · 6. "I lived in Canada." /d/ · 7. "He helped Jonathan." /t/ · 8. "I visited Felicity." /id/
+**Items 9-10 (reserva, solo si sobra tiempo):** "Who did Roddy love? / He loved Alina." -> dicta "Roddy / love / Alina" · "What time did you play yesterday? / I played at 6:00 yesterday." -> dicta "I / play / at 6:00 yesterday".
+**Nota:** el libro presenta estos ejemplos como pregunta con did + respuesta. Hoy se dicta SOLO la respuesta afirmativa, porque la pregunta con did es de Cl 13.
+
+**Plan B (cero material, todo tablero o voz):**
+- **Las 4 familias no cuajan a los 25 min:** deja hoy (A) +ED y (C) IED firmes, y trae (B) y (D) como cadena rapida al cierre del bloque. El dictado NO se recorta.
+- **Zone walk atascado:** las cuatro zonas se vuelven cuatro señas (1, 2, 3 o 4 dedos arriba = familia A-D); misma velocidad, sin caminar.
+- **Dictado muy lento:** dictas 6 items (1, 3, 4, 5, 7, 8) y los otros dos quedan de tarea opcional. NO recortes la correccion en cadena.
+- **Simulacion que no arranca:** cambia a **reclamo de un pedido de oficina que llego incompleto** (el proveedor reconstruye: *"We received your order, we packed 10 boxes, we delivered 8..."*), misma mecanica y mismos minimos. Tu sigues fuera del rol.
+- **Grupo incompleto a las 10:00:** arrancas igual, registras la llegada tarde; el que llega se integra al drill sin repetirle nada.
+- **Sobra tiempo:** "spell the week" — cada uno escribe en el aire y deletrea en voz alta el verbo mas dificil que uso hoy, y lo pone en una frase nueva.
+
+## NOTA INTERNA PARA COORDINACION (no se lee en clase)
+
+- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/GRAMATICA/B1_Clase11_GRAMMAR_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), Conv 8:00-10:00 primero y Grammar 10:00-12:00 despues, el MISMO dia · PASE Conv -> Grammar en papel a las 10:00 y Grammar -> Conv para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion). Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
+- **Frente a la guia 4H anterior:** Las citas se ampliaron leyendo el libro: **el A2 M12 remite al pasado simple del A1**, y el **A1 M10 trae verbatim el cuadro de pronunciacion del -ed (p.125) y los Ejemplos (p.126)**, que ahora se dictan. Los tres sonidos dejan de ser "refuerzo Heiiu" y pasan a ser cita.
+- **DE PIE 86%:** Bloques 1, 2 y 3 completos (20 + 40 + 35 = 95 de 110). El dictado se escribe de pie junto al tablero.
+- **B3 REDISENADO POR ANTI-DUPLICADO.** La guia 4H anterior de Grammar Cl 11 usaba **"WORKDAY BRIEFING — What did you get done?"** (reporte de fin de semana al lider) y la de Conv Cl 11 usa **"YESTERDAY'S WORKDAY DEBRIEF"**: el mismo guion con otro nombre — alguien cuenta a un colega lo que hizo. Aqui el escenario es **PACKAGE TRACE AT THE COURIER COUNTER**: cambia el registro (atencion a un cliente molesto, no conversacion entre colegas), cambian los roles (agente de mostrador y cliente), cambia la meta (reconstruir una cronologia exacta hora por hora y reconocer la falla propia) y cambia la carga: el registro del tablero obliga a producir **las 4 familias de ortografia** (ordered, packed, shipped, tried, returned, requested) y los observers **escriben y deletrean**, cosa que Conversacion no hizo. Ni el titulo, ni los roles, ni el guion, ni la carga se repiten.
+- **Tarea por pista:** Gramatica deja la tarea ESCRITA (15 frases, 5 sets) y recuerda que el video diario es UNO solo: el que Conversacion dejo esta manana (No. 11).
+- **Recuperacion por pista:** N-3 = **Grammar Cl 8** · N-7 = **Grammar Cl 4**. Sin mapa semanal de tickets: NO se citan tickets.
+- **Virtud:** JUSTICIA, Cl 1 de 5 (Cl 11-15 de cada pista), calendario absoluto. Angulo de Gramatica: **corregir sin humillar** (formula fija *"Almost — it's..."* en el zone walk y la correccion en cadena) y, en la simulacion, **reconocer la falla propia**. Conversacion la abrio con otro angulo (credito a quien hizo el trabajo).
+- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — las 15 frases de la tarea son insumo directo de la pieza de Conv Cl 12 ("the moment things changed for me").
+- `SUPUESTO DE PLANEACION — verificar`: las **4 familias de ortografia** son organizacion Heiiu. El libro solo dice "-d o -ed" y muestra "studied"; la **doble consonante (stop -> stopped)** no aparece en el libro y se enseña como uso estandar. El desglose del pasado en Cl 11-16 viene del mapa 4H.

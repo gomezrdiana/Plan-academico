@@ -1,90 +1,148 @@
 # B1 MASTERY — Cl 3/44 — CONV (va PRIMERO) — HOJA DE RUTA
 
-**Sesion 3/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
-**Focus (1 line):** Give real professional advice out loud — "you should... / you shouldn't..." — with prices and times.
-**Virtud:** PRUDENCIA v1 — dia 3 de 5
-**Frase del Dia:** *"Prudence gives wise advice: you should plan, and you shouldn't rush a good decision."*
+**Sesion 3/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Modulo ancla:** A1 Book **M4 "Where Should We Live? — Giving Recommendations" (p.41-44)** + A1 Book **M5 "Numbers to 100 — Los Numeros, las Horas y los Precios" (p.61-64)** — hoy solo USO ORAL
+**Focus (1 linea):** Dar consejo profesional real en voz alta — *"you should... / you shouldn't..."* — con una hora o un precio dicho bien en cada recomendacion.
+**Virtud:** PRUDENCIA — Cl 3 de 5 de esta virtud (Cl 1-5 de cada pista)
+**Frase del Dia:** *"Prudence advises before it acts: you should decide at a calm hour, and you shouldn't pay the first price you hear."*
 
----
+> **ENGLISH ONLY de principio a fin.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges.
 
-> **HOY SOLO USO ORAL DE: el consejo hablado con should / shouldn't, con numeros, horas y precios hasta 100. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: 'should have / could have' (arrepentimiento) y la maquina de cantidades y precios (how many / how much / how much does it cost) — eso es de Cl 30 y 36.**
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos) y el PASE que te dejo el docente de Gramatica. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
-## BLOQUE 1 — APERTURA (20')
+> **HOY SOLO (M4 y M5, HABLADO): el consejo dicho en voz alta con should / shouldn't, y las horas y los precios PRONUNCIADOS en dos grupos como los trae el libro (2:10 = "two ten" · 6:00 = "six o'clock" · 2:08 = "two oh eight" · $7.35 = "seven thirty-five" · $13.05 = "thirteen oh five"). La regla NO se explica ni se escribe como paradigma: eso lo sella Gramatica Cl 3. NO TOCAR AUN: el paradigma escrito de should con la pregunta, el short answer y el WH "where" (Gramatica Cl 3) · will y at/on/in (Cl 4) · la maquina de cantidades how much / how many (muy adelante en el nivel) · MILES Y MILLONES, que NO existen en el libro: el libro llega a cien, con horas y precios en dolares y centavos. Si alguien dice un precio en miles, tu mantienes la mecanica de dos grupos y NO ensenas cantidades grandes.**
 
-**Objective: reactivate the two pasts and switch on the advice auxiliary.**
+## BLOQUE 1 — APERTURA Y RECUPERACION (20')
 
-1. **Recuperacion (10', oral, DE PIE, sin cuaderno).** En cadena. N-3 aun no existe (3a clase): repasa el contenido reciente de Cl 1-2. Errores al tablero ANONIMOS; 1 min de re-produccion correcta:
-   - "One 'I have... yet' line, one 'I didn't' line — feel the difference."
-   - "Closed or open? 'this week' vs 'last week' — say a sentence for each."
-   - "For or since: '___ 2020 / ___ four years'."
-   - "Fix: 'Yesterday I have called the client.'"
-2. **Chequeo publico de portafolio (3'):** *"Who sent yesterday's audio?"* — pregunta y anota numeros. NO revisas contenido.
-3. **Frase del Dia (4').** Board antes de empezar; 2 lecturas, coro 2x, 1 solo. Insertala 3+ veces; cierre 1 de memoria + 1 en oracion nueva.
-4. **Revision tarea Cl 2 (2').** Piece 1 (10 lineas) + audio. Recoge/revisa a la vista; no-entregas a tu cuaderno.
-5. **PASE recibido de Grammar (Cl 2):** leelo; cada estudiante da UNA recomendacion con "should".
+**Objective: recover the past hinge, then switch the room over to advice.**
 
-> [VIRTUD] Di: *"Prudence is advice you would give your best friend. 'You should think it through. You shouldn't decide when you're tired.'"*
+1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Abre la columna **"llegada tarde"** en tu cuaderno y anotala HOY: llegada despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia. **NO vuelvas a explicar la regla ni las condiciones de la garantia:** se dijeron una sola vez en la Cl 1. Hoy solo se registra.
+2. **Chequeo de portafolio, publico, con lista en mano (3').** Los videos los VES ANTES de clase. Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas **ENVIO / NO ENVIO**, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'I have finish' — the participle: finishED"*). Eso entra a tu reporte de hoy: video recibido mas la mejora dicha. Al que no envio, una sola frase y sigues: *"You send it TODAY, together with today's video. Two videos, same day. The list goes to coordination today."* Feedback si; de notas, resultados o garantia no hablas tu: *"That is coordination."*
+3. **VATS (6', de pie, en circulo).** El **porque** primero, para ti: la prudencia es la virtud del consejo — el que sabe aconsejar bien a otro es el que aprende a decidir bien para si mismo. La **traduccion al aula de hoy**: el consejo en ingles no es opinion suelta; es *"you should"* mas un dato concreto (una hora, un precio). Consejo sin dato no es consejo, es ruido.
+   - **V, Virtud (1'):** tablero `PRUDENCE — CL 3 OF 5`. Di: *"This block is prudence. Prudence is the advice you would give your best friend: 'You should think it through. You shouldn't decide when you are tired.'"*
+   - **A, Activar (2'):** una sola pregunta, en ingles, que junta virtud y gramatica del dia: *"What is ONE thing a person starting English should do every day, and at what time?"* 30 segundos de silencio para pensar.
+   - **T, Talk (2'):** en parejas, 1 minuto cada uno, obligatorio con la estructura: *"You should ___ at ___, and you shouldn't ___."*
+   - **S, Share (1'):** 2-3 estudiantes lo dicen al grupo. Tu escuchas y anotas; no corriges gramatica aqui.
+   - **Si alguien pregunta para que sirve esto:** *"Because on the day you need your English — in an interview, in front of a client — what fails is not vocabulary. It is nerve, or patience, or preparation. That is what we train here, with a name."*
+4. **Recuperacion activa (6', oral, DE PIE, en cadena, sin cuaderno).** Arranca leyendo en voz alta **los 3 errores literales del PASE** que te dejo Gramatica al cierre de la Cl 2: *"These came off your papers last class. Today they come out right, out loud."* **N-3 y N-7 de tu pista no existen todavia** (esta pista tiene Cl 1 y Cl 2): recuperas Conversacion Cl 1-2 mas lo del PASE. Disparadores:
+   - "From Cl 1: 'last week' or 'this week' — which past? One sentence for each."
+   - "From Cl 2: one thing you haven't done YET, and one thing you DIDN'T do and never will."
+   - "Fix it out loud: 'I have go to the bank yesterday.'"
+   - "Question and SHORT answer: 'Have you eaten?' — two words, then the hour."
+   - "Now advice: give me ONE recommendation for a new student. Any words you have."
+   Los errores que oigas van al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta. NO expliques la regla de hoy: se usa.
+5. **Frase del Dia (4').** Escrita en el tablero ANTES de que entren, arriba y grande, y ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en 1 linea: *"Good advice has a clock in it and a price on it."* Insertala natural **3+ veces** durante la clase; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
-## BLOQUE 2 — MY STORY + THE ADVICE MACHINE (40')
+## BLOQUE 2 — MY STORY piece 2 + LA MAQUINA DEL CONSEJO (40')
 
-**Objective: by the end, each of you gives 3 real should / shouldn't recommendations with a number.**
+**Objective: by the end, each of you gives 3 real recommendations out loud, each one carrying a time or a price said correctly.**
 
-1. **Avance de proyecto hoy: MY STORY — piece 2 "My advice to a beginner."** 3 recomendaciones que le darias a alguien que empieza ingles (should / shouldn't), cada una con un dato concreto (minutos al dia, precio de un curso, hora).
-2. Board (solo uso ORAL — Grammar formaliza hoy):
+1. **Avance de proyecto hoy: MY STORY, MY GOALS — piece 2 "My advice to a beginner" (1').** Di: *"Piece 0 was your story, piece 1 was where you stand. Piece 2 is what you would tell someone starting today — three recommendations, each with a real number. At the end of the level you defend all of it in front of a panel."*
+2. **Tablero, 2 columnas (3') — solo uso ORAL, el paradigma lo formaliza Gramatica:**
 ```
-ADVICE (recommendation)          |  WITH A NUMBER (times / prices)
-"You should study 30 minutes a day."   "...for thirty minutes."
-"You shouldn't translate everything."  "A good app costs about 20,000 a month."
-"You should practice at 7 o'clock."     "$7.35 -> 'seven thirty-five'."
+ADVICE (recommendation)                |  SAY THE NUMBER RIGHT (A1 M5)
+"You should study thirty minutes a day."|  2:10 -> "two ten"   6:00 -> "six o'clock"
+"You shouldn't translate every word."   |  2:08 -> "two oh eight"  (oh = zero)
+"You should practice at six o'clock."   |  $7.35 -> "seven thirty-five"
+"You shouldn't pay the first price."    |  $13.05 -> "thirteen oh five"
+TWO GROUPS, NO "and", NO "point".   13 "thirTEEN" is not 30 "THIRty".
 ```
-3. Modela 60 seg: 3 recomendaciones reales con numero.
-4. **Preparacion en parejas (8'):** cada uno arma piece 2: 2 "you should..." + 1 "you shouldn't..." + un numero real en cada una (hora, precio o minutos).
-5. **Ejecucion (18'):** cada estudiante DA sus recomendaciones a su pareja (90 seg); la pareja verifica: should + shouldn't + numero pronunciado bien. Cambio de parejas, segunda ronda. TODOS hablan dos veces.
-6. Feedback primero sobre el LOGRO ("was the advice useful?"), luego sobre la forma. Errores en 2+ parejas -> board anonimos; nombres a tu cuaderno.
+3. **Modelas 60 seg (2'):** tus propias 3 recomendaciones reales, cada una con una hora o un precio dicho bien. Señalas la columna con el dedo; no explicas la regla.
+4. **Drill de movimiento, de pie (8').** Dos zonas rotuladas en el tablero: `GOOD IDEA -> SHOULD` y `BAD IDEA -> SHOULDN'T`. Lanzas una accion de trabajo o de estudio (*"skip breakfast"*, *"plan your week"*, *"answer a client at midnight"*, *"rehearse twice before you record"*); los estudiantes **CAMINAN** a su zona Y producen la recomendacion completa en voz alta **agregandole un numero** (*"You shouldn't answer a client at eleven o'clock"*). Cada 3 disparadores metes un **number round**: dices una hora o un precio en cifras y el grupo lo dice en palabras en coro (*"$13.05" — "thirteen oh five"*). Velocidad creciente. El drill NO cierra el bloque.
+5. **Preparacion en parejas (6', notas minimas en su propio papel).** Cada uno arma piece 2: 2 *"you should..."* + 1 *"you shouldn't..."*, con un numero verdadero en cada una (minutos al dia, una hora, un precio). PRUDENCIA: 60 segundos de silencio antes de abrir la boca.
+6. **Ejecucion en parejas, 2 rondas (13').** Cada estudiante DA sus recomendaciones a su pareja (90 seg); la pareja verifica en voz alta: should, shouldn't y **el numero pronunciado bien** (si el numero salio mal, se repite la frase completa, no solo el numero). Cambio de pareja, segunda ronda mas fluida y mas corta. Numero impar = un trio. TODOS hablan dos veces.
+7. **Producto y feedback (7').** 4-5 estudiantes dan su piece 2 al grupo. Feedback **primero sobre el LOGRO** (*"was the advice useful? would you follow it?"*), despues sobre la forma. Los errores que aparezcan en 2+ parejas van al tablero ANONIMOS, coro 2x; los nombres y las citas literales a tu cuaderno.
 
-## BLOQUE 3 — TRAVEL ADVISORY DESK (35')
+## BLOQUE 3 — SIMULACION: TRAVEL ADVISORY DESK (35') — DE PIE
 
-**Objective: use should/shouldn't + prices under pressure in a realistic professional service scene.**
+**Objective: give advice with a price attached, under pressure, to someone who is going to act on it.**
 
-1. Board: `TRAVEL ADVISORY DESK — 1 TRAVELER + 1 ADVISOR — OBSERVERS WORK`
-2. Escenario profesional realista (solo tablero y sala): un cliente pide recomendaciones de viaje/servicio. **1 estudiante = guest (traveler)** que pregunta ("What should I do? Where should I stay?"); otro rota como ADVISOR que responde con should/shouldn't + precios reales ("You should take the bus — it's about 45,000. You shouldn't take a taxi — around 80,000."). El resto = **OBSERVERS ACTIVOS**: 2 errores, 1 acierto, 1 pregunta. Tu = COACH desde afuera — NUNCA juegas guest ni advisor.
-3. 3 rotaciones (~9' c/u). Minimos por ronda: 3 "should/shouldn't" + 2 precios pronunciados en voz alta.
-4. Debrief con lo anotado (tipos, anonimos). Interven solo si un error aparece 3 veces.
+1. Tablero: `TRAVEL ADVISORY DESK — 1 TRAVELER (GUEST) — 1 ADVISOR — EVERYONE ELSE OBSERVES` (3').
+2. **Escenario profesional realista (solo tablero y sala).** Un mostrador de informacion y venta: un viajero llega con una decision que tiene que tomar hoy. **1 estudiante = guest / viajero:** pregunta sin parar (*"What should I do? Where should I stay? What time should I leave? How much is it?"*) y al final tiene que **decidir en voz alta** y decir por que. **1 estudiante rota como advisor** y responde con should / shouldn't **mas el precio o la hora dichos en dos grupos** (*"You should take the early bus — it leaves at six o'clock and it is seven thirty-five. You shouldn't take a taxi at that hour."*). **TU eres COACH desde afuera — NUNCA juegas guest ni advisor.** Si se congelan 15 segundos, sueltas UN prompt (*"Give him a price"*) y te retiras.
+3. **OBSERVERS ACTIVOS con ficha en su propio papel (la dibujan ellos en 30 seg):** tres columnas — `SHOULD` · `SHOULDN'T` · `NUMBER SAID RIGHT / WRONG`. Una raya por cada frase que oigan, y en la tercera columna marcan bien o mal cada hora y cada precio. Al cerrar la rotacion cantan el conteo: *"six should, two shouldn't, four numbers right, two wrong"*.
+4. **Minimos por rotacion:** 3 frases con *should* + 2 con *shouldn't* + 3 numeros (al menos 1 hora y 1 precio) pronunciados en voz alta + la decision final del viajero dicha en 1 frase.
+5. **4 rotaciones (~7' cada una = 28')**, guest y advisor nuevos en cada una; el mostrador cambia cada vez (viaje, hotel, curso, servicio tecnico). Entre rotaciones, 45 segundos de **price bee** en coro: tu dices un precio o una hora en cifras y el grupo lo dice en palabras.
+6. **Debrief (4').** Los observers reportan TIPOS y conteos, nunca personas (*"'should to' three times"*, *"half the prices had 'point' in them"*). Correcciones al tablero, coro 2x. Intervienes solo si un error sale 3 veces.
 
-## BLOQUE 4 — CIERRE (15')
+## BLOQUE 4 — CIERRE (15') — SENTADOS
 
-1. **Ticket de salida (5', sentados):** 3-5 frases con should/shouldn't, minimo 2 con un numero (hora o precio). Se recogen TODOS. NO los evaluas ni comentas.
-2. **Tarea (board, due date explicita):**
+1. **Ticket de salida (5').** 3-5 frases con la estructura de hoy — al menos 2 con *should*, 1 con *shouldn't* y 2 numeros (una hora y un precio) **escritos en palabras** — con nombre en el papel. Se recogen **TODOS**. NO los evaluas ni los comentas: viajan fisicos con el error paper a coordinacion.
+2. **Error paper al tablero, sin nombres (5').** Escribes 4-6 errores REALES del dia, anonimos. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio con la forma corregida. En tu cuaderno, los mismos errores **CON nombre y cita literal** para el reporte de coordinacion. Doble protocolo, siempre. **Mientras el grupo trabaja el ultimo error, TU escribes la tarea en el tablero.**
+3. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have GRAMMAR with the other teacher: same modules, a new Phrase of the Day. You will lock 'should' on paper — the question, the short answer and 'where should...' — and write the times and prices out. Bring your notebook and send your video."* Si preguntan por notas, resultados o garantia: *"That is coordination, not me."* Nada mas.
+
+**Tarea (escrita en el tablero durante el error paper, leida en voz alta al cierre):**
 ```
-HOMEWORK CL 3 CONV — DUE Cl 4, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) On paper: MY STORY piece 2 — a 6-line "Advice to a beginner" (3 should +
-    3 shouldn't), each with a real number (time or price). Bring it to Cl 4.
-(2) PORTFOLIO audio #3 — 2 min, eyes closed: read your advice out loud + say
-    3 prices clearly. Label: B1-CONV-3. WhatsApp group.
+HOMEWORK CL 3 (CONVERSATION) — ONE TASK ONLY: THE VIDEO.
+DUE: Cl 4, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
+TIME: 30-45 min (B1) — prepare, rehearse twice, then record. NOT fragmented.
+DAILY PORTFOLIO VIDEO — MINIMUM 3 MINUTES, video of yourself speaking,
+straight through, NO reading, NO script on camera.
+Content: your MY STORY piece 2 — "My advice to a beginner": 3 things they
+SHOULD do and 3 they SHOULDN'T, each one with a real number, and say
+every number out loud in two groups (an hour and a price at least once).
+Close with the Phrase of the Day.
+Send it to the cohort WhatsApp group the SAME day.
+Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
-3. **Error paper:** cierra el papel fisico anonimo; nombres + citas en tu reporte.
-4. **Proxima clase:** *"Cl 4 = the future — 'I will...' — and putting plans in time and place: at 8, on Monday, in the morning."*
-5. **PASE a Grammar HOY** (entregar fisicamente antes del cambio de bloque):
+> **La tarea de hoy es SOLO el video** — la tarea ESCRITA de este contenido la asigna el docente de Gramatica. No pidas ademas un papel: **las tareas de las dos pistas NO se duplican.**
+> Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
+4. **PASE al DOCENTE DE GRAMATICA (Grammar Cl 3, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Gramatica. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv -> Grammar — Cl 3 (mismo dia)
-3 gaps frescos de hoy (error literal, SIN nombre aqui):
-1. ______________________  2. ______________________  3. ______________________
-Patrones orales: (a) "You should to study" (should + to); (b) "He should studies"
-(verbo con -s tras should); (c) precios mal ("seven point thirty-five"); (d)
-"thirteen/thirty" confundidos. Hoy: advice + travel desk con precios. Tu bloque
-HOY: formaliza should/shouldn't (M4) + numbers/horas/precios (M5) en papel.
+PASE Conv Cl 3 -> Grammar Cl 3 — del docente de CONVERSACION al de GRAMATICA
+Virtud: PRUDENCIA, Cl 3 de 5 de esta virtud. Modulos: A1 M4 p.41-44 + A1 M5 p.61-64.
+3 ERRORES frescos de hoy (cita literal, SIN nombre aqui; nombres en mi reporte):
+1. ____________________  2. ____________________  3. ____________________
+Patrones orales oidos: (a) "you should to study" (should mas to); (b) "he should
+studies" (verbo con -s); (c) precios con "point" o con "and" de mas; (d)
+thirteen y thirty confundidos.
+QUE QUEDA PENDIENTE del modulo: ________________________________________
+Conteo de la simulacion (should / shouldn't / numeros bien-mal): ____ / ____ / ____-____
+Videos que NO llegaron: __________________________________________________
+YA QUEDO HECHO HOY, NO LO REPITAS: el consejo HABLADO con numeros · MY STORY
+piece 2 · el price bee en coro · la simulacion TRAVEL ADVISORY DESK.
+SIMULACION DISTINTA A LA DE HOY — NO REPITAS "TRAVEL ADVISORY DESK" ni su
+guion (mostrador de servicio, cliente externo que pide recomendacion con
+precio). Mismo punto gramatical, escenario profesional diferente.
+TAREA QUE DEJE: SOLO el video. La ESCRITA la asignas TU. No se duplican.
+LA FRASE DEL DIA NO SE TRASPASA: cada clase estrena la suya. No repitas la mia.
+Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + desk) ☐ PASE entregado ☐ Conteo portafolio anotado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado
 
 [PAGEBREAK]
 
-## NOTA INTERNA (no leer en clase)
+## ANEXO — M4 y M5 verbatim y Plan B (no leer en clase)
 
-- **Modulo ancla:** A1 Book **M4 "Where Should We Live?" (p.41-44, Should/Shouldn't)** + **M5 "Numbers to 100" (p.61-64, numeros, horas y precios)**. Conv lo produce oralmente; Grammar lo formaliza hoy. NO enseñar las reglas en Conv.
-- Numbers: el libro (M5) cubre 0-100 + horas + precios. **Miles/millones NO existen en el libro** — NO enseñar cantidades grandes (si surge, mantener a lo que trae M5; el libro manda sobre la guia vieja).
-- Recuperacion: N-3 aun no existe (3a clase); se repasa contenido reciente Cl 1-2. Sin mapa semanal -> NO citar tickets.
-- Virtud: Cl 1-5 = PRUDENCIA v1, dia 3 (calendario absoluto).
-- Proxima clase (Cl 4): A1 Book M6 "What Time Will You Eat Lunch?" (Will) + preposiciones de tiempo IN/ON/AT. `SUPUESTO DE PLANEACIÓN — verificar` anclaje modulo-clase.
-- Profe sin material preparado: precios/horas reales dichos por los estudiantes; Plan B via cadena de pie.
+**A1 Book, Module 4 — "Where Should We Live? / Giving Recommendations" (p.41-44).**
+**Habilidades objetivas del libro (p.41):** "Sin dudar, demuestras que has aprendido el vocabulario del modulo." · "Sin dudar, respondes de forma positiva y negativa a preguntas sobre recomendaciones."
+**Guia 1 — "Should" (p.42-43), verbatim:** 1. "La auxiliar (o ayudante) 'should' (pronunciada 'shud') indica 'deberia', y es usada para hacer recomendaciones." 2. "Esta palabra se trata exactamente como 'can'." → "Juan should play soccer." = "Juan deberia jugar futbol." 3. "En su forma abreviada 'should + not' = 'shouldn't' (pronunciada 'shudunt')." → "Juan should not play soccer." · Interrogativa: "Should Juan play soccer?" 4. "La palabra de pregunta 'where' (pronunciada 'wear') significa 'donde'." → "Where should Juan play?" 5. "Igual a 'can', la respuesta corta es simplemente 'should' y 'shouldn't'." 6. "La palabra 'in' significa 'en'." (p.ej. "...en Bucaramanga", "...en Colombia").
+**Ejemplos del libro (p.44), verbatim:** "Where should Martin live?" → "He should live in London." · "Where should Donald and Douglas live?" → "They should live in New York." · "Should Freddy live in Colombia?" → "Yes, he should." / "No, he shouldn't." · "Should we live in San Gil?" → "Yes, we should."
+
+**A1 Book, Module 5 — "Numbers to 100 / Los Numeros, las Horas y los Precios" (p.61-64), Guia 1 verbatim:**
+1. "En ingles, expresamos la hora en dos grupos, horas y minutos, sin 'and' ('y')." Ej. "2:10" → "Two ten" · "4:45" → "Four forty-five".
+2. "Las expresiones tales como 'Falta un cuarto para las 5' si existen en ingles, pero enfocarnos en el caso mas comun, que se expresa como 'cuatro y cuarenta y cinco'."
+3. "Para minutos entre HH:01 y HH:09, el ingles incluye un 'oh' (para indicar 'cero')." Ej. "2:08" → "Two oh eight".
+4. "La palabra 'o'clock' se usa para indicar hora en punto." Ej. "6:00" → "Six o'clock".
+5. "Los precios se expresan en dos grupos, dolares y centavos." Ej. "$7.35" → "Seven dollars and thirty-five cents".
+6. "A menudo, se omita las palabras 'dollars' y 'cents' e incluye 'oh' para 'cero'." Ej. "$7.35" → "Seven thirty-five" · "$13.05" → "Thirteen oh five".
+
+**Plan B (cero material, todo tablero o voz):**
+- **Drill de movimiento atascado:** cadena sentada — tu das la accion, el grupo grita "SHOULD" o "SHOULDN'T" en coro y un estudiante completa la frase y le agrega un numero.
+- **Simulacion que no arranca:** cadena de pie — cada uno da 1 recomendacion mas 1 precio y nombra al siguiente. Tu sigues fuera del rol.
+- **Numeros muy flojos:** paras el bloque 2 minutos y corres solo **price bee**: cifras al azar, coro, velocidad creciente, alternando 13/30, 14/40, 15/50. Despues retomas.
+- **Grupo incompleto a las 8:00:** arrancas igual, registras la llegada tarde, el que llega se integra al drill sin repetirle nada.
+- **Sobra tiempo:** *"advise me"* — tu planteas un problema real de trabajo en 1 frase y cada estudiante da una recomendacion con numero, en cadena, sin repetir consejo.
+
+## NOTA INTERNA PARA COORDINACION (no se lee en clase)
+
+- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/CONVERSACION/B1_Clase3_CONV_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), Conv 8:00-10:00 primero y Grammar 10:00-12:00 despues, el MISMO dia · PASE Conv -> Grammar en papel a las 10:00 y Grammar -> Conv para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion). Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
+- **CORRECCION DE CONTENIDO FRENTE A LA GUIA 4H ANTERIOR, ya incorporada:** la guia 4H anterior de Conv Cl 3 ponia precios en miles de pesos (*"about 45,000"*, *"around 80,000"*), y eso **no esta en el libro**: A1 M5 llega a cien y trabaja precios en **dolares y centavos, en dos grupos** ($7.35, $13.05). Su propia guia 4H de Gramatica Cl 3 ya lo advertia ("miles/millones NO existen en el libro"). Esta guia corrige la inconsistencia: se ensena y se practica **solo el formato del libro**, y si un estudiante trae un precio en miles el docente conserva la mecanica de dos grupos sin ensenar cantidades grandes. Con esta edicion unica el pendiente queda **resuelto**: manana y noche dicen lo mismo.
+- **Virtud:** PRUDENCIA, **Cl 3 de 5 de esta virtud** (Cl 1-5 de cada pista). Calendario absoluto por numero de clase de la pista, bloques de 5.
+- **Recuperacion:** N-3 y N-7 de la pista **no existen todavia** (Conversacion tiene Cl 1 y Cl 2). Se recupera Conversacion Cl 1-2 mas los 3 errores del PASE de Gramatica Cl 2. Sin mapa semanal todavia → NO se citan tickets.
+- **Continuidad:** M17 quedo **CERRADO** en Gramatica Cl 2 (los 20 items de Exercises 1 p.165 resueltos, participios y Verbal Practice 1 p.167). Hoy el nivel abre contenido nuevo del puente: el primer auxiliar modal del nivel. Por eso la recuperacion del Bloque 1 todavia toca la bisagra de los dos pasados: es lo ultimo que se cerro y no se suelta.
+- **Anti-duplicado:** hoy **TRAVEL ADVISORY DESK** (mostrador de servicio, cliente externo que llega a decidir, advisor que cotiza con precio y hora, observers contando should / shouldn't / numeros). Distinto de los tres escenarios anteriores del cohorte: **MEET THE NEW TEAM** (Conv Cl 1), **INCIDENT REPORT TO HR** (Grammar Cl 1), **PERFORMANCE REVIEW** (Conv Cl 2) y **SHIFT HANDOVER** (Grammar Cl 2). El PASE de hoy prohibe explicitamente repetirlo en Gramatica Cl 3.
+- **Proyecto del nivel:** MY STORY, MY GOALS — **piece 2 "My advice to a beginner"**. El papel de 12 lineas que dejo Gramatica Cl 2 alimento la pieza anterior; el de Gramatica Cl 3 alimentara la pieza 3.
+- **Proxima clase de esta pista (Conv Cl 4):** A1 Book **M6 "What Time Will You Eat Lunch?" (p.71-74, will)** + preposiciones de tiempo **IN / ON / AT** (A1 M29 "When Is It?" p.326; A2 M1 p.2 para "on" con dia o fecha; A2 M2 p.14 para "in" con mes o ano). `SUPUESTO DE PLANEACION — verificar`: el anclaje modulo-clase del puente Cl 1-5 viene del mapa del B1 Mastery, no de una tabla del libro.
+- **Sin material preparado:** todo en tablero, papel del propio estudiante o voz; los precios y las horas los traen los estudiantes de su propia vida. Plan B por bloque en el Anexo.

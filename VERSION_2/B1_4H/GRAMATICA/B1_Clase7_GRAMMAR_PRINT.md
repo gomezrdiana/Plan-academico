@@ -1,113 +1,190 @@
 # B1 MASTERY — Cl 7/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
 
-**Sesion 7/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
-**Modulo:** A1 Book **M12 "How Often do You Play Soccer?" — Adverbs of Frequency** (p.153-158)
-**Focus (1 line):** Lock adverb position on paper — ALWAYS before the main verb, AFTER be.
-**Virtud:** TEMPLANZA v1 — dia 2 de 5 (Cl 6-10)
+**Sesion 7/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Modulo ancla:** A1 Book **M12 "How Often do You Play Soccer?" — Adverbs of Frequency (p.153-158)** — hoy la posicion SE SELLA EN PAPEL
+**Focus (1 linea):** Lo que esta manana les salio de la boca, ahora queda escrito: el adverbio inmediatamente antes del verbo principal, despues de BE, y "How often" con do / does.
+**Virtud:** TEMPLANZA — Cl 2 de 5 de esta virtud (Cl 6-10 de cada pista)
 **Frase del Dia:** *"Place the adverb with discipline: ALWAYS before the verb — she always plans, he often calls, we sometimes wait; steady position keeps the meaning calm."*
 
-> **DE PIE: Bloques 1-3 completos en/junto al tablero (~86%; piso 70%). Solo el Bloque 4 es sentado.** Movimiento SIEMPRE con contenido.
+> **ENGLISH ONLY, sin excepcion.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges.
 
----
+> **DE PIE: Bloques 1-3 completos en o junto al tablero (~95 de 110 min ≈ 86%; piso 70%). Solo el Bloque 4 es sentado.** Movimiento SIEMPRE con contenido: nada de "stand up / sit down" suelto.
 
-## BLOQUE 1 — APERTURA (20') — DE PIE
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos) y el PASE que te entrega el profe de Conversacion a las 10:00. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
-**Objective: wake future/prepositions and point at today's adverb position.**
+> **HOY SOLO: la posicion de los cinco adverbios en papel — inmediatamente antes del verbo principal · despues de BE · los auxiliares (can, should, will) en su posicion normal · "How often" con do / does · y la -s de tercera persona que NO se pierde debajo del adverbio. NO TOCAR AUN: las expresiones de frecuencia con numero (every day, twice a week, once a month) al final de la frase — eso es Cl 8. Tampoco "rarely": no esta en el libro. Y NO se re-explica HAS ni los tres sonidos de la -s: quedaron sellados en Cl 6 y hoy solo se reciclan en la recuperacion.**
 
-1. **Recuperacion (10', oral, DE PIE, en cadena, sin cuaderno).** Disparadores de Cl 4 (sin N-7); errores anonimos al board; 1 min de re-produccion correcta:
-   - "A plan + a time: 'I will finish it ON Friday.'" (Cl 4)
-   - "IN / ON / AT: ___ 2026? ___ the afternoon? ___ 6 o'clock?" (Cl 4)
-   - "Fix it: 'I will to travel in Monday.'" (Cl 4)
-   - "Say one true 'I will...' about next week." (Cl 4)
-2. **Frase del Dia (4').** Board antes de empezar; 2 lecturas, coro 2x, 1 solo. Insertala 3+ veces; cierre 1 de memoria + 1 en oracion nueva.
-3. **Chequeo publico de portafolio (3').** *"Who sent their daily audio since Cl 6?"* Anota numeros; no revisas contenido.
-4. **PASE recibido de Conv (hoy) (3'):** lee los 3 gaps: *"These came out this morning. We fix the position on paper now."*
+## BLOQUE 1 — RECUPERACION DE LO ORAL DE ESTA MANANA (20') — DE PIE
 
-> [VIRTUD] Board: "TEMPERANCE — DAY 2". Di: *"Temperance is placement — the right word in the right spot. Adverb before the main verb, after BE. Steady."*
+**Objective: wake the future and the time prepositions, and point straight at today's one problem: position.**
 
-## BLOQUE 2 — POSICION DEL ADVERBIO EN PAPEL (40') — DE PIE ~90%
+1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Anota la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). No re-explicas la regla ni las condiciones de la garantia: se dijeron una vez en la Cl 1. Hoy solo se registra.
+2. **Chequeo de portafolio, publico, con la lista del PASE en mano (3').** La lista ENVIO / NO ENVIO de hoy ya la marco Conversacion a las 8:00 y viene en el PASE: NO la repites nombre por nombre. Lees en voz alta solo los NO ENVIO (si alguno lo mando en el cambio de bloque, lo pasas a ENVIO) y a 2-3 estudiantes que Conversacion no corrigio les dices en voz alta **UNA cosa por mejorar en 5 segundos**, con el error real de SU video: *"'I check always' — the adverb went after the verb, three times."* Al que no envio: *"You send it TODAY together with today's video. Two videos, same day. The list goes to coordination today."* Sin discutir; si preguntan por notas o por la garantia: *"That is coordination, not me."*
+3. **Recuperacion espaciada (7', oral, DE PIE, en cadena, sin cuaderno).** **N-3 = Grammar Cl 4** (will mas in / on / at). N-7 de esta pista todavia no existe, asi que el segundo bloque de disparadores sale del PASE que recibiste. Errores oidos al tablero **ANONIMOS**, coro 2x, y 1 minuto de re-produccion correcta:
+   - "From Grammar Cl 4: a plan plus a time — 'I will finish it ON the last day.'"
+   - "IN / ON / AT: ___ 2026? ___ the afternoon? ___ six o'clock?" (Cl 4)
+   - "Fix it out loud: 'I will to travel in the first day.'"
+   - "Reciclo de Cl 6: say it with the right sound — he / watch · she / fix · it / cost. And: 'he ___ two clients' (HAS)."
+   - Del PASE: los 3 errores literales que te entrego Conversacion por escrito a las 10:00.
+4. **Lectura del PASE recibido, en voz alta (3').** *"These came out of your mouths this morning. Now we don't discuss the meaning of the words — we fix WHERE they go, on paper."*
+5. **Frase del Dia (6' incluyendo el VATS).** Escrita en el tablero ANTES de que entren. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en 1 linea: *"Same words, different place, different English."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en oracion nueva propia.
 
-**Objective: everyone places the 5 adverbs correctly, fast — before the main verb, after BE.**
+> **[VATS] RITUAL DE VIRTUD (5', DE PIE — no se recorta). TEMPLANZA ya se presento en la Cl 6: hoy NO se presenta, se aplica.**
+> **V — Virtud (1'):** tablero: `TEMPERANCE — Cl 2 of 5`. Di: *"Temperance is placement: the right word in the right spot, every time, without rushing. Today that is literally the rule — before the main verb, after BE."* **El porque, en una frase:** *"We train this because precision is what makes people trust you at work: 'I usually deliver on the second day' is a promise they can check, 'I deliver fast' is not."*
+> **A — Activar (1-2'):** pregunta en ingles que junta virtud y gramatica de hoy: *"What is one thing at your work that is ALWAYS done, and one that is NEVER done — and who checks it?"* 30 segundos de pensar en silencio.
+> **T — Hablar (2'):** cadena de pie, cada uno responde en 2 frases (una con verbo de accion, una con BE). Escuchas y anotas errores para el error paper; **aqui no corriges**.
+> **S — Compartir (1'):** 2-3 respuestas al grupo y cierras: *"Hold that. In a few minutes somebody is going to come and inspect exactly that."*
+> **Si alguien pregunta que tiene que ver esto con el ingles:** *"Everything. That day it will not be your vocabulary that fails you — it will be your nerve or your consistency."*
 
-1. Board — cita del libro (M12, p.153-158):
+## BLOQUE 2 — LA POSICION DEL ADVERBIO, EN PAPEL (40') — DE PIE ~90%
+
+**Objective: everyone places the five adverbs correctly and fast — before the main verb, after BE — without losing the third-person -s.**
+
+1. **Tablero — la regla del libro (5').** Escribes esto tal cual; la cita verbatim en espanol la tienes en el ANEXO para tu preparacion.
 ```
-ADVERBS OF FREQUENCY (A1 Book M12, p.153-158)
-Escala:  always -> usually -> often -> sometimes -> never
-Regla (libro): "el adverbio va INMEDIATAMENTE ANTES del verbo principal."
-   "I never wake up at 6."   "Wilson often plays hockey."
-   "Samson usually eats pasta."   "We always swim at 8:00."
-Auxiliares (can/should/will) en su posicion normal:
-   "Can you SOMETIMES help Sam?"   "Should we SOMETIMES go at 7?"
-With BE -> adverb AFTER be:  "She is USUALLY on time."
-Question:  "HOW OFTEN do you play?"  ("que tan frecuentemente")
+ADVERBS OF FREQUENCY — A1 Book M12, Guide 1 (p.153-158)
+Scale:  always -> usually -> often -> sometimes -> never
+RULE (book): the adverb goes IMMEDIATELY BEFORE the main verb.
+   "I never wake up at 6:00 AM."        "Wilson often plays hockey."
+   "Samson usually eats pasta."          "We always swim in the pool at 8:00."
+AUXILIARIES (can / should / will) stay in their normal position:
+   "The dog can SOMETIMES play in the park."
+   "Will Felix and Felicity ALWAYS love Ana?"
+With BE -> the adverb goes AFTER be:    "She is USUALLY on time."
+QUESTION:  "HOW OFTEN do you play?"   ("que tan frecuentemente")
+THE -S DOES NOT DISAPPEAR UNDER THE ADVERB:
+   "she usually ARRIVES", never "she usually arrive".
 ```
-2. Señala la logica: *"Before the main verb — always. But BE is the exception: the adverb goes right after it. 'She ALWAYS arrives' but 'she IS always late'. Two errors to kill: 'I check always' (after the verb) and 'she always is late' (before BE)."*
-3. **Drill en circulo (10', DE PIE):** tu lanzas sujeto + verbo + adverbio ("he / call / often") -> estudiante produce la frase en posicion correcta ("He often calls"); el siguiente lanza el proximo trio. Incluye BE ("she / be / usually late" -> "She is usually late"). Velocidad creciente.
-4. **Errores tipicos al board (coro 2x):**
+2. **Señalas la logica en 30 seg.** *"Before the main verb — always. BE is the one exception: the adverb goes right after it. Two errors to kill today: 'I check always' (after the verb) and 'she always is late' (before BE)."*
+3. **Drill en circulo, DE PIE (9').** Cadena cerrada. Tu lanzas sujeto mas verbo mas adverbio ("he / call / often"). Estudiante 1 produce la frase en posicion correcta (*"He often calls"*); estudiante 2 la pasa a **pregunta con How often** (*"How often does he call?"*); estudiante 3 la pasa a **BE mas adverbio** con el mismo sujeto (*"He is often late"*); estudiante 4 lanza el siguiente trio. Velocidad creciente; incluye auxiliares (*"she / can / sometimes / help"*). Cuando alguien se cae, la cadena no se detiene: el siguiente lo arregla en voz alta.
+4. **Errores tipicos al tablero, coro 2x cada correccion (4').**
    - "I check always email" -> "I ALWAYS check email"
-   - "she always is late" -> "she IS always late" (tras BE)
-   - "she usually arrive" -> "she usually ARRIVES" (-s no se pierde)
+   - "She always is late" -> "She IS always late" (despues de BE)
+   - "She usually arrive at nine" -> "She usually ARRIVES at nine" (la -s no se pierde)
    - "How often you go?" -> "How often DO you go?"
-5. **Zone walk (12', DE PIE):** tablero `BEFORE MAIN VERB | AFTER BE`. Tu dices una frase + adverbio; las parejas CAMINAN a la zona correcta segun si el verbo es BE o no, Y producen la frase en voz alta. El que llega justifica la regla.
-6. Cierre del bloque: produccion libre de pie — cada uno 2 frases verdaderas de su semana (1 con verbo de accion + adverbio, 1 con BE + adverbio).
+   - "He often doesn't answers" -> "He often doesn't ANSWER" (verbo base tras doesn't)
+5. **Zone walk, DE PIE, en parejas (8').** Divide el tablero en dos zonas: `BEFORE THE MAIN VERB` y `AFTER BE`. Dices una frase mas un adverbio; cada pareja **CAMINA** a la zona correcta segun si el verbo es BE o no, Y produce la frase entera en voz alta. 10-12 disparadores, velocidad creciente. Al que se equivoca de zona **no lo corriges tu**: lo corrige la pareja que llego a la otra.
+6. **Dictado desde el tablero al papel del estudiante (12'). Nada impreso.** Escribes los 10 items en el tablero; ellos escriben la frase completa y correcta en su cuaderno, **subrayando el adverbio y encerrando el verbo**. Caminas mirando papeles y anotas errores literales en TU cuaderno.
+```
+WRITE THE FULL SENTENCE, adverb in its place:
+ 1. I / confirm by email                  [always]
+ 2. she / arrive at nine                  [usually]
+ 3. he / be late for the handover         [never]
+ 4. we / work on the last day             [sometimes]
+ 5. they / close on time                  [never]
+ 6. he / call before lunch                [often]
+ 7. she / be the first one in             [usually]
+ 8. HOW OFTEN / you / update the sheet    [question]
+ 9. the team / can / help on the weekend  [sometimes]
+10. HOW OFTEN / she / check the inbox     [question]
+```
+   **Correccion oral en cadena de pie (ultimos 4 min del bloque):** un estudiante distinto lee cada item ya resuelto y dice en 1 linea por que (*"'be' is the verb, so the adverb goes after it"*). Los items **3 y 7** se corrigen SEGUIDOS de los items 1 y 2: ahi se ve la excepcion de BE contra la regla general. El item 9 muestra el auxiliar en su posicion normal.
+7. **Cierre del bloque — produccion libre, de pie (2').** Cada estudiante: 1 frase verdadera de su semana con verbo de accion mas adverbio + 1 con BE mas adverbio + 1 pregunta *"How often do you...?"* al compañero de al lado, que responde en frase completa. El drill nunca cierra el bloque: cierra el uso libre.
 
-## BLOQUE 3 — FREQUENCY BRIEFING (35') — DE PIE 100%
+## BLOQUE 3 — SIMULACION: SAFETY INSPECTION — "IS IT ALWAYS DONE?" (35') — DE PIE 100%
 
-**Objective: hold adverb position under pressure in a realistic professional check-in.**
+**Objective: hold adverb position under pressure in a real compliance visit, where the answer has to be exact.**
 
-1. Board: `FREQUENCY BRIEFING — "HOW OFTEN?" — 3 ROTATIONS`
-2. Escenario profesional realista: revision de habitos de trabajo con un supervisor. **1 estudiante = guest** (reporta con 5+ frases de frecuencia: *"I always check the inbox first. I am usually early. I never skip the daily backup."*); otro rota como supervisor que pregunta ("How often does the team meet? Are you always on time?"); el resto = **OBSERVERS ACTIVOS**: 2 errores de posicion, 1 acierto, 1 pregunta. Tu = COACH — NUNCA guest.
-3. 3 rotaciones (~8'). Entre rotaciones, 90 seg de cadena rapida ("often -> he often calls -> is he often late?").
-4. Debrief con lo anotado (tipos, anonimos). Interven si un error aparece 3 veces en la misma pareja: board, coro 2x, sigue.
+1. Tablero: `SAFETY INSPECTION — 1 SITE SUPERVISOR (GUEST) — 1 EXTERNAL INSPECTOR — EVERYONE ELSE OBSERVES`
+2. **Escenario profesional realista (solo tablero y sala), 2'.** Llega un inspector externo a revisar el cumplimiento de seguridad de un sitio de trabajo (una bodega, una cocina, un taller, una clinica) y hace la pregunta que nadie quiere oir: *"is it ALWAYS done, or only sometimes?"*. **Se hace DE PIE y RECORRIENDO la sala como si fuera la instalacion:** el inspector camina, señala un punto (una salida, un extintor imaginario, un equipo) y pregunta ahi mismo; el supervisor responde de pie, en el sitio. **1 estudiante = guest / supervisor del sitio:** responde con precision — *"The extinguisher is always checked on the first day of the month. We never leave the exit blocked. The team sometimes forgets the log, and I usually check it myself."* **1 estudiante rota como inspector externo** y pregunta obligatoriamente en los dos formatos: *"How often does the team run the drill? Are the exits always clear? Do you often find the log incomplete? Is somebody usually in charge at night?"*. **TU eres COACH desde afuera — NUNCA juegas inspector ni supervisor.** Si se congelan 15 segundos, sueltas UN prompt (*"Ask how often the log is signed"*) y te retiras.
+3. **OBSERVERS ACTIVOS con ficha en su propio papel (la dibujan en 30 seg):** tres columnas — `BEFORE MAIN VERB OK` · `AFTER BE OK` · `BROKEN`. **Una raya por cada frase con adverbio que oigan**, mas **1 pregunta de inspector propia** que entregan al final. Al cerrar cada rotacion **cantan el conteo en voz alta**: *"eleven before the verb, six after BE, three broken."*
+4. **Minimos por rotacion:** los cinco adverbios usados al menos una vez + **3 frases con BE mas adverbio** (aqui esta la mitad dificil de la regla) + 4 preguntas del inspector respondidas en frase completa, 2 de ellas con *"Are you...?"* / *"Is it...?"*.
+5. **4 rotaciones (~6' cada una)**, supervisor e inspector nuevos en cada una, **la instalacion cambia cada vez**. Entre rotaciones, 60 seg de cadena de pie: *"often -> he often signs it -> is he often here? · usually -> she is usually in charge."*
+6. **Debrief (4').** Los observers reportan TIPOS y conteos, nunca personas (*"BE column empty — nobody used 'is always'"*, *"the -s fell under the adverb"*). Correcciones al tablero, coro 2x. Intervienes solo si un error sale 3 veces. Cierra: *"Temperance is placement, and an inspector only believes an exact answer."*
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
 
-1. **Ticket de salida (5'):** 3-5 frases con adverbio de frecuencia (al menos 1 con BE), nombre en el papel. Se recogen TODOS; no se evaluan ni comentan.
-2. **Tarea (board):**
+1. **Ticket de salida (5'):** 3-5 frases con nombre en el papel — **al menos 3 adverbios distintos**, **1 con BE** y **1 pregunta con "How often"**; subrayan el adverbio. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
+2. **Error paper (4').** Escribes 4-6 errores REALES del dia, **anonimos**. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio con la forma corregida. En tu cuaderno, los mismos errores **CON nombre y cita literal** para el reporte de coordinacion. Doble protocolo, siempre.
+3. **Cierre (6').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with CONVERSATION Cl 8 and the other teacher, and you TALK: frequency with real numbers — every day, twice a week, once a month, at the END of the sentence. Temperance, class three. Bring your notebook and send your video."* Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."* Nada mas.
+
+**Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
-HOMEWORK CL 7 GRAMMAR — DUE Cl 8, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE 12 sentences: 8 with a main verb + adverb (before the verb),
-    4 with BE + adverb (after be). Use all 5 adverbs. Underline the adverb.
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: "How often my team
-    does 5 things" (3rd person + adverbs). Label: B1-GRAMMAR-7. WhatsApp.
-(3) Bring the paper to next class.
+HOMEWORK GRAMMAR CL 7 — TWO THINGS, BOTH DUE.
+DUE: Cl 8, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
+NOT FRAGMENTED. TIME: 30-45 min (B1).
+(1) WRITTEN, in your notebook, 12 lines about your real work week:
+    8 with a main verb plus the adverb BEFORE it,
+    4 with BE plus the adverb AFTER it.
+    Use all five adverbs (always, usually, often, sometimes, never).
+    3 of the 12 must be third person (he / she) with the -s in place.
+    Underline every adverb. Circle every verb.
+    Bring the notebook to the next class.
+(2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
+    one assigned in CONVERSATION at 8:00. Send it TODAY to the cohort
+    WhatsApp group. Audio only by exception (max 2 a week).
 ```
-3. **Error paper** fisico anonimo cerrado; nombres + citas en tu reporte.
-4. **Proxima clase:** *"Cl 8: expressions of frequency — every day, twice a week, once a month. Temperance day 3. Evaluation questions to coordination, not to me."*
-5. **PASE a Conv Cl 8** (fisico, antes de salir):
+> **El video es DIARIO y es UNO solo: hoy es el que asigno Conversacion a las 8:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
+4. **PASE al PROFESOR DE CONVERSACION (Conv Cl 8, a las 8:00 de la proxima clase) — se lo dejas HOY antes de salir**, en papel en la carpeta del cohorte o por mensaje escrito directo. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo antes de salir:
 ```
-PASE Grammar -> Conv — Cl 7 -> Cl 8 (dia siguiente)
-3 gaps frescos de hoy (error literal, SIN nombre aqui):
-1. ______________________  2. ______________________  3. ______________________
-Patrones bajo presion: (a) adverbio tras el verbo ("I check always");
-(b) adverbio antes de BE ("she always is"); (c) -s caida; (d) "How often
-you..." sin do/does. Hoy quedo lockeada la posicion (M12). En Cl 8 abre
-frequency EXPRESSIONS: pideles un "Rhythm Roundup" oral — cada uno 1 frase
-con "twice a week / every day" al final.
+PASE Grammar Cl 7 -> Conv Cl 8 — del profe de GRAMATICA al de CONVERSACION
+Virtud: TEMPLANZA, Cl 2 de 5. Tu Cl 8 es Cl 3 de 5: no la presentas, la aplicas.
+La Frase del Dia NO se traspasa: estrenas la tuya.
+QUE QUEDO SELLADO HOY EN PAPEL (A1 M12, p.153-158):
+la posicion del adverbio inmediatamente antes del verbo principal · despues de
+BE · los auxiliares (can / should / will) en su posicion normal · "How often"
+con do / does · y la -s de tercera persona que no se pierde bajo el adverbio.
+Dictado de 10 items resuelto y corregido en cadena.
+3 ERRORES escritos frescos de hoy (cita literal, SIN nombre aqui; nombres en mi reporte):
+1. ____________________  2. ____________________  3. ____________________
+QUE NO ALCANZO: _________________________________________________________
+Conteo de la simulacion (BEFORE VERB OK / AFTER BE OK / BROKEN): ____ / ____ / ____
+YA QUEDO HECHO HOY, NO LO REPITAS: la regla de posicion en el tablero · el
+dictado de 10 items · el drill en circulo de tres pasos (frase, How often,
+BE mas adverbio) · el zone walk de dos zonas · chequeo de portafolio con lista
+(videos que NO llegaron: ______________).
+ESCENARIO DE SIMULACION QUE USE HOY — NO LO REPITAS: "SAFETY INSPECTION — IS
+IT ALWAYS DONE?" (inspector externo recorriendo la instalacion).
+TU CLASE ABRE las EXPRESIONES de frecuencia con numero (A1 M13 "We Play Hockey
+Twice a Week", p.165-169), al FINAL de la frase, solo oral. Arranca con un
+"Rhythm Roundup": cada uno 1 frase con "twice a week" o "every day" al final,
+ANTES de tocar la regla. Los adverbios de hoy ya no son contenido nuevo.
+TAREA ESCRITA: la deje YO (12 lineas). El video del dia fue el tuyo. No pidas
+otro papel encima: las pistas no duplican tarea.
+Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + briefing) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Portafolio anotado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~86% DE PIE confirmado
 
 [PAGEBREAK]
 
-## ANEXO — VERBATIM DEL LIBRO + PLAN B (apoyo, no leer completo en clase)
+## ANEXO — M12 verbatim, clave del dictado y Plan B (no leer en clase)
 
-**A1 Book M12 — regla verbatim:**
+**A1 Book, Modulo 12 — "How Often do You Play Soccer? / Adverbs of Frequency" (p.153-158), Guia 1 verbatim:**
 ```
 "1. Los adverbios de frecuencia indican que tan seguido un evento ocurre.
  2. Siempre se coloca el adverbio inmediatamente antes del verbo principal.
  3. Los auxiliares (can, should, etc.) se colocan en su posicion normal.
  4. 'How often' significa '¿Que tan frecuentemente...?'"
-Ejemplos: "The dog can sometimes play in the park."  "Wilson often plays hockey."
-          "Will Felix and Felicity always love Ana?"
+Lista del libro: Always / Usually / Often / Sometimes / Never.
+Ejemplos del libro:
+  "I never wake up at 6:00 AM."    "We sometimes eat dinner in the restaurant."
+  "Wilson often plays hockey."      "Samson usually eats pasta."
+  "We always swim in the pool at 8:00."   "Harold never eats in the car."
+  "The dog can sometimes play in the park."
+  "Will Felix and Felicity always love Ana?"
 ```
-**Plan B:** si a los 30 min la posicion tras BE confunde, deja hoy solo la regla del verbo principal (antes del verbo) y trae el caso BE como callback en Cl 8. Bloque 3 a 2 rotaciones. Todo en tablero.
 
-## NOTA INTERNA (no leer en clase)
+**CLAVE del dictado (para ti, no al tablero antes de que resuelvan):** 1. I always confirm by email. · 2. She usually arrives at nine. · 3. He is never late for the handover. · 4. We sometimes work on the last day. · 5. They never close on time. · 6. He often calls before lunch. · 7. She is usually the first one in. · 8. How often do you update the sheet? · 9. The team can sometimes help on the weekend. · 10. How often does she check the inbox?
 
-- Modulo HOY = A1 Book M12 (p.153-158), verbatim arriba. Proxima Grammar (Cl 8) = **M13 "We Play Hockey Twice a Week — Expressions of Frequency" (p.165-169)**.
-- La regla "adverbio DESPUES de BE" NO esta explicita en M12; se enseña como uso estandar (SUPUESTO DE PLANEACION — verificar). "Rarely" no esta en el libro.
-- DE PIE ≥70% (piso 86%). Virtud Cl 6-10 = TEMPLANZA v1, dia 2.
-- Recuperacion: Cl 7 solo N-3 (Cl 4 = will + in/on/at). Sin mapa semanal — NO citar tickets.
-- PASE bidireccional; profe sin material preparado.
+**Lo que NO es del libro:** la posicion **despues de BE** no aparece explicita en M12 — se ensena como uso estandar. **"Rarely" NO esta en el libro:** no presentarlo como del libro. `SUPUESTO DE PLANEACION — verificar` (heredado de la guia 4H anterior, ya marcado alli).
+
+**Plan B (cero material, todo tablero o voz):**
+- **A los 30 min la posicion tras BE sigue confundiendo:** deja hoy solo la regla del verbo principal y pasa el caso BE como callback de Cl 8. El dictado baja a los items 1, 2, 4, 5, 6, 8 y 10.
+- **Drill en circulo atascado:** cadena sentada rapida — tu das la frase con el adverbio mal puesto y el grupo grita la posicion correcta en coro; un estudiante la dice entera.
+- **Zone walk atascado:** las dos zonas se vuelven dos manos — izquierda arriba = antes del verbo, derecha arriba = despues de BE; misma velocidad, sin caminar.
+- **Dictado muy lento:** dictas 6 items y los otros 4 quedan de tarea; **NO recortes la correccion oral en cadena**.
+- **La inspeccion no arranca:** tu escribes en el tablero la lista de puntos a inspeccionar (*the exit, the log, the drill, the night shift, the first-aid kit*) y cada estudiante dice, de pie, con que frecuencia se revisa cada uno en un sitio de trabajo real que conozca. Tu sigues fuera del rol.
+- **Grupo pequeno hoy:** 2 rotaciones largas y los minimos suben a 5 frases con BE y 6 preguntas.
+- **Sobra tiempo:** "inspector's last question" — tu das una frase del guest y el grupo formula la pregunta de inspector que la pondria a prueba (*"Is it ALWAYS done, or only sometimes?"*).
+
+## NOTA INTERNA PARA COORDINACION (no se lee en clase)
+
+- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/GRAMATICA/B1_Clase7_GRAMMAR_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), Conv 8:00-10:00 primero y Grammar 10:00-12:00 despues, el MISMO dia · PASE Conv -> Grammar en papel a las 10:00 y Grammar -> Conv para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion). Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
+- **B3 REDISENADO POR ANTI-DUPLICADO.** La guia 4H anterior usaba **"FREQUENCY BRIEFING — HOW OFTEN? con un supervisor"**, que es practicamente la misma escena que el B3 de Conv Cl 7 (**"WORKFLOW CHECK-IN"**, coordinador interno revisando como trabaja el equipo): mismo registro interno, mismos roles, misma pregunta. **En una sola linea: el B3 de hoy es distinto del de Conv Cl 7 porque cambia de revision interna a una inspeccion de cumplimiento con un tercero EXTERNO, cambia los roles (inspector y supervisor del sitio, recorriendo la instalacion) y cambia la carga gramatical obligatoria — el minimo exige 3 frases con BE mas adverbio, que es la mitad dificil de la regla y la que Conv no exigio.** Ni el titulo, ni los roles, ni el guion, ni la ficha de los observers se repiten.
+- **Virtud:** TEMPLANZA, **Cl 2 de 5** (Cl 6-10 de cada pista, calendario absoluto por numero de clase de cada pista; no se desplaza por festivos ni cancelaciones). Ya quedo presentada en la Cl 6 de las dos pistas: hoy se aplica, no se presenta, pero lleva igual su porque en una frase.
+- **Recuperacion de esta pista:** N-3 = **Grammar Cl 4** (will mas in / on / at). **N-7 no existe aun** (seria Grammar Cl 0), asi que el segundo bloque de disparadores sale del PASE recibido, mas un reciclo corto de Cl 6 (HAS y los tres sonidos) como pide la frontera. Sin mapa semanal de tickets todavia: NO citar tickets.
+- **Frontera:** la proxima Grammar (Cl 8) = **A1 M13 "We Play Hockey Twice a Week" — Expressions of Frequency (p.165-169)**: la forma FRECUENCIA mas A(N) mas PERIODO, colocada al final de la frase. Cl 7 no la toca.
+- **Proyecto MY STORY, MY GOALS:** hoy no hay pieza nueva — Gramatica sella la herramienta. Las 12 lineas de la tarea son materia prima para la pieza que arma Conversacion en la Cl 8. Se anota para que no se lea como pieza perdida.
+- **El profe no comunica notas ni resultados.** Midterm Cl 22, presentaciones Cl 43, final Cl 44 con evaluador externo: todo eso lo comunica coordinacion.

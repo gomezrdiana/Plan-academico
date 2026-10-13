@@ -1,121 +1,163 @@
 # B1 MASTERY — Cl 6/44 — CONV (va PRIMERO) — HOJA DE RUTA
 
-**Sesion 6/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
-**Focus (1 line):** Say your real workday out loud in Present Simple — I/you/we/they + verb, he/she/it + verb-S.
-**Virtud:** TEMPLANZA v1 — dia 1 de 5 (ABRE bloque Cl 6-10)
+**Sesion 6/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Modulo ancla:** A1 Book **M8 "Where Do We Eat?" (p.99-102, do/does)** + **M9 "He Eats in the Restaurant" (p.111-113, 3a persona -s)** — hoy las TRES formas, solo USO ORAL
+**Focus (1 linea):** Decir la semana de trabajo real en voz alta en las tres formas: "he works" / "she doesn't work" / "do you work?"
+**Virtud:** TEMPLANZA — Cl 1 de 5 de esta virtud (Cl 6-10 de cada pista) — ABRE el bloque
 **Frase del Dia:** *"A steady worker names the routine, not the drama: I confirm, she confirms, he checks — one calm -s tells who does the work; temperance keeps the pattern true."*
 
----
+> **ENGLISH ONLY, sin excepcion.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges.
 
-> **HOY SOLO USO ORAL DE: las tres formas habladas de la rutina — 'he works' / 'she doesn't work' / 'do you work?'. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los adverbios de frecuencia (always, usually, never) y las expresiones con numero (twice a week) — eso es de Cl 7 y 8.**
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos) y el PASE que te dejo el docente de Gramatica al cierre de la Cl 5. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
-## BLOQUE 1 — APERTURA (20')
+> **HOY SOLO: las TRES formas del presente HABLADAS bajo carga — "he works" (afirmativo con -s) / "she doesn't work" (negativo con verbo base) / "do you work?" (pregunta con short answer). La regla ya esta sellada en el cuaderno: hoy se USA, NO se re-explica. Si alguien pide la tabla: "it is in your notebook from last class — today we use it." Deja que salga HAS en su boca (*"he HAS two clients"*) y NO lo expliques. NO TOCAR AUN: have -> HAS como regla ni los tres sonidos de la -s (eso es GRAMATICA Cl 6, hoy a las 10:00) · los adverbios de frecuencia (Cl 7) · las expresiones con numero, twice a week (Cl 8).**
 
-**Objective: reactivate the review arc and open the Present Simple orally.**
+## BLOQUE 1 — APERTURA Y APERTURA DE VIRTUD (20')
 
-1. **Recuperacion (8', oral, DE PIE, en cadena, sin cuaderno).** Disparadores del contenido de Cl 3 (Cl 6 no tiene N-7). Errores oidos al tablero ANONIMOS; cierra con 1 min de re-produccion correcta:
-   - "One recommendation for a new coworker: 'You SHOULD...' / 'You SHOULDN'T...'." (Cl 3)
-   - "Say a real number out loud: your extension, your floor, how many people on your team." (Cl 3)
-   - "Give me advice + a number: 'You should arrive 10 minutes early.'" (Cl 3)
-   - "Fix it: 'You should to call the client.'" (Cl 3)
-2. **Frase del Dia (4').** Escribela en el tablero ANTES de empezar. Leela 2 veces, coro 2 veces, 1 estudiante solo. Insertala natural 3+ veces hoy; al cierre 1 estudiante la dice de memoria y otro la usa en oracion nueva.
-3. **Chequeo publico de portafolio (3').** Pregunta en voz alta: *"Who sent their daily audio or video since last class?"* Anota numeros (cuantos si / cuantos no). NO revisas el contenido — eso es coordinacion. Di: *"The daily audio is part of the deal — one short recording every day."*
-4. **Revision tarea Cl 5 (3').** Sobre la mesa: MY STORY piece 4 en papel (10 lineas: rutina propia + role model en 3a persona) + audio #5 enviado. Recoge los papeles. No-entregas a tu cuaderno (nombre SOLO ahi): *"Homework is the contract."*
-5. **PASE recibido de Grammar (Cl 5) (2'):** leelo en voz alta. Bridge: *"Last class you named the present. Today you speak it: your real week — what you do, what your team does. The -s on he/she/it is where we listen hardest."*
+**Objective: reactivate the review arc, open Temperance, and switch the present on in all three forms.**
 
-> [VIRTUD] Escribe "TEMPERANCE — DAY 1, OPENING" y di: *"Temperance is the steady rhythm — not the one dramatic day, the truth of how every day runs. This week we measure and hold. Starting with your routine."*
+1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Anota la columna **"llegada tarde"** (despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). No re-explicas la regla: se dijo una vez en la Cl 1. Hoy solo se registra.
+2. **Chequeo de portafolio, publico, con lista en mano (3').** Di: *"I am not asking who made the video. I am asking who SENT it."* Nombre por nombre marcas ENVIO / NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar en 5 segundos**, con el error real de SU video (ya los viste antes de clase): *"'she doesn't works' — the base verb after doesn't."* Al que no envio: *"You send it TODAY together with today's video. Two videos, same day. The list goes to coordination today."* Sin discutir; si preguntan por notas o por la garantia: *"That is coordination, not me."*
+3. **Recuperacion espaciada (6', oral, DE PIE, en cadena, sin cuaderno).** **N-3 = Conv Cl 3** (should / shouldn't mas numeros). N-7 de esta pista todavia no existe, asi que el segundo bloque de disparadores sale del PASE que recibiste. Errores oidos al tablero **ANONIMOS**, coro 2x, y 1 minuto de re-produccion correcta:
+   - "From Conv Cl 3: one recommendation for a new coworker — 'You SHOULD...' / 'You SHOULDN'T...'."
+   - "Say a real number out loud: your floor, your extension, how many people on your team." (Cl 3)
+   - "Advice plus a number: 'You should arrive ten minutes early.'" (Cl 3)
+   - "Fix it out loud: 'You should to call the client.'"
+   - Del PASE: los 3 errores literales que te dejo Gramatica por escrito al cierre de la Cl 5.
+4. **Lectura del PASE recibido, en voz alta (3').** Bridge: *"Last class you sealed the rule on paper. This morning you speak your real week with it — what you do, what your team does, what nobody does."*
+5. **Frase del Dia (7' incluyendo el VATS).** Escrita en el tablero ANTES de que entren. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en 1 linea: *"Name the routine, not the drama."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en oracion nueva propia.
 
-## BLOQUE 2 — TU SEMANA EN PRESENTE (40')
+> **[VATS] RITUAL DE VIRTUD — HOY ABRE UNA VIRTUD NUEVA (6', dentro del bloque — no se recorta).**
+> **V — Virtud (1-2'):** tablero: `TEMPERANCE — Cl 1 of 5: OPENING`. Presentala: *"Prudence closed last class. Today a new one opens for five classes: TEMPERANCE — discipline, time management, patience with repetition. In this room it looks like three things: the daily video, arriving at eight o'clock, and finishing the drill without shortcuts."* **Conectala con lo de hoy en una frase:** *"This morning you describe your week — and temperance is what makes a week describable: the steady pattern, not the one dramatic day."* **El porque, en una frase:** *"We train this because nobody quits this level over grammar — they quit in week three, when it stops being new. Temperance is the name of what gets you through that week."*
+> **A — Activar (1-2'):** pregunta en ingles que junta virtud y gramatica de hoy: *"What is one thing you do every week that nobody sees, and that you never skip?"* 30 segundos de pensar en silencio.
+> **T — Hablar (2'):** cadena de pie, cada uno responde en 1-2 frases. Escuchas y anotas errores para el error paper; **aqui no corriges**.
+> **S — Compartir (1'):** 2-3 respuestas al grupo y cierras: *"That invisible habit is exactly what we are going to say out loud this morning, in three forms."*
+> **Si alguien pregunta que tiene que ver esto con el ingles:** *"Everything. We are not teaching you words: we are training you for the day you need them for real — in an interview, on a flight, in front of a client. That day your vocabulary will not fail you. Your nerve or your consistency will."*
 
-**Objective: by the end of this block, everyone has described their real workday out loud with correct -s on the third person.**
+## BLOQUE 2 — TU SEMANA REAL, EN TRES FORMAS (40')
 
-1. Anuncia la meta en 1 linea (arriba). **Producto de hoy: cada estudiante DICE su rutina de trabajo (6+ frases) + describe a un colega (3+ frases con -s).**
-2. Board (2 columnas, uso solo oral — Grammar lo formaliza hoy mismo en su bloque):
+**Objective: by the end, everyone has said their real work week out loud with the -s in place, plus one negative and one question that hold.**
+
+1. **Avance de proyecto (2'): MY STORY, MY GOALS — piece 5 "What I do now to build my English".** Di: *"Piece 5: three sentences about the habits you keep RIGHT NOW to get to your goal — and one about a habit you DON'T keep yet. Same present tense. This one goes into today's video."* Es la pieza que se defiende al final del nivel.
+2. **Tablero, 2 columnas (3') — solo uso ORAL; la capa que falta la formaliza Gramatica hoy a las 10:00:**
 ```
-I / YOU / WE / THEY + VERB        HE / SHE / IT + VERB-S
-"I check email at 8."             "She checks email at 9."
-"We start at 9."                  "He starts at 8:30."
-"They close on Sundays."          "It closes at 6."
-Negative/question (oral):  "I don't work Sundays." / "Do you start at 8?"
-                           "She doesn't work weekends." / "Does he start at 8?"
-HAVE -> HAS (oral, sin explicar): "He HAS two clients." / "She doesn't
-                           HAVE access." / "Does the team HAVE a room?"
+I / YOU / WE / THEY + VERB        |  HE / SHE / IT + VERB-S
+"I check email at eight."         |  "She checks email at nine."
+"We start at nine."               |  "He starts at eight thirty."
+"They close on the last day."     |  "It closes at six."
+NEGATIVE (oral)  "I don't work weekends."  |  "She doesn't work weekends."
+QUESTION (oral)  "Do you start at eight?"  |  "Does he start at eight?"
+SHORT ANSWER     "Yes, I do. / No, I don't."  |  "Yes, he does. / No, he doesn't."
 ```
-3. Modela 60 seg: tu propia rutina real (5-6 frases) + un colega real (3 frases con -s). Señala: *"Only he, she, it takes the -s. Everyone else uses the base verb. And in the negative and the question the auxiliary carries it — 'she DOESN'T work', 'DOES she work' — the main verb stays clean."*
-4. Preparacion en parejas (8'): cada uno arma en notas minimas su rutina (6 frases YO) + un colega (3 frases con -s) + 1 negativa + 1 pregunta.
-5. Ejecucion (18'): cada estudiante DICE su rutina completa a su pareja (3 min); la pareja verifica con checklist oral: 6 frases YO + 3 con -s + 1 negativa + 1 pregunta. Cambio de parejas, segunda ronda mas fluida.
-6. Producto verificable: TODOS han dicho su rutina dos veces. Feedback primero sobre el LOGRO ("did the routine land, could I picture the day?"), luego sobre la forma.
-7. Corrige en board solo errores que aparezcan en 2+ parejas (anonimos). Nombres a tu cuaderno.
+3. **Modelas 60 seg (2'):** tu semana real (4-5 frases con *I* mas *we*) + un colega real (3 frases con *he/she* mas -s) + 1 negativa + 1 pregunta. Señalas: *"Only he, she, it takes the -s. In the negative and the question the auxiliary carries it and the main verb stays clean."* **No explicas la tabla.**
+4. **Drill de movimiento, de pie (8') — TRES zonas, no dos.** Rotula el tablero `AFFIRMATIVE (+S)` · `NEGATIVE (doesn't + base)` · `QUESTION (Does + base?)`. Lanzas sujeto mas verbo mas intencion ("he / answer the phone / negative"); los estudiantes **CAMINAN** a su zona Y producen la frase completa en voz alta; el de al lado da el short answer si aplica. Velocidad creciente; ultimas rondas con verbos de SU trabajo. El drill NO cierra el bloque.
+5. **Preparacion en parejas (7', notas minimas en su propio papel).** Cada uno arma: **5 frases de su semana** (*I / we*) + **3 frases de un colega** (*he/she* mas -s) + **1 negativa** + **1 pregunta** + **piece 5** (3 habitos actuales mas 1 que todavia no sostiene). TEMPLANZA: el drill completo, sin atajos.
+6. **Ejecucion en parejas, 2 rondas (12').** Cada estudiante DICE su semana completa a su pareja (3 min); la pareja verifica con checklist oral en voz alta: *"five with I, three with the -s, one negative, one question — did they all appear?"* Cambio de pareja, segunda ronda mas fluida. Numero impar = un trio. TODOS hablan dos veces.
+7. **Producto mas feedback (6').** 4-5 estudiantes dicen su semana mas su piece 5 al grupo. Feedback primero sobre el LOGRO (*"could I picture the week?"*), despues sobre la forma. Los errores en 2+ parejas van al tablero **ANONIMOS**, coro 2x; nombres y citas literales a tu cuaderno. **Si sale HAS, lo celebras y sigues: no lo explicas.**
 
-## BLOQUE 3 — NEW-HIRE ROUTINE BRIEFING (35')
+## BLOQUE 3 — SIMULACION: NEW-HIRE ROUTINE BRIEFING (35')
 
-**Objective: use Present Simple under light pressure in a realistic onboarding scene.**
+**Objective: hold the three forms of the present under light pressure in a realistic onboarding scene.**
 
-1. Board: `NEW-HIRE ROUTINE BRIEFING — 3 ROTATIONS — OBSERVERS WORK`
-2. Escenario profesional realista (solo tablero y sala): un empleado nuevo describe su jornada tipica a un lider de equipo para que lo ubiquen. **1 estudiante = guest** (el nuevo empleado: 6+ frases en Present Simple, incluye a su antiguo equipo con -s: *"My old manager starts at 7. She checks numbers first."*); otro estudiante rota como team lead que pregunta (*"What time do you start? Does your team meet on Mondays?"*); el resto = **OBSERVERS ACTIVOS**: anotan 2 aciertos, 1 error de -s, 1 pregunta. Tu = COACH desde afuera — NUNCA juegas guest.
-3. 3 rotaciones (~8' c/u). Entre rotaciones, 60 seg de cadena rapida de tercera persona ("he / start -> he starts / she / check -> she checks") para mantener el oido.
-4. Debrief (5'): observers reportan TIPOS ("the -s dropped on 'she start'", "strong routine, clear order") — nunca personas.
-5. Di: *"Temperance held the pattern steady across three roles. Next class we measure HOW OFTEN — frequency."*
+1. Tablero: `NEW-HIRE ROUTINE BRIEFING — 1 NEW EMPLOYEE (GUEST) — 1 TEAM LEAD — EVERYONE ELSE OBSERVES`
+2. **Escenario profesional realista (solo tablero y sala), 2'.** Primer dia real de trabajo: el empleado nuevo tiene que explicarle a su lider como es su jornada tipica, para que lo ubiquen en el equipo. **Se hace DE PIE y CAMINANDO la sala como si fuera el recorrido de la oficina:** el guest señala "aqui empiezo", "aqui esta el equipo", "aqui no entro". **1 estudiante = guest / empleado nuevo:** 6 frases o mas en presente, e incluye a su equipo anterior en tercera persona (*"My old manager starts at seven. She checks the numbers first. He doesn't answer calls before nine."*). **1 estudiante rota como team lead** que pregunta en las dos formas: *"What time do you start? Does your team meet on the first day? Don't you close at six?"* y exige **short answer corto**. **TU eres COACH desde afuera — NUNCA juegas guest ni team lead.** Si se congelan 15 segundos, sueltas UN prompt (*"Ask what time his old team started"*) y te retiras.
+3. **OBSERVERS ACTIVOS con ficha en su propio papel (la dibujan ellos en 30 seg):** tres columnas — `+S OK` · `doesn't / Does + BASE OK` · `BROKEN`. **Una raya por cada frase que oigan**, mas 1 pregunta para el guest. Al cerrar cada rotacion **cantan el conteo en voz alta**: *"ten with the -s, five base, two broken."*
+4. **Minimos por rotacion:** 6 frases de presente (3 de ellas de tercera persona con -s) + 1 negativa con *doesn't* mas base + 3 preguntas del team lead respondidas con short answer corto.
+5. **4 rotaciones (~6' cada una)**, guest y team lead nuevos en cada una, el sector cambia cada vez. Entre rotaciones, 60 seg de cadena de pie: *"he / start -> he starts · she / check -> she checks · he / not answer -> he doesn't answer."*
+6. **Debrief (4').** Los observers reportan TIPOS y conteos, nunca personas (*"the -s dropped under speed", "short answers too long"*). Correcciones al tablero, coro 2x. Intervienes solo si un error sale 3 veces. Cierra: *"Temperance day one held the pattern steady across four roles."*
 
 ## BLOQUE 4 — CIERRE (15')
 
-1. **Ticket de salida (5', sentados):** cada estudiante escribe 3-5 frases con la estructura de hoy (su rutina + 1 frase de un colega con -s). Se recogen TODOS. NO los evaluas ni comentas — viajan con el error paper a coordinacion.
-2. **Tarea (board, due date explicita):**
+1. **Ticket de salida (5', sentados):** 3-5 frases con nombre en el papel — su rutina, minimo **1 de tercera persona con -s**, **1 negativa** y **1 pregunta**. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
+2. **Error paper (4').** Escribes 4-6 errores REALES del dia, **anonimos**. El grupo diagnostica que esta mal; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio con la forma corregida. En tu cuaderno, los mismos errores **CON nombre y cita literal** para el reporte de coordinacion. Doble protocolo, siempre.
+3. **Cierre (6').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have GRAMMAR Cl 6 with the other teacher: same level, same plan, a new Phrase of the Day. There you get the last two pieces of the present — and a sound you are still swallowing. Bring your notebook and send your video."* Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."* Nada mas.
+
+**Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
-HOMEWORK CL 6 CONV — DUE Cl 7, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE 10 sentences about your real work week:
-    5 with YOU (I + verb), 3 with a coworker (he/she + verb-S),
-    2 with your team (they + verb). Underline every -s.
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: "My typical
-    workday, start to end", Present Simple. Label: B1-CONV-6. WhatsApp group.
-(3) PROJECT (MY STORY): 3 sentences — "What I do now to build my English."
-    Bring on paper.
+HOMEWORK CONV CL 6 — ONE TASK ONLY: THE VIDEO.
+DUE: Cl 7, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
+TIME: 30-45 min (B1) — prepare, rehearse twice, then record. NOT fragmented.
+DAILY PORTFOLIO VIDEO — MINIMUM 3 MINUTES, video of yourself speaking,
+straight through, NO reading, NO script on camera.
+Content, in this order: (a) "My typical workday, start to end" in the
+present tense; (b) three sentences about a coworker (he / she + verb-S)
+and one negative about the team (they don't / she doesn't);
+(c) MY STORY piece 5 — three habits you keep NOW to build your English
+and one you do NOT keep yet. Close with the Phrase of the Day.
+Send it to the cohort WhatsApp group the SAME day. Label: B1-4H-CONV-6.
+Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
-3. **Error paper:** cierra el papel fisico anonimo de hoy; nombres + citas literales van en tu reporte a coordinacion.
-4. **Proxima clase:** *"Cl 7 = HOW OFTEN — frequency adverbs. Temperance day 2. Any question about evaluation goes to coordination — not to me."*
-5. **PASE a Grammar HOY** (entregar fisicamente antes del cambio de bloque):
+> **La tarea de hoy es SOLO el video** — la tarea escrita de este contenido la asigna el profe de Gramatica hoy a las 10:00. No pidas ademas un papel: las tareas de las dos pistas NO se duplican.
+> Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
+4. **PASE al PROFESOR DE GRAMATICA (Grammar Cl 6, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Gramatica. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv -> Grammar — Cl 6 (mismo dia)
-3 gaps frescos de hoy (error literal, SIN nombre aqui; nombres en tu reporte):
-1. ______________________  2. ______________________  3. ______________________
-Patrones orales de hoy: (a) -s caida en 3a persona ("she start / he check");
-(b) doble marca ("does she works"); (c) negativo mal ("he don't");
-(d) base olvidada tras don't/doesn't.
-Hoy dijeron su rutina real (yo + colega con -s) y corrieron el New-Hire
-Briefing, y salio HAS en boca de ellos. Tu bloque HOY: cierra la capa que
-falta — have -> HAS (M17 Guia 1 p.211) + los 3 sonidos de la -s (M9 p.112).
-El do/does ya quedo lockeado en Cl 5: hoy se APLICA, no se re-explica.
-= misma sesion (Cl 6).
+PASE Conv Cl 6 -> Grammar Cl 6 — del profe de CONVERSACION al de GRAMATICA
+Virtud: TEMPLANZA, Cl 1 de 5 de esta virtud (Cl 6-10 de cada pista) — HOY SE
+PRESENTO en esta pista: disciplina, manejo del tiempo, paciencia con la
+repeticion. Tu Cl 6 tambien es Cl 1 de 5 en TU pista, asi que la presentas
+igual, con TU angulo (la repeticion y el detalle en el papel), no con el mio
+(el habito invisible de la semana). La Frase del Dia NO se traspasa: estrenas la tuya.
+QUE SALIO ORAL HOY (A1 M8 p.99-102 + M9 p.111-113, aplicacion):
+las tres formas del presente bajo carga (afirmativo con -s, negativo con
+doesn't mas base, pregunta con Does mas short answer). MY STORY piece 5 dicha
+en voz alta. Y salio HAS en su boca sin que nadie lo explicara.
+3 ERRORES frescos de hoy (cita literal, SIN nombre aqui; nombres en mi reporte):
+1. ____________________  2. ____________________  3. ____________________
+Patrones orales oidos: (a) -s caida en tercera persona ("she start / he check") ·
+(b) doble marca ("does she works") · (c) "he don't" · (d) verbo base olvidado
+tras don't / doesn't · (e) "he haves / she have".
+QUE QUEDA PENDIENTE del modulo: ________________________________________
+Conteo de la simulacion (+S OK / BASE OK / BROKEN): ____ / ____ / ____
+YA QUEDO HECHO HOY, NO LO REPITAS: las tres formas HABLADAS · el zone walk de
+TRES zonas por tipo de frase · MY STORY piece 5 · chequeo de portafolio con
+lista (videos que NO llegaron: ______________). La tabla do/does quedo lockeada
+en Cl 5 y NO vuelve al tablero: hoy se aplico, no se re-explico.
+ESCENARIO DE SIMULACION QUE USE HOY — NO LO REPITAS: "NEW-HIRE ROUTINE
+BRIEFING" (empleado nuevo mas team lead, recorrido de la oficina caminando).
+TU CLASE SELLA EN PAPEL LA CAPA QUE FALTA: have -> HAS (A1 M17, Guia 1 p.211;
+ejemplos p.212) mas los TRES SONIDOS de la -s (A1 M9, Guia 1 punto 4, p.112).
+El do/does NO se re-explica. Y tienes material listo: el papel de 12 lineas que
+dejo Gramatica Cl 5 sigue en su cuaderno.
+TAREA ESCRITA: la asignas TU. Yo hoy deje SOLO el video.
+Firma Conv: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + briefing) ☐ PASE entregado ☐ Portafolio anotado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado
 
 [PAGEBREAK]
 
-## ANEXO — VERBATIM DEL LIBRO + PLAN B (apoyo, no leer completo en clase)
+## ANEXO — verbatim del libro + Plan B (no leer en clase)
 
-**A1 Book — Modulo 8 "Where Do We Eat? / The Simple Present" (p.99-102) + Modulo 9 "He Eats in the Restaurant / The Simple Present – Affirmative Exception" (p.111-113):**
+**A1 Book, Modulo 8 "Where Do We Eat? / The Simple Present" (p.99-102) mas Modulo 9 "He Eats in the Restaurant / The Simple Present – Affirmative Exception" (p.111-113):**
 ```
 Auxiliar do / does = presente (acciones habituales).
-  I / you / we / they -> DO      he / she / it -> DOES
-Negativo: don't / doesn't + verbo BASE.
-Pregunta: Do / Does + sujeto + verbo BASE?
-AFIRMATIVO (regla especial, M9): en el afirmativo se OMITE do/does.
-  Con "do": no hay otro cambio.   "I (do) play soccer." -> "I play soccer."
-  Con "does": al quitar "does", se corre la -s / -es al verbo.
-  "He (does) live in Bogota." -> "He LIVES in Bogota."
-  "She (does) eat here." -> "She EATS here."
-have -> HAS (M17, Guia 1 p.211): "He HAS a car." (nunca "haves").
+   I / you / we / they -> DO        he / she / it -> DOES
+Negativo: don't / doesn't mas verbo BASE.
+Pregunta: Do / Does mas sujeto mas verbo BASE?
+Respuestas cortas: "do / don't", "does / doesn't".
+AFIRMATIVO (regla especial, M9): en el afirmativo se OMITE do / does.
+   Con "do": no hay otro cambio.  "I (do) play soccer." -> "I play soccer."
+   Con "does": al quitarlo, se corre la -s / -es al verbo.
+   "He (does) live in Bogota." -> "He LIVES in Bogota."
+   "She (does) eat here." -> "She EATS here."
+have -> HAS (A1 M17, Guia 1 p.211): "He HAS a car." (nunca "haves").
 ```
-**Plan B (si el grupo llega cansado o cubre un suplente):** reduce el Bloque 3 a 2 rotaciones y usa la cadena de tercera persona ("he / start -> he starts") como drill de cierre. La estructura de 4 bloques se mantiene. Todo se genera en tablero + cuaderno del estudiante; cero material impreso.
+**Por que HAS no se ensena hoy:** es la capa que formaliza Gramatica Cl 6, junto con los tres sonidos de la -s (M9, Guia 1 punto 4, p.112). Hoy solo se deja aparecer en su boca. Si alguien pregunta la regla: *"At ten o'clock, in Grammar. This morning, just say it."*
 
-## NOTA INTERNA (no leer en clase)
+**Plan B (cero material, todo tablero o voz):**
+- **Zone walk de tres zonas atascado:** bajas a dos zonas (`+S` vs `BASE`) y la pregunta queda como cadena oral sin caminar. Mejor dos zonas limpias que tres borrosas.
+- **Simulacion que no arranca:** ronda de pie — cada uno dice 1 frase de su jornada y 1 frase de la jornada de la persona de su derecha; luego una negativa del equipo. Tu sigues fuera del rol.
+- **Grupo pequeno hoy:** 2 rotaciones largas y los minimos por rotacion suben a 8 frases y 4 preguntas.
+- **Grupo incompleto a las 8:00:** arrancas igual, registras la llegada tarde, el que llega se integra al drill sin repetirle nada.
+- **Sobra tiempo:** "three-form duel" — dices un sujeto mas un verbo, el grupo produce las tres formas en coro en orden; el que falla la usa en una frase verdadera de su trabajo.
 
-- Modulo ancla HOY = A1 Book M8 (p.99-102) + M9 (p.111-113) + have/has M17 (Guia 1 **p.211**; p.209 es portada y p.210 vocabulario — cita corregida). Conv lo APLICA oralmente; Grammar HOY solo formaliza la capa nueva (HAS + los 3 sonidos de la -s), porque do/does quedo lockeado en Cl 5. NO enseñar la tabla completa en Conv.
-- El libro presenta la regla de -s como REGLA DE PRONUNCIACION (-s/-es segun el ultimo sonido); NO trae regla de ortografia "-y -> -ies" para el presente. NO enseñarla como regla del libro (SUPUESTO DE PLANEACION — verificar si Diana quiere incluirla).
-- Virtud Cl 6-10 = TEMPLANZA v1 (calendario absoluto por numero de clase). Hoy dia 1 ABRE. Cl 5 cerro PRUDENCIA v1.
-- Recuperacion: Cl 6 solo tiene N-3 (Cl 3 = should/shouldn't + numbers); N-7 no existe (Cl -1). Sin mapa semanal de tickets aun — NO citar tickets.
-- Proyecto MY STORY vivo (P7): hoy solo una linea de tarea; el avance visible crece hacia el midterm (Cl 22).
-- Cl 22 = Midterm (integrado en guia Cl 1). Cl 44 = Final por evaluador externo. NO comunicar notas — coordinacion.
-- PASE bidireccional Conv <-> Grammar: Conv abre el dia oral; Grammar formaliza hoy; Grammar devuelve PASE para Cl 7. Profe sin material preparado.
+## NOTA INTERNA PARA COORDINACION (no se lee en clase)
+
+- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/CONVERSACION/B1_Clase6_CONV_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), Conv 8:00-10:00 primero y Grammar 10:00-12:00 despues, el MISMO dia · PASE Conv -> Grammar en papel a las 10:00 y Grammar -> Conv para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion). Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
+- **VIRTUD NUEVA: hoy ABRE TEMPLANZA** (Cl 6-10 de cada pista, calendario absoluto por numero de clase de cada pista; no se desplaza por festivos ni cancelaciones). El VATS de hoy la **presenta** — nombre, que significa, como se ve en este salon, la conexion con el contenido del dia y el porque en una frase — y responde a "y esto que tiene que ver con ingles". Grammar Cl 6 es tambien Cl 1 de 5 en SU pista y por doctrina del cohorte tambien la presenta, con otro angulo (el PASE se lo indica por escrito para que no repita palabra por palabra). PRUDENCIA cerro en Cl 5 de cada pista.
+- **Recuperacion de esta pista:** N-3 = **Conv Cl 3** (should / shouldn't mas numeros, A1 M4 y M5). **N-7 no existe aun** (seria Conv Cl -1), asi que el segundo bloque de disparadores sale del PASE recibido. Sin mapa semanal de tickets todavia: NO citar tickets.
+- **Anti-duplicado:** el B3 de hoy (NEW-HIRE ROUTINE BRIEFING, onboarding caminando la sala) queda escrito dentro del PASE para que Gramatica Cl 6 no lo repita; su B3 usa otro escenario (comparacion de dos modelos en un showroom).
+- **Arranque de la marcha del libro:** el puente A1/A2 cerro en Cl 5. Cl 6 no introduce modulo nuevo en Conversacion: **exprime el presente completo en las tres formas** para que Gramatica Cl 6 pueda cerrar la capa que falta (HAS mas los tres sonidos) sin re-explicar do/does. Frontera respetada tal cual la fija la guia 4H anterior.
+- **El libro trata la -s como regla de PRONUNCIACION** (M9 punto 4) y **no trae** "-y -> -ies" como regla de ortografia para el presente: no se ensena como regla del libro. `SUPUESTO DE PLANEACION — verificar`: heredado de la guia 4H anterior, ya marcado alli.
+- **Proyecto MY STORY, MY GOALS:** piece 5 dicha en clase y grabada en el video de hoy (*"what I do now to build my English"* mas un habito que todavia no sostiene). Se defiende en el panel de la Cl 43; midterm Cl 22. **El profe no comunica notas ni resultados.**
