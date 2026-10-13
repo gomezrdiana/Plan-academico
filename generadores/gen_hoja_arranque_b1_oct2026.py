@@ -55,7 +55,7 @@ h('2. Lo que cambia para los estudiantes — y cómo se les dice el primer día'
 p('Los B1 vienen de un nivel con otro ritmo. Que sientan el cambio desde el minuto uno es intencional: este nivel es más exigente y se dice de frente, como parte de la formación, no como amenaza. **Cristian lo dice a las 8:00 del martes, antes de abrir la guía (3 minutos, en español); Danna lo repite en una frase a las 10:00.** Guion sugerido:')
 caja('"Bienvenidos a B1. Les voy a decir desde ya cómo funciona este nivel, para que nadie se sorprente en la semana dos.\n'
      'Uno: aquí se habla inglés todo el tiempo. Desde hoy. Si se equivocan, los corregimos y lo vuelven a decir; para eso vinieron.\n'
-     'Dos: el video diario no es opcional. Todos los días, mínimo 3 minutos hablando de corrido, sin leer, al grupo de WhatsApp antes de la medianoche. Lo vemos antes de clase y cada uno recibe una corrección. Es su clase particular.\n'
+     'Dos: el video diario no es opcional. Todos los días, mínimo 3 minutos hablando de corrido, sin leer, al grupo de WhatsApp antes de las 7:00 p.m. del mismo día. Lo vemos antes de clase y cada uno recibe una corrección. Es su clase particular.\n'
      'Tres: la clase empieza a las 8:00 en punto. Después de las 8:15 cuenta como llegada tarde, y tres llegadas tarde son una inasistencia.\n'
      'Cuatro: tienen una garantía por escrito, y esa garantía tiene condiciones: 80% de asistencia, 90% de tareas con el video diario incluido, y presentar todas las evaluaciones. Las tres se verifican en los registros de la academia.\n'
      'Va a sentirse duro. Es porque es rápido, y es rápido porque es intenso. De notas y resultados no hablo yo: eso es coordinación. De todo lo demás, cuenten conmigo todos los días."')
@@ -85,7 +85,7 @@ p('**Cómo saldrán:** al computador de la academia solo van la grabación de en
 
 h('5. Añadidos a la Cl 1 (no están escritos en las guías; se hacen igual)')
 for t in ['**Conversación Cl 1, Bloque 1, al anunciar el cronograma:** agrega que el examen final de la Cl 44 **lo aplica un evaluador externo**, no la docente, y di una sola vez las tres condiciones de la garantía (80% asistencia · 90% tareas con el video diario · todas las evaluaciones, incluida la grabación de entrada de hoy). De formato de examen, notas o resultados no se habla: es coordinación.',
-          '**Conversación Cl 1, tarea:** donde la guía dice "PORTFOLIO audio #1 — 2 min", es **VIDEO de 3 minutos**, al grupo de WhatsApp del cohorte, antes de la medianoche. En todas las clases es video, no audio.',
+          '**Conversación Cl 1, tarea:** donde la guía dice "PORTFOLIO audio #1 — 2 min", es **VIDEO de 3 minutos**, al grupo de WhatsApp del cohorte, antes de las 7:00 p.m. del mismo día. En todas las clases es video, no audio.',
           '**Conversación Cl 1, Bloque 4 (Carta a Mi Yo del Futuro):** la hacen solo los B1. Los B2, en esos 12 minutos, escriben su ticket de salida y, si sobra tiempo, una frase de consejo en inglés para un B1 (no se lee en voz alta; se entrega con los tickets).',
           '**Gramática Cl 1, Bloque 1:** el chequeo de "llegó el video No. 1" no aplica el martes (todavía no hay tarea). Aplica desde el miércoles: Cristian ve los videos antes de las 8:00 y le dice a cada B1 su mejora en 5 segundos.']: li(t)
 
