@@ -385,15 +385,16 @@ COHORTES = [
                 '44 clases, 175 horas · Fecha de inicio: lo define coordinación'),
         sec1_titulo='1. DOS PISTAS, DOS DOCENTES, EL MISMO DÍA',
         sec1_intro=('Cada día de B1 Mastery son DOS clases seguidas de 110 minutos, con dos docentes distintos y una pausa entre '
-                    'ellas. Conversación va primero, Gramática va segundo, siempre en ese orden, y cada docente recibe '
-                    'únicamente la guia de su pista.'),
+                    'ellas. El orden de los dos bloques lo fija coordinación para cada cohorte (en el diseño base Conversación va primero; '
+                    'si un cohorte arranca con Gramática, el PASE va del bloque que termina al que empieza y lo que la guía llama '
+                    '"esta mañana" se lee "ayer"). Cada docente recibe únicamente la guia de su pista.'),
         sec1_tabla=[
             ['Pista', 'Docente (lo asigna coordinación)', 'Cuándo', 'Qué hace'],
-            ['CONVERSACIÓN', 'Docente de Conversación', 'PRIMERO: las 2 primeras horas',
+            ['CONVERSACIÓN', 'Docente de Conversación', '2 horas (el orden lo fija coordinación)',
              'Produce ORAL el módulo del día: historia, parejas, simulación profesional, avance del proyecto. No enseña la '
              'regla en papel.'],
-            ['GRAMÁTICA', 'Docente de Gramática', 'SEGUNDO: las 2 últimas horas del mismo día',
-             'Sella EN PAPEL lo que salió oral esa mañana: regla del libro citada en el tablero, drill, ejercicio escrito y una '
+            ['GRAMÁTICA', 'Docente de Gramática', '2 horas, el mismo día',
+             'Sella EN PAPEL lo que salió oral en Conversación (ese día o el anterior, según el orden): regla del libro citada en el tablero, drill, ejercicio escrito y una '
              'simulación DISTINTA. Bloques 1 a 3 DE PIE: piso 70%, validado en 86%.'],
         ],
         sec1_anchos=[2.6, 3.4, 3.4, 7.6],
@@ -401,13 +402,13 @@ COHORTES = [
                      'Gramática. Nunca se piden dos escritas el mismo día.'),
         sec2_titulo='2. EL PASE ENTRE LOS DOS (lo que hace que esto funcione)',
         sec2=[
-            ('Conversación → Gramática, el mismo día: ',
+            ('Conversación → Gramática: ',
              'al terminar su bloque, el docente de Conversación escribe el PASE en 3 líneas — lo que salió bien, los 3 errores '
-             'más repetidos y qué quedó pendiente del módulo — y lo manda por el grupo antes de la pausa. Gramática lo lee '
-             'antes de entrar y abre con eso: "esto salió de sus bocas esta mañana; ahora lo sellamos en papel".'),
-            ('Gramática → Conversación, para el día siguiente: ',
-             'al cerrar la jornada, Gramática devuelve el PASE — qué quedó sellado y qué sigue frágil — y con eso '
-             'Conversación abre la mañana siguiente. Si el PASE va en una sola dirección, no está funcionando.'),
+             'más repetidos y qué quedó pendiente del módulo — y lo manda por el grupo al terminar. Gramática lo lee '
+             'antes de entrar a su siguiente bloque y abre con eso: "esto salió de sus bocas en Conversación; ahora lo sellamos en papel".'),
+            ('Gramática → Conversación: ',
+             'al cerrar su bloque, Gramática devuelve el PASE — qué quedó sellado y qué sigue frágil — y con eso '
+             'Conversación abre su siguiente bloque (el mismo día si Gramática va primero; la mañana siguiente si va segunda). Si el PASE va en una sola dirección, no está funcionando.'),
             ('Regla dura: ',
              'la simulación de Gramática NUNCA repite la de Conversación del mismo día. Mismo punto gramatical, escenario '
              'distinto. Si los estudiantes sienten que es "la misma clase otra vez", falló el PASE.'),
@@ -415,7 +416,7 @@ COHORTES = [
              'recuperación espaciada de la Clase N-3 y N-7 (3 a 5 disparadores orales, DE PIE, en cadena, sin cuaderno) y el error '
              'paper del día anterior al tablero, anónimo.'),
         ],
-        grabador='el docente de Conversación, que va primero',
+        grabador='el docente de Conversación, en la Clase 1 de su pista',
         video_min='3 minutos',
         hora_inicio='8:00',
         hora_tarde='8:15',
