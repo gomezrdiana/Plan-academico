@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 8/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 8/44 — GRAMMAR — HOJA DE RUTA
 
 **Sesion 8/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** A1 Book **M13 "We Play Hockey Twice a Week — Expressions of Frequency" (Guia 1 p.167; Ejercicios 1 p.168; rango p.165-169)** — ancla de hoy; la regla SE SELLA EN PAPEL

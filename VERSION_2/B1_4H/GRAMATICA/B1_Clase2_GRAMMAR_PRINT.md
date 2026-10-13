@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 2/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 2/44 — GRAMMAR — HOJA DE RUTA
 
 **Grammar 2/44 · 110 min · 10:00-12:00 · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Modulo ancla:** A2 Book **M17 "You Didn't, or You Haven't?" (p.163-167)** con el apoyo de **M16 "I Have Gone to Paris — The Present Perfect - Irregular" (p.147-150)** — hoy se CIERRA el modulo en papel

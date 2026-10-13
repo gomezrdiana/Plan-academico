@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 10/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 10/44 — CONV — HOJA DE RUTA
 
 **Sesion 10/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 35' + B3 40' + B4 15' = 110**
 **Modulo:** A1 Book **M16 "I Like It! — Object Pronouns" (Guia 1 p.199; ejemplos p.201; rango p.197-201)** — ancla de hoy; HOY SOLO USO ORAL

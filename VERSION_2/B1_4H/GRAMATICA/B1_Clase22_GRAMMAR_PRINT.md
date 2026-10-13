@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 22/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 22/44 — GRAMMAR — HOJA DE RUTA
 
 **Sesion 22/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** A2 Book **M16 "I Have Gone to Paris — The Present Perfect - Irregular" (p.147; Vocabulary p.148; Guide 1 p.149; Examples p.150)**; la regla SE SELLA EN PAPEL

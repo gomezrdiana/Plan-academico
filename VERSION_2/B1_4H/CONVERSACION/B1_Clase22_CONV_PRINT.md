@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 22/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 22/44 — CONV — HOJA DE RUTA
 
 **Sesion 22/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 25' + B3 50' + B4 15' = 110**
 **Modulo:** proyecto del nivel **MY STORY, MY GOALS** — integra el sistema del pasado (A2 Book **M12 p.99-102**; Libro B1 **M9 Guide 2 p.103-104**) y el present perfect regular (A2 Book **M15 p.133-135**); HOY SOLO USO ORAL

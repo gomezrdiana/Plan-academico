@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 8/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 8/44 — CONV — HOJA DE RUTA
 
 **Sesion 8/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Modulo:** A1 Book **M13 "We Play Hockey Twice a Week — Expressions of Frequency" (Guia 1 p.167; ejemplos p.168; rango p.165-169)** — ancla de hoy; HOY SOLO USO ORAL

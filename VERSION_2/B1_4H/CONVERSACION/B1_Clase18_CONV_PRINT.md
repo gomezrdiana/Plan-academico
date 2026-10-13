@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 18/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 18/44 — CONV — HOJA DE RUTA
 
 **Sesion 18/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 35' + B3 40' + B4 15' = 110**
 **Modulo:** Libro B1 **M9 "More About Perfect Tenses" (p.97) — Guide 2 "The Past Perfect" (p.103; Examples p.104)**, con los participios del A2 Book **M15 (p.133-134)** y **M16 (tabla p.148)**; HOY SOLO USO ORAL

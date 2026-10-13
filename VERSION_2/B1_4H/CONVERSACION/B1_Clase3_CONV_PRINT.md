@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 3/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 3/44 — CONV — HOJA DE RUTA
 
 **Sesion 3/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Modulo ancla:** A1 Book **M4 "Where Should We Live? — Giving Recommendations" (p.41-44)** + A1 Book **M5 "Numbers to 100 — Los Numeros, las Horas y los Precios" (p.61-64)** — hoy solo USO ORAL

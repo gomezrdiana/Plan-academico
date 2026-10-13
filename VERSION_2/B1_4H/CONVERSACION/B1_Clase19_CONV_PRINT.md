@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 19/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 19/44 — CONV — HOJA DE RUTA
 
 **Sesion 19/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Modulo:** CLINICA ORAL del sistema del pasado, sin regla nueva — consolida A2 Book **M12 "I Was Playing when My Mom Called" (p.99-102)** y Libro B1 **M9 Guide 2 "The Past Perfect" (p.103-104)**; HOY SOLO USO ORAL

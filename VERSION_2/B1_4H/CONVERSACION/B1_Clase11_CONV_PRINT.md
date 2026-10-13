@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 11/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 11/44 — CONV — HOJA DE RUTA
 
 **Sesion 11/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Modulo:** A2 Book **M12 "I Was Playing when My Mom Called — Past Simple vs. Past Continuous" (p.99-102)** — hoy la mitad PASADO SIMPLE REGULAR, con la regla de pronunciacion del A1 Book **M10 "What Time Did You Arrive?" (Guia 1 p.125)**; HOY SOLO USO ORAL

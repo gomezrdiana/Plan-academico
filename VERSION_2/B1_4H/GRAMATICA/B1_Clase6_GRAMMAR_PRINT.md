@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 6/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 6/44 — GRAMMAR — HOJA DE RUTA
 
 **Sesion 6/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo ancla:** A1 Book **M17 "Do You Have Any Pizza?" — have -> HAS (Guia 1 p.211; ejemplos p.212)** + A1 Book **M9 Guia 1, punto 4 — los tres sonidos de la -s (p.112)**

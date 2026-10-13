@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 21/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 21/44 — GRAMMAR — HOJA DE RUTA
 
 **Sesion 21/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** A2 Book **M15 "I Have Visited London — The Present Perfect – Regular Verbs" (p.133; Guide 1 p.134; Examples p.135; Exercises 1 p.136)**; la regla SE SELLA EN PAPEL

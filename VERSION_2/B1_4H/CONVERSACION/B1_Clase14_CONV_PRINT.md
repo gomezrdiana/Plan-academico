@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 14/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 14/44 — CONV — HOJA DE RUTA
 
 **Sesion 14/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Modulo:** A2 Book **M12 "I Was Playing when My Mom Called" — Examples (p.101)** con el vocabulario de tiempo del A1 Book **M32 "Diego Was Sick Yesterday" (Vocabulario p.360: yesterday, last night, last week, last month, last year...)** y el A2 Book **M2 Guide 1 (p.15: IN + mes / año)**; HOY SOLO USO ORAL

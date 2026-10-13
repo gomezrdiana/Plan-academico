@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 3/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 3/44 — GRAMMAR — HOJA DE RUTA
 
 **Sesion 3/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo ancla:** A1 Book **M4 "Where Should We Live? — Giving Recommendations" (p.41-46)** + A1 Book **M5 "Numbers to 100 — Los Numeros, las Horas y los Precios" (p.61-67)** — hoy se SELLA EN PAPEL

@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 9/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 9/44 — GRAMMAR — HOJA DE RUTA
 
 **Sesion 9/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** A1 Book **M15 "I Love My Parents — The Possessive Adjectives" (Guia 1 p.189; ejemplos y Ejercicios 1 p.190; rango p.187-196)** mas **M30 "When Is Juan's Birthday? — The Possessive Case" (Guia 1 p.335; Ejemplos 1 p.336)** — ancla de hoy; la regla SE SELLA EN PAPEL

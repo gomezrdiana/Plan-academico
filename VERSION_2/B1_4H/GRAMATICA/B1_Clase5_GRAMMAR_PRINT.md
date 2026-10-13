@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 5/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 5/44 — GRAMMAR — HOJA DE RUTA
 
 **Sesion 5/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo ancla:** A1 Book **M8 "Where Do We Eat?" (p.99-101, Simple Present do/does)** + **M9 "He Eats in the Restaurant" (p.111-113, 3a persona -s)** — hoy la regla SE SELLA EN PAPEL

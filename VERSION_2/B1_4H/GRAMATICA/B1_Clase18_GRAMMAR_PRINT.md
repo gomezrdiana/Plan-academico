@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 18/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 18/44 — GRAMMAR — HOJA DE RUTA
 
 **Sesion 18/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** Libro B1 **M9 "More About Perfect Tenses" (p.97) — Guide 2 "The Past Perfect" (p.103), Examples (p.104), Exercises (p.105)**; participios del A2 Book **M15 (Guia 1 p.134)** y **M16 (Vocabulary p.148)**; la regla SE SELLA EN PAPEL

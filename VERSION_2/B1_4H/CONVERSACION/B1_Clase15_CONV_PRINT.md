@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 15/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 15/44 — CONV — HOJA DE RUTA
 
 **Sesion 15/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Modulo:** A2 Book **M12 "I Was Playing when My Mom Called — Past Simple vs. Past Continuous" (p.99-102)** — hoy la mitad PASADO CONTINUO, **Guide 1 punto 1 (p.100; Examples p.101)**, con el was / were del A1 Book **M32 Guia 1 (p.361)**; HOY SOLO USO ORAL

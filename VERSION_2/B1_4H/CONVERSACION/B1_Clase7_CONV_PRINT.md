@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 7/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 7/44 — CONV — HOJA DE RUTA
 
 **Sesion 7/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Modulo ancla:** A1 Book **M12 "How Often do You Play Soccer?" — Adverbs of Frequency (p.153-158)** — hoy solo USO ORAL

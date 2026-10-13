@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 20/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 20/44 — CONV — HOJA DE RUTA
 
 **Sesion 20/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 35' + B3 40' + B4 15' = 110**
 **Modulo:** DOMINIO DEL PASADO, sin regla nueva — las cinco formas en UNA historia: A2 Book **M12 (p.99-102)**, el pasado simple del A1 Book **M10-M11** y Libro B1 **M9 Guide 2 (p.103-104)**; HOY SOLO USO ORAL

@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 2/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 2/44 — CONV — HOJA DE RUTA
 
 **Conv 2/44 · 110 min · 8:00-10:00 · Bloques: B1 25' + B2 35' + B3 25' + B4 25' = 110**
 **Modulo ancla:** A2 Book **M17 "You Didn't, or You Haven't? — The Present Perfect vs The Simple Past" (p.163-165)** — capa 2, hoy solo USO ORAL

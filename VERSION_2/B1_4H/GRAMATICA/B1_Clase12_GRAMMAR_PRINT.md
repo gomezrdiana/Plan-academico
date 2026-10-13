@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 12/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 12/44 — GRAMMAR — HOJA DE RUTA
 
 **Sesion 12/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** A2 Book **M12 "I Was Playing when My Mom Called — Past Simple vs. Past Continuous" (p.99-102)** — hoy la mitad PASADO SIMPLE IRREGULAR, sellada con el A1 Book **M11 "She Ate in the Restaurant" (Guia 1 p.143; Ejemplos p.144)**; la regla SE SELLA EN PAPEL

@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 1/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 1/44 — GRAMMAR — HOJA DE RUTA
 
 **Grammar 1/44 · 110 min · 10:00-12:00 · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Modulo ancla:** A2 Book **M17 "You Didn't, or You Haven't? — The Present Perfect vs The Simple Past" (p.163-165)** — hoy la regla SE SELLA EN PAPEL

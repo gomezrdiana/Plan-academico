@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 4/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 4/44 — GRAMMAR — HOJA DE RUTA
 
 **Sesion 4/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo ancla:** A1 Book **M6 "What Time Will You Eat Lunch? — The Simple Future" (p.71-76)** + preposiciones de tiempo **AT / ON / IN** (A1 M29 p.327 · A2 M1 p.3 · A2 M2 p.15) — hoy se SELLA EN PAPEL

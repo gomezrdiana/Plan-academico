@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 13/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 13/44 — GRAMMAR — HOJA DE RUTA
 
 **Sesion 13/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** A1 Book **M10 "What Time Did You Arrive?" — Guia 1, puntos 2, 4 y 5 (p.125; Ejemplos p.126)** con el A1 Book **M11 Guia 1, punto 3 (p.143)** y los Examples del A2 Book **M12 (p.101)**; la regla SE SELLA EN PAPEL

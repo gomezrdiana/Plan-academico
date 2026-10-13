@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 17/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 17/44 — GRAMMAR — HOJA DE RUTA
 
 **Sesion 17/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** A2 Book **M12 "I Was Playing when My Mom Called — Past Simple vs. Past Continuous" (p.99-102)** — hoy el modulo COMPLETO por escrito (Guide 1 puntos 1 y 2, p.100; Examples p.101), con todo el pasado de Cl 11-16; sin regla nueva; la historia SE CONSTRUYE EN PAPEL

@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 20/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 20/44 — GRAMMAR — HOJA DE RUTA
 
 **Sesion 20/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** DOMINIO DEL PASADO, sin regla nueva — consolida A2 Book **M12 (p.99-102)**, los participios de **M15 (p.134) / M16 (p.148)**, el pasado simple del A1 Book **M10-M11** y Libro B1 **M9 Guide 2 (p.103-104)**; las cinco formas SE SELLAN EN PAPEL, etiquetadas

@@ -1,4 +1,4 @@
-# B1 MASTERY — Cl 15/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 15/44 — GRAMMAR — HOJA DE RUTA
 
 **Sesion 15/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** A2 Book **M12 "I Was Playing when My Mom Called — Past Simple vs. Past Continuous" (p.99-102)** — hoy **Guide 1 punto 1 (p.100): el punto contra la linea; Examples p.101**, con el was / were del A1 Book **M32 Guia 1 (p.361)** y el -ING del A1 Book **M33 Guia 1 (p.377)**; la regla SE SELLA EN PAPEL
