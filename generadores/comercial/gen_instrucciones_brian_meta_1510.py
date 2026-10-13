@@ -29,40 +29,26 @@ def tabla(rows):
     d.add_paragraph().paragraph_format.space_after = Pt(2)
 
 p = d.add_paragraph(); r = p.add_run('META ADS — ESTRUCTURA 15 AL 31 DE OCTUBRE 2026'); r.bold = True; r.font.size = Pt(15); r.font.color.rgb = NAR
-para('Para el trafficker. Basado en documentación oficial de Meta y evidencia publicada (investigación interna 08/10/2026). Presupuesto total: $70.000/día. Objetivo del periodo: saber cuál de los 8 videos nuevos trae citas más baratas, y dejar de perder leads de formulario que no contestan.', color=GRIS, size=9.5, after=8)
+para('Para el trafficker. Basado en documentación oficial de Meta y evidencia publicada (investigación interna 08/10/2026). Presupuesto total: $70.000/día. Arranca el jueves 15 con los 3 videos que ya están (V1, V3, V4); los demás entran en el corte del 22/10 (ver sección 9). Objetivo del periodo: saber cuál de los videos nuevos trae citas más baratas, y dejar de perder leads de formulario que no contestan.', color=GRIS, size=9.5, after=8)
 
-h('1. Campañas (tres, no más)')
+h('1. Campañas (tres, no más) — con lo que hay hoy')
 tabla([
- ['Campaña', 'Objetivo y destino', 'Conjunto (uno solo)', '$/día', 'Anuncios'],
- ['HEIIU_CTWA_BGA_1510', 'Clientes potenciales → Apps de mensajería → WhatsApp. Meta de rendimiento: "Clientes potenciales" si aparece en la cuenta; si no, "Conversaciones". NUNCA Tráfico.', 'CTWA_BGA_ADV: Bucaramanga + radio que cubra el área metropolitana (Floridablanca, Girón, Piedecuesta), 18-45, Advantage+ audiencia, Advantage+ ubicaciones.', '$45.000 (hasta el 21/10 puede subir a $55.000 tomando del control)', 'Los 8 videos, UN anuncio por video. Nombres: V1_VIDEODEHOY, V2_CLASE, V3_575H, V4_VACANTE, V5_PASAPORTE, V6_GARANTIA, V7_NOESFACIL, V8_PADRES.'],
- ['HEIIU_FORM_CONTROL_1510', 'Clientes potenciales → Formulario instantáneo tipo "MAYOR INTENCIÓN" (no "más volumen").', 'Misma segmentación.', '$15.000', 'Los 2-3 videos que mejor gancho tengan del 15 al 18/10.'],
- ['HEIIU_RTG_GARANTIA_2210', 'Clientes potenciales → WhatsApp.', 'Audiencia: vieron el 50% de cualquier video (30 días) + interactuaron con IG/FB (30 días). Excluir lista de inscritos y de citas agendadas. Solo si la audiencia pasa de ~1.000 personas.', '$10.000 desde el 22/10', 'V6_GARANTIA y V7_NOESFACIL.'],
+ ['Campaña', 'Objetivo y destino', 'Conjunto (uno solo)', '$/día', 'Anuncios desde el 15/10'],
+ ['HEIIU_CTWA_BGA_1510', 'Clientes potenciales → Apps de mensajería → WhatsApp. Meta de rendimiento: "Clientes potenciales" si aparece en la cuenta; si no, "Conversaciones". NUNCA Tráfico.', 'CTWA_BGA_ADV: Bucaramanga + radio que cubra el área metropolitana (Floridablanca, Girón, Piedecuesta), 18-45, Advantage+ audiencia, Advantage+ ubicaciones.', '$55.000 hasta el 21/10 (toma $10.000 del control); $45.000 desde el 22', 'TRES anuncios, uno por video: V1_VIDEODEHOY, V3_575H, V4_VACANTE. Los que falten se agregan SOLO en el corte del 22/10.'],
+ ['HEIIU_FORM_CONTROL_1510', 'Clientes potenciales → Formulario instantáneo tipo "MAYOR INTENCIÓN" (no "más volumen").', 'Misma segmentación.', '$15.000', 'V3_575H y V4_VACANTE (los dos de profe). Se revisa en el corte del 22.'],
+ ['HEIIU_RTG_GARANTIA_2210', 'Clientes potenciales → WhatsApp.', 'Audiencia: vieron el 50% de cualquier video (30 días) + interactuaron con IG/FB (30 días). Excluir lista de inscritos y de citas agendadas. Solo si la audiencia pasa de ~1.000 personas.', '$10.000 desde el 22/10', 'V6_GARANTIA (cuando llegue regrabado) y V7_NOESFACIL (cuando llegue). Hasta entonces, no se crea.'],
 ])
-para('Por qué un solo conjunto con 8 anuncios y no un conjunto por video: Meta necesita ~50 eventos de optimización por semana por conjunto para salir de la fase de aprendizaje; con este presupuesto, ocho conjuntos no aprenden nunca. La lectura por video se hace a nivel de anuncio (desglose por anuncio) y con el código del mensaje prellenado.', size=9.5, color=GRIS)
+para('Por qué un solo conjunto con todos los anuncios y no un conjunto por video: Meta necesita ~50 eventos de optimización por semana por conjunto para salir de la fase de aprendizaje; con este presupuesto, ocho conjuntos no aprenden nunca. La lectura por video se hace a nivel de anuncio (desglose por anuncio) y con el código del mensaje prellenado.', size=9.5, color=GRIS)
 
-h('2. Cada anuncio de WhatsApp lleva su mensaje prellenado con código')
-para('El mensaje que el lead envía al tocar el botón es distinto por anuncio y lleva el código entre paréntesis. Es la única forma de saber qué video trajo cada cita sin desarrollador. Ejemplos:')
-for t in ['V1_VIDEODEHOY → "Hola, vi el video del antes y después (V1). Quiero saber más."',
-          'V3_575H → "Hola, vi el video de los 7 meses (V3). ¿Qué jornada me sirve?"',
-          'V5_PASAPORTE → "Hola, quiero prepararme en inglés para Au Pair / irme (V5)."',
-          'V6_GARANTIA → "Hola, vi el video de la garantía (V6). ¿Me muestran el contrato?"']:
-    para('• ' + t, after=2)
+h('2. Los 3 anuncios de hoy: código, archivo y mensaje prellenado')
+para('El mensaje que el lead envía al tocar el botón es distinto por anuncio y lleva el código entre paréntesis. Es la única forma de saber qué video trajo cada cita sin desarrollador. El nombre del anuncio en Meta = el código.')
+tabla([
+ ['Código (nombre del anuncio)', 'Guion', 'Archivo', 'Mensaje prellenado del botón de WhatsApp'],
+ ['V1_VIDEODEHOY', 'Llegué sin una palabra (estudiante)', 'V1_VIDEODEHOY_A_30s.mp4', 'Hola, vi el video del antes y después (V1). Quiero saber más.'],
+ ['V3_575H', 'Siete meses (profe)', 'V3_575H_30s.mp4', 'Hola, vi el video de los 7 meses (V3). ¿Qué jornada me sirve?'],
+ ['V4_VACANTE', 'La vacante (profe)', 'V4_VACANTE_30s.mp4', 'Hola, vi el video de la vacante (V4). Necesito el inglés para el trabajo.'],
+])
 para('Nada de precio ni de "quiero información" en el prellenado: el agente necesita un motivo para arrancar la conversación.', size=9.5, color=GRIS)
-h('2-bis. Los 9 anuncios: código, archivo y mensaje prellenado (tabla completa)')
-tabla([
- ['Código (nombre del anuncio)', 'Guion', 'Archivo 30 s', 'Mensaje prellenado del botón de WhatsApp'],
- ['V1_VIDEODEHOY', 'Llegué Sin Una Palabra', 'V1_VIDEODEHOY_A_30s.mp4', 'Hola, vi el video del antes y después (V1). Quiero saber más.'],
- ['V2_CLASE', 'Esto Es Una Clase', 'V2_CLASE_30s.mp4', 'Hola, vi el video de la clase (V2). Quiero ver una por dentro.'],
- ['V3_575H', 'Siete Meses', 'V3_575H_30s.mp4', 'Hola, vi el video de los 7 meses (V3). ¿Qué jornada me sirve?'],
- ['V4_VACANTE', 'La Vacante', 'V4_VACANTE_30s.mp4', 'Hola, vi el video de la vacante (V4). Necesito el inglés para el trabajo.'],
- ['V5_PASAPORTE', 'El Pasaporte', 'V5_PASAPORTE_30s.mp4', 'Hola, quiero prepararme en inglés para Au Pair / irme (V5).'],
- ['V6_GARANTIA', 'Te Acompañamos (Y Te Lo Firmamos)', 'V6_GARANTIA_30s.mp4', 'Hola, vi el video del acompañamiento (V6). ¿Me muestran la garantía?'],
- ['V7_NOESFACIL', 'El Pacto', 'V7_NOESFACIL_30s.mp4', 'Hola, vi el video de lo que no prometen (V7). Voy en serio.'],
- ['V8_PADRES', 'El Año Después Del Colegio', 'V8_PADRES_30s.mp4', 'Hola, vi el video del año después del colegio (V8). Es para mi hijo/a.'],
- ['V9_CORRECCION', 'La Corrección Del Día', 'V9_CORRECCION_30s.mp4', 'Hola, vi la corrección del día (V9). Aquí va mi audio.'],
-])
-para('Recibidos a 13/10: V1 (A), V3 y V4 (y V6, que se regraba por un cambio de palabra). El resto llega el miércoles 14. Si el jueves no están los 9, se lanza con los que haya y los que falten entran en el corte del 22/10.', 9.5, GRIS)
-
 h('3. Formularios actuales')
 for t in ['• "Au Pair" ya quedó pausada el 08/10 (dato: de 7 citas por LaHaus, 4 vinieron de Curso Inglés, 2 de base de datos y 1 de Au Pair). "Curso Inglés" sigue al aire hasta que la campaña de WhatsApp esté activa el 15/10; ese día se pausa y la reemplaza el control con formulario "mayor intención".',
           '• El control nuevo (HEIIU_FORM_CONTROL_1510) se crea con tipo "MAYOR INTENCIÓN" (pantalla de confirmación de datos). Activar verificación del teléfono por SMS si está disponible en Colombia. Teléfono SIN autorrelleno.',
@@ -94,17 +80,32 @@ for t in ['• Hoja diaria (coordinación comercial): fecha · código V# · con
           '• Preguntar a LaHaus por escrito: (a) ¿guardan el identificador del anuncio (ctwa_clid / source_id) que llega en el primer mensaje? (b) ¿envían a Meta el evento de "cliente potencial" por la API de conversiones de mensajería? Si (a) es sí, pueden exportar las citas con el anuncio de origen y el código sobra.']:
     para(t, after=2)
 
-h('7. Qué hacer con el lead que no contesta (evidencia: HBR 2011, MIT 2007)')
-for t in ['• Contactar en la primera hora da 7 veces más probabilidad de calificar que una hora después, y 60 veces más que al día siguiente. Llamar en 5 minutos frente a 30 multiplica por 100 el contacto.',
-          '• Minuto 0-1: mensaje del agente. Antes de 5 minutos: LLAMADA humana (si el agente llama, que llame primero; si no, la asesora). Si no contesta, nota de voz de 15 segundos.',
-          '• Días 1-7: hasta 6 intentos alternando llamada y WhatsApp en horarios distintos. Texto con contenido solo después de haber hablado.',
-          '• Día 7: mensaje de cierre y pasa a la lista de retargeting.',
-          '• Indicador semanal: minutos hasta el primer contacto (meta ≤ 5) y % de contacto por fuente (formulario vs. WhatsApp).']:
+h('7. Qué hacer con el lead que no contesta (protocolo con la Ley 2300 de 2023; cadencia en revisión del abogado)')
+for t in ['• Lead que escribe por WhatsApp: el agente responde y perfila en segundos, a cualquier hora. NO llamadas de voz de la IA en frío (505 llamadas en el último informe dieron 2 citas y las 2 faltaron).',
+          '• Primer contacto humano = "llamada anunciada": la asesora escribe por la misma línea "¿te llamo ahora 5 minutos? te marco desde el 3xx…" y llama cuando el lead dice sí. Lead de FORMULARIO (no está chateando): llamada en menos de 5 minutos, y si no contesta, un mensaje.',
+          '• Horario legal: lunes a viernes 7:00 a.m.-7:00 p.m. y sábados 8:00 a.m.-3:00 p.m.; nunca domingos ni festivos. Fuera de ese horario el agente SOLO responde lo que el lead escriba; nada sale por iniciativa nuestra.',
+          '• Máximo 1 contacto por iniciativa de Heiiu al día por lead: día 0 (llamada anunciada), día 1 (mensaje de la asesora), día 3 (un reintento del agente), día 7 (despedida y silencio).',
+          '• Recordatorios de cita: 6:30 p.m. del día anterior y 1 hora antes solo si cae en horario legal.',
+          '• Indicador semanal: minutos hasta el primer contacto humano en horario (meta: 15 o menos) y % de contacto por fuente (formulario vs. WhatsApp).']:
     para(t, after=2)
 
 h('8. Lo que NO se hace')
 for t in ['Objetivo Tráfico para WhatsApp · un conjunto por video · formulario "más volumen" con autorrelleno · prometer empleo/visa/"garantizado en X meses" · retargeting con menos de ~1.000 personas · comparar costo por lead con benchmarks de EE. UU. o de blogs sin muestra (el nuestro es ~$10.800 por lead de formulario) · declarar ganador con menos de 5 citas · videos con avatares de IA (sin evidencia y contra la prueba real).']:
     para(t, after=2)
+
+h('9. Lo que falta y cuándo entra (para que no se pierda de vista)')
+tabla([
+ ['Código', 'Guion', 'Estado', 'Entra'],
+ ['V6_GARANTIA', 'Te acompañamos (coordinación, garantía)', 'Llegó, pero se REGRABA: decía "coach" y la palabra es "mentor" ("tu profe es tu mentor", también en el texto en pantalla)', 'Retargeting del 22/10'],
+ ['V2_CLASE', 'Esto es una clase (simulación real)', 'Falta (30 s)', 'Corte del 22/10'],
+ ['V5_PASAPORTE', 'El pasaporte (Au Pair / irse)', 'Falta (30 s)', 'Corte del 22/10'],
+ ['V7_NOESFACIL', 'El Pacto (profe a solas)', 'Falta (30 s)', 'Retargeting del 22/10'],
+ ['V8_PADRES', 'El año después del colegio (coordinación)', 'Falta (30 s)', 'Corte del 22/10'],
+ ['V9_CORRECCION', 'La corrección del día (10 min)', 'Falta (30 s)', 'Corte del 22/10'],
+ ['Todos', 'Versiones de 15 s + V1 versiones B y C', 'Faltan', 'Corte del 22/10'],
+])
+para('Prellenados de estos anuncios: V2 "Hola, vi el video de la clase (V2). Quiero ver una por dentro." · V5 "Hola, quiero prepararme en inglés para Au Pair / irme (V5)." · V6 "Hola, vi el video del acompañamiento (V6). ¿Me muestran la garantía?" · V7 "Hola, vi el video de lo que no prometen (V7). Voy en serio." · V8 "Hola, vi el video del año después del colegio (V8). Es para mi hijo/a." · V9 "Hola, vi la corrección del día (V9). Aquí va mi audio."', size=9.5, color=GRIS)
+para('Regla: los videos que lleguen entre el 15 y el 21 NO se agregan al conjunto activo (reinicia el aprendizaje). Entran todos juntos en el corte del 22/10.', size=9.5, color=GRIS)
 
 out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\campañas\INSTRUCCIONES_META_TRAFFICKER_2026-10-15.docx'
 try: d.save(out); print('OK', out)
