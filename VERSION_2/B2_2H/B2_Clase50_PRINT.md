@@ -27,25 +27,26 @@
    - **Si preguntan "¿y esto qué tiene que ver con inglés?":** *"Everything. Under pressure, nobody loses their English — they lose their pace. Pace is what we train."*
 4. **Vocab bank #50 — Self-assessment & Evidence (7', board, coro + frase propia):** *a case in point · to come a long way · a learning curve · a work in progress · to measure up (to) · hard evidence.* Cada estudiante usa 2 en una frase propia sobre su propio inglés de trabajo.
 5. **Trabalenguas (2', coro → 3 voluntarios a velocidad):** *"Zebras zig and zebras zag."* · *"Pirates' private property."* · *"Swan swam over the sea — swim, swan, swim!"*
-6. **Encuadre del midterm (3', en inglés, sin dramatismo):** *"Tonight, inside the class, each of you has five minutes with me. Two minutes: present your professional self — who you are, what you do, what you can handle now in English. Three minutes: I ask you questions about the work we've done since Class 21. One take, no notes. Everyone else listens. Then we go on with the class."* El orden de turnos se sortea en voz alta (dedos, números al aire); nadie elige su turno.
+6. **Encuadre del midterm (3', en inglés, sin dramatismo):** *"Tonight, inside the class, each of you has eight minutes with me. Five minutes: present your professional self — who you are, what you do, what you can handle now in English. Three minutes: I ask you questions about the work we've done since Class 21. One take, no notes. Everyone else listens. Then we go on with the class."* El orden de turnos se sortea en voz alta (dedos, números al aire); nadie elige su turno.
 
 > **Plan B:** si el Bloque 1 se estira, se recorta la recuperación a 3 disparadores y el ritual a V-A-C; el encuadre y el vocab bank no se sacrifican.
 
-## BLOQUE 2 — MIDTERM: THE FIVE-MINUTE PROFESSIONAL INTERVIEW (40') — DE PIE, UNO POR UNO
+## BLOQUE 2 — MIDTERM: THE EIGHT-MINUTE PROFESSIONAL INTERVIEW (40') — DE PIE, UNO POR UNO
 
-**Objective (di esta línea en inglés al abrir): "By the end of this block every one of you will have spoken for five minutes, with no notes, about your professional self — and answered questions you didn't see coming."**
+**Objective (di esta línea en inglés al abrir): "By the end of this block every one of you will have spoken for eight minutes, with no notes, about your professional self — and answered questions you didn't see coming."**
 
-1. **Montaje (se deja listo en el último minuto del Bloque 1):** el estudiante de turno DE PIE frente a la profesora (ella también de pie); el resto de pie o sentado al fondo del aula, en silencio. En el tablero solo esto: *"2 min: YOUR PROFESSIONAL SELF · 3 min: QUESTIONS · no notes."* La profesora cronometra.
-2. **Por turno (5' exactos por estudiante):**
-   - **0:00-2:00 — presentación:** el estudiante habla sin interrupción. Si se queda en blanco, la profesora espera 5 seg y da UNA pista neutra: *"Tell me about what you do on a normal workday."*
-   - **2:00-5:00 — tres preguntas de la profesora**, elegidas del banco, de TRES noches distintas, y nunca el mismo trío para dos estudiantes seguidos:
+1. **Montaje (se deja listo en el último minuto del Bloque 1):** el estudiante de turno DE PIE frente a la profesora (ella también de pie); el resto de pie o sentado al fondo del aula, en silencio. En el tablero solo esto: *"5 min: YOUR PROFESSIONAL SELF · 3 min: QUESTIONS · no notes."* La profesora cronometra.
+2. **Por turno (8' exactos por estudiante):**
+   - **0:00-5:00 — presentación:** el estudiante habla sin interrupción. Si se queda en blanco, la profesora espera 5 seg y da UNA pista neutra: *"Tell me about what you do on a normal workday."*
+   - **5:00-8:00 — tres preguntas de la profesora**, elegidas del banco, de TRES noches distintas, y nunca el mismo trío para dos estudiantes seguidos:
      *(a) "How long have you been doing your current job — and what's changed?" (Cl 21-22) · (b) "A client is angry about a late delivery. What do you say first?" (Cl 28-30) · (c) "We need a lower price. What can you offer?" (Cl 31-32) · (d) "Your deadline is impossible. Answer me." (Cl 33) · (e) "Tell me about a mistake at work and what you did next." (Cl 34) · (f) "Give me feedback on a colleague's report — one good thing, one to improve." (Cl 35) · (g) "Two colleagues disagree and both come to you. What do you do?" (Cl 36) · (h) "Sell me what you do in thirty seconds." (Cl 37) · (i) "Why should we give you more responsibility?" (Cl 39) · (j) "Three things break at once — which one first?" (Cl 40) · (k) "I'm covering your desk tomorrow. Hand it over." (Cl 42) · (l) "You're at a networking event. Introduce yourself and ask me one question." (Cl 44) · (m) "Your supplier failed. Renegotiate." (Cl 46) · (n) "Announce one change to your team." (Cl 48) · (o) "Teach me one rule of thumb from your job." (Cl 49) · (p) "What would have made you stay in your last job?" (Cl 47) · (q) "Give me one number from your work and its trend." (Cl 45)*
-   - **5:00 — corte en seco:** *"Thank you. Next."* Sin comentario, sin gesto de aprobación o desaprobación. La profesora llena la fila de ese estudiante en la rúbrica (30 seg) mientras pasa el siguiente.
+   - **8:00 — corte en seco:** *"Thank you. Next."* Sin comentario, sin gesto de aprobación o desaprobación. La profesora llena la fila de ese estudiante en la rúbrica (30 seg) mientras pasa el siguiente.
 3. **Los que esperan y los que ya pasaron (observers):** en silencio. Tarea de cada uno: anotar mentalmente UNA expresión de cualquier vocab bank que oyó bien usada — la dirán en el Bloque 3. **No opinan sobre el desempeño de nadie** y nadie compara turnos. Nadie graba el midterm.
+4. **Plan B de capacidad:** 40' alcanzan para 5 estudiantes. Con 6-8, el midterm continúa en los primeros minutos del Bloque 3 (que se recorta en lo que haga falta); nunca se recorta el tiempo de un estudiante.
 
 **RÚBRICA DEL MIDTERM — la llena la profesora en esta hoja y se entrega a coordinación esta noche:**
 ```
-C1 Fluidez y desarrollo (2 min sin notas, respuestas
+C1 Fluidez y desarrollo (5 min sin notas, respuestas
    desarrolladas)
 C2 Precision en uso (estructuras Cl 21-49)
 C3 Vocabulario profesional (sets #21-#49)
@@ -117,8 +118,8 @@ TIME: 45-60 min. Complete, not in pieces.
 
 ## NOTA INTERNA (no leer en clase)
 
-- **Midterm integrado (regla 31/05: eventos dentro de la guía del día):** 5 min por persona en el Bloque 2; el resto de la noche es regular. La profesora aplica y registra con la rúbrica de 4 criterios; **NO comunica resultados ni pronósticos** — coordinación. La rúbrica viaja con el reporte esta misma noche. Ausentes: coordinación decide.
-- `SUPUESTO DE PLANEACIÓN — verificar:` el syllabus del cohorte dice *"Cl 50 MIDTERM (presentación de 5 minutos)"*; el PLAN_CL42_51 dice *"entrevista profesional integrada"*. Se combinan: **2 min de presentación + 3 min de preguntas** del banco Cl 21-49. Confirmar con Diana el reparto y la escala 1-4 de la rúbrica (no existe formato oficial de examen por nivel — ver lista viva de alineación exámenes/guías).
+- **Midterm integrado (regla 31/05: eventos dentro de la guía del día):** 8 min por persona (5 de presentación + 3 de preguntas) en el Bloque 2; el resto de la noche es regular. La profesora aplica y registra con la rúbrica de 4 criterios; **NO comunica resultados ni pronósticos** — coordinación. La rúbrica viaja con el reporte esta misma noche. Ausentes: coordinación decide.
+- `SUPUESTO DE PLANEACIÓN — verificar:` el syllabus del cohorte dice *"Cl 50 MIDTERM (presentación de 5 minutos)"*; el PLAN_CL42_51 dice *"entrevista profesional integrada"*. Decisión de gerencia 13/10: **5 min de presentación + 3 min de preguntas** del banco Cl 21-49. Confirmar la escala 1-4 de la rúbrica (no existe formato oficial de examen por nivel — ver lista viva de alineación exámenes/guías).
 - **Anclaje en el libro (`Libros/Libro B1.pdf`):** M11 *Advanced Adjectives — Tell Me About It!* (p.127), **Guide 3 — Compound Adjectives (p.137)**. Reglas verbatim: *"3. However, sometimes we use two separate words to create a single descriptor. 'I am reading a 150-page book.' The words '150' and 'page' form a single descriptor, indicated with a hyphen (-) between them."* · *"5. … Note that when we form a compound adjective with a number and unit, we do not use the units in the plural. 'I have a 3-year-old child.' → Not: 'I have a 3-years-old child.'"* Ejemplos verbatim (p.138): *"Jennifer is a very self-confident girl."* · *"Shakespeare is a well-known author."* · *"We had a great, last-minute idea."* · *"My 8-hour class is very tiring!"* Va EN USO en el Bloque 3, nunca como lección de tablero. **Repetición:** no fue ancla en Cl 21-46 (verificado en disco, incluidas las Cl 42-46 generadas en paralelo); sí en la Fase 1 (Cl 20).
 - **Hito de portafolio (regla 29/09):** Cl 50 va al PC de la academia → la tarea es el video de hito; la profesora lo reenvía con el nombre de cada estudiante a la auxiliar administrativa. Los 30-60 seg de simulación no aplican hoy (el midterm NO se graba).
 - **Banco de preguntas del midterm:** trazado a los contextos de Cl 21-49 según los títulos de los vocab banks y el PLAN_CL42_51. Las preguntas (k)-(o) se cruzaron con las guías de Cl 42-49 en disco.
