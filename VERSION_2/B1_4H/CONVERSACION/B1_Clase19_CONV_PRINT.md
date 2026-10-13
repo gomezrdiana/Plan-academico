@@ -1,40 +1,45 @@
 # B1 MASTERY — Cl 19/44 — CONV (va PRIMERO) — HOJA DE RUTA
 
-**Sesion 19/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
-**Focus (1 line):** Same stories, told again — this time clean. The mistakes of this block get fixed out loud, one by one.
-**Virtud:** FORTALEZA v1 — dia 4 de 5
+**Sesion 19/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Modulo:** CLINICA ORAL del sistema del pasado, sin regla nueva — consolida A2 Book **M12 "I Was Playing when My Mom Called" (p.99-102)** y Libro B1 **M9 Guide 2 "The Past Perfect" (p.103-104)**; HOY SOLO USO ORAL
+**Focus (1 linea):** Las mismas historias, contadas otra vez — ahora limpias. Los errores reales de este tramo se arreglan en voz alta, uno por uno.
+**Virtud:** FORTALEZA — Cl 4 de 5 de esta virtud (Cl 16-20 de cada pista)
 **Frase del Dia:** *"Fortitude does not hide the mistake — it says the line again, correct, out loud, until the correct one is the one that comes out first."*
 
----
+> **ENGLISH ONLY de principio a fin.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges. Los rituales ya se presentaron en la Cl 1: hoy solo se APLICAN, no se explican.
 
-> **HOY SOLO USO ORAL DE: re-narrar las historias del tramo (Cl 15-18) corrigiendo en voz alta — pasado simple e irregular, was/were + -ing, when/while, used to/would, had + participio y la secuencia. Sin estructura nueva. NO EXPLICAR LA REGLA (eso es del bloque de Grammar). NO TOCAR AÚN: el present perfect (have/has + participio) y su contraste con el pasado simple — eso es de Cl 21 y Cl 23; hoy solo se ANUNCIA al cerrar.**
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video), el PASE que te dejo el docente de Gramatica al cierre de la Cl 18 y **tus error papers y tu cuaderno de Cl 15-18: de ahi sacas 6 lineas reales ANTES de clase**. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
-> **REGLA DEL BLOQUE CONV — BLINDAJE:** aqui la regla se USA, jamas se explica — **hoy tampoco**, aunque sea clase de correccion. Corregir = **decir la linea correcta y repetirla**, no dar la razon gramatical. Si alguien pregunta "por que", respondes *"Grammar explains it. Here we say it right."* y repites la linea. **Piso de habla: el profe habla menos del 20% de cada bloque.**
+> **HOY SOLO: re-narrar las historias del tramo corrigiendo en voz alta — pasado simple regular e irregular con did / didn't, was / were + -ing, la interrupcion con when, HAD + participio y el orden con las palabras de tiempo. Sin estructura nueva. La regla se USA, no se explica: corregir = decir la linea correcta y repetirla. NO TOCAR AUN: el diagnostico por forma en papel (eso es de GRAMATICA Cl 19) · el present perfect con have / has (Cl 21-23; hoy solo se OYE en el puente del cierre).**
 
-> **ORIGEN DE LOS ERRORES — OBLIGATORIO:** los errores de hoy salen **de TU registro real** de Cl 15-18: error papers, tu cuaderno de nombres y lo que oiste en las simulaciones. **NO se inventan errores.** Si solo tienes 3, trabajas con 3. La lista de tipos de la NOTA INTERNA es un **indice para clasificar lo tuyo**, no una lista de errores del grupo.
+> **ORIGEN DE LOS ERRORES — OBLIGATORIO:** las 6 lineas salen **de TU registro real** de Cl 15-18 (error papers, cuaderno, lo que oiste en las entrevistas) y del PASE. **NO se inventan errores.** Si solo tienes 4, trabajas con 4. El indice de tipos del ANEXO sirve para clasificar lo tuyo, no es una lista de errores del grupo.
 
 ## BLOQUE 1 — APERTURA (20')
 
-**Objective: reload the tools and open the repair frame.**
+**Objective: every voice is awake, every video is accounted for, and the room knows today nothing is new — today we fix.**
 
-1. **Recuperacion (10', oral, DE PIE, sin cuaderno, en cadena).** Disparadores (Cl 16 y Cl 12). Errores al tablero ANONIMOS; escribes SOLO la linea correcta; coro 2x; 1 min de re-produccion:
-   - **(N-3, Cl 16 — used to / would):** "One line: 'I used to ___ , now I ___.' Bare verb after used to."
-   - **(N-3, Cl 16):** "Ask your partner: 'Did you use to ___?' — and answer short."
-   - **(N-7, Cl 12 — irregulares):** "Chain: go->went, take->took, find->found, say->said, bring->brought."
-   - **(N-7, Cl 12):** "One true past sentence with an irregular verb."
-2. **Chequeo publico de portafolio (3').** *"Who sent yesterday's audio?"* Anota numeros. NO revisas contenido.
-3. **Frase del Dia (4').** Board ANTES de empezar; 2 lecturas, coro 2x, 1 solo. Insertala 3+ veces; cierre 1 de memoria + 1 en oracion nueva.
-4. **Revision tarea Cl 18 (3').** Sobre la mesa: historia con evento principal + 2 eventos anteriores (HAD subrayado, participio en circulo) + audio B1-CONV-18. Recoge. No-entregas: nombre SOLO a tu cuaderno; *"Homework is the contract."*
-5. **PASE recibido de Grammar (Cl 18):** leelo. Bridge en 1 linea: *"Today nothing new. Today we take the stories you already told and we take the mistakes out of them."*
+1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
+2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar. Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'I had prepare' — 'I had prepareD'"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* En la misma pasada marcas quien tiene **el cuaderno con las 12 frases de Gramatica Cl 18 abierto sobre la mesa** (SI / NO). No lo lees ni lo corriges: solo se registra.
+3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Conv Cl 16** (la interrupcion hablada: was / were + -ing + WHEN + pasado simple) · N-7 = **Conv Cl 12** (pasado irregular de memoria y la trampa READ). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
+   - "The moment your plan was cut: 'I was ___ing WHEN ___.' One true line." (Cl 16)
+   - "Ask your partner: 'What were you doing when ___?' — and answer in one line." (Cl 16)
+   - "Chain: go-went · think-thought · bring-brought · take-took — then one true sentence with a time marker." (Cl 12)
+   - "READ trap: 'I read the contract last night' — say it with the sound 'red'." (Cl 12)
+4. **Lectura del PASE recibido, en voz alta (2').** Lees los 3 errores escritos del papel. Puente: *"Today nothing new. Today we take the stories you already told and we take the mistakes out of them."*
+5. **Frase del Dia (2').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea: *"You say the wrong line once — and the right line until it comes out first."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
-> [VIRTUD] Board: `FORTITUDE — DAY 4`. Di: *"Fortitude is saying it again after you got it wrong — out loud, in front of everyone, without excuses. That is the whole class today."*
+> **[VIRTUD] FORTALEZA — Cl 4 de 5. Tablero: "FORTITUDE — DAY 4 OF 5".** (6', el ritual completo)
+> **Por que:** la fortaleza mas dificil no es hablar en publico: es oir tu propio error en publico y decirlo bien sin excusas. El profesional que escucha "you said it wrong" y responde "thank you — I had sent it" crece; el que se defiende, se estanca. Hoy toda la clase es eso.
+> **En el aula hoy:** cuando la pareja levanta la mano en tu error, te detienes, dices la linea correcta y sigues. No te disculpas, no explicas, no reinicias.
+> **V (1'):** *"Day four of fortitude. Today courage is small and hard: you hear your mistake and you say it again, right."* · **A (1'30''):** pregunta, 30 seg de pensar: *"When did someone correct you in front of others? What did you do next?"* · **T (3'):** cadena de pie, cada uno 1-2 frases en pasado (*"My boss corrected my report in front of the team. I fixed it that night."*); escuchas y anotas, NO corriges aqui · **S (30''):** 2-3 al grupo y cierras: *"The mistake is not the problem. Hiding it is."*
+> **Si alguien pregunta que tiene que ver con ingles:** *"Everything. Every person who speaks English well said every line wrong first. The ones who stopped are the ones who were afraid to hear it."*
 
 ## BLOQUE 2 — CLINICA ORAL: LAS LINEAS SE ARREGLAN HABLANDO (40')
 
-**Objective: by the end, every student has said out loud the correct version of at least four lines that were wrong in this block, and used them again in a new sentence.**
+**Objective: by the end, every one of you has said out loud the correct version of at least four real lines of this block, and retold your story with them clean.**
 
-1. **Preparacion tuya ANTES de clase (5 min, en tu casa o en el break):** de tus error papers y tu cuaderno de Cl 15-18, escoge **6 lineas reales, textuales, ANONIMAS**. Nada de nombres. Si tienes menos de 6, usas las que tengas.
-2. **Board — LA PIZARRA DE REPARACION** (solo las lineas erroneas, sin titulo de regla al lado):
+1. **Turno de enseñanza entre pares (7').** El estudiante asignado al cierre de la Cl 18 pasa al frente y enseña en 5 minutos **2 errores del error paper de Cl 18**: dice la linea mala una vez, la correcta dos, y da un ejemplo propio. El grupo le hace 2 preguntas. **No lo interrumpes**; al final corriges solo lo esencial en 1 frase.
+2. **Meta del bloque (en 1 linea, en ingles) + tablero de reparacion (2').** *"By the end of this block each of you retells your story with zero of these six lines wrong."* Escribes las 6 lineas reales, ANONIMAS, sin titulo de regla al lado:
 ```
 FIX IT OUT LOUD — 6 real lines from this block (no names, ever)
   1. ____________________________________________
@@ -45,76 +50,95 @@ FIX IT OUT LOUD — 6 real lines from this block (no names, ever)
   6. ____________________________________________
 For each line:  SAY IT RIGHT -> CHORUS 2x -> ONE NEW TRUE SENTENCE with it
 ```
-3. **Ciclo de reparacion (20', DE PIE, en cadena — ~3' por linea):**
-   - Lees la linea erronea en voz alta **una sola vez**.
-   - Un estudiante **dice la version correcta**. Si falla, pasa al siguiente. **Tu no explicas** — si nadie la saca en 3 intentos, tu dices la correcta y sigue el coro.
-   - **Coro 2x.** Escribes al lado SOLO la version correcta, y **borras la erronea**.
-   - El siguiente estudiante produce **una frase nueva, verdadera, suya** con esa forma. Si es correcta, se pasa a la siguiente linea.
-4. **Re-narracion limpia (17', parejas nuevas):** cada uno vuelve a contar **la historia que conto en Cl 17 o Cl 18** — completa, en voz alta. La pareja tiene **una sola tarea**: levantar la mano en el momento exacto en que oiga una de las 6 lineas reparadas mal dicha. El que cuenta **se detiene, repite la linea correcta y sigue** (no reinicia). Segunda vuelta con la pareja cambiada: meta = **cero manos levantadas**.
-5. **Avance MY STORY:** cada uno marca en su papel de "My Story" las 2 lineas que mas le costaron hoy y escribe al lado la version correcta.
+3. **Preparacion en cadena, DE PIE (12', ~2' por linea).** Lees la linea erronea **una sola vez**. Un estudiante dice la version correcta; si falla, pasa al siguiente; si nadie la saca en 3 intentos, la dices tu. **Coro 2x.** Escribes al lado SOLO la correcta y **borras la erronea**. El siguiente estudiante produce **una frase nueva, verdadera, suya** con esa forma. **Tu no explicas.**
+4. **Ejecucion — re-narracion limpia, parejas nuevas (13').** Cada uno vuelve a contar **la historia que conto en Cl 17 o Cl 18** (o su "BEFORE MY STORY BEGAN"), completa, en voz alta. La pareja tiene **una sola tarea**: levantar la mano en el momento exacto en que oiga una de las 6 lineas mal dicha. El que cuenta **se detiene, dice la linea correcta y sigue**. Segunda vuelta con otra pareja: meta = **cero manos levantadas**.
+5. **Producto + feedback (6').** 3 estudiantes cuentan su version limpia al grupo; el grupo cuenta las manos que NO se levantaron. Feedback primero sobre el LOGRO (*"did the story land clean?"*), despues sobre la forma.
+6. **Avance de proyecto MY STORY (en el mismo producto).** Cada uno marca en su papel de "My Story" las 2 lineas que mas le costaron hoy, con la version correcta al lado.
 
-## BLOQUE 3 — SIMULACION: "TELL IT AGAIN, CLEAN" (35')
+## BLOQUE 3 — SIMULACION: PERFORMANCE CHECK-IN — "WALK ME THROUGH WHAT HAPPENED" (35')
 
-**Objective: tell the whole story under pressure with zero repeats of the block's errors.**
+**Objective: tell a full work story under questions with zero repeats of the six lines.**
 
-1. Board: `TELL IT AGAIN, CLEAN — 3 ROTATIONS — OBSERVERS HUNT THE SIX LINES`
-2. Escenario profesional realista (solo tablero y sala): la misma pregunta de entrevista/revision del tramo — *"Walk me through what happened."* **1 estudiante = guest**: cuenta su historia completa (6-8 lineas: escena, giro, desarrollo, un evento anterior, orden). Otro rota preguntando ("What were you doing when it started? What had you already done? What did you do first?"). El resto = **OBSERVERS ACTIVOS**: cada observer tiene asignadas **2 de las 6 lineas reparadas** y solo caza esas — anota si aparecieron bien, mal, o no aparecieron, mas 1 acierto y 1 pregunta. Tu = **COACH y cronometro desde afuera — NUNCA juegas rol.**
-3. 3 rotaciones (~8' c/u). Entre rotaciones, 60 seg de coro rapido con las 6 lineas correctas.
-4. Debrief (4'): observers reportan **TIPOS y conteo** ("line 3 came back twice, line 5 was clean all three times") — **nunca personas**.
-
-> [VIRTUD] Di: *"Fortitude day 4: you heard your own mistake in public and you said it right anyway. That is the hardest thing we do here."*
+1. **Tablero (1'):** `PERFORMANCE CHECK-IN — 1 EMPLOYEE (GUEST) — 1 SUPERVISOR — OBSERVERS HUNT THE SIX LINES`
+2. **Escenario profesional realista (solo tablero y sala), 2'.** Reunion trimestral uno a uno con el supervisor, que pide: *"Walk me through what happened with that project."* **1 estudiante = guest / empleado:** cuenta su historia completa en 6-8 lineas (que estaba haciendo cuando empezo, que paso, que ya habia hecho antes, en que orden). **1 estudiante rota como supervisor:** *"What were you doing when it started? · What had you already done? · Why didn't it work? · What did you do first?"*. **TU eres COACH y cronometro desde afuera — NUNCA eres el guest ni el supervisor.** Si se congelan 15 seg, sueltas UN prompt (*"Start with what you were doing"*) y te retiras.
+3. **Minimos por rotacion:** 6-8 lineas en pasado, al menos 1 was / were + -ing cortado con when, 1 didn't, 1 HAD + participio y 2 palabras de orden · el supervisor hace 3 preguntas.
+4. **OBSERVERS ACTIVOS con ficha en su propio papel:** cada observer tiene asignadas **2 de las 6 lineas reparadas** y solo caza esas: `CAME BACK RIGHT` · `CAME BACK WRONG` · `DID NOT APPEAR`, mas `1 STRENGTH (type)` y `1 QUESTION`. Al cerrar cada rotacion cantan: *"line three came back right, line five wrong once."*
+5. **3 rotaciones (~8' cada una)**, guest y supervisor nuevos; el proyecto cambia (una mudanza de oficina, un cliente nuevo, un cambio de sistema). Entre rotaciones, 60 seg de coro rapido con las 6 lineas correctas.
+6. **Debrief (4').** Los observers reportan TIPOS y conteos, nunca personas (*"line three came back twice, line five was clean all three times"*). Correcciones al tablero, coro 2x.
 
 ## BLOQUE 4 — CIERRE (15')
 
-1. **Ticket de salida (5', sentados):** 3-5 frases usando las formas reparadas hoy (al menos 1 con un evento anterior y 1 con fondo -ing). Se recogen TODOS. NO los evaluas ni comentas — viajan con el error paper a coordinacion.
-2. **PUENTE (3', oral, solo escuchar — NO se practica):** di dos lineas y deja que las oigan: *"I had finished the report before she called."* / *"I have finished the report."* Pregunta solo: *"Which one is over and gone? Which one still touches today?"* — 2 respuestas, sin correccion. Cierra: **"That second one is the door we open later. Not today."** No lo lleves a drill, no lo pongas en el ticket, no lo pongas en la tarea.
-3. **Cierre FORTALEZA (dia 4):** *"Which line will never come out wrong again?"* — 2 respuestas, rapido. *"Day 4 of Fortitude. Cl 20 closes the block: the whole past, all forms, one story, start to finish."*
-4. **Tarea (board, due date explicita):**
+1. **Ticket de salida (4').** 3-5 frases usando las formas reparadas hoy: al menos 1 con un evento anterior (HAD) y 1 con fondo -ing. Nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
+2. **Error paper (3').** Escribes 4-6 errores REALES de hoy en el papel fisico ANONIMO y los pasas al tablero sin nombres. El grupo diagnostica; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio corregido. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
+3. **PUENTE (2', solo escuchar — NO se practica).** Dices dos lineas: *"I had finished the report before she called."* / *"I have finished the report."* Preguntas solo: *"Which one is over and gone? Which one still touches today?"* — 2 respuestas, sin correccion. Cierras: *"That second one is a door we open in Cl 21. Not today."* No va al ticket ni a la tarea.
+4. **Cierre de FORTALEZA, dia 4 (1').** *"Which line will never come out wrong again?"* — 2 respuestas rapidas. *"Day four of fortitude."*
+5. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have GRAMMAR Cl 19 with the other teacher: the same errors, sealed on paper, form by form. Bring your paper and send your video."*
+
+**Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
-HOMEWORK CL 19 CONV — DUE Cl 20, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) REWRITE your story CLEAN — 10-12 lines: main event in past simple +
-    2 earlier events (had + participle) + 1 frame (by the time / because /
-    before) + closer. At the bottom, write the 2 lines you got wrong in
-    class and their correct version. (Feeds 'My Story'.)
-(2) PORTFOLIO audio (daily) — 2-3 min, eyes closed: tell the clean version
-    out loud, no reading. Label: B1-CONV-19. WhatsApp group.
-(3) Bring the paper to Cl 20.
+HOMEWORK CONVERSATION CL 19 — ONE TASK ONLY: THE VIDEO.
+DUE: Cl 20, BEFORE 7:00 PM — that is, TODAY before 7:00 PM.
+NOT NEGOTIABLE. TIME: 30-45 min (B1) — prepare, rehearse twice,
+then record. NOT fragmented.
+DAILY PORTFOLIO VIDEO No. 19 — MINIMUM 3 MINUTES, video of yourself
+speaking, straight through, NO reading, NO script on camera.
+Content: "MY STORY, CLEAN" — the story you told today, complete: the
+scene (was / were + -ing), the event (when + past simple), what you
+did and didn't do, two things you HAD already done, and the order.
+Say your 2 hardest lines of today correctly inside it.
+Close with the Phrase of the Day.
+Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-19.
+Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
-5. **Error paper:** cierra el papel fisico anonimo; nombres + citas literales en tu reporte a coordinacion.
-6. **Proxima clase:** *"Cl 20 = the whole past in one story, front of the room. Any question about evaluation goes to coordination — not to me."*
-7. **PASE a Grammar HOY** (entregar fisicamente antes del cambio de bloque):
+> **La tarea de hoy es SOLO el video** — la tarea escrita la asigna el docente de Gramatica hoy a las 10:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
+6. **PASE al docente de GRAMATICA (Grammar Cl 19, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Gramatica. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv -> Grammar — Cl 19 (mismo dia)
+PASE Conv Cl 19 -> Grammar Cl 19 — del docente de CONVERSACION al de GRAMATICA
+Virtud: FORTALEZA, Cl 4 de 5 (Cl 16-20). Angulo de hoy en mi pista: oir
+el propio error en publico y decirlo bien. Tu guia trae el tuyo.
+HOY FUE CLINICA ORAL: re-narracion limpia del tramo Cl 15-18, sin regla nueva.
 Las 6 lineas reparadas hoy (textuales, SIN nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 4. ______________________  5. ______________________  6. ______________________
-Cuales VOLVIERON a aparecer en la simulacion: ______________________________
-Hoy fue clinica oral: re-narracion limpia del tramo Cl 15-18. En tu bloque:
-cierra EN PAPEL las que volvieron — esas son las que no quedaron.
+Cuales VOLVIERON a aparecer en la simulacion: _______________________________
+QUE QUEDA PARA TI: cerrar EN PAPEL las que volvieron, diagnosticadas por forma.
+YA QUEDO HECHO HOY, NO LO REPITAS: el turno de enseñanza entre pares · la
+re-narracion con manos levantadas · el puente "had / have" (solo oido) ·
+chequeo de portafolio (videos que NO llegaron: ____________).
+SIMULACION QUE USE HOY — NO LA REPITAS: "PERFORMANCE CHECK-IN — WALK ME
+THROUGH WHAT HAPPENED" (empleado y supervisor). Ni titulo, ni guion, ni
+otra reunion uno a uno: escenario profesional DISTINTO.
+TAREA ESCRITA: la asignas TU. Yo hoy deje SOLO el video No. 19.
+LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya.
+Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board reparado + simulacion) ☐ PASE entregado ☐ Portafolio anotado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Cuadernos de Grammar Cl 18 marcados SI / NO ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ Las 6 lineas copiadas en tu reporte
 
 [PAGEBREAK]
 
-## ANEXO — Plan B por bloque + NOTA INTERNA (no leer en clase)
+## ANEXO — Indice de tipos + Plan B (para tu preparacion, no se lee en clase)
 
-**Plan B (cero material impreso):**
-- **B1:** si la cadena se traba, 1 solo disparador (Cl 16, used to) + 3 lineas correctas al board. Sin PASE de Grammar, arranca directo con la pizarra de reparacion.
-- **B2:** si tienes menos de 6 lineas reales, trabaja con las que tengas y dale mas tiempo a la re-narracion. **Prohibido rellenar con errores inventados.** Si una linea consume mas de 4 min, la dejas en el board y sigues.
-- **B3:** con <4 estudiantes, 2 rotaciones largas y cada observer caza 3 lineas. Si alguien se bloquea al ser detenido, le repites la linea correcta y retoma desde ahi.
-- **B4:** ticket de 3 frases si falta tiempo; el PUENTE se puede recortar a 1 min, pero la tarea NO se recorta.
-- **Si te piden la regla:** respuesta unica — *"Grammar explains it. Here we say it right."* + repites la linea correcta y sigues.
+**INDICE DE TIPOS DEL SISTEMA DEL PASADO** — sirve para CLASIFICAR las lineas reales que tu recogiste; **no describe a este grupo y no es fuente de errores**: (1) doble pasado tras DID / DIDN'T · (2) irregular regularizado o inventado · (3) -ing perdido tras was / were · (4) concordancia was / were · (5) fondo en simple donde iba -ing · (6) WHEN puesto en la accion larga · (7) pregunta sin did, o did + pasado · (8) linea y punto confundidos · (9) base o pasado simple tras HAD · (10) evento anterior en el evento equivocado · (11) ancla de tiempo mal puesta ("ago two days") · (12) secuencia perdida · (13) fuga al presente al acelerar.
+**Del libro, para tu modelo:** A2 M12 (titulo del modulo, p.99): "I Was Playing when My Mom Called" · Libro B1 M9 Examples (p.104): "When Paola arrived, we had already started the class." · "I had worked all weekend, so I was very tired last night."
 
-**NOTA INTERNA:**
-- **Compresion del arco del pasado (coordinacion 25/08/2026):** Cl 15 = consolidacion conversacional · Cl 16 = used to/would · Cl 17 = narrativa 4 capas · Cl 18 = past perfect · **Cl 19 = clinica oral + puente**. **Cl 20 y Cl 21+ NO cambian.**
-- **INDICE DE TIPOS DEL SISTEMA DEL PASADO** — sirve para CLASIFICAR las lineas reales que tu recogiste; **no describe a este grupo y no se usa como fuente de errores**:
-  (1) doble pasado tras DID/DIDN'T · (2) forma irregular inventada o regularizada · (3) -ing perdido tras was/were · (4) concordancia was/were · (5) fondo puesto en simple donde iba -ing · (6) WHEN/WHILE intercambiados · (7) verbo marcado tras USED TO / -d en "didn't use to" · (8) WOULD usado con estado · (9) base o pasado simple tras HAD en vez de participio · (10) evento anterior colocado en el evento equivocado · (11) ancla de tiempo mal ubicada ("ago two days", "the last week") · (12) secuencia perdida · (13) fuga al presente al acelerar.
-- **Recuperacion:** N-3 = Cl 16 (used to/would, ajustado al mapa nuevo); N-7 = Cl 12 (irregulares, que alimenta los participios). Sin mapa semanal procesado → disparadores desde el contenido, NO desde tickets.
-- **Virtud:** Cl 16-20 = FORTALEZA v1 (calendario absoluto), hoy dia 4. Cl 20 cierra.
-- **El PUENTE del Bloque 4 es solo exposicion auditiva**, no apertura del present perfect: el sistema entra en Cl 21 (lineas "I have...") y Cl 23 (contraste). Por eso no va al ticket ni a la tarea. `(SUPUESTO DE PLANEACIÓN — verificar)` que Cl 20 y Cl 21 se dictan tal como estan archivadas.
-- **COSTURA a Cl 20 (que NO se toca):** Cl 20 abre revisando exactamente esta tarea — historia con evento principal + 2 eventos anteriores + audio **B1-CONV-19** — y hace roundup "Whole-Story" con las 5 formas. Encaja sin cambios.
-- **PASE bidireccional Conv-Grammar activo.** Grammar quedo comprimido EN ESPEJO el mismo 25/08 (Cl 15 consolidacion - 16 used to/would - 17 narrativa - 18 past perfect - 19 clinica): la formalizacion en papel llega el MISMO dia. Conv sigue sin explicar.
-- **Cl 22 = presentaciones "My Story, My Goals"** (integradas, anunciadas desde Cl 1). **Sin detalles de evaluacion — eso es coordinacion, nunca el profe.**
-- Profe sin material preparado: todo en tablero + papel del estudiante.
+**Plan B (cero material, todo tablero o voz):**
+- **Tienes menos de 6 lineas reales:** trabajas con las que tengas y le das mas tiempo a la re-narracion. **Prohibido rellenar con errores inventados.** Puedes sumar errores reales que oigas HOY en el Bloque 1.
+- **El turno de enseñanza falta o no preparo:** pasas directo al tablero de reparacion; anotas en el reporte que el turno no se hizo y lo reasignas para la Cl 20.
+- **Una linea consume mas de 3 min:** la dejas en el tablero con la correcta al lado y sigues.
+- **Simulacion con menos de 4 estudiantes:** 2 rotaciones largas y cada observer caza 3 lineas.
+- **El que cuenta se bloquea al ser detenido:** le dices la linea correcta y retoma desde ahi.
+- **Grupo incompleto a las 8:00:** arrancas igual, registras la llegada tarde; el que llega entra a la re-narracion sin que le repitas nada.
+- **Si te piden la regla:** *"Grammar explains it at ten. Here we say it right."* + repites la linea correcta y sigues.
+
+## NOTA INTERNA PARA COORDINACION (no se lee en clase)
+
+- **Edicion unica manana/noche:** reemplaza la guia 4H anterior de Cl 19 con el formato de la edicion nueva: 110 min (B1 20' + B2 40' + B3 35' + B4 15'), PASE Conv -> Grammar a las 10:00 y Grammar -> Conv para la clase siguiente, due "Cl N+1, BEFORE 7:00 PM", ticket antes del error paper, UN solo video diario. Contenido conservado: clinica oral con 6 lineas reales, re-narracion con manos levantadas, puente auditivo had / have, Frase del Dia.
+- **Frente a la guia 4H anterior:** (1) el B2 abre con el **turno de enseñanza entre pares** asignado en Cl 18 y se ordena como ciclo con meta (meta en 1 linea -> preparacion -> ejecucion -> producto). (2) El B3 anterior "TELL IT AGAIN, CLEAN" no tenia escenario: ahora es una **reunion uno a uno con el supervisor**, profesional y realista, con la misma mecanica de observers que cazan las 6 lineas. (3) La reescritura en papel de la historia sale de Conv (la escritura es de Gramatica); queda solo el video No. 19 de 3 min.
+- **Anti-fabricacion (regla dura):** las 6 lineas salen del registro real del docente y del PASE. La guia da el protocolo y el indice de tipos, nunca errores atribuidos al grupo.
+- **Anti-duplicado:** Conv usa **PERFORMANCE CHECK-IN**; Grammar Cl 19 usa **PROJECT HANDOVER** (entregar un proyecto a quien llega). El PASE prohibe repetir.
+- **Recuperacion:** N-3 = Conv Cl 16 (interrupcion con when, A2 M12 Guide 1 punto 2 p.100) · N-7 = Conv Cl 12 (irregulares). Sin mapa semanal de tickets: NO se citan tickets.
+- **Secuencia Cl 13-17 (decision de coordinacion):** used to / would y "while" no estan en el libro y no se enseñan; la clinica trabaja solo formas del libro.
+- **Virtud:** FORTALEZA, Cl 4 de 5 (Cl 16-20), calendario absoluto. Cl 20 la cierra con retrospectiva.
+- `SUPUESTO DE PLANEACION — verificar`: el anclaje de la clinica (Cl 19 sin regla nueva tras la compresion del arco del pasado) viene de la guia 4H anterior.

@@ -1,116 +1,148 @@
 # B1 MASTERY — Cl 16/44 — CONV (va PRIMERO) — HOJA DE RUTA
 
-**Sesion 16/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
-**Focus (1 line):** Talk about the life you left behind — USED TO / WOULD — the job, the city, the routine of "before" against "now".
-**Virtud:** FORTALEZA v1 — dia 1 de 5 (ABRE bloque Cl 16-20)
-**Frase del Dia:** *"Fortitude names the old self out loud: I used to quit early, I would give up when it got hard — and now I stay."*
+**Sesion 16/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Modulo:** A2 Book **M12 "I Was Playing when My Mom Called — Past Simple vs. Past Continuous" (p.99-102)** — hoy **Guide 1 punto 2 (p.100): la accion corta que interrumpe a la larga; Examples p.101**; HOY SOLO USO ORAL
+**Focus (1 linea):** Contar en voz alta el momento en que algo corto el plan — "I was presenting WHEN the screen went black" — y lo que hiciste despues, en historias nuevas, a velocidad.
+**Virtud:** FORTALEZA — Cl 1 de 5 de esta virtud (Cl 16-20 de cada pista) — ABRE el bloque
+**Frase del Dia:** *"Fortitude is what you do after the interruption: I was presenting when the screen went black — and I kept talking until the end."*
 
----
+> **ENGLISH ONLY de principio a fin.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges. Los rituales ya se presentaron en la Cl 1: hoy solo se APLICAN, no se explican.
 
-> **HOY SOLO USO ORAL DE: los habitos y estados de antes hablados — USED TO + verbo base, WOULD + verbo base (accion repetida) — en historias de "antes vs ahora". NO EXPLICAR LA REGLA (eso es del bloque de Grammar). NO TOCAR AÚN: tejer las cuatro capas en UNA historia larga y 'had + participio' — eso es de Cl 17 y Cl 18.**
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video) y el PASE que te dejo el docente de Gramatica al cierre de la Cl 15. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
-> **REGLA DEL BLOQUE CONV — BLINDAJE:** aqui la regla se USA, jamas se explica. Si alguien pregunta "por que", tu respuesta es **un ejemplo correcto + "say it again"** — nunca una explicacion, nunca una tabla. El tablero de Conv es **banco de ejemplos**, no teoria. Quien formaliza en papel es el bloque de Grammar. **Piso de habla: el profe habla menos del 20% de cada bloque.**
+> **HOY SOLO: la interrupcion HABLADA — la accion larga en was / were + -ing, la corta que la corta con WHEN + pasado simple ("I was playing when my mom called"), y lo que paso despues — en historias NUEVAS, por volumen y velocidad. La regla se USA, no se explica: si alguien pregunta "por que", das un ejemplo correcto y "say it again". NO TOCAR AUN: la regla y los Ejemplos del libro en papel (GRAMATICA Cl 16) · la historia completa por capas con su orden (Cl 17). Y NO se enseña "while": no esta en el libro.**
 
 ## BLOQUE 1 — APERTURA (20')
 
-**Objective: reactivate the past and open the "before" frame — talking, not reviewing.**
+**Objective: every voice is awake, every video is accounted for, and the room hears that a line can be cut.**
 
-1. **Recuperacion (10', oral, DE PIE, sin cuaderno, en cadena).** Disparadores (Cl 13 y Cl 9). Errores al tablero ANONIMOS; escribes SOLO la linea correcta (sin explicar); coro 2x; 1 min de re-produccion:
-   - **(N-3, Cl 13 — preguntas y negativos del pasado):** "Ask me three past questions: 'Did you ___?' Then deny one: 'I didn't ___.'"
-   - **(N-3, Cl 13):** "Fix it out loud: 'Did you worked here?' / 'She didn't went.'"
-   - **(N-7, Cl 9 — posesivos):** "Whose is it? Two ways: 'It's the manager's report' / 'It's hers.'"
-   - **(N-7, Cl 9):** "Say a true one about your desk or your team."
-2. **Chequeo publico de portafolio (3').** *"Who sent yesterday's audio?"* Anota numeros. NO revisas contenido.
-3. **Frase del Dia (4').** Board ANTES de empezar; 2 lecturas, coro 2x, 1 solo. Insertala 3+ veces; cierre 1 de memoria + 1 en oracion nueva.
-4. **Revision tarea Cl 15 (3').** Sobre la mesa: historia nueva de 12 lineas (-ing subrayado, palabras de orden en circulo) + audio B1-CONV-15. Recoge. No-entregas: nombre SOLO a tu cuaderno; *"Homework is the contract."*
-5. **PASE recibido de Grammar (Cl 15):** leelo. Roundup "How it used to be" (2'): cada estudiante da UNA linea de algo que hacia antes y ya no hace.
+1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
+2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar. Di: *"I am not asking who made it. I am asking who SENT it. Who sent video No. 15?"* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'my colleagues was working' — 'they WERE working'"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* En la misma pasada marcas quien tiene **el cuaderno con la declaracion de Gramatica Cl 15 abierto sobre la mesa** (SI / NO). No lo lees ni lo corriges: solo se registra.
+3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Conv Cl 13** (preguntar y negar el pasado: Did you...? / I didn't..., verbo en base) · N-7 = **Conv Cl 9** (la posesion hablada: my / her / their, 's de persona, of de cosa). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
+   - "Ask me two past questions with DID — then deny one: 'I didn't ___'." (Cl 13)
+   - "Fix it out loud: 'Did you went?' · 'She didn't called.'" (Cl 13)
+   - "Whose is it? One true one about your workplace: 'the manager's office' · 'the cover of the report'." (Cl 9)
+   - "Fix it out loud: 'the my laptop'." (Cl 9)
+4. **Lectura del PASE recibido, en voz alta (2').** Lees los 3 errores escritos del papel. Puente: *"Last class the past was a line: 'I was working.' Today something cuts the line: 'I was working WHEN the phone rang.' The long action keeps -ING; the short one is a point."*
+5. **Frase del Dia (2').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea, sin clase de gramatica: *"The long action was moving; the short one cut it — and then you decided what to do."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
-> [VIRTUD] **MINI-RITUAL DE APERTURA DE BLOQUE (3', va dentro de los 20').** Board: `FORTITUDE — DAY 1, OPENING (Cl 16-20)`. Escribe debajo tres palabras: `courage · endure · push through`. Di: *"Fortitude is courage to do the hard thing and refusal to quit. For five classes this is our word."* Lanza UNA pregunta y toma 2 respuestas rapidas, en pasado: *"When did you want to quit — and you didn't?"* Cierra: *"Write it where you can see it. We come back to it every day this week."*
+> **[VIRTUD] FORTALEZA — Cl 1 de 5. ABRE el bloque. Tablero: "FORTITUDE — DAY 1 OF 5 — OPENING".** (6', el ritual completo)
+> **Por que:** fortaleza es el coraje de hacer lo dificil y la negativa a rendirse. En el trabajo casi nada sale como se planeo: se cae el sistema, llama el cliente furioso, se va la luz en plena presentacion. La diferencia entre profesionales no es a quien le pasan cosas, sino que hace cada uno despues de la interrupcion. Contarlo en voz alta, sin esconder la parte que salio mal, tambien es fortaleza.
+> **En el aula hoy:** cada historia tiene dos partes obligatorias: la interrupcion y **lo que hiciste despues**. Nadie termina su historia en el problema.
+> **V (1'):** *"A new block opens today: FORTITUDE. Five classes. Courage to do the hard thing — and refusal to quit."* · **A (1'30''):** pregunta, 30 seg de pensar: *"When did something interrupt an important moment of your work or your studies — and what did you do next?"* · **T (2'30''):** cadena de pie, cada uno 2 frases: la interrupcion y la respuesta (*"I was finishing my thesis when my computer died. I wrote the last chapter again in two nights."*); escuchas y anotas, NO corriges aqui · **S (1'):** 2-3 al grupo y cierras: *"The interruption is not the story. What you did next is the story."*
+> **Si alguien pregunta que tiene que ver con ingles:** *"Everything. Your English will be interrupted — by a word you forget, by a fast question, by a strong accent. Fortitude is to keep talking. That is what we train here."*
 
-## BLOQUE 2 — LA VIDA DE ANTES (40')
+## BLOQUE 2 — MARATON DE HISTORIAS: TRES ESCENAS NUEVAS (40')
 
-**Objective: by the end, each student contrasts the "before" and the "now" of three areas of their life, out loud, no notes on the last one.**
+**Objective: by the end, each of you has told THREE different interruption stories to THREE different partners — the last two with no notes.**
 
-1. Board — **BANCO DE EJEMPLOS Y DE AREAS** (para imitar con la boca, NO para analizar):
+1. **Avance de proyecto hoy: MY STORY, MY GOALS — pieza "THE DAY MY PLAN WAS INTERRUPTED" (1').** Di: *"One piece every class. Today, the day something cut your plan — and what you did next."*
+2. **Tablero — BANCO DE ESCENAS + LINEAS DEL LIBRO (3')** (para imitar con la boca, NO para analizar; la regla en papel la sella Gramatica Cl 16):
 ```
-BEFORE AND NOW — say it, do not study it
-  "I used to work alone."          "I didn't use to speak up."
-  "Did you use to live there?"     "Yes, I did. / No, I didn't."
-  "Every winter we would travel."  "I used to be nervous."  (state -> used to)
-  "I used to ___ . Now I ___ ."
-AREAS TO TALK ABOUT (one per round)
-  1. WORK LIFE — the job, the boss, the schedule, the tools of before
-  2. THE CITY / THE NEIGHBOURHOOD — how it used to look, what was there
-  3. HABITS — food, money, sleep, phone, study, weekends of before
-  4. THIS COURSE — how I used to speak English when I started
+TELL IT — THE LINE, THE CUT, WHAT YOU DID NEXT   (A2 Book M12 p.100-101)
+ "I was playing when my mom called."
+ "I was eating pasta when my brother arrived."
+ "We were walking in the park, when Jeff saw a dog."
+ LONG action: WAS / WERE + -ING   ->   SHORT action: WHEN + past simple
+SCENES (a different one each round):
+ 1. The day a trip / a flight / a bus fell apart
+ 2. The day the power, the system or the internet died on a deadline
+ 3. My first day at a job (or at this course)
+ 4. A delivery or a purchase that went wrong
+ 5. The day I changed city, job or schedule
 ```
-2. **Modela 60 seg:** cuenta tu propia "vida de antes" en un area — 6 lineas, rapido y natural, terminando con el contraste "now". NO señales las formas, NO subrayes nada.
-3. **Meta del bloque (1 linea, en ingles):** *"By the end of this block each of you has talked about three areas of your 'before', and the last one comes with no notes."*
-4. **Tres rondas (~9' c/u), parejas nuevas en cada ronda:**
-   - Ronda 1 — WORK LIFE (notas minimas): A da 5 lineas de como era antes; B devuelve **2 preguntas** ("Did you use to...? What would you do when...?"); cambio.
-   - Ronda 2 — CITY / HABITS (sin notas): B empieza; cada uno cierra con **un contraste** ("I used to ___, now I ___").
-   - Ronda 3 — LIBRE, **60 segundos cronometrados** por persona: la "vida de antes" completa, tres areas encadenadas. La pareja cuenta con los dedos cuantos contrastes oyo (meta: 3).
-5. **Avance MY STORY:** cada uno se queda con 2 lineas "I used to ___, now I ___" que describan su cambio real y las guarda en su papel de "My Story".
-6. **Correccion (maximo 3'):** solo el error que aparezca en 2+ parejas. Al board va **la linea correcta**, anonima, coro 2x, y siguen. **Cero explicacion.** Nombres a tu cuaderno.
+3. **Modelas 60 seg (2').** Cuentas la escena 2, real y rapida, en 6-8 lineas: la linea, el corte, lo que hiciste despues. NO señalas las formas, NO subrayas nada. Solo la cuentas bien.
+4. **Cadena "line and cut", DE PIE (6').** Circulo. Estudiante 1 dice una linea (*"I was driving to work..."*); estudiante 2 la corta (*"...when my phone rang."*); estudiante 3 dice que hizo despues (*"I stopped and answered."*); estudiante 4 arranca una linea nueva. Si alguien corta con -ING (*"when my phone was ringing"*), el grupo responde en coro: *"Short and sharp — RANG."* Velocidad creciente. El drill NO cierra el bloque.
+5. **Meta del bloque (1').** *"By the end of this block each of you has told three different stories, to three different people, and the last two without notes."*
+6. **Ronda 1 (8'), notas minimas, 8 lineas.** A cuenta, B escucha y devuelve **1 pregunta** (*"What were you doing when it happened?"*); cambio.
+7. **Ronda 2 (8'), pareja nueva, SIN notas, escena distinta, 8+ lineas.** B cuenta primero; A devuelve 2 preguntas (*"What did you do next?"*).
+8. **Ronda 3 (6'), pareja nueva, SIN notas, escena distinta, 90 segundos cronometrados — tiene que caber.** Ambos cuentan; la pareja **marca con los dedos** cada linea con -ING y cada corte con when.
+9. **Pieza de proyecto + correccion (5').** Cada uno se queda con las 3 mejores lineas de hoy para **"THE DAY MY PLAN WAS INTERRUPTED"** y las anota en su papel; 2-3 la dicen al grupo. Solo el error que aparezca en 2+ parejas va al tablero, ANONIMO, como **la linea correcta**, coro 2x, y siguen. Cero explicacion. Nombres a tu cuaderno.
 
-## BLOQUE 3 — SIMULACION: "HOW THIS PLACE USED TO WORK" (35')
+## BLOQUE 3 — SIMULACION: "WHAT HAPPENED?" — INCIDENT REPORT TO THE SUPERVISOR (35')
 
-**Objective: use the "before" language in a realistic workplace handover.**
+**Objective: report a real work incident in 90 seconds to a supervisor who needs every fact — what you were doing, what cut it, what you did next.**
 
-1. Board: `HANDOVER — "HOW THIS PLACE USED TO WORK" — 3 ROTATIONS`
-2. Escenario profesional realista (solo tablero y sala): un empleado con años en la empresa le explica a alguien que acaba de entrar como funcionaba todo antes de un cambio (nuevo sistema, nueva sede, nuevo horario, nuevo jefe). **1 estudiante = guest (el veterano)**: 6+ lineas de "used to / would" + al menos 2 contrastes con el ahora. Otro rota como el que acaba de entrar y pregunta ("Did you use to...? What would happen when the system failed? Was it better?"). El resto = **OBSERVERS ACTIVOS**: en su papel anotan 2 aciertos (tipos), 1 mejora, 1 pregunta, y marcan si alguien uso WOULD para un estado. Tu = **COACH desde afuera — NUNCA juegas rol.**
-3. 3 rotaciones (~8' c/u). Entre rotaciones, 60 seg de cadena veloz: cada uno UNA linea "I used to ___", sin pausa.
-4. Debrief (4'): observers reportan TIPOS ("clean before/now contrast", "would used for a state") — nunca personas.
-
-> [VIRTUD] Di: *"Fortitude is not pretending the old version of you didn't exist. You name it, and then you say what you do now."*
+1. **Tablero (1'):** `WHAT HAPPENED? — INCIDENT REPORT — 90 SECONDS, ALL THE FACTS — 1 EMPLOYEE (GUEST) — 1 SUPERVISOR — EVERYONE ELSE OBSERVES`
+2. **Escenario profesional realista (solo tablero y sala), 2'.** Algo paso en el trabajo y el supervisor tiene que escribir el reporte del incidente hoy mismo: un corte de luz en plena entrega, una caida del sistema con clientes en fila, un accidente menor en la bodega, un cliente que se fue sin pagar. **1 estudiante = guest / empleado:** cuenta el hecho en **90 segundos**: que estaba pasando (lineas), que lo corto (when + pasado simple), que hizo despues y en que orden — incluida la parte que no salio bien. **1 estudiante rota como supervisor:** presiona por los datos (*"What were you doing exactly when it happened? What did you do first? Who was working with you? Did you call anyone?"*). **TU eres COACH y cronometro desde afuera — NUNCA eres el empleado ni el supervisor.** Si se congelan 15 seg, sueltas UN prompt (*"You were at the counter... and then?"*) y te retiras.
+3. **Minimos por rotacion:** 3 lineas de fondo con was / were + -ing · 2 cortes con when + pasado simple · 3 cosas que hizo despues · la parte que salio mal, dicha · 3 preguntas del supervisor (al menos 1 con did y 1 con was / were) · los 90 segundos se respetan.
+4. **OBSERVERS ACTIVOS con ficha en su propio papel (la dibujan en 30 seg):** `LINES (-ING)` (cuentan) · `CUTS (WHEN + PAST)` (cuentan) · `"WHEN ... WAS RINGING" / "-ING LOST"` (el error literal) · `WHAT NEXT? (yes / no)`. Al cerrar cada rotacion cantan: *"three lines, two cuts, one '-ing' lost, the next step told."*
+5. **4 rotaciones (~6' cada una)**, guest y supervisor nuevos; el incidente cambia en cada una. Entre rotaciones, 45 seg de cadena veloz de pie: cada uno UNA linea y UN corte, sin pausa.
+6. **Debrief (4').** Los observers reportan TIPOS y conteos, nunca personas (*"the background dropped in rotation two", "nobody said what they did next in rotation three"*). Correcciones al tablero, coro 2x. Intervienes solo si un error sale 3 veces.
 
 ## BLOQUE 4 — CIERRE (15')
 
-1. **Ticket de salida (5', sentados):** 3-5 frases con la estructura de hoy (2 habitos de antes + 1 con would + 1 contraste "used to X, now Y"). Se recogen TODOS. NO los evaluas ni comentas — viajan con el error paper a coordinacion.
-2. **Cierre FORTALEZA (dia 1):** *"What did you use to do that you refuse to do now?"* — 2 respuestas, rapido. *"Day 1 of Fortitude. Cl 17 we put it all in ONE story."*
-3. **Tarea (board, due date explicita):**
+1. **Ticket de salida (4').** 3-5 frases contando UNA de las escenas de hoy: 2 lineas con -ING, 1 corte con when y 1 cosa que hiciste despues. Nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
+2. **Error paper (4').** Escribes 4-6 errores REALES del dia en el papel fisico ANONIMO y los pasas al tablero sin nombres. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio corregido. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
+3. **Cierre de FORTALEZA, dia 1 (2').** *"What did you do next — in the story you told today?"* — 2 respuestas. Cierras: *"Day one of fortitude. Four more in each of your classes."*
+4. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have GRAMMAR Cl 16 with the other teacher: same module, new Phrase of the Day. You put the line and the cut on paper, with the book's own story. Bring your paper and send your video."*
+
+**Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
-HOMEWORK CL 16 CONV — DUE Cl 17, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE "MY LIFE BEFORE" — 12 lines, all true: 5 habits/states with
-    used to + 3 repeated actions with would + 4 contrasts
-    ("I used to ___ , now I ___"). Circle every bare verb.
-(2) PORTFOLIO audio (daily) — 2-3 min, eyes closed: tell your "before and
-    now" out loud, no reading. Label: B1-CONV-16. WhatsApp group.
-(3) Bring the paper to Cl 17.
+HOMEWORK CONVERSATION CL 16 — ONE TASK ONLY: THE VIDEO.
+DUE: Cl 17, BEFORE 7:00 PM — that is, TODAY before 7:00 PM. NOT NEGOTIABLE.
+TIME: 30-45 min (B1) — prepare, rehearse twice, then record. NOT fragmented.
+DAILY PORTFOLIO VIDEO No. 16 — MINIMUM 3 MINUTES, video of yourself
+speaking, straight through, NO reading, NO script on camera.
+Content: "THE DAY MY PLAN WAS INTERRUPTED" — a NEW story, one you did NOT
+tell in class: what you were doing (3 lines with WAS / WERE + -ING), what
+cut it (2 interruptions with WHEN + past simple), and what you did next,
+in order. Do not end in the problem. Close with the Phrase of the Day.
+Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-16.
+Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
-4. **Error paper:** cierra el papel fisico anonimo; nombres + citas literales en tu reporte a coordinacion.
-5. **Proxima clase:** *"Cl 17 = ONE full story, start to finish — the scene, the turn, the struggle, the order. Any question about evaluation goes to coordination — not to me."*
-6. **PASE a Grammar HOY** (entregar fisicamente antes del cambio de bloque):
+> **La tarea de hoy es SOLO el video** — la tarea escrita de este modulo la asigna el docente de Gramatica hoy a las 10:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
+5. **PASE al docente de GRAMATICA (Grammar Cl 16, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Gramatica. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv -> Grammar — Cl 16 (mismo dia)
-3 gaps frescos de hoy (error literal, SIN nombre aqui):
-1. ______________________  2. ______________________  3. ______________________
-Patrones orales de hoy: (a) verbo marcado tras USED TO ("used to worked");
-(b) -d en negativo/pregunta ("didn't used to"); (c) WOULD con estado ("I would
-be shy"); (d) used to vs pasado simple confundido; (e) contraste "now" perdido.
-Hoy hablaron su vida de antes (3 areas + handover, 3 rotaciones). En tu bloque:
-formaliza EN PAPEL used to + bare / didn't use to / did...use to + would (accion).
+PASE Conv Cl 16 -> Grammar Cl 16 — del docente de CONVERSACION al de GRAMATICA
+Virtud: FORTALEZA, Cl 1 de 5 (Cl 16-20) — HOY SE ABRIO en mi pista. Angulo:
+lo que haces despues de la interrupcion. Tu guia trae el tuyo.
+LO QUE SALIO ORAL HOY: linea (was / were + -ing) cortada por WHEN + pasado
+simple, en 3 escenas nuevas + reporte de incidente. A2 M12 Guide 1 p.100.
+3 ERRORES literales de hoy (SIN nombre aqui; nombres en mi reporte):
+1. ____________________  2. ____________________  3. ____________________
+Patrones oidos: (a) corte en -ing ("when my phone was ringing"); (b) fondo en
+simple donde iba -ing ("I worked when he called"); (c) -ing perdido ("I was
+drive"); (d) fuga al presente al acelerar; (e) historia que termina en el problema.
+QUE QUEDA PENDIENTE del modulo: la regla en papel, los Ejemplos del libro y
+el texto del Exercises p.102. No los toque.
+Cuadernos con la declaracion de Grammar Cl 15 (SI / NO): ____ de ____.
+YA QUEDO HECHO HOY, NO LO REPITAS: el maraton de 3 escenas · la pieza "THE DAY
+MY PLAN WAS INTERRUPTED" · el chequeo de portafolio (videos que NO llegaron:
+____________).
+SIMULACION QUE USE HOY — NO LA REPITAS: "WHAT HAPPENED? — INCIDENT REPORT TO
+THE SUPERVISOR". Ni el titulo ni el guion. Escenario DISTINTO.
+TAREA ESCRITA: la asignas TU. Yo hoy deje SOLO el video No. 16.
+LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo modulo.
+Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + handover) ☐ PASE entregado ☐ Portafolio anotado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ **PASE Conv -> Grammar entregado en mano a las 10:00** ☐ PASE Grammar -> Conv de la Cl 15 leido en el Bloque 1 ☐ Cuadernos de Grammar Cl 15 marcados SI / NO ☐ Virtud nueva abierta con el ritual completo ☐ Tres historias contadas por todos
 
 [PAGEBREAK]
 
-## ANEXO — Plan B por bloque + NOTA INTERNA (no leer en clase)
+## ANEXO — M12 verbatim + Plan B (para tu preparacion, no se lee en clase)
 
-**Plan B (cero material impreso):**
-- **B1:** si la cadena se traba, 1 solo disparador (Cl 13, DID + bare) + 3 lineas correctas al board. Sin PASE de Grammar, arranca directo con el roundup "How it used to be".
-- **B2:** si a los 20' pegan el verbo marcado tras used to, corta WOULD hoy y quedate SOLO con "I used to ___ , now I ___" hasta que salga limpio y rapido. WOULD entra en la narrativa de Cl 17.
-- **B3:** con <4 estudiantes, 2 rotaciones largas; el veterano cambia de area (herramientas, horario, equipo, sede). Si alguien se bloquea, el nuevo le da el arranque ("Before the new system, what did you use to do?").
-- **B4:** ticket de 3 frases si falta tiempo; la tarea NO se recorta.
-- **Si te piden la regla:** respuesta unica — *"Grammar explains it. Here we use it."* + repites la linea correcta y sigues.
+**A2 Book, Module 12 — "I Was Playing when My Mom Called / Past Simple vs. Past Continuous" (p.99-102).**
+**Guide 1 (p.100), punto 2, verbatim:** "2. Otro uso muy importante para las dos formas es describir una actividad corta o abrupta que ocurre o interrumpe otra actividad más extensa." · "E.g. 'I was playing when my mom called.' -> 'Yo estaba jugando cuando mi madre llamó.'"
+**Examples (p.101), verbatim — interrupcion:** "I was eating pasta when my brother arrived." · "My dad was working when I ate lunch." · "What were you doing when I was studying?" · "Did you work when Jack was feeling sick?" · "We were walking in the park, when Jeff saw a dog." · "The girls weren't driving to school when their dad took a cab." · "The family was watching a movie when Sebastián left." · "I was helping Mary, but she felt angry."
 
-**NOTA INTERNA:**
-- **Compresion del arco del pasado (coordinacion 25/08/2026):** Cl 15 = consolidacion conversacional · **Cl 16 = used to/would** · Cl 17 = narrativa 4 capas · Cl 18 = past perfect · Cl 19 = clinica oral. **Cl 20 y Cl 21+ NO cambian.**
-- **USED TO / WOULD para habitos NO aparece en el A2 Book** (M12 = Past Simple vs Past Continuous, p.99-102). Se trabaja como gramatica estandar B1 bien establecida, **sin citar pagina — NO inventar cita**. `(SUPUESTO DE PLANEACIÓN — verificar)`.
-- **Recuperacion:** N-3 = Cl 13 (preguntas/negativos del pasado, DID + bare); N-7 = Cl 9 (posesivos). Sin mapa semanal procesado → disparadores desde el contenido, NO desde tickets.
-- **Virtud:** Cl 16-20 = FORTALEZA v1 (calendario absoluto), hoy **dia 1 ABRE** → mini-ritual obligatorio en Bloque 1 (Justicia cerro en Cl 15).
-- **PASE bidireccional Conv-Grammar activo.** Grammar quedo comprimido EN ESPEJO el mismo 25/08 (Cl 15 consolidacion - 16 used to/would - 17 narrativa - 18 past perfect - 19 clinica): la formalizacion en papel llega el MISMO dia. Conv sigue sin explicar.
-- **Cl 22 = presentaciones "My Story, My Goals"** (integradas, anunciadas desde Cl 1). Sin detalles de evaluacion: eso es coordinacion, nunca el profe.
-- Profe sin material preparado: todo en tablero + papel del estudiante.
+**Reservado para GRAMATICA Cl 16, no hoy:** la regla en papel, el dictado de los Ejemplos y el texto del Exercises (p.102).
+
+**Plan B (cero material, todo tablero o voz):**
+- **Bloque 1 — sin PASE de Gramatica:** arrancas con la cadena de recuperacion y usas como puente "they was working" -> "they WERE working".
+- **Bloque 2 — a los 20' las historias no arrancan:** bajas a DOS rondas y subes el largo (10-12 lineas). Nunca cambies la narracion por un drill de formas: hoy el objetivo es volumen de habla. Si te piden la regla: *"Grammar explains it at ten. Here we use it."* + la linea correcta y sigues.
+- **Bloque 3 — menos de 4 estudiantes:** 2 rotaciones largas (2 minutos de relato) y el guest repite con otro incidente. Si alguien se bloquea, el supervisor le da el arranque (*"You were at the counter... and then?"*).
+- **Bloque 4 — falta tiempo:** ticket de 3 frases; la tarea NO se recorta.
+- **Grupo incompleto a las 8:00:** arrancas igual, registras la llegada tarde; el que llega entra en la ronda 2 sin que le repitas nada.
+
+## NOTA INTERNA PARA COORDINACION (no se lee en clase)
+
+- **Edicion unica manana/noche:** formato y reglas de la edicion nueva (plantilla: Cl 1-12 de `VERSION_2/B1_4H`): 110 min (20 + 40 + 35 + 15), Conv 8:00-10:00 primero y Grammar 10:00-12:00 despues el MISMO dia · **PASE Conv -> Grammar en papel a las 10:00 y Grammar -> Conv al cerrar, para la clase siguiente** · due "Cl N+1, BEFORE 7:00 PM" · ticket antes del error paper · UN solo video diario.
+- **CAMBIO DE CONTENIDO FRENTE A LA GUIA 4H ANTERIOR (revisar):** la anterior de Cl 16 era "used to / would" (compresion del 25/08), que **no esta en el libro** (la propia guia lo marcaba "sin citar pagina"). En la edicion nueva, la caja HOY SOLO de la Cl 12 maestra ubica **was / were + -ing y when en Cl 15-16**, y el A2 M12 tiene dos usos en su Guide 1: punto 1 (Cl 15) y **punto 2, la interrupcion (hoy)**. Lo que se conservo: **el maraton de tres escenas y la simulacion "WHAT HAPPENED?"** de la Conv Cl 15 anterior, que ya eran sobre interrupcion; aqui la simulacion queda acotada al reporte a un supervisor (sin seguros ni servicio al cliente, para no cruzarse con Grammar Cl 9 ni con Grammar Cl 16). `SUPUESTO DE PLANEACION — verificar` (ver tambien Conv Cl 15).
+- **"While" fuera:** la guia anterior y el plan viejo hablaban de when / while; el libro solo trae **when** (p.100-101). Si un estudiante usa while, se acepta sin explicar.
+- **Virtud:** FORTALEZA, Cl 1 de 5 (Cl 16-20), calendario absoluto; **hoy ABRE** con el ritual completo. Angulo de Conversacion: **lo que haces despues de la interrupcion**. Grammar Cl 16 trabaja otro angulo (pedir ayuda con claridad).
+- **Anti-duplicado:** Conv usa **WHAT HAPPENED? — INCIDENT REPORT TO THE SUPERVISOR** (interno, de empleado a jefe); Grammar Cl 16 usa **IT SUPPORT CALL** (usuario frente a soporte tecnico, meta = reproducir la falla paso a paso). El PASE lo prohibe por escrito.
+- **Recuperacion:** N-3 = Conv Cl 13 · N-7 = Conv Cl 9, disparadores tomados de esas guias. Sin mapa semanal de tickets: NO se citan tickets.
+- **Proyecto del nivel:** la pieza de hoy es materia prima de la historia completa de la Cl 17 (borrador de MY STORY para el midterm de Cl 22).

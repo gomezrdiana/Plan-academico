@@ -1,116 +1,170 @@
 # B1 MASTERY — Cl 18/44 — CONV (va PRIMERO) — HOJA DE RUTA
 
-**Sesion 18/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
-**Focus (1 line):** Say what had ALREADY happened before the main event — retell the same story with its earlier layer.
-**Virtud:** FORTALEZA v1 — dia 3 de 5
+**Sesion 18/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 35' + B3 40' + B4 15' = 110**
+**Modulo:** Libro B1 **M9 "More About Perfect Tenses" (p.97) — Guide 2 "The Past Perfect" (p.103; Examples p.104)**, con los participios del A2 Book **M15 (p.133-134)** y **M16 (tabla p.148)**; HOY SOLO USO ORAL
+**Focus (1 linea):** Contar lo que YA habia pasado antes del evento principal — HAD + participio — y sostenerlo en la segunda entrevista de trabajo del nivel.
+**Virtud:** FORTALEZA — Cl 3 de 5 de esta virtud (Cl 16-20 de cada pista)
 **Frase del Dia:** *"Fortitude was built before the hard moment came: by the time it hit me, I had already prepared, I had already failed, I had already learned."*
 
----
+> **ENGLISH ONLY de principio a fin.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges. Los rituales ya se presentaron en la Cl 1: hoy solo se APLICAN, no se explican.
 
-> **HOY SOLO USO ORAL DE: el evento anterior hablado — HAD + participio — para contar lo que ya habia pasado cuando llego el evento principal, y para reordenar la historia (antes / despues). NO EXPLICAR LA REGLA (eso es del bloque de Grammar). NO TOCAR AÚN: el present perfect (have/has + participio) y su contraste con el pasado simple — eso es de Cl 21 y Cl 23.**
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video), el PASE que te dejo el docente de Gramatica al cierre de la Cl 17 y **tu telefono cargado y con espacio: hoy grabas las entrevistas**. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
-> **REGLA DEL BLOQUE CONV — BLINDAJE:** aqui la regla se USA, jamas se explica. Si alguien pregunta "por que", tu respuesta es **un ejemplo correcto + "say it again"** — nunca una explicacion, nunca una tabla. El tablero de Conv es **banco de ejemplos**, no teoria. Quien formaliza en papel es el bloque de Grammar. **Piso de habla: el profe habla menos del 20% de cada bloque.**
+> **HOY SOLO: el evento ANTERIOR hablado — HAD + participio — para contar lo que ya estaba hecho cuando llego el evento principal, con by the time / because / before, y su uso dentro de la ENTREVISTA SIMULADA del dia. La regla se USA, no se explica. NO TOCAR AUN: la cita del libro y la forma en papel (eso es de GRAMATICA Cl 18) · el present perfect con have / has y su contraste con el pasado simple (Cl 21-23). Si "I have..." sale espontaneo, se acepta y se sigue.**
+
+> **HITO DE HOY — SEGUNDA ENTREVISTA SIMULADA, DENTRO del Bloque 3.** La primera fue en la Cl 10. **Cada estudiante es candidato UNA vez, 3 minutos, en una sola toma, y TU la grabas con tu telefono.** Tu papel es COACH desde afuera: **jamas eres candidato ni entrevistador.** Si preguntan si esto es una nota o si cuenta para la garantia: *"That is coordination, not me. What I give you is feedback."*
 
 ## BLOQUE 1 — APERTURA (20')
 
-**Objective: reload the story and open a slot BEFORE it.**
+**Objective: every voice is awake, every video is accounted for, and the room opens a slot BEFORE the story.**
 
-1. **Recuperacion (10', oral, DE PIE, sin cuaderno, en cadena).** Disparadores (Cl 15 y Cl 11). Errores al tablero ANONIMOS; escribes SOLO la linea correcta (sin explicar); coro 2x; 1 min de re-produccion:
-   - **(N-3, Cl 15 — narracion del pasado):** "One clean interruption line about last week: 'I was ___ing WHEN ___ happened.'"
-   - **(N-3, Cl 15 — orden):** "Now the same event in three ordered steps: 'First... then... finally...'"
-   - **(N-7, Cl 11 — pasado regular):** "Say them clean: worked, played, needed, studied, stopped. Which -ed sound is each?"
-   - **(N-7, Cl 11):** "One true sentence with a regular past verb."
-2. **Chequeo publico de portafolio (3').** *"Who sent yesterday's audio?"* Anota numeros. NO revisas contenido.
-3. **Frase del Dia (4').** Board ANTES de empezar; 2 lecturas, coro 2x, 1 solo. Insertala 3+ veces; cierre 1 de memoria + 1 en oracion nueva.
-4. **Revision tarea Cl 17 (3').** Sobre la mesa: historia completa de 10-12 lineas con las capas marcadas en el margen + audio B1-CONV-17. Recoge. No-entregas: nombre SOLO a tu cuaderno; *"Homework is the contract."*
-5. **PASE recibido de Grammar (Cl 17):** leelo. Roundup "Before that..." (2'): cada estudiante agrega a su historia de ayer **UN evento anterior** — algo que ya estaba hecho antes de que la historia empezara.
+1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
+2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar. Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'I was work' — 'I was WORKING'"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* En la misma pasada marcas quien tiene **el cuaderno con la tarea escrita de Gramatica Cl 17 abierto sobre la mesa** (SI / NO). No lo lees ni lo corriges: solo se registra.
+3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Conv Cl 15** (el pasado continuo hablado: was / were + -ing) · N-7 = **Conv Cl 11** (pasado regular con sus tres sonidos y marcador de tiempo). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
+   - "What were you doing at 9:00 yesterday morning? One full sentence." (Cl 15)
+   - "What were your colleagues doing at that moment? 'They were ___ing.' — and one 'wasn't / weren't'." (Cl 15)
+   - "Say them clean and name the sound: worked /t/ · lived /d/ · wanted /id/." (Cl 11)
+   - "One true sentence about yesterday that gives credit: 'She checked..., I called...' — ED and a time marker." (Cl 11)
+4. **Lectura del PASE recibido, en voz alta (2').** Lees los 3 errores escritos del papel. Puente: *"Your stories have a scene, a turn and an order. Today they get a floor: what you had ALREADY done before it all started."*
+5. **Frase del Dia (2').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea, sin clase de gramatica: *"HAD + the participle: what was already done before the main moment."* Insertala natural **3+ veces** (una de ellas antes de la primera entrevista); al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
-> [VIRTUD] Board: `FORTITUDE — DAY 3`. Di: *"Fortitude did not start on the hard day. It was already there — built before, in the work nobody saw. Today you tell that part."*
+> **[VIRTUD] FORTALEZA — Cl 3 de 5. Tablero: "FORTITUDE — DAY 3 OF 5".** (6', el ritual completo)
+> **Por que:** la fortaleza no aparece el dia dificil: ya estaba construida antes, en el trabajo que nadie vio. El candidato que aguanta una entrevista dura no es el mas valiente en ese minuto; es el que ya habia preparado, ya habia fallado y ya habia aprendido. Hoy se cuenta esa parte.
+> **En el aula hoy:** cada historia y cada respuesta de la entrevista lleva UNA cosa que la persona ya habia hecho antes del momento dificil. Y el candidato que se traba, sigue desde donde quedo: no pide repetir.
+> **V (1'):** *"Day three of fortitude. Courage on the hard day is built before the hard day."* · **A (1'30''):** pregunta, 30 seg de pensar: *"Think of a hard day at work or in your studies. What had you already done that helped you survive it?"* · **T (3'):** cadena de pie, cada uno 1-2 frases (*"Before the audit, I had checked every invoice."*); escuchas y anotas, NO corriges aqui · **S (30''):** 2-3 al grupo y cierras: *"Fortitude is the work you had already done when nobody was watching."*
+> **Si alguien pregunta que tiene que ver con ingles:** *"Everything. In twenty minutes you sit in an interview. What will hold you there is not a new word: it is what you had already prepared."*
 
-## BLOQUE 2 — LO QUE YA HABIA PASADO (40')
+## BLOQUE 2 — LO QUE YA HABIA PASADO (35')
 
-**Objective: by the end, each student retells a real story with at least two earlier events placed correctly.**
+**Objective: by the end, every one of you retells a real story with two earlier events in the right place, and your interview answer has a backstory.**
 
-1. Board — **BANCO DE EJEMPLOS + MARCOS** (para imitar con la boca, NO para analizar):
+1. **Avance de proyecto hoy: MY STORY, MY GOALS — pieza "BEFORE MY STORY BEGAN" (1').** Di: *"One piece every class. Today: what you had already done before your story started. It goes into your interview in twenty minutes, and into your presentation in Cl 22."*
+2. **Tablero, BANCO DE EJEMPLOS, solo uso ORAL (3') — la forma en papel la sella Gramatica Cl 18:**
 ```
 BEFORE THE STORY BEGAN — say it, do not study it
-  "By the time the client called, I HAD finished the report."
-  "I was ready because I HAD prepared all week."
-  "Before the meeting started, I HAD sent the numbers."
-  "When I arrived, it started."  vs  "When I arrived, it HAD started."
+ "When we moved to Colombia, I had learned Spanish."  (B1 Book p.103)
+ "I had studied English before I went to London."     (B1 Book p.104)
+ "By the time the client called, I HAD finished the report."
+ "I was ready because I HAD prepared all week."
+ "When I arrived, it started."  vs  "When I arrived, it HAD started."
 PARTICIPLES YOU ALREADY OWN
-  finished · prepared · worked · studied · sent
-  gone · taken · seen · done · been · made
+ -ed: finished · prepared · worked · studied · learned  (A2 M15 p.134)
+ been · taken · driven · eaten · gone · told · found    (A2 M16 p.148)
 ASK EACH OTHER: "What had you already done before that?"
+NEVER "I had went" · NEVER "I had finish"
 ```
-2. **Modela 60 seg:** cuenta un logro tuyo — 1 evento principal + 2 cosas que ya habias hecho antes. NO señales las formas. Cierra preguntando al grupo *"which one happened first?"*
-3. **Meta del bloque (1 linea, en ingles):** *"By the end of this block each of you retells a real story with two earlier events, and your partner can say which happened first."*
-4. **Ejecucion:**
-   - **Preparacion (6'):** cada uno elige un logro o una recuperacion real y anota en palabras sueltas: 1 evento principal + 2 cosas que ya estaban hechas antes.
-   - **Ronda 1 (12'):** A cuenta; B tiene que **ordenar en voz alta** los tres hechos ("first you ___, then ___, and then the main thing happened"); B devuelve la pregunta "What had you already done before that?". Cambio.
-   - **Ronda 2 (12'), pareja nueva y SIN notas:** la misma historia pero **empezando por el evento principal** y metiendo los anteriores con los marcos ("...because I had ___", "by the time ___, I had ___"). **90 segundos cronometrados.**
-5. **Avance MY STORY:** cada uno agrega a su papel de "My Story" 2 lineas de backstory — lo que ya habia hecho antes de que su historia empezara.
-6. **Correccion (maximo 3'):** solo el error que aparezca en 2+ parejas. Al board va **la linea correcta**, anonima, coro 2x, y siguen. **Cero explicacion.** Nombres a tu cuaderno.
+3. **Modelas 60 seg (2').** Cuentas un logro tuyo real: 1 evento principal + 2 cosas que ya habias hecho antes. NO señalas las formas; cierras preguntando al grupo *"Which one happened first?"*
+4. **Meta del bloque + preparacion (4', notas minimas en su propio papel).** *"By the end of this block each of you retells a real story with two earlier events, and your partner can say which happened first."* Cada uno anota en palabras sueltas: 1 evento principal + 2 cosas ya hechas antes.
+5. **Ronda 1 en parejas (9').** A cuenta; B **ordena en voz alta** los tres hechos (*"First you studied, then you applied, and then they called you"*) y devuelve la pregunta *"What had you already done before that?"*. Cambian. Numero impar = un trio.
+6. **Ronda 2, pareja nueva y SIN notas (8').** La misma historia **empezando por el evento principal** y metiendo los anteriores con los marcos (*"...because I had...", "by the time..., I had..."*). **90 segundos cronometrados** por persona.
+7. **Pieza de proyecto + respuesta de entrevista (6').** Cada uno toma su "Tell me about yourself" de la Cl 10 y le agrega **2 lineas de "BEFORE MY STORY BEGAN"** con HAD; lo dice una vez a una pareja nueva en 90 segundos. La pareja devuelve UNA cosa. Las lineas quedan en su propio papel para el proyecto.
+8. **Correccion (2').** Solo el error que aparezca en 2+ parejas: al tablero **la linea correcta**, anonima, coro 2x, y siguen. Cero explicacion. Nombres y citas a tu cuaderno.
 
-## BLOQUE 3 — SIMULACION: "WHY WAS IT ALREADY DECIDED?" (35')
+## BLOQUE 3 — HITO: SIMULATED JOB INTERVIEW, SECOND ROUND (40')
 
-**Objective: use the earlier event under pressure, reconstructing why something went the way it went.**
+**Objective: hold your second three-minute job interview in English — with your backstory in it — and leave it recorded to compare with Cl 10.**
 
-1. Board: `PROJECT REVIEW — "WHAT HAD ALREADY HAPPENED?" — 3 ROTATIONS`
-2. Escenario profesional realista (solo tablero y sala): revision de un proyecto/pedido/entrega que salio bien o mal, y hay que explicar que ya estaba hecho (o no estaba hecho) antes de que pasara. **1 estudiante = guest**: cuenta el resultado + al menos 3 hechos anteriores que lo explican. Otro rota como el que revisa y presiona ("By the time it failed, what had you already sent? Had the client answered? Why were you ready?"). El resto = **OBSERVERS ACTIVOS**: en su papel anotan 2 aciertos (tipos), 1 mejora, 1 pregunta, y marcan si algun hecho anterior quedo puesto en el evento equivocado. Tu = **COACH desde afuera — NUNCA juegas rol.**
-3. 3 rotaciones (~8' c/u). Entre rotaciones, 60 seg de cadena veloz: cada uno "main event -> what I had already done", sin pausa.
-4. Debrief (4'): observers reportan TIPOS ("clean earlier event", "the flashback landed on the wrong event") — nunca personas.
-
-> [VIRTUD] Di: *"Fortitude is the work you had already done when nobody was watching. That is why you were ready."*
+1. **Montaje (3').** Tablero: `SECOND JOB INTERVIEW — 1 CANDIDATE (GUEST) — 2 INTERVIEWERS — EVERYONE ELSE OBSERVES — RECORDED`. Dos sillas para los entrevistadores y una para el candidato; el resto en semicirculo. Escribes el banco y ahi se queda:
+```
+THE INTERVIEW -- 6 QUESTIONS, ASKED IN THIS ORDER
+ 1. Tell me about yourself.                              (90 sec)
+ 2. Why should we hire you for this role?
+ 3. Before you applied for this job, what had you
+    already done to prepare?                             (had + participle)
+ 4. Tell me about a hard day at work. What were you
+    doing when the problem started?                      (was -ing + when)
+ 5. What was your last job or study like? What were
+    you doing every day there?                    (past simple + -ing)
+ 6. Do you have any questions for us?                    (candidate asks)
+```
+2. **La vacante (dentro del montaje).** Cada candidato dice en 10 segundos el puesto, real y de su propio campo, **distinto al de la Cl 10 o un nivel mas arriba** (*"shift supervisor" en vez de "assistant"*). Nada fantasioso.
+3. **Reglas duras del hito:**
+   - **TU eres COACH desde afuera — NUNCA candidato, NUNCA entrevistador.** Los dos entrevistadores son estudiantes que rotan. Si el candidato se congela 15 segundos, sueltas UN prompt (*"Tell them what you had already done"*) y te retiras. No terminas sus frases.
+   - **3 minutos por candidato, UNA sola toma, sin repetir.** El que se traba sigue desde donde quedo.
+   - **Grabas tu con tu telefono**, de pie al lado, plano fijo. Antes de la primera toma, 10 segundos: *"Your first interview was in Cl 10. This is the second. Speak, do not read."* Etiqueta `B1-4H-ENTREVISTA2-CL18-[nombre]`; HOY la subes al grupo de WhatsApp del cohorte, una por una, con el nombre.
+   - **TODOS pasan como candidato una vez:** 3 min de entrevista + 1 min de devolucion por persona. **El cierre no arranca sin la lista completa.**
+4. **OBSERVERS ACTIVOS con ficha en su propio papel (la dibujan en 30 seg):** `HAD + PARTICIPLE HEARD` (una raya por cada uno) · `1 STRENGTH (type, not person)` · `1 IMPROVEMENT` · `1 QUESTION I WOULD HAVE ASKED`. Al cerrar cada entrevista, en 60 segundos: un observer canta el conteo, otro la fortaleza en TIPO, otro la mejora. **Nunca se nombra a nadie y nunca se dice "bien" o "mal": se dice que paso.**
+5. **Tu devolucion, 10 segundos por candidato, inmediata.** UNA sola cosa, concreta y en ingles (*"question three had no HAD — 'I had studied', not 'I studied'"*). NO comparas candidatos, NO hablas de notas ni de resultados.
+6. **Debrief final (3').** Los observers reportan TIPOS de todo el bloque (*"question five was the hardest"*, *"'I had went' twice"*). Correcciones al tablero, coro 2x. Cierras: *"Two interviews in English. Watch the first one tonight, then the second. You will hear it."*
 
 ## BLOQUE 4 — CIERRE (15')
 
-1. **Ticket de salida (5', sentados):** 3-5 frases con 1 evento principal + 2 eventos anteriores + 1 marco (by the time / because / before). Se recogen TODOS. NO los evaluas ni comentas — viajan con el error paper a coordinacion.
-2. **Cierre FORTALEZA (dia 3):** *"What had you already done that made you ready?"* — 2 respuestas, rapido. *"Day 3 of Fortitude. Cl 19 we clean the stories: same stories, zero mistakes."*
-3. **Tarea (board, due date explicita):**
+1. **Ticket de salida (4').** 3-5 frases sobre la entrevista de hoy: 1 evento principal + al menos 2 eventos anteriores con HAD + 1 marco (by the time / because / before). Nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
+2. **Error paper (4').** Escribes 4-6 errores REALES del dia en el papel fisico ANONIMO y los pasas al tablero sin nombres. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio corregido. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
+3. **Cierre de FORTALEZA, dia 3 (2').** *"What had you already done that made you ready today?"* — 2 respuestas. Cierras: *"Day three of fortitude. Two more in each of your classes."*
+4. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. **Asignas el turno de la Cl 19:** un estudiante voluntario (o el primero de la lista que aun no haya enseñado) abre el Bloque 2 de la proxima clase enseñando en 5 minutos **2 errores del error paper de hoy**; lo anotas en tu cuaderno. Lees la tarea en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have GRAMMAR Cl 18 with the other teacher: same point, new Phrase of the Day. You put HAD + participle on paper, with the book. Bring your paper and send your video."*
+
+**Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
-HOMEWORK CL 18 CONV — DUE Cl 19, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE one story, 10-12 lines: main event in past simple + 2 earlier
-    events (had + participle) + 2 frames (by the time / because / before)
-    + closer. Underline HAD, circle the participle. (Feeds 'My Story'.)
-(2) PORTFOLIO audio (daily) — 2-3 min, eyes closed: tell the backstory
-    aloud, no reading. Label: B1-CONV-18. WhatsApp group.
-(3) Bring the paper to Cl 19.
+HOMEWORK CONVERSATION CL 18 — ONE TASK ONLY: THE VIDEO.
+DUE: Cl 19, BEFORE 7:00 PM — that is, TODAY before 7:00 PM.
+NOT NEGOTIABLE. TIME: 30-45 min (B1) — watch your two interviews
+(Cl 10 and today), prepare, rehearse twice, record. NOT fragmented.
+DAILY PORTFOLIO VIDEO No. 18 — MINIMUM 3 MINUTES, video of yourself
+speaking, straight through, NO reading, NO script on camera.
+Content: "BEFORE MY STORY BEGAN" — one real achievement and at least
+4 things you HAD already done before it, with by the time / because /
+before. Then answer interview question 3 again, better than today.
+Close with the Phrase of the Day.
+Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-18.
+Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
-4. **Error paper:** cierra el papel fisico anonimo; nombres + citas literales en tu reporte a coordinacion.
-5. **Proxima clase:** *"Cl 19 = the clinic. Same stories, told again — this time without the mistakes. Any question about evaluation goes to coordination — not to me."*
-6. **PASE a Grammar HOY** (entregar fisicamente antes del cambio de bloque):
+> **La tarea de hoy es SOLO el video** — la tarea escrita de este punto la asigna el docente de Gramatica hoy a las 10:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
+5. **PASE al docente de GRAMATICA (Grammar Cl 18, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Gramatica. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv -> Grammar — Cl 18 (mismo dia)
-3 gaps frescos de hoy (error literal, SIN nombre aqui):
-1. ______________________  2. ______________________  3. ______________________
-Patrones orales de hoy: (a) verbo base tras HAD ("I had finish"); (b) pasado
-simple en vez de participio ("I had went"); (c) HAD puesto en el evento
-equivocado; (d) aplanamiento (todo en simple); (e) marco perdido (sin by the
-time / because / before). Hoy contaron lo que YA habia pasado (2 rondas +
-project review, 3 rotaciones). En tu bloque: formaliza HAD + participio EN PAPEL.
+PASE Conv Cl 18 -> Grammar Cl 18 — del docente de CONVERSACION al de GRAMATICA
+Virtud: FORTALEZA, Cl 3 de 5 (Cl 16-20). Angulo de hoy en mi pista: la
+preparacion que nadie vio (lo que ya se habia hecho). Tu guia trae el tuyo.
+HOY SE HIZO EL HITO: SEGUNDA ENTREVISTA SIMULADA, 3 min, 1 toma, grabada y
+subida HOY al grupo del cohorte. Grabados: ___ de ___. Faltan: ___________.
+LO QUE SALIO ORAL HOY: HAD + participio para el evento anterior, con by the
+time / because / before. Libro B1 M9 Guide 2 p.103-104 (solo oral).
+3 ERRORES literales de hoy (SIN nombre aqui; nombres en mi reporte):
+1. ____________________  2. ____________________  3. ____________________
+Patrones oidos: (a) verbo base tras HAD ("I had finish"); (b) pasado simple
+por participio ("I had went"); (c) HAD en el evento equivocado; (d) todo en
+simple, sin capa anterior; (e) sin marco (by the time / because / before).
+QUE QUEDA PENDIENTE: la cita del libro, la forma en papel, negativo y
+pregunta con short answer. No los toque.
+YA QUEDO HECHO HOY, NO LO REPITAS: el banco oral de HAD · las 2 rondas de
+backstory · la pieza "BEFORE MY STORY BEGAN" · la entrevista completa ·
+chequeo de portafolio (videos que NO llegaron: ____________).
+SIMULACION QUE USE HOY — NO LA REPITAS: "SECOND JOB INTERVIEW" (6 preguntas).
+Ni titulo, ni guion, ni preguntas: escenario profesional DISTINTO.
+TAREA ESCRITA: la asignas TU. Yo hoy deje SOLO el video No. 18.
+LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo punto.
+Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + project review) ☐ PASE entregado ☐ Portafolio anotado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Cuadernos de Grammar Cl 17 marcados SI / NO ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ **Entrevistas B1-4H-ENTREVISTA2-CL18-[nombre] subidas hoy al grupo del cohorte (faltantes al reporte)** ☐ Todos pasaron como candidato ☐ Turno de enseñanza de Cl 19 asignado
 
 [PAGEBREAK]
 
-## ANEXO — Plan B por bloque + NOTA INTERNA (no leer en clase)
+## ANEXO — M9 Guide 2 verbatim + Plan B (para tu preparacion, no se lee en clase)
 
-**Plan B (cero material impreso):**
-- **B1:** si la cadena se traba, 1 solo disparador (Cl 15, interrupcion) + 3 lineas correctas al board. Sin PASE de Grammar, arranca directo con el roundup "Before that...".
-- **B2:** si a los 20' pegan el verbo base o el pasado simple tras HAD, corta el segundo evento anterior y quedate SOLO con "By the time ___, I had ___" hasta que salga limpio y rapido.
-- **B3:** con <4 estudiantes, 2 rotaciones largas; el guest repite con otro proyecto. Si alguien se bloquea, el que revisa da el arranque ("Before it failed, what had you sent?").
-- **B4:** ticket de 3 frases si falta tiempo; la tarea NO se recorta.
-- **Si te piden la regla:** respuesta unica — *"Grammar explains it. Here we use it."* + repites la linea correcta y sigues.
+**Libro B1, Module 9 — "More About Perfect Tenses / Not So Simple, Anymore!" (p.97). Guide 2 — The Past Perfect (p.103), verbatim:** "2. The past perfect tense uses the same participle, but the auxiliary verb 'to have' is in the past tense ('had'). The negative form often uses the contraction ('had not' -> 'hadn't')." · "3. We use the past perfect together with the simple past to talk about events that happened before another past event. For example: 'When we moved to Colombia, I had learned Spanish.'" · "4. ... The past perfect is a 'narrative tense' because it helps us explain the relationship in a story."
+**Examples (p.104), verbatim, para modelar:** "I had studied English before I went to London." · "Arnulfo arrived early today because he had forgotten to shower." · "I had worked all weekend, so I was very tired last night." · "When Paola arrived, we had already started the class." · "We moved to Medellin because my father had found a new job there."
+**Participios:** A2 M15 Guide 1 p.134: "La mayoria de los participios ... se forman agregando '-ed' al verbo, igual al pasado simple." · A2 M16 Vocabulary p.148: be-was/were-**been** · take-took-**taken** · drive-drove-**driven** · wake up-woke up-**woken up** · eat-ate-**eaten** · go-went-**gone** · tell-told-**told** · find-found-**found**.
 
-**NOTA INTERNA:**
-- **Compresion del arco del pasado (coordinacion 25/08/2026):** Cl 15 = consolidacion conversacional · Cl 16 = used to/would · Cl 17 = narrativa 4 capas · **Cl 18 = past perfect en uso** · Cl 19 = clinica oral. **Cl 20 y Cl 21+ NO cambian.**
-- **De donde sale el contenido:** el PARTICIPIO viene del libro — A2 Book **M15** (regulares, "I Have Visited London", p.133+) y **M16** (irregulares, "I Have Gone to Paris", p.147+). La ESTRUCTURA past perfect (had + participio para anidar) va MAS ALLA del A2 Book: extension B1 estandar, **sin citar pagina — NO inventar cita**. `(SUPUESTO DE PLANEACIÓN — verificar)`.
-- **Cuidado con el puente:** el participio se usa hoy SOLO despues de HAD. El present perfect (have/has + participio) NO se abre aqui — es Cl 21 en adelante. Si sale espontaneo, se acepta y se sigue; no se sistematiza.
-- **Recuperacion:** N-3 = Cl 15 (narracion consolidada del pasado, ajustado al mapa nuevo); N-7 = Cl 11 (pasado regular -ed, que ademas alimenta los participios regulares de hoy). Sin mapa semanal procesado → disparadores desde el contenido, NO desde tickets.
-- **Virtud:** Cl 16-20 = FORTALEZA v1 (calendario absoluto), hoy dia 3.
-- **PASE bidireccional Conv-Grammar activo.** Grammar quedo comprimido EN ESPEJO el mismo 25/08 (Cl 15 consolidacion - 16 used to/would - 17 narrativa - 18 past perfect - 19 clinica): la formalizacion en papel llega el MISMO dia. Conv sigue sin explicar.
-- **Siembra de presentacion:** el backstory de hoy alimenta "My Story" (presentacion integrada Cl 22, anunciada desde Cl 1). **Sin detalles de evaluacion — eso es coordinacion, nunca el profe.**
-- Profe sin material preparado: todo en tablero + papel del estudiante.
+**Reservado para GRAMATICA Cl 18, no hoy:** la cita del libro en el tablero, la forma en papel, negativo (hadn't) y pregunta con short answer (*"Had you finished? — Yes, I had."*).
+
+**Plan B (cero material, todo tablero o voz):**
+- **Grupo grande, no alcanzan todos:** entrevista a 2'30'', devolucion a 30 seg, y **grabas a los ultimos dos en el pasillo durante el ticket**. La entrevista NO se pasa a otro dia.
+- **Grupo muy pequeño:** cada uno pasa dos veces, la segunda con otra vacante y las preguntas 3-5 en otro orden.
+- **Se cae el telefono o no hay espacio:** la entrevista se hace igual; anotas en el reporte quien quedo sin grabar. La clase NUNCA se detiene por la grabacion.
+- **Bloque 2 atascado (base o pasado simple tras HAD a los 15'):** cortas el segundo evento anterior y te quedas SOLO con *"By the time ___, I had ___"* hasta que salga limpio.
+- **Grupo incompleto a las 8:00:** arrancas igual, registras la llegada tarde; el que llega igual pasa como candidato.
+- **Sobra tiempo:** "the question you feared" — cada uno responde otra vez, en 45 segundos, la pregunta que peor le salio.
+- **Si te piden la regla:** *"Grammar explains it at ten. Here we use it."* + repites la linea correcta y sigues.
+
+## NOTA INTERNA PARA COORDINACION (no se lee en clase)
+
+- **Edicion unica manana/noche:** esta guia reemplaza la guia 4H anterior de Cl 18 con el formato de la edicion nueva: 110 min (dia de hito: B1 20' + B2 35' + B3 40' + B4 15'), PASE en papel Conv -> Grammar a las 10:00 y Grammar -> Conv para la clase siguiente, due "Cl N+1, BEFORE 7:00 PM", ticket antes del error paper, UN solo video diario (el de Conversacion). Contenido conservado: HAD + participio oral, backstory, pieza de MY STORY, Frase del Dia.
+- **Frente a la guia 4H anterior:** (1) **HITO INTEGRADO:** la guia anterior no traia la entrevista (su B3 era "PROJECT REVIEW — what had already happened?"); el mapa del nivel de la Cl 1 fija **ENTREVISTA SIMULADA Cl 10 y Cl 18**, asi que el B3 es la segunda entrevista. (2) **Ancla de libro corregida:** la guia anterior de Conv decia "sin citar pagina"; el **Libro B1 M9 Guide 2 p.103-105** existe (verificado en el PDF) y ahora se cita. (3) El audio diario paso a **video de 3 min**; la escritura de la historia paso a Gramatica. (4) Se agrega el turno de enseñanza entre pares que abre Conv Cl 19.
+- **Grabaciones de hoy:** al computador de la academia solo van entrada, hitos de Cl 10/20/30/40 y salida. Por eso la entrevista de Cl 18 NO se reenvia a la auxiliar: queda en el grupo de WhatsApp del cohorte, donde viven los videos diarios, para que cada estudiante compare con la de Cl 10. `SUPUESTO DE PLANEACION — verificar` (destino y etiqueta de la grabacion de Cl 18).
+- **Anti-duplicado:** Conv usa **SECOND JOB INTERVIEW**; Grammar Cl 18 usa una revision post-incidente con el jefe de operaciones (otro registro, otros roles). El PASE lo prohibe.
+- **Recuperacion:** N-3 = Conv Cl 15 (pasado continuo, A2 M12 Guide 1 punto 1 p.100) · N-7 = Conv Cl 11 (pasado regular, A1 M10). Sin mapa semanal de tickets: NO se citan tickets.
+- **Virtud:** FORTALEZA, Cl 3 de 5 (Cl 16-20), calendario absoluto. Angulo Conv: la preparacion que nadie vio.
+- **Secuencia Cl 13-17 (decision de coordinacion):** used to / would y "while" NO estan en el libro y no se enseñan; la pregunta 5 de la entrevista usa pasado simple + pasado continuo (Cl 15).
+- `SUPUESTO DE PLANEACION — verificar`: las 6 preguntas de la entrevista son diseño Heiiu (reciclan el tramo Cl 11-18).
