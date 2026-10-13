@@ -1,0 +1,176 @@
+# B1 MASTERY NOCTURNO 2H — Cl 21/44 GRAMATICA (martes, jueves y viernes alternos) — HOJA DE RUTA
+
+**Grammar 21/44 · 120 min · 6:30-8:30 PM · Bloques: B1 22' + B2 45' + B3 38' + B4 15' = 120**
+**Modulo:** A2 Book **M15 "I Have Visited London — The Present Perfect – Regular Verbs" (p.133; Guide 1 p.134; Examples p.135; Exercises 1 p.136)**; la regla SE SELLA EN PAPEL
+**Focus (1 linea):** Lo que en la ultima clase de Conversacion dijeron en la presentacion — "I have learned, I have improved" — ahora queda escrito: have / has + participio -ed en afirmativo, negativo, pregunta y short answer.
+**Virtud:** PRUDENCIA (segunda vuelta) — Cl 1 de 5 de esta virtud (Cl 21-25 de cada pista) — ABRE el bloque
+**Frase del Dia:** *"Prudence plans before it speaks: have or has, then the participle — I have prepared, I have practiced, I have decided to be ready."*
+
+> **ENGLISH ONLY de principio a fin.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges. Los rituales ya se presentaron en la Cl 1: hoy solo se APLICAN, no se explican.
+
+> **DE PIE: Bloques 1-3 completos en o junto al tablero (~105 de 120 min = 87%; piso 70%). Solo el Bloque 4 es sentado.** Movimiento SIEMPRE con contenido: nada de "stand up / sit down" suelto.
+
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video) y el PASE que te dejo por el grupo el docente de Conversacion al cierre de la Conv Cl 21. NADA impreso: todo va al tablero o al papel del propio estudiante.
+
+> **HOY SOLO: present perfect con participios REGULARES — have / has + verbo -ed en afirmativo, negativo, pregunta, short answer y version abreviada — y la regla del libro: con tiempo fechado va el pasado simple (p.134-135). NO TOCAR AUN: los participios IRREGULARES (been, gone, taken, eaten: Cl 22) · ever / already / yet y la decision sistematica pasado simple vs present perfect (M17, Cl 23).**
+
+## BLOQUE 1 — RECUPERACION Y PASE DE LA ULTIMA CLASE DE CONVERSACION (22') — DE PIE
+
+**Objective: every video is accounted for, and the participle you own under HAD is ready for a new auxiliary.**
+
+1. **6:30 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 6:45 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o la presentacion: *"That is coordination, not me."*
+2. **Chequeo de portafolio con lista en mano, COMPLETO (5').** Esta es otra noche: el chequeo es tuyo y va nombre por nombre. Ya viste los videos antes de entrar. Di: *"I am not asking who made it. I am asking who SENT it. Who sent video G-20, your last Grammar video?"* Marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'I had went' — 'I had GONE'"*). Al que no envio: *"You send the missing video TONIGHT, together with today's. Two videos, same night. The list goes to coordination tonight."* Sin discusion.
+3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 18** (HAD + participio en papel) · N-7 = **Grammar Cl 14** (expresiones de tiempo pasado y secuencia). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
+   - "Join the two events: 'arrive / the meeting start' -> 'When I arrived, the meeting had started.'" (Cl 18)
+   - "Question and short answer: 'Had you finished?' — 'Yes, I had.'" (Cl 18)
+   - "Where does AGO go? One true sentence with it." (Cl 14)
+   - "LAST + period: one true sentence — no 'the', no 'in'." (Cl 14)
+4. **Lectura del PASE recibido, en voz alta (2').** Lees los 3 errores literales del papel: *"These came out in Conversation, in your presentation. Now we seal 'I have' on paper."*
+   > **Si dictaste tu la clase anterior (jueves y viernes, o viernes y lunes), no hay PASE entrante del otro docente: arrancas de tu propia clase y la de hoy es de CONSOLIDACION de tu pista: misma estructura, mas produccion.** En ese caso usas los errores tipicos del Bloque 2 como gaps y el Bloque 3 suma una quinta rotacion. **Si Conversacion Cl 22 ya se dicto antes que esta clase, igual sellas Conversacion Cl 21: su PASE quedo guardado en el grupo.**
+5. **Frase del Dia (2').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea: *"First the auxiliary — have or has — then the participle."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
+
+> **[VIRTUD] PRUDENCIA — Cl 1 de 5. ABRE el bloque. Tablero: "PRUDENCE — DAY 1 OF 5 — OPENING".** (6', el ritual completo)
+> **Por que:** prudencia es pesar antes de elegir. En un reporte de avance, el profesional prudente separa con cuidado lo que ya termino de lo que todavia no ha hecho — y no promete lo que no ha hecho. Decir "I haven't contacted the supplier yet" a tiempo evita el problema que viene. Esta segunda vuelta de la virtud empieza por ahi.
+> **En el aula hoy:** antes de cada frase se elige el auxiliar (have / has) y se piensa si el hecho tiene fecha cerrada o no. En la simulacion, cada uno declara tambien lo que NO ha hecho, sin adornarlo.
+> **V (1'):** *"A new block opens today: PRUDENCE, the second time in this level. Prudence weighs before it speaks."* · **A (1'30''):** pregunta, 30 seg de pensar: *"Think of a time someone said a task was done when it was not. What happened?"* · **T (3'):** cadena de pie, cada uno 1-2 frases con have / has + -ed (*"I have finished the report. I haven't called the client."*); escuchas y anotas, NO corriges aqui · **S (30''):** 2-3 al grupo y cierras: *"Done is done. Not done is not done. Prudence never mixes them."*
+> **Si alguien pregunta que tiene que ver con ingles:** *"Everything. Your boss will ask 'Have you finished?' in English. The prudent answer is short, true and clear: 'Yes, I have' or 'Not yet.'"*
+
+## BLOQUE 2 — LA MAQUINA HAVE / HAS EN PAPEL (45') — DE PIE
+
+**Objective: everyone forms affirmative, negative, question and short answer with have / has + -ed, fast and clean, and knows when the book sends you back to the simple past.**
+
+1. **Tablero — cita del libro + regla (5'), DE PIE.** Las citas verbatim en espanol estan en el ANEXO; al tablero va en ingles:
+```
+THE PRESENT PERFECT — REGULAR (A2 Book M15, p.133-135)
+Use (p.134): actions in an INDEFINITE period, or not finished.
+             It is a past tense, in spite of its name.
+Form: HAVE / HAS + past participle (-ed, like the simple past)
+  I / you / we / they  HAVE played     he / she / it  HAS played
+  (-) have not / has not = haven't / hasn't + played
+  (?) Have you played? — Yes, I have. / No, I haven't.
+      Has she played?  — Yes, she has. / No, she hasn't.
+  Short form: I've · you've · he's · she's · it's · we've · they've
+Book pairs (p.135):  "I played soccer yesterday." -> "I've played soccer."
+                     "Did you study last week?"   -> "Have you studied?"
+                     "I didn't talk to Miguel."   -> "I haven't talked to Miguel."
+```
+2. **Señala la logica (2'), DE PIE.** *"Same participle you used after HAD in Cl 18. Only the auxiliary changes: had -> have / has. And look at the book pairs: the time word — yesterday, last week — stays with the simple past."*
+3. **Drill en circulo, DE PIE (10').** Cadena cerrada con contenido de trabajo: tu lanzas sujeto + verbo regular ("she / finish the report"); estudiante 1 afirmativa, 2 negativa, 3 pregunta, 4 short answer, 5 version abreviada; 6 lanza el siguiente. Velocidad creciente; la cadena no se detiene cuando alguien se cae.
+4. **Errores tipicos al tablero (4'), coro 2x cada correccion:**
+   - "I have play" -> "I have PLAYED" (participio -ed obligatorio)
+   - "he have worked" -> "he HAS worked" (tercera persona)
+   - "Have you finished it? — Yes, I have finished it." -> "Yes, I HAVE." (short answer)
+   - "I have finished yesterday" -> "I FINISHED yesterday" (tiempo fechado = pasado simple, como en los pares del libro)
+5. **Zone walk, DE PIE, en parejas (11').** Tablero en dos zonas: `WITH A DATE -> SIMPLE PAST` | `NO DATE -> HAVE / HAS + -ed`. Dices una accion con o sin marca de tiempo ("call the client / at 2:00" · "visit the new office / —"); cada pareja **CAMINA** a la zona **Y** dice la frase transformada **Y** la escribe en su papel. La pareja equivocada la corrige la de la zona correcta, con *"Almost — it's..."*.
+6. **Ejercicio del libro al papel del estudiante (8'), DE PIE junto al tablero. Dictado, nada impreso.** Dictas 6 frases del Exercises 1 (p.136) y ellos escriben **la otra columna** (pasado simple <-> present perfect, sin la marca de tiempo):
+```
+DICTATION (A2 M15, Exercises 1, p.136) — write the OTHER form:
+ 1. I walked to the house.          4. Has Santiago arrived?
+ 2. We asked the teacher.           5. I haven't played badminton.
+ 3. Samuel needed a friend.         6. Karina has arrived from the airport.
+```
+   Correccion oral en cadena: un estudiante distinto lee cada item y otro dice si es pasado simple o present perfect.
+7. **Cierre del bloque — produccion libre, de pie (5').** Cada uno escribe y dice 2 frases verdaderas sobre su mes de trabajo o estudio: una afirmativa y una negativa con have / has + -ed, y se las dice a dos parejas distintas. El drill nunca cierra el bloque: cierra el uso libre.
+
+## BLOQUE 3 — SIMULACION: MONTH-END PROGRESS CHECK WITH THE TEAM LEAD (38') — DE PIE 100%
+
+**Objective: report what you have and have not finished, under questions, with have / has + -ed and honest short answers.**
+
+1. **Tablero (1'):** `MONTH-END PROGRESS CHECK — 1 TEAM MEMBER (GUEST) — 1 TEAM LEAD — EVERYONE ELSE OBSERVES`. Debajo, la lista de tareas del mes y ahi se queda:
+```
+MONTH-END TASK LIST
+ [ ] update the client database      [ ] call the three new clients
+ [ ] finish the monthly report       [ ] contact the supplier
+ [ ] prepare the training session    [ ] order the new equipment
+```
+2. **Escenario profesional realista (solo tablero y sala), 2'.** Ultimo dia del mes; el lider de equipo revisa la lista con cada miembro antes del cierre. **1 estudiante = guest / miembro del equipo:** reporta las 6 tareas con have / has + -ed, **declarando con honestidad lo que NO ha hecho** (*"I have updated the database. I have called two clients. I haven't contacted the supplier."*). **1 estudiante rota como lider de equipo:** *"Have you finished the report? · Has the supplier answered? · What have you completed this month?"* — y exige short answers. **TU eres COACH desde afuera — NUNCA eres el guest ni el lider.** Si se congelan 15 seg, sueltas UN prompt (*"Tell her what you haven't done"*) y te retiras.
+3. **Minimos por rotacion:** 6 frases (al menos 2 negativas) · 3 short answers correctas · ninguna fecha con present perfect · al menos una tercera persona con HAS (*"my manager has helped me"*).
+4. **OBSERVERS ACTIVOS con ficha en su propio papel:** `HAVE / HAS + -ed RIGHT` (escriben cada uno) · `MISSING -ed or HAVE for HAS` · `PERFECT WITH A DATE` · `1 QUESTION`. Al cerrar cada rotacion cantan: *"seven right, one 'he have', one 'yesterday'."*
+5. **4 rotaciones (~7' cada una)**, guest y lider nuevos; el area cambia (ventas, recursos humanos, logistica, soporte tecnico) y el guest tacha mentalmente tareas distintas. Entre rotaciones, 45 seg de cadena de pie: *"work-worked-I have worked · call-called-she has called."*
+6. **Debrief (4').** Los observers reportan TIPOS y conteos, nunca personas. Correcciones al tablero, coro 2x. Intervienes solo si un error sale 3 veces.
+
+## BLOQUE 4 — CIERRE (15') — SENTADOS
+
+1. **Ticket de salida (4').** 3-5 frases con have / has + participio regular: al menos 1 negativa, 1 pregunta con short answer y 1 con HAS. Nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
+2. **Error paper al tablero, sin nombres (4').** Escribes 4-6 errores REALES de hoy, anonimos. El grupo diagnostica; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio corregido. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
+3. **Cierre de PRUDENCIA, dia 1 (2').** *"What have you NOT done yet this week that you need to do?"* — 2 respuestas de una frase. Cierras: *"Day one of prudence, in both of your classes."*
+4. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices las dos due dates completas. Anuncio: *"Next class is CONVERSATION Cl 22 with the other teacher. Then, in the next Grammar class, the book continues: the irregular participles — been, gone, taken. Bring your notebook and send your video."* Si preguntan por notas, criterios o resultados: *"That is coordination, not me."*
+
+**Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
+```
+HOMEWORK GRAMMAR CL 21 — TWO THINGS. NOT FRAGMENTED.
+TIME: 30-45 min (B1) for both.
+(1) WRITTEN, in your notebook: 12 true sentences about your real month
+    — 4 affirmative, 4 negative, 4 questions with short answers —
+    have / has + REGULAR participle (-ed). Underline the auxiliary,
+    circle the participle. No dates with the present perfect.
+    DUE: next class (Conversation Cl 22), BEFORE 6:30 PM —
+    notebook open on the table.
+(2) DAILY PORTFOLIO VIDEO — MINIMUM 3 MINUTES, video of yourself
+    speaking, straight through, NO reading, NO script on camera.
+    Content: "MY MONTH: DONE AND NOT DONE" — 6 things you have finished
+    this month and 3 you haven't finished yet, have / has + -ed, and
+    one sentence with HAS about a colleague or a family member.
+    No dates with "I have". Close with the Phrase of the Day.
+    DUE: next class of this track (Grammar Cl 22), BEFORE 6:30 PM.
+    NOT NEGOTIABLE. Record it TONIGHT and send it to the cohort
+    WhatsApp group. Label: B1-2H-VIDEO-G-21.
+    Audio only by exception (max 2 a week): the rule is VIDEO.
+```
+> **Esta es otra noche: Gramatica asigna su propio video, ademas del papel.** Hoy se dejan las dos cosas, cada una con su due date. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
+5. **PASE al docente de CONVERSACION (Conv Cl 22) — se lo dejas ESTA MISMA NOCHE, para la proxima noche de Conversacion**, por mensaje escrito directo por el grupo de docentes (o en papel en la carpeta del cohorte). No es opcional y no se pasa de palabra: **la clase siguiente la dicta otra persona que no estuvo hoy.** Copia este texto y llenalo antes de salir:
+```
+PASE Grammar Cl 21 -> Conv Cl 22 — del docente de GRAMATICA al de CONVERSACION
+Virtud: PRUDENCIA (segunda vuelta), Cl 1 de 5 — abierta en las dos
+pistas. La Cl 22: Cl 2 de 5.
+QUE QUEDO SELLADO HOY EN PAPEL (A2 M15 p.133-136): have / has + -ed en
+afirmativo, negativo, pregunta, short answer y version abreviada; con
+fecha, pasado simple (pares del libro p.135); dictado del Exercises 1.
+3 ERRORES ESCRITOS de hoy (cita literal, SIN nombre aqui; nombres en mi reporte):
+1. ____________________  2. ____________________  3. ____________________
+Patrones bajo presion: (a) "he have"; (b) participio sin -ed; (c) perfect
+con fecha ("I have finished at 2:00"); (d) short answer larga.
+YA QUEDO HECHO HOY, NO LO REPITAS: la tabla del libro · el zone walk · el
+dictado p.136 · la simulacion MONTH-END PROGRESS CHECK (no repitas ese
+titulo ni su guion) · chequeo de portafolio (G-20 NO llegaron: ________).
+TU CLASE ES LA DE "MY STORY, MY GOALS". Ellos llegan con la presentacion
+ensayada (video C-21) y 12 frases con "I have + -ed".
+TAREA QUE DEJE: 12 frases (cuaderno abierto en tu Conv Cl 22, antes de las
+6:30 PM; marcalo SI / NO) + mi video G-21 (due Grammar Cl 22). Tu video
+C-21 lo revisas tu. NO pidas otro papel encima.
+LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya.
+Firma Gramatica: ______________  Recibido Conversacion: ______________
+```
+
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ **PASE Conv -> Grammar leido en el Bloque 1** ☐ **PASE Grammar -> Conv Cl 22 enviado por el grupo esta noche** ☐ ~87% DE PIE confirmado
+
+[PAGEBREAK]
+
+## ANEXO — M15 verbatim, clave del dictado y Plan B (no se lee en clase)
+
+**A2 Book, Module 15 — "I Have Visited London / The Present Perfect – Regular Verbs" (p.133).** Objetivo: "Expresar frases usando el presente de perfecto."
+**Guide 1 (p.134), verbatim:** "1. Al contario del pasado simple, usamos el presente perfecto para acciones realizadas en un periodo indefinido o acciones no terminadas. Note que, a pesar de su nombre, es un tiempo pasado." · "2. Lo formamos con el verbo 'to have' (tener) como auxiliar (igual a 'haber' en español) y el participio pasado del verbo." · "3. La mayoria de los participios (llamados los 'participios regulares') se forman agregando '-ed' al verbo, igual al pasado simple y parecido al '-ado' o '-ido' de español." · "4. Se usa 'have' como auxiliar normal, (recuerde: 'he', 'she' y 'it' usan la forma 'has')." · "6. La respuesta corta tiene la forma predecible: E.g. 'Have you visited London?' 'Yes, I have.' / 'No, I haven't.'"
+
+**CLAVE del dictado (Exercises 1 p.136; el libro no trae clave, la forma sigue el modelo de los pares p.135):**
+1. "I walked to the house." -> "I've walked to the house." · 2. "We asked the teacher." -> "We've asked the teacher." · 3. "Samuel needed a friend." -> "Samuel has needed a friend." · 4. "Has Santiago arrived?" -> "Did Santiago arrive?" · 5. "I haven't played badminton." -> "I didn't play badminton." · 6. "Karina has arrived from the airport." -> "Karina arrived from the airport."
+
+**Plan B (cero material, todo tablero o voz):**
+- **Sin PASE de Conv:** usas los errores tipicos del Bloque 2 como gaps. No pierdas tiempo buscando.
+- **A los 20' siguen sin -ed o con "he have":** cortas el zone walk y haces solo la cadena afirmativa / negativa con HAS hasta que salga limpia.
+- **Dictado lento:** dictas 1, 3, 4 y 6; el resto queda fuera. NO recortas la correccion en cadena.
+- **Simulacion que no arranca:** el guest reporta solo 4 tareas y el lider hace 2 preguntas; subes a 6 en la segunda rotacion.
+- **Clase de CONSOLIDACION (no hay PASE entrante):** el drill suma una vuelta solo con HAS y el Bloque 3 una quinta rotacion (~6', area: contabilidad).
+- **Grupo incompleto a las 6:30:** arrancas igual, registras la llegada tarde; el que llega entra al drill sin que le repitas nada.
+- **Sobra tiempo:** "done or not done" — cada uno dice 3 frases sobre su semana, una falsa; el grupo adivina cual y la corrige con haven't / hasn't.
+
+## NOTA INTERNA PARA COORDINACION (no se lee en clase)
+
+- **Se deriva de** `VERSION_2/B1_4H/GRAMATICA/B1_Clase21_GRAMMAR_PRINT.md` (edicion unica manana/noche, regla 13/10): mismo contenido (M15 con cita del libro, drill de conjugacion, errores tipicos, zone walk fecha / sin fecha, dictado del Exercises 1 p.136, simulacion MONTH-END PROGRESS CHECK, tarea de 12 frases, apertura de PRUDENCIA). **Cambia solo el envoltorio 2H:** 120 min (22/45/38/15; los 10 minutos extra van al chequeo de portafolio completo, al drill, al zone walk, al dictado, a la produccion libre y a rotaciones de ~7'), noche distinta de la de Conversacion, PASE por el grupo esa misma noche.
+- **Video de Gramatica = envoltorio 2H:** en la fuente 4H el video del dia lo asignaba Conversacion; aqui es otra noche y Gramatica asigna el suyo (**B1-2H-VIDEO-G-21**, "MY MONTH: DONE AND NOT DONE", have / has + -ed de la clase). Due: proxima clase de la pista, antes de las 6:30 PM. Las 12 frases vencen antes de Conv Cl 22, que marca los cuadernos SI / NO. Hoy se revisa el G-20.
+- **Anti-duplicado:** Conv Cl 21 usa **DRESS REHEARSAL** (presentacion personal); Grammar usa **MONTH-END PROGRESS CHECK** (reporte de tareas a un lider).
+- **DE PIE 87%:** Bloques 1, 2 y 3 completos (105 de 120). El dictado se escribe de pie junto al tablero.
+- **Recuperacion:** N-3 = Grammar Cl 18 (past perfect en papel) · N-7 = Grammar Cl 14 (palabras de tiempo del pasado en papel). Sin mapa semanal de tickets: NO se citan tickets.
+- **Virtud:** PRUDENCIA (segunda vuelta), Cl 1 de 5 (Cl 21-25), calendario absoluto; hoy ABRE. Angulo de Gramatica: separar lo hecho de lo no hecho.
+- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — las 12 frases "I have + -ed" alimentan la parte "WHAT HAS CHANGED" de la presentacion de Conv Cl 22.
+- `SUPUESTO DE PLANEACION — verificar`: la distribucion de la semana (M15 Cl 21, M16 Cl 22, M17 Cl 23; M19 no existe en el libro) viene de la guia anterior; la clave de los items del Exercises 1 es la forma logica (el libro no trae clave).

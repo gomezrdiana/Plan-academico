@@ -56,11 +56,11 @@ NEVER "I was work" · NEVER "they was working" · NEVER "I working at nine"
 7. **Pieza de proyecto, en voz (5').** Cada uno dice a una pareja nueva su **"WHERE I WAS IN MY LIFE"**: un año clave, donde estaba viviendo, que estaba haciendo, quien estaba con el. La pareja repite un dato y hace UNA pregunta. Las lineas se anotan en su propio papel para el proyecto.
 8. **Producto + feedback (6').** 3-4 estudiantes dicen su pieza al grupo. Feedback primero sobre el LOGRO (*"could we see the picture?"*), despues sobre la forma. Errores que aparezcan en 2+ parejas al tablero ANONIMOS, coro 2x; nombres y citas a tu cuaderno.
 
-## BLOQUE 3 — SIMULACION: SHIFT HANDOVER — "WHAT WAS HAPPENING ON YOUR SHIFT?" (35')
+## BLOQUE 3 — SIMULACION: END-OF-SHIFT REPORT — "WHAT WAS HAPPENING ON YOUR SHIFT?" (35')
 
 **Objective: hand over a real work shift to a colleague — what each person and each area was doing — with WAS and WERE under pressure, and nobody left out.**
 
-1. **Tablero (1'):** `SHIFT HANDOVER — 1 OUTGOING SUPERVISOR (GUEST) — 1 INCOMING SUPERVISOR — EVERYONE ELSE OBSERVES`
+1. **Tablero (1'):** `END-OF-SHIFT REPORT — 1 OUTGOING SUPERVISOR (GUEST) — 1 INCOMING SUPERVISOR — EVERYONE ELSE OBSERVES`
 2. **Escenario profesional realista (solo tablero y sala), 2'.** Cambio de turno en una bodega, un hospital, un hotel o un call center: el supervisor que sale le cuenta al que entra como estuvo el turno, en 5 minutos, de pie, como se hace en cualquier operacion. **1 estudiante = guest / supervisor que sale:** dice que estaba pasando en cada area y que estaba haciendo cada persona por rol (*"At six the drivers were loading the trucks. The new assistant was checking the orders. Machine two was running slow all night. I was answering the client's calls."*), y una cosa que NO estaba pasando (*"Nobody was working in area C."*). **1 estudiante rota como supervisor que entra:** pregunta con was / were (*"What was the team doing at midnight? Was machine two running at five? Were the drivers waiting?"*). **TU eres COACH desde afuera — NUNCA eres ninguno de los dos.** Si se congelan 15 seg, sueltas UN prompt (*"Tell him what the drivers were doing"*) y te retiras.
 3. **Minimos por rotacion:** 6 frases con was / were + -ing (al menos 3 sujetos distintos: I, una persona, un grupo) · 1 negativo (wasn't / weren't) · 3 preguntas del que entra · ninguna area ni persona del turno queda sin nombrar.
 4. **OBSERVERS ACTIVOS con ficha en su propio papel (la dibujan en 30 seg):** `WAS (count)` · `WERE (count)` · `"-ING" MISSING / "THEY WAS"` (el error literal) · `ANYONE LEFT OUT? (yes / no)`. Al cerrar cada rotacion cantan: *"four WAS, three WERE, one 'they was', nobody left out."*
@@ -109,7 +109,7 @@ Cuadernos con las 12 frases de Grammar Cl 14 (SI / NO): ____ de ____.
 YA QUEDO HECHO HOY, NO LO REPITAS: el freeze frame oral · la pieza "WHERE I WAS
 IN MY LIFE" · el chequeo de portafolio (videos que NO llegaron: __________) ·
 la retrospectiva de cierre de virtud.
-SIMULACION QUE USE HOY — NO LA REPITAS: "SHIFT HANDOVER" (el que sale cuenta
+SIMULACION QUE USE HOY — NO LA REPITAS: "END-OF-SHIFT REPORT" (el que sale cuenta
 el turno al que entra). Ni el titulo ni el guion. Escenario DISTINTO.
 TAREA ESCRITA: la asignas TU. Yo hoy deje SOLO el video No. 15.
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo modulo.
@@ -143,6 +143,6 @@ Firma Conversacion: ______________  Recibido Gramatica: ______________
 - **CAMBIO DE CONTENIDO FRENTE A LA GUIA 4H ANTERIOR (decision de planeacion, revisar):** la anterior (compresion del 25/08) hacia de Cl 15 una "consolidacion del sistema del pasado" asumiendo que el grupo YA habia recibido was / were + -ing y la interrupcion con when. Eso valia para el cohorte de agosto. En la edicion nueva, la secuencia de Cl 11-14 NO enseña el pasado continuo y la caja HOY SOLO de la Cl 12 (edicion maestra) lo ubica en **Cl 15-16**. Por eso: **Cl 15 = pasado continuo (A2 M12 Guide 1 punto 1, p.100)** · **Cl 16 = la interrupcion con when (punto 2, p.100)** · Cl 17 = la historia completa por capas (se conserva de la anterior). El modulo del libro (A2 M12, "Past Simple vs. Past Continuous") queda cubierto entero. **"Used to / would" (Cl 16 anterior) sale del tramo: no esta en el libro** (la guia anterior ya lo marcaba como gramatica no citada). Si coordinacion lo quiere en el nivel, hay que decidir donde. `SUPUESTO DE PLANEACION — verificar`.
 - **Que se conservo de la anterior:** la consolidacion por volumen de habla pasa a Cl 16 (maraton de narracion + "WHAT HAPPENED?"); el expediente de preguntas y la auditoria de Gramatica Cl 15 se conservan en Gramatica Cl 15, ahora con el pasado continuo como contenido nuevo.
 - **Virtud:** JUSTICIA, Cl 5 de 5 (Cl 11-15), calendario absoluto; **hoy CIERRA en Conversacion** con retrospectiva en el Bloque 4; Grammar Cl 15 la cierra en su pista y la Cl 16 abre FORTALEZA. Angulo de hoy: **el trabajo que nadie ve** (pintar el cuadro completo).
-- **Anti-duplicado:** Conv usa **SHIFT HANDOVER** (colega a colega, describe lo que estaba haciendo cada persona y area); Grammar Cl 15 usa **INTERNAL AUDIT** (un auditor interroga a una persona sobre su propia jornada, punto contra linea). El PASE lo prohibe por escrito.
+- **Anti-duplicado:** Conv usa **END-OF-SHIFT REPORT** (colega a colega, describe lo que estaba haciendo cada persona y area); Grammar Cl 15 usa **INTERNAL AUDIT** (un auditor interroga a una persona sobre su propia jornada, punto contra linea). El PASE lo prohibe por escrito.
 - **Recuperacion:** N-3 = Conv Cl 12 · N-7 = Conv Cl 8, disparadores tomados de esas guias. Sin mapa semanal de tickets: NO se citan tickets.
 - `SUPUESTO DE PLANEACION — verificar`: si un estudiante usa "while", se acepta sin explicar — el libro no lo enseña (solo "when", p.100-101).

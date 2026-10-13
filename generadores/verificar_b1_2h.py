@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """Verificador de las guias del B1 nocturno 2h (Conv + Grammar, Cl 1-12) contra la doctrina vigente.
-Uso desde la raiz:  python generadores/verificar_b1_2h.py [N_MAX]
+Uso desde la raiz:  python generadores/verificar_b1_2h.py [N_MAX] [N_MIN]
+Desde la Cl 13 (envoltorio 2H de la edicion unica): video por pista B1-2H-VIDEO-C-N / G-N,
+due 'next class of this track, BEFORE 6:30 PM'; hitos B1-2H-ENTREVISTA2-CL18 / HITO-CL20 / MIDTERM-CL22.
 Criterios 1-17 (ver encabezado de cada chequeo). Los cualitativos son heuristicas por marcadores."""
 import os, re, sys, io
 from pypdf import PdfReader
@@ -8,6 +10,7 @@ from pypdf import PdfReader
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = os.path.join(ROOT, 'VERSION_2', 'B1_2H')
 NMAX = int(sys.argv[1]) if len(sys.argv) > 1 else 12
+NMIN = int(sys.argv[2]) if len(sys.argv) > 2 else 1
 
 VIRT = ['PRUDENCIA', 'TEMPLANZA', 'JUSTICIA', 'FORTALEZA']
 VIRT_EN = {'PRUDENCIA': 'PRUDENCE', 'TEMPLANZA': 'TEMPERANCE', 'JUSTICIA': 'JUSTICE', 'FORTALEZA': 'FORTITUDE'}
@@ -46,7 +49,7 @@ def body_before_nota(t):
 
 
 def b3_title(t):
-    m = re.search(r"^## BLOQUE 3[^\n]*?(?:SIMULACION|HITO)[^:\n]*:\s*(.+?)\s*\(\d+'\)", t, re.M)
+    m = re.search(r"^## BLOQUE 3[^\n]*?(?:SIMULACION|HITO|ENSAYO GENERAL|MIDTERM)[^:\n]*:\s*(.+?)\s*\(\d+'\)", t, re.M)
     if not m:
         return ''
     return m.group(1).strip()
@@ -86,7 +89,7 @@ def checks(track, n):
     v = VIRT[((n - 1) // 5) % 4]
     k = (n - 1) % 5 + 1
     a = ((n - 1) // 5) * 5 + 1
-    r['02_virtud'] = bool(re.search(r'^\*\*Virtud:\*\* %s — Cl %d de 5 de esta virtud \(Cl %d-%d de cada pista\)'
+    r['02_virtud'] = bool(re.search(r'^\*\*Virtud:\*\* %s(?: \(segunda vuelta\))? — Cl %d de 5 de esta virtud \(Cl %d-%d de cada pista\)'
                                     % (v, k, a, a + 4), t, re.M))
     # 3 frase del dia
     fr = frase(t)
@@ -131,8 +134,13 @@ def checks(track, n):
                      and 'whatsapp' in hwl and 'audio only by exception' in hwl
                      and not re.search(r'audio\s*(/|o|or)\s*video', low) and not long_hw)
     # 8 tarea
-    ok8 = 'DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow' in hwt and '7:00 PM' not in t \
-        and '30-45 min (B1)' in hwt and 'not fragmented' in hwl
+    if n >= 13:
+        ok8 = 'DUE: next class of this track' in hwt and 'BEFORE 6:30 PM' in hwt and '7:00 PM' not in t \
+            and '30-45 min (B1)' in hwt and 'not fragmented' in hwl \
+            and ('B1-2H-VIDEO-%s-%d' % ('C' if conv else 'G', n)) in hwt
+    else:
+        ok8 = 'DUE: TODAY, and in any case BEFORE 6:30 PM tomorrow' in hwt and '7:00 PM' not in t \
+            and '30-45 min (B1)' in hwt and 'not fragmented' in hwl
     if conv:
         ok8 = ok8 and 'ONE TASK ONLY: THE VIDEO' in hwt and '(1) WRITTEN' not in hwt
     else:
@@ -166,6 +174,9 @@ def checks(track, n):
             and 'primera clase a la que asista' in low
     if conv and n == 10:
         ok13 = ok13 and 'auxiliar administrativa' in cls and 'hito' in cls
+    if conv and n in (18, 20, 22):
+        tag = {18: 'B1-2H-ENTREVISTA2-CL18-', 20: 'B1-2H-HITO-CL20-', 22: 'B1-2H-MIDTERM-CL22-'}[n]
+        ok13 = ok13 and tag in t and 'B1-4H' not in t
     r['13_checklist'] = ok13
     # 14 simulacion
     b3l = b3.lower()
@@ -203,7 +214,7 @@ def main():
     tot = {}
     frases = {}
     titles = {}
-    for n in range(1, NMAX + 1):
+    for n in range(NMIN, NMAX + 1):
         for track in ('CONV', 'GRAMMAR'):
             r, gp, mins, fr, ttl = checks(track, n)
             frases[(track, n)] = fr
@@ -222,7 +233,7 @@ def main():
     tot['03_frases_distintas_24'] = [0 if dup_fr else 1, 1]
     # 9 anti-duplicado
     probs = []
-    for n in range(1, NMAX + 1):
+    for n in range(NMIN, NMAX + 1):
         c, g = titles[('CONV', n)], titles[('GRAMMAR', n)]
         if not c or not g:
             probs.append('Cl %d sin titulo B3' % n)
