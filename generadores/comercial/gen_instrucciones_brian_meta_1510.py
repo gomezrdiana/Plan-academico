@@ -48,6 +48,20 @@ for t in ['V1_VIDEODEHOY → "Hola, vi el video del antes y después (V1). Quier
           'V6_GARANTIA → "Hola, vi el video de la garantía (V6). ¿Me muestran el contrato?"']:
     para('• ' + t, after=2)
 para('Nada de precio ni de "quiero información" en el prellenado: el agente necesita un motivo para arrancar la conversación.', size=9.5, color=GRIS)
+h('2-bis. Los 9 anuncios: código, archivo y mensaje prellenado (tabla completa)')
+tabla([
+ ['Código (nombre del anuncio)', 'Guion', 'Archivo 30 s', 'Mensaje prellenado del botón de WhatsApp'],
+ ['V1_VIDEODEHOY', 'Llegué Sin Una Palabra', 'V1_VIDEODEHOY_A_30s.mp4', 'Hola, vi el video del antes y después (V1). Quiero saber más.'],
+ ['V2_CLASE', 'Esto Es Una Clase', 'V2_CLASE_30s.mp4', 'Hola, vi el video de la clase (V2). Quiero ver una por dentro.'],
+ ['V3_575H', 'Siete Meses', 'V3_575H_30s.mp4', 'Hola, vi el video de los 7 meses (V3). ¿Qué jornada me sirve?'],
+ ['V4_VACANTE', 'La Vacante', 'V4_VACANTE_30s.mp4', 'Hola, vi el video de la vacante (V4). Necesito el inglés para el trabajo.'],
+ ['V5_PASAPORTE', 'El Pasaporte', 'V5_PASAPORTE_30s.mp4', 'Hola, quiero prepararme en inglés para Au Pair / irme (V5).'],
+ ['V6_GARANTIA', 'Te Acompañamos (Y Te Lo Firmamos)', 'V6_GARANTIA_30s.mp4', 'Hola, vi el video del acompañamiento (V6). ¿Me muestran la garantía?'],
+ ['V7_NOESFACIL', 'El Pacto', 'V7_NOESFACIL_30s.mp4', 'Hola, vi el video de lo que no prometen (V7). Voy en serio.'],
+ ['V8_PADRES', 'El Año Después Del Colegio', 'V8_PADRES_30s.mp4', 'Hola, vi el video del año después del colegio (V8). Es para mi hijo/a.'],
+ ['V9_CORRECCION', 'La Corrección Del Día', 'V9_CORRECCION_30s.mp4', 'Hola, vi la corrección del día (V9). Aquí va mi audio.'],
+])
+para('Recibidos a 13/10: V1 (A), V3 y V4 (y V6, que se regraba por un cambio de palabra). El resto llega el miércoles 14. Si el jueves no están los 9, se lanza con los que haya y los que falten entran en el corte del 22/10.', 9.5, GRIS)
 
 h('3. Formularios actuales')
 for t in ['• "Au Pair" ya quedó pausada el 08/10 (dato: de 7 citas por LaHaus, 4 vinieron de Curso Inglés, 2 de base de datos y 1 de Au Pair). "Curso Inglés" sigue al aire hasta que la campaña de WhatsApp esté activa el 15/10; ese día se pausa y la reemplaza el control con formulario "mayor intención".',
