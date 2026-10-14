@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
-"""Hoja de arranque del docente recolector-cerrador de referidos (Juan Diego), 15/10/2026. Dos páginas: qué hace, qué gana,
-cómo funciona, reglas, los 15 días, guiones. Deriva de PROGRAMA_REFERIDOS_PROPUESTA_2026-10 (versión final).
-Salida: recursos/comercial/HOJA_ARRANQUE_REFERIDOS_DOCENTE.docx (+ PDF por Word si está cerrado)."""
+"""Hoja de arranque del docente recolector-cerrador de referidos (Juan Diego), 15/10/2026. Dos páginas, en USTED.
+Flujo directo (decisión de gerencia 14/10): el estudiante o egresado entrega nombre y número del amigo con su OK previo;
+el docente escribe primero y luego llama. Deriva de PROGRAMA_REFERIDOS_PROPUESTA_2026-10 (versión final).
+Salida: recursos/comercial/HOJA_ARRANQUE_REFERIDOS_DOCENTE.docx (+ PDF por Word)."""
 from docx import Document
 from docx.shared import Pt, RGBColor, Cm
 from docx.enum.text import WD_ALIGN_PARAGRAPH
@@ -49,73 +50,77 @@ r = p.add_run('REFERIDOS — HOJA DE ARRANQUE'); r.bold = True; r.font.size = Pt
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(6)
 r = p.add_run('Para Juan Diego · Heiiu English Academy · del 15 al 30 de octubre de 2026 · Uso interno'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
-sec('1. QUÉ VAS A HACER')
-t('Traer estudiantes nuevos por recomendación de los que ya están y de los que ya terminaron, y cerrarlos tú mismo. Quince días, con metas claras. No das clases durante el piloto: tu tiempo es para esto.')
-item('Pasar por TODOS los grupos activos entre el miércoles 15 y el viernes 17: 30 segundos al cierre de cada clase, con el profe titular presente (guion abajo).', '1.')
-item('Contactar a TODOS los egresados entre el 15 y el 22: primero un mensaje, luego una llamada de 2 minutos (guion abajo).', '2.')
-item('Atender a cada referido que escriba, perfilarlo, llevarlo a una clase de prueba y a la asesoría, y cerrar la matrícula.', '3.')
-item('Mensaje de 3 líneas todos los días a las 6:00 p.m. a gerencia: a quién le pediste hoy, cuántos escribieron, citas agendadas. Y 5 líneas los lunes.', '4.')
+sec('1. QUÉ VA A HACER')
+t('Traer estudiantes nuevos por recomendación de los que ya están y de los que ya terminaron, y cerrarlos usted mismo. Quince días, con metas claras. No dicta clases durante el piloto: su tiempo es para esto.')
+item('Pasar por TODOS los grupos activos entre el miércoles 15 y el viernes 17: 30 segundos al cierre de cada clase, con el profe titular presente (guion abajo). Sale de cada grupo con nombres y números.', '1.')
+item('Llamar a TODOS los egresados entre el 15 y el 22 (guion abajo). Si no contestan, un mensaje y se reintenta al día siguiente.', '2.')
+item('Contactar a cada referido el MISMO día que recibe el número, perfilarlo, llevarlo a una clase de prueba y a la asesoría, y cerrar la matrícula.', '3.')
+item('Mensaje de 3 líneas todos los días a las 6:00 p.m. a gerencia: a quién le pidió hoy, cuántos referidos nuevos, citas agendadas. Y 5 líneas los lunes.', '4.')
 
-sec('2. QUÉ GANAS')
+sec('2. QUÉ GANA')
 tabla([
  ['Si…', 'Programa completo de contado (' + m(4_782_800) + ')', 'A cuotas (' + m(5_648_000) + ')', 'Arranque A1+A2 (' + m(2_990_000) + ')'],
- ['Tú cierras la matrícula', '5% = ' + m(239_140), '5% de cada pago que entre (' + m(282_400) + ' al final)', '5% = ' + m(149_500)],
- ['La cierra la asesora (solo si venció tu plazo)', '2% = ' + m(95_656), '2% de cada pago', '2% = ' + m(59_800)],
+ ['Usted cierra la matrícula', '5% = ' + m(239_140), '5% de cada pago que entre (' + m(282_400) + ' al final)', '5% = ' + m(149_500)],
+ ['La cierra la asesora (solo si venció su plazo)', '2% = ' + m(95_656), '2% de cada pago', '2% = ' + m(59_800)],
 ], [4.6, 4.4, 4.4, 3.8])
 item('Siempre sobre la plata que entra a caja. Se liquida a fin de mes contra la planilla, con el retracto vencido. Si hay devolución, se descuenta.', 'Cómo se paga:')
-item('Las primeras 2 matrículas las cierras con la asesora al lado: tú conduces y cobras tu 5% completo. Desde la tercera, solo.', 'Arranque acompañado:')
-item('Tú no cobras bono de estudiante. El bono es para quien refiere: ' + m(150_000) + ' (completo), ' + m(75_000) + ' (Arranque); en cuotas, mitad con la inicial y mitad con la cuota 3. Lo elige en plata, abono a su cuota o 2 horas 1-a-1. Se paga cuando el referido pagó la inicial y llegó a su clase 5.', 'El bono del que refiere:')
+item('Las primeras 2 matrículas las cierra con la asesora al lado: usted conduce y cobra su 5% completo. Desde la tercera, solo.', 'Arranque acompañado:')
+item('Usted no cobra bono de estudiante. El bono es para quien refiere: ' + m(150_000) + ' (completo), ' + m(75_000) + ' (Arranque); en cuotas, mitad con la inicial y mitad con la cuota 3. Lo elige en plata, abono a su cuota o 2 horas 1-a-1. Se paga cuando el referido pagó la inicial y llegó a su clase 5.', 'El bono del que refiere:')
 
-sec('3. CÓMO FUNCIONA (y la regla que no se salta)')
-t('Nadie te da el número de nadie. El estudiante o el egresado le reenvía un mensaje a su amigo, y el amigo le escribe a Heiiu: "Vengo de parte de…". Es la ley de datos: si pedimos el número del amigo sin su permiso, la multa es para la academia.', bold=True)
+sec('3. CÓMO FUNCIONA')
+t('El estudiante o el egresado le da el nombre y el número de su amigo, después de avisarle que Heiiu le va a escribir de su parte. Usted escribe primero (nunca llama en frío) y en ese mensaje le da la salida: si dice que no, se borra el número y no se insiste. Esa es la única regla que no se salta.', bold=True)
 tabla([
  ['Paso', 'Qué pasa'],
- ['1', 'Haces la ronda (o la llamada al egresado) y ese mismo día gerencia manda al grupo el mensaje para reenviar.'],
- ['2', 'El estudiante se lo reenvía a UNA persona concreta.'],
- ['3', 'El amigo escribe a la línea de referidos: "Vengo de parte de [nombre]".'],
- ['4', 'Tú respondes desde esa línea con el aviso de datos y pides el SÍ. Sin SÍ, no se escribe más. Lo anotas en la planilla ANTES de cualquier otra cosa.'],
- ['5', 'Perfilas: para qué necesita el inglés · desde cero o ya estudió (y qué pasó) · presencial y jornada · El Pacto ("¿te le mides a ese ritmo?") · contado o inicial del 20% y cuotas.'],
- ['6', 'Agendas la clase de prueba (con quien lo refirió, el día que diga coordinación) y la asesoría por llamada de WhatsApp. Presencial solo si él lo pide.'],
- ['7', 'Cierras con el tarifario oficial. El pago entra SOLO a la cuenta de Heiiu; contrato y recibo los hace coordinación en la sede.'],
+ ['1', 'Ronda en el grupo o llamada al egresado. Sale con nombre y número de UNA persona por estudiante, y el estudiante le avisa a su amigo ese mismo día.'],
+ ['2', 'Registra al referido en la planilla ANTES de escribirle: nombre, número, quién lo refiere, fecha.'],
+ ['3', 'Le escribe ese mismo día desde la línea de referidos de Heiiu, con el mensaje de abajo: "[nombre] nos dio su número… ¿puedo llamarle 5 minutos?".'],
+ ['4', 'Si responde SÍ o contesta la llamada, sigue. Si responde NO, lo borra y lo marca en la planilla. Si no responde en 24 horas, una llamada en horario legal; si tampoco, un último mensaje al tercer día y se cierra.'],
+ ['5', 'Perfila: para qué necesita el inglés · desde cero o ya estudió (y qué pasó) · presencial y jornada · El Pacto ("¿se le mide a ese ritmo?") · contado o inicial del 20% y cuotas.'],
+ ['6', 'Agenda la clase de prueba (con quien lo refirió, el día que diga coordinación) y la asesoría por llamada de WhatsApp. Presencial solo si él lo pide.'],
+ ['7', 'Cierra con el tarifario oficial. El pago entra SOLO a la cuenta de Heiiu; contrato y recibo los hace coordinación en la sede.'],
 ], [1.2, 16.0])
 
 sec('4. LAS REGLAS')
-item('Solo desde la línea de referidos de Heiiu, nunca desde tu celular. Las listas de estudiantes y egresados no salen de la planilla.', 'Canal:')
-item('Precios, becas y planes oficiales, sin descuentos ni promesas (fácil, rápido, empleo, visa). Se dice lo duro antes de firmar: video diario, asistencia. Nunca recibes dinero. No firmas nada en nombre de Heiiu.', 'Tarifario cerrado:')
-item('Cita en 7 días y cierre en 14 desde que el referido escribió. Si no, pasa a la asesora y tú quedas con el 2%.', 'Plazos:')
+item('Solo desde la línea de referidos de Heiiu, nunca desde su celular. Las listas de estudiantes, egresados y referidos no salen de la planilla.', 'Canal:')
+item('Precios, becas y planes oficiales, sin descuentos ni promesas (fácil, rápido, empleo, visa). Se dice lo duro antes de firmar: video diario, asistencia. Nunca recibe dinero. No firma nada en nombre de Heiiu.', 'Tarifario cerrado:')
+item('Cita en 7 días y cierre en 14 desde el registro del referido. Si no, pasa a la asesora y usted queda con el 2%.', 'Plazos:')
 item('Cero venta dentro del tiempo de clase. Lunes a viernes 7:00 a.m. a 7:00 p.m., sábados 8:00 a.m. a 3:00 p.m.; un contacto al día por persona; nunca domingos ni festivos. Si el referido escribe, se responde a cualquier hora.', 'Tiempo y horario:')
-item('Cuenta solo el que escribe "de parte de" y no estaba en la base en los últimos 30 días. No cuentan personal de Heiiu ni tus familiares. El bono no se usa como argumento ante el referido.', 'Qué cuenta:')
+item('Cuenta el referido registrado en la planilla antes del primer contacto y que no estaba en la base en los últimos 30 días. No cuentan personal de Heiiu ni sus familiares. El bono no se usa como argumento ante el referido.', 'Qué cuenta:')
 
 sec('5. LOS 15 DÍAS')
 tabla([
  ['Cuándo', 'Qué', 'Meta al 30/10'],
- ['15 al 17/10', 'Ronda en todos los grupos', '15 referidos que escriben (1 por día hábil)'],
- ['15 al 22/10', 'Todos los egresados: mensaje y llamada', '5 citas'],
- ['Todos los días', 'Atender, perfilar, clase de prueba, cerrar · reporte 6:00 p.m.', '2 matrículas con inicial pagada'],
- ['30/10', 'Corte con gerencia: qué funcionó, qué sigue', 'Si no hay ni 5 que escriben, se corrige el guion y se repite'],
+ ['15 al 17/10', 'Ronda en todos los grupos', '15 referidos registrados y contactados (1 por día hábil)'],
+ ['15 al 22/10', 'Todos los egresados, por llamada', '5 citas'],
+ ['Todos los días', 'Contactar, perfilar, clase de prueba, cerrar · reporte 6:00 p.m.', '2 matrículas con inicial pagada'],
+ ['30/10', 'Corte con gerencia: qué funcionó, qué sigue', 'Si no hay ni 5 referidos registrados, se corrige el guion y se repite'],
 ], [2.6, 8.2, 6.4])
 
 sec('6. GUIONES')
 t('Ronda de 30 segundos (al cierre de la clase):', bold=True, after=1)
 caja(['"Treinta segundos antes de que se vayan. Ustedes saben lo que cuesta este proceso y saben que funciona.',
       'Piensen en UNA persona que necesite inglés de verdad: para el trabajo, para irse, para su hijo. ¿Ya la tienen?',
-      'No me den su número. Hoy les llega al grupo un mensaje: reenvíenselo a esa persona. Si escribe, se matricula',
-      'y llega a su clase 5, ustedes reciben $150.000, un abono a su cuota o 2 horas 1-a-1. Ustedes eligen.',
-      'Y su amigo puede venir a una clase con ustedes antes de decidir. ¿Quién ya pensó en alguien? Escríbanle hoy."'])
-t('Primer mensaje al egresado (antes de llamar):', bold=True, after=1)
-caja(['Hola [nombre], soy Juan Diego, profesor de Heiiu. Terminaste [nivel] con nosotros en [mes]. Te escribo por una sola cosa:',
-      'abrimos un programa de referidos para egresados. Si conoces a alguien que necesite inglés de verdad y se matricula,',
-      'recibes $150.000 (o 2 horas de clase 1-a-1), y tu amigo tiene una clase de prueba antes de decidir.',
-      '¿Tienes 2 minutos para que te llame hoy o mañana y te cuente cómo funciona? Si prefieres que no te escribamos más, dímelo y listo.'])
-t('Llamada al egresado (2 minutos): cómo te fue después del curso → "piensa en UNA persona que necesite inglés de verdad" → "no me des su número: te mando un mensaje y se lo reenvías; si escribe, se matricula y llega a su clase 5, recibes los $150.000 o las 2 horas" → "¿a quién se lo vas a mandar hoy?" → mensaje enviado al colgar.', size=9.5, color=GRIS)
-t('Primera respuesta al referido (desde la línea de Heiiu):', bold=True, after=1)
-caja(['Hola [nombre], gracias por escribir. Soy Juan Diego, profesor de Heiiu. Antes de seguir: usaremos tu nombre y número solo',
-      'para darte información de nuestros programas, según nuestra política de datos [enlace]. ¿Nos autorizas? Responde SÍ.',
-      '(Puedes pedir que te borremos cuando quieras.)'])
+      'Hoy mismo me dan su nombre y su número, y le avisan que Heiiu le va a escribir de parte de ustedes.',
+      'Si se matricula y llega a su clase 5, ustedes reciben $150.000, un abono a su cuota o 2 horas 1-a-1. Ustedes eligen.',
+      'Y su amigo puede venir a una clase con ustedes antes de decidir. ¿Quién ya pensó en alguien? Me lo dicen ahora."'])
+t('Llamada al egresado (2 minutos, en horario legal; si no contesta, el mensaje de abajo):', bold=True, after=1)
+caja(['"Buenos días, [nombre], le habla Juan Diego, profesor de Heiiu. Usted terminó [nivel] con nosotros en [mes]. ¿Cómo le ha ido con el inglés?',
+      'Le llamo por una sola cosa: abrimos un programa de referidos para egresados. Si usted conoce a alguien que necesite inglés de verdad',
+      'y se matricula, usted recibe $150.000 o 2 horas de clase 1-a-1, y su amigo tiene una clase de prueba antes de decidir.',
+      '¿En quién piensa? Deme su nombre y su número, y avísele hoy que le vamos a escribir de su parte."'])
+t('Mensaje al egresado que no contestó:', bold=True, after=1)
+caja(['Buenos días, [nombre], le habla Juan Diego, profesor de Heiiu. Usted terminó [nivel] con nosotros en [mes]. Abrimos un programa de',
+      'referidos para egresados: si conoce a alguien que necesite inglés de verdad y se matricula, usted recibe $150.000 (o 2 horas de clase',
+      '1-a-1), y su amigo tiene una clase de prueba antes de decidir. ¿Puedo llamarle 2 minutos hoy o mañana para contarle cómo funciona?'])
+t('Primer mensaje al referido (desde la línea de Heiiu, el mismo día que recibe el número):', bold=True, after=1)
+caja(['Buenos días, [nombre]. Le escribe Juan Diego, profesor de Heiiu English Academy, en Bucaramanga. [Nombre de quien refiere] nos dio su',
+      'número y nos dijo que usted necesita el inglés para [motivo, si lo sabe]. ¿Puedo llamarle 5 minutos hoy para contarle cómo trabajamos?',
+      'Si prefiere que no le escribamos, respóndame NO y borro su número de inmediato.'])
+t('Con el SÍ o en la llamada: usaremos su nombre y su número solo para darle información de nuestros programas; puede pedir que lo borremos cuando quiera. Queda anotado en la planilla.', size=9.5, color=GRIS)
 
 sec('7. PARA ARRANCAR MAÑANA')
 for c in ['Contrato docente v3.1 y Anexo de Habilitación Comercial firmados (hoy).', 'Inducción con el Kit de Venta y el anexo del Pacto (hoy, 1 hora con gerencia).',
-          'Celular con la línea de referidos de Heiiu y acceso a la planilla.', 'Lista de grupos activos con horarios y lista de egresados (coordinación).', 'Días y grupos con cupo para la clase de prueba (coordinación).']:
+          'Celular con la línea de referidos de Heiiu y acceso a la planilla.', 'Lista de grupos activos con horarios y lista de egresados con teléfono (coordinación).', 'Días y grupos con cupo para la clase de prueba (coordinación).']:
     item(c, '☐')
 doc.add_paragraph()
 t('Leído y acordado, Bucaramanga, 15 de octubre de 2026.          Gerencia: ____________________          Docente: ____________________', size=9.5)

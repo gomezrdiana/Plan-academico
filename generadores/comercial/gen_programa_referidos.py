@@ -59,6 +59,7 @@ for t in [
  '**Base:** unos 60 estudiantes activos más los egresados (cantidad SIN DATO: coordinación entrega la lista).',
  '**El referido recibe una clase de prueba** junto a quien lo refiere (o solo, si quien lo refiere es egresado). Nunca descuento.',
  '**Contador:** antes del primer pago del bono se le hacen las preguntas de la sección 8.',
+ '**Vía directa (decisión de gerencia 14/10):** el estudiante o egresado entrega nombre y número de su amigo, después de avisarle. El docente escribe primero y luego llama. La vía del mensaje reenviable queda como alternativa para quien no quiera dar el número. Riesgo conocido: la SIC ha sancionado el uso de datos de referidos sin autorización del propio referido; se mitiga con el aviso previo del amigo, el primer contacto por mensaje con salida inmediata ("responda NO y borro su número"), ningún reintento tras el NO y el registro de cada respuesta.',
 ]: li(t)
 
 h('1. Qué recibe cada quien')
@@ -88,38 +89,38 @@ for t in [
  '**Quién liquida:** coordinación arma la planilla a fin de mes; gerencia aprueba y paga. Lo que no está en la planilla no existe ni se paga.',
 ]: li(t)
 
-h('3. Cómo se recogen los referidos (y por qué nadie pide el número del amigo)')
-p('La SIC ha sancionado programas de referidos por usar datos del amigo sin su autorización (resoluciones de 2019, 2022 y 2023; Ley 1581). Por eso **el estudiante no entrega nombre ni número: reenvía un mensaje y el amigo le escribe a Heiiu primero.** Ese primer mensaje del amigo es la conducta que valida la autorización (Decreto 1377, art. 7) y Heiiu guarda la prueba (el chat).')
+h('3. Cómo se recogen los referidos (vía directa)')
+p('**El estudiante o egresado da el nombre y el número de UNA persona, después de avisarle que Heiiu le va a escribir de su parte.** El docente registra al referido en la planilla antes de cualquier contacto, le escribe ese mismo día desde la línea de referidos de Heiiu y lo llama cuando el referido dice que sí. El primer mensaje siempre trae la salida: "responda NO y borro su número". Con el NO no hay segundo intento.')
 tabla([
  ['Paso', 'Quién', 'Qué pasa'],
- ['1', 'Docente', 'Ronda de 30 segundos al cierre de la clase (guion en el Anexo B), con el profe titular presente, fuera del tiempo de clase. A los egresados: mensaje primero y llamada de 2 minutos después (sección 7).'],
- ['2', 'Heiiu', 'Ese mismo día manda al grupo del curso (o al egresado) el mensaje reenviable (Anexo B-a).'],
- ['3', 'Estudiante / egresado', 'Se lo reenvía a UNA persona concreta. No da datos de nadie.'],
- ['4', 'Referido', 'Escribe a la línea de referidos de Heiiu: "Vengo de parte de [nombre]".'],
- ['5', 'Docente', 'Responde desde la línea de Heiiu con el aviso de privacidad y pide el SÍ (Anexo B-b). Sin SÍ no se escribe más. Registra en la planilla (Anexo C) antes de cualquier otra cosa.'],
- ['6', 'Docente', 'Perfila con las mismas preguntas del flujo del agente: para qué, nivel, presencial y jornada, El Pacto, forma de pago. Nunca ingresos ni centrales.'],
- ['7', 'Docente + coordinación', 'Agenda la clase de prueba (con quien lo refirió) y la asesoría por llamada de WhatsApp; presencial solo si el referido lo pide. La firma es presencial.'],
- ['8', 'Docente', 'Cierra con el tarifario oficial: contado, inicial del 20% y cuotas, o Arranque. Recibe el pago SOLO la cuenta de Heiiu; contrato y recibo los registra coordinación.'],
+ ['1', 'Docente', 'Ronda de 30 segundos al cierre de la clase (guion en el Anexo B), con el profe titular presente, fuera del tiempo de clase. A los egresados: llamada de 2 minutos en horario legal; mensaje solo si no contestan (sección 7).'],
+ ['2', 'Estudiante / egresado', 'Da nombre y número de UNA persona concreta y le avisa ese mismo día: "te va a escribir Heiiu de mi parte".'],
+ ['3', 'Docente', 'Registra en la planilla (Anexo C) ANTES de escribir: referido, número, quién refiere, fecha. Verifica con coordinación que no estaba en la base en los últimos 30 días.'],
+ ['4', 'Docente', 'Escribe el mismo día desde la línea de referidos (Anexo B-c): quién lo refirió, para qué necesita el inglés si se sabe, "¿puedo llamarle 5 minutos?" y la salida. SÍ o contesta → sigue. NO → se borra y se marca. Sin respuesta → una llamada a las 24 horas en horario legal; si tampoco, un último mensaje al tercer día y se cierra.'],
+ ['5', 'Docente', 'Perfila con las mismas preguntas del flujo del agente: para qué, nivel, presencial y jornada, El Pacto, forma de pago. Nunca ingresos ni centrales.'],
+ ['6', 'Docente + coordinación', 'Agenda la clase de prueba (con quien lo refirió) y la asesoría por llamada de WhatsApp; presencial solo si el referido lo pide. La firma es presencial.'],
+ ['7', 'Docente', 'Cierra con el tarifario oficial: contado, inicial del 20% y cuotas, o Arranque. Recibe el pago SOLO la cuenta de Heiiu; contrato y recibo los registra coordinación.'],
 ])
-p('**Línea de referidos (decisión de gerencia).** La línea principal de WhatsApp la opera el agente de la plataforma: si el referido escribe ahí, el agente lo perfila y alerta a la asesora, no al docente. Recomendación: **un número nuevo de Heiiu** (SIM a nombre de la empresa, WhatsApp Business con el nombre Heiiu, en un celular que usa el docente; copia de seguridad y acceso de gerencia; al terminar el piloto el número vuelve a la oficina). Costo: el plan de la SIM. Alternativa: usar la línea principal y pedirle a la plataforma una regla "vengo de parte de" que derive al docente; eso implica otro cambio con la plataforma y se queda para la revisión de noviembre.')
+p('**Alternativa (mensaje reenviable, Anexo B-a):** para el estudiante que no quiere dar el número. Él reenvía el mensaje y el amigo escribe "vengo de parte de…" a la línea de referidos; ahí la autorización queda en el chat.', size=9.5, color=GRIS)
+p('**Línea de referidos (decisión de gerencia).** La línea principal de WhatsApp la opera el agente de la plataforma: si el referido escribe ahí, el agente lo perfila y alerta a la asesora, no al docente. Recomendación: **un número nuevo de Heiiu** (SIM a nombre de la empresa, WhatsApp Business con el nombre Heiiu, en un celular que usa el docente; copia de seguridad y acceso de gerencia; al terminar el piloto el número vuelve a la oficina). Costo: el plan de la SIM.')
 
 h('4. Reglas anti-abuso')
 for t in [
- 'Cuenta como referido solo quien **escribe primero** con "vengo de parte de" y **no estaba** en la base, el bot ni un formulario en los últimos 30 días. Si ya estaba, es lead de pauta: sin bono y sin 5% del docente (aplica el flujo normal).',
+ 'Cuenta como referido el que quedó **registrado en la planilla antes del primer contacto** (nombre, número, quién refiere, fecha) y que **no estaba** en la base, el bot ni un formulario en los últimos 30 días. Si ya estaba, es lead de pauta: sin bono y sin 5% del docente (aplica el flujo normal).',
  'Quien refiere debe estar **al día en pagos** (activo) o haber terminado su programa sin saldo (egresado).',
  'Más de **3 bonos en un mes** para la misma persona pasan a revisión de coordinación antes de pagarse.',
  'No se paga bono por **personal de Heiiu** ni por **familiares del docente recolector**; el docente no cobra bono de estudiante, solo su comisión.',
- 'El bono **no se usa como argumento** ante el referido. Si pregunta, se le dice la verdad: "sí, a quien te refirió le damos un bono; a ti te damos la clase de prueba y la misma beca que a cualquiera".',
+ 'El bono **no se usa como argumento** ante el referido. Si pregunta, se le dice la verdad: "sí, a quien lo refirió le damos un bono; a usted le damos la clase de prueba y la misma beca que a cualquiera".',
  '**Nunca descuento al referido.** Misma tarifa, misma beca, misma escalera. Esto protege los precios y evita que el referido negocie con el bono del otro.',
  'Los términos del bono van en la **hoja de términos** (Anexo A) con vigencia escrita, como exige la Ley 1480 (art. 33). Si cambia algo, se avisa por el mismo medio por el que se anunció.',
 ]: li(t)
 
 h('5. Plazos y qué pasa si se vence')
 tabla([
- ['Hito', 'Plazo desde el primer mensaje del referido', 'Si no se cumple'],
+ ['Hito', 'Plazo desde el registro del referido', 'Si no se cumple'],
  ['Cita agendada (clase de prueba o asesoría)', '7 días', 'El lead pasa a la asesora. El docente queda con el 2% si ella cierra.'],
  ['Cierre (inicial pagada)', '14 días', 'Igual: pasa a la asesora, docente 2%.'],
- ['Lead que dice "no por ahora"', 'Un solo mensaje de despedida, sin reintentos', 'Marcado "frío" en la planilla; solo se retoma si él escribe.'],
+ ['Referido que dice NO o "no por ahora"', 'Un solo mensaje de despedida, sin reintentos; si dijo NO al primer mensaje, se borra el número', 'Marcado en la planilla; solo se retoma si él escribe.'],
 ])
 p('Horario para mensajes y llamadas por iniciativa de Heiiu: lunes a viernes 7:00 a.m. a 7:00 p.m., sábados 8:00 a.m. a 3:00 p.m., nunca domingos ni festivos; máximo un contacto al día por lead (Ley 2300 de 2023). Lo que el referido escriba se responde a cualquier hora.', size=9.5, color=GRIS)
 
@@ -127,17 +128,17 @@ h('6. Los 4 candados del docente recolector-cerrador')
 for t in [
  '**Papeles antes del primer mensaje:** (1) contrato docente v3.1 firmado (gerencia lo verifica hoy; si falta, se firma hoy); (2) **Anexo de Habilitación Comercial** firmado, que exige inducción previa con el Kit de Venta (precios, becas, escalera, El Pacto, garantía); (3) este programa como hoja de arranque firmada por los dos (metas, plazos, cierres acompañados, línea y planilla). El contrato ya cubre propiedad intelectual, confidencialidad, datos (Ley 1581) y la prohibición de usar bases o contactos de Heiiu fuera de Heiiu. No se pacta no competencia amplia: en Colombia no se sostiene (abogado).',
  '**Tarifario cerrado y cero autoridad.** Solo precios, becas y planes oficiales. Sin descuentos, sin promesas de facilidad, rapidez, empleo o visas, sin plazos de resultado distintos del texto de la garantía. Dice las condiciones duras antes de firmar (El Pacto: video diario, asistencia, puntualidad). **Nunca recibe dinero.** No firma nada en nombre de Heiiu.',
- '**Canal y datos de Heiiu.** Trabaja solo desde la línea de referidos de Heiiu; nunca desde su celular personal. El referido escribe primero y su SÍ queda en el chat. Planilla única (Anexo C). Las listas de estudiantes y egresados son Material Protegido: se consultan en la planilla y no salen de ahí.',
+ '**Canal y datos de Heiiu.** Trabaja solo desde la línea de referidos de Heiiu; nunca desde su celular personal. El primer contacto es siempre un mensaje con salida; la respuesta del referido queda en el chat y en la planilla única (Anexo C). Las listas de estudiantes, egresados y referidos son Material Protegido: se consultan en la planilla y no salen de ahí.',
  '**Piloto de 15 días con metas, plazos y clase protegida.** Cero venta en tiempo de clase. Metas en la sección 7. Sus horas de ronda y de llamadas no se pagan aparte: su ingreso es la comisión (así lo dice el anexo: actividad facultativa, sin subordinación). Si gerencia decide pagarlas, entran al costo por matrícula.',
 ]: li(t)
 
 h('7. Operación del piloto (15 días: del 15 al 30 de octubre)')
 for t in [
  '**Días 1-3 (15 al 17/10) — grupos activos:** una ronda de 30 segundos en cada grupo, todos los grupos en tres días (coordinación entrega hoy la lista de grupos y horarios). Una sola petición en clase por grupo; después, los momentos fijos: al cerrar una matrícula (la asesora), al grabar un testimonio, tras un midterm o presentación, y al graduar (cada graduado sale con 2 referidos pedidos).',
- '**Días 1-7 (15 al 22/10) — egresados, todos:** coordinación arma hoy la lista (nombre, nivel terminado, fecha, teléfono) en la planilla. El docente escribe primero por la línea de Heiiu (Anexo B-c): se presenta, pide permiso para llamar 2 minutos y ofrece la salida ("si prefieres que no te escribamos, dímelo"). Quien dice que no, se marca y no se vuelve a contactar. Llamada en horario legal. SUPUESTO: la autorización de datos de la matrícula cubre esta comunicación de la academia; el abogado lo confirma. Por eso el mensaje va primero y nunca una llamada en frío.',
- '**Metas del piloto (al 30/10):** 15 referidos que escriben → 5 citas → 2 matrículas con inicial pagada. Si la lista de egresados contactables pasa de 60 personas, la meta sube a 20 → 7 → 3. (Con 60 activos y una participación típica cercana al 19%, solo los activos darían unos 11 referidos; los egresados completan la cifra.) Ritmo diario: 1 referido nuevo que escribe por día hábil.',
- '**Reporte:** mensaje de 3 líneas TODOS los días a las 6:00 p.m. (a quién pidió hoy, cuántos escribieron, citas agendadas) y 5 líneas los lunes en la reunión fija (registrados, contactados, citas, matrículas, bonos por pagar). Lo que no está en la planilla no cuenta.',
- '**Corte del 30/10:** referidos que escribieron, citas, asistencia, matrículas con inicial, días de primer mensaje a cita, y costo por matrícula referida (bonos + comisiones) contra pauta ($72.000 + 5% + plataforma). Sigue si llegó a la meta o si el costo por matrícula referida es ≤ 1,2 veces el de la pauta. Si no llegó ni a 5 referidos que escriben, el problema es la ronda o el mensaje, no el bono: se corrige el guion y se repite 15 días más. La retención (cuota 3 y asistencia ≥80% a 90 días) se mide después, al cierre del cohorte.',
+ '**Días 1-7 (15 al 22/10) — egresados, todos:** coordinación arma hoy la lista (nombre, nivel terminado, fecha, teléfono) en la planilla. El docente los llama desde la línea de Heiiu en horario legal (guion en el Anexo B); si no contestan, un mensaje y se reintenta al día siguiente. Quien dice que no, se marca y no se vuelve a contactar. SUPUESTO: la autorización de datos de la matrícula cubre esta comunicación de la academia; el abogado lo confirma.',
+ '**Metas del piloto (al 30/10):** 15 referidos registrados y contactados → 5 citas → 2 matrículas con inicial pagada. Si la lista de egresados contactables pasa de 60 personas, la meta sube a 20 → 7 → 3. (Con 60 activos y una participación típica cercana al 19%, solo los activos darían unos 11 referidos; los egresados completan la cifra.) Ritmo diario: 1 referido nuevo por día hábil.',
+ '**Reporte:** mensaje de 3 líneas TODOS los días a las 6:00 p.m. (a quién pidió hoy, cuántos referidos nuevos, citas agendadas) y 5 líneas los lunes en la reunión fija (registrados, contactados, citas, matrículas, bonos por pagar). Lo que no está en la planilla no cuenta.',
+ '**Corte del 30/10:** referidos registrados y contactados, citas, asistencia, matrículas con inicial, días de registro a cita, y costo por matrícula referida (bonos + comisiones) contra pauta ($72.000 + 5% + plataforma). Sigue si llegó a la meta o si el costo por matrícula referida es ≤ 1,2 veces el de la pauta. Si no llegó ni a 5 referidos registrados, el problema es la ronda o el guion, no el bono: se corrige el guion y se repite 15 días más. La retención (cuota 3 y asistencia ≥80% a 90 días) se mide después, al cierre del cohorte.',
 ]: li(t)
 
 h('8. Para el contador (antes del primer pago de bono)')
@@ -159,40 +160,36 @@ p('ANEXO A — HOJA DE TÉRMINOS DEL BONO DE REFERIDOS (para estudiantes y egres
 p('Vigencia: del 15 de octubre al 31 de diciembre de 2026. Heiiu puede prorrogar o modificar estos términos avisando por el mismo medio por el que los comunicó (Ley 1480 de 2011, art. 33).', GRIS, 9.5)
 for t in [
  '**Quién puede referir:** estudiantes activos al día en sus pagos y egresados de Heiiu sin saldo pendiente.',
- '**Cómo se refiere:** reenvías a tu amigo el mensaje que te manda Heiiu. Tu amigo le escribe a Heiiu diciendo "Vengo de parte de [tu nombre]". No nos des su número: él decide si escribe.',
- '**Qué recibe tu amigo:** una clase de prueba contigo (o en el grupo que le indiquemos) antes de decidir, y las mismas condiciones y becas de cualquier estudiante.',
- '**Qué recibes tú:** ' + m(BONO['c']) + ' si tu amigo se matricula en un programa completo; ' + m(BONO['a']) + ' si entra al Arranque A1+A2. Si paga a cuotas, el bono se divide en dos: la mitad con su inicial y la otra mitad con su cuota 3. Eliges cómo recibirlo: transferencia, abono a tu propia cuota o 2 horas de clase 1-a-1.',
- '**Cuándo se paga:** cuando tu amigo pagó su inicial y asistió a su clase 5. Heiiu liquida los bonos a fin de mes.',
- '**Condiciones:** tu amigo no debe haber tenido contacto con Heiiu (chat, formulario o asesoría) en los últimos 30 días. No aplica para personal de Heiiu ni sus familiares. No hay tope de referidos; más de 3 en un mes pasan por una revisión antes del pago. Si tu amigo se retira y pide devolución antes de la clase 5, el bono no se causa.',
- '**Datos:** solo tratamos los datos de tu amigo cuando él nos escribe y nos autoriza. Tus datos se tratan según la política de datos de Heiiu.',
+ '**Cómo se refiere:** usted nos da el nombre y el número de una persona que necesite inglés, y le avisa ese mismo día que Heiiu le va a escribir de su parte. Nosotros le escribimos primero; si esa persona nos dice que no, borramos su número.',
+ '**Qué recibe su amigo:** una clase de prueba con usted (o en el grupo que le indiquemos) antes de decidir, y las mismas condiciones y becas de cualquier estudiante.',
+ '**Qué recibe usted:** ' + m(BONO['c']) + ' si su amigo se matricula en un programa completo; ' + m(BONO['a']) + ' si entra al Arranque A1+A2. Si paga a cuotas, el bono se divide en dos: la mitad con su inicial y la otra mitad con su cuota 3. Usted elige cómo recibirlo: transferencia, abono a su propia cuota o 2 horas de clase 1-a-1.',
+ '**Cuándo se paga:** cuando su amigo pagó su inicial y asistió a su clase 5. Heiiu liquida los bonos a fin de mes.',
+ '**Condiciones:** su amigo no debe haber tenido contacto con Heiiu (chat, formulario o asesoría) en los últimos 30 días. No aplica para personal de Heiiu ni sus familiares. No hay tope de referidos; más de 3 en un mes pasan por una revisión antes del pago. Si su amigo se retira y pide devolución antes de la clase 5, el bono no se causa.',
+ '**Datos:** los datos de su amigo se usan solo para contactarlo y darle información de nuestros programas; él puede pedir que lo borremos en cualquier momento. Sus datos se tratan según la política de datos de Heiiu.',
 ]: li(t)
 p('Gerencia — Heiiu · Bucaramanga, 15 de octubre de 2026 · Firma: ____________________', after=10)
 
 p('ANEXO B — GUIONES Y MENSAJES', NAR, 13)
 p('**Guion de 30 segundos en clase** (al cierre, con el profe titular presente):', after=2)
-caja(['"Treinta segundos antes de que se vayan.', 'Ustedes saben lo que cuesta este proceso y saben que funciona.', 'Piensen en UNA persona que necesite inglés de verdad:', 'para el trabajo, para irse, para su hijo. ¿Ya la tienen?', 'No me den su número. Hoy les llega al grupo un mensaje:', 'reenvíenselo a esa persona. Si escribe, se matricula', 'y llega a su clase 5, ustedes reciben $150.000,', 'un abono a su cuota o 2 horas 1-a-1. Ustedes eligen.', 'Y su amigo puede venir a una clase con ustedes antes de decidir.', '¿Quién ya pensó en alguien? Escríbanle hoy."'])
-p('**(a) Mensaje que Heiiu manda al grupo (o al egresado) y el estudiante reenvía a su amigo:**', after=2)
-caja(['Hola [nombre]. Estoy estudiando inglés en Heiiu (presencial, Bucaramanga)', 'y me está funcionando. No es fácil: es entrenamiento todos los días.', 'Si te interesa, escríbeles a este número [línea de referidos] con:', '"Vengo de parte de [mi nombre]". Te cuentan cómo es y puedes', 'venir a una clase conmigo antes de decidir.'])
-p('Versión para egresados: cambia "Estoy estudiando" por "Estudié inglés en Heiiu y salí hablando" y "una clase conmigo" por "una clase antes de decidir".', size=9.5, color=GRIS)
-p('**(b) Primera respuesta de Heiiu al referido** (desde la línea de referidos, nunca desde un celular personal):', after=2)
-caja(['Hola [nombre], gracias por escribir. Soy [nombre], profesor de Heiiu.', 'Antes de seguir: usaremos tu nombre y número solo para darte información', 'de nuestros programas, según nuestra política de datos [enlace].', '¿Nos autorizas? Responde SÍ. (Puedes pedir que te borremos cuando quieras.)'])
-p('Después del SÍ: para qué necesitas el inglés · desde cero o ya estudiaste (y qué pasó) · presencial y jornada · El Pacto (video diario, garantía por escrito: "¿te le mides a ese ritmo?") · contado o inicial y cuotas · clase de prueba y asesoría por llamada: "¿[franja 1] o [franja 2]?". El referido escribe el día y la hora para que quede firme.', size=9.5, color=GRIS)
-p('**(c) Primer mensaje a un egresado** (antes de llamar):', after=2)
-caja(['Hola [nombre], soy [nombre], profesor de Heiiu. Terminaste [nivel] con nosotros en [mes]. Te escribo por una sola cosa:',
-      'abrimos un programa de referidos para egresados. Si conoces a alguien que necesite inglés de verdad y se matricula,',
-      'recibes $150.000 (o 2 horas de clase 1-a-1), y tu amigo tiene una clase de prueba antes de decidir.',
-      '¿Tienes 2 minutos para que te llame hoy o mañana y te cuente cómo funciona? Si prefieres que no te escribamos más, dímelo y listo.'])
-p('**Guion de la llamada al egresado (2 minutos):** cómo te fue después del curso (una pregunta, para la planilla de testimonios) → "piensa en UNA persona que necesite inglés de verdad: trabajo, irse, un hijo" → "no me des su número: te mando un mensaje y se lo reenvías; si escribe y se matricula, recibes $150.000 o 2 horas 1-a-1" → "¿a quién se lo vas a mandar hoy?" → mensaje (a) versión egresado enviado al colgar.', size=9.5, color=GRIS)
+caja(['"Treinta segundos antes de que se vayan.', 'Ustedes saben lo que cuesta este proceso y saben que funciona.', 'Piensen en UNA persona que necesite inglés de verdad:', 'para el trabajo, para irse, para su hijo. ¿Ya la tienen?', 'Hoy mismo me dan su nombre y su número, y le avisan', 'que Heiiu le va a escribir de parte de ustedes.', 'Si se matricula y llega a su clase 5, ustedes reciben $150.000,', 'un abono a su cuota o 2 horas 1-a-1. Ustedes eligen.', 'Y su amigo puede venir a una clase con ustedes antes de decidir.', '¿Quién ya pensó en alguien? Me lo dicen ahora."'])
+p('**(a) Alternativa: mensaje que el estudiante reenvía a su amigo** (solo para quien no quiere dar el número):', after=2)
+caja(['Hola, [nombre]. Estoy estudiando inglés en Heiiu (presencial, Bucaramanga)', 'y me está funcionando. No es fácil: es entrenamiento todos los días.', 'Si le interesa, escríbales a este número [línea de referidos] con:', '"Vengo de parte de [mi nombre]". Le cuentan cómo es y puede', 'venir a una clase conmigo antes de decidir.'])
+p('**(b) Llamada al egresado (2 minutos, en horario legal; mensaje solo si no contesta):**', after=2)
+caja(['"Buenos días, [nombre], le habla [nombre], profesor de Heiiu. Usted terminó [nivel] con nosotros en [mes].', '¿Cómo le ha ido con el inglés? Le llamo por una sola cosa: abrimos un programa de referidos para egresados.', 'Si usted conoce a alguien que necesite inglés de verdad y se matricula, usted recibe $150.000 o 2 horas', 'de clase 1-a-1, y su amigo tiene una clase de prueba antes de decidir. ¿En quién piensa?', 'Deme su nombre y su número, y avísele hoy que le vamos a escribir de su parte."'])
+p('Mensaje al egresado que no contestó: "Buenos días, [nombre], le habla [nombre], profesor de Heiiu. Usted terminó [nivel] con nosotros en [mes]. Abrimos un programa de referidos para egresados: si conoce a alguien que necesite inglés de verdad y se matricula, usted recibe $150.000 (o 2 horas de clase 1-a-1), y su amigo tiene una clase de prueba antes de decidir. ¿Puedo llamarle 2 minutos hoy o mañana para contarle cómo funciona?"', size=9.5, color=GRIS)
+p('**(c) Primer mensaje al referido** (desde la línea de referidos, el mismo día que se recibe el número; nunca desde un celular personal):', after=2)
+caja(['Buenos días, [nombre]. Le escribe [nombre], profesor de Heiiu English Academy, en Bucaramanga.', '[Nombre de quien refiere] nos dio su número y nos dijo que usted necesita el inglés para [motivo, si se sabe].', '¿Puedo llamarle 5 minutos hoy para contarle cómo trabajamos?', 'Si prefiere que no le escribamos, respóndame NO y borro su número de inmediato.'])
+p('Con el SÍ o en la llamada: "usaremos su nombre y su número solo para darle información de nuestros programas; puede pedir que lo borremos cuando quiera". Después: para qué necesita el inglés · desde cero o ya estudió (y qué pasó) · presencial y jornada · El Pacto ("¿se le mide a ese ritmo?") · contado o inicial y cuotas · clase de prueba y asesoría por llamada: "¿[franja 1] o [franja 2]?". El referido escribe el día y la hora para que quede firme. Sin respuesta: una llamada a las 24 horas en horario legal; si tampoco, un último mensaje al tercer día y se cierra.', size=9.5, color=GRIS)
 
 p('ANEXO C — PLANILLA ÚNICA DE REFERIDOS (columnas)', NAR, 13)
 tabla([
  ['Columna', 'Qué va'],
- ['Fecha del primer mensaje', 'Día y hora en que el referido escribió "vengo de parte de"'],
- ['Referido', 'Nombre y teléfono (solo después del SÍ)'],
- ['Autorización', 'SÍ con fecha (captura del chat guardada)'],
+ ['Fecha de registro', 'Día y hora en que se anotó al referido, ANTES del primer contacto'],
+ ['Referido', 'Nombre y teléfono, entregados por quien refiere'],
+ ['Primer mensaje y respuesta', 'Fecha del mensaje · SÍ / NO (número borrado) / sin respuesta · llamada a las 24 h · cierre al tercer día (captura del chat guardada)'],
  ['Quién refiere', 'Nombre · activo (grupo) o egresado (nivel, fecha) · al día: sí/no'],
  ['Recolectado por', 'Docente / asesora / otro'],
- ['Verificación 30 días', 'No estaba en base, bot ni formulario: sí/no (lo revisa coordinación)'],
+ ['Verificación 30 días', 'No estaba en base, bot ni formulario: sí/no (lo revisa coordinación antes del primer contacto)'],
  ['Estado', 'Contactado → clase de prueba (fecha) → cita (fecha) → inicial pagada → clase 5 → bono pagado'],
  ['Quién condujo la asesoría', 'Docente / asesora / acompañado (nº 1-2)'],
  ['Programa y forma de pago', 'Completo contado / cuotas / Arranque'],
