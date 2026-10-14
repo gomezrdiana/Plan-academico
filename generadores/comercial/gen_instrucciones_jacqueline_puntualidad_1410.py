@@ -44,40 +44,11 @@ def tabla(filas, anchos, fs=9.5):
     doc.add_paragraph().paragraph_format.space_after = Pt(0)
 
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(0)
-r = p.add_run('INSTRUCCIONES PARA JACQUELINE — ASISTENCIA DEL B1 Y PUNTUALIDAD DOCENTE'); r.bold = True; r.font.size = Pt(13.5); r.font.color.rgb = NAR
+r = p.add_run('INSTRUCCIONES PARA JACQUELINE — PUNTUALIDAD DOCENTE'); r.bold = True; r.font.size = Pt(13.5); r.font.color.rgb = NAR
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(6)
 r = p.add_run('Heiiu English Academy · 14 de octubre de 2026 · Uso interno · Lo ejecuta Jacqueline; Diana solo recibe el reporte'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
-sec('PARTE 1 — EL B1 DE LA MAÑANA (4 estudiantes): Juan Diego ya habló con ellos; ahora se mide la asistencia')
-t('El grupo cambió de docente el lunes 13 y hay estudiantes que no están llegando. Con 4 estudiantes, cada ausencia es el 25% del grupo. Juan Diego, que abrió el grupo, ya habló hoy con cada uno (asistencia, tarea, actitud). Lo que sigue es de Jacqueline, con hora:', bold=True)
-item('Le pide a Juan Diego una línea por estudiante: qué dijo cada uno y si va mañana a las 8:00. La anota en la tabla de abajo.', '1. Hoy:')
-item('Manda al grupo del B1 el mensaje de abajo.', '2. Hoy, después de eso:')
-item('Registra quién llegó. Al que no llegue lo llama ella misma a las 9:00 a.m. con las tres preguntas: qué pasó, vuelve mañana, qué le complica. Responde con la tabla de causas.', '3. Mañana 8:00 a.m.:')
-tabla([
- ['Estudiante', 'Lun 13', 'Mar 14', 'Qué le dijo a Juan Diego', 'Mié 15 (vino / no)', 'Llamada 9:00 (causa)', 'Acción de Jacqueline'],
- ['1', '', '', '', '', '', ''], ['2', '', '', '', '', '', ''], ['3', '', '', '', '', '', ''], ['4', '', '', '', '', '', ''],
-], [2.2, 1.3, 1.3, 2.2, 5.0, 2.2, 3.0], fs=9)
-t('Qué responde Jacqueline según la causa (en la llamada de las 9:00 o cuando el estudiante le escriba):', bold=True, after=1)
-tabla([
- ['Causa', 'Acción'],
- ['El cambio de profe', 'Juan Diego ya les habló hoy. El docente actual ya se presentó el martes: no se vuelve a presentar ni pide disculpas por nada; al que faltó y vuelve, una frase de bienvenida y a la guía.'],
- ['El ritmo o la exigencia (confirmado hoy por el docente: "no tienen tiempo", "les da pena")', 'No se baja el ritmo. Se le recuerda el trato: el ritmo existe por la garantía por escrito; si cumple y no avanza, se le devuelve el nivel.'],
- ['"No tengo tiempo"', '"Son 3 minutos de video al día; la preparación son 20 o 30 minutos. Y desde mañana la tarea escrita de Gramática se acorta a la mitad: 15 o 20 minutos. En total, menos de una hora al día. Lo que no existe es aprender inglés sin hablar todos los días; eso ya lo sabe por lo que intentó antes."'],
- ['"Me da pena"', '"El video lo ve solo el profe, nadie de la clase. Y es exactamente para eso: la pena se gasta ahí, no delante de un jefe o un entrevistador. Desde mañana el video empieza con 3 frases que usted copia de alguien en internet; no arranca en blanco."'],
- ['El acento del profe nuevo ("no le entiendo")', 'Es parte del entrenamiento, no un defecto: en la vida real van a oír millones de acentos, y el oído se entrena en casa, no cambiando de profe. Desde esta semana la tarea diaria arranca con 2 minutos de un hablante con otro acento (LISTEN FIRST) y el video diario se abre con 3 frases de eso. Se le dice: "Si hoy te cuesta entenderle, en dos semanas vas a entender a cualquiera; eso es exactamente lo que estás comprando."'],
- ['Pide cambiar la hora de las 8:00', 'No se pregunta ni se negocia: matricularon a las 8:00 y ese es su horario. "Su horario es el de las 8:00, el que eligió al matricularse."'],
- ['Algo personal (trabajo, salud, dinero)', 'Se anota con fecha de regreso. Si es dinero, pasa a Experiencia al Cliente con el protocolo de cobranza, no al docente.'],
- ['No contesta la llamada del jueves', 'Mensaje escrito de Jacqueline ese día con la frase de garantía y asistencia. Se reporta a Diana como "sin contacto".'],
-], [4.0, 13.2])
-
-t('Mensaje de Jacqueline al grupo del B1 (hoy):', bold=True, after=1)
-caja(['"Equipo del B1: les hablo con franqueza. Son un grupo pequeño, de 4, y eso tiene dos caras: cada uno recibe más atención del profe,',
-      'y cada ausencia pesa más. Con el cambio de profe el avance no se va a notar en una semana: toma tiempo, y hay que hacerlo.',
-      'Y sobre el acento: acentos hay millones y el oído se entrena. Por eso desde esta semana la tarea arranca con 2 minutos de otro acento.',
-      'Su horario es el de las 8:00, el que eligieron al matricularse, y ahí los esperamos mañana. Cualquier cosa que les complique venir,',
-      'me la escriben a mí. Nos vemos a las 8:00."'])
-
-sec('PARTE 2 — PUNTUALIDAD DOCENTE: una regla mecánica que corre sola desde el lunes 19/10')
+sec('PARTE 1 — PUNTUALIDAD DOCENTE: una regla mecánica que corre sola desde el lunes 19/10')
 t('La hora de inicio de cada clase es condición del servicio en el contrato docente, y el pago es por horas efectivamente impartidas. No se llama la atención: se registra y se liquida. Jacqueline lleva el registro; Diana lo ve los lunes.', bold=True)
 item('A la hora exacta de inicio de cada clase, el docente envía al grupo de docentes la FOTO del tablero con la Frase del Día escrita. La hora del mensaje es la hora de inicio real. Sin foto = clase iniciada tarde.', 'Registro:')
 item('Cada bloque de 15 minutos iniciado tarde se descuenta de la liquidación del mes (la fracción de hora no impartida no se paga). Hasta 5 minutos no cuenta. Tres clases tarde en el mes: llamado de atención por escrito de Diana. Ninguna situación se resuelve en el grupo: quien tenga una razón la escribe a Jacqueline ese mismo día.', 'Consecuencia:')
@@ -92,16 +63,16 @@ caja(['Equipo, desde el lunes 19 de octubre arranca el registro de inicio de cla
       'impartidas: cada bloque de 15 minutos iniciado tarde se descuenta en la liquidación del mes (hasta 5 minutos no cuenta).',
       'No es un regaño: es un registro, y corre igual para todos. Cualquier situación se escribe a Jacqueline el mismo día. Gracias.'])
 
-sec('PARTE 3 — REPORTE DIARIO A DIANA (una sola línea, 12:30 p.m.)')
-caja(['"B1 mañana: [x]/4 asistieron · ausentes llamados: [x] · causas: [palabra por cada uno] · docentes a tiempo hoy: [x]/[x]"'])
-t('Esta semana (14 al 17/10) el reporte va todos los días. Desde la semana siguiente, solo los lunes en la reunión fija, salvo que un día falten 2 o más del B1: ese día se reporta de inmediato.', size=9.5, color=GRIS)
+sec('PARTE 2 — REPORTE DIARIO A DIANA (una sola línea, 12:30 p.m.)')
+caja(['"Hoy: [x] clases · docentes a tiempo: [x]/[x] · tarde: [rol del docente, minutos]"'])
+t('Esta semana (14 al 17/10) el reporte va todos los días para que la rutina quede montada antes del lunes 19. Desde la semana siguiente, solo los lunes con la tabla semanal, salvo que un docente inicie 15 minutos o más tarde: ese día se reporta de inmediato.', size=9.5, color=GRIS)
 
 sec('CHECKLIST DE JACQUELINE — HOY 14/10')
-for c in ['Hoy: pedirle a Juan Diego la línea por estudiante y llenar la tabla.', 'Hoy: mensaje al grupo del B1 (Parte 1).',
-          'Mañana 8:00: registrar quién vino; a las 9:00 llamar a quien no.', 'Enviar el mensaje de puntualidad al grupo de docentes (lo manda Diana).',
+for c in ['Leer la Parte 1 y confirmar a Diana que la entendió.', 'Diana envía hoy el mensaje de puntualidad al grupo de docentes; Jacqueline queda atenta a lo que respondan por privado.',
+          'Mañana: anotar la hora de la foto de cada clase en la tabla semanal (aunque la regla rija desde el lunes 19, la tabla se empieza a llenar ya).',
           'Reporte de una línea a Diana a las 12:30 p.m. desde mañana.']:
     item(c, '☐')
 
-out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\documentos_operativos\politicas\INSTRUCCIONES_JACQUELINE_ASISTENCIA_B1_Y_PUNTUALIDAD_2026-10-14.docx'
+out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\documentos_operativos\politicas\INSTRUCCIONES_JACQUELINE_PUNTUALIDAD_DOCENTE_2026-10-14.docx'
 try: doc.save(out); print('OK', out)
 except PermissionError: doc.save(out.replace('.docx', '_v2.docx')); print('ABIERTO -> _v2')
