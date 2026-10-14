@@ -29,13 +29,13 @@ def tabla(rows):
     d.add_paragraph().paragraph_format.space_after = Pt(2)
 
 p = d.add_paragraph(); r = p.add_run('META ADS — ESTRUCTURA 15 AL 31 DE OCTUBRE 2026'); r.bold = True; r.font.size = Pt(15); r.font.color.rgb = NAR
-para('Para el trafficker. Basado en documentación oficial de Meta y evidencia publicada (investigación interna 08/10/2026). Presupuesto total: $70.000/día. La campaña de WhatsApp ya está al aire desde el 13/10 (el anuncio de "Curso Inglés" pasó de formulario a WhatsApp). NO se crea otra campaña: los 3 videos que ya están (V1, V3, V4) entran como anuncios nuevos en ESE conjunto el miércoles 14 (apenas estén montados, Brian nos pasa el enlace y los ID para LaHaus); los demás, en el corte del 22/10 (ver sección 5). Objetivo del periodo: saber cuál de los videos nuevos trae citas más baratas, y dejar de perder leads de formulario que no contestan.', color=GRIS, size=9.5, after=8)
+para('Para el trafficker. Basado en documentación oficial de Meta y evidencia publicada (investigación interna 08/10/2026). Presupuesto total: $70.000/día. La campaña de WhatsApp ya está al aire desde el 13/10 (el anuncio de "Curso Inglés" pasó de formulario a WhatsApp). NO se crea otra campaña: los 3 videos que ya están (V1, V3, V4) entran como anuncios nuevos en ESE conjunto el miércoles 14 (apenas estén montados, compartir el enlace en el grupo); los demás, en el corte del 22/10 (ver sección 5). Objetivo del periodo: saber cuál de los videos nuevos trae citas más baratas, y dejar de perder leads de formulario que no contestan.', color=GRIS, size=9.5, after=8)
 
 h('1. Campañas (tres, no más) — con lo que hay hoy')
 tabla([
  ['Campaña', 'Objetivo y destino', 'Conjunto (uno solo)', '$/día', 'Anuncios desde el 14/10'],
- ['HEIIU_CTWA_BGA_1510', 'Clientes potenciales → Apps de mensajería → WhatsApp. Meta de rendimiento: "Clientes potenciales" si aparece en la cuenta; si no, "Conversaciones". NUNCA Tráfico.', 'CTWA_BGA_ADV: Bucaramanga + radio que cubra el área metropolitana (Floridablanca, Girón, Piedecuesta), 18-45, Advantage+ audiencia, Advantage+ ubicaciones.', '$55.000 hasta el 21/10 (toma $10.000 del control); $45.000 desde el 22', 'Es el conjunto que ya corre desde el 13/10 con el anuncio de "Curso Inglés" (se deja). El miércoles 14 se agregan TRES anuncios, uno por video: V1_VIDEODEHOY, V3_575H, V4_VACANTE. Los que falten se agregan SOLO en el corte del 22/10.'],
- ['HEIIU_FORM_CONTROL_1510', 'Clientes potenciales → Formulario instantáneo tipo "MAYOR INTENCIÓN" (no "más volumen").', 'Misma segmentación.', '$15.000', 'Se crea el miércoles 14 con V3_575H y V4_VACANTE (los dos de profe). Se revisa en el corte del 22.'],
+ ['HEIIU_CTWA_BGA_1510', 'Clientes potenciales → Apps de mensajería → WhatsApp. Meta de rendimiento: "Clientes potenciales" si aparece en la cuenta; si no, "Conversaciones". NUNCA Tráfico.', 'CTWA_BGA_ADV: Bucaramanga + radio que cubra el área metropolitana (Floridablanca, Girón, Piedecuesta), 18-45, Advantage+ audiencia, Advantage+ ubicaciones.', '$55.000 hasta el 21/10 (toma $10.000 del control); $45.000 desde el 22', 'Es el conjunto que ya corre desde el 13/10 con el anuncio de "Curso Inglés" (se deja). Agregar TRES anuncios, uno por video: V1_VIDEODEHOY, V3_575H, V4_VACANTE. Los que falten se agregan SOLO en el corte del 22/10.'],
+ ['HEIIU_FORM_CONTROL_1510', 'Clientes potenciales → Formulario instantáneo tipo "MAYOR INTENCIÓN" (no "más volumen").', 'Misma segmentación.', '$15.000', 'Crear con V3_575H y V4_VACANTE (los dos de profe). Se revisa en el corte del 22.'],
  ['HEIIU_RTG_GARANTIA_2210', 'Clientes potenciales → WhatsApp.', 'Audiencia: vieron el 50% de cualquier video (30 días) + interactuaron con IG/FB (30 días). Excluir lista de inscritos y de citas agendadas. Solo si la audiencia pasa de ~1.000 personas.', '$10.000 desde el 22/10', 'V6_GARANTIA (cuando llegue regrabado) y V7_NOESFACIL (cuando llegue). Hasta entonces, no se crea.'],
 ])
 para('Por qué un solo conjunto con todos los anuncios y no un conjunto por video: Meta necesita ~50 eventos de optimización por semana por conjunto para salir de la fase de aprendizaje; con este presupuesto, ocho conjuntos no aprenden nunca. La lectura por video se hace a nivel de anuncio (desglose por anuncio) y con el código del mensaje prellenado.', size=9.5, color=GRIS)
@@ -50,7 +50,7 @@ tabla([
 ])
 para('Nada de precio ni de "quiero información" en el prellenado: el agente necesita un motivo para arrancar la conversación.', size=9.5, color=GRIS)
 h('3. Formularios actuales')
-for t in ['• "Au Pair" quedó pausada el 08/10 (de 7 citas por LaHaus, 4 vinieron de Curso Inglés, 2 de base de datos y 1 de Au Pair). "Curso Inglés" como formulario se pausó el 13/10 y ese mismo anuncio pasó a WhatsApp (es el conjunto de la sección 1). No se vuelve a prender el formulario viejo. Cuando los anuncios nuevos estén adjuntos a la campaña, Brian nos pasa el enlace y el ID de la campaña y de cada anuncio, para dárselos a LaHaus.',
+for t in ['• "Au Pair" quedó pausada el 08/10 (de 7 citas por LaHaus, 4 vinieron de Curso Inglés, 2 de base de datos y 1 de Au Pair). "Curso Inglés" como formulario se pausó el 13/10 y ese mismo anuncio pasó a WhatsApp (es el conjunto de la sección 1). No se vuelve a prender el formulario viejo. Cuando los anuncios nuevos estén adjuntos a la campaña, compartir el enlace en el grupo, por favor.',
           '• El control nuevo (HEIIU_FORM_CONTROL_1510) se crea con tipo "MAYOR INTENCIÓN" (pantalla de confirmación de datos). Activar verificación del teléfono por SMS si está disponible en Colombia. Teléfono SIN autorrelleno.',
           '• Pantalla de introducción: "Te escribirá nuestro asistente por WhatsApp en menos de 5 minutos. Responde para agendar tu videollamada de 20 minutos."',
           '• Preguntas (máximo 6, todas de opción múltiple PERSONALIZADAS, no las autollenadas de Meta): ¿Para qué necesitas el inglés? (trabajo / irme del país / estudio / mi hijo) · ¿Para cuándo quieres empezar? (este mes / en 1-2 meses / solo averiguando) · ¿Puedes asistir presencial en Bucaramanga? (sí / no) · ¿Estás dispuesto(a) a grabar un video corto en inglés todos los días como parte del entrenamiento? (sí, me le mido / prefiero algo más suave) · ¿Cómo prefieres invertir en tu formación? (de contado / inicial y cuotas / solo si es gratis) · Nombre y WhatsApp (el teléfono SIN autorrelleno).',
@@ -60,7 +60,7 @@ for t in ['• "Au Pair" quedó pausada el 08/10 (de 7 citas por LaHaus, 4 vinie
 
 h('4. Au Pair (prioridad: es el servicio que más engancha)')
 for t in ['• La campaña separada de Au Pair ya está pausada (08/10): a $20.000/día no salía de aprendizaje, 1 cita en 8 días y 3 de cada 5 leads creían que era una agencia de empleo. Esos $20.000/día quedan reservados para cuando entre V5.',
-          '• Vuelve como UN anuncio (V5_PASAPORTE) dentro del conjunto de WhatsApp cuando llegue el video. Si se puede priorizar V5, nos sirve mucho: es el servicio que más engancha. Mientras tanto no se crea nada de Au Pair. Primera línea del texto del anuncio: "No somos agencia: te preparamos en inglés para la entrevista de Au Pair o de trabajo en el exterior. El trámite lo haces con la agencia aliada en la que confiamos."']:
+          '• Vuelve como UN anuncio (V5_PASAPORTE) dentro del conjunto de WhatsApp cuando llegue el video. Si se puede priorizar V5, nos sirve mucho: es el servicio que más engancha. Mientras tanto no se crea nada de Au Pair; el texto del anuncio llega con el Word de esos videos.']:
     para(t, after=2)
 
 h('5. Lo que falta y cuándo entra')
@@ -74,7 +74,7 @@ tabla([
  ['V9_CORRECCION', 'La corrección del día (10 min)', 'Falta (30 s)', 'Corte del 22/10'],
  ['Todos', 'Versiones de 15 s + V1 versiones B y C', 'Faltan', 'Corte del 22/10'],
 ])
-para('Prellenados de estos anuncios: V2 "Hola, vi el video de la clase (V2). Quiero ver una por dentro." · V5 "Hola, quiero prepararme en inglés para Au Pair / irme (V5)." · V6 "Hola, vi el video del acompañamiento (V6). ¿Me muestran la garantía?" · V7 "Hola, vi el video de lo que no prometen (V7). Voy en serio." · V8 "Hola, vi el video del año después del colegio (V8). Es para mi hijo/a." · V9 "Hola, vi la corrección del día (V9). Aquí va mi audio."', size=9.5, color=GRIS)
+para('Los códigos y prellenados de estos anuncios llegan con el Word de esos videos.', size=9.5, color=GRIS)
 
 out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\campañas\INSTRUCCIONES_META_TRAFFICKER_2026-10-15.docx'
 try: d.save(out); print('OK', out)
