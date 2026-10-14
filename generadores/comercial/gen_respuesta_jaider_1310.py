@@ -39,7 +39,7 @@ MSG = """Hola Jaider, gracias por los dos informes; están muy claros. Te respon
 3. CASOS DE LOS PUNTOS 9, 10 Y 15. Los que tenemos:
    • Jerson (6/10): pausado a las 10:11 y el agente volvió a escribirle a las 10:46. Número: 317 376 1839.
    • Henry (6/10, 8:16 pm): el agente le dio $9.560.000 y $3.150.000, que no existen. No lo tenemos en rescates; búsquenlo por nombre y hora en el panel.
-   • Lead del 7/10 que dijo "quiero reforzar lo que ya sé" y el agente le repitió la pregunta: no tenemos el número; búsquenlo por fecha y frase.
+   • Lead del 7/10 que dijo "quiero reforzar lo que ya sé" y el agente le repitió la pregunta: no tenemos el número ni el nombre, y en nuestro panel solo se busca por nombre, teléfono o correo. Ustedes tienen el texto de las conversaciones: búsquenlo del lado de ustedes por fecha (7/10) y frase.
    • María Eugenia (7/10, 12:34 pm): el agente siguió escribiendo después de "déjame que la asesora te escriba". No tenemos el número; búsquenlo por nombre y hora.
    • La llamada sin perfilar del punto 15: ustedes tienen el registro de la llamada.
    Si alguno no aparece, dinos qué dato necesitan y lo sacamos.
