@@ -1,15 +1,23 @@
 # -*- coding: utf-8 -*-
-"""Propuesta PARA ANÁLISIS del programa de referidos (12/10/2026): bono al estudiante que refiere + pago al profe
-embajador que los pide y registra + regla para no pagar tres veces. Documento por ROLES (sin nombres).
+"""Programa de referidos — VERSIÓN FINAL (14/10/2026). Reemplaza la propuesta para análisis del 12/10.
+Decisiones de gerencia 14/10: Opción B ajustada con la investigación (INVESTIGACION_REFERIDOS_2026-10-14.md);
+docente recolector-cerrador (sin grupo a cargo); base = estudiantes activos (~60) + egresados; clase de prueba sí;
+tratamiento tributario del bono = pregunta al contador. Documento por ROLES (sin nombres).
+Encaja con lo ya firmado/redactado: contrato docente v3.1 cl. 2(b) (referido 2% si cierra el equipo comercial),
+ANEXO_HABILITACION_COMERCIAL_DOCENTE_v1 (lead de la casa cerrado por el docente 5%) y contrato de la asesora (5%).
 Salida: recursos/comercial/PROGRAMA_REFERIDOS_PROPUESTA_2026-10.docx"""
 import re
 from docx import Document
 from docx.shared import Pt, RGBColor
+from docx.enum.text import WD_BREAK
 
 NAR = RGBColor(0xE5, 0x4C, 0x09); GRIS = RGBColor(0x66, 0x66, 0x66)
 m = lambda v: f'${v:,.0f}'.replace(',', '.')
+pct = lambda v, base: f'{v / base * 100:.1f}%'.replace('.', ',')
 CONTADO = 4_782_800; CUOTAS = 5_648_000; ARRANQUE = 2_990_000
-LEAD = 10_800; CONV = 0.15; META_X_MATRICULA = round(LEAD / CONV)   # ~$72.000 de pauta por matrícula (dato interno 08/10)
+LEAD = 10_800; CONV = 0.15; META_X_MATRICULA = round(LEAD / CONV)   # ≈ $72.000 de pauta por matrícula (dato interno 08/10)
+BONO = {'c': 150_000, 'q': (75_000, 75_000), 'a': 75_000}
+ACOMP = 50_000   # fijo a la asesora por cada cierre acompañado (máx. 3)
 
 d = Document(); d.styles['Normal'].font.name = 'Calibri'; d.styles['Normal'].font.size = Pt(10.5)
 for s in d.sections: s.left_margin = s.right_margin = Pt(54); s.top_margin = s.bottom_margin = Pt(46)
@@ -23,70 +31,171 @@ def p(t, color=None, size=10.5, after=4):
         r = x.add_run(part[2:-2] if part.startswith('**') else part); r.bold = part.startswith('**'); r.font.size = Pt(size)
         if color: r.font.color.rgb = color
 def li(t): p('•  ' + t, after=2)
-def tabla(rows, bold_first=True, shade=None):
+def caja(lines):
+    for l in lines:
+        x = d.add_paragraph(); x.paragraph_format.space_after = Pt(0); x.paragraph_format.left_indent = Pt(18)
+        r = x.add_run(l); r.font.name = 'Consolas'; r.font.size = Pt(9.5)
+    d.add_paragraph().paragraph_format.space_after = Pt(2)
+def tabla(rows, bold_rows=()):
     t = d.add_table(rows=1, cols=len(rows[0])); t.style = 'Table Grid'
     for j, v in enumerate(rows[0]):
         r = t.rows[0].cells[j].paragraphs[0].add_run(v); r.bold = True; r.font.size = Pt(9.5)
     for i, row in enumerate(rows[1:]):
         c = t.add_row().cells
         for j, v in enumerate(row):
-            r = c[j].paragraphs[0].add_run(v); r.font.size = Pt(9.5); r.bold = (bold_first and j == 0) or (shade is not None and i == shade)
-    d.add_paragraph()
+            r = c[j].paragraphs[0].add_run(v); r.font.size = Pt(9.5); r.bold = (j == 0) or (i in bold_rows)
+    d.add_paragraph().paragraph_format.space_after = Pt(2)
+def salto(): d.add_paragraph().add_run().add_break(WD_BREAK.PAGE)
 
-p('HEIIU · COMERCIAL · DOCUMENTO INTERNO PARA ANÁLISIS', GRIS, 10)
-p('PROGRAMA DE REFERIDOS — PROPUESTA (12/10/2026)', NAR, 15)
-p('Qué se decide aquí: (1) cuánto recibe el estudiante que refiere, (2) cuánto recibe el profe embajador que pide y registra los referidos, (3) cómo cambia según contado o cuotas, y (4) la regla para no pagar tres veces por la misma matrícula. Todo por roles: estudiante que refiere · profe embajador · asesora comercial · coordinación.', GRIS, 9.5)
+p('HEIIU · COMERCIAL · DOCUMENTO INTERNO', GRIS, 10)
+p('PROGRAMA DE REFERIDOS — VERSIÓN FINAL (14/10/2026)', NAR, 15)
+p('Roles: estudiante o egresado que refiere · docente recolector-cerrador (sin grupo a cargo durante el piloto) · asesora comercial · coordinación · gerencia. Reemplaza la propuesta del 12/10. Base: investigación del 14/10 (evidencia y fuentes en INVESTIGACION_REFERIDOS_2026-10-14.md).', GRIS, 9.5)
 
-h('1. Por qué un programa y no "pedir el favor"')
-p('Referidos es el único canal probado junto con la pauta (Estrategia de Ventas 2026, §7), y hoy funciona sin programa: nadie lo pide de forma fija ni se registra quién trajo a quién. Un referido es un lead que ya viene con confianza: no cuesta pauta, responde más y se retira menos. El programa fija tres cosas: **cuánto se paga, cuándo se pide y dónde se registra.**')
+h('0. Decisiones tomadas (gerencia, 14/10)')
+for t in [
+ '**Opción B**, con los ajustes de la investigación. La Opción A ($200.000 + fijo) se descarta: cae en el rango donde el bono alto trae referidos menos rentables.',
+ '**El docente recolecta Y cierra** sus referidos. Recolecta en todos los grupos activos y llama a los egresados. Cobra por comisión, con los papeles firmados antes del primer mensaje (sección 6).',
+ '**Base:** unos 60 estudiantes activos más los egresados (cantidad SIN DATO: coordinación entrega la lista).',
+ '**El referido recibe una clase de prueba** junto a quien lo refiere (o solo, si quien lo refiere es egresado). Nunca descuento.',
+ '**Contador:** antes del primer pago del bono se le hacen las preguntas de la sección 8.',
+]: li(t)
 
-h('2. Lo que cuesta hoy una matrícula por pauta (para comparar)')
+h('1. Qué recibe cada quien')
+p('Todo sobre recaudo efectivo a caja. Los porcentajes del docente son los que ya dicen su contrato v3.1 (cláusula 2b: referido cerrado por el equipo comercial, 2%) y el Anexo de Habilitación Comercial (lead de la casa cerrado por el docente, 5%). **Los referidos del programa son leads de la casa**, no canal propio: salen de la base de Heiiu, no de la red personal del docente. No hay fijo al docente: el fijo de $80.000 de la propuesta anterior lo reemplaza el 2% de su contrato, que ya está firmado.')
 tabla([
- ['Concepto', 'Valor por matrícula', 'Fuente'],
- ['Pauta Meta', m(META_X_MATRICULA), f'{m(LEAD)} por lead de formulario ÷ {int(CONV*100)}% de conversión (datos internos 08/10)'],
- ['Plataforma del agente (LaHaus)', 'SUPUESTO — verificar', 'Cobra por lead facturable; falta el valor por lead del contrato'],
- ['Comisión de la asesora que cierra', m(round(CONTADO*0.05)) + ' (contado)', '5% del recaudo (esquema vigente)'],
- ['TOTAL aproximado', '≈ ' + m(META_X_MATRICULA + round(CONTADO*0.05)) + ' + plataforma', '≈ 6,5% del programa de contado, sin contar la plataforma'],
+ ['Quién recibe', 'Completo DE CONTADO (' + m(CONTADO) + ')', 'Completo A CUOTAS (' + m(CUOTAS) + ')', 'Arranque A1+A2 (' + m(ARRANQUE) + ')'],
+ ['Estudiante o egresado que refiere (bono)', m(BONO['c']) + ' (' + pct(BONO['c'], CONTADO) + ')', m(BONO['q'][0]) + ' con la inicial + ' + m(BONO['q'][1]) + ' con la cuota 3', m(BONO['a']) + ' (' + pct(BONO['a'], ARRANQUE) + ')'],
+ ['Docente, si ÉL cierra (5%, anexo de habilitación)', m(round(CONTADO * .05)), '5% de cada pago (' + m(round(CUOTAS * .05)) + ' al final)', m(round(ARRANQUE * .05))],
+ ['Docente, si cierra la asesora (2%, contrato)', m(round(CONTADO * .02)), '2% de cada pago (' + m(round(CUOTAS * .02)) + ')', m(round(ARRANQUE * .02))],
+ ['Asesora, si cierra un lead del docente (5%, su contrato)', m(round(CONTADO * .05)), '5% de cada pago (' + m(round(CUOTAS * .05)) + ')', m(round(ARRANQUE * .05))],
+ ['TOTAL si cierra el docente', m(BONO['c'] + round(CONTADO * .05)) + ' (' + pct(BONO['c'] + CONTADO * .05, CONTADO) + ')', m(sum(BONO['q']) + round(CUOTAS * .05)) + ' (' + pct(sum(BONO['q']) + CUOTAS * .05, CUOTAS) + ')', m(BONO['a'] + round(ARRANQUE * .05)) + ' (' + pct(BONO['a'] + ARRANQUE * .05, ARRANQUE) + ')'],
+ ['TOTAL si cierra la asesora (excepción)', m(BONO['c'] + round(CONTADO * .07)) + ' (' + pct(BONO['c'] + CONTADO * .07, CONTADO) + ')', m(sum(BONO['q']) + round(CUOTAS * .07)) + ' (' + pct(sum(BONO['q']) + CUOTAS * .07, CUOTAS) + ')', m(BONO['a'] + round(ARRANQUE * .07)) + ' (' + pct(BONO['a'] + ARRANQUE * .07, ARRANQUE) + ')'],
+ ['Comparación: matrícula por pauta', m(META_X_MATRICULA + round(CONTADO * .05)) + ' (' + pct(META_X_MATRICULA + CONTADO * .05, CONTADO) + ') + plataforma', m(META_X_MATRICULA + round(CUOTAS * .05)) + ' + plataforma', m(META_X_MATRICULA + round(ARRANQUE * .05)) + ' + plataforma'],
+], bold_rows=(4, 5))
+for t in [
+ '**La regla es que cierre el docente.** El caso "cierra la asesora" solo ocurre cuando él no llevó al referido a cita en 7 días o no cerró en 14 (sección 5): el lead pasa a ella y él se queda con su 2%. La propuesta del 12/10 ponía a la asesora al 3% en referidos; su contrato dice 5% para toda venta que gestione y no se toca por un caso que será la excepción.',
+ '**Las primeras 3 matrículas el docente las cierra acompañado** por la asesora: él conduce y cobra su 5%; ella recibe ' + m(ACOMP) + ' fijos por acompañamiento (lo paga gerencia, máximo 3 veces; no modifica ningún contrato). Desde la 4ª cierra solo.',
+ '**Una sola comisión por matrícula.** Nunca cobran los dos el 5% por el mismo recaudo. En la planilla queda quién condujo la asesoría hasta el abono.',
+ '**Bono de quien refiere:** el estudiante activo elige **transferencia**, **abono a su propia cuota** o **2 horas 1-a-1**. El egresado elige transferencia o 2 horas 1-a-1. Sin tope: 3 matrículas, 3 bonos (más de 3 en un mes pasa a revisión, sección 4).',
+ '**Beneficio del referido:** una **clase de prueba** en el grupo de quien lo refiere, antes de decidir (si quien refiere es egresado, en el grupo que coordinación indique). Entra con la misma tarifa y la misma beca que cualquiera. Coordinación define en qué grupos y qué días caben visitantes; el docente agenda la clase de prueba con coordinación, nunca por su cuenta.',
+]: li(t)
+
+h('2. Cuándo se paga')
+for t in [
+ '**Bono de quien refiere:** cuando el referido **pagó la inicial y asistió a su clase 5**. En cuotas, la segunda mitad cuando entra la cuota 3. Así no se paga por matrículas que se retiran en la primera semana.',
+ '**Comisiones del docente y de la asesora:** liquidación mensual contra la planilla, sobre pagos con el retracto vencido, como dicen sus contratos. Devolución o retracto se descuenta de la siguiente liquidación.',
+ '**Quién liquida:** coordinación arma la planilla a fin de mes; gerencia aprueba y paga. Lo que no está en la planilla no existe ni se paga.',
+]: li(t)
+
+h('3. Cómo se recogen los referidos (y por qué nadie pide el número del amigo)')
+p('La SIC ha sancionado programas de referidos por usar datos del amigo sin su autorización (resoluciones de 2019, 2022 y 2023; Ley 1581). Por eso **el estudiante no entrega nombre ni número: reenvía un mensaje y el amigo le escribe a Heiiu primero.** Ese primer mensaje del amigo es la conducta que valida la autorización (Decreto 1377, art. 7) y Heiiu guarda la prueba (el chat).')
+tabla([
+ ['Paso', 'Quién', 'Qué pasa'],
+ ['1', 'Docente', 'Ronda de 30 segundos al cierre de la clase (guion en el Anexo B), con el profe titular presente, fuera del tiempo de clase. A los egresados: mensaje primero y llamada de 2 minutos después (sección 7).'],
+ ['2', 'Heiiu', 'Ese mismo día manda al grupo del curso (o al egresado) el mensaje reenviable (Anexo B-a).'],
+ ['3', 'Estudiante / egresado', 'Se lo reenvía a UNA persona concreta. No da datos de nadie.'],
+ ['4', 'Referido', 'Escribe a la línea de referidos de Heiiu: "Vengo de parte de [nombre]".'],
+ ['5', 'Docente', 'Responde desde la línea de Heiiu con el aviso de privacidad y pide el SÍ (Anexo B-b). Sin SÍ no se escribe más. Registra en la planilla (Anexo C) antes de cualquier otra cosa.'],
+ ['6', 'Docente', 'Perfila con las mismas preguntas del flujo del agente: para qué, nivel, presencial y jornada, El Pacto, forma de pago. Nunca ingresos ni centrales.'],
+ ['7', 'Docente + coordinación', 'Agenda la clase de prueba (con quien lo refirió) y la asesoría por llamada de WhatsApp; presencial solo si el referido lo pide. La firma es presencial.'],
+ ['8', 'Docente', 'Cierra con el tarifario oficial: contado, inicial del 20% y cuotas, o Arranque. Recibe el pago SOLO la cuenta de Heiiu; contrato y recibo los registra coordinación.'],
 ])
-p('Conclusión: el programa de referidos no debe costar mucho más de **7-8% del valor de la matrícula** para que sea tan rentable como la pauta, y lo que lo justifica además es que no exige caja por adelantado (se paga solo cuando el referido ya pagó).', after=6)
+p('**Línea de referidos (decisión de gerencia).** La línea principal de WhatsApp la opera el agente de la plataforma: si el referido escribe ahí, el agente lo perfila y alerta a la asesora, no al docente. Recomendación: **un número nuevo de Heiiu** (SIM a nombre de la empresa, WhatsApp Business con el nombre Heiiu, en un celular que usa el docente; copia de seguridad y acceso de gerencia; al terminar el piloto el número vuelve a la oficina). Costo: el plan de la SIM. Alternativa: usar la línea principal y pedirle a la plataforma una regla "vengo de parte de" que derive al docente; eso implica otro cambio con la plataforma y se queda para la revisión de noviembre.')
 
-h('3. Las dos opciones')
-p('**Opción A — generosa:** bono alto al estudiante y pago fijo al embajador, con la asesora al 5% normal. Total ≈ ' + m(200_000 + 100_000 + round(CONTADO*0.05)) + ' por matrícula de contado (≈ 11%). Más cara que la pauta: solo se justifica si se mide que los referidos se retiran menos y pagan mejor.')
-p('**Opción B — equilibrada (recomendada):** bono medio al estudiante, pago fijo al embajador y asesora al 3% en referidos (el lead llega pre-vendido y la cita la agenda el embajador, no el bot). Total ≈ ' + m(150_000 + 80_000 + round(CONTADO*0.03)) + ' por matrícula de contado (≈ 7,8%): igual de rentable que la pauta y sin caja por adelantado.', after=6)
+h('4. Reglas anti-abuso')
+for t in [
+ 'Cuenta como referido solo quien **escribe primero** con "vengo de parte de" y **no estaba** en la base, el bot ni un formulario en los últimos 30 días. Si ya estaba, es lead de pauta: sin bono y sin 5% del docente (aplica el flujo normal).',
+ 'Quien refiere debe estar **al día en pagos** (activo) o haber terminado su programa sin saldo (egresado).',
+ 'Más de **3 bonos en un mes** para la misma persona pasan a revisión de coordinación antes de pagarse.',
+ 'No se paga bono por **personal de Heiiu** ni por **familiares del docente recolector**; el docente no cobra bono de estudiante, solo su comisión.',
+ 'El bono **no se usa como argumento** ante el referido. Si pregunta, se le dice la verdad: "sí, a quien te refirió le damos un bono; a ti te damos la clase de prueba y la misma beca que a cualquiera".',
+ '**Nunca descuento al referido.** Misma tarifa, misma beca, misma escalera. Esto protege los precios y evita que el referido negocie con el bono del otro.',
+ 'Los términos del bono van en la **hoja de términos** (Anexo A) con vigencia escrita, como exige la Ley 1480 (art. 33). Si cambia algo, se avisa por el mismo medio por el que se anunció.',
+]: li(t)
+
+h('5. Plazos y qué pasa si se vence')
 tabla([
- ['Quién recibe', 'Programa completo DE CONTADO (' + m(CONTADO) + ')', 'Programa completo A CUOTAS (' + m(CUOTAS) + ')', 'Arranque A1+A2 (' + m(ARRANQUE) + ')'],
- ['Estudiante que refiere — Opción A', m(200_000) + ' al pagar la inicial', m(100_000) + ' con la inicial + ' + m(100_000) + ' con la cuota 3', m(100_000)],
- ['Estudiante que refiere — Opción B', m(150_000) + ' al pagar la inicial', m(75_000) + ' con la inicial + ' + m(75_000) + ' con la cuota 3', m(75_000)],
- ['Profe embajador — Opción A', m(100_000), m(60_000) + ' con la inicial + ' + m(40_000) + ' con la cuota 3', m(50_000)],
- ['Profe embajador — Opción B', m(80_000), m(50_000) + ' con la inicial + ' + m(30_000) + ' con la cuota 3', m(40_000)],
- ['Asesora que cierra', '5% (A) · 3% (B) del recaudo', 'igual, a medida que entra cada cuota', 'igual'],
-], bold_first=True)
-p('Cómo se paga el bono del estudiante: él elige **transferencia** o **abono a su propia cuota** (si está financiado). Para el estudiante que ya terminó de pagar, transferencia. Sin tope de referidos: quien trae 3 matrículas cobra 3 bonos.', after=6)
+ ['Hito', 'Plazo desde el primer mensaje del referido', 'Si no se cumple'],
+ ['Cita agendada (clase de prueba o asesoría)', '7 días', 'El lead pasa a la asesora. El docente queda con el 2% si ella cierra.'],
+ ['Cierre (inicial pagada)', '14 días', 'Igual: pasa a la asesora, docente 2%.'],
+ ['Lead que dice "no por ahora"', 'Un solo mensaje de despedida, sin reintentos', 'Marcado "frío" en la planilla; solo se retoma si él escribe.'],
+])
+p('Horario para mensajes y llamadas por iniciativa de Heiiu: lunes a viernes 7:00 a.m. a 7:00 p.m., sábados 8:00 a.m. a 3:00 p.m., nunca domingos ni festivos; máximo un contacto al día por lead (Ley 2300 de 2023). Lo que el referido escriba se responde a cualquier hora.', size=9.5, color=GRIS)
 
-h('4. Reglas (las que evitan pagar de más o pagar mal)')
+h('6. Los 4 candados del docente recolector-cerrador')
 for t in [
- '**Registro antes del primer contacto.** El referido se registra en la planilla (nombre, teléfono, quién lo refiere, fecha) ANTES de que la asesora o el bot le escriban. Si ya estaba en el sistema (bot, formulario o base) en los últimos 30 días, no es referido: es un lead de pauta y no genera bono.',
- '**El bono se paga cuando el referido pagó la inicial y asistió a su clase 5.** Así no se paga por matrículas que se retiran en la primera semana. El segundo pago (cuotas) se liquida cuando entra la cuota 3.',
- '**No se paga tres veces.** El embajador cobra por REGISTRAR y AGENDAR; la asesora, por CERRAR. Si el embajador cierra solo (sin asesora en la venta), recibe el 5% del recaudo en vez del fijo, como cualquier vendedor; nunca las dos cosas.',
- '**Nunca descuentos al referido como gancho.** El referido entra con la misma tarifa y la misma beca que cualquier estudiante; el beneficio es para quien refiere. Esto protege la escalera de precios y evita que el referido "negocie" con el bono del otro.',
- '**Sin plata al profe por estudiantes de su propio grupo que ya estaban matriculados.** El embajador cobra por referidos nuevos que él registró, de cualquier grupo.',
- '**Nada de esto se comunica como "comisión" a los estudiantes.** A ellos se les dice "bono de referidos". Lo del embajador es un acuerdo interno por escrito (otrosí a su contrato) antes del primer pago.',
+ '**Papeles antes del primer mensaje:** (1) contrato docente v3.1 firmado (gerencia lo verifica hoy; si falta, se firma hoy); (2) **Anexo de Habilitación Comercial** firmado, que exige inducción previa con el Kit de Venta (precios, becas, escalera, El Pacto, garantía); (3) este programa como hoja de arranque firmada por los dos (metas, plazos, cierres acompañados, línea y planilla). El contrato ya cubre propiedad intelectual, confidencialidad, datos (Ley 1581) y la prohibición de usar bases o contactos de Heiiu fuera de Heiiu. No se pacta no competencia amplia: en Colombia no se sostiene (abogado).',
+ '**Tarifario cerrado y cero autoridad.** Solo precios, becas y planes oficiales. Sin descuentos, sin promesas de facilidad, rapidez, empleo o visas, sin plazos de resultado distintos del texto de la garantía. Dice las condiciones duras antes de firmar (El Pacto: video diario, asistencia, puntualidad). **Nunca recibe dinero.** No firma nada en nombre de Heiiu.',
+ '**Canal y datos de Heiiu.** Trabaja solo desde la línea de referidos de Heiiu; nunca desde su celular personal. El referido escribe primero y su SÍ queda en el chat. Planilla única (Anexo C). Las listas de estudiantes y egresados son Material Protegido: se consultan en la planilla y no salen de ahí.',
+ '**Piloto de 60 días con metas, plazos y clase protegida.** Cero venta en tiempo de clase. Metas en la sección 7. Sus horas de ronda y de llamadas no se pagan aparte: su ingreso es la comisión (así lo dice el anexo: actividad facultativa, sin subordinación). Si gerencia decide pagarlas, entran al costo por matrícula.',
 ]: li(t)
 
-h('5. Cómo opera (piloto de 60 días)')
+h('7. Operación del piloto (60 días desde la primera ronda)')
 for t in [
- '**El profe embajador** (sin grupo a cargo durante el piloto) pasa por TODOS los grupos en la primera semana: 10 minutos al cierre de clase, con el guion: "¿Conoces a alguien que necesite inglés de verdad — para el trabajo, para irse, para su hijo? Dame su nombre y su número; nosotros lo llamamos y, si se matricula, tú recibes un bono." Lo registra ese mismo día.',
- '**Momentos fijos de pedir**, además de la ronda: al cerrar una matrícula (la asesora), al grabar un testimonio, tras una presentación de midterm o final, y al graduar (cada graduado sale con 2 referidos pedidos).',
- '**Coordinación** lleva la planilla única (referido · quién refiere · embajador · fecha · estado: contactado / cita / matriculado / Cl 5 / bono pagado) y liquida los bonos a fin de mes contra esa planilla.',
- '**Meta del piloto:** 30 referidos registrados en 60 días → 10 citas → 4 matrículas. Con eso se mide el costo real por matrícula y se decide si sigue, sube o cambia.',
- '**Seguimiento:** reporte semanal de 5 líneas (registrados, contactados, citas, matrículas, bonos) en la reunión fija de los lunes.',
+ '**Semana 1 — grupos activos:** una ronda de 30 segundos en cada grupo (coordinación entrega la lista de grupos y horarios). Una sola petición en clase por grupo al mes; después, los momentos fijos: al cerrar una matrícula (la asesora), al grabar un testimonio, tras un midterm o presentación, y al graduar (cada graduado sale con 2 referidos pedidos).',
+ '**Semanas 1-2 — egresados:** coordinación arma la lista (nombre, nivel terminado, fecha, teléfono) en la planilla. El docente escribe primero por la línea de Heiiu (Anexo B-c): se presenta, pide permiso para llamar 2 minutos y ofrece la salida ("si prefieres que no te escribamos, dímelo"). Quien dice que no, se marca y no se vuelve a contactar. Llamada en horario legal. SUPUESTO: la autorización de datos de la matrícula cubre esta comunicación de la academia; el abogado lo confirma. Por eso el mensaje va primero y nunca una llamada en frío.',
+ '**Metas mínimas del piloto:** 20 referidos que escriben → 7 citas → 3 matrículas. Si la lista de egresados contactables pasa de 60 personas, la meta sube a 30 → 10 → 4. (Con 60 activos y una participación típica cercana al 19%, solo los activos darían unos 11 referidos; los egresados son los que completan la cifra.)',
+ '**Reporte:** 5 líneas cada lunes en la reunión fija (registrados, contactados, citas, matrículas, bonos por pagar) y un mensaje de 3 líneas a las 6:00 p.m. los días que haya gestión. Lo que no está en la planilla no cuenta.',
+ '**Medición a 60 días:** costo por matrícula referida (bonos + comisiones) contra pauta ($72.000 + 5% + plataforma); días de primer mensaje a cita; % de cierre; cuota 3 pagada y asistencia ≥80% a 90 días (referidos vs. pauta del mismo periodo); retención de quienes refirieron. Sigue si el costo por matrícula referida es ≤ 1,2 veces el de la pauta y la retención es igual o mejor. Si cuesta más y retiene igual, baja el bono. Con 3-4 matrículas la retención se confirma al cierre del cohorte, no a los 60 días.',
 ]: li(t)
 
-h('6. Lo que falta decidir (Diana)')
-for t in ['Opción A o B (recomendada: B).',
-          'Si el embajador cobra también cuando el referido entra a un programa personalizado o a una alianza empresarial (propuesta: sí, con los mismos fijos).',
-          'Valor por lead de la plataforma del agente, para cerrar la comparación de la sección 2.',
-          'Si el bono del estudiante puede ser, en vez de plata, 2 horas 1-a-1 (costo para la academia ≈ ' + m(60_000) + ', valor percibido ≈ ' + m(100_000) + '): sirve como alternativa, no como única opción.']: li(t)
+h('8. Para el contador (antes del primer pago de bono)')
+for t in [
+ 'El bono en efectivo a un estudiante o egresado (persona natural, no empleado ni contratista): ¿se soporta como gasto de promoción? ¿Qué documento lo soporta (documento soporte DIAN con no obligado a facturar, o cuenta de cobro)? ¿Lleva retención en la fuente y a qué tarifa?',
+ 'El bono como abono a la cuota del estudiante: ¿se registra como descuento comercial (nota crédito) o como gasto? ¿Afecta el valor del contrato y del pagaré?',
+ 'El bono en especie (2 horas 1-a-1): ¿basta con registrarlo como costo docente?',
+ 'Las comisiones del docente y de la asesora ya se liquidan contra cuenta de cobro con retención, como hoy. ¿Algo cambia por ser referidos?',
+]: li(t)
+
+h('9. Lo que falta para arrancar (checklist)')
+for t in ['Contrato docente v3.1 firmado (verificar hoy).', 'Inducción con el Kit de Venta y firma del Anexo de Habilitación Comercial.', 'Hoja de arranque del docente firmada (este documento, secciones 1, 5, 6 y 7).',
+          'Número de la línea de referidos (SIM + WhatsApp Business) o decisión de usar la principal.', 'Lista de egresados con teléfono (coordinación) y lista de grupos activos con horarios.', 'Grupos y días con cupo para clase de prueba (coordinación).',
+          'Hoja de términos del bono (Anexo A) firmada por gerencia y enviada a los grupos.', 'Respuesta del contador (sección 8).', 'Costo por lead de la plataforma, para cerrar la comparación con la pauta.']:
+    li('☐  ' + t)
+
+salto()
+p('ANEXO A — HOJA DE TÉRMINOS DEL BONO DE REFERIDOS (para estudiantes y egresados)', NAR, 13)
+p('Vigencia: del 15 de octubre al 31 de diciembre de 2026. Heiiu puede prorrogar o modificar estos términos avisando por el mismo medio por el que los comunicó (Ley 1480 de 2011, art. 33).', GRIS, 9.5)
+for t in [
+ '**Quién puede referir:** estudiantes activos al día en sus pagos y egresados de Heiiu sin saldo pendiente.',
+ '**Cómo se refiere:** reenvías a tu amigo el mensaje que te manda Heiiu. Tu amigo le escribe a Heiiu diciendo "Vengo de parte de [tu nombre]". No nos des su número: él decide si escribe.',
+ '**Qué recibe tu amigo:** una clase de prueba contigo (o en el grupo que le indiquemos) antes de decidir, y las mismas condiciones y becas de cualquier estudiante.',
+ '**Qué recibes tú:** ' + m(BONO['c']) + ' si tu amigo se matricula en un programa completo; ' + m(BONO['a']) + ' si entra al Arranque A1+A2. Si paga a cuotas, el bono se divide en dos: la mitad con su inicial y la otra mitad con su cuota 3. Eliges cómo recibirlo: transferencia, abono a tu propia cuota o 2 horas de clase 1-a-1.',
+ '**Cuándo se paga:** cuando tu amigo pagó su inicial y asistió a su clase 5. Heiiu liquida los bonos a fin de mes.',
+ '**Condiciones:** tu amigo no debe haber tenido contacto con Heiiu (chat, formulario o asesoría) en los últimos 30 días. No aplica para personal de Heiiu ni sus familiares. No hay tope de referidos; más de 3 en un mes pasan por una revisión antes del pago. Si tu amigo se retira y pide devolución antes de la clase 5, el bono no se causa.',
+ '**Datos:** solo tratamos los datos de tu amigo cuando él nos escribe y nos autoriza. Tus datos se tratan según la política de datos de Heiiu.',
+]: li(t)
+p('Gerencia — Heiiu · Bucaramanga, 15 de octubre de 2026 · Firma: ____________________', after=10)
+
+p('ANEXO B — GUIONES Y MENSAJES', NAR, 13)
+p('**Guion de 30 segundos en clase** (al cierre, con el profe titular presente):', after=2)
+caja(['"Treinta segundos antes de que se vayan.', 'Ustedes saben lo que cuesta este proceso y saben que funciona.', 'Piensen en UNA persona que necesite inglés de verdad:', 'para el trabajo, para irse, para su hijo. ¿Ya la tienen?', 'No me den su número. Hoy les llega al grupo un mensaje:', 'reenvíenselo a esa persona. Si escribe, se matricula', 'y llega a su clase 5, ustedes reciben $150.000,', 'un abono a su cuota o 2 horas 1-a-1. Ustedes eligen.', 'Y su amigo puede venir a una clase con ustedes antes de decidir.', '¿Quién ya pensó en alguien? Escríbanle hoy."'])
+p('**(a) Mensaje que Heiiu manda al grupo (o al egresado) y el estudiante reenvía a su amigo:**', after=2)
+caja(['Hola [nombre]. Estoy estudiando inglés en Heiiu (presencial, Bucaramanga)', 'y me está funcionando. No es fácil: es entrenamiento todos los días.', 'Si te interesa, escríbeles a este número [línea de referidos] con:', '"Vengo de parte de [mi nombre]". Te cuentan cómo es y puedes', 'venir a una clase conmigo antes de decidir.'])
+p('Versión para egresados: cambia "Estoy estudiando" por "Estudié inglés en Heiiu y salí hablando" y "una clase conmigo" por "una clase antes de decidir".', size=9.5, color=GRIS)
+p('**(b) Primera respuesta de Heiiu al referido** (desde la línea de referidos, nunca desde un celular personal):', after=2)
+caja(['Hola [nombre], gracias por escribir. Soy [nombre], profesor de Heiiu.', 'Antes de seguir: usaremos tu nombre y número solo para darte información', 'de nuestros programas, según nuestra política de datos [enlace].', '¿Nos autorizas? Responde SÍ. (Puedes pedir que te borremos cuando quieras.)'])
+p('Después del SÍ: para qué necesitas el inglés · desde cero o ya estudiaste (y qué pasó) · presencial y jornada · El Pacto (video diario, garantía por escrito: "¿te le mides a ese ritmo?") · contado o inicial y cuotas · clase de prueba y asesoría por llamada: "¿[franja 1] o [franja 2]?". El referido escribe el día y la hora para que quede firme.', size=9.5, color=GRIS)
+p('**(c) Primer mensaje a un egresado** (antes de llamar):', after=2)
+caja(['Hola [nombre], soy [nombre], profesor de Heiiu. Terminaste [nivel] con nosotros', 'en [mes]. Te escribo por una sola cosa: ¿tienes 2 minutos para que te llame', 'hoy o mañana? Es sobre una persona que tú conozcas que necesite inglés.', 'Si prefieres que no te escribamos más, dímelo y listo.'])
+p('**Guion de la llamada al egresado (2 minutos):** cómo te fue después del curso (una pregunta, para la planilla de testimonios) → "piensa en UNA persona que necesite inglés de verdad: trabajo, irse, un hijo" → "no me des su número: te mando un mensaje y se lo reenvías; si escribe y se matricula, recibes $150.000 o 2 horas 1-a-1" → "¿a quién se lo vas a mandar hoy?" → mensaje (a) versión egresado enviado al colgar.', size=9.5, color=GRIS)
+
+p('ANEXO C — PLANILLA ÚNICA DE REFERIDOS (columnas)', NAR, 13)
+tabla([
+ ['Columna', 'Qué va'],
+ ['Fecha del primer mensaje', 'Día y hora en que el referido escribió "vengo de parte de"'],
+ ['Referido', 'Nombre y teléfono (solo después del SÍ)'],
+ ['Autorización', 'SÍ con fecha (captura del chat guardada)'],
+ ['Quién refiere', 'Nombre · activo (grupo) o egresado (nivel, fecha) · al día: sí/no'],
+ ['Recolectado por', 'Docente / asesora / otro'],
+ ['Verificación 30 días', 'No estaba en base, bot ni formulario: sí/no (lo revisa coordinación)'],
+ ['Estado', 'Contactado → clase de prueba (fecha) → cita (fecha) → inicial pagada → clase 5 → bono pagado'],
+ ['Quién condujo la asesoría', 'Docente / asesora / acompañado (nº 1-3)'],
+ ['Programa y forma de pago', 'Completo contado / cuotas / Arranque'],
+ ['Bono', 'Valor · forma elegida (transferencia, abono, 2 h) · fecha de pago'],
+ ['Comisión', 'A quién (5% o 2%) · mes de liquidación'],
+ ['Plazos', 'Día 7 (cita) · día 14 (cierre) · pasó a asesora: sí/no'],
+])
 
 out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\PROGRAMA_REFERIDOS_PROPUESTA_2026-10.docx'
 try: d.save(out); print('OK', out)
