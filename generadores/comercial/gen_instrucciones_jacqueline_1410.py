@@ -54,7 +54,7 @@ t('Guion de la llamada (3 preguntas, se anotan las respuestas tal cual):', bold=
 caja(['"Hola [nombre], te habla [nombre], de Heiiu. Te llamo porque no te vimos en clase y queremos saber cómo estás.',
       '1. ¿Qué pasó hoy?',
       '2. ¿Vuelves mañana a las 8:00?',
-      '3. ¿Hay algo del cambio que te complique: la hora, el profe nuevo, el ritmo? Dímelo con confianza, para eso te llamo."',
+      '3. ¿Hay algo del cambio que te complique: el profe nuevo, el ritmo, el acento? Dímelo con confianza, para eso te llamo."',
       'Cierre: "Te esperamos mañana a las 8:00. Tu avance queda registrado y tu garantía depende de tu asistencia; por eso te llamo hoy y no en un mes."'])
 t('Lo que NO se dice esta semana: amenazas con el contrato, "si no vienes pierdes la garantía", ni "el profe anterior ya no está". Se escucha y se anota.', size=9.5, color=GRIS)
 tabla([
@@ -66,7 +66,6 @@ tabla([
  ['Causa', 'Acción'],
  ['El cambio de profe', 'Hoy: el docente anterior manda un audio de 30 segundos al grupo (texto abajo). Mañana: el docente actual se presenta 5 minutos antes de empezar la guía, sin pedir disculpas por nada: quién es, cómo trabaja, qué espera de ellos.'],
  ['El ritmo o la exigencia', 'No se baja el ritmo. Se le recuerda el trato: el ritmo existe por la garantía por escrito; si cumple y no avanza, se le devuelve el nivel. Se le ofrece hablar 10 minutos con el docente actual al final de la clase de mañana.'],
- ['La hora de las 8:00', 'No se negocia: se matricularon a las 8:00 y ese es su horario. Se le dice con claridad: "Tu horario es el de las 8:00, el que elegiste al matricularte. Lo que sí hacemos es acompañarte para que no te cueste venir."'],
  ['El acento del profe nuevo ("no le entiendo")', 'Es parte del entrenamiento, no un defecto: en la vida real van a oír millones de acentos, y el oído se entrena en casa, no cambiando de profe. Desde esta semana la tarea diaria arranca con 2 minutos de un hablante con otro acento (LISTEN FIRST) y el video diario se abre con 3 frases de eso. Se le dice: "Si hoy te cuesta entenderle, en dos semanas vas a entender a cualquiera; eso es exactamente lo que estás comprando."'],
  ['Algo personal (trabajo, salud, dinero)', 'Se anota con fecha de regreso. Si es dinero, pasa a Experiencia al Cliente con el protocolo de cobranza, no al docente.'],
  ['No contesta ni hoy ni mañana', 'Mensaje escrito el jueves con la frase de garantía y asistencia. Se reporta a gerencia como "sin contacto".'],
