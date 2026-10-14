@@ -53,8 +53,13 @@ t('Salen de la ficha. Las confirmas en una frase, mirando lo que escribió:')
 caja('"Vi que vives en Sotomayor y que puedes empezar en [fecha que puso], ¿cierto?"   ·   "Y con el piso de los tres primeros meses, ¿puedes arrancar?"')
 t('☐ Vive aquí y puede venir todos los días      ☐ Puede arrancar con el piso      ☐ Fecha de inicio: ____________', after=4)
 
-sec('5. Sus dudas (35-42 min)')
+sec('5. Sus dudas (35-40 min)')
 t('Si pregunta por plata: "El básico es el mínimo legal con prestaciones, igual para todos. Lo que protege los primeros meses es el ingreso mínimo de los meses 1 a 3, y de ahí en adelante la comisión no tiene techo; los escenarios que te mandé son ilustrativos, no una promesa." No se sube el básico, no se bajan metas, no se promete el 130 ni el 150%. Nada de oferta hoy.', size=10)
+
+sec('5-bis. Tu única pregunta de fondo (40-42 min)')
+caja('"Con todo lo que ya sabes de nosotros: ¿hay algo que te haría decir que no?"   → y te callas.')
+t('Lo que diga es su objeción real. No la respondes hoy: "Entiendo. Lo tengo en cuenta." (si es plata, solo el guion del paso 5). La anotas y se la pasas a Carlos. Si dice "nada": "Perfecto, entonces el siguiente paso te lo mando hoy."', size=10, color=GRIS)
+t('Objeción real: ___________________________________________________________________________', after=4)
 
 sec('6. Cierre (42-45 min): tal cual')
 caja('"El proceso tiene tres pasos: esta conversación, una tarea práctica de 48 horas que te mando hoy, y una reunión con Carlos, nuestro socio financiero, que revisa los números de todo cargo comercial. Con eso decidimos. Te escribo esta tarde con la tarea."')
