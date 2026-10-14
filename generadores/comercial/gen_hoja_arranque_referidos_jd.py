@@ -87,6 +87,8 @@ item('Cita en 7 días y cierre en 14 desde el registro del referido. Si no, pasa
 item('Cero venta dentro del tiempo de clase. Lunes a viernes 7:00 a.m. a 7:00 p.m., sábados 8:00 a.m. a 3:00 p.m.; un contacto al día por persona; nunca domingos ni festivos. Si el referido escribe, se responde a cualquier hora.', 'Tiempo y horario:')
 item('Cuenta el referido registrado en la planilla antes del primer contacto y que no estaba en la base en los últimos 30 días. No cuentan personal de Heiiu ni sus familiares. El bono no se usa como argumento ante el referido.', 'Qué cuenta:')
 
+item('Las conversaciones de retención con estudiantes actuales (como el 1 a 1 del B1 de la mañana) no son para pedir referidos: ahí no se menciona el programa ni el bono. Los referidos se piden en la ronda de 30 segundos por grupo, en otro momento.', 'Retención aparte:')
+
 sec('5. LOS 15 DÍAS')
 tabla([
  ['Cuándo', 'Qué', 'Meta al 30/10'],

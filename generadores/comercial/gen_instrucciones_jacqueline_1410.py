@@ -48,36 +48,29 @@ r = p.add_run('INSTRUCCIONES PARA JACQUELINE — ASISTENCIA DEL B1 Y PUNTUALIDAD
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(6)
 r = p.add_run('Heiiu English Academy · 14 de octubre de 2026 · Uso interno · Lo ejecuta Jacqueline; Diana solo recibe el reporte'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
-sec('PARTE 1 — EL B1 DE LA MAÑANA (4 estudiantes): averiguar la causa HOY, no suponerla')
-t('El grupo cambió de docente el lunes 13 y hay estudiantes que no están llegando. Con 4 estudiantes, cada ausencia es el 25% del grupo. Hoy mismo, antes de las 5:00 p.m., Jacqueline llama a CADA ausente (llamada, no mensaje; si no contesta, un mensaje y se reintenta mañana a las 9:00 a.m.).', bold=True)
-t('Guion de la llamada (3 preguntas, se anotan las respuestas tal cual):', bold=True, after=1)
-caja(['"Hola [nombre], te habla [nombre], de Heiiu. Te llamo porque no te vimos en clase y queremos saber cómo estás.',
-      '1. ¿Qué pasó hoy?',
-      '2. ¿Vuelves mañana a las 8:00?',
-      '3. ¿Hay algo del cambio que te complique: el profe nuevo, el ritmo, el acento? Dímelo con confianza, para eso te llamo."',
-      'Cierre: "Te esperamos mañana a las 8:00. Tu avance queda registrado y tu garantía depende de tu asistencia; por eso te llamo hoy y no en un mes."'])
-t('Lo que NO se dice esta semana: amenazas con el contrato, "si no vienes pierdes la garantía", ni "el profe anterior ya no está". Se escucha y se anota.', size=9.5, color=GRIS)
+sec('PARTE 1 — EL B1 DE LA MAÑANA (4 estudiantes): el 1 a 1 lo hace Juan Diego; Jacqueline registra y cierra')
+t('El grupo cambió de docente el lunes 13 y hay estudiantes que no están llegando. Con 4 estudiantes, cada ausencia es el 25% del grupo. Diana decidió que Juan Diego, que abrió el grupo, hable HOY con cada uno en un 1 a 1 (él tiene su propia hoja). Jacqueline no llama a los estudiantes; hace tres cosas con hora:', bold=True)
+item('Le pasa a Juan Diego la lista de los 4 con la asistencia del lunes y el martes y el celular de cada uno.', '1. Antes de la 1:00 p.m.:')
+item('Recibe de Juan Diego, por escrito, una línea por estudiante (causa en sus palabras y si vuelve mañana) y llena la tabla de abajo. Si a las 5:00 no ha llegado, se la pide.', '2. A las 5:00 p.m.:')
+item('Lo que el 1 a 1 no resuelve lo toma Jacqueline con la tabla de causas: dinero, sin contacto, o un estudiante que escriba después pidiendo cambiar la hora o bajar el ritmo.', '3. Después:')
 tabla([
- ['Estudiante', 'Lun 13', 'Mar 14', 'Llamado (hora)', 'Causa (sus palabras)', '¿Vuelve mañana?', 'Acción'],
+ ['Estudiante', 'Lun 13', 'Mar 14', '1 a 1 (hora)', 'Causa (según Juan Diego)', '¿Vuelve mañana?', 'Acción de Jacqueline'],
  ['1', '', '', '', '', '', ''], ['2', '', '', '', '', '', ''], ['3', '', '', '', '', '', ''], ['4', '', '', '', '', '', ''],
 ], [2.2, 1.3, 1.3, 2.2, 5.0, 2.2, 3.0], fs=9)
-t('Qué hacer según la causa (la decisión la toma Jacqueline):', bold=True, after=1)
+t('Qué responde Jacqueline según la causa (cuando el estudiante le escriba a ella o cuando Juan Diego le reporte algo pendiente):', bold=True, after=1)
 tabla([
  ['Causa', 'Acción'],
- ['El cambio de profe', 'Hoy: el docente anterior manda un audio de 30 segundos al grupo (texto abajo). El docente actual ya se presentó el martes: no se vuelve a presentar ni pide disculpas por nada; al que faltó y vuelve, una frase de bienvenida y a la guía.'],
+ ['El cambio de profe', 'Lo cierra Juan Diego en el 1 a 1. El docente actual ya se presentó el martes: no se vuelve a presentar ni pide disculpas por nada; al que faltó y vuelve, una frase de bienvenida y a la guía.'],
  ['El ritmo o la exigencia (confirmado hoy por el docente: "no tienen tiempo", "les da pena")', 'No se baja el ritmo. Se le recuerda el trato: el ritmo existe por la garantía por escrito; si cumple y no avanza, se le devuelve el nivel.'],
  ['"No tengo tiempo"', '"Son 3 minutos de video al día; la preparación son 20 o 30 minutos. Y desde mañana la tarea escrita de Gramática se acorta a la mitad: 15 o 20 minutos. En total, menos de una hora al día. Lo que no existe es aprender inglés sin hablar todos los días; eso ya lo sabe por lo que intentó antes."'],
  ['"Me da pena"', '"El video lo ve solo el profe, nadie de la clase. Y es exactamente para eso: la pena se gasta ahí, no delante de un jefe o un entrevistador. Desde mañana el video empieza con 3 frases que usted copia de alguien en internet; no arranca en blanco."'],
  ['El acento del profe nuevo ("no le entiendo")', 'Es parte del entrenamiento, no un defecto: en la vida real van a oír millones de acentos, y el oído se entrena en casa, no cambiando de profe. Desde esta semana la tarea diaria arranca con 2 minutos de un hablante con otro acento (LISTEN FIRST) y el video diario se abre con 3 frases de eso. Se le dice: "Si hoy te cuesta entenderle, en dos semanas vas a entender a cualquiera; eso es exactamente lo que estás comprando."'],
+ ['Pide cambiar la hora de las 8:00', 'No se pregunta ni se negocia: matricularon a las 8:00 y ese es su horario. "Su horario es el de las 8:00, el que eligió al matricularse."'],
  ['Algo personal (trabajo, salud, dinero)', 'Se anota con fecha de regreso. Si es dinero, pasa a Experiencia al Cliente con el protocolo de cobranza, no al docente.'],
- ['No contesta ni hoy ni mañana', 'Mensaje escrito el jueves con la frase de garantía y asistencia. Se reporta a gerencia como "sin contacto".'],
+ ['Juan Diego no logró contacto hoy ni mañana', 'Mensaje escrito de Jacqueline el jueves con la frase de garantía y asistencia. Se reporta a Diana como "sin contacto".'],
 ], [4.0, 13.2])
-t('Audio del docente anterior al grupo (lo graba él hoy; Jacqueline se lo pide y lo reenvía si él no está en el grupo):', bold=True, after=1)
-caja(['"Hola, equipo. Les hablo porque este grupo lo empecé yo y me importa cómo les va. Desde esta semana su profe de gramática es [nombre]:',
-      'lo conozco, sabe lo que hace y va a exigirles lo mismo que yo, porque ustedes pueden. Yo sigo en la academia y nos vamos a cruzar.',
-      'Lo único que les pido es que no falten: cada clase que se pierden es más difícil de recuperar que de asistir. Nos vemos."'])
 
-t('Mensaje de Jacqueline al grupo del B1 (hoy, después de las llamadas; también sirve como cierre de cada llamada):', bold=True, after=1)
+t('Mensaje de Jacqueline al grupo del B1 (hoy, después de que Juan Diego reporte los 1 a 1):', bold=True, after=1)
 caja(['"Equipo del B1: les hablo con franqueza. Son un grupo pequeño, de 4, y eso tiene dos caras: cada uno recibe más atención del profe,',
       'y cada ausencia pesa más. Con el cambio de profe el avance no se va a notar en una semana: toma tiempo, y hay que hacerlo.',
       'Y sobre el acento: acentos hay millones y el oído se entrena. Por eso desde esta semana la tarea arranca con 2 minutos de otro acento.',
@@ -100,13 +93,13 @@ caja(['Equipo, desde el lunes 19 de octubre arranca el registro de inicio de cla
       'No es un regaño: es un registro, y corre igual para todos. Cualquier situación se escribe a Jacqueline el mismo día. Gracias.'])
 
 sec('PARTE 3 — REPORTE DIARIO A DIANA (una sola línea, 12:30 p.m.)')
-caja(['"B1 mañana: [x]/4 asistieron · ausentes llamados: [x] · causas: [palabra por cada uno] · docentes a tiempo hoy: [x]/[x]"'])
+caja(['"B1 mañana: [x]/4 asistieron · 1 a 1 hechos por Juan Diego: [x] · causas: [palabra por cada uno] · docentes a tiempo hoy: [x]/[x]"'])
 t('Esta semana (14 al 17/10) el reporte va todos los días. Desde la semana siguiente, solo los lunes en la reunión fija, salvo que un día falten 2 o más del B1: ese día se reporta de inmediato.', size=9.5, color=GRIS)
 
 sec('CHECKLIST DE JACQUELINE — HOY 14/10')
-for c in ['Llamar a cada ausente del B1 antes de las 5:00 p.m. y llenar la tabla.', 'Pedir hoy el audio al docente anterior y reenviarlo al grupo del B1.',
-          'Enviar el mensaje de puntualidad al grupo de docentes (lo manda Diana).',
-          'Mensaje al grupo del B1 (Parte 1) hoy, después de las llamadas.', 'Reporte de una línea a Diana a las 12:30 p.m. desde mañana.']:
+for c in ['Antes de la 1:00 p.m.: lista de los 4 (asistencia lun/mar + celular) a Juan Diego.', 'A las 5:00 p.m.: recibir de Juan Diego la línea por estudiante y llenar la tabla.',
+          'Mensaje al grupo del B1 (Parte 1) hoy, después del reporte de Juan Diego.', 'Enviar el mensaje de puntualidad al grupo de docentes (lo manda Diana).',
+          'Reporte de una línea a Diana a las 12:30 p.m. desde mañana.']:
     item(c, '☐')
 
 out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\documentos_operativos\politicas\INSTRUCCIONES_JACQUELINE_ASISTENCIA_B1_Y_PUNTUALIDAD_2026-10-14.docx'
