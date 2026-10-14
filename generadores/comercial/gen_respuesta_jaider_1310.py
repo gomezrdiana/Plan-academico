@@ -36,7 +36,13 @@ MSG = """Hola Jaider, gracias por los dos informes; están muy claros. Te respon
 
 2. SALUDOS POR CAMPAÑA (punto 7). Desde ahora el saludo es UNO SOLO, genérico, para todos los anuncios presentes y futuros: el del paso 1. Lo que identifica cada anuncio no es el saludo sino el CÓDIGO que viene entre paréntesis en el mensaje prellenado del botón de WhatsApp (V1, V2… V9); el agente lo lee y sigue el flujo normal. Así ya no hay que cambiar saludos por campaña: Au Pair, cuando vuelva, entra como el anuncio V5 con su código y el bot lo reconoce igual. Solo les avisaríamos si algún día se crea una campaña nueva aparte. Estado hoy: "Au Pair" pausada desde el 8; "Curso Inglés" como formulario se pausó el 13 y ese anuncio pasó a WhatsApp ese mismo día; mañana 14 entran en esa campaña los anuncios V1, V3 y V4 (los demás, el 22) y les compartimos el enlace apenas estén montados. También desde el 14 entra un formulario nuevo (mayor intención) cuyo lead llega escribiendo por el botón de WhatsApp; mismo saludo.
 
-3. CASOS DE LOS PUNTOS 9, 10 Y 15. Están en el panel por nombre y fecha: Henry (6/10, 8:16 pm: precios $9.560.000 y $3.150.000, que no existen), lead del 7/10 "quiero reforzar lo que ya sé" (pregunta repetida), María Eugenia (7/10, 12:34 pm: el agente siguió después de "déjame que la asesora te escriba"), Jerson (6/10: pausado 10:11, activo 10:46) y la llamada sin perfilar del punto 15. Si necesitan el número sí o sí, lo sacamos; dinos de dónde lo toman ustedes para no duplicar.
+3. CASOS DE LOS PUNTOS 9, 10 Y 15. Los que tenemos:
+   • Jerson (6/10): pausado a las 10:11 y el agente volvió a escribirle a las 10:46. Número: 317 376 1839.
+   • Henry (6/10, 8:16 pm): el agente le dio $9.560.000 y $3.150.000, que no existen. No lo tenemos en rescates; búsquenlo por nombre y hora en el panel.
+   • Lead del 7/10 que dijo "quiero reforzar lo que ya sé" y el agente le repitió la pregunta: no tenemos el número; búsquenlo por fecha y frase.
+   • María Eugenia (7/10, 12:34 pm): el agente siguió escribiendo después de "déjame que la asesora te escriba". No tenemos el número; búsquenlo por nombre y hora.
+   • La llamada sin perfilar del punto 15: ustedes tienen el registro de la llamada.
+   Si alguno no aparece, dinos qué dato necesitan y lo sacamos.
 
 Preguntas nuevas:
 
