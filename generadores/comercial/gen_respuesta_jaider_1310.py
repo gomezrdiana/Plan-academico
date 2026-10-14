@@ -56,7 +56,7 @@ Preguntas nuevas:
 
 8. REACTIVACIÓN (BLAST). El del 6 de octubre metió 489 leads y produjo 2 citas; un lead de pauta responde 4,2 veces más y agenda 3,7 veces más. Hasta nuevo aviso no se hacen reactivaciones sin aprobación por escrito de gerencia, y necesito que confirmen cómo se factura ese blast. Por ahora no haremos más reactivaciones.
 
-9. INFORME SEMANAL por etiqueta (caliente/tibio/frío) y por grupo A/B (último dígito del teléfono: par = solo bot, impar = bot + llamada anunciada): leads, citas, asistencia y matrícula (ese dato lo pasa la asesora). Y los envíos fallidos del primer mensaje a leads de pauta por código de error (131049, 131026) y por origen (formulario vs. clic a WhatsApp). Corte de evaluación: 31 de octubre. Y una pregunta: ¿podemos sacar estos reportes nosotros mismos desde el panel (exportar o filtrar por etiqueta, grupo A/B, origen y fecha), para no tener que pedírselos cada mes?
+9. INFORME SEMANAL por etiqueta (caliente/tibio/frío) y por grupo A/B (último dígito del teléfono: par = solo bot, impar = bot + llamada anunciada): leads, citas, asistencia y matrícula (ese dato lo pasa la asesora). Y los envíos fallidos del primer mensaje a leads de pauta por código de error (131049, 131026) y por origen (formulario vs. clic a WhatsApp). Corte de evaluación: 31 de octubre. Y una pregunta: ¿podemos sacar estos reportes nosotros mismos desde el panel (exportar o filtrar por etiqueta, grupo A/B, origen y fecha), para no tener que pedírselos cada semana?
 
 Lo demás (plantillas de nombre y correo, recordatorios a 12 h y 1 h, "fecha de cohorte") quedó bien. Lo que la plataforma no permite lo compensamos con la llamada anunciada de la asesora. Revisamos números el 15 con los anuncios nuevos al aire. Gracias."""
 p(MSG)
