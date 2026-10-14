@@ -29,7 +29,7 @@ def tabla(rows):
     d.add_paragraph().paragraph_format.space_after = Pt(2)
 
 p = d.add_paragraph(); r = p.add_run('META ADS — ESTRUCTURA 15 AL 31 DE OCTUBRE 2026'); r.bold = True; r.font.size = Pt(15); r.font.color.rgb = NAR
-para('Para el trafficker. Basado en documentación oficial de Meta y evidencia publicada (investigación interna 08/10/2026). Presupuesto total: $70.000/día. La campaña de WhatsApp ya está al aire desde el 13/10 (el anuncio de "Curso Inglés" pasó de formulario a WhatsApp). El jueves 15 NO se crea otra campaña: los 3 videos que ya están (V1, V3, V4) entran como anuncios nuevos en ESE conjunto; los demás, en el corte del 22/10 (ver sección 7). Objetivo del periodo: saber cuál de los videos nuevos trae citas más baratas, y dejar de perder leads de formulario que no contestan.', color=GRIS, size=9.5, after=8)
+para('Para el trafficker. Basado en documentación oficial de Meta y evidencia publicada (investigación interna 08/10/2026). Presupuesto total: $70.000/día. La campaña de WhatsApp ya está al aire desde el 13/10 (el anuncio de "Curso Inglés" pasó de formulario a WhatsApp). El jueves 15 NO se crea otra campaña: los 3 videos que ya están (V1, V3, V4) entran como anuncios nuevos en ESE conjunto; los demás, en el corte del 22/10 (ver sección 5). Objetivo del periodo: saber cuál de los videos nuevos trae citas más baratas, y dejar de perder leads de formulario que no contestan.', color=GRIS, size=9.5, after=8)
 
 h('1. Campañas (tres, no más) — con lo que hay hoy')
 tabla([
@@ -58,37 +58,25 @@ for t in ['• "Au Pair" quedó pausada el 08/10 (de 7 citas por LaHaus, 4 vinie
           '• Pantalla final con el botón "Chatear en WhatsApp" (función nueva de Meta): el lead llega ya escribiendo.']:
     para(t, after=2)
 
-h('4. Au Pair — PRIORIDAD (es el servicio que más engancha; V5 es el primer video que debe llegar el miércoles)')
+h('4. Au Pair (prioridad: es el servicio que más engancha)')
 for t in ['• La campaña separada de Au Pair ya está pausada (08/10): a $20.000/día no salía de aprendizaje, 1 cita en 8 días y 3 de cada 5 leads creían que era una agencia de empleo. Esos $20.000/día quedan reservados para el 15/10.',
-          '• Vuelve como UN anuncio (V5_PASAPORTE) dentro del conjunto de WhatsApp, SOLO cuando llegue el video (corte del 22/10); mientras tanto no se crea nada de Au Pair. Primera línea del texto del anuncio: "No somos agencia: te preparamos en inglés para la entrevista de Au Pair o de trabajo en el exterior. El trámite lo haces con la agencia que elijas."',
+          '• Vuelve como UN anuncio (V5_PASAPORTE) dentro del conjunto de WhatsApp cuando llegue el video. Si en la entrega del miércoles se puede priorizar V5, nos sirve mucho: es el servicio que más engancha. Mientras tanto no se crea nada de Au Pair. Primera línea del texto del anuncio: "No somos agencia: te preparamos en inglés para la entrevista de Au Pair o de trabajo en el exterior. El trámite lo haces con la agencia que elijas."',
           '• Prohibido por política de Meta (resultados irreales): prometer empleo, visa, familia anfitriona o salario. Solo preparación.',
           '• La categoría especial "Empleo" no es obligatoria para audiencia en Colombia; no marcarla.']:
     para(t, after=2)
 
-h('5. Medición y cortes')
-for t in ['• Hoja diaria (coordinación comercial): fecha · código V# · conversación sí/no · cita agendada · cita atendida. Costo por cita de un video = gasto de ese anuncio (desglose por anuncio) ÷ citas con su código.',
-          '• Lectura temprana de creativos (tienen más volumen que las citas): tasa de gancho = reproducciones de 3 s ÷ impresiones · reproducciones completas (ThruPlay) · CTR · costo por conversación iniciada.',
-          '• Primer corte: 22/10. Cierre: 31/10. No se apaga un video antes del 22 y no se declara ganador ninguno con menos de 5 citas.',
-          '• No editar el conjunto a diario (cada edición reinicia el aprendizaje). Cambios solo en los cortes.']:
-    para(t, after=2)
-
-h('6. Lo que NO se hace')
-for t in ['Objetivo Tráfico para WhatsApp · un conjunto por video · formulario "más volumen" con autorrelleno · prometer empleo/visa/"garantizado en X meses" · retargeting con menos de ~1.000 personas · comparar costo por lead con benchmarks de EE. UU. o de blogs sin muestra (el nuestro es ~$10.800 por lead de formulario) · declarar ganador con menos de 5 citas · videos con avatares de IA (sin evidencia y contra la prueba real).']:
-    para(t, after=2)
-
-h('7. Lo que falta y cuándo entra (para que no se pierda de vista)')
+h('5. Lo que falta y cuándo entra')
 tabla([
  ['Código', 'Guion', 'Estado', 'Entra'],
  ['V6_GARANTIA', 'Te acompañamos (coordinación, garantía)', 'Llegó, pero se REGRABA: decía "coach" y la palabra es "mentor" ("tu profe es tu mentor", también en el texto en pantalla)', 'Retargeting del 22/10'],
  ['V2_CLASE', 'Esto es una clase (simulación real)', 'Falta (30 s)', 'Corte del 22/10'],
- ['V5_PASAPORTE', 'El pasaporte (Au Pair / irse) — PRIORIDAD', 'Falta (30 s): es el primero que debe llegar el miércoles', 'Corte del 22/10'],
+ ['V5_PASAPORTE', 'El pasaporte (Au Pair / irse) — el que más nos sirve primero', 'Falta (30 s)', 'Corte del 22/10'],
  ['V7_NOESFACIL', 'El Pacto (profe a solas)', 'Falta (30 s)', 'Retargeting del 22/10'],
  ['V8_PADRES', 'El año después del colegio (coordinación)', 'Falta (30 s)', 'Corte del 22/10'],
  ['V9_CORRECCION', 'La corrección del día (10 min)', 'Falta (30 s)', 'Corte del 22/10'],
  ['Todos', 'Versiones de 15 s + V1 versiones B y C', 'Faltan', 'Corte del 22/10'],
 ])
 para('Prellenados de estos anuncios: V2 "Hola, vi el video de la clase (V2). Quiero ver una por dentro." · V5 "Hola, quiero prepararme en inglés para Au Pair / irme (V5)." · V6 "Hola, vi el video del acompañamiento (V6). ¿Me muestran la garantía?" · V7 "Hola, vi el video de lo que no prometen (V7). Voy en serio." · V8 "Hola, vi el video del año después del colegio (V8). Es para mi hijo/a." · V9 "Hola, vi la corrección del día (V9). Aquí va mi audio."', size=9.5, color=GRIS)
-para('Regla: los videos que lleguen entre el 15 y el 21 NO se agregan al conjunto activo (reinicia el aprendizaje). Entran todos juntos en el corte del 22/10.', size=9.5, color=GRIS)
 
 out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\campañas\INSTRUCCIONES_META_TRAFFICKER_2026-10-15.docx'
 try: d.save(out); print('OK', out)
