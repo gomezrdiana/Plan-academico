@@ -1,8 +1,8 @@
 # B1 MASTERY — Cl 10/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 10/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 10/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** A1 Book **M16 "I Like It! — Object Pronouns" (Guia 1 p.199; ejemplos p.201; rango p.197-201)** — ancla de hoy; la regla SE SELLA EN PAPEL
-**Focus (1 linea):** Lo que esta manana sostuvieron en la entrevista, ahora queda escrito: los 7 pronombres objeto despues del verbo y despues de preposicion, mas la nota de seguimiento que cierra el hito.
+**Focus (1 linea):** Antes de la entrevista de las 10:00, queda escrito: los 7 pronombres objeto despues del verbo y despues de preposicion, mas la nota previa que prepara el hito.
 **Virtud:** TEMPLANZA — Cl 5 de 5 de esta virtud (Cl 6-10 de cada pista) — CIERRA el bloque
 **Frase del Dia:** *"Temperance closes it on paper: they interviewed me, I thanked them, and the note reached them — the pronoun sits after the verb and the order never moves."*
 
@@ -10,33 +10,35 @@
 
 > **DE PIE: Bloque 1 completo, los primeros 30' del Bloque 2 y todo el Bloque 3 (~85 de 110 min ≈ 77%; piso 70%). SENTADOS solo los ultimos 10' del Bloque 2 (la nota escrita a mano) y el Bloque 4.** Movimiento SIEMPRE con contenido: nada de "stand up / sit down" suelto.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos) y el PASE que te entrega el docente de Conversacion a las 10:00 — **hoy el PASE es especialmente importante: esta manana fue el primer hito del nivel y tu no estuviste.** NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 9 y celular para la foto de inicio — **hoy el PASE que TU entregas a las 10:00 es especialmente importante: a esa hora es el primer hito del nivel y tu no vas a estar.** NADA impreso: todo va al tablero o al papel del propio estudiante.
 
-> **HOY SOLO: la tabla sujeto-objeto escrita · los 7 pronombres objeto despues del VERBO y despues de PREPOSICION · el afirmativo y el negativo del libro (Ejemplos p.201, dictados al papel del estudiante) · y la NOTA DE SEGUIMIENTO de la entrevista, escrita A MANO en clase. NO TOCAR AUN: "mine / hers / theirs", "whose", los reflexivos (myself) y los reciprocos (each other) — no son de este modulo. Y NO vuelvas a hacer la entrevista: ya se hizo esta manana y no se repite.**
+> **HOY SOLO: la tabla sujeto-objeto escrita · los 7 pronombres objeto despues del VERBO y despues de PREPOSICION · el afirmativo y el negativo del libro (Ejemplos p.201, dictados al papel del estudiante) · y la NOTA PREVIA a la entrevista, escrita A MANO en clase. NO TOCAR AUN: "mine / hers / theirs", "whose", los reflexivos (myself) y los reciprocos (each other) — no son de este modulo. Y NO hagas la entrevista: es de Conversacion a las 10:00 y se hace una sola vez.**
 
-## BLOQUE 1 — RECUPERACION DEL HITO DE ESTA MANANA (20') — DE PIE
+## BLOQUE 1 — RECUPERACION Y PREVIA DEL HITO (20') — DE PIE
 
-**Objective: bring this morning's interview back into the room, and hear which pronoun fell under pressure.**
+**Objective: bring yesterday's errors back into the room, and get every voice ready for the interview at ten.**
 
-1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra.
-2. **Chequeo de portafolio, con la lista del PASE en mano (3').** Ya viste los videos antes de entrar. La lista ENVIO / NO ENVIO de hoy ya la marco Conversacion a las 8:00 y viene en el PASE: NO la repites nombre por nombre. Lees en voz alta solo los NO ENVIO (si alguno lo mando en el cambio de bloque, lo pasas a ENVIO) y a 2-3 estudiantes que Conversacion no corrigio les dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'they helped I' — 'they helped ME'"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* Sin discusion.
-3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 7** (posicion del adverbio: antes del verbo principal, despues de BE) · N-7 = **Grammar Cl 3** (should con horas y precios). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
+**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
+1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, en su Bloque 1 a las 10:00, con su propia lista y la mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues. Los 2-3 minutos que libera este punto pasan a la recuperacion espaciada.
+3. **Recuperacion espaciada DE TU PISTA (8', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 7** (posicion del adverbio: antes del verbo principal, despues de BE) · N-7 = **Grammar Cl 3** (should con horas y precios). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
    - "Adverb + verb: 'She often calls; we sometimes wait.'" (Cl 7)
    - "With BE: 'They ARE always on time.' — fix 'she always is late'." (Cl 7)
    - "Advice with a number: 'You should send it before 5.'" (Cl 3)
    - "A price and a time out loud: 'It costs seven thirty-five; we open at eight.'" (Cl 3)
-4. **Lectura del PASE recibido, en voz alta (3'). Hoy tiene dos partes:** los 3 errores literales y **el reporte del hito** (cuantos quedaron grabados y cual de las 6 preguntas se cayo mas). Di: *"This morning you sat in an interview in English. Now we fix what fell, in writing, and we do the one thing almost nobody does after an interview."* **NO repitas la entrevista y NO comentes desempeños individuales ni resultados.** Si preguntan como les fue o si cuenta para algo: *"That is coordination, not me."*
+4. **Lectura del PASE recibido, en voz alta (3').** Lees los 3 errores literales que dejo Conversacion al cierre de la Cl 9. Di: *"These came out of your mouths yesterday. At ten o'clock you sit in your first interview in English. Now we fix them in writing, and we do the one thing almost nobody does before an interview."* **NO hagas la entrevista ni ensayes sus preguntas: es de Conversacion.** Si preguntan si cuenta para algo: *"That is coordination, not me."*
 5. **Frase del Dia (2').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea: *"Subject before the verb, object after it — and after a preposition too."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
 > **[VIRTUD] TEMPLANZA — Cl 5 de 5. CIERRA el bloque. Tablero: "TEMPERANCE — DAY 5 OF 5 — CLOSING".** (5', el ritual completo)
-> **Por que:** templanza es lo que se hace DESPUES, cuando ya nadie esta mirando. La entrevista termino esta manana; el que manda la nota de seguimiento hoy mismo es el que se queda en la cabeza de quien decide. Eso no es talento: es disciplina.
+> **Por que:** templanza es lo que se hace cuando nadie esta mirando. La entrevista es a las 10:00; el que la prepara por escrito, con calma, antes de entrar, es el que no habla encima del nervio. Eso no es talento: es disciplina.
 > **En el aula hoy:** terminar lo que se empezo. Se escribe la nota, hoy, a mano, completa.
-> **V (1'):** *"Day five closes here. Temperance is what you do after the hard part is over."* · **A (1'):** pregunta, 30 seg de pensar: *"What is one thing you finished this month that nobody asked you to finish?"* · **T (2'):** cadena de pie, cada uno 1-2 frases con un pronombre objeto; escuchas y anotas, NO corriges aqui · **S (1'):** 2-3 al grupo y cierras: *"Anyone can start. Temperance is the last ten percent."*
+> **V (1'):** *"Day five closes here. Temperance is what you do before the hard part, when nobody is watching."* · **A (1'):** pregunta, 30 seg de pensar: *"What is one thing you finished this month that nobody asked you to finish?"* · **T (2'):** cadena de pie, cada uno 1-2 frases con un pronombre objeto; escuchas y anotas, NO corriges aqui · **S (1'):** 2-3 al grupo y cierras: *"Anyone can start. Temperance is the last ten percent."*
 > **Si alguien pregunta que tiene que ver con ingles:** *"Everything. On the day you need this language, what fails is not vocabulary: it is nerve, or consistency, or preparation. That is what we train here."*
 
-## BLOQUE 2 — SELLAR M16 EN PAPEL Y CERRAR EL HITO (40') — DE PIE los primeros 30'
+## BLOQUE 2 — SELLAR M16 EN PAPEL Y PREPARAR EL HITO (40') — DE PIE los primeros 30'
 
-**Objective: everyone writes the correct object pronoun, in the affirmative and the negative, after a verb and after a preposition — and leaves with a finished follow-up note.**
+**Objective: everyone writes the correct object pronoun, in the affirmative and the negative, after a verb and after a preposition — and leaves with a finished pre-interview note.**
 
 1. **Tablero — la regla del libro (4'), DE PIE.** La clase es 100% ingles; la cita verbatim en espanol la tienes en el ANEXO.
 ```
@@ -67,20 +69,20 @@ DICTATION (A1 Book M16, Examples, p.201) — write BOTH answers:
  4. Can you call your mother?
 ```
    Caminas mirando papeles y anotas errores literales en TU cuaderno. **Correccion oral en cadena (los ultimos 3 min de este punto):** un estudiante distinto lee cada item y dice en 1 linea por que ese pronombre. Los items **3 y 7 se corrigen seguidos**: son los dos que llevan `US` y `ME`, los que mas se caen.
-6. **CIERRE DEL HITO — LA NOTA DE SEGUIMIENTO (10'), SENTADOS, A MANO, en el papel del propio estudiante.** Es lo que casi ningun candidato hace, y es la otra mitad de la entrevista de esta manana. Escribes el marco en el tablero y no dices nada mas mientras escriben:
+6. **PREVIA DEL HITO — LA NOTA ANTES DE LA ENTREVISTA (10'), SENTADOS, A MANO, en el papel del propio estudiante.** Es lo que casi ningun candidato hace, y es la otra mitad de la entrevista de las 10:00. Escribes el marco en el tablero y no dices nada mas mientras escriben:
 ```
-THE FOLLOW-UP NOTE — 8 to 10 lines, by hand, right now, in English.
-You were interviewed this morning. This is the note most candidates never
-send, and that is why they are forgotten.
- (1) Thank THEM for their time. Name the role you applied for.
- (2) One question they asked YOU that you want to answer better — answer it.
- (3) One thing you did NOT say and should have. ("I trained THEM in...")
+THE PRE-INTERVIEW NOTE — 8 to 10 lines, by hand, right now, in English.
+At ten o'clock you will be interviewed. Most candidates walk in with
+nothing on paper, and that is why they are forgotten.
+ (1) Name the role you are applying for, and who will interview YOU.
+ (2) One question they could ask YOU — answer it.
+ (3) One thing you must NOT forget to say. ("I trained THEM in...")
  (4) Why you want the role, in one line.
- (5) Close: "Thank you for considering ME."
+ (5) Your last line in the room: "Thank you for considering ME."
 RULES: at least 6 object pronouns, each one UNDERLINED. Your name at the
 bottom. No "Dear Sir or Madam" — write to a person.
 ```
-   Al terminar, **2 o 3 la leen en voz alta** (30 seg cada una) y el grupo cuenta los pronombres. **Se recogen TODAS** y viajan fisicas con los tickets a coordinacion: son la evidencia escrita del hito. NO las calificas ni las comentas una por una; devuelves UNA cosa al grupo, en tipo (*"almost nobody answered a question again — that is the part that works"*).
+   Al terminar, **2 o 3 la leen en voz alta** (30 seg cada una) y el grupo cuenta los pronombres. **Se recogen TODAS** y viajan fisicas con los tickets a coordinacion: son la evidencia escrita del hito (no se devuelven antes de la entrevista: alli se habla sin papel). NO las calificas ni las comentas una por una; devuelves UNA cosa al grupo, en tipo (*"almost nobody wrote line three — that is the part that works"*).
 
 ## BLOQUE 3 — SIMULACION: REFERENCE CHECK CALL (35') — DE PIE 100%
 
@@ -95,10 +97,10 @@ bottom. No "Dear Sir or Madam" — write to a person.
 
 ## BLOQUE 4 — CIERRE DE BLOQUE (15') — SENTADOS
 
-1. **Ticket de salida (4').** 3-5 frases reemplazando nombres por pronombres objeto — al menos 1 en negativo y 1 despues de preposicion — con nombre en el papel. Se recogen TODOS, junto con las notas de seguimiento. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
+1. **Ticket de salida (4').** 3-5 frases reemplazando nombres por pronombres objeto — al menos 1 en negativo y 1 despues de preposicion — con nombre en el papel. Se recogen TODOS, junto con las notas previas. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
 2. **Error paper al tablero, sin nombres (4').** Escribes 4-6 errores REALES del dia, anonimos. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio corregido. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
 3. **Retrospectiva de cierre de TEMPLANZA (3').** *"One word for TEMPERANCE these five classes — thirty seconds each, no discussion."* Escuchas, no comentas. Cierras: *"Block closed in both of your classes. The next guide opens a new virtue."*
-4. **Cierre (4').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with CONVERSATION Cl 11 and the other teacher, and you TALK: the past, what you DID — worked, called, studied. New virtue, new block. Bring your paper and send your video."* Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."*
+4. **Cierre (4').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have CONVERSATION with the other teacher: your first interview in English, recorded. Same module, a new Phrase of the Day. Your video is assigned there."* Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."*
 
 **Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
@@ -111,39 +113,41 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     to them), and 3 in the NEGATIVE (I didn't call her yet).
     Underline every pronoun. Bring the notebook to Conversation Cl 11.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
-    one assigned in CONVERSATION at 8:00. Send it TODAY to the cohort
+    one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigno Conversacion a las 8:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
 
-5. **PASE al docente de CONVERSACION (Conv Cl 11, a las 8:00 de la proxima clase) — se lo dejas HOY antes de salir**, en papel en la carpeta del cohorte o por mensaje escrito directo por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo antes de salir:
+5. **PASE al docente de CONVERSACION (Conv Cl 10, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo, y es el primer hito del nivel.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Grammar Cl 10 -> Conv Cl 11 — del docente de GRAMATICA al de CONVERSACION
-Virtud: TEMPLANZA, Cl 5 de 5 — CERRADA hoy en las dos pistas, con retrospectiva.
-Tu Cl 11 ABRE la virtud siguiente: tu guia la nombra. No la anuncies antes de leerla.
+PASE Grammar Cl 10 -> Conv Cl 10 — del docente de GRAMATICA al de CONVERSACION
+Virtud: TEMPLANZA, Cl 5 de 5 — CERRADA hoy en mi pista, con retrospectiva.
+Hoy es Cl 5 de 5 en la tuya: cierrala igual. La guia de Cl 11 estrena la nueva.
 QUE QUEDO SELLADO HOY EN PAPEL (A1 M16, Guia 1 p.199 / Ejemplos p.201):
 tabla sujeto-objeto · los 7 pronombres objeto despues del verbo y despues de
 preposicion · afirmativo y negativo del libro dictados y resueltos en el
 cuaderno · orden de la frase intacto.
-CIERRE DEL HITO: la NOTA DE SEGUIMIENTO de la entrevista quedo escrita a mano
-en clase (8-10 lineas, 6 pronombres objeto). Recogidas: ____ de ____. Van
-fisicas a coordinacion con los tickets, como evidencia escrita del hito.
+PREVIA DEL HITO: la NOTA ANTES DE LA ENTREVISTA quedo escrita a mano en
+clase (8-10 lineas, 6 pronombres objeto). Recogidas: ____ de ____. Van
+fisicas a coordinacion con los tickets. La entrevista es TUYA: no la toque.
 3 ERRORES ESCRITOS de hoy (cita literal, SIN nombre aqui; nombres en mi reporte):
 1. ____________________  2. ____________________  3. ____________________
 QUE NO ALCANZO del modulo: _____________________________________________
 Conteo de la simulacion (him-her / them / it / me-us): ___/___/___/___
 YA QUEDO HECHO HOY, NO LO REPITAS: la tabla en el tablero · el dictado de los
 Ejemplos p.201 en afirmativo y negativo · el drill de negativo, pregunta y
-short answer · la NOTA DE SEGUIMIENTO · la simulacion REFERENCE CHECK CALL
-(no repitas ese titulo ni su guion) · la retrospectiva de cierre de virtud ·
-chequeo de portafolio (videos que NO llegaron: ____________).
+short answer · la NOTA PREVIA · la simulacion REFERENCE CHECK CALL
+(no repitas ese titulo ni su guion) · la retrospectiva de cierre de virtud.
 TAREA QUE DEJE: 12 lineas escritas, due Cl 11 antes de las 7:00 PM. El video
-del dia fue el tuyo. NO pidas otro papel encima: las pistas no duplican tarea.
-LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el contenido de la Cl 11.
+del dia lo asignas TU (abre con LISTEN FIRST). NO pidas otro papel encima.
+CONV CL 10 HOY: el mismo modulo en uso oral + el HITO, la entrevista
+simulada grabada. Los pronombres quedaron sellados en papel a las 8:00:
+apoyate en eso, no los vuelvas a explicar.
+LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo modulo.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ **Notas de seguimiento del hito recogidas (TODAS) y contadas en el reporte** ☐ Retrospectiva de cierre de virtud hecha ☐ ~77% DE PIE confirmado ☐ Confirmado con Conversacion: videos de hito B1-4H-HITO-CL10-[nombre] reenviados hoy a la auxiliar administrativa (faltantes al reporte)
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ **Notas previas del hito recogidas (TODAS) y contadas en el reporte** ☐ Retrospectiva de cierre de virtud hecha ☐ ~77% DE PIE confirmado ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -166,22 +170,22 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - **Drill en circulo atascado:** cadena sentada rapida — tu das la frase con nombre, el grupo grita el pronombre en coro y un estudiante dice la frase completa.
 - **Zone walk atascado:** las tres zonas se vuelven tres señas (mano izquierda = sujeto, mano derecha = tras el verbo, dos manos = tras preposicion); misma velocidad, sin caminar.
 - **Dictado muy lento:** dictas 5 items en vez de 8 (elige 1, 3, 5, 7 y 8, que cubren him / us / her en pasado / me / them) y los otros quedan de tarea. NO recortes la correccion en cadena.
-- **La nota de seguimiento no arranca:** dictas las dos primeras lineas como modelo (*"Thank you for your time this morning. You asked me about..."*) y ellos siguen. Si el tiempo aprieta, 8 minutos de escritura, pero **la nota se termina y se recoge HOY**.
+- **La nota previa no arranca:** dictas las dos primeras lineas como modelo (*"I am applying for the role of... They will interview me at ten."*) y ellos siguen. Si el tiempo aprieta, 8 minutos de escritura, pero **la nota se termina y se recoge HOY**.
 - **Simulacion que no arranca:** cambia el escenario a **una verificacion de referencia comercial** (un proveedor llama a otro cliente para preguntar por una empresa: *"Did they deliver on time? Would you work with them again?"*), misma mecanica y mismos minimos. Tu sigues fuera del rol.
-- **Grupo incompleto a las 10:00:** arrancas igual, registras la llegada tarde, el que llega se integra al drill sin repetirle nada.
+- **Grupo incompleto a las 8:00:** arrancas igual, registras la llegada tarde, el que llega se integra al drill sin repetirle nada.
 - **Sobra tiempo:** "who received it" — das una frase con dos nombres y el grupo reemplaza los dos a la vez (*"I sent the manager the file" -> "I sent it to him"*).
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/GRAMATICA/B1_Clase10_GRAMMAR_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), Conv 8:00-10:00 primero y Grammar 10:00-12:00 despues, el MISMO dia · PASE Conv -> Grammar en papel a las 10:00 y Grammar -> Conv para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion). Contenido (modulo, HOY SOLO, hito, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
-- **Frente a la guia 4H anterior:** las citas se ampliaron leyendo el libro (habilidad objetiva p.197, vocabulario p.198, Ejemplos p.201 en afirmativo Y negativo, que la guia anterior no dictaba) y se agrego, dentro del Bloque 2, el **seguimiento escrito del hito**.
-- **SEGUIMIENTO ESCRITO DEL HITO (lo que esta guia agrega al nivel):** la entrevista simulada de Conv Cl 10 no termina en la entrevista. Aqui se cierra con la **nota de seguimiento de 8-10 lineas, escrita A MANO en clase** — a mano y en clase por la regla anti-IA, con el marco dictado al tablero y cero material impreso. Se recogen TODAS y viajan fisicas con los tickets: son **evidencia escrita del hito** para el expediente del nivel, junto con las grabaciones que envio Conversacion.
+- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/GRAMATICA/B1_Clase10_GRAMMAR_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), orden real de la hoja de arranque 13/10: Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia · PASE Grammar -> Conv en papel a las 10:00 y Conv -> Grammar al cerrar las 12:00 para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion, que hace el chequeo de portafolio; Gramatica solo lo recuerda) · foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, HOY SOLO, hito, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
+- **Frente a la guia 4H anterior:** las citas se ampliaron leyendo el libro (habilidad objetiva p.197, vocabulario p.198, Ejemplos p.201 en afirmativo Y negativo, que la guia anterior no dictaba) y se agrego, dentro del Bloque 2, la **nota escrita del hito**.
+- **NOTA ESCRITA DEL HITO (lo que esta guia agrega al nivel):** la entrevista simulada de Conv Cl 10 no es solo la entrevista. Con el orden real (Gramatica a las 8:00, antes de la entrevista de las 10:00) la nota pasa de seguimiento posterior a **nota previa de 8-10 lineas, escrita A MANO en clase**, con el mismo marco de 5 puntos adaptado a "antes". `SUPUESTO DE PLANEACION — verificar`: alternativa para coordinacion = devolverla a seguimiento posterior en Grammar Cl 11 (8:00 del dia siguiente), recortando otro punto de esa guia — a mano y en clase por la regla anti-IA, con el marco dictado al tablero y cero material impreso. Se recogen TODAS y viajan fisicas con los tickets: son **evidencia escrita del hito** para el expediente del nivel, junto con las grabaciones que envia Conversacion.
 - **DE PIE 77%:** Bloque 1 (20') + primeros 30' del Bloque 2 + Bloque 3 (35') = 85 de 110. Por debajo del 86% habitual de esta pista, **porque la nota escrita a mano son 10 minutos sentados que el hito exige**. Sigue muy por encima del piso del 70% y la guia marca explicitamente que parte es de pie.
-- **B3 REDISENADO POR ANTI-DUPLICADO.** La guia 4H anterior de Grammar Cl 10 usaba **"FOLLOW-UP BRIEFING"** (reporte de a quien se contacto en la semana) y la de Conv Cl 10 usaba **"WEEKLY FOLLOW-UP"** — el mismo guion con otro nombre. Aqui Conv Cl 10 ya no hace ninguno de los dos (su B3 es el hito, la **entrevista simulada**), y Grammar estrena **REFERENCE CHECK CALL**: cambia el registro (llamada de verificacion confidencial, no reporte interno), cambian los roles (jefe anterior y quien llama de Recursos Humanos, no empleado y lider), cambia la meta (verificar a un tercero ausente, no rendir cuentas propias) y cambia la carga gramatical: esta manana el candidato hablaba en **primera** persona de si mismo; hoy dos personas hablan en **tercera** persona de alguien que no esta, que es exactamente donde viven him / her / them. Ni el titulo, ni los roles, ni el guion, ni la carga se repiten. Detalle fisico propio: los dos hablan **de espaldas y de pie**, porque es una llamada.
-- **Tarea por pista:** Gramatica deja la tarea ESCRITA (12 lineas, 3 tras preposicion, 3 en negativo) y recuerda que el video diario es UNO solo: el que Conversacion dejo esta manana (No. 10).
-- **Recuperacion por pista:** N-3 = **Grammar Cl 7** (posicion del adverbio) · N-7 = **Grammar Cl 3** (should, horas y precios). Sin mapa semanal de tickets — NO se citan tickets.
-- **Virtud:** TEMPLANZA, Cl 5 de 5 (Cl 6-10 de cada pista), calendario absoluto. **Hoy CIERRA en la pista de Gramatica** con retrospectiva. **Cl 11-15 = JUSTICIA v1** segun el mapa del B1 Mastery: la guia de Cl 11 de cada pista la abre y la nombra; el docente de hoy no la anuncia.
-- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — la nota de seguimiento y las 12 lineas de la tarea son insumo directo de Conv Cl 11, que abre el arco del pasado.
-- **Evaluaciones:** el docente **no comunica** como le fue a nadie en la entrevista de esta manana, ni notas, ni resultados, ni juicio de garantia. Da feedback en TIPO al grupo. Todo lo demas es coordinacion.
+- **B3 REDISENADO POR ANTI-DUPLICADO.** La guia 4H anterior de Grammar Cl 10 usaba **"FOLLOW-UP BRIEFING"** (reporte de a quien se contacto en la semana) y la de Conv Cl 10 usaba **"WEEKLY FOLLOW-UP"** — el mismo guion con otro nombre. Aqui Conv Cl 10 ya no hace ninguno de los dos (su B3 es el hito, la **entrevista simulada**), y Grammar estrena **REFERENCE CHECK CALL**: cambia el registro (llamada de verificacion confidencial, no reporte interno), cambian los roles (jefe anterior y quien llama de Recursos Humanos, no empleado y lider), cambia la meta (verificar a un tercero ausente, no rendir cuentas propias) y cambia la carga gramatical: a las 10:00 el candidato habla en **primera** persona de si mismo; aqui dos personas hablan en **tercera** persona de alguien que no esta, que es exactamente donde viven him / her / them. Ni el titulo, ni los roles, ni el guion, ni la carga se repiten. Detalle fisico propio: los dos hablan **de espaldas y de pie**, porque es una llamada.
+- **Tarea por pista:** Gramatica deja la tarea ESCRITA (12 lineas, 3 tras preposicion, 3 en negativo) y recuerda que el video diario es UNO solo: el que Conversacion asigna hoy a las 10:00 (No. 10).
+- **Recuperacion por pista:** N-3 = **Grammar Cl 7** (posicion del adverbio) · N-7 = **Grammar Cl 3** (should, horas y precios) · mas los 3 errores del PASE de Conversacion Cl 9 (cierre del dia anterior). Sin mapa semanal de tickets — NO se citan tickets.
+- **Virtud:** TEMPLANZA, Cl 5 de 5 (Cl 6-10 de cada pista), calendario absoluto. **Hoy CIERRA en la pista de Gramatica** (8:00) con retrospectiva; Conversacion la cierra a las 10:00. **Cl 11-15 = JUSTICIA v1** segun el mapa del B1 Mastery: la guia de Cl 11 de cada pista la abre y la nombra; el docente de hoy no la anuncia.
+- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — la nota previa y las 12 lineas de la tarea son insumo directo de Conv Cl 11, que abre el arco del pasado.
+- **Evaluaciones:** el docente **no comunica** como le ira o como le fue a nadie en la entrevista, ni notas, ni resultados, ni juicio de garantia. Da feedback en TIPO al grupo. Todo lo demas es coordinacion.
 - `SUPUESTO DE PLANEACION — verificar`: el **uso de pronombre objeto despues de preposicion** aparece en los ejemplos del libro ("I talk with him", "he can study with them") pero **no como regla enunciada** en la Guia 1; se enseña como uso estandar derivado de los ejemplos, no como cita.
-- `SUPUESTO DE PLANEACION — verificar`: la **nota de seguimiento** es diseño Heiiu para cerrar el hito por escrito, no contenido del libro. Confirmar con coordinacion que las notas se archivan como evidencia del hito junto con las grabaciones.
+- `SUPUESTO DE PLANEACION — verificar`: la **nota escrita del hito** (hoy previa) es diseño Heiiu, no contenido del libro. Confirmar con coordinacion que las notas se archivan como evidencia del hito junto con las grabaciones.

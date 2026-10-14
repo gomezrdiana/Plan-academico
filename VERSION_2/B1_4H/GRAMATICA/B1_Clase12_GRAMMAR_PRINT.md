@@ -1,8 +1,8 @@
 # B1 MASTERY — Cl 12/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 12/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 12/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** A2 Book **M12 "I Was Playing when My Mom Called — Past Simple vs. Past Continuous" (p.99-102)** — hoy la mitad PASADO SIMPLE IRREGULAR, sellada con el A1 Book **M11 "She Ate in the Restaurant" (Guia 1 p.143; Ejemplos p.144)**; la regla SE SELLA EN PAPEL
-**Focus (1 linea):** Lo que esta manana dijeron de memoria, ahora queda escrito en un mapa: los irregulares en 5 grupos, sin el reflejo del -ED, y la trampa de READ.
+**Focus (1 linea):** Antes de decirlos de memoria a las 10:00, los irregulares quedan escritos en un mapa: 5 grupos, sin el reflejo del -ED, y la trampa de READ.
 **Virtud:** JUSTICIA — Cl 2 de 5 de esta virtud (Cl 11-15 de cada pista)
 **Frase del Dia:** *"Justice keeps the receipts straight: I went, I paid, I bought only what we needed, I brought every receipt back, and I read the policy first — each irregular past, written true."*
 
@@ -10,22 +10,24 @@
 
 > **DE PIE: Bloques 1-3 completos en o junto al tablero (~95 de 110 min ≈ 86%; piso 70%). Solo el Bloque 4 es sentado.** Movimiento SIEMPRE con contenido: nada de "stand up / sit down" suelto.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video) y el PASE que te entrega el docente de Conversacion a las 10:00. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 11 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 > **HOY SOLO: el pasado IRREGULAR escrito — los 5 grupos de cambio (igual · cambio de vocal · -ought/-aught · final en -t · totalmente nuevo) · la trampa de READ (misma ortografia, otro sonido) · y los Ejemplos del libro (p.144) dictados al papel del estudiante, SOLO en afirmativo. NO TOCAR AUN: el negativo y la pregunta con did / didn't (Cl 13), aunque el libro lo mencione en el punto 3 · ago / last con first-then-finally (Cl 14) · was / were + -ing y when (Cl 15-16).**
 
-## BLOQUE 1 — RECUPERACION DE LO ORAL DE ESTA MANANA (20') — DE PIE
+## BLOQUE 1 — RECUPERACION DE LO ORAL DE AYER (20') — DE PIE
 
-**Objective: every video is accounted for, and the irregulars that came out of your mouths this morning are ready to be mapped.**
+**Objective: yesterday's errors come back into the room, and the verbs that break the rule are ready to be mapped.**
 
-1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
-2. **Chequeo de portafolio, con la lista del PASE en mano (3').** Ya viste los videos antes de entrar. La lista ENVIO / NO ENVIO de hoy ya la marco Conversacion a las 8:00 y viene en el PASE: NO la repites nombre por nombre. Lees en voz alta solo los NO ENVIO (si alguno lo mando en el cambio de bloque, lo pasas a ENVIO) y a 2-3 estudiantes que Conversacion no corrigio les dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'I thinked' — 'I THOUGHT'"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* Sin discusion.
-3. **Recuperacion espaciada DE TU PISTA (7', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 9** (el apostrofe en sus tres casos del libro) · N-7 = **Grammar Cl 5** (do / does, negativo con verbo base, pregunta con short answer). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
+**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
+1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, en su Bloque 1 a las 10:00, con su propia lista y la mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues. Los 2-3 minutos que libera este punto pasan a la recuperacion espaciada.
+3. **Recuperacion espaciada DE TU PISTA (9', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 9** (el apostrofe en sus tres casos del libro) · N-7 = **Grammar Cl 5** (do / does, negativo con verbo base, pregunta con short answer). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
    - "Spell the apostrophe in the air: the technicians / keys." (Cl 9)
    - "Owner that ends in S: Chris / laptop — where does the apostrophe go?" (Cl 9)
    - "Fix it out loud: 'She doesn't works late.'" (Cl 5)
    - "Question and short answer: 'Does he check the log every day?' — 'Yes, he does.'" (Cl 5)
-4. **Lectura del PASE recibido, en voz alta (2').** Lees los 3 errores literales del papel: *"These three broke the rule out loud this morning. Now we give memory a map."*
+4. **Lectura del PASE recibido, en voz alta (2').** Lees los 3 errores literales del papel que dejo Conversacion al cierre de la Cl 11: *"These three came out of your mouths yesterday. Today the most common verbs break the ED rule — and we give memory a map."*
 5. **Frase del Dia (2').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea: *"No rule for these verbs — but groups help memory, and READ looks the same and sounds different."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
 > **[VIRTUD] JUSTICIA — Cl 2 de 5. Tablero: "JUSTICE — DAY 2 OF 5".** (5', el ritual completo)
@@ -100,7 +102,7 @@ EXPENSE REPORT — 2-day business trip
 1. **Ticket de salida (4').** 3-5 frases en pasado irregular con marcador de tiempo, marcando al lado el grupo (G1-G5); al menos una con READ. Nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
 2. **Error paper al tablero, sin nombres (4').** Escribes 4-6 errores REALES del dia, anonimos. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio corregido. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
 3. **Cierre de JUSTICIA, dia 2 (2').** *"What was honest in today's simulation?"* — 2 respuestas de una frase. Cierras: *"Day two of justice, in both of your classes."*
-4. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with CONVERSATION Cl 13 and the other teacher: you ask and you deny the past — 'Did you...?' and 'I didn't...'. Bring your notebook and send your video."* Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."*
+4. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have CONVERSATION with the other teacher: same module, a new Phrase of the Day. You say the irregulars from memory — a real turning point in your story. Your video is assigned there."* Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."*
 
 **Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
@@ -114,16 +116,16 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     NEVER "goed" / "thinked" / "payed". Bring the notebook to
     Conversation Cl 13.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
-    one assigned in CONVERSATION at 8:00. Send it TODAY to the cohort
+    one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigno Conversacion a las 8:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
 
-5. **PASE al docente de CONVERSACION (Conv Cl 13, a las 8:00 de la proxima clase) — se lo dejas HOY antes de salir**, en papel en la carpeta del cohorte o por mensaje escrito directo por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo antes de salir:
+5. **PASE al docente de CONVERSACION (Conv Cl 12, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Grammar Cl 12 -> Conv Cl 13 — del docente de GRAMATICA al de CONVERSACION
-Virtud: JUSTICIA, Cl 2 de 5 en las dos pistas (escuchar completo en la tuya,
-honestidad con lo que es de todos en la mia). La Cl 13: Cl 3 de 5.
+PASE Grammar Cl 12 -> Conv Cl 12 — del docente de GRAMATICA al de CONVERSACION
+Virtud: JUSTICIA, Cl 2 de 5 (honestidad con lo que es de todos en la mia).
+Hoy es Cl 2 de 5 en la tuya: tu guia trae su angulo.
 QUE QUEDO SELLADO HOY EN PAPEL (A1 M11 Guia 1 p.143 / Ejemplos p.144 + A2 M12
 p.101-102): los 5 grupos de irregulares · la trampa READ · dictado del libro
 en afirmativo, resuelto en el cuaderno con el grupo de cada verbo.
@@ -133,17 +135,17 @@ QUE NO ALCANZO del modulo: _____________________________________________
 Conteo de la simulacion (G1 / G2 / G3 / G4 / G5): ___/___/___/___/___
 YA QUEDO HECHO HOY, NO LO REPITAS: la tabla de 5 grupos · el dictado de los
 Ejemplos p.144 · el group walk · la simulacion EXPENSE REPORT REVIEW AFTER A
-BUSINESS TRIP (no repitas ese titulo ni su guion) · chequeo de portafolio
-(videos que NO llegaron: ____________).
-TU CLASE ABRE "Did you...? / I didn't..." — con did vuelve el verbo BASE:
-nunca "did you went". Tu guia trae el como.
+BUSINESS TRIP (no repitas ese titulo ni su guion).
+CONV CL 12 HOY: el mismo modulo en uso oral — los irregulares de memoria,
+mezclados con regulares, y la trampa READ. El mapa de 5 grupos quedo
+sellado en papel a las 8:00: apoyate en eso, no lo vuelvas a explicar.
 TAREA QUE DEJE: 15 frases escritas, due Cl 13 antes de las 7:00 PM. El video
-del dia fue el tuyo. NO pidas otro papel encima: las pistas no duplican tarea.
-LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el contenido de la Cl 13.
+del dia lo asignas TU (abre con LISTEN FIRST). NO pidas otro papel encima.
+LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo modulo.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~86% DE PIE confirmado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~86% DE PIE confirmado ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -163,18 +165,18 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - **Group walk atascado:** las cinco zonas se vuelven cinco señas (1 a 5 dedos arriba); misma velocidad, sin caminar.
 - **Dictado muy lento:** dictas 6 items (1, 2, 4, 5, 7, 8) y los otros dos quedan de tarea opcional. NO recortes la correccion en cadena.
 - **Simulacion que no arranca:** cambia a **explicarle al jefe por que un pedido urgente llego tarde** (*"I sent the order, the supplier forgot it, I called and they brought it the next day"*), misma mecanica y mismos minimos. Tu sigues fuera del rol.
-- **Grupo incompleto a las 10:00:** arrancas igual, registras la llegada tarde; el que llega se integra al drill sin repetirle nada.
+- **Grupo incompleto a las 8:00:** arrancas igual, registras la llegada tarde; el que llega se integra al drill sin repetirle nada.
 - **Sobra tiempo:** "the READ duel" — en parejas, uno dice una frase con READ y el otro dice si fue presente ("reed") o pasado ("red") y por que.
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/GRAMATICA/B1_Clase12_GRAMMAR_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), Conv 8:00-10:00 primero y Grammar 10:00-12:00 despues, el MISMO dia · PASE Conv -> Grammar en papel a las 10:00 y Grammar -> Conv para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion). Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
+- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/GRAMATICA/B1_Clase12_GRAMMAR_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), orden real de la hoja de arranque 13/10: Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia · PASE Grammar -> Conv en papel a las 10:00 y Conv -> Grammar al cerrar las 12:00 para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion, que hace el chequeo de portafolio; Gramatica solo lo recuerda) · foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
 - **Frente a la guia 4H anterior:** Las citas se ampliaron leyendo el libro: el **A1 M11 (p.141-144)** trae verbatim la regla ("tenemos que memorizar. No hay patron o regla general") y sus Ejemplos, que ahora se dictan; sus 5 verbos (woke, got dressed, ate, swam, went) se sumaron a la tabla.
 - **DE PIE 86%:** Bloques 1, 2 y 3 completos (95 de 110). El dictado se escribe de pie junto al tablero.
-- **B3 REDISENADO POR ANTI-DUPLICADO.** La guia 4H anterior de Grammar Cl 12 usaba **"PROJECT DEBRIEF — What happened?"** (alguien cuenta al lead el cierre de un proyecto) y la de Conv Cl 12 usa **"START-OF-WEEK TEAM STAND-UP"** (alguien cuenta al lead su semana): el mismo guion de reporte de equipo. Aqui el escenario es **EXPENSE REPORT REVIEW AFTER A BUSINESS TRIP**: cambia el registro (rendicion de cuentas con dinero, no reunion de equipo), cambian los roles (empleado y revisor de finanzas), cambia la meta (justificar cada linea y declarar un recibo perdido) y cambia la carga: el reporte del tablero obliga a los irregulares de dinero y viaje (went, took, left, paid, spent, bought, forgot, lost, met, brought) y a READ, y los observers **escriben cada verbo en su grupo**. Ni el titulo, ni los roles, ni el guion, ni la carga se repiten.
+- **B3 REDISENADO POR ANTI-DUPLICADO.** La guia 4H anterior de Grammar Cl 12 usaba **"PROJECT DEBRIEF — What happened?"** (alguien cuenta al lead el cierre de un proyecto) y la de Conv Cl 12 (10:00) usa **"START-OF-WEEK TEAM STAND-UP"** (alguien cuenta al lead su semana): el mismo guion de reporte de equipo. Aqui el escenario es **EXPENSE REPORT REVIEW AFTER A BUSINESS TRIP**: cambia el registro (rendicion de cuentas con dinero, no reunion de equipo), cambian los roles (empleado y revisor de finanzas), cambia la meta (justificar cada linea y declarar un recibo perdido) y cambia la carga: el reporte del tablero obliga a los irregulares de dinero y viaje (went, took, left, paid, spent, bought, forgot, lost, met, brought) y a READ, y los observers **escriben cada verbo en su grupo**. Ni el titulo, ni los roles, ni el guion, ni la carga se repiten.
 - **Cifras del reporte de gastos en dolares y centavos (revision previa):** la version anterior usaba miles de pesos (45,000, 180,000), que el libro no enseña (A1 M5 llega a cien, con precios en dos grupos); asi el empleado dice los montos con la mecanica del libro (*"thirteen oh five"*), igual que en Conv Cl 3 y Grammar Cl 3.
-- **Tarea por pista:** Gramatica deja la tarea ESCRITA (15 frases, 3 por grupo) y recuerda que el video diario es UNO solo: el que Conversacion dejo esta manana (No. 12).
-- **Recuperacion por pista:** N-3 = **Grammar Cl 9** · N-7 = **Grammar Cl 5**. Sin mapa semanal de tickets: NO se citan tickets.
-- **Virtud:** JUSTICIA, Cl 2 de 5 (Cl 11-15), calendario absoluto. Angulo de Gramatica: **honestidad con lo que es de todos** (liderazgo etico: el recibo perdido se declara) y ayuda al que va mas lento en el group walk. Conversacion trabajo **escuchar completo**.
-- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — las 15 frases de la tarea son insumo del relato en pasado que Conv Cl 13 empieza a interrogar.
+- **Tarea por pista:** Gramatica deja la tarea ESCRITA (15 frases, 3 por grupo) y recuerda que el video diario es UNO solo: el que Conversacion asigna hoy a las 10:00 (No. 12).
+- **Recuperacion por pista:** N-3 = **Grammar Cl 9** · N-7 = **Grammar Cl 5** · mas los 3 errores del PASE de Conversacion Cl 11 (cierre del dia anterior). Sin mapa semanal de tickets: NO se citan tickets.
+- **Virtud:** JUSTICIA, Cl 2 de 5 (Cl 11-15), calendario absoluto. Angulo de Gramatica: **honestidad con lo que es de todos** (liderazgo etico: el recibo perdido se declara) y ayuda al que va mas lento en el group walk. Conversacion trabaja **escuchar completo** a las 10:00.
+- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — las 15 frases de la tarea son insumo del relato en pasado de Conv Cl 12 (10:00) y del que Conv Cl 13 empieza a interrogar.
 - `SUPUESTO DE PLANEACION — verificar`: el **agrupamiento en 5 grupos** y la etiqueta "trampa READ" son organizacion Heiiu (el libro dice que no hay patron); los verbos fuera de los 5 del A1 M11 vienen de la guia 4H anterior y son correctos. La clave de los items 7-8 (Exercises p.102) es la forma logica: el libro no trae clave.

@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 15/44 — CONV — HOJA DE RUTA
 
-**Sesion 15/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Sesion 15/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Modulo:** A2 Book **M12 "I Was Playing when My Mom Called — Past Simple vs. Past Continuous" (p.99-102)** — hoy la mitad PASADO CONTINUO, **Guide 1 punto 1 (p.100; Examples p.101)**, con el was / were del A1 Book **M32 Guia 1 (p.361)**; HOY SOLO USO ORAL
 **Focus (1 linea):** Pintar un momento del pasado en voz alta — lo que yo estaba haciendo y lo que estaban haciendo los demas — con was / were + -ing, sin perder a nadie del cuadro.
 **Virtud:** JUSTICIA — Cl 5 de 5 de esta virtud (Cl 11-15 de cada pista) — CIERRA el bloque
@@ -8,7 +8,7 @@
 
 > **ENGLISH ONLY de principio a fin.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges. Los rituales ya se presentaron en la Cl 1: hoy solo se APLICAN, no se explican.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video) y el PASE que te dejo el docente de Gramatica al cierre de la Cl 14. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, celular para la foto de inicio, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video) y el PASE que te entrega el docente de Gramatica a las 10:00 (Grammar Cl 15, de esta misma manana). NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 > **HOY SOLO: el pasado continuo HABLADO — was / were + verbo-ING para una accion que estaba en curso, con duracion, en un momento del pasado ("At 9:00 I was answering calls", "We were working all morning"), la pregunta "What were you doing at...?" y el negativo wasn't / weren't dicho de paso. La regla se USA, no se explica. NO TOCAR AUN: la tabla, la ortografia del -ING y el contraste punto / linea en papel (GRAMATICA Cl 15) · la accion corta que INTERRUMPE a la larga, con when ("I was working WHEN he called") — eso es de Cl 16, aunque el titulo del modulo ya la nombre.**
 
@@ -16,7 +16,9 @@
 
 **Objective: every voice is awake, every video is accounted for, and the room discovers the past that was still moving.**
 
-1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
+**10:00 EN PUNTO: foto del tablero con la Frase del Dia ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
+1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
 2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar. Di: *"I am not asking who made it. I am asking who SENT it. Who sent video No. 14?"* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'ago three years' — 'three years AGO'"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* En la misma pasada marcas quien tiene **el cuaderno con las 12 frases y la historia de Gramatica Cl 14 abierto sobre la mesa** (SI / NO). No lo lees ni lo corriges: solo se registra.
 3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Conv Cl 12** (el pasado irregular de memoria; escuchar y repetir un dato antes de preguntar) · N-7 = **Conv Cl 8** (la frecuencia con numero, al final de la frase). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
    - "Chain: go · think · bring · read — the past, and one true sentence with one of them." (Cl 12)
@@ -37,7 +39,7 @@
 **Objective: by the end, every one of you paints a real moment of your past for a partner — five sentences about what you and the people around you were doing — with WAS and WERE in the right place.**
 
 1. **Avance de proyecto hoy: MY STORY, MY GOALS — pieza "WHERE I WAS IN MY LIFE" (1').** Di: *"One piece every class. Today, a picture: where you were living, what you were doing, who was with you — at one moment of your story."*
-2. **Tablero, solo uso ORAL (3') — la tabla y el contraste en papel los sella Gramatica Cl 15:**
+2. **Tablero, solo uso ORAL (3') — la tabla y el contraste en papel los sello Gramatica Cl 15 a las 8:00:**
 ```
 THE PAST THAT WAS STILL MOVING  (A2 Book M12 p.100-101 · A1 Book M32 p.361)
  POINT (past simple):  "I played yesterday."          -> it happened, it finished
@@ -72,13 +74,19 @@ NEVER "I was work" · NEVER "they was working" · NEVER "I working at nine"
 1. **Ticket de salida (4').** 3-5 frases sobre ayer a una hora concreta: que estabas haciendo tu y que estaban haciendo otras 2 personas, con was / were + -ing; 1 negativa. Nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
 2. **Error paper (4').** Escribes 4-6 errores REALES del dia en el papel fisico ANONIMO y los pasas al tablero sin nombres. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio corregido. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
 3. **Retrospectiva de cierre de JUSTICIA (3').** *"One word for JUSTICE these five classes — thirty seconds each, no discussion."* Escuchas, no comentas. Cierras: *"Block closed. The next guide opens a new virtue."*
-4. **Cierre (4').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have GRAMMAR Cl 15 with the other teacher: same module, new Phrase of the Day. You put WAS and WERE on paper, and you learn when the past is a point and when it is a line. Bring your paper and send your video."*
+4. **Cierre (4').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with GRAMMAR Cl 16 and the other teacher: the line and the cut on paper, with the book's own story. Bring your notebook. Send your video TODAY."*
 
 **Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
 HOMEWORK CONVERSATION CL 15 — ONE TASK ONLY: THE VIDEO.
 DUE: Cl 16, BEFORE 7:00 PM — that is, TODAY before 7:00 PM. NOT NEGOTIABLE.
-TIME: 30-45 min (B1) — prepare, rehearse twice, then record. NOT fragmented.
+TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
+LISTEN FIRST (5-10 min, BEFORE you record):
+Search on YouTube or a podcast app: "what were you doing when it happened".
+Pick a speaker whose accent is NOT your teacher's (Scottish, Irish,
+Indian, Australian, Nigerian, Texan, Jamaican...). Listen 2 minutes.
+Repeat 3 sentences out loud, imitating that accent.
+OPEN YOUR VIDEO with those 3 sentences. Then do your task.
 DAILY PORTFOLIO VIDEO No. 15 — MINIMUM 3 MINUTES, video of yourself
 speaking, straight through, NO reading, NO script on camera.
 Content: "ONE DAY, FIVE MOMENTS" — a real day you remember. At five
@@ -89,13 +97,16 @@ WERE + -ING and 2 negatives (wasn't / weren't). Then your piece
 Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-15.
 Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
-> **La tarea de hoy es SOLO el video** — la tarea escrita de este modulo la asigna el docente de Gramatica hoy a las 10:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
-5. **PASE al docente de GRAMATICA (Grammar Cl 15, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Gramatica. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
+> **LISTEN FIRST es parte fija de la tarea desde hoy:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de manana, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
+
+> **La tarea de hoy es SOLO el video** — la tarea escrita de este modulo ya la asigno el docente de Gramatica hoy a las 8:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
+5. **PASE al docente de GRAMATICA (Grammar Cl 16, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por mensaje escrito directo por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv Cl 15 -> Grammar Cl 15 — del docente de CONVERSACION al de GRAMATICA
+PASE Conv Cl 15 -> Grammar Cl 16 — del docente de CONVERSACION al de GRAMATICA
 Virtud: JUSTICIA, Cl 5 de 5 — HOY SE CERRO en mi pista, con retrospectiva.
-Hoy a las 10:00 es Cl 5 de 5 en la tuya: cierrala igual. La Cl 16 abre la nueva.
+En la tuya se cerro esta manana. La Cl 16 abre la nueva: tu guia la nombra.
 LO QUE SALIO ORAL HOY: was / were + -ing en un momento del pasado, "What were
 you doing at...?", wasn't / weren't. A2 M12 Guide 1 p.100 · Examples p.101.
 3 ERRORES literales de hoy (SIN nombre aqui; nombres en mi reporte):
@@ -103,20 +114,21 @@ you doing at...?", wasn't / weren't. A2 M12 Guide 1 p.100 · Examples p.101.
 Patrones oidos: (a) -ing perdido ("I was work"); (b) concordancia ("they
 was", "she were"); (c) sin auxiliar ("I working at nine"); (d) continuo
 donde iba punto ("I was finishing the report yesterday" para algo terminado).
-QUE QUEDA PENDIENTE del modulo: la tabla en papel, la ortografia del -ING y
-el contraste punto / linea con los Ejemplos del libro. No los toque.
+QUE QUEDO FRAGIL del modulo (lo sellaste esta manana en papel):
+_______________________________________________________________
 Cuadernos con las 12 frases de Grammar Cl 14 (SI / NO): ____ de ____.
 YA QUEDO HECHO HOY, NO LO REPITAS: el freeze frame oral · la pieza "WHERE I WAS
-IN MY LIFE" · el chequeo de portafolio (videos que NO llegaron: __________) ·
+IN MY LIFE" ·
 la retrospectiva de cierre de virtud.
 SIMULACION QUE USE HOY — NO LA REPITAS: "END-OF-SHIFT REPORT" (el que sale cuenta
 el turno al que entra). Ni el titulo ni el guion. Escenario DISTINTO.
-TAREA ESCRITA: la asignas TU. Yo hoy deje SOLO el video No. 15.
-LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo modulo.
+TAREA: la escrita la dejaste tu esta manana; yo deje SOLO el video No. 15
+(abre con las 3 frases del LISTEN FIRST).
+LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el contenido de la Cl 16.
 Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ **PASE Conv -> Grammar entregado en mano a las 10:00** ☐ PASE Grammar -> Conv de la Cl 14 leido en el Bloque 1 ☐ Cuadernos de Grammar Cl 14 marcados SI / NO ☐ Retrospectiva de cierre de virtud hecha ☐ Pieza "WHERE I WAS IN MY LIFE" dicha por todos
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ **PASE Conv -> Grammar Cl 16 dejado al cerrar a las 12:00** ☐ PASE Grammar -> Conv de la Cl 15 (recibido a las 10:00) leido en el Bloque 1 ☐ Cuadernos de Grammar Cl 14 marcados SI / NO ☐ Retrospectiva de cierre de virtud hecha ☐ Pieza "WHERE I WAS IN MY LIFE" dicha por todos ☐ Foto de inicio enviada a las 10:00
 
 [PAGEBREAK]
 
@@ -127,19 +139,19 @@ Firma Conversacion: ______________  Recibido Gramatica: ______________
 **Examples (p.101), verbatim — solo continuo:** "I was living in Bucaramanga in 2019." · "Eliana was studying for her exams last week." · "Paula was swimming in the pool in the morning." · "Where was Joe working last year?" · "I wasn't driving the Model T last year." · "My mother was making chicken today." · "I was cleaning the house yesterday."
 **A1 Book, Module 32 — "Be" en el pasado simple, Guia 1 (p.361):** "I was (not) happy. / I wasn't happy. / Was I happy?" · "You were (not) happy." · "He was..." · "We were..." · "They were (not) happy. / They weren't happy. / Were they happy?" · punto 4: "La respuesta corta se forma usando 'was', 'were', 'wasn't' y 'weren't', como el normal."
 
-**Reservado para GRAMATICA Cl 15, no hoy:** la tabla escrita, la ortografia del -ING (A1 M33 p.377), el contraste punto / linea en papel y los Ejemplos dictados.
+**Ya lo sello GRAMATICA Cl 15 a las 8:00; aqui no se repite:** la tabla escrita, la ortografia del -ING (A1 M33 p.377), el contraste punto / linea en papel y los Ejemplos dictados.
 
 **Plan B (cero material, todo tablero o voz):**
 - **Bloque 1 — sin PASE de Gramatica:** arrancas con la cadena de recuperacion y usas como puente "ago two days" -> "two days AGO".
 - **Bloque 2 — WAS / WERE no cuaja:** el freeze frame se hace solo con I y he / she (WAS) y en la segunda vuelta solo con we / they (WERE); luego se mezclan.
 - **Bloque 3 — simulacion que no arranca:** el guest describe 3 areas y el entrante hace 2 preguntas; subes a 6 frases en la segunda rotacion.
 - **Bloque 4 — falta tiempo:** ticket de 3 frases; la retrospectiva y la tarea NO se recortan.
-- **Grupo incompleto a las 8:00:** arrancas igual, registras la llegada tarde; el que llega entra al freeze frame sin que le repitas nada.
+- **Grupo incompleto a las 10:00:** arrancas igual, registras la llegada tarde; el que llega entra al freeze frame sin que le repitas nada.
 - **Sobra tiempo:** "the photo" — cada uno describe una foto real de su telefono que NO muestra: que estaba haciendo cada persona en ella; el grupo hace 2 preguntas con was / were.
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-- **Edicion unica manana/noche:** formato y reglas de la edicion nueva (plantilla: Cl 1-12 de `VERSION_2/B1_4H`): 110 min (20 + 40 + 35 + 15), Conv 8:00-10:00 primero y Grammar 10:00-12:00 despues el MISMO dia · **PASE Conv -> Grammar en papel a las 10:00 y Grammar -> Conv al cerrar, para la clase siguiente** · due "Cl N+1, BEFORE 7:00 PM" · ticket antes del error paper · UN solo video diario.
+- **Edicion unica manana/noche:** formato y reglas de la edicion nueva (plantilla: Cl 1-12 de `VERSION_2/B1_4H`): 110 min (20 + 40 + 35 + 15), Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues el MISMO dia (orden de la hoja de arranque 13/10) · **PASE Grammar -> Conv en papel a las 10:00 y Conv -> Grammar al cerrar a las 12:00, para la manana siguiente** · Conv hace el chequeo de portafolio (asigna el video del dia) · due "Cl N+1, BEFORE 7:00 PM" · ticket antes del error paper · UN solo video diario.
 - **CAMBIO DE CONTENIDO FRENTE A LA GUIA 4H ANTERIOR (decision de planeacion, revisar):** la anterior (compresion del 25/08) hacia de Cl 15 una "consolidacion del sistema del pasado" asumiendo que el grupo YA habia recibido was / were + -ing y la interrupcion con when. Eso valia para el cohorte de agosto. En la edicion nueva, la secuencia de Cl 11-14 NO enseña el pasado continuo y la caja HOY SOLO de la Cl 12 (edicion maestra) lo ubica en **Cl 15-16**. Por eso: **Cl 15 = pasado continuo (A2 M12 Guide 1 punto 1, p.100)** · **Cl 16 = la interrupcion con when (punto 2, p.100)** · Cl 17 = la historia completa por capas (se conserva de la anterior). El modulo del libro (A2 M12, "Past Simple vs. Past Continuous") queda cubierto entero. **"Used to / would" (Cl 16 anterior) sale del tramo: no esta en el libro** (la guia anterior ya lo marcaba como gramatica no citada). Si coordinacion lo quiere en el nivel, hay que decidir donde. `SUPUESTO DE PLANEACION — verificar`.
 - **Que se conservo de la anterior:** la consolidacion por volumen de habla pasa a Cl 16 (maraton de narracion + "WHAT HAPPENED?"); el expediente de preguntas y la auditoria de Gramatica Cl 15 se conservan en Gramatica Cl 15, ahora con el pasado continuo como contenido nuevo.
 - **Virtud:** JUSTICIA, Cl 5 de 5 (Cl 11-15), calendario absoluto; **hoy CIERRA en Conversacion** con retrospectiva en el Bloque 4; Grammar Cl 15 la cierra en su pista y la Cl 16 abre FORTALEZA. Angulo de hoy: **el trabajo que nadie ve** (pintar el cuadro completo).

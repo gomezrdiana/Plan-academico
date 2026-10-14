@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 7/44 — CONV — HOJA DE RUTA
 
-**Sesion 7/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Sesion 7/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Modulo ancla:** A1 Book **M12 "How Often do You Play Soccer?" — Adverbs of Frequency (p.153-158)** — hoy solo USO ORAL
 **Focus (1 linea):** Contestar HOW OFTEN en voz alta — always, usually, often, sometimes, never — en su lugar exacto.
 **Virtud:** TEMPLANZA — Cl 2 de 5 de esta virtud (Cl 6-10 de cada pista)
@@ -8,23 +8,25 @@
 
 > **ENGLISH ONLY, sin excepcion.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos) y el PASE que te dejo el docente de Gramatica al cierre de la Cl 6. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos), el PASE que te entrega el docente de Gramatica a las 10:00 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
-> **HOY SOLO: los CINCO adverbios de frecuencia HABLADOS — always, usually, often, sometimes, never — en su posicion (justo antes del verbo principal; despues de BE), mas la pregunta "How often do you...?". La regla se USA, no se explica: la sella GRAMATICA Cl 7, hoy a las 10:00. NO TOCAR AUN: las expresiones de frecuencia con numero (every day, twice a week, once a month) al final de la frase — eso es Cl 8. Tampoco "rarely": no esta en el libro.**
+> **HOY SOLO: los CINCO adverbios de frecuencia HABLADOS — always, usually, often, sometimes, never — en su posicion (justo antes del verbo principal; despues de BE), mas la pregunta "How often do you...?". La regla se USA, no se explica: ya la sello GRAMATICA Cl 7, hoy a las 8:00. NO TOCAR AUN: las expresiones de frecuencia con numero (every day, twice a week, once a month) al final de la frase — eso es Cl 8. Tampoco "rarely": no esta en el libro.**
 
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate the future and the time prepositions, and open frequency orally.**
 
-1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Anota la columna **"llegada tarde"** (despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). No re-explicas la regla: se dijo una vez en la Cl 1. Hoy solo se registra.
-2. **Chequeo de portafolio, publico, con lista en mano (3').** Di: *"I am not asking who made the video. I am asking who SENT it."* Nombre por nombre marcas ENVIO / NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar en 5 segundos**, con el error real de SU video: *"'watches' came out 'watchs' — the -ez sound."* Al que no envio: *"You send it TODAY together with today's video. Two videos, same day. The list goes to coordination today."* Sin discutir; si preguntan por notas o por la garantia: *"That is coordination, not me."*
+**10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
+1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Anota la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). No re-explicas la regla: se dijo una vez en la Cl 1. Hoy solo se registra.
+2. **Chequeo de portafolio, publico, con lista en mano (3').** Los videos los VES ANTES de clase; el chequeo nombre por nombre es SOLO tuyo (Gramatica a las 8:00 solo recuerda el video). Di: *"I am not asking who made the video. I am asking who SENT it."* Nombre por nombre marcas ENVIO / NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar en 5 segundos**, con el error real de SU video: *"'watches' came out 'watchs' — the -ez sound."* Al que no envio: *"You send it TODAY together with today's video. Two videos, same day. The list goes to coordination today."* Sin discutir; si preguntan por notas o por la garantia: *"That is coordination, not me."*
 3. **Recuperacion espaciada (7', oral, DE PIE, en cadena, sin cuaderno).** **N-3 = Conv Cl 4** (will mas in / on / at). N-7 de esta pista todavia no existe, asi que el segundo bloque de disparadores sale del PASE que recibiste. Errores oidos al tablero **ANONIMOS**, coro 2x, y 1 minuto de re-produccion correcta:
    - "From Conv Cl 4: one real plan for next week — 'I WILL...'."
    - "IN, ON or AT: ___ the morning? ___ the first day? ___ nine o'clock?" (Cl 4)
    - "A promise plus a time: 'I will call you AT three ON the last day of the month.'" (Cl 4)
    - "Fix it out loud: 'I will to send it in the first day.'"
-   - Del PASE: los 3 errores literales que te dejo Gramatica por escrito al cierre de la Cl 6.
-4. **Lectura del PASE recibido, en voz alta (3').** Bridge: *"Last class you finished the present: the -s, its sound, and HAS. This morning you add ONE word and it changes the whole meaning — how OFTEN it happens."*
+   - Del PASE: los 3 errores literales que te entrego Gramatica por escrito hoy a las 10:00.
+4. **Lectura del PASE recibido, en voz alta (3').** Bridge: *"Last class you finished the present: the -s, its sound, and HAS. This morning, in Grammar, ONE word went on paper and it changes the whole meaning — how OFTEN it happens. Now you say it."*
 5. **ROUTINE ROUNDUP, de pie (2') — lo pide el PASE.** Antes de meter el adverbio: cada estudiante da 1 frase con *he / she* mas verbo-S **con el sonido correcto** (*"She watches the numbers every morning"*). Rapido, en cadena, sin correcciones largas.
 6. **Frase del Dia (4').** Escrita en el tablero ANTES de que entren. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en 1 linea: *"Not 'I work a lot' — 'I usually work from home.'"* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en oracion nueva propia.
 
@@ -40,7 +42,7 @@
 **Objective: by the end, everyone describes their week with the five adverbs in the correct position, and answers "How often...?" without hesitating.**
 
 1. **Avance de proyecto (2'): MY STORY, MY GOALS — piece 6 "The habit I always keep and the one I never break".** Di: *"Piece 6: two sentences — one habit you ALWAYS keep and one thing you NEVER do, because both are building your English. This goes into today's video."*
-2. **Tablero (3') — solo uso ORAL; la regla la formaliza Gramatica hoy a las 10:00:**
+2. **Tablero (3') — solo uso ORAL; la regla ya la formalizo Gramatica hoy a las 8:00:**
 ```
 HOW OFTEN?   always -> usually -> often -> sometimes -> never
 POSITION: right BEFORE the main verb.
@@ -72,13 +74,19 @@ Third person keeps its -s:  "she usually ARRIVES", never "she usually arrive".
 
 1. **Ticket de salida (5', sentados):** 3-5 frases sobre su semana con nombre en el papel — **3 adverbios distintos en posicion correcta** y **al menos 1 con BE**. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
 2. **Error paper (4').** Escribes 4-6 errores REALES del dia, **anonimos**. El grupo diagnostica que esta mal; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio con la forma corregida. En tu cuaderno, los mismos errores **CON nombre y cita literal** para el reporte de coordinacion. Doble protocolo, siempre.
-3. **Cierre (6').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have GRAMMAR Cl 7 with the other teacher: same level, same plan, a new Phrase of the Day. There the position gets locked on paper — before the main verb, after BE. Bring your notebook and send your video."* Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."* Nada mas.
+3. **Cierre (6').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with GRAMMAR and the other teacher: frequency with real numbers — every day, twice a week, once a month — at the END of the sentence, on paper. Bring your notebook. Send your video TODAY."* Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."* Nada mas.
 
 **Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
 HOMEWORK CONV CL 7 — ONE TASK ONLY: THE VIDEO.
 DUE: Cl 8, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
-TIME: 30-45 min (B1) — prepare, rehearse twice, then record. NOT fragmented.
+TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
+LISTEN FIRST (5-10 min, BEFORE you record):
+Search on YouTube or a podcast app: "my daily work routine always usually never".
+Pick a speaker whose accent is NOT your teacher's (Scottish, Irish,
+Indian, Australian, Nigerian, Texan, Jamaican...). Listen 2 minutes.
+Repeat 3 sentences out loud, imitating that accent.
+OPEN YOUR VIDEO with those 3 sentences. Then do your task.
 DAILY PORTFOLIO VIDEO — MINIMUM 3 MINUTES, video of yourself speaking,
 straight through, NO reading, NO script on camera.
 Content, in this order: (a) "How often I do five things at work" — use all
@@ -90,20 +98,21 @@ Close with the Phrase of the Day.
 Send it to the cohort WhatsApp group the SAME day. Label: B1-4H-CONV-7.
 Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
-> **La tarea de hoy es SOLO el video** — la tarea escrita de este contenido la asigna el profe de Gramatica hoy a las 10:00. No pidas ademas un papel: las tareas de las dos pistas NO se duplican.
+> **LISTEN FIRST es parte fija de la tarea desde hoy:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de mañana, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
+> **La tarea de hoy es SOLO el video** — la tarea escrita de este contenido ya la asigno el docente de Gramatica hoy a las 8:00. No pidas ademas un papel: las tareas de las dos pistas NO se duplican.
 > Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
-4. **PASE al PROFESOR DE GRAMATICA (Grammar Cl 7, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Gramatica. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
+4. **PASE al DOCENTE DE GRAMATICA (Grammar Cl 8, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv Cl 7 -> Grammar Cl 7 — del profe de CONVERSACION al de GRAMATICA
-Virtud: TEMPLANZA, Cl 2 de 5 de esta virtud (Cl 6-10 de cada pista). Ya quedo
-PRESENTADA en la Cl 6 de las dos pistas: NO la vuelvas a presentar, la aplicas.
+PASE Conv Cl 7 -> Grammar Cl 8 — del profe de CONVERSACION al de GRAMATICA
+Virtud: TEMPLANZA, Cl 2 de 5 (Cl 6-10 de cada pista); tu Cl 8 es Cl 3 de 5. Ya
+quedo PRESENTADA en la Cl 6 de las dos pistas: NO la presentes, la aplicas.
 La Frase del Dia NO se traspasa: estrenas la tuya.
 QUE SALIO ORAL HOY (A1 M12, p.153-158, capa 1):
 los cinco adverbios (always, usually, often, sometimes, never) en posicion
 antes del verbo principal y despues de BE · la pregunta "How often do you...?"
 · MY STORY piece 6 dicha en voz alta. Tambien corrio el Routine Roundup que
-pediste (tercera persona con el sonido correcto antes de meter el adverbio).
+pidio tu PASE (tercera persona con el sonido correcto antes del adverbio).
 3 ERRORES frescos de hoy (cita literal, SIN nombre aqui; nombres en mi reporte):
 1. ____________________  2. ____________________  3. ____________________
 Patrones orales oidos: (a) adverbio despues del verbo ("I check always") ·
@@ -117,15 +126,16 @@ you...?" en parejas · MY STORY piece 6 · chequeo de portafolio con lista
 (videos que NO llegaron: ______________).
 ESCENARIO DE SIMULACION QUE USE HOY — NO LO REPITAS: "WORKFLOW CHECK-IN"
 (coordinador de procesos revisando el flujo de trabajo del equipo, con el
-proceso dibujado en el tablero). Necesito escenario DISTINTO en tu clase.
-TU CLASE SELLA EN PAPEL: la posicion del adverbio (A1 M12, p.153-158) —
-inmediatamente antes del verbo principal, despues de BE, auxiliares en su
-posicion normal — y "How often" con do / does.
-TAREA ESCRITA: la asignas TU. Yo hoy deje SOLO el video.
+proceso dibujado en el tablero). Necesito escenario DISTINTO en tu Cl 8.
+TU CL 8 SELLA EN PAPEL las expresiones de frecuencia con numero (A1 M13 "We
+Play Hockey Twice a Week", p.165-169), al final de la frase. Los adverbios
+de hoy ya no son contenido nuevo.
+TAREA ESCRITA: la asignaste TU esta manana. Yo deje SOLO el video (abre con
+LISTEN FIRST).
 Firma Conv: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ Foto de inicio enviada a las 10:00
 
 [PAGEBREAK]
 
@@ -152,14 +162,14 @@ Ejemplos del libro:
 - **Zone walk atascado:** las dos zonas se vuelven dos manos — izquierda arriba = antes del verbo, derecha arriba = despues de BE; misma velocidad, sin caminar.
 - **La simulacion no arranca:** cadena de pie — tu das un adverbio, el estudiante lo usa en una frase verdadera de su trabajo y le pregunta *"How often do you...?"* al siguiente. Tu sigues fuera del rol.
 - **Grupo pequeno hoy:** 2 rotaciones largas y los minimos suben a 8 frases y 6 preguntas.
-- **Grupo incompleto a las 8:00:** arrancas igual, registras la llegada tarde, el que llega se integra al drill sin repetirle nada.
+- **Grupo incompleto a las 10:00:** arrancas igual, registras la llegada tarde, el que llega se integra al drill sin repetirle nada.
 - **Sobra tiempo:** "position duel" — dices una frase con el adverbio mal puesto y el grupo la corrige en coro; el que falla la dice bien y agrega una propia.
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/CONVERSACION/B1_Clase7_CONV_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), Conv 8:00-10:00 primero y Grammar 10:00-12:00 despues, el MISMO dia · PASE Conv -> Grammar en papel a las 10:00 y Grammar -> Conv para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion). Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
+- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/CONVERSACION/B1_Clase7_CONV_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), orden real de la hoja de arranque 13/10: Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (B1 + B2 juntos), el MISMO dia · PASE Grammar -> Conv en papel a las 10:00 y Conv -> Grammar al cerrar las 12:00 para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion, que hace el chequeo de portafolio y desde la Cl 3 abre con LISTEN FIRST) · foto de inicio a las 10:00 al grupo de docentes. Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
 - **Virtud:** TEMPLANZA, **Cl 2 de 5** (Cl 6-10 de cada pista, calendario absoluto por numero de clase de cada pista; no se desplaza por festivos ni cancelaciones). **Ya quedo presentada en la Cl 6 de las dos pistas: hoy se aplica, no se presenta.** Lleva igual su porque en una frase, como manda la doctrina.
 - **Recuperacion de esta pista:** N-3 = **Conv Cl 4** (will mas in / on / at). **N-7 no existe aun** (seria Conv Cl 0), asi que el segundo bloque de disparadores sale del PASE recibido. Sin mapa semanal de tickets todavia: NO citar tickets.
-- **Anti-duplicado:** el B3 de hoy (WORKFLOW CHECK-IN, revision interna del flujo de trabajo) queda escrito dentro del PASE con la instruccion explicita de que Gramatica Cl 7 use otro escenario; su B3 es una inspeccion externa, no un check-in interno.
+- **Anti-duplicado:** el B3 de hoy (WORKFLOW CHECK-IN, revision interna del flujo de trabajo) es distinto del de Gramatica Cl 7 (8:00, SAFETY INSPECTION: inspeccion externa, no un check-in interno), cuyo PASE prohibe repetirlo aqui. El PASE de hoy prohibe repetir WORKFLOW CHECK-IN en Gramatica Cl 8.
 - **Proyecto MY STORY, MY GOALS:** piece 6 dicha en clase y grabada en el video de hoy (el habito que siempre sostiene y lo que nunca hace). Se defiende en el panel de la Cl 43; midterm Cl 22. **El profe no comunica notas ni resultados.**
 - **Frontera:** la proxima Conv (Cl 8) abre las **expresiones de frecuencia con numero** (A1 M13 "We Play Hockey Twice a Week", p.165-169), al final de la frase. Cl 7 no las toca.

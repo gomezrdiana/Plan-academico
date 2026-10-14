@@ -1,8 +1,8 @@
 # B1 MASTERY — Cl 8/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 8/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 8/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** A1 Book **M13 "We Play Hockey Twice a Week — Expressions of Frequency" (Guia 1 p.167; Ejercicios 1 p.168; rango p.165-169)** — ancla de hoy; la regla SE SELLA EN PAPEL
-**Focus (1 linea):** Lo que esta manana contaron con la boca, ahora queda escrito: FRECUENCIA + A(N) + PERIODO al final de la frase, y sostenida con can / should / will / did.
+**Focus (1 linea):** Primero queda escrito, despues lo cuentan con la boca en Conversacion (10:00): FRECUENCIA + A(N) + PERIODO al final de la frase, y sostenida con can / should / will / did.
 **Virtud:** TEMPLANZA — Cl 3 de 5 de esta virtud (Cl 6-10 de cada pista)
 **Frase del Dia:** *"Temperance writes the number down: I should back it up every day, we can review it twice a week — the auxiliary changes, the count stays at the end."*
 
@@ -10,22 +10,24 @@
 
 > **DE PIE: Bloques 1-3 completos en o junto al tablero (~95 de 110 min ≈ 86%; piso 70%). Solo el Bloque 4 es sentado.** Movimiento SIEMPRE con contenido: nada de "stand up / sit down" suelto.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video) y el PASE que te entrega el docente de Conversacion a las 10:00. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 7 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 > **HOY SOLO: la forma escrita FRECUENCIA + A(N) + PERIODO · "every" + periodo SINGULAR · la posicion al final de la frase · la expresion sostenida con VARIOS AUXILIARES (can / should / will / did), que es la habilidad objetiva del modulo · Ejercicios 1 p.168 dictados al papel del estudiante. NO TOCAR AUN: nada de posesion (my / the boss's office / the cover of the report) — eso es de Cl 9 — ni pronombres objeto, ni frecuencia en pasado continuo.**
 
-## BLOQUE 1 — RECUPERACION DE LO ORAL DE ESTA MANANA (20') — DE PIE
+## BLOQUE 1 — RECUPERACION DE LO ORAL DE AYER (20') — DE PIE
 
-**Objective: bring this morning's counted week back into the room, and hear exactly where the shape broke.**
+**Objective: bring yesterday's spoken week back into the room, and hear exactly where the shape broke.**
 
-1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
-2. **Chequeo de portafolio, con la lista del PASE en mano (3').** Ya viste los videos antes de entrar. La lista ENVIO / NO ENVIO de hoy ya la marco Conversacion a las 8:00 y viene en el PASE: NO la repites nombre por nombre. Lees en voz alta solo los NO ENVIO (si alguno lo mando en el cambio de bloque, lo pasas a ENVIO) y a 2-3 estudiantes que Conversacion no corrigio les dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'every days' — 'every DAY', singular"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* Sin discusion.
-3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 5** (do/does y la -s de tercera persona) · N-7 = **Grammar Cl 1** (didn't vs haven't yet, pregunta con short answer). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
+**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
+1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, en su Bloque 1 a las 10:00, con su propia lista y la mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."* Los 2-3 minutos que libera este punto pasan a la recuperacion espaciada.
+3. **Recuperacion espaciada DE TU PISTA (8', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 5** (do/does y la -s de tercera persona) · N-7 = **Grammar Cl 1** (didn't vs haven't yet, pregunta con short answer). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
    - "Third person, two true sentences: 'She checks the numbers. He starts at 8.'" (Cl 5)
    - "Fix it out loud: 'He don't work Sundays.'" (Cl 5)
    - "One negative with 'haven't... yet' about this week." (Cl 1)
    - "Short answer only: 'Have you finished the report?' — two words." (Cl 1)
-4. **Lectura del PASE recibido, en voz alta (3').** Lees los 3 errores literales del papel: *"These three came out of your mouths this morning. Now they go on paper and they stay fixed."*
+4. **Lectura del PASE recibido, en voz alta (3').** Lees los 3 errores literales del papel: *"These three came out of your mouths yesterday. Now they go on paper and they stay fixed."*
 5. **Frase del Dia (2').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea: *"Change the auxiliary all you want — the number still closes the sentence."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
 > **[VIRTUD] TEMPLANZA — Cl 3 de 5. Tablero: "TEMPERANCE — DAY 3 OF 5".** (5', el ritual completo)
@@ -93,7 +95,7 @@ frequency, in a FULL sentence, expression at the END.
 
 1. **Ticket de salida (4').** 3-5 frases con expresion de frecuencia AL FINAL — al menos 1 con "every" + singular, 1 con numero + a + periodo y 1 con auxiliar (should / can / will) — con nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
 2. **Error paper al tablero, sin nombres (4').** Escribes 4-6 errores REALES del dia, anonimos. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio con la forma corregida. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
-3. **Cierre (3').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with CONVERSATION Cl 9 and the other teacher, and you TALK: whose it is — my desk, the manager's office, the cover of the report. Bring your paper and send your video."*
+3. **Cierre (3').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have CONVERSATION with the other teacher: same module, a new Phrase of the Day. You will count your real week out loud — every day, twice a week, once a month. Your video is assigned there."*
 
 **Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
@@ -105,17 +107,17 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     ALL of them with the expression at the END. Four of the twelve must
     carry an auxiliary: one CAN, one SHOULD, one WILL, one DID.
     Underline the expression. Circle the auxiliary.
-    Bring the notebook to Conversation Cl 9.
+    Bring the notebook to the next Grammar class.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
-    one assigned in CONVERSATION at 8:00. Send it TODAY to the cohort
+    one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigno Conversacion a las 8:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
 
-4. **PASE al docente de CONVERSACION (Conv Cl 9, a las 8:00 de la proxima clase) — se lo dejas HOY antes de salir**, en papel en la carpeta del cohorte o por mensaje escrito directo por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo antes de salir:
+4. **PASE al DOCENTE DE CONVERSACION (Conv Cl 8, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Grammar Cl 8 -> Conv Cl 9 — del docente de GRAMATICA al de CONVERSACION
-Virtud: TEMPLANZA, Cl 3 de 5 (Cl 6-10). La proxima Conv Cl 9 es Cl 4 de 5.
+PASE Grammar Cl 8 -> Conv Cl 8 — del docente de GRAMATICA al de CONVERSACION
+Virtud: TEMPLANZA, Cl 3 de 5 (Cl 6-10). Tu Conv Cl 8 tambien es Cl 3 de 5.
 QUE QUEDO SELLADO HOY EN PAPEL (A1 M13, Guia 1 p.167 / Ejercicios 1 p.168):
 FRECUENCIA + A(N) + PERIODO · "every" + periodo singular · posicion al final
 de la frase · la expresion sostenida con can / should / will / did ·
@@ -126,15 +128,18 @@ QUE NO ALCANZO del modulo: _____________________________________________
 Conteo de la simulacion (every / numero / auxiliares): ____ / ____ / ____
 YA QUEDO HECHO HOY, NO LO REPITAS: la tabla de la Guia 1 en el tablero ·
 Ejercicios 1 p.168 · el drill de pregunta "How often + auxiliar" · la
-simulacion NEW TENANT ORIENTATION (no repitas ese titulo ni su
-guion) · chequeo de portafolio (videos que NO llegaron: ____________).
+simulacion NEW TENANT ORIENTATION (no repitas ese titulo ni su guion).
+CONV CL 8 HOY: las mismas expresiones en uso oral, al final de la frase, mas
+el contraste weekday / weekend. El marco quedo sellado en papel a las 8:00:
+apoyate en eso, no lo vuelvas a explicar. Arranca con un "Rhythm Roundup":
+cada uno 1 frase con "every day" o "twice a week" al final.
 TAREA QUE DEJE: 12 lineas escritas, due Cl 9 antes de las 7:00 PM. El video
-del dia fue el tuyo. NO pidas otro papel encima: las pistas no duplican tarea.
-LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el contenido de la Cl 9.
+del dia lo asignas TU (abre con LISTEN FIRST). NO pidas otro papel encima.
+LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo modulo.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~86% DE PIE confirmado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~86% DE PIE confirmado ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -162,16 +167,16 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - **Zone walk atascado:** las tres zonas se vuelven tres señas — mano izquierda = every, mano derecha = number + a, dos manos arriba = WRONG; misma velocidad, sin caminar.
 - **Dictado muy lento:** dictas 4 items en vez de 7 (elige 1, 3, 5 y 7 para cubrir presente, can, should y pasado) y los otros quedan de tarea; NO recortes la correccion oral en cadena.
 - **Simulacion que no arranca:** escribes en el tablero 5 servicios del edificio con su frecuencia (*lobby / every day · elevator / once a month · recycling / twice a week · alarm / once a year · windows / every month*) y el administrador los dice completos mientras el inquilino pregunta con un auxiliar distinto cada vez. Tu sigues fuera del rol.
-- **Grupo incompleto a las 10:00:** arrancas igual, registras la llegada tarde, el que llega se integra al drill sin repetirle nada.
+- **Grupo incompleto a las 8:00:** arrancas igual, registras la llegada tarde, el que llega se integra al drill sin repetirle nada.
 - **Sobra tiempo:** "raise the standard" — das una frecuencia baja ("once a year") y el grupo la sube con un auxiliar (*"we should do it four times a year"*).
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/GRAMATICA/B1_Clase8_GRAMMAR_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), Conv 8:00-10:00 primero y Grammar 10:00-12:00 despues, el MISMO dia · PASE Conv -> Grammar en papel a las 10:00 y Grammar -> Conv para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion). Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
+- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/GRAMATICA/B1_Clase8_GRAMMAR_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), orden real de la hoja de arranque 13/10: Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia · PASE Grammar -> Conv en papel a las 10:00 y Conv -> Grammar al cerrar las 12:00 para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion, que hace el chequeo de portafolio; Gramatica solo lo recuerda) · foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
 - **B3 REDISENADO POR ANTI-DUPLICADO.** La guia 4H anterior de Grammar Cl 8 usaba **"SCHEDULE BRIEFING"** (planear la cadencia de un proyecto con el jefe), el mismo guion que Conv Cl 8 (**"RECURRING-MEETING SCHEDULING"**: dos colegas acuerdan cada cuanto pasan las cosas). Hoy es **NEW TENANT ORIENTATION**: cambia el registro (un cliente externo que paga por los servicios, no un acuerdo entre pares), cambian los roles (administrador del edificio y jefe administrativo del inquilino), cambia la meta (saber y cuestionar con que frecuencia se presta cada servicio) y cambia la carga gramatical (la expresion obligada con **do / did / can / should**, que es la habilidad objetiva del modulo, mas el cuestionamiento del numero). Observers con tres columnas, incluida la del auxiliar. **Revision previa:** la version anterior (auditoria externa de la bitacora de seguridad y mantenimiento) repetia el escenario de Grammar Cl 7 (SAFETY INSPECTION, inspector externo en el sitio); se cambio para que los escenarios del tramo sean distintos.
-- **Tarea por pista, sin duplicar:** Gramatica deja la tarea ESCRITA (12 lineas con auxiliares) y recuerda que el video diario es UNO solo: el que Conversacion dejo esta manana (No. 8). **Frente a la guia 4H anterior:** se agregan Ejercicios 1 p.168 (dictado y corregido) y el eje de "varios auxiliares", que es la habilidad objetiva literal del modulo.
-- **Recuperacion espaciada por pista:** N-3 = **Grammar Cl 5** (do/does, tercera persona -s) · N-7 = **Grammar Cl 1** (didn't vs haven't yet, short answer). Sin mapa semanal de tickets todavia — NO se citan tickets.
-- **Virtud:** TEMPLANZA, Cl 3 de 5 (Cl 6-10 de cada pista), calendario absoluto. Conv Cl 9 es Cl 4 de 5; Cl 10 la cierra.
+- **Tarea por pista, sin duplicar:** Gramatica deja la tarea ESCRITA (12 lineas con auxiliares) y recuerda que el video diario es UNO solo: el que asigna Conversacion hoy a las 10:00 (No. 8, abre con LISTEN FIRST). **Frente a la guia 4H anterior:** se agregan Ejercicios 1 p.168 (dictado y corregido) y el eje de "varios auxiliares", que es la habilidad objetiva literal del modulo.
+- **Recuperacion espaciada por pista:** N-3 = **Grammar Cl 5** (do/does, tercera persona -s) · N-7 = **Grammar Cl 1** (didn't vs haven't yet, short answer), mas los 3 errores del PASE de Conversacion Cl 7 (cierre del dia anterior). Sin mapa semanal de tickets todavia — NO se citan tickets.
+- **Virtud:** TEMPLANZA, Cl 3 de 5 (Cl 6-10 de cada pista), calendario absoluto. Cl 9 es Cl 4 de 5; Cl 10 la cierra.
 - **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — Gramatica sella la herramienta y las 12 lineas de la tarea son materia prima directa de la pieza que arma Conversacion en Cl 9. Se anota para que no se lea como pieza perdida.
 - **Lo que viene:** Conv Cl 9 abre posesion (A1 M15 p.187-196 + M30 p.333-336). **Cl 10 es el hito de ENTREVISTA SIMULADA** y Grammar Cl 10 hace su seguimiento escrito; se anuncia a los estudiantes en el cierre de Conv Cl 9, no antes.
 - `SUPUESTO DE PLANEACION — verificar`: **paginacion.** Guia 1 de M13 = p.167 y Ejemplos / Ejercicios 1 = p.168 segun los pies de pagina del libro digital; la guia 4H anterior citaba el rango "p.165-169" y aqui se mantiene el rango.

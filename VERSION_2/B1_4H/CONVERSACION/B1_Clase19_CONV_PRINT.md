@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 19/44 — CONV — HOJA DE RUTA
 
-**Sesion 19/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Sesion 19/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Modulo:** CLINICA ORAL del sistema del pasado, sin regla nueva — consolida A2 Book **M12 "I Was Playing when My Mom Called" (p.99-102)** y Libro B1 **M9 Guide 2 "The Past Perfect" (p.103-104)**; HOY SOLO USO ORAL
 **Focus (1 linea):** Las mismas historias, contadas otra vez — ahora limpias. Los errores reales de este tramo se arreglan en voz alta, uno por uno.
 **Virtud:** FORTALEZA — Cl 4 de 5 de esta virtud (Cl 16-20 de cada pista)
@@ -8,7 +8,7 @@
 
 > **ENGLISH ONLY de principio a fin.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges. Los rituales ya se presentaron en la Cl 1: hoy solo se APLICAN, no se explican.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video), el PASE que te dejo el docente de Gramatica al cierre de la Cl 18 y **tus error papers y tu cuaderno de Cl 15-18: de ahi sacas 6 lineas reales ANTES de clase**. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, celular para la foto de inicio, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video), el PASE que te entrega el docente de Gramatica a las 10:00 (Grammar Cl 19, de esta misma manana) y **tus error papers y tu cuaderno de Cl 15-18: de ahi sacas 6 lineas reales ANTES de clase**. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 > **HOY SOLO: re-narrar las historias del tramo corrigiendo en voz alta — pasado simple regular e irregular con did / didn't, was / were + -ing, la interrupcion con when, HAD + participio y el orden con las palabras de tiempo. Sin estructura nueva. La regla se USA, no se explica: corregir = decir la linea correcta y repetirla. NO TOCAR AUN: el diagnostico por forma en papel (eso es de GRAMATICA Cl 19) · el present perfect con have / has (Cl 21-23; hoy solo se OYE en el puente del cierre).**
 
@@ -18,7 +18,9 @@
 
 **Objective: every voice is awake, every video is accounted for, and the room knows today nothing is new — today we fix.**
 
-1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
+**10:00 EN PUNTO: foto del tablero con la Frase del Dia ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
+1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
 2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar. Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'I had prepare' — 'I had prepareD'"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* En la misma pasada marcas quien tiene **el cuaderno con las 12 frases de Gramatica Cl 18 abierto sobre la mesa** (SI / NO). No lo lees ni lo corriges: solo se registra.
 3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Conv Cl 16** (la interrupcion hablada: was / were + -ing + WHEN + pasado simple) · N-7 = **Conv Cl 12** (pasado irregular de memoria y la trampa READ). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
    - "The moment your plan was cut: 'I was ___ing WHEN ___.' One true line." (Cl 16)
@@ -72,14 +74,20 @@ For each line:  SAY IT RIGHT -> CHORUS 2x -> ONE NEW TRUE SENTENCE with it
 2. **Error paper (3').** Escribes 4-6 errores REALES de hoy en el papel fisico ANONIMO y los pasas al tablero sin nombres. El grupo diagnostica; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio corregido. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
 3. **PUENTE (2', solo escuchar — NO se practica).** Dices dos lineas: *"I had finished the report before she called."* / *"I have finished the report."* Preguntas solo: *"Which one is over and gone? Which one still touches today?"* — 2 respuestas, sin correccion. Cierras: *"That second one is a door we open in Cl 21. Not today."* No va al ticket ni a la tarea.
 4. **Cierre de FORTALEZA, dia 4 (1').** *"Which line will never come out wrong again?"* — 2 respuestas rapidas. *"Day four of fortitude."*
-5. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have GRAMMAR Cl 19 with the other teacher: the same errors, sealed on paper, form by form. Bring your paper and send your video."*
+5. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with GRAMMAR Cl 20 and the other teacher: the five forms labeled on paper. Then, at ten, your whole story in front of the room — and it is recorded. Bring your notebook. Send your video TODAY."*
 
 **Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
 HOMEWORK CONVERSATION CL 19 — ONE TASK ONLY: THE VIDEO.
 DUE: Cl 20, BEFORE 7:00 PM — that is, TODAY before 7:00 PM.
-NOT NEGOTIABLE. TIME: 30-45 min (B1) — prepare, rehearse twice,
-then record. NOT fragmented.
+NOT NEGOTIABLE.
+TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
+LISTEN FIRST (5-10 min, BEFORE you record):
+Search on YouTube or a podcast app: "walk me through what happened at work".
+Pick a speaker whose accent is NOT your teacher's (Scottish, Irish,
+Indian, Australian, Nigerian, Texan, Jamaican...). Listen 2 minutes.
+Repeat 3 sentences out loud, imitating that accent.
+OPEN YOUR VIDEO with those 3 sentences. Then do your task.
 DAILY PORTFOLIO VIDEO No. 19 — MINIMUM 3 MINUTES, video of yourself
 speaking, straight through, NO reading, NO script on camera.
 Content: "MY STORY, CLEAN" — the story you told today, complete: the
@@ -90,11 +98,14 @@ Close with the Phrase of the Day.
 Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-19.
 Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
-> **La tarea de hoy es SOLO el video** — la tarea escrita la asigna el docente de Gramatica hoy a las 10:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
-6. **PASE al docente de GRAMATICA (Grammar Cl 19, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Gramatica. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
+> **LISTEN FIRST es parte fija de la tarea desde hoy:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de manana, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
+
+> **La tarea de hoy es SOLO el video** — la tarea escrita ya la asigno el docente de Gramatica hoy a las 8:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
+6. **PASE al docente de GRAMATICA (Grammar Cl 20, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por mensaje escrito directo por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv Cl 19 -> Grammar Cl 19 — del docente de CONVERSACION al de GRAMATICA
+PASE Conv Cl 19 -> Grammar Cl 20 — del docente de CONVERSACION al de GRAMATICA
 Virtud: FORTALEZA, Cl 4 de 5 (Cl 16-20). Angulo de hoy en mi pista: oir
 el propio error en publico y decirlo bien. Tu guia trae el tuyo.
 HOY FUE CLINICA ORAL: re-narracion limpia del tramo Cl 15-18, sin regla nueva.
@@ -102,19 +113,19 @@ Las 6 lineas reparadas hoy (textuales, SIN nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 4. ______________________  5. ______________________  6. ______________________
 Cuales VOLVIERON a aparecer en la simulacion: _______________________________
-QUE QUEDA PARA TI: cerrar EN PAPEL las que volvieron, diagnosticadas por forma.
+QUE QUEDA PARA TI (Cl 20): las que volvieron, en papel, dentro de las 5 formas.
 YA QUEDO HECHO HOY, NO LO REPITAS: el turno de enseñanza entre pares · la
-re-narracion con manos levantadas · el puente "had / have" (solo oido) ·
-chequeo de portafolio (videos que NO llegaron: ____________).
+re-narracion con manos levantadas · el puente "had / have" (solo oido).
 SIMULACION QUE USE HOY — NO LA REPITAS: "PERFORMANCE CHECK-IN — WALK ME
 THROUGH WHAT HAPPENED" (empleado y supervisor). Ni titulo, ni guion, ni
 otra reunion uno a uno: escenario profesional DISTINTO.
-TAREA ESCRITA: la asignas TU. Yo hoy deje SOLO el video No. 19.
+TAREA: la escrita la dejaste tu esta manana; yo deje SOLO el video No. 19
+(abre con las 3 frases del LISTEN FIRST).
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya.
 Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Cuadernos de Grammar Cl 18 marcados SI / NO ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ Las 6 lineas copiadas en tu reporte
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Cuadernos de Grammar Cl 18 marcados SI / NO ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ **PASE Conv -> Grammar Cl 20 dejado al cerrar a las 12:00** ☐ PASE Grammar -> Conv de la Cl 19 (recibido a las 10:00) leido en el Bloque 1 ☐ Las 6 lineas copiadas en tu reporte ☐ Foto de inicio enviada a las 10:00
 
 [PAGEBREAK]
 
@@ -129,12 +140,12 @@ Firma Conversacion: ______________  Recibido Gramatica: ______________
 - **Una linea consume mas de 3 min:** la dejas en el tablero con la correcta al lado y sigues.
 - **Simulacion con menos de 4 estudiantes:** 2 rotaciones largas y cada observer caza 3 lineas.
 - **El que cuenta se bloquea al ser detenido:** le dices la linea correcta y retoma desde ahi.
-- **Grupo incompleto a las 8:00:** arrancas igual, registras la llegada tarde; el que llega entra a la re-narracion sin que le repitas nada.
-- **Si te piden la regla:** *"Grammar explains it at ten. Here we say it right."* + repites la linea correcta y sigues.
+- **Grupo incompleto a las 10:00:** arrancas igual, registras la llegada tarde; el que llega entra a la re-narracion sin que le repitas nada.
+- **Si te piden la regla:** *"Grammar sealed it this morning. Here we say it right."* + repites la linea correcta y sigues.
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-- **Edicion unica manana/noche:** reemplaza la guia 4H anterior de Cl 19 con el formato de la edicion nueva: 110 min (B1 20' + B2 40' + B3 35' + B4 15'), PASE Conv -> Grammar a las 10:00 y Grammar -> Conv para la clase siguiente, due "Cl N+1, BEFORE 7:00 PM", ticket antes del error paper, UN solo video diario. Contenido conservado: clinica oral con 6 lineas reales, re-narracion con manos levantadas, puente auditivo had / have, Frase del Dia.
+- **Edicion unica manana/noche:** reemplaza la guia 4H anterior de Cl 19 con el formato de la edicion nueva: 110 min (B1 20' + B2 40' + B3 35' + B4 15'), Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (orden de la hoja de arranque 13/10), PASE en papel Grammar -> Conv a las 10:00 y Conv -> Grammar al cerrar a las 12:00 para la manana siguiente; Conv hace el chequeo de portafolio, due "Cl N+1, BEFORE 7:00 PM", ticket antes del error paper, UN solo video diario. Contenido conservado: clinica oral con 6 lineas reales, re-narracion con manos levantadas, puente auditivo had / have, Frase del Dia.
 - **Frente a la guia 4H anterior:** (1) el B2 abre con el **turno de enseñanza entre pares** asignado en Cl 18 y se ordena como ciclo con meta (meta en 1 linea -> preparacion -> ejecucion -> producto). (2) El B3 anterior "TELL IT AGAIN, CLEAN" no tenia escenario: ahora es una **reunion uno a uno con el supervisor**, profesional y realista, con la misma mecanica de observers que cazan las 6 lineas. (3) La reescritura en papel de la historia sale de Conv (la escritura es de Gramatica); queda solo el video No. 19 de 3 min.
 - **Anti-fabricacion (regla dura):** las 6 lineas salen del registro real del docente y del PASE. La guia da el protocolo y el indice de tipos, nunca errores atribuidos al grupo.
 - **Anti-duplicado:** Conv usa **PERFORMANCE CHECK-IN**; Grammar Cl 19 usa **PROJECT HANDOVER** (entregar un proyecto a quien llega). El PASE prohibe repetir.

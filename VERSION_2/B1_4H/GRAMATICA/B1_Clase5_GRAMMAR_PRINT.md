@@ -1,8 +1,8 @@
 # B1 MASTERY — Cl 5/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 5/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 5/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo ancla:** A1 Book **M8 "Where Do We Eat?" (p.99-101, Simple Present do/does)** + **M9 "He Eats in the Restaurant" (p.111-113, 3a persona -s)** — hoy la regla SE SELLA EN PAPEL
-**Focus (1 linea):** Lo que esta manana les salio de la boca, ahora queda escrito: do/does, el negativo con verbo base, la pregunta con short answer, y la ortografia del -s.
+**Focus (1 linea):** Antes de que Conversacion lo ponga en uso a las 10:00, queda escrito: do/does, el negativo con verbo base, la pregunta con short answer, y la ortografia del -s.
 **Virtud:** PRUDENCIA — Cl 5 de 5 de esta virtud (Cl 1-5 de cada pista) — CIERRA el bloque
 **Frase del Dia:** *"A prudent person keeps a steady habit: she wakes early, she studies daily, she never skips."*
 
@@ -10,23 +10,25 @@
 
 > **DE PIE: Bloques 1-3 completos en o junto al tablero (~95 de 110 min ≈ 86%; piso 70%). Solo el Bloque 4 es sentado.** Movimiento SIEMPRE con contenido: nada de "stand up / sit down" suelto.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos) y el PASE que te entrega el profe de Conversacion a las 10:00. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el profe de Conversacion al cierre de la Cl 4 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 > **HOY SOLO: la tabla do/does (afirmativo, negativo, pregunta y short answer) · la -s de tercera persona como EXCEPCION del afirmativo · el negativo y la pregunta con verbo BASE ("he doesn't WORK", "Does he WORK?") · la ortografia del -s (works / watches / washes / fixes / studies). NO TOCAR AUN: have -> HAS ni los tres sonidos de la -s (-s / -z / -ez) — eso es Cl 6. Nada de adverbios de frecuencia: eso es Cl 7.**
 
-## BLOQUE 1 — RECUPERACION DE LO ORAL DE ESTA MANANA (20') — DE PIE
+## BLOQUE 1 — RECUPERACION DE LO ORAL DE AYER (20') — DE PIE
 
-**Objective: bring this morning's spoken routines back into the room, and hear exactly where the form breaks.**
+**Objective: bring yesterday's spoken English back into the room, and hear exactly where the form breaks.**
 
-1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Anota la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). No re-explicas la regla ni las condiciones de la garantia: eso se dijo una vez en la Cl 1. Hoy solo se registra.
-2. **Chequeo de portafolio, publico, con la lista del PASE en mano (3').** La lista ENVIO / NO ENVIO de hoy ya la marco Conversacion a las 8:00 y viene en el PASE: NO la repites nombre por nombre. Lees en voz alta solo los NO ENVIO (si alguno lo mando en el cambio de bloque, lo pasas a ENVIO) y a 2-3 estudiantes que Conversacion no corrigio les dices en voz alta **UNA cosa por mejorar en 5 segundos**, con el error real de SU video (ya los viste antes de clase): *"'he study' — the -s fell off twice."* Al que no envio: *"You send it TODAY together with today's video. Two videos, same day. The list goes to coordination today."* Sin discutir; si preguntan por notas o por la garantia: *"That is coordination, not me."*
-3. **Recuperacion espaciada (7', oral, DE PIE, en cadena, sin cuaderno).** **N-3 = Grammar Cl 2.** N-7 de esta pista todavia no existe, asi que el segundo bloque de disparadores sale del PASE que recibiste. Errores oidos al tablero **ANONIMOS**, coro 2x, y 1 minuto de re-produccion correcta:
+**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
+1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Anota la columna **"llegada tarde"** (despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). No re-explicas la regla ni las condiciones de la garantia: eso se dijo una vez en la Cl 1. Hoy solo se registra.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, en su Bloque 1 a las 10:00, con su propia lista y la mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues. Feedback si; de notas, resultados o garantia no hablas tu: *"That is coordination."* Los 2-3 minutos que libera este punto pasan a la recuperacion activa.
+3. **Recuperacion espaciada (9', oral, DE PIE, en cadena, sin cuaderno).** **N-3 = Grammar Cl 2.** N-7 de esta pista todavia no existe, asi que el segundo bloque de disparadores sale del PASE que recibiste. Errores oidos al tablero **ANONIMOS**, coro 2x, y 1 minuto de re-produccion correcta:
    - "From Grammar Cl 2: one true line with 'I haven't ___ yet' — and one with 'I didn't ___ last year'."
    - "Ask and answer SHORT: 'Have you ___?' -> 'Yes, I have / No, I haven't.'"
    - "Fix it out loud: 'He don't work on the weekend.'"
    - "Fix it out loud: 'She watch TV every night.'"
-   - Del PASE: los 3 errores literales que te entrego Conversacion por escrito a las 10:00.
-4. **Lectura del PASE recibido, en voz alta (3').** *"These three sentences came out of your mouths this morning. Now we seal them on paper."* Cada estudiante devuelve una frase de la rutina de un tercero.
+   - Del PASE: los 3 errores literales que te dejo Conversacion por escrito al cierre de la Cl 4.
+4. **Lectura del PASE recibido, en voz alta (3').** *"These three sentences came out of your mouths yesterday in Conversation. Now we seal them on paper."* Cada estudiante devuelve una frase de la rutina de un tercero.
 5. **Frase del Dia (6' incluyendo el VATS).** Escrita en el tablero ANTES de que entren. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en 1 linea: *"Three verbs, three -s. The habit is what makes it prudent."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en oracion nueva propia.
 
 > **[VATS] RITUAL DE VIRTUD (5-6', dentro del bloque, DE PIE — no se recorta).**
@@ -105,7 +107,7 @@ WRITE IT — one line each, the form in brackets:
 
 1. **Ticket de salida (5'):** 3-5 frases de rutina con nombre en el papel — minimo **3 en tercera persona con -s correcta** + 1 negativa (*doesn't* mas base) + 1 pregunta (*"Does...?"*). Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
 2. **Error paper (4').** Escribes 4-6 errores REALES del dia, **anonimos**. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio con la forma corregida. En tu cuaderno, los mismos errores **CON nombre y cita literal** para el reporte de coordinacion. Doble protocolo, siempre.
-3. **Cierre (6').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with CONVERSATION Cl 6 and the other teacher, and you TALK. Same level, same plan, two voices — and a new virtue opens. Bring your notebook and send your video."* Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."* Nada mas.
+3. **Cierre (6').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have CONVERSATION Cl 5 with the other teacher: same modules, a new Phrase of the Day. You will talk about your real routine and the routine of someone you admire — with the -s in place every time. Your video is assigned there."* Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."* Nada mas.
 
 **Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
@@ -118,18 +120,18 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     3 negative (doesn't + BASE verb),
     3 questions (Does ... ?) each with its short answer.
     Circle every -s. Underline every BASE verb after don't / doesn't.
-    Bring the notebook to the next class.
+    Bring the notebook to the next Grammar class.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
-    one assigned in CONVERSATION at 8:00. Send it TODAY to the cohort
+    one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigno Conversacion a las 8:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
 
-4. **PASE al PROFESOR DE CONVERSACION (Conv Cl 6, a las 8:00 de la proxima clase) — se lo dejas HOY antes de salir**, en papel en la carpeta del cohorte o por mensaje escrito directo. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo antes de salir:
+4. **PASE al PROFESOR DE CONVERSACION (Conv Cl 5, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Grammar Cl 5 -> Conv Cl 6 — del profe de GRAMATICA al de CONVERSACION
-Virtud: hoy cerro PRUDENCIA (Cl 5 de 5). TU CLASE ABRE TEMPLANZA (Conv Cl 6 =
-Cl 1 de 5): disciplina, manejo del tiempo, paciencia con la repeticion.
+PASE Grammar Cl 5 -> Conv Cl 5 — del profe de GRAMATICA al de CONVERSACION
+Virtud: PRUDENCIA, Cl 5 de 5 — tu clase de hoy tambien la CIERRA. Conv Cl 6
+abre TEMPLANZA: disciplina, manejo del tiempo, paciencia con la repeticion.
 La Frase del Dia NO se traspasa: estrenas la tuya.
 QUE QUEDO SELLADO HOY EN PAPEL (A1 M8 p.99-101 + M9 p.111-113):
 la tabla do/does completa · el negativo doesn't mas verbo BASE · la pregunta
@@ -141,19 +143,19 @@ QUE NO ALCANZO: _________________________________________________________
 Conteo de la simulacion (+S OK / BASE OK / BROKEN): ____ / ____ / ____
 YA QUEDO HECHO HOY, NO LO REPITAS: la tabla do/does en el tablero (si alguien
 la pide: "it is in your notebook — today we use it, we don't explain it") ·
-la ortografia del -s · el dictado de 10 items · el drill de las tres formas ·
-chequeo de portafolio con lista (videos que NO llegaron: ______________).
+la ortografia del -s · el dictado de 10 items · el drill de las tres formas.
 ESCENARIO DE SIMULACION QUE USE HOY — NO LO REPITAS: "FRONT DESK — WHO
 HANDLES THIS?" (visitante externo en recepcion, sin señalar: solo palabras).
-TU CLASE: las tres formas del presente HABLADAS bajo carga (he works /
-she doesn't work / do you work?), y sale HAS en boca de ellos sin explicarlo:
-lo formaliza Gramatica Cl 6.
-TAREA ESCRITA: la deje YO (12 lineas). El video del dia fue el tuyo. No pidas
+CONV CL 5 HOY: la rutina en presente AFIRMATIVO, propia y de un tercero, con
+la -s y los marcadores de tiempo (MY STORY piece 4). El marco quedo sellado
+en papel a las 8:00: apoyate en eso, no lo vuelvas a explicar.
+TAREA ESCRITA: la deje YO (12 lineas). El video del dia lo asignas TU (abre
+con LISTEN FIRST). No pidas
 otro papel encima: las pistas no duplican tarea.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~86% DE PIE confirmado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~86% DE PIE confirmado ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -178,7 +180,7 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/GRAMATICA/B1_Clase5_GRAMMAR_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), Conv 8:00-10:00 primero y Grammar 10:00-12:00 despues, el MISMO dia · PASE Conv -> Grammar en papel a las 10:00 y Grammar -> Conv para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion). Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
+- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/GRAMATICA/B1_Clase5_GRAMMAR_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), orden real de la hoja de arranque 13/10: Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia · PASE Grammar -> Conv en papel a las 10:00 y Conv -> Grammar al cerrar las 12:00 para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion, que hace el chequeo de portafolio; Gramatica solo lo recuerda) · foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
 - **B3 REDISENADO POR ANTI-DUPLICADO (dos veces).** (1) La guia 4H anterior usaba **"TEAM ROUTINE BRIEFING"**, practicamente la misma escena que el B3 de Conv Cl 5 (**"TEAM SCHEDULE COORDINATION"**: alguien describe al equipo y otro pregunta). (2) Una primera version era una **llamada de espaldas**, el mismo formato que Grammar Cl 4 (SERVICE SCHEDULING CALL), que dicta la misma docente en la clase anterior de su pista. **Hoy es FRONT DESK — WHO HANDLES THIS?:** visitante externo en la recepcion de una empresa, cara a cara, con el recepcionista sin poder señalar ni llamar a nadie. Frente a Conv Cl 5 cambia el registro (cliente externo, no coordinacion interna), los roles (visitante y recepcionista) y la carga (la escena no avanza sin negativo, pregunta y short answer corto; Conv trabajo el afirmativo). Frente a Grammar Cl 4 deja de ser llamada y cambia la meta (encontrar al responsable de un caso, no agendar una hora). Ficha de observers de tres columnas con BASE (Conv conto -s OK / -s MISSING).
 - **Virtud:** PRUDENCIA, **Cl 5 de 5 — cierra el bloque**. Calendario absoluto por numero de clase de cada pista: **Cl 6 de cada pista abre TEMPLANZA**. No se desplaza por festivos ni cancelaciones. El PASE de hoy se lo avisa por escrito al profe de Conversacion.
 - **Recuperacion de esta pista:** N-3 = **Grammar Cl 2**. **N-7 no existe aun** (seria Grammar Cl -2), asi que el segundo bloque de disparadores sale del PASE recibido. Sin mapa semanal de tickets todavia: NO citar tickets.

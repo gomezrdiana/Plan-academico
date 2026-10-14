@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 11/44 — CONV — HOJA DE RUTA
 
-**Sesion 11/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Sesion 11/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Modulo:** A2 Book **M12 "I Was Playing when My Mom Called — Past Simple vs. Past Continuous" (p.99-102)** — hoy la mitad PASADO SIMPLE REGULAR, con la regla de pronunciacion del A1 Book **M10 "What Time Did You Arrive?" (Guia 1 p.125)**; HOY SOLO USO ORAL
 **Focus (1 linea):** Hablar el pasado limpio — verbo + ED con su sonido correcto y un marcador de tiempo en cada frase — y darle a cada compañero el credito de lo que hizo.
 **Virtud:** JUSTICIA — Cl 1 de 5 de esta virtud (Cl 11-15 de cada pista) — ABRE el bloque
@@ -8,22 +8,24 @@
 
 > **ENGLISH ONLY de principio a fin.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges. Los rituales ya se presentaron en la Cl 1: hoy solo se APLICAN, no se explican.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video) y el PASE que te dejo el docente de Gramatica al cierre de la Cl 10. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video) el PASE que te entrega el docente de Gramatica a las 10:00 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
-> **HOY SOLO: el pasado REGULAR hablado — verbo + ED con sus tres sonidos (/t/ worked · /d/ lived · /id/ wanted) — y un marcador de tiempo en cada frase (yesterday, last week, in 2018). La regla se USA, no se explica. NO TOCAR AUN: la tabla de ortografia en papel y el dictado del libro (eso es de GRAMATICA Cl 11) · los verbos IRREGULARES (Cl 12) · "Did you...? / I didn't..." (Cl 13) · ago / last con la secuencia first-then-finally (Cl 14) · "was / were + -ing" y la interrupcion con when (Cl 15-16).**
+> **HOY SOLO: el pasado REGULAR hablado — verbo + ED con sus tres sonidos (/t/ worked · /d/ lived · /id/ wanted) — y un marcador de tiempo en cada frase (yesterday, last week, in 2018). La regla se USA, no se explica. NO TOCAR AUN: la tabla de ortografia en papel y el dictado del libro (ya sellados en GRAMATICA Cl 11 a las 8:00: no los repites) · los verbos IRREGULARES (Cl 12) · "Did you...? / I didn't..." (Cl 13) · ago / last con la secuencia first-then-finally (Cl 14) · "was / were + -ing" y la interrupcion con when (Cl 15-16).**
 
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: every voice is awake, every video is accounted for, and the room is ready to talk about what already happened.**
 
-1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
-2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar. Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'I trained she' — 'I trained HER'"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* En la misma pasada marcas quien tiene **el cuaderno con las 12 lineas de Gramatica abierto sobre la mesa** (SI / NO). No lo lees ni lo corriges: solo se registra. Sin discusion.
+**10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
+1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
+2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar; el chequeo nombre por nombre es SOLO tuyo (Gramatica a las 8:00 solo recuerda el video). Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'I trained she' — 'I trained HER'"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* En la misma pasada marcas quien tiene **el cuaderno con las 12 lineas de Gramatica abierto sobre la mesa** (SI / NO). No lo lees ni lo corriges: solo se registra. Sin discusion.
 3. **Recuperacion espaciada DE TU PISTA (7', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Conv Cl 8** (expresiones de frecuencia al final de la frase) · N-7 = **Conv Cl 4** (planes con will, clavados con at / on / in). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
    - "A real habit with the number at the END: 'I check my email ___' (every day / twice a week)." (Cl 8)
    - "Fix it out loud: 'I twice a week go to the gym.'" (Cl 8)
    - "One real plan with WILL and a time: 'I will call him AT...'" (Cl 4)
    - "AT, ON or IN, fast: ___ 8:00 · ___ the first day · ___ the morning · ___ 2027." (Cl 4)
-4. **Lectura del PASE recibido, en voz alta (2').** Lees los 3 errores escritos del papel: *"These three came out of your writing last class. This morning the pronoun stays — and the verb moves into the past: 'I called HIM yesterday.'"*
+4. **Lectura del PASE recibido, en voz alta (2').** Lees los 3 errores escritos del papel que te entrego Gramatica a las 10:00: *"These three came out of your writing this morning. Now the pronoun stays — and the verb moves into the past: 'I called HIM yesterday.'"*
 5. **Frase del Dia (2').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea, sin clase de gramatica: *"It already happened, so the verb takes ED — and the person who did it gets the name."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
 > **[VIRTUD] JUSTICIA — Cl 1 de 5. ABRE el bloque. Tablero: "JUSTICE — DAY 1 OF 5 — OPENING".** (5', el ritual completo)
@@ -78,13 +80,19 @@ NEVER "I work yesterday" · NEVER "wait-ed" said as "waitd"
 1. **Ticket de salida (4').** 3-5 frases en pasado regular sobre su dia de trabajo o estudio, cada una con marcador de tiempo, y al menos 1 dando credito a alguien. Nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
 2. **Error paper (4').** Escribes 4-6 errores REALES del dia en el papel fisico ANONIMO y los pasas al tablero sin nombres. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio corregido. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
 3. **Cierre de JUSTICIA, dia 1 (2').** *"Whose work got a name today?"* — 2 respuestas de una frase. Cierras: *"Day one of justice. Four more in each of your classes."*
-4. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have GRAMMAR Cl 11 with the other teacher: same module, new Phrase of the Day. You seal the ED on paper — the spelling and the three sounds. Bring your paper and send your video."*
+4. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with GRAMMAR Cl 12 and the other teacher: the verbs that break the rule — went, came, took, thought — on paper. Bring your notebook. Send your video TODAY."*
 
 **Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
 HOMEWORK CONVERSATION CL 11 — ONE TASK ONLY: THE VIDEO.
 DUE: Cl 12, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
-TIME: 30-45 min (B1) — prepare, rehearse twice, then record. NOT fragmented.
+TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
+LISTEN FIRST (5-10 min, BEFORE you record):
+Search on YouTube or a podcast app: "what I did at work yesterday".
+Pick a speaker whose accent is NOT your teacher's (Scottish, Irish,
+Indian, Australian, Nigerian, Texan, Jamaican...). Listen 2 minutes.
+Repeat 3 sentences out loud, imitating that accent.
+OPEN YOUR VIDEO with those 3 sentences. Then do your task.
 DAILY PORTFOLIO VIDEO No. 11 — MINIMUM 3 MINUTES, video of yourself
 speaking, straight through, NO reading, NO script on camera.
 Content: "WHAT I DID THIS WEEK — AND WHO HELPED ME". At least 10 regular
@@ -94,13 +102,14 @@ lines of "A FIRST TIME THAT SHAPED ME". Close with the Phrase of the Day.
 Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-11.
 Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
-> **La tarea de hoy es SOLO el video** — la tarea escrita de este modulo la asigna el docente de Gramatica hoy a las 10:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+> **LISTEN FIRST es parte fija de la tarea desde hoy:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de mañana, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
+> **La tarea de hoy es SOLO el video** — la tarea escrita de este modulo ya la asigno el docente de Gramatica hoy a las 8:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
-5. **PASE al docente de GRAMATICA (Grammar Cl 11, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Gramatica. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
+5. **PASE al docente de GRAMATICA (Grammar Cl 12, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv Cl 11 -> Grammar Cl 11 — del docente de CONVERSACION al de GRAMATICA
-Virtud: JUSTICIA, Cl 1 de 5 (Cl 11-15) — HOY SE ABRIO en mi pista (credito
-a quien hizo el trabajo). Hoy a las 10:00 la abres en la tuya: tu guia trae su angulo.
+PASE Conv Cl 11 -> Grammar Cl 12 — del docente de CONVERSACION al de GRAMATICA
+Virtud: JUSTICIA, Cl 1 de 5 (Cl 11-15) — abierta hoy en las dos pistas (credito
+a quien hizo el trabajo en la mia). La Cl 12 es Cl 2 de 5: tu guia trae el angulo.
 LO QUE SALIO ORAL HOY: pasado regular + ED con sus 3 sonidos (/t/ /d/ /id/)
 y marcador de tiempo en cada frase. A2 M12 p.99-102 + A1 M10 Guia 1 p.125.
 3 ERRORES literales de hoy (SIN nombre aqui; nombres en mi reporte):
@@ -108,8 +117,8 @@ y marcador de tiempo en cada frase. A2 M12 p.99-102 + A1 M10 Guia 1 p.125.
 Patrones oidos: (a) /id/ aplastado ("waitd", "needd"); (b) /id/ metido donde
 no va ("work-ed", "call-ed"); (c) frase en pasado SIN marcador de tiempo;
 (d) presente por pasado ("yesterday I work"); (e) "studyed" dicho.
-QUE QUEDA PENDIENTE del modulo: la ortografia en papel (base+ED, E+D,
-consonante+Y=IED, doble consonante) y el dictado del libro. No los toque.
+QUE QUEDA FRAGIL del -ED que sellaste esta manana: __________________________
+(la ortografia en papel y el dictado del libro son tuyos: no los toque).
 Cuadernos con las 12 lineas de Grammar Cl 10 (SI / NO): ____ de ____.
 Conteo de la simulacion (/t/ · /d/ · /id/ · creditos): ___/___/___/___
 YA QUEDO HECHO HOY, NO LO REPITAS: el uso oral de los 3 sonidos · las 3
@@ -120,12 +129,13 @@ SIMULACION QUE USE HOY — NO LA REPITAS: "YESTERDAY'S WORKDAY DEBRIEF"
 (colega que vuelve y se pone al dia en el pasillo). Ni el titulo ni el
 guion, ni ningun otro "debrief" o "briefing" de fin de jornada. Mismo punto
 gramatical, escenario profesional DISTINTO.
-TAREA ESCRITA: la asignas TU. Yo hoy deje SOLO el video No. 11.
+TAREA ESCRITA: la asignaste TU esta manana. Yo hoy deje SOLO el video No. 11
+(abre con LISTEN FIRST).
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo modulo.
 Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ Cuadernos de Grammar Cl 10 marcados SI / NO ☐ Pieza "A FIRST TIME THAT SHAPED ME" dicha por todos ☐ Virtud JUSTICIA abierta
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ Cuadernos de Grammar Cl 10 marcados SI / NO ☐ Pieza "A FIRST TIME THAT SHAPED ME" dicha por todos ☐ Virtud JUSTICIA abierta ☐ Foto de inicio enviada a las 10:00
 
 [PAGEBREAK]
 
@@ -143,22 +153,22 @@ Firma Conversacion: ______________  Recibido Gramatica: ______________
 
 **Texto de Heiiu "First-Time Experiences That Have Shaped Us" — version PROFESOR (clave de las 3 frases del tablero):** 1. *compelled* /d/ (consonante suave, un solo sonido; la L se dobla en la ortografia) · 2. *shared* /d/ (termina en E: solo + D) · 3. *changed* /d/ + marcador *in 2018*. Idea del texto para ti: las experiencias que mas nos forman casi nunca fueron planeadas. El resto del texto esta en present perfect: **no lo dictes hoy** (ese tiempo es del arco de Cl 21).
 
-**Reservado para GRAMATICA Cl 11, no hoy:** la tabla de las 4 familias de ortografia, el dictado de los Ejemplos p.126 y la correccion escrita.
+**Ya hecho en GRAMATICA Cl 11 a las 8:00, no lo repites hoy:** la tabla de las 4 familias de ortografia, el dictado de los Ejemplos p.126 y la correccion escrita.
 
 **Plan B (cero material, todo tablero o voz):**
 - **La cadena de sonidos se atasca:** reduce a dos sonidos (/t/ y /d/) y trae /id/ solo con want / need / visit al final del bloque, con la silaba marcada con una palmada.
 - **Nadie recuerda a quien darle credito:** el credito puede ser a un rol (*"the driver", "my supervisor", "the IT technician"*), nunca a nadie de la sala.
 - **Simulacion que no arranca:** mismo escenario con el colega que pregunta leyendo del tablero 4 preguntas fijas (*"Tell me about the morning." · "And at noon?" · "Who handled it?" · "What happened at the end?"*). Tu sigues fuera del rol.
-- **Grupo incompleto a las 8:00:** arrancas igual, registras la llegada tarde; el que llega entra a la cadena sin que le repitas nada.
+- **Grupo incompleto a las 10:00:** arrancas igual, registras la llegada tarde; el que llega entra a la cadena sin que le repitas nada.
 - **Sobra tiempo:** "the credit round" — cada uno dice 2 frases en pasado sobre algo que hizo un compañero de la sala en esta clase (*"She asked a great question in rotation two"*).
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/CONVERSACION/B1_Clase11_CONV_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), Conv 8:00-10:00 primero y Grammar 10:00-12:00 despues, el MISMO dia · PASE Conv -> Grammar en papel a las 10:00 y Grammar -> Conv para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion). Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
+- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/CONVERSACION/B1_Clase11_CONV_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), orden real de la hoja de arranque 13/10: Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (B1 + B2 juntos), el MISMO dia · PASE Grammar -> Conv en papel a las 10:00 y Conv -> Grammar al cerrar las 12:00 para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion, que hace el chequeo de portafolio y desde la Cl 3 abre con LISTEN FIRST) · foto de inicio a las 10:00 al grupo de docentes. Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
 - **Frente a la guia 4H anterior:** Las citas se ampliaron leyendo el libro: **el A2 M12 remite en su Guide 1 al pasado simple del A1**, y el **A1 M10 (p.123-127) trae verbatim la regla de pronunciacion del -ed** (p.125). Por eso los tres sonidos, que en la guia 4H anterior estaban marcados como refuerzo Heiiu, aqui se citan del libro.
 - **Cero material impreso:** la guia 4H anterior **repartia** el texto "First Times". Aqui se dictan **3 frases verbatim** al tablero (las unicas del texto con pasado regular; el resto esta en present perfect y se reserva). La version PROFESOR del texto no existe en el repo: la clave minima va en el ANEXO.
-- **Virtud:** JUSTICIA, Cl 1 de 5 (Cl 11-15 de cada pista), calendario absoluto (`recursos/calendarios/CALENDARIO_VIRTUDES_2026.md`). Angulo de Conversacion: **credito a quien hizo el trabajo** (se integra como minimo en la simulacion y en la tarea). Grammar Cl 11 la abre con otro angulo (corregir sin humillar).
-- **Anti-duplicado:** Conv usa **YESTERDAY'S WORKDAY DEBRIEF** y el PASE lo prohibe a Gramatica. La guia 4H anterior de Grammar Cl 11 usaba "WORKDAY BRIEFING", casi identico: en esta edicion Grammar Cl 11 lleva escenario rediseñado.
-- **Tarea por pista:** Conversacion deja SOLO el video (No. 11). La escrita la asigna Gramatica Cl 11. **Recuperacion:** N-3 = Conv Cl 8 · N-7 = Conv Cl 4. Sin mapa semanal de tickets: NO se citan tickets.
+- **Virtud:** JUSTICIA, Cl 1 de 5 (Cl 11-15 de cada pista), calendario absoluto (`recursos/calendarios/CALENDARIO_VIRTUDES_2026.md`). Angulo de Conversacion: **credito a quien hizo el trabajo** (se integra como minimo en la simulacion y en la tarea). Grammar Cl 11 la abrio a las 8:00 con otro angulo (corregir sin humillar).
+- **Anti-duplicado:** Conv usa **YESTERDAY'S WORKDAY DEBRIEF**; Gramatica Cl 11 (8:00) usa PACKAGE TRACE AT THE COURIER COUNTER y su PASE prohibe repetirlo aqui; el PASE de hoy prohibe el debrief en Gramatica Cl 12. La guia 4H anterior de Grammar Cl 11 usaba "WORKDAY BRIEFING", casi identico: en esta edicion Grammar Cl 11 lleva escenario rediseñado.
+- **Tarea por pista:** Conversacion deja SOLO el video (No. 11). La escrita la asigno Gramatica Cl 11 a las 8:00. **Recuperacion:** N-3 = Conv Cl 8 · N-7 = Conv Cl 4 · mas los 3 errores del PASE de Gramatica Cl 11 (esta misma manana). Sin mapa semanal de tickets: NO se citan tickets.
 - **"Did" y preguntas en pasado:** el colega de la simulacion pregunta SIN "did" (*"Tell me about...", "What happened...?"*) porque el auxiliar es de Cl 13. `SUPUESTO DE PLANEACION — verificar`: el desglose del pasado en Cl 11-16 (regular / irregular / did / ago-last / continuo / when) viene del mapa 4H; el libro trata todo el pasado en 4 paginas.
 - `SUPUESTO DE PLANEACION — verificar`: la **doble consonante (stop -> stopped)** no aparece en el libro; se menciona solo de pasada y la sella Gramatica como refuerzo Heiiu.

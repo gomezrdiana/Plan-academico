@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 18/44 — CONV — HOJA DE RUTA
 
-**Sesion 18/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 35' + B3 40' + B4 15' = 110**
+**Sesion 18/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 35' + B3 40' + B4 15' = 110**
 **Modulo:** Libro B1 **M9 "More About Perfect Tenses" (p.97) — Guide 2 "The Past Perfect" (p.103; Examples p.104)**, con los participios del A2 Book **M15 (p.133-134)** y **M16 (tabla p.148)**; HOY SOLO USO ORAL
 **Focus (1 linea):** Contar lo que YA habia pasado antes del evento principal — HAD + participio — y sostenerlo en la segunda entrevista de trabajo del nivel.
 **Virtud:** FORTALEZA — Cl 3 de 5 de esta virtud (Cl 16-20 de cada pista)
@@ -8,7 +8,7 @@
 
 > **ENGLISH ONLY de principio a fin.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges. Los rituales ya se presentaron en la Cl 1: hoy solo se APLICAN, no se explican.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video), el PASE que te dejo el docente de Gramatica al cierre de la Cl 17 y **tu telefono cargado y con espacio: hoy grabas las entrevistas**. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, celular para la foto de inicio, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video), el PASE que te entrega el docente de Gramatica a las 10:00 (Grammar Cl 18, de esta misma manana) y **tu telefono cargado y con espacio: hoy grabas las entrevistas**. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 > **HOY SOLO: el evento ANTERIOR hablado — HAD + participio — para contar lo que ya estaba hecho cuando llego el evento principal, con by the time / because / before, y su uso dentro de la ENTREVISTA SIMULADA del dia. La regla se USA, no se explica. NO TOCAR AUN: la cita del libro y la forma en papel (eso es de GRAMATICA Cl 18) · el present perfect con have / has y su contraste con el pasado simple (Cl 21-23). Si "I have..." sale espontaneo, se acepta y se sigue.**
 
@@ -18,7 +18,9 @@
 
 **Objective: every voice is awake, every video is accounted for, and the room opens a slot BEFORE the story.**
 
-1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
+**10:00 EN PUNTO: foto del tablero con la Frase del Dia ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
+1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
 2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar. Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'I was work' — 'I was WORKING'"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* En la misma pasada marcas quien tiene **el cuaderno con la tarea escrita de Gramatica Cl 17 abierto sobre la mesa** (SI / NO). No lo lees ni lo corriges: solo se registra.
 3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Conv Cl 15** (el pasado continuo hablado: was / were + -ing) · N-7 = **Conv Cl 11** (pasado regular con sus tres sonidos y marcador de tiempo). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
    - "What were you doing at 9:00 yesterday morning? One full sentence." (Cl 15)
@@ -39,7 +41,7 @@
 **Objective: by the end, every one of you retells a real story with two earlier events in the right place, and your interview answer has a backstory.**
 
 1. **Avance de proyecto hoy: MY STORY, MY GOALS — pieza "BEFORE MY STORY BEGAN" (1').** Di: *"One piece every class. Today: what you had already done before your story started. It goes into your interview in twenty minutes, and into your presentation in Cl 22."*
-2. **Tablero, BANCO DE EJEMPLOS, solo uso ORAL (3') — la forma en papel la sella Gramatica Cl 18:**
+2. **Tablero, BANCO DE EJEMPLOS, solo uso ORAL (3') — la forma en papel la sello Gramatica Cl 18 a las 8:00:**
 ```
 BEFORE THE STORY BEGAN — say it, do not study it
  "When we moved to Colombia, I had learned Spanish."  (B1 Book p.103)
@@ -92,14 +94,22 @@ THE INTERVIEW -- 6 QUESTIONS, ASKED IN THIS ORDER
 1. **Ticket de salida (4').** 3-5 frases sobre la entrevista de hoy: 1 evento principal + al menos 2 eventos anteriores con HAD + 1 marco (by the time / because / before). Nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
 2. **Error paper (4').** Escribes 4-6 errores REALES del dia en el papel fisico ANONIMO y los pasas al tablero sin nombres. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio corregido. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
 3. **Cierre de FORTALEZA, dia 3 (2').** *"What had you already done that made you ready today?"* — 2 respuestas. Cierras: *"Day three of fortitude. Two more in each of your classes."*
-4. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. **Asignas el turno de la Cl 19:** un estudiante voluntario (o el primero de la lista que aun no haya enseñado) abre el Bloque 2 de la proxima clase enseñando en 5 minutos **2 errores del error paper de hoy**; lo anotas en tu cuaderno. Lees la tarea en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have GRAMMAR Cl 18 with the other teacher: same point, new Phrase of the Day. You put HAD + participle on paper, with the book. Bring your paper and send your video."*
+4. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. **Asignas el turno de la Cl 19:** un estudiante voluntario (o el primero de la lista que aun no haya enseñado) abre el Bloque 2 de la proxima clase enseñando en 5 minutos **2 errores del error paper de hoy**; lo anotas en tu cuaderno. Lees la tarea en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with GRAMMAR Cl 19 and the other teacher: the same errors, sealed on paper, form by form. Bring your notebook. Send your video TODAY."*
 
 **Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
 HOMEWORK CONVERSATION CL 18 — ONE TASK ONLY: THE VIDEO.
 DUE: Cl 19, BEFORE 7:00 PM — that is, TODAY before 7:00 PM.
-NOT NEGOTIABLE. TIME: 30-45 min (B1) — watch your two interviews
-(Cl 10 and today), prepare, rehearse twice, record. NOT fragmented.
+NOT NEGOTIABLE.
+TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
+Before recording: watch your two interviews (Cl 10 and today),
+prepare, rehearse twice.
+LISTEN FIRST (5-10 min, BEFORE you record):
+Search on YouTube or a podcast app: "job interview tell me about your achievements".
+Pick a speaker whose accent is NOT your teacher's (Scottish, Irish,
+Indian, Australian, Nigerian, Texan, Jamaican...). Listen 2 minutes.
+Repeat 3 sentences out loud, imitating that accent.
+OPEN YOUR VIDEO with those 3 sentences. Then do your task.
 DAILY PORTFOLIO VIDEO No. 18 — MINIMUM 3 MINUTES, video of yourself
 speaking, straight through, NO reading, NO script on camera.
 Content: "BEFORE MY STORY BEGAN" — one real achievement and at least
@@ -109,11 +119,14 @@ Close with the Phrase of the Day.
 Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-18.
 Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
-> **La tarea de hoy es SOLO el video** — la tarea escrita de este punto la asigna el docente de Gramatica hoy a las 10:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
-5. **PASE al docente de GRAMATICA (Grammar Cl 18, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Gramatica. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
+> **LISTEN FIRST es parte fija de la tarea desde hoy:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de manana, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
+
+> **La tarea de hoy es SOLO el video** — la tarea escrita de este punto ya la asigno el docente de Gramatica hoy a las 8:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
+5. **PASE al docente de GRAMATICA (Grammar Cl 19, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por mensaje escrito directo por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv Cl 18 -> Grammar Cl 18 — del docente de CONVERSACION al de GRAMATICA
+PASE Conv Cl 18 -> Grammar Cl 19 — del docente de CONVERSACION al de GRAMATICA
 Virtud: FORTALEZA, Cl 3 de 5 (Cl 16-20). Angulo de hoy en mi pista: la
 preparacion que nadie vio (lo que ya se habia hecho). Tu guia trae el tuyo.
 HOY SE HIZO EL HITO: SEGUNDA ENTREVISTA SIMULADA, 3 min, 1 toma, grabada y
@@ -125,19 +138,19 @@ time / because / before. Libro B1 M9 Guide 2 p.103-104 (solo oral).
 Patrones oidos: (a) verbo base tras HAD ("I had finish"); (b) pasado simple
 por participio ("I had went"); (c) HAD en el evento equivocado; (d) todo en
 simple, sin capa anterior; (e) sin marco (by the time / because / before).
-QUE QUEDA PENDIENTE: la cita del libro, la forma en papel, negativo y
-pregunta con short answer. No los toque.
+QUE QUEDO FRAGIL del modulo (lo sellaste esta manana en papel):
+_______________________________________________________________
 YA QUEDO HECHO HOY, NO LO REPITAS: el banco oral de HAD · las 2 rondas de
-backstory · la pieza "BEFORE MY STORY BEGAN" · la entrevista completa ·
-chequeo de portafolio (videos que NO llegaron: ____________).
+backstory · la pieza "BEFORE MY STORY BEGAN" · la entrevista completa.
 SIMULACION QUE USE HOY — NO LA REPITAS: "SECOND JOB INTERVIEW" (6 preguntas).
 Ni titulo, ni guion, ni preguntas: escenario profesional DISTINTO.
-TAREA ESCRITA: la asignas TU. Yo hoy deje SOLO el video No. 18.
-LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo punto.
+TAREA: la escrita la dejaste tu esta manana; yo deje SOLO el video No. 18
+(abre con las 3 frases del LISTEN FIRST).
+LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el contenido de la Cl 19.
 Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Cuadernos de Grammar Cl 17 marcados SI / NO ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ **Entrevistas B1-4H-ENTREVISTA2-CL18-[nombre] subidas hoy al grupo del cohorte (faltantes al reporte)** ☐ Todos pasaron como candidato ☐ Turno de enseñanza de Cl 19 asignado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Cuadernos de Grammar Cl 17 marcados SI / NO ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ **PASE Conv -> Grammar Cl 19 dejado al cerrar a las 12:00** ☐ PASE Grammar -> Conv de la Cl 18 (recibido a las 10:00) leido en el Bloque 1 ☐ **Entrevistas B1-4H-ENTREVISTA2-CL18-[nombre] subidas hoy al grupo del cohorte (faltantes al reporte)** ☐ Todos pasaron como candidato ☐ Turno de enseñanza de Cl 19 asignado ☐ Foto de inicio enviada a las 10:00
 
 [PAGEBREAK]
 
@@ -147,20 +160,20 @@ Firma Conversacion: ______________  Recibido Gramatica: ______________
 **Examples (p.104), verbatim, para modelar:** "I had studied English before I went to London." · "Arnulfo arrived early today because he had forgotten to shower." · "I had worked all weekend, so I was very tired last night." · "When Paola arrived, we had already started the class." · "We moved to Medellin because my father had found a new job there."
 **Participios:** A2 M15 Guide 1 p.134: "La mayoria de los participios ... se forman agregando '-ed' al verbo, igual al pasado simple." · A2 M16 Vocabulary p.148: be-was/were-**been** · take-took-**taken** · drive-drove-**driven** · wake up-woke up-**woken up** · eat-ate-**eaten** · go-went-**gone** · tell-told-**told** · find-found-**found**.
 
-**Reservado para GRAMATICA Cl 18, no hoy:** la cita del libro en el tablero, la forma en papel, negativo (hadn't) y pregunta con short answer (*"Had you finished? — Yes, I had."*).
+**Ya lo sello GRAMATICA Cl 18 a las 8:00; aqui no se repite:** la cita del libro en el tablero, la forma en papel, negativo (hadn't) y pregunta con short answer (*"Had you finished? — Yes, I had."*).
 
 **Plan B (cero material, todo tablero o voz):**
 - **Grupo grande, no alcanzan todos:** entrevista a 2'30'', devolucion a 30 seg, y **grabas a los ultimos dos en el pasillo durante el ticket**. La entrevista NO se pasa a otro dia.
 - **Grupo muy pequeño:** cada uno pasa dos veces, la segunda con otra vacante y las preguntas 3-5 en otro orden.
 - **Se cae el telefono o no hay espacio:** la entrevista se hace igual; anotas en el reporte quien quedo sin grabar. La clase NUNCA se detiene por la grabacion.
 - **Bloque 2 atascado (base o pasado simple tras HAD a los 15'):** cortas el segundo evento anterior y te quedas SOLO con *"By the time ___, I had ___"* hasta que salga limpio.
-- **Grupo incompleto a las 8:00:** arrancas igual, registras la llegada tarde; el que llega igual pasa como candidato.
+- **Grupo incompleto a las 10:00:** arrancas igual, registras la llegada tarde; el que llega igual pasa como candidato.
 - **Sobra tiempo:** "the question you feared" — cada uno responde otra vez, en 45 segundos, la pregunta que peor le salio.
-- **Si te piden la regla:** *"Grammar explains it at ten. Here we use it."* + repites la linea correcta y sigues.
+- **Si te piden la regla:** *"Grammar sealed it this morning. Here we use it."* + repites la linea correcta y sigues.
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-- **Edicion unica manana/noche:** esta guia reemplaza la guia 4H anterior de Cl 18 con el formato de la edicion nueva: 110 min (dia de hito: B1 20' + B2 35' + B3 40' + B4 15'), PASE en papel Conv -> Grammar a las 10:00 y Grammar -> Conv para la clase siguiente, due "Cl N+1, BEFORE 7:00 PM", ticket antes del error paper, UN solo video diario (el de Conversacion). Contenido conservado: HAD + participio oral, backstory, pieza de MY STORY, Frase del Dia.
+- **Edicion unica manana/noche:** esta guia reemplaza la guia 4H anterior de Cl 18 con el formato de la edicion nueva: 110 min (dia de hito: B1 20' + B2 35' + B3 40' + B4 15'), Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (orden de la hoja de arranque 13/10), PASE en papel Grammar -> Conv a las 10:00 y Conv -> Grammar al cerrar a las 12:00 para la manana siguiente; Conv hace el chequeo de portafolio, due "Cl N+1, BEFORE 7:00 PM", ticket antes del error paper, UN solo video diario (el de Conversacion). Contenido conservado: HAD + participio oral, backstory, pieza de MY STORY, Frase del Dia.
 - **Frente a la guia 4H anterior:** (1) **HITO INTEGRADO:** la guia anterior no traia la entrevista (su B3 era "PROJECT REVIEW — what had already happened?"); el mapa del nivel de la Cl 1 fija **ENTREVISTA SIMULADA Cl 10 y Cl 18**, asi que el B3 es la segunda entrevista. (2) **Ancla de libro corregida:** la guia anterior de Conv decia "sin citar pagina"; el **Libro B1 M9 Guide 2 p.103-105** existe (verificado en el PDF) y ahora se cita. (3) El audio diario paso a **video de 3 min**; la escritura de la historia paso a Gramatica. (4) Se agrega el turno de enseñanza entre pares que abre Conv Cl 19.
 - **Grabaciones de hoy:** al computador de la academia solo van entrada, hitos de Cl 10/20/30/40 y salida. Por eso la entrevista de Cl 18 NO se reenvia a la auxiliar: queda en el grupo de WhatsApp del cohorte, donde viven los videos diarios, para que cada estudiante compare con la de Cl 10. `SUPUESTO DE PLANEACION — verificar` (destino y etiqueta de la grabacion de Cl 18).
 - **Anti-duplicado:** Conv usa **SECOND JOB INTERVIEW**; Grammar Cl 18 usa una revision post-incidente con el jefe de operaciones (otro registro, otros roles). El PASE lo prohibe.

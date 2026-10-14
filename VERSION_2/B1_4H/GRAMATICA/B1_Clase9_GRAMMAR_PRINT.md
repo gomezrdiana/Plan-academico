@@ -1,8 +1,8 @@
 # B1 MASTERY — Cl 9/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 9/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 9/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** A1 Book **M15 "I Love My Parents — The Possessive Adjectives" (Guia 1 p.189; ejemplos y Ejercicios 1 p.190; rango p.187-196)** mas **M30 "When Is Juan's Birthday? — The Possessive Case" (Guia 1 p.335; Ejemplos 1 p.336)** — ancla de hoy; la regla SE SELLA EN PAPEL
-**Focus (1 linea):** Lo que esta manana nombraron con la boca, ahora queda escrito: el apostrofe en su sitio — dueño singular, dueños PLURALES y dueño terminado en s — mas el adjetivo que responde.
+**Focus (1 linea):** Primero queda escrito, despues lo nombran con la boca en Conversacion (10:00): el apostrofe en su sitio — dueño singular, dueños PLURALES y dueño terminado en s — mas el adjetivo que responde.
 **Virtud:** TEMPLANZA — Cl 4 de 5 de esta virtud (Cl 6-10 de cada pista)
 **Frase del Dia:** *"Temperance writes the owner down: her badge, the technicians' keys, Chris' laptop, the screen of the projector — one apostrophe in the right place settles who answers for what."*
 
@@ -10,22 +10,24 @@
 
 > **DE PIE: Bloques 1-3 completos en o junto al tablero (~95 de 110 min ≈ 86%; piso 70%). Solo el Bloque 4 es sentado.** Movimiento SIEMPRE con contenido: nada de "stand up / sit down" suelto.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video) y el PASE que te entrega el docente de Conversacion a las 10:00. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 8 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
-> **HOY SOLO: la posesion ESCRITA — la tabla de adjetivos posesivos · el caso posesivo con el apostrofe en sus TRES casos del libro (dueño singular "Peter's dog", dueños PLURALES "my brothers' dog", dueño terminado en s o z "Chris' dog") · "of" para partes de cosas · y el adjetivo que RESPONDE a una pregunta hecha en caso posesivo (Ejemplos 1 p.336, dictados al papel del estudiante). NO TOCAR AUN: los pronombres objeto (call him, help us) ni el seguimiento escrito de la entrevista — eso es de GRAMATICA Cl 10. No menciones el hito de la entrevista: ya lo anuncio Conversacion.**
+> **HOY SOLO: la posesion ESCRITA — la tabla de adjetivos posesivos · el caso posesivo con el apostrofe en sus TRES casos del libro (dueño singular "Peter's dog", dueños PLURALES "my brothers' dog", dueño terminado en s o z "Chris' dog") · "of" para partes de cosas · y el adjetivo que RESPONDE a una pregunta hecha en caso posesivo (Ejemplos 1 p.336, dictados al papel del estudiante). NO TOCAR AUN: los pronombres objeto (call him, help us) ni el seguimiento escrito de la entrevista — eso es de GRAMATICA Cl 10. No menciones el hito de la entrevista: lo anuncia Conversacion hoy, al cierre de su bloque.**
 
-## BLOQUE 1 — RECUPERACION DE LO ORAL DE ESTA MANANA (20') — DE PIE
+## BLOQUE 1 — RECUPERACION DE LO ORAL DE AYER (20') — DE PIE
 
-**Objective: bring this morning's owners back into the room, and hear exactly which apostrophe fell.**
+**Objective: bring yesterday's spoken errors back into the room, then put every owner and apostrophe where it belongs.**
 
-1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
-2. **Chequeo de portafolio, con la lista del PASE en mano (3').** Ya viste los videos antes de entrar. La lista ENVIO / NO ENVIO de hoy ya la marco Conversacion a las 8:00 y viene en el PASE: NO la repites nombre por nombre. Lees en voz alta solo los NO ENVIO (si alguno lo mando en el cambio de bloque, lo pasas a ENVIO) y a 2-3 estudiantes que Conversacion no corrigio les dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'the book's cover' — 'the cover OF the book'"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* Sin discusion.
-3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 6** (HAS, nunca "haves", y los tres sonidos de la -s) · N-7 = **Grammar Cl 2** (didn't vs haven't yet, pregunta con short answer). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
+**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
+1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, en su Bloque 1 a las 10:00, con su propia lista y la mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."* Los 2-3 minutos que libera este punto pasan a la recuperacion espaciada.
+3. **Recuperacion espaciada DE TU PISTA (8', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Grammar Cl 6** (HAS, nunca "haves", y los tres sonidos de la -s) · N-7 = **Grammar Cl 2** (didn't vs haven't yet, pregunta con short answer). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
    - "Third person with HAVE: 'She HAS two reports.' — never 'she haves'." (Cl 6)
    - "The three sounds of the -s: works / plays / watches." (Cl 6)
    - "One 'I haven't... yet' about this week." (Cl 2)
    - "Short answer only: 'Have you called the supplier?'" (Cl 2)
-4. **Lectura del PASE recibido, en voz alta (3').** Lees los 3 errores literales del papel: *"These three came out of your mouths this morning. Now the apostrophe goes where it belongs and stays there."*
+4. **Lectura del PASE recibido, en voz alta (3').** Lees los 3 errores literales del papel: *"These three came out of your mouths yesterday. Now the apostrophe goes where it belongs and stays there."*
 5. **Frase del Dia (2').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea: *"One owner: apostrophe before the s. Many owners: apostrophe after the s."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
 > **[VIRTUD] TEMPLANZA — Cl 4 de 5. Tablero: "TEMPERANCE — DAY 4 OF 5".** (5', el ritual completo)
@@ -88,7 +90,7 @@ THEN, 3 OF YOUR OWN, about real people at your work or study:
 
 1. **Ticket de salida (4').** 3-5 frases de posesion sobre su trabajo real — al menos 1 con adjetivo, 1 con dueño singular ('s), 1 con dueños PLURALES (s') y 1 con OF — con nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
 2. **Error paper al tablero, sin nombres (4').** Escribes 4-6 errores REALES del dia, anonimos. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio con la forma corregida. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
-3. **Cierre (3').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with CONVERSATION Cl 10 and the other teacher, and it is a long speaking class. Bring your paper and send your video."* **NO des mas detalles del hito: ya se anuncio y no es tu clase.** Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."*
+3. **Cierre (3').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have CONVERSATION with the other teacher: same modules, a new Phrase of the Day. You will say who owns what out loud, about your real workplace. Your video is assigned there."* **NO menciones el hito: lo anuncia Conversacion y no es tu clase.** Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."*
 
 **Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
@@ -101,18 +103,17 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     2 with s' for MANY owners (the drivers' routes),
     2 with OF for a part of a thing (the screen of the monitor).
     No "the my". Underline the possessive. Mark where the apostrophe goes.
-    Bring the notebook to Conversation Cl 10.
+    Bring the notebook to the next Grammar class.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
-    one assigned in CONVERSATION at 8:00. Send it TODAY to the cohort
+    one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigno Conversacion a las 8:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
 
-4. **PASE al docente de CONVERSACION (Conv Cl 10, a las 8:00 de la proxima clase) — se lo dejas HOY antes de salir**, en papel en la carpeta del cohorte o por mensaje escrito directo por el grupo de docentes. No es opcional y no se pasa de palabra: **la proxima clase es la del hito y la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo antes de salir:
+4. **PASE al DOCENTE DE CONVERSACION (Conv Cl 9, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Grammar Cl 9 -> Conv Cl 10 — del docente de GRAMATICA al de CONVERSACION
-Virtud: TEMPLANZA, Cl 4 de 5 (Cl 6-10). La Cl 10 es Cl 5 de 5: CIERRA la virtud
-en tu pista y tu guia trae la retrospectiva de cierre de bloque.
+PASE Grammar Cl 9 -> Conv Cl 9 — del docente de GRAMATICA al de CONVERSACION
+Virtud: TEMPLANZA, Cl 4 de 5 (Cl 6-10). Tu Conv Cl 9 tambien es Cl 4 de 5.
 QUE QUEDO SELLADO HOY EN PAPEL (A1 M15 Guia 1 p.189 + M30 Guia 1 p.335):
 tabla de adjetivos posesivos · apostrofe en sus TRES casos (dueño singular,
 dueños plurales, dueño en s/z) · OF para partes de cosas · el adjetivo que
@@ -124,18 +125,18 @@ QUE NO ALCANZO del modulo: _____________________________________________
 Conteo de la simulacion (adj / un dueño / varios dueños / of): ___/___/___/___
 YA QUEDO HECHO HOY, NO LO REPITAS: la tabla completa en el tablero · el
 dictado de Ejemplos 1 p.336 · el drill de apostrofe · la simulacion
-INSURANCE CLAIM AFTER AN OFFICE INCIDENT (no repitas ese titulo ni su guion)
-· chequeo de portafolio (videos que NO llegaron: ____________).
-TU PROXIMA CLASE (CONV CL 10) ES EL HITO (ENTREVISTA SIMULADA): llegan con el papel de 12 lineas y
-con la posesion fresca. No tienen que volver a explicarla; usala dentro de
-la entrevista ("my previous role", "the company's clients", "my manager's team").
+INSURANCE CLAIM AFTER AN OFFICE INCIDENT (no repitas ese titulo ni su guion).
+CONV CL 9 HOY: los mismos modulos en uso oral — las tres formas de posesion
+sobre el lugar de trabajo real. El marco quedo sellado en papel a las 8:00
+(incluidos plurales y dueño en s): apoyate en eso, no lo vuelvas a explicar.
+EL ANUNCIO DEL HITO (entrevista de Conv Cl 10) es tuyo: yo no lo mencione.
 TAREA QUE DEJE: 12 lineas escritas, due Cl 10 antes de las 7:00 PM. El video
-del dia fue el tuyo. NO pidas otro papel encima: las pistas no duplican tarea.
-LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el contenido de la Cl 10.
+del dia lo asignas TU (abre con LISTEN FIRST). NO pidas otro papel encima.
+LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo modulo.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~86% DE PIE confirmado
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ ~86% DE PIE confirmado ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -161,18 +162,18 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - **Zone walk atascado:** las cuatro zonas se vuelven cuatro señas (mano izquierda, mano derecha, dos manos arriba, dos manos abajo); misma velocidad, sin caminar.
 - **Dictado muy lento:** dictas 5 items en vez de 10 (elige 1, 3, 7, 9 y 10 para cubrir her / his / plural / our / posesivo encadenado); los otros quedan de tarea. NO recortes la correccion oral en cadena ni los 3 items propios.
 - **Simulacion que no arranca:** cambia el incidente a **una perdida de equipos en un traslado de sede** (mismo guion de reclamante y ajustador, mismos minimos). Tu sigues fuera del rol.
-- **Grupo incompleto a las 10:00:** arrancas igual, registras la llegada tarde, el que llega se integra al drill sin repetirle nada.
+- **Grupo incompleto a las 8:00:** arrancas igual, registras la llegada tarde, el que llega se integra al drill sin repetirle nada.
 - **Sobra tiempo:** "one or many" — dices un objeto de la sala y el grupo produce las dos versiones (un dueño y varios dueños) señalando el apostrofe en el aire.
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/GRAMATICA/B1_Clase9_GRAMMAR_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), Conv 8:00-10:00 primero y Grammar 10:00-12:00 despues, el MISMO dia · PASE Conv -> Grammar en papel a las 10:00 y Grammar -> Conv para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion). Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
-- **B3 REDISENADO POR ANTI-DUPLICADO.** La guia 4H anterior de Grammar Cl 9 usaba **"HANDOVER BRIEFING"** (entrega de bienes de un proyecto a un colega) y la de Conv Cl 9 usa **"OFFICE INVENTORY HANDOVER"**: **es el mismo guion con otro nombre** — alguien entrega objetos y nombra dueños. Con las dos pistas el MISMO dia, se habria sentido como la misma clase dos veces. Por eso hoy el escenario es **INSURANCE CLAIM AFTER AN OFFICE INCIDENT**: cambia el registro (reclamacion ante un tercero con dinero en juego, no traspaso entre colegas), cambian los roles (empleado reclamante y ajustador de aseguradora, no saliente y entrante), cambia la meta (que quede cubierto lo que si es de la empresa, no que el otro sepa donde esta cada cosa) y cambia la carga gramatical: aqui son obligatorios los **dueños PLURALES (s')**, el **dueño terminado en s (Chris')** y el **OF de partes de cosas**, que en Conv no se tocaron, mas la exclusion explicita de lo personal. Los observers llevan **cuatro** columnas, ficha que Conv no uso esta manana. Ni el titulo, ni los roles, ni el guion, ni la carga se repiten.
-- **Tarea por pista, sin duplicar:** Gramatica deja la tarea ESCRITA (12 lineas con las cuatro formas) y recuerda que el video diario es UNO solo: el que Conversacion dejo esta manana (No. 9).
-- **Recuperacion espaciada por pista:** N-3 = **Grammar Cl 6** (HAS y los tres sonidos de la -s) · N-7 = **Grammar Cl 2** (didn't vs haven't yet, short answer). Sin mapa semanal de tickets todavia — NO se citan tickets.
+- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/GRAMATICA/B1_Clase9_GRAMMAR_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), orden real de la hoja de arranque 13/10: Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia · PASE Grammar -> Conv en papel a las 10:00 y Conv -> Grammar al cerrar las 12:00 para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion, que hace el chequeo de portafolio; Gramatica solo lo recuerda) · foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
+- **B3 REDISENADO POR ANTI-DUPLICADO.** La guia 4H anterior de Grammar Cl 9 usaba **"HANDOVER BRIEFING"** (entrega de bienes de un proyecto a un colega) y la de Conv Cl 9 usa **"OFFICE INVENTORY HANDOVER"**: **es el mismo guion con otro nombre** — alguien entrega objetos y nombra dueños. Con las dos pistas el MISMO dia, se habria sentido como la misma clase dos veces. Por eso hoy el escenario es **INSURANCE CLAIM AFTER AN OFFICE INCIDENT**: cambia el registro (reclamacion ante un tercero con dinero en juego, no traspaso entre colegas), cambian los roles (empleado reclamante y ajustador de aseguradora, no saliente y entrante), cambia la meta (que quede cubierto lo que si es de la empresa, no que el otro sepa donde esta cada cosa) y cambia la carga gramatical: aqui son obligatorios los **dueños PLURALES (s')**, el **dueño terminado en s (Chris')** y el **OF de partes de cosas**, que en Conv no se tocaron, mas la exclusion explicita de lo personal. Los observers llevan **cuatro** columnas, ficha que Conv no usa hoy a las 10:00. Ni el titulo, ni los roles, ni el guion, ni la carga se repiten.
+- **Tarea por pista, sin duplicar:** Gramatica deja la tarea ESCRITA (12 lineas con las cuatro formas) y recuerda que el video diario es UNO solo: el que asigna Conversacion hoy a las 10:00 (No. 9, abre con LISTEN FIRST).
+- **Recuperacion espaciada por pista:** N-3 = **Grammar Cl 6** (HAS y los tres sonidos de la -s) · N-7 = **Grammar Cl 2** (didn't vs haven't yet, short answer), mas los 3 errores del PASE de Conversacion Cl 8 (cierre del dia anterior). Sin mapa semanal de tickets todavia — NO se citan tickets.
 - **Virtud:** TEMPLANZA, Cl 4 de 5 (Cl 6-10 de cada pista), calendario absoluto. La **Cl 10 de cada pista la cierra** (con retrospectiva de cierre de bloque); la guia de Cl 11 estrena la virtud siguiente.
 - **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — Gramatica sella la herramienta y las 12 lineas de la tarea son insumo directo de la entrevista simulada de la proxima clase (Conv Cl 10), donde el candidato tiene que hablar de *"my previous role"*, *"the company's clients"*, *"my manager's team"*.
-- **Hito:** el docente de Gramatica **no anuncia ni amplia** la entrevista simulada de Conv Cl 10 (ya la anuncio Conversacion en el cierre de Conv Cl 9, en una sola frase). Queda escrito en la caja HOY SOLO y en el cierre para que no se cruce el mensaje.
+- **Hito:** el docente de Gramatica **no anuncia ni amplia** la entrevista simulada de Conv Cl 10 (la anuncia Conversacion en el cierre de Conv Cl 9, a las 12:00, despues de este bloque, en una sola frase). Queda escrito en la caja HOY SOLO y en el cierre para que no se cruce el mensaje.
 - `SUPUESTO DE PLANEACION — verificar`: la regla **"las cosas llevan OF y las personas llevan 'S"** NO es cita verbatim. M30 presenta "of" como la estructura literal del español que el ingles **prefiere** convertir en 's, sin restringirla a cosas; y el libro no dice "partes de cosas". El reparto persona = 's / parte de cosa = of es **refuerzo pedagogico Heiiu** (ya venia asi en la guia 4H anterior) y se enseña como uso estandar.
 - `SUPUESTO DE PLANEACION — verificar`: **"whose" NO aparece en el A1 Book.** El ajustador puede usarlo porque es lenguaje natural de la situacion, pero **no se enseña ni se corrige como contenido del dia**.
 - **Nota de contexto:** los ejemplos y el dictado del libro son familiares ("your mother's car", "Bella's friend"). Se usan tal cual **como ejercicio del libro**; la produccion libre, la simulacion y la tarea son **laborales**, por la regla de simulaciones realistas y no familiares.

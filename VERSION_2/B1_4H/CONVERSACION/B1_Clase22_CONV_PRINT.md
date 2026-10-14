@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 22/44 — CONV — HOJA DE RUTA
 
-**Sesion 22/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 25' + B3 50' + B4 15' = 110**
+**Sesion 22/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 25' + B3 50' + B4 15' = 110**
 **Modulo:** proyecto del nivel **MY STORY, MY GOALS** — integra el sistema del pasado (A2 Book **M12 p.99-102**; Libro B1 **M9 Guide 2 p.103-104**) y el present perfect regular (A2 Book **M15 p.133-135**); HOY SOLO USO ORAL
 **Focus (1 linea):** Todos presentan "My Story, My Goals" — 5 minutos cada uno, orden por sorteo, audiencia con tarea — dentro de la clase regular.
 **Virtud:** PRUDENCIA (segunda vuelta) — Cl 2 de 5 de esta virtud (Cl 21-25 de cada pista)
@@ -8,7 +8,7 @@
 
 > **ENGLISH ONLY de principio a fin.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges. Los rituales ya se presentaron en la Cl 1: hoy solo se APLICAN, no se explican.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video), el PASE que te dejo el docente de Gramatica al cierre de la Cl 21, **una hoja de tu cuaderno para la rubrica** y **tu telefono cargado y con espacio: hoy grabas cada presentacion**. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, celular para la foto de inicio, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video), el PASE que te entrega el docente de Gramatica a las 10:00 (Grammar Cl 22, de esta misma manana), **una hoja de tu cuaderno para la rubrica** y **tu telefono cargado y con espacio: hoy grabas cada presentacion**. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 > **HOY SOLO: la presentacion "My Story, My Goals" con lo que ya tienen — historia en pasado (las cinco formas), lineas "I have + -ed" y meta. Nada nuevo. NO TOCAR AUN: los participios IRREGULARES despues de have / has (eso es de GRAMATICA Cl 22) · el contraste pasado simple vs present perfect (Cl 23).**
 
@@ -18,7 +18,9 @@
 
 **Objective: every voice is awake, every video is accounted for, and every story is warm before the clock starts.**
 
-1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. El que llega tarde presenta igual, en el lugar que le toque.
+**10:00 EN PUNTO: foto del tablero con la Frase del Dia ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
+1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. El que llega tarde presenta igual, en el lugar que le toque.
 2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar. Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"your rehearsal ended with 'that's all' — end with your goal"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* En la misma pasada marcas quien tiene **el cuaderno con las 12 frases de Gramatica Cl 21 abierto sobre la mesa** (SI / NO). Solo se registra.
 3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Conv Cl 19** (clinica oral: las lineas reparadas del pasado) · N-7 = **Conv Cl 15** (el pasado continuo hablado: was / were + -ing). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
    - "Fix it out loud: 'I had went to the client.'" (Cl 19)
@@ -84,14 +86,20 @@ name ____________ C1 _ C2 _ C3 _ C4 _ recorded Y/N _ quote: __________
 1. **Ticket de salida (4').** 3-5 frases: *"Today I have presented... / I have learned... / One thing I have improved this month is..."* Nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
 2. **Error paper (4').** Escribes 4-6 errores REALES **de los Bloques 1 y 2 (nunca del midterm)** en el papel fisico ANONIMO y los pasas al tablero sin nombres. El grupo diagnostica; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio corregido. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
 3. **Cierre de PRUDENCIA, dia 2 (2').** *"What did you prepare that helped you today?"* — 2 respuestas de una frase, sin hablar de resultados. Cierras: *"Day two of prudence."*
-4. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have GRAMMAR Cl 22 with the other teacher: a regular class, the book continues — been, gone, taken. Bring your paper and send your video."*
+4. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with GRAMMAR Cl 23 and the other teacher: the real decision — 'I went in 2019' or 'I have been there'? Bring your notebook. Send your video TODAY."*
 
 **Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
 HOMEWORK CONVERSATION CL 22 — ONE TASK ONLY: THE VIDEO.
 DUE: Cl 23, BEFORE 7:00 PM — that is, TODAY before 7:00 PM.
-NOT NEGOTIABLE. TIME: 30-45 min (B1) — prepare, rehearse twice,
-then record. NOT fragmented.
+NOT NEGOTIABLE.
+TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
+LISTEN FIRST (5-10 min, BEFORE you record):
+Search on YouTube or a podcast app: "what I have learned so far".
+Pick a speaker whose accent is NOT your teacher's (Scottish, Irish,
+Indian, Australian, Nigerian, Texan, Jamaican...). Listen 2 minutes.
+Repeat 3 sentences out loud, imitating that accent.
+OPEN YOUR VIDEO with those 3 sentences. Then do your task.
 DAILY PORTFOLIO VIDEO No. 22 — MINIMUM 3 MINUTES, video of yourself
 speaking, straight through, NO reading, NO script on camera.
 Content: "WHAT I HAVE LEARNED SO FAR" — tell the moment of today's
@@ -101,11 +109,14 @@ Close with the Phrase of the Day.
 Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-22.
 Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
-> **La tarea de hoy es SOLO el video** — la tarea escrita la asigna el docente de Gramatica hoy a las 10:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
-5. **PASE al docente de GRAMATICA (Grammar Cl 22, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Gramatica. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket. **El PASE NO lleva nada del midterm:**
+> **LISTEN FIRST es parte fija de la tarea desde hoy:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de manana, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
+
+> **La tarea de hoy es SOLO el video** — la tarea escrita ya la asigno el docente de Gramatica hoy a las 8:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
+5. **PASE al docente de GRAMATICA (Grammar Cl 23, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por mensaje escrito directo por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo mientras el grupo escribe el ticket. **El PASE NO lleva nada del midterm:**
 ```
-PASE Conv Cl 22 -> Grammar Cl 22 — del docente de CONVERSACION al de GRAMATICA
+PASE Conv Cl 22 -> Grammar Cl 23 — del docente de CONVERSACION al de GRAMATICA
 Virtud: PRUDENCIA (segunda vuelta), Cl 2 de 5 (Cl 21-25). Angulo de hoy
 en mi pista: decidir antes del momento. Tu guia trae el tuyo.
 HOY CORRIO "MY STORY, MY GOALS" en mi bloque. Presentaron: ___ de ___.
@@ -114,16 +125,16 @@ eso. Si te preguntan: "That is coordination, not me."
 3 ERRORES literales de los Bloques 1 y 2 (SIN nombre aqui; nombres en mi
 reporte; NADA de las presentaciones):
 1. ____________________  2. ____________________  3. ____________________
-Patron que tu modulo atiende: participios irregulares improvisados tras
+Patron que sigue vivo (lo sellaste esta manana): participios irregulares improvisados tras
 have ("I have went", "I have knowed").
-YA QUEDO HECHO HOY, NO LO REPITAS: el sorteo · las presentaciones ·
-chequeo de portafolio (videos que NO llegaron: ____________).
-TAREA ESCRITA: la asignas TU. Yo hoy deje SOLO el video No. 22.
+YA QUEDO HECHO HOY, NO LO REPITAS: el sorteo · las presentaciones.
+TAREA: la escrita la dejaste tu esta manana; yo deje SOLO el video No. 22
+(abre con las 3 frases del LISTEN FIRST).
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre tu modulo.
 Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Cuadernos de Grammar Cl 21 marcados SI / NO ☐ Error paper anonimo (solo Bloques 1-2) + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ **Hoja de rubrica del midterm entregada HOY a coordinacion** ☐ **Videos B1-4H-MIDTERM-CL22-[nombre] reenviados HOY a la auxiliar administrativa, uno por uno con el nombre (faltantes al reporte)** ☐ Orden real del sorteo y ausentes anotados en el reporte
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Cuadernos de Grammar Cl 21 marcados SI / NO ☐ Error paper anonimo (solo Bloques 1-2) + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ **PASE Conv -> Grammar Cl 23 dejado al cerrar a las 12:00** ☐ PASE Grammar -> Conv de la Cl 22 (recibido a las 10:00) leido en el Bloque 1 ☐ **Hoja de rubrica del midterm entregada HOY a coordinacion** ☐ **Videos B1-4H-MIDTERM-CL22-[nombre] reenviados HOY a la auxiliar administrativa, uno por uno con el nombre (faltantes al reporte)** ☐ Orden real del sorteo y ausentes anotados en el reporte ☐ Foto de inicio enviada a las 10:00
 
 [PAGEBREAK]
 
@@ -137,11 +148,11 @@ Firma Conversacion: ______________  Recibido Gramatica: ______________
 - **Alguien falta hoy:** no presenta hoy ni se agenda contigo: lo anotas en el reporte; **coordinacion decide**.
 - **Alguien se niega a pasar:** una sola frase, *"Your turn is now. Breathe and start with who you are."* Si insiste, pasa al final del orden; si aun asi no pasa, lo anotas en el reporte. No negocias ni comentas.
 - **Se cae el telefono o no hay espacio:** la presentacion se hace igual y anotas en el reporte quien quedo sin grabar. La clase NUNCA se detiene por la grabacion.
-- **Grupo incompleto a las 8:00:** arrancas igual; el sorteo incluye a todos los de la lista y el que llega tarde ocupa su turno si ya llego, o pasa al final.
+- **Grupo incompleto a las 10:00:** arrancas igual; el sorteo incluye a todos los de la lista y el que llega tarde ocupa su turno si ya llego, o pasa al final.
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-- **Edicion unica manana/noche:** reemplaza la guia 4H anterior de Cl 22 con el formato de la edicion nueva: 110 min (dia de midterm: B1 20' + B2 25' + B3 50' + B4 15'), PASE Conv -> Grammar a las 10:00 y Grammar -> Conv para la clase siguiente, due "Cl N+1, BEFORE 7:00 PM", ticket antes del error paper, UN solo video diario.
+- **Edicion unica manana/noche:** reemplaza la guia 4H anterior de Cl 22 con el formato de la edicion nueva: 110 min (dia de midterm: B1 20' + B2 25' + B3 50' + B4 15'), Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (orden de la hoja de arranque 13/10), PASE en papel Grammar -> Conv a las 10:00 y Conv -> Grammar al cerrar a las 12:00 para la manana siguiente; Conv hace el chequeo de portafolio, due "Cl N+1, BEFORE 7:00 PM", ticket antes del error paper, UN solo video diario.
 - **MIDTERM integrado (Cl 1: MIDTERM "My Story, My Goals" Cl 22, 5 min cada uno):** va DENTRO de la guia regular de Conversacion, en el Bloque 3, sin marcador aparte. Grammar Cl 22 es clase regular (M16) y no lo comenta.
 - **Frente a la guia 4H anterior:** (1) el titulo extra "MIDTERM PRESENTATIONS" bajo el encabezado se elimino (el evento va dentro de la guia). (2) La guia anterior decia "SIN rubrica en esta hoja"; **esta edicion incluye la rubrica de 4 criterios (escala 1-4) que el docente llena y entrega HOY a coordinacion**, y la grabacion de cada presentacion reenviada HOY a la auxiliar. (3) Se quita "chequeo de portafolio — PRIMERA VEZ": existe desde Cl 1. (4) El debrief publico del midterm y la correccion de errores de las presentaciones se eliminan: el error paper sale solo de los Bloques 1 y 2. (5) La tarea escrita de Conv ("What I have done in this course") sale: la escritura es de Gramatica; queda el video No. 22.
 - **El docente NO comunica resultados ni pronosticos.** La rubrica, la grabacion y la cita literal son evidencia; quien interpreta es coordinacion.
