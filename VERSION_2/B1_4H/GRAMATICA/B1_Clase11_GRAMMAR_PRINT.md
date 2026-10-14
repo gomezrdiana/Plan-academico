@@ -106,10 +106,10 @@ TRACKING LOG (base verbs -- the agent says them in the PAST)
 ```
 HOMEWORK GRAMMAR CL 11 — TWO THINGS.
 DUE: Cl 12, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
-NOT FRAGMENTED. TIME: 30-45 min (B1).
-(1) WRITTEN, in your notebook: 15 true sentences about your real work or
-    study week, in 5 sets of 3 — one set per spelling family (A, B, C, D)
-    and one set where every verb sounds /id/. A time marker in each.
+NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+(1) WRITTEN, in your notebook: 8 true sentences about your real work or
+    study week, in 4 sets of 2 — one set per spelling family (A, B, C, D)
+    — and at least 2 of the 8 with a verb that sounds /id/. A time marker in each.
     Mark the family and the sound next to every verb.
     NEVER "studyed" / "stoped" / "workt". Bring the notebook to
     Conversation Cl 12.
@@ -117,7 +117,7 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
 
 5. **PASE al docente de CONVERSACION (Conv Cl 11, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -139,7 +139,7 @@ titulo ni su guion).
 CONV CL 11 HOY: el mismo pasado regular en uso oral — ED con sus 3 sonidos,
 marcador de tiempo y credito a quien hizo el trabajo. La ortografia quedo
 sellada en papel a las 8:00: apoyate en eso, no la vuelvas a explicar.
-TAREA QUE DEJE: 15 frases escritas, due Cl 12 antes de las 7:00 PM. El video
+TAREA QUE DEJE: 8 frases escritas, due Cl 12 antes de las 7:00 PM. El video
 del dia lo asignas TU (abre con LISTEN FIRST). NO pidas otro papel encima.
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo modulo.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
@@ -179,8 +179,8 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - **Frente a la guia 4H anterior:** Las citas se ampliaron leyendo el libro: **el A2 M12 remite al pasado simple del A1**, y el **A1 M10 trae verbatim el cuadro de pronunciacion del -ed (p.125) y los Ejemplos (p.126)**, que ahora se dictan. Los tres sonidos dejan de ser "refuerzo Heiiu" y pasan a ser cita.
 - **DE PIE 86%:** Bloques 1, 2 y 3 completos (20 + 40 + 35 = 95 de 110). El dictado se escribe de pie junto al tablero.
 - **B3 REDISENADO POR ANTI-DUPLICADO.** La guia 4H anterior de Grammar Cl 11 usaba **"WORKDAY BRIEFING — What did you get done?"** (reporte de fin de semana al lider) y la de Conv Cl 11 (10:00) usa **"YESTERDAY'S WORKDAY DEBRIEF"**: el mismo guion con otro nombre — alguien cuenta a un colega lo que hizo. Aqui el escenario es **PACKAGE TRACE AT THE COURIER COUNTER**: cambia el registro (atencion a un cliente molesto, no conversacion entre colegas), cambian los roles (agente de mostrador y cliente), cambia la meta (reconstruir una cronologia exacta hora por hora y reconocer la falla propia) y cambia la carga: el registro del tablero obliga a producir **las 4 familias de ortografia** (ordered, packed, shipped, tried, returned, requested) y los observers **escriben y deletrean**, cosa que Conversacion no hizo. Ni el titulo, ni los roles, ni el guion, ni la carga se repiten.
-- **Tarea por pista:** Gramatica deja la tarea ESCRITA (15 frases, 5 sets) y recuerda que el video diario es UNO solo: el que Conversacion asigna hoy a las 10:00 (No. 11).
+- **Tarea por pista:** Gramatica deja la tarea ESCRITA (8 frases, 4 sets + 2 con /id/) y recuerda que el video diario es UNO solo: el que Conversacion asigna hoy a las 10:00 (No. 11).
 - **Recuperacion por pista:** N-3 = **Grammar Cl 8** · N-7 = **Grammar Cl 4** · mas los 3 errores del PASE de Conversacion Cl 10 (cierre del dia anterior). Sin mapa semanal de tickets: NO se citan tickets.
 - **Virtud:** JUSTICIA, Cl 1 de 5 (Cl 11-15 de cada pista), calendario absoluto. Angulo de Gramatica: **corregir sin humillar** (formula fija *"Almost — it's..."* en el zone walk y la correccion en cadena) y, en la simulacion, **reconocer la falla propia**. Conversacion la abre a las 10:00 con otro angulo (credito a quien hizo el trabajo).
-- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — las 15 frases de la tarea son insumo directo de la pieza de Conv Cl 12 ("the moment things changed for me").
+- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — las 8 frases de la tarea son insumo directo de la pieza de Conv Cl 12 ("the moment things changed for me").
 - `SUPUESTO DE PLANEACION — verificar`: las **4 familias de ortografia** son organizacion Heiiu. El libro solo dice "-d o -ed" y muestra "studied"; la **doble consonante (stop -> stopped)** no aparece en el libro y se enseña como uso estandar. El desglose del pasado en Cl 11-16 viene del mapa 4H.

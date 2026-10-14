@@ -104,19 +104,19 @@ WRITE THE FULL SENTENCE, adverb in its place:
 ```
 HOMEWORK GRAMMAR CL 7 — TWO THINGS, BOTH DUE.
 DUE: Cl 8, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
-NOT FRAGMENTED. TIME: 30-45 min (B1).
-(1) WRITTEN, in your notebook, 12 lines about your real work week:
-    8 with a main verb plus the adverb BEFORE it,
-    4 with BE plus the adverb AFTER it.
+NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+(1) WRITTEN, in your notebook, 6 lines about your real work week:
+    4 with a main verb plus the adverb BEFORE it,
+    2 with BE plus the adverb AFTER it.
     Use all five adverbs (always, usually, often, sometimes, never).
-    3 of the 12 must be third person (he / she) with the -s in place.
+    2 of the 6 must be third person (he / she) with the -s in place.
     Underline every adverb. Circle every verb.
     Bring the notebook to the next Grammar class.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
 
 4. **PASE al DOCENTE DE CONVERSACION (Conv Cl 7, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -141,7 +141,7 @@ CONV CL 7 HOY: los mismos cinco adverbios en uso oral, con "How often do
 you...?". El marco quedo sellado en papel a las 8:00: apoyate en eso, no lo
 vuelvas a explicar. Arranca con un "Routine Roundup": cada uno 1 frase con
 he/she mas verbo-S con el sonido correcto, ANTES de meter el adverbio.
-TAREA ESCRITA: la deje YO (12 lineas). El video del dia lo asignas TU (abre
+TAREA ESCRITA: la deje YO (6 lineas). El video del dia lo asignas TU (abre
 con LISTEN FIRST). No pidas otro papel encima: las pistas no duplican tarea.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
@@ -187,5 +187,5 @@ Ejemplos del libro:
 - **Virtud:** TEMPLANZA, **Cl 2 de 5** (Cl 6-10 de cada pista, calendario absoluto por numero de clase de cada pista; no se desplaza por festivos ni cancelaciones). Ya quedo presentada en la Cl 6 de las dos pistas: hoy se aplica, no se presenta, pero lleva igual su porque en una frase.
 - **Recuperacion de esta pista:** N-3 = **Grammar Cl 4** (will mas in / on / at). **N-7 no existe aun** (seria Grammar Cl 0), asi que el segundo bloque de disparadores sale del PASE recibido, mas un reciclo corto de Cl 6 (HAS y los tres sonidos) como pide la frontera. Sin mapa semanal de tickets todavia: NO citar tickets.
 - **Frontera:** la proxima Grammar (Cl 8) = **A1 M13 "We Play Hockey Twice a Week" — Expressions of Frequency (p.165-169)**: la forma FRECUENCIA mas A(N) mas PERIODO, colocada al final de la frase. Cl 7 no la toca.
-- **Proyecto MY STORY, MY GOALS:** hoy no hay pieza nueva — Gramatica sella la herramienta. Las 12 lineas de la tarea son materia prima para la pieza que arma Conversacion en la Cl 8. Se anota para que no se lea como pieza perdida.
+- **Proyecto MY STORY, MY GOALS:** hoy no hay pieza nueva — Gramatica sella la herramienta. Las 6 lineas de la tarea son materia prima para la pieza que arma Conversacion en la Cl 8. Se anota para que no se lea como pieza perdida.
 - **El profe no comunica notas ni resultados.** Midterm Cl 22, presentaciones Cl 43, final Cl 44 con evaluador externo: todo eso lo comunica coordinacion.

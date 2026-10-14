@@ -113,19 +113,17 @@ WRITE IT — one line each, the form in brackets:
 ```
 HOMEWORK GRAMMAR CL 5 — TWO THINGS, BOTH DUE.
 DUE: Cl 6, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
-NOT FRAGMENTED. TIME: 30-45 min (B1).
-(1) WRITTEN, in your notebook, 12 lines about the daily routine of a real
-    person you work with or admire:
-    6 affirmative (he / she + verb-S, correct spelling),
-    3 negative (doesn't + BASE verb),
-    3 questions (Does ... ?) each with its short answer.
+NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+(1) WRITTEN, in your notebook, 6 lines about the daily routine of a real person you
+    work with or admire: 3 affirmative (he / she + verb-S, correct spelling),
+    2 negative (doesn't + BASE verb), 1 question (Does ... ?) with its short answer.
     Circle every -s. Underline every BASE verb after don't / doesn't.
     Bring the notebook to the next Grammar class.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
 
 4. **PASE al PROFESOR DE CONVERSACION (Conv Cl 5, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -149,7 +147,7 @@ HANDLES THIS?" (visitante externo en recepcion, sin señalar: solo palabras).
 CONV CL 5 HOY: la rutina en presente AFIRMATIVO, propia y de un tercero, con
 la -s y los marcadores de tiempo (MY STORY piece 4). El marco quedo sellado
 en papel a las 8:00: apoyate en eso, no lo vuelvas a explicar.
-TAREA ESCRITA: la deje YO (12 lineas). El video del dia lo asignas TU (abre
+TAREA ESCRITA: la deje YO (6 lineas). El video del dia lo asignas TU (abre
 con LISTEN FIRST). No pidas
 otro papel encima: las pistas no duplican tarea.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
@@ -186,5 +184,5 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - **Recuperacion de esta pista:** N-3 = **Grammar Cl 2**. **N-7 no existe aun** (seria Grammar Cl -2), asi que el segundo bloque de disparadores sale del PASE recibido. Sin mapa semanal de tickets todavia: NO citar tickets.
 - **Cierre del puente A1/A2 en la pista de Gramatica.** El puente sello: present perfect vs simple past (A2 M17, Cl 1-2), should mas numeros (A1 M4/M5, Cl 3), will mas in/on/at (A1 M6/M29 y A2 M1-2, Cl 4) y simple present mas tercera persona (A1 M8/M9, Cl 5). **Grammar Cl 6 arranca la marcha del libro**: have -> HAS (A1 M17, Guia 1 p.211) mas los tres sonidos de la -s (A1 M9, Guia 1 punto 4, p.112). Grammar Cl 5 deja escrito en su caja "NO TOCAR AUN" exactamente eso, para que Cl 6 no lo amplie ni lo repita.
 - **El libro trata la -s como regla de PRONUNCIACION** (M9 punto 4); la **ortografia** "-ch/-sh/-s/-x -> es" y "consonante mas y -> ies" sale de los ejemplos del propio libro (*watches*, *studies*, *tries*, p.112-113) y de M8, pero **no viene enunciada como regla ortografica**. `SUPUESTO DE PLANEACION — verificar`: se ensena como cuadro de ortografia porque el dictado la exige; si coordinacion lo quiere solo como pronunciacion, se elimina el Tablero 2 y se pasa el cuadro a Cl 6 junto con los tres sonidos.
-- **Proyecto MY STORY, MY GOALS:** hoy no hay pieza nueva — Gramatica sella la herramienta. Las 12 lineas de la tarea son materia prima directa para la pieza que arma Conversacion en la Cl 6. Se anota para que no se lea como pieza perdida.
+- **Proyecto MY STORY, MY GOALS:** hoy no hay pieza nueva — Gramatica sella la herramienta. Las 6 lineas de la tarea son materia prima directa para la pieza que arma Conversacion en la Cl 6. Se anota para que no se lea como pieza perdida.
 - **El profe no comunica notas ni resultados.** Midterm Cl 22, presentaciones Cl 43, final Cl 44 con evaluador externo: todo eso lo comunica coordinacion.

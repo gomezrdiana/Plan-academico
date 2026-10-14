@@ -101,17 +101,17 @@ INCIDENT CARD — a client's order went to the wrong city
 ```
 HOMEWORK GRAMMAR CL 13 — TWO THINGS.
 DUE: Cl 14, BEFORE 7:00 PM — that is, TODAY before 7:00 PM. NOT NEGOTIABLE.
-NOT FRAGMENTED. TIME: 30-45 min (B1).
-(1) WRITTEN, in your notebook, about your real week: 15 sentences —
-    5 negatives with DIDN'T + 5 yes/no questions with their short answer
-    + 3 WH questions with DID + 2 WHO / WHAT questions WITHOUT did.
-    At least 5 irregular verbs back in their base. Circle every base verb.
+NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+(1) WRITTEN, in your notebook, about your real week: 7 sentences —
+    2 negatives with DIDN'T + 2 yes/no questions with their short answer
+    + 2 WH questions with DID + 1 WHO / WHAT question WITHOUT did.
+    At least 3 irregular verbs back in their base. Circle every base verb.
     Bring the notebook to Conversation Cl 14.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 5. **PASE al docente de CONVERSACION (Conv Cl 13, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -130,7 +130,7 @@ el transform walk · la simulacion INCIDENT REVIEW (no repitas ese titulo ni
 su guion).
 TU CLASE PONE EN USO ORAL este mismo modulo (did / didn't, short answers).
 Tu guia trae el como. El chequeo de portafolio es tuyo.
-TAREA QUE DEJE: 15 frases escritas, due Cl 14 antes de las 7:00 PM. El video
+TAREA QUE DEJE: 7 frases escritas, due Cl 14 antes de las 7:00 PM. El video
 del dia lo asignas tu (con LISTEN FIRST). NO pidas otro papel encima: las pistas no duplican tarea.
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo modulo.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
@@ -165,8 +165,8 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - **Frente a la guia 4H anterior:** (1) el modulo se ancla en el **A1 M10 Guia 1 (p.125)** y sus Ejemplos (p.126), que ahora se dictan y transforman; la anterior solo citaba el A2 M12. (2) Se corrigio la pagina de los Examples del A2 M12: estan en la **p.101**, no en la p.100. (3) La tarea ya no pide audio: el portafolio diario es el video de Conversacion. (4) Recuperacion re-anclada a la edicion nueva (N-7 = Grammar Cl 6 con contenido real: HAS y el auxiliar que se lleva la marca, puente directo al did).
 - **DE PIE 86%:** Bloques 1, 2 y 3 completos (95 de 110). El dictado se escribe de pie junto al tablero.
 - **Anti-duplicado:** Conv Cl 13 usa **JOB INTERVIEW — PAST EXPERIENCE**; aqui **INCIDENT REVIEW** (reunion interna de operaciones, roles miembro del equipo y gerente, meta = encontrar la causa sin culpable, carga = preguntas de sujeto). Ni titulo ni guion se repiten.
-- **Tarea por pista:** Gramatica deja la tarea ESCRITA (15 frases) y recuerda que el video diario es UNO solo: el No. 13 de Conversacion.
+- **Tarea por pista:** Gramatica deja la tarea ESCRITA (7 frases) y recuerda que el video diario es UNO solo: el No. 13 de Conversacion.
 - **Recuperacion:** N-3 = **Grammar Cl 10** · N-7 = **Grammar Cl 6**. Sin mapa semanal de tickets: NO se citan tickets.
 - **Virtud:** JUSTICIA, Cl 3 de 5 (Cl 11-15), calendario absoluto. Angulo de Gramatica: **la causa, no el culpable** (liderazgo etico). Conversacion trabajo **preguntar antes de juzgar**.
-- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — las 15 frases de la tarea son insumo de la linea de tiempo que Conv Cl 14 ordena.
+- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — las 7 frases de la tarea son insumo de la linea de tiempo que Conv Cl 14 ordena.
 - `SUPUESTO DE PLANEACION — verificar`: la **pregunta de sujeto sin did (WHO called? / WHAT happened?)** no esta como regla en el libro (el A1 M10 trae "who" como palabra interrogativa y "Who did Jefferson help?" como objeto); se conserva de la guia 4H anterior como sistematizacion Heiiu. La ficha del incidente es diseño Heiiu.

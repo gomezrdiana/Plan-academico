@@ -114,19 +114,18 @@ RULE: 10 numbers in 20 seconds. Over 20 seconds, the turn passes.
 ```
 HOMEWORK CL 3 (GRAMMAR) — TWO THINGS.
 DUE: Cl 4, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
-NOT FRAGMENTED. TIME: 30-45 min (B1).
-(1) WRITTEN, in your notebook, 12 sentences with should about your real
-    work or study life: 5 affirmative + 4 with shouldn't + 3 questions
-    (one of them starting with "Where should..."), each question with its
-    short answer. Base verb always: no "to", no "-s". In FOUR of the
-    twelve, put a time or a price WRITTEN IN WORDS ("six o'clock",
-    "two oh eight", "seven thirty-five"). Underline every number.
-    Bring the notebook to the next Grammar class.
+NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+(1) WRITTEN, in your notebook, 6 sentences with should about your real
+    work or study life: 3 affirmative + 2 with shouldn't + 1 question
+    starting with "Where should...", with its short answer. Base verb
+    always: no "to", no "-s". In TWO of the six, put a time or a price
+    WRITTEN IN WORDS ("six o'clock", "two oh eight", "seven thirty-five").
+    Underline every number. Bring the notebook to the next Grammar class.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
 
 4. **PASE al DOCENTE DE CONVERSACION (Conv Cl 3, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -143,7 +142,7 @@ Conteo de la simulacion (+ / - / ? / where  y  errores "should to"): __ / __ / _
 YA QUEDO HECHO HOY, NO LO REPITAS: el paradigma de should · Ejercicios 1 p.46 ·
 las dos practicas de numeros y horas · la simulacion RELOCATION DECISION
 MEETING (no repitas ese titulo ni su guion).
-TAREA QUE DEJE: 12 frases escritas. El video del dia lo asignas TU (abre con
+TAREA QUE DEJE: 6 frases escritas. El video del dia lo asignas TU (abre con
 LISTEN FIRST): no duplicar.
 CONV CL 3 HOY: los mismos modulos en uso oral — el consejo hablado con hora
 y precio. El marco de should quedo sellado en papel a las 8:00: apoyate en
@@ -183,4 +182,4 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - **Miles y millones:** el libro llega a cien, con horas y precios en dolares y centavos; **no se ensenan cantidades grandes.** **Resuelto con la edicion unica:** la guia 4H anterior de Conv Cl 3 usaba miles de pesos; la de hoy ya trae el formato del libro.
 - **Virtud:** PRUDENCIA, **Cl 3 de 5 de esta virtud** (Cl 1-5 de cada pista), calendario absoluto por numero de clase de la pista. **Recuperacion:** N-3 y N-7 de la pista no existen todavia (Gramatica tiene Cl 1 y Cl 2): se recupera Gramatica Cl 1-2 mas los 3 errores del PASE de Conversacion Cl 2 (cierre del dia anterior). Sin mapa semanal → NO se citan tickets.
 - **ANTI-DUPLICADO — por que el B3 de hoy es DISTINTO del de Conversacion Cl 3:** a las 10:00, en Conversacion Cl 3, es **TRAVEL ADVISORY DESK** (mostrador de servicio, cliente EXTERNO que pide recomendacion, advisor que cotiza, viajero que decide). Hoy es **RELOCATION DECISION MEETING**: reunion INTERNA entre colegas que cierran una decision de la empresa, sin cliente y sin mostrador, y la carga obligatoria son las **cuatro formas del paradigma** — incluida *"where should...?"* (punto 4 del libro) y el short answer corto (punto 5) —, con ficha de cuatro casillas que obliga a llenar la que quede en cero. Ni titulo, ni roles, ni guion, ni ficha, ni carga se repiten. La guia 4H anterior usaba **CONSULTANT DESK** y se descarto: es el mismo guion que el TRAVEL ADVISORY DESK de Conversacion.
-- **Proyecto del nivel:** hoy **no hay pieza nueva** — las 12 frases de la tarea alimentan la pieza 3 (Conv Cl 4). **Proxima (Grammar Cl 4):** A1 M6 (p.71-76, will) + IN / ON / AT (A1 M29 p.327; A2 M1 p.3; A2 M2 p.15). (`SUPUESTO DE PLANEACION — verificar`: mapa del B1 Mastery.)
+- **Proyecto del nivel:** hoy **no hay pieza nueva** — las 6 frases de la tarea alimentan la pieza 3 (Conv Cl 4). **Proxima (Grammar Cl 4):** A1 M6 (p.71-76, will) + IN / ON / AT (A1 M29 p.327; A2 M1 p.3; A2 M2 p.15). (`SUPUESTO DE PLANEACION — verificar`: mapa del B1 Mastery.)

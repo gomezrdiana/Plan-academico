@@ -83,17 +83,17 @@ SELF-CHECK: -ing scene? when + past turn? base after did / didn't?
 ```
 HOMEWORK GRAMMAR CL 20 — TWO THINGS.
 DUE: Cl 21, BEFORE 7:00 PM — that is, TODAY before 7:00 PM.
-NOT NEGOTIABLE. NOT FRAGMENTED. TIME: 30-45 min (B1).
-(1) WRITTEN, in your notebook: one paragraph, 12-14 sentences —
+NOT NEGOTIABLE. NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+(1) WRITTEN, in your notebook: one paragraph, 6-7 sentences —
     "MY HARDEST CHALLENGE" — every sentence LABELED with its form
-    number (1-5), every form at least twice, NO present verbs.
+    number (1-5), every form at least once, NO present verbs.
     This page is the base of your presentation.
     Bring the notebook to Conversation Cl 21.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 5. **PASE al docente de CONVERSACION (Conv Cl 20, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -110,7 +110,7 @@ micro-historia de 5 frases · la simulacion ANNUAL REPORT (no repitas ese
 titulo ni su guion).
 TU CLASE PONE EN USO ORAL este mismo contenido. Tu guia trae el como.
 El chequeo de portafolio es tuyo.
-TAREA QUE DEJE: parrafo de 12-14 frases etiquetado, due Cl 21 antes de las
+TAREA QUE DEJE: parrafo de 6-7 frases etiquetado, due Cl 21 antes de las
 7:00 PM. Es la base de su presentacion. El video del dia lo asignas tu (con LISTEN FIRST).
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo contenido.
 Firma Gramatica: ______________  Recibido Conversacion: ______________

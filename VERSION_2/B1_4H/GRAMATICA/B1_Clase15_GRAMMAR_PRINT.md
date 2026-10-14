@@ -110,10 +110,10 @@ DICTATION — (a) the other form, (b) the question + short answer, + P or L:
 ```
 HOMEWORK GRAMMAR CL 15 — TWO THINGS.
 DUE: Cl 16, BEFORE 7:00 PM — that is, TODAY before 7:00 PM. NOT NEGOTIABLE.
-NOT FRAGMENTED. TIME: 30-45 min (B1).
+NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
 (1) WRITTEN, in your notebook: YOUR STATEMENT — one real workday or study
-    day, hour by hour, 12 sentences: 5 LINES (was / were + -ING, at least
-    2 with WERE), 5 POINTS (past simple), 1 negative line (wasn't /
+    day, hour by hour, 6 sentences: 2 LINES (was / were + -ING, at least
+    1 with WERE), 2 POINTS (past simple), 1 negative line (wasn't /
     weren't) and 1 question with its short answer. Mark P or L next to
     every sentence. Check the -ING spelling (making, swimming).
     Bring the notebook to Conversation Cl 16.
@@ -121,7 +121,7 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 5. **PASE al docente de CONVERSACION (Conv Cl 15, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -140,7 +140,7 @@ dictado · la simulacion INTERNAL AUDIT (no repitas ese titulo ni su guion) ·
 la retrospectiva.
 TU CLASE PONE EN USO ORAL este mismo contenido. Tu guia trae el como.
 El chequeo de portafolio es tuyo.
-TAREA QUE DEJE: declaracion de 12 frases, due Cl 16 antes de las 7:00 PM. El
+TAREA QUE DEJE: declaracion de 6 frases, due Cl 16 antes de las 7:00 PM. El
 video del dia lo asignas tu (con LISTEN FIRST). NO pidas otro papel: las pistas no duplican tarea.
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo contenido.
 Firma Gramatica: ______________  Recibido Conversacion: ______________

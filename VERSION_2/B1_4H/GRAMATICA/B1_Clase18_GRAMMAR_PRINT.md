@@ -105,10 +105,10 @@ INCIDENT: a client order arrived two days late.
 ```
 HOMEWORK GRAMMAR CL 18 — TWO THINGS.
 DUE: Cl 19, BEFORE 7:00 PM — that is, TODAY before 7:00 PM.
-NOT NEGOTIABLE. NOT FRAGMENTED. TIME: 30-45 min (B1).
-(1) WRITTEN, in your notebook: 12 true sentences in 4 sets of 3 —
-    before-sentences / after-sentences / because-sentences /
-    questions with short answers ("Had you...? — Yes, I had.").
+NOT NEGOTIABLE. NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+(1) WRITTEN, in your notebook: 6 true sentences in 4 sets —
+    2 before-sentences / 2 after-sentences / 1 because-sentence /
+    1 question with its short answer ("Had you...? — Yes, I had.").
     Underline HAD, circle the participle.
     NEVER "had went" / "had finish". Bring the notebook to
     Conversation Cl 19.
@@ -116,7 +116,7 @@ NOT NEGOTIABLE. NOT FRAGMENTED. TIME: 30-45 min (B1).
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 5. **PASE al docente de CONVERSACION (Conv Cl 18, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -134,7 +134,7 @@ dictado p.104 · la simulacion POST-INCIDENT REVIEW WITH OPERATIONS (no
 repitas ese titulo ni su guion).
 TU CLASE DE HOY TRAE EL HITO (segunda entrevista). Tu guia trae el como.
 El chequeo de portafolio es tuyo.
-TAREA QUE DEJE: 12 frases en 4 sets, due Cl 19 antes de las 7:00 PM. El
+TAREA QUE DEJE: 6 frases en 4 sets, due Cl 19 antes de las 7:00 PM. El
 video del dia lo asignas tu (con LISTEN FIRST). NO pidas otro papel encima.
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo contenido.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
@@ -166,7 +166,7 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - **Edicion unica manana/noche:** reemplaza la guia 4H anterior de Cl 18 con el formato de la edicion nueva: 110 min (B1 20' + B2 40' + B3 35' + B4 15'), Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (orden de la hoja de arranque 13/10), PASE en papel Grammar -> Conv a las 10:00 y Conv -> Grammar al cerrar a las 12:00 para la manana siguiente; el chequeo de portafolio lo hace Conv; Grammar solo lo recuerda, due "Cl N+1, BEFORE 7:00 PM", ticket antes del error paper, UN solo video diario (el de Conversacion). Contenido conservado: M9 Guide 2 con citas verbatim, drill de pares de eventos, errores tipicos, zone walk, tarea de 12 frases en 4 sets, Frase del Dia.
 - **Frente a la guia 4H anterior:** (1) B3 **rediseñado por anti-duplicado y realismo:** la anterior era "TWO-LAYER STORY SPRINT" (reconstruir por que salio un proyecto), casi el mismo guion que el "PROJECT REVIEW" de la Conv anterior. Hoy Conv hace la segunda entrevista y Grammar hace **POST-INCIDENT REVIEW WITH OPERATIONS**: otro registro (informe interno), otros roles (miembro del equipo y jefe de operaciones), misma carga (HAD en al menos la mitad de las frases). (2) Se agrega el dictado de los Examples p.104 al papel del estudiante (verificado en el PDF). (3) El audio diario de Grammar desaparece: el video diario es uno solo y es el de Conversacion.
 - **DE PIE 86%:** Bloques 1, 2 y 3 completos (95 de 110). El dictado se escribe de pie junto al tablero.
-- **Tarea por pista:** Gramatica deja la ESCRITA (12 frases). Conv dejo el video No. 18.
+- **Tarea por pista:** Gramatica deja la ESCRITA (6 frases). Conv dejo el video No. 18.
 - **Recuperacion:** N-3 = Grammar Cl 15 (pasado continuo, punto / linea; -ING del A1 M33 p.377) · N-7 = Grammar Cl 11 (-ED). Sin mapa semanal de tickets: NO se citan tickets.
 - **Virtud:** FORTALEZA, Cl 3 de 5 (Cl 16-20), calendario absoluto. Angulo de Gramatica: el informe honesto (lo que ya estaba hecho). Conv trabajo la preparacion que nadie vio.
 - **Libro B1 M9** tambien contiene Guide 1 "Simple Past vs Present Perfect" (p.99-101) y Guide 3 "The Future Perfect" (p.107-108). Hoy solo Guide 2. `SUPUESTO DE PLANEACION — verificar` el solapamiento con el mapa M1-M12 del Libro B1 mas adelante en el nivel.

@@ -106,17 +106,17 @@ bottom. No "Dear Sir or Madam" — write to a person.
 ```
 HOMEWORK GRAMMAR CL 10 — TWO THINGS.
 DUE: Cl 11, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
-NOT FRAGMENTED. TIME: 30-45 min (B1).
-(1) WRITTEN, in your notebook, 12 lines about your real work or study
+NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+(1) WRITTEN, in your notebook, 6 lines about your real work or study
     week, replacing every name with an object pronoun and keeping the
-    order: 6 after the VERB, 3 after a PREPOSITION (with him / for us /
-    to them), and 3 in the NEGATIVE (I didn't call her yet).
+    order: 3 after the VERB, 2 after a PREPOSITION (with him / for us /
+    to them), and 1 in the NEGATIVE (I didn't call her yet).
     Underline every pronoun. Bring the notebook to Conversation Cl 11.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
 
 5. **PASE al docente de CONVERSACION (Conv Cl 10, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo, y es el primer hito del nivel.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -138,7 +138,7 @@ YA QUEDO HECHO HOY, NO LO REPITAS: la tabla en el tablero · el dictado de los
 Ejemplos p.201 en afirmativo y negativo · el drill de negativo, pregunta y
 short answer · la NOTA PREVIA · la simulacion REFERENCE CHECK CALL
 (no repitas ese titulo ni su guion) · la retrospectiva de cierre de virtud.
-TAREA QUE DEJE: 12 lineas escritas, due Cl 11 antes de las 7:00 PM. El video
+TAREA QUE DEJE: 6 lineas escritas, due Cl 11 antes de las 7:00 PM. El video
 del dia lo asignas TU (abre con LISTEN FIRST). NO pidas otro papel encima.
 CONV CL 10 HOY: el mismo modulo en uso oral + el HITO, la entrevista
 simulada grabada. Los pronombres quedaron sellados en papel a las 8:00:
@@ -182,10 +182,10 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - **NOTA ESCRITA DEL HITO (lo que esta guia agrega al nivel):** la entrevista simulada de Conv Cl 10 no es solo la entrevista. Con el orden real (Gramatica a las 8:00, antes de la entrevista de las 10:00) la nota pasa de seguimiento posterior a **nota previa de 8-10 lineas, escrita A MANO en clase**, con el mismo marco de 5 puntos adaptado a "antes". `SUPUESTO DE PLANEACION — verificar`: alternativa para coordinacion = devolverla a seguimiento posterior en Grammar Cl 11 (8:00 del dia siguiente), recortando otro punto de esa guia — a mano y en clase por la regla anti-IA, con el marco dictado al tablero y cero material impreso. Se recogen TODAS y viajan fisicas con los tickets: son **evidencia escrita del hito** para el expediente del nivel, junto con las grabaciones que envia Conversacion.
 - **DE PIE 77%:** Bloque 1 (20') + primeros 30' del Bloque 2 + Bloque 3 (35') = 85 de 110. Por debajo del 86% habitual de esta pista, **porque la nota escrita a mano son 10 minutos sentados que el hito exige**. Sigue muy por encima del piso del 70% y la guia marca explicitamente que parte es de pie.
 - **B3 REDISENADO POR ANTI-DUPLICADO.** La guia 4H anterior de Grammar Cl 10 usaba **"FOLLOW-UP BRIEFING"** (reporte de a quien se contacto en la semana) y la de Conv Cl 10 usaba **"WEEKLY FOLLOW-UP"** — el mismo guion con otro nombre. Aqui Conv Cl 10 ya no hace ninguno de los dos (su B3 es el hito, la **entrevista simulada**), y Grammar estrena **REFERENCE CHECK CALL**: cambia el registro (llamada de verificacion confidencial, no reporte interno), cambian los roles (jefe anterior y quien llama de Recursos Humanos, no empleado y lider), cambia la meta (verificar a un tercero ausente, no rendir cuentas propias) y cambia la carga gramatical: a las 10:00 el candidato habla en **primera** persona de si mismo; aqui dos personas hablan en **tercera** persona de alguien que no esta, que es exactamente donde viven him / her / them. Ni el titulo, ni los roles, ni el guion, ni la carga se repiten. Detalle fisico propio: los dos hablan **de espaldas y de pie**, porque es una llamada.
-- **Tarea por pista:** Gramatica deja la tarea ESCRITA (12 lineas, 3 tras preposicion, 3 en negativo) y recuerda que el video diario es UNO solo: el que Conversacion asigna hoy a las 10:00 (No. 10).
+- **Tarea por pista:** Gramatica deja la tarea ESCRITA (6 lineas, 2 tras preposicion, 1 en negativo) y recuerda que el video diario es UNO solo: el que Conversacion asigna hoy a las 10:00 (No. 10).
 - **Recuperacion por pista:** N-3 = **Grammar Cl 7** (posicion del adverbio) · N-7 = **Grammar Cl 3** (should, horas y precios) · mas los 3 errores del PASE de Conversacion Cl 9 (cierre del dia anterior). Sin mapa semanal de tickets — NO se citan tickets.
 - **Virtud:** TEMPLANZA, Cl 5 de 5 (Cl 6-10 de cada pista), calendario absoluto. **Hoy CIERRA en la pista de Gramatica** (8:00) con retrospectiva; Conversacion la cierra a las 10:00. **Cl 11-15 = JUSTICIA v1** segun el mapa del B1 Mastery: la guia de Cl 11 de cada pista la abre y la nombra; el docente de hoy no la anuncia.
-- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — la nota previa y las 12 lineas de la tarea son insumo directo de Conv Cl 11, que abre el arco del pasado.
+- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — la nota previa y las 6 lineas de la tarea son insumo directo de Conv Cl 11, que abre el arco del pasado.
 - **Evaluaciones:** el docente **no comunica** como le ira o como le fue a nadie en la entrevista, ni notas, ni resultados, ni juicio de garantia. Da feedback en TIPO al grupo. Todo lo demas es coordinacion.
 - `SUPUESTO DE PLANEACION — verificar`: el **uso de pronombre objeto despues de preposicion** aparece en los ejemplos del libro ("I talk with him", "he can study with them") pero **no como regla enunciada** en la Guia 1; se enseña como uso estandar derivado de los ejemplos, no como cita.
 - `SUPUESTO DE PLANEACION — verificar`: la **nota escrita del hito** (hoy previa) es diseño Heiiu, no contenido del libro. Confirmar con coordinacion que las notas se archivan como evidencia del hito junto con las grabaciones.

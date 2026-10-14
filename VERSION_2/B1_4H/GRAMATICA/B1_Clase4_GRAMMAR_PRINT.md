@@ -118,19 +118,17 @@ morning" and ONE must use "at night".
 ```
 HOMEWORK CL 4 (GRAMMAR) — TWO THINGS.
 DUE: Cl 5, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
-NOT FRAGMENTED. TIME: 30-45 min (B1).
-(1) WRITTEN, in your notebook, 12 sentences with will about your real
-    next week: 5 affirmative + 4 with won't + 3 questions (one starting
-    with "What time will..."), each question with its short answer.
-    Base verb always: no "to", no "-s". AT, ON and IN must each appear
-    at least twice, and every hour written in words ("six twenty",
-    "nine oh nine"). Underline the preposition.
-    Bring the notebook to the next Grammar class.
+NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+(1) WRITTEN, in your notebook, 6 sentences with will about your real next week:
+    3 affirmative + 2 with won't + 1 question starting with "What time will...", with its
+    short answer. Base verb always: no "to", no "-s". AT, ON and IN must each appear at
+    least once, and every hour written in words ("six twenty", "nine oh nine").
+    Underline the preposition. Bring the notebook to the next Grammar class.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
 
 4. **PASE al DOCENTE DE CONVERSACION (Conv Cl 4, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -149,7 +147,7 @@ Conteo de la simulacion (at / on / in bien, X mal, short answers largos): __/__/
 YA QUEDO HECHO HOY, NO LO REPITAS: el paradigma de will · Ejercicios 1 p.76 ·
 MY PLAN TODAY · el zone walk de tres preposiciones · la simulacion SERVICE
 SCHEDULING CALL (no repitas ese titulo ni su guion).
-TAREA QUE DEJE: 12 frases (escrito). El video del dia lo asignas TU (abre con
+TAREA QUE DEJE: 6 frases (escrito). El video del dia lo asignas TU (abre con
 LISTEN FIRST): no duplicar.
 CONV CL 4 HOY: el plan HABLADO con will y las tres preposiciones (MY STORY
 piece 3). El marco de will quedo sellado en papel a las 8:00: apoyate en
@@ -187,6 +185,6 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - **Dias de la semana:** el ejemplo del libro para "on" (*"I will play on Monday"*) queda **solo en el Anexo, como cita del libro**; en el cuerpo y en el tablero se usa *"on the deadline day"*, para no meter nombres de dias ni fechas en la guia.
 - **Virtud:** PRUDENCIA, **Cl 4 de 5 de esta virtud** (Cl 1-5 de cada pista), calendario absoluto por numero de clase de la pista. **Recuperacion:** **N-3 de la pista YA EXISTE y es Gramatica Cl 1** (didn't vs haven't yet), marcada como tal en el Bloque 1; **N-7 todavia no existe.** Sin mapa semanal → NO se citan tickets.
 - **ANTI-DUPLICADO — por que el B3 de hoy es DISTINTO del de Conversacion Cl 4:** a las 10:00, en Conversacion Cl 4, es **PROJECT KICKOFF MEETING** (reunion interna de arranque, cara a cara, responsables exponiendo su plan, lead que pide fechas). Hoy es **SERVICE SCHEDULING CALL**: una **llamada** entre un cliente externo y quien agenda, los dos **de espaldas** para forzar la pronunciacion de las horas, con **short answer corto** en preguntas cerradas y **confirmacion de la cita repitiendo la hora** — nada de eso aparece en Conversacion. Ni titulo, ni roles, ni guion, ni disposicion fisica, ni carga gramatical se repiten. La guia 4H anterior usaba **WEEKLY PLANNING BRIEFING** aqui y se descarto: es casi el mismo guion que el PROJECT KICKOFF de Conversacion (planeacion con el jefe, "when will you...?"). Ese era el duplicado que prohibe la regla anti-duplicado.
-- **Proyecto del nivel:** hoy **no hay pieza nueva** — Gramatica sella la herramienta; MY PLAN TODAY y las 12 frases de la tarea alimentan la pieza que arma Conversacion en su Cl 5.
+- **Proyecto del nivel:** hoy **no hay pieza nueva** — Gramatica sella la herramienta; MY PLAN TODAY y las 6 frases de la tarea alimentan la pieza que arma Conversacion en su Cl 5.
 - **Proxima clase de esta pista (Grammar Cl 5):** A1 **M8 "Where Do We Eat?" (presente simple, do/does)** + A1 **M9 "He Eats in the Restaurant" (tercera persona -s)**. `SUPUESTO DE PLANEACION — verificar`: el anclaje modulo-clase del puente Cl 1-5 viene del mapa del B1 Mastery; las paginas de M8 y M9 las verifica la guia de esa clase contra el libro.
 - **Sin material preparado:** todo en tablero, papel del propio estudiante o voz; nada de telefonos reales en la simulacion. Plan B por bloque en el Anexo.

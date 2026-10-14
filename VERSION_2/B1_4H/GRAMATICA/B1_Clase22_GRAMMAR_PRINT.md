@@ -97,18 +97,18 @@ DICTATION (A2 M16, Examples p.150) — write SIMPLE PAST + PRESENT PERFECT:
 ```
 HOMEWORK GRAMMAR CL 22 — TWO THINGS.
 DUE: Cl 23, BEFORE 7:00 PM — that is, TODAY before 7:00 PM.
-NOT NEGOTIABLE. NOT FRAGMENTED. TIME: 30-45 min (B1).
+NOT NEGOTIABLE. NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
 (1) WRITTEN, in your notebook: the book table FROM MEMORY — present ->
-    simple past -> participle for be, take, drive, wake up, eat, go,
-    tell, find. Then ONE true sentence with have / has + each
-    participle (8 sentences), 2 of them negative and 2 questions.
+    simple past -> participle for be, take, eat, go.
+    Then ONE true sentence with have / has + each
+    participle (4 sentences), 1 of them negative and 1 question.
     NEVER "has went" / "have ate". Bring the notebook to
     Conversation Cl 23.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 5. **PASE al docente de CONVERSACION (Conv Cl 22, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -127,7 +127,7 @@ formas · el dictado p.150 · la simulacion BACK FROM LEAVE (no repitas
 ese titulo ni su guion).
 TU CLASE DE HOY trae "MY STORY, MY GOALS". Tu guia trae el como.
 El chequeo de portafolio es tuyo.
-TAREA QUE DEJE: tabla de memoria + 8 frases, due Cl 23 antes de las
+TAREA QUE DEJE: tabla de memoria (4 verbos) + 4 frases, due Cl 23 antes de las
 7:00 PM. El video del dia lo asignas tu (con LISTEN FIRST). NO pidas otro papel encima.
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo contenido.
 Firma Gramatica: ______________  Recibido Conversacion: ______________

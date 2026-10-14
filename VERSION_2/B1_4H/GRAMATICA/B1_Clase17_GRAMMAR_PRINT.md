@@ -95,18 +95,18 @@ DICTATION — write it, mark P / L / L+C, and the layer (1, 2 or 3):
 ```
 HOMEWORK GRAMMAR CL 17 — TWO THINGS.
 DUE: Cl 18, BEFORE 7:00 PM — that is, TODAY before 7:00 PM. NOT NEGOTIABLE.
-NOT FRAGMENTED. TIME: 30-45 min (B1).
+NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
 (1) WRITTEN, in your notebook: YOUR STORY ON PAPER — the same challenge you
-    told in Conversation today, 10-12 sentences in one paragraph. Mark each
+    told in Conversation today, 5-6 sentences in one paragraph. Mark each
     sentence in the margin: 1 scene / 2 turn / 3 struggle / 4 order.
-    At least 2 lines with WAS / WERE + -ING, 1 cut with WHEN, 2 DIDN'T,
-    4 time words, 4 order words with their commas. NO present verbs.
+    At least 1 line with WAS / WERE + -ING, 1 cut with WHEN, 1 DIDN'T,
+    2 time words, 2 order words with their commas. NO present verbs.
     Bring the notebook to Conversation Cl 18.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 5. **PASE al docente de CONVERSACION (Conv Cl 17, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -127,7 +127,7 @@ guion).
 CADA ESTUDIANTE TENDRA SU HISTORIA "A CHALLENGE I GOT THROUGH" en el cuaderno
 (tarea de hoy, para la Cl 18). Tu guia de Cl 18 dice como se usa.
 El chequeo de portafolio es tuyo.
-TAREA QUE DEJE: la historia escrita por capas, due Cl 18 antes de las 7:00 PM.
+TAREA QUE DEJE: la historia escrita por capas (5-6 frases), due Cl 18 antes de las 7:00 PM.
 El video del dia lo asignas tu (con LISTEN FIRST). NO pidas otro papel: las pistas no duplican tarea.
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo contenido.
 Firma Gramatica: ______________  Recibido Conversacion: ______________

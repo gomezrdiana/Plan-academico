@@ -108,9 +108,9 @@ EXPENSE REPORT — 2-day business trip
 ```
 HOMEWORK GRAMMAR CL 12 — TWO THINGS.
 DUE: Cl 13, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
-NOT FRAGMENTED. TIME: 30-45 min (B1).
-(1) WRITTEN, in your notebook: 15 true sentences about your real month,
-    with at least 3 verbs from EACH of the 5 groups. Mark the group
+NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+(1) WRITTEN, in your notebook: 8 true sentences about your real month,
+    with at least 1 verb from EACH of the 5 groups. Mark the group
     (G1-G5) next to every verb, add a time marker to every sentence,
     and include 1 sentence with READ in the past.
     NEVER "goed" / "thinked" / "payed". Bring the notebook to
@@ -119,7 +119,7 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
 
 5. **PASE al docente de CONVERSACION (Conv Cl 12, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -139,7 +139,7 @@ BUSINESS TRIP (no repitas ese titulo ni su guion).
 CONV CL 12 HOY: el mismo modulo en uso oral — los irregulares de memoria,
 mezclados con regulares, y la trampa READ. El mapa de 5 grupos quedo
 sellado en papel a las 8:00: apoyate en eso, no lo vuelvas a explicar.
-TAREA QUE DEJE: 15 frases escritas, due Cl 13 antes de las 7:00 PM. El video
+TAREA QUE DEJE: 8 frases escritas, due Cl 13 antes de las 7:00 PM. El video
 del dia lo asignas TU (abre con LISTEN FIRST). NO pidas otro papel encima.
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo modulo.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
@@ -175,8 +175,8 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - **DE PIE 86%:** Bloques 1, 2 y 3 completos (95 de 110). El dictado se escribe de pie junto al tablero.
 - **B3 REDISENADO POR ANTI-DUPLICADO.** La guia 4H anterior de Grammar Cl 12 usaba **"PROJECT DEBRIEF — What happened?"** (alguien cuenta al lead el cierre de un proyecto) y la de Conv Cl 12 (10:00) usa **"START-OF-WEEK TEAM STAND-UP"** (alguien cuenta al lead su semana): el mismo guion de reporte de equipo. Aqui el escenario es **EXPENSE REPORT REVIEW AFTER A BUSINESS TRIP**: cambia el registro (rendicion de cuentas con dinero, no reunion de equipo), cambian los roles (empleado y revisor de finanzas), cambia la meta (justificar cada linea y declarar un recibo perdido) y cambia la carga: el reporte del tablero obliga a los irregulares de dinero y viaje (went, took, left, paid, spent, bought, forgot, lost, met, brought) y a READ, y los observers **escriben cada verbo en su grupo**. Ni el titulo, ni los roles, ni el guion, ni la carga se repiten.
 - **Cifras del reporte de gastos en dolares y centavos (revision previa):** la version anterior usaba miles de pesos (45,000, 180,000), que el libro no enseña (A1 M5 llega a cien, con precios en dos grupos); asi el empleado dice los montos con la mecanica del libro (*"thirteen oh five"*), igual que en Conv Cl 3 y Grammar Cl 3.
-- **Tarea por pista:** Gramatica deja la tarea ESCRITA (15 frases, 3 por grupo) y recuerda que el video diario es UNO solo: el que Conversacion asigna hoy a las 10:00 (No. 12).
+- **Tarea por pista:** Gramatica deja la tarea ESCRITA (8 frases, minimo 1 por grupo) y recuerda que el video diario es UNO solo: el que Conversacion asigna hoy a las 10:00 (No. 12).
 - **Recuperacion por pista:** N-3 = **Grammar Cl 9** · N-7 = **Grammar Cl 5** · mas los 3 errores del PASE de Conversacion Cl 11 (cierre del dia anterior). Sin mapa semanal de tickets: NO se citan tickets.
 - **Virtud:** JUSTICIA, Cl 2 de 5 (Cl 11-15), calendario absoluto. Angulo de Gramatica: **honestidad con lo que es de todos** (liderazgo etico: el recibo perdido se declara) y ayuda al que va mas lento en el group walk. Conversacion trabaja **escuchar completo** a las 10:00.
-- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — las 15 frases de la tarea son insumo del relato en pasado de Conv Cl 12 (10:00) y del que Conv Cl 13 empieza a interrogar.
+- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — las 8 frases de la tarea son insumo del relato en pasado de Conv Cl 12 (10:00) y del que Conv Cl 13 empieza a interrogar.
 - `SUPUESTO DE PLANEACION — verificar`: el **agrupamiento en 5 grupos** y la etiqueta "trampa READ" son organizacion Heiiu (el libro dice que no hay patron); los verbos fuera de los 5 del A1 M11 vienen de la guia 4H anterior y son correctos. La clave de los items 7-8 (Exercises p.102) es la forma logica: el libro no trae clave.

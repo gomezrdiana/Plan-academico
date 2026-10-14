@@ -30,7 +30,7 @@
    - "SHOULD or SHOULDN'T: '___ he eat at his desk every day?'" (Cl 3)
    - "Fix it out loud: 'You should to arrive early.'"
    - Del PASE: los 3 errores literales que te dejo Conversacion por escrito al cierre de la Cl 5.
-4. **Tarea escrita SOBRE LA MESA (2') — NO la recojas todavia.** El papel de **12 lineas de la rutina de una persona real** que dejo Gramatica Cl 5 sale del cuaderno y queda a la vista. Di: *"Keep that paper open. In forty minutes somebody else reads it out loud."* Los que no la trajeron, a tu cuaderno (nombre SOLO ahi): *"Homework is the contract."*
+4. **Tarea escrita SOBRE LA MESA (2') — NO la recojas todavia.** El papel de **6 lineas de la rutina de una persona real** que dejo Gramatica Cl 5 sale del cuaderno y queda a la vista. Di: *"Keep that paper open. In forty minutes somebody else reads it out loud."* Los que no la trajeron, a tu cuaderno (nombre SOLO ahi): *"Homework is the contract."*
 5. **Lectura del PASE recibido, en voz alta (2').** *"These came out of your mouths yesterday in Conversation. Now we don't re-explain the rule — we finish it and we stress-test it."*
 6. **Frase del Dia (6' incluyendo el VATS).** Escrita en el tablero ANTES de que entren. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en 1 linea: *"One letter, three sounds. None of them rushed."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en oracion nueva propia.
 
@@ -74,7 +74,7 @@ THE 3 SOUNDS OF THE -S   (A1 Book M9, Guia 1 punto 4, p.112)
 
 **Objective: put Cl 5's present under real load — first as auditors of each other's paper, then under time pressure.**
 
-1. **AUDIT DESK (12', DE PIE, papeles cruzados).** Cada uno entrega su papel de 12 lineas a otra persona. El auditor **lee las frases del otro EN VOZ ALTA** (de pie) y hace dos trabajos: (a) escribe sobre cada -s la letra de su sonido — **S / Z / EZ**; (b) caza forma rota (doble marca, -s caida, *have* donde va *has*). Tablero con conteo publico: `CLEAN | SOUND WRONG | FORM WRONG`. Al terminar, cada auditor reporta **1 hallazgo por tipo, sin nombre**. **Nadie califica: se audita.** Devuelven el papel a su dueño.
+1. **AUDIT DESK (12', DE PIE, papeles cruzados).** Cada uno entrega su papel de 6 lineas a otra persona. El auditor **lee las frases del otro EN VOZ ALTA** (de pie) y hace dos trabajos: (a) escribe sobre cada -s la letra de su sonido — **S / Z / EZ**; (b) caza forma rota (doble marca, -s caida, *have* donde va *has*). Tablero con conteo publico: `CLEAN | SOUND WRONG | FORM WRONG`. Al terminar, cada auditor reporta **1 hallazgo por tipo, sin nombre**. **Nadie califica: se audita.** Devuelven el papel a su dueño.
 2. **SHOWROOM PRODUCT COMPARISON (19', 4 rotaciones de ~4-5').** Tablero: `SHOWROOM — 1 SALES REP (GUEST) — 1 COMPANY BUYER — EVERYONE ELSE OBSERVES`
    **Escenario profesional realista (solo tablero y sala):** una empresa va a comprar equipos para su equipo de trabajo y su comprador visita la sala de exhibicion de un proveedor. **Se hace DE PIE: dos esquinas de la sala son dos modelos en exhibicion (MODEL A y MODEL B)** y el vendedor camina entre ellas señalando. **1 estudiante = guest / vendedor:** compara lo que tiene cada modelo (*"Model A has a camera and two years of warranty. Model B doesn't have a camera, but it has more memory. It costs less and it includes delivery."*). **1 estudiante rota como comprador de la empresa** y pregunta: *"Does it have a warranty? What does the cheaper one have? Does the delivery include installation? Which one has more memory?"* — con **short answer corto**. El producto cambia en cada rotacion (laptops, impresoras, sillas de oficina, planes de telefonia para el equipo). **TU eres COACH desde afuera — NUNCA juegas vendedor ni comprador.** Si se congelan 15 segundos, sueltas UN prompt (*"Ask what Model B doesn't have"*) y te retiras.
 3. **OBSERVERS ACTIVOS con ficha en su propio papel (la dibujan en 30 seg):** tres columnas — `HAS / HAVE OK` · `SOUND OK` · `BROKEN`. **Una raya por cada frase que oigan** mas 1 pregunta al final. Al cerrar cada rotacion **cantan el conteo en voz alta**.
@@ -85,27 +85,27 @@ THE 3 SOUNDS OF THE -S   (A1 Book M9, Guia 1 punto 4, p.112)
 
 1. **Ticket de salida (5'):** 3-5 frases sobre su puesto de trabajo con nombre en el papel — minimo **2 con HAS** + 1 negativa con *doesn't have* + 1 pregunta con *"Does ... have?"*; y **al lado de cada -s escriben S, Z o EZ**. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
 2. **Error paper (4').** Escribes 4-6 errores REALES del dia, **anonimos**. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio con la forma corregida. En tu cuaderno, los mismos errores **CON nombre y cita literal** para el reporte de coordinacion. Doble protocolo, siempre.
-3. **Recoge AHORA el papel de 12 lineas** (ya auditado) junto con los tickets.
+3. **Recoge AHORA el papel de 6 lineas** (ya auditado) junto con los tickets.
 4. **Cierre (6').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have CONVERSATION Cl 6 with the other teacher: same level, a new Phrase of the Day. You will say your real work week out loud in three forms — he works, she doesn't work, do you work? Your video is assigned there."* Si preguntan por notas, resultados o la garantia: *"That is coordination, not me."* Nada mas.
 
 **Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
 HOMEWORK GRAMMAR CL 6 — TWO THINGS, BOTH DUE.
 DUE: Cl 7, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
-NOT FRAGMENTED. TIME: 30-45 min (B1).
-(1) WRITTEN, in your notebook, 12 lines about what the people at your work
+NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+(1) WRITTEN, in your notebook, 6 lines about what the people at your work
     HAVE and do NOT have:
-    5 affirmative (at least 3 with HAS),
-    3 negative (doesn't have / don't have),
-    2 questions (Does ... have?) each with its short answer,
-    2 free sentences with any other -s verb.
+    3 affirmative (at least 2 with HAS),
+    1 negative (doesn't have / don't have),
+    1 question (Does ... have?) with its short answer,
+    1 free sentence with any other -s verb.
     Next to EVERY -s write its sound: S, Z or EZ.
     Bring the notebook to the next Grammar class.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
 
 5. **PASE al PROFESOR DE CONVERSACION (Conv Cl 6, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -117,7 +117,7 @@ La Frase del Dia NO se traspasa: estrenas la tuya.
 QUE QUEDO SELLADO HOY EN PAPEL:
 have -> HAS en afirmativo de he/she/it, con HAVE de vuelta en negativo y
 pregunta (A1 M17, Guia 1 p.211; ejemplos p.212) · los TRES SONIDOS de la -s,
--s / -z / -ez (A1 M9, Guia 1 punto 4, p.112) · y se auditaron las 12 lineas
+-s / -z / -ez (A1 M9, Guia 1 punto 4, p.112) · y se auditaron las 6 lineas
 que dejo Gramatica Cl 5 marcando el sonido sobre cada -s.
 3 ERRORES escritos frescos de hoy (cita literal, SIN nombre aqui; nombres en mi reporte):
 1. ____________________  2. ____________________  3. ____________________
@@ -133,13 +133,13 @@ COMPARISON" (vendedor y comprador comparan dos modelos: has / doesn't have).
 CONV CL 6 HOY: las TRES formas del presente HABLADAS bajo carga (he works /
 she doesn't work / do you work?) y MY STORY piece 5. HAS y los tres sonidos
 quedaron sellados a las 8:00: deja que salgan en su boca, no los re-expliques.
-TAREA ESCRITA: la deje YO (12 lineas). El video del dia lo asignas TU (abre
+TAREA ESCRITA: la deje YO (6 lineas). El video del dia lo asignas TU (abre
 con LISTEN FIRST). No pidas
 otro papel encima: las pistas no duplican tarea.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ Papel de 12 lineas recogido y auditado ☐ ~86% DE PIE confirmado ☐ Foto de inicio enviada a las 8:00
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ Papel de 6 lineas recogido y auditado ☐ ~86% DE PIE confirmado ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -172,7 +172,7 @@ Ejemplos p.212: "Does Fritz have a hamburger?" -> "Yes, he has a hamburger. /
 **Nota del libro (M9, punto 5, p.112):** *"En el nivel A1, no tiene que preocuparse tanto con la diferencia entre los ultimos dos, ya que su pronunciacion es muy similar."* En **B1 si se exige** la separacion -s / -z; por eso el sound sort de tres zonas. Si el grupo no la sostiene, el Plan B baja a dos zonas sin culpa.
 
 **Plan B (cero material, todo tablero o voz):**
-- **Nadie trajo el papel de 12 lineas:** el AUDIT DESK corre sobre el tablero — cada uno escribe 3 frases de tercera persona en su cuaderno y el de al lado las lee en voz alta y marca los sonidos. Mismo trabajo, misma exigencia, el bloque no se acorta.
+- **Nadie trajo el papel de 6 lineas:** el AUDIT DESK corre sobre el tablero — cada uno escribe 3 frases de tercera persona en su cuaderno y el de al lado las lee en voz alta y marca los sonidos. Mismo trabajo, misma exigencia, el bloque no se acorta.
 - **Sound sort atascado:** quedate en DOS zonas hoy (`-EZ` vs el resto) y deja la separacion -s / -z como callback de Cl 7. Mejor dos sonidos limpios que tres borrosos.
 - **Micro-ensenanza que no arranca:** tu das la primera pareja como ejemplo en 30 seg y sales; nadie se queda sin explicar.
 - **La comparacion no arranca:** escribes en el tablero dos columnas `MODEL A | MODEL B` con 5 caracteristicas (*camera, warranty, two trays, delivery, spare charger*) marcadas si / no, y cada estudiante dice cual la tiene y cual no. Tu sigues fuera del rol.
@@ -188,5 +188,5 @@ Ejemplos p.212: "Does Fritz have a hamburger?" -> "Yes, he has a hamburger. /
 - **VIRTUD: hoy ABRE TEMPLANZA en la pista de Gramatica** (Cl 6-10 de cada pista, calendario absoluto por numero de clase de cada pista; no se desplaza por festivos ni cancelaciones). **Esta guia la presenta primero, a las 8:00, con el angulo del detalle y la repeticion;** Conv Cl 6 la presenta a las 10:00 con el angulo de la semana, para que el estudiante la oiga dos veces sin oir lo mismo. Grammar Cl 7 ya no la presenta: la aplica.
 - **Recuperacion de esta pista:** N-3 = **Grammar Cl 3** (should / shouldn't mas numeros). **N-7 no existe aun** (seria Grammar Cl -1), asi que el segundo bloque de disparadores sale del PASE recibido. Sin mapa semanal de tickets todavia: NO citar tickets.
 - **Frontera:** la proxima Grammar (Cl 7) = **A1 M12 "How Often do You Play Soccer? — Adverbs of Frequency" (p.153-158)**. Cl 7 NO toca HAS ni sonidos como contenido nuevo: los recicla en su recuperacion.
-- **Proyecto MY STORY, MY GOALS:** hoy no hay pieza nueva — Gramatica sella la herramienta. Las 12 lineas de la tarea son materia prima para la pieza que arma Conversacion en la Cl 7. Se anota para que no se lea como pieza perdida.
+- **Proyecto MY STORY, MY GOALS:** hoy no hay pieza nueva — Gramatica sella la herramienta. Las 6 lineas de la tarea son materia prima para la pieza que arma Conversacion en la Cl 7. Se anota para que no se lea como pieza perdida.
 - **El profe no comunica notas ni resultados.** Midterm Cl 22, presentaciones Cl 43, final Cl 44 con evaluador externo: todo eso lo comunica coordinacion.

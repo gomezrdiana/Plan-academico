@@ -22,7 +22,7 @@
    - "Background + event, one line, all past." (Cl 16/20)
 2. **Chequeo publico de portafolio (3'):** conteo en voz alta del audio de ayer; no-envios a tu cuaderno.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones.
-4. **Revision tarea (3'):** tabla de irregulares de memoria + 8 frases sobre la mesa; recoge. **PASE de Conv (hoy)** leido: los gaps (a) y (b) son la materia prima del Bloque 2.
+4. **Revision tarea (3'):** tabla de 4 irregulares de memoria + 4 frases sobre la mesa; recoge. **PASE de Conv (hoy)** leido: los gaps (a) y (b) son la materia prima del Bloque 2.
 
 > [VIRTUD] Board: "PRUDENCE — DAY 3". *"Prudence checks the period before it speaks: closed or open? Then — and only then — it chooses the verb."*
 

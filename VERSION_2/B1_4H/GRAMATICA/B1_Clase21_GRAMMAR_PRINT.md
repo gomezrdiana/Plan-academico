@@ -101,9 +101,9 @@ MONTH-END TASK LIST
 ```
 HOMEWORK GRAMMAR CL 21 — TWO THINGS.
 DUE: Cl 22, BEFORE 7:00 PM — that is, TODAY before 7:00 PM.
-NOT NEGOTIABLE. NOT FRAGMENTED. TIME: 30-45 min (B1).
-(1) WRITTEN, in your notebook: 12 true sentences about your real month
-    — 4 affirmative, 4 negative, 4 questions with short answers —
+NOT NEGOTIABLE. NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+(1) WRITTEN, in your notebook: 6 true sentences about your real month
+    — 2 affirmative, 2 negative, 2 questions with short answers —
     have / has + REGULAR participle (-ed). Underline the auxiliary,
     circle the participle. No dates with the present perfect.
     Bring the notebook to Conversation Cl 22.
@@ -111,7 +111,7 @@ NOT NEGOTIABLE. NOT FRAGMENTED. TIME: 30-45 min (B1).
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 5. **PASE al docente de CONVERSACION (Conv Cl 21, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -128,9 +128,9 @@ con fecha ("I have finished at 2:00"); (d) short answer larga.
 YA QUEDO HECHO HOY, NO LO REPITAS: la tabla del libro · el zone walk · el
 dictado p.136 · la simulacion MONTH-END PROGRESS CHECK (no repitas ese
 titulo ni su guion).
-TU CLASE DE HOY: el ensayo general de "MY STORY, MY GOALS". Las 12 frases
+TU CLASE DE HOY: el ensayo general de "MY STORY, MY GOALS". Las 6 frases
 con "I have + -ed" son su tarea de hoy. El chequeo de portafolio es tuyo.
-TAREA QUE DEJE: 12 frases, due Cl 22 antes de las 7:00 PM. El video del
+TAREA QUE DEJE: 6 frases, due Cl 22 antes de las 7:00 PM. El video del
 dia lo asignas tu (con LISTEN FIRST). NO pidas otro papel encima.
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya.
 Firma Gramatica: ______________  Recibido Conversacion: ______________

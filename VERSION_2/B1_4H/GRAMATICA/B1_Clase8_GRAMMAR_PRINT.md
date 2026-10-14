@@ -101,10 +101,10 @@ frequency, in a FULL sentence, expression at the END.
 ```
 HOMEWORK GRAMMAR CL 8 — TWO THINGS.
 DUE: Cl 9, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
-NOT FRAGMENTED. TIME: 30-45 min (B1).
-(1) WRITTEN, in your notebook, 12 lines about your real work or study
-    week: 6 with NUMBER + A + PERIOD and 6 with EVERY + singular period,
-    ALL of them with the expression at the END. Four of the twelve must
+NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+(1) WRITTEN, in your notebook, 6 lines about your real work or study
+    week: 3 with NUMBER + A + PERIOD and 3 with EVERY + singular period,
+    ALL of them with the expression at the END. Four of the six must
     carry an auxiliary: one CAN, one SHOULD, one WILL, one DID.
     Underline the expression. Circle the auxiliary.
     Bring the notebook to the next Grammar class.
@@ -112,7 +112,7 @@ NOT FRAGMENTED. TIME: 30-45 min (B1).
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
 
 4. **PASE al DOCENTE DE CONVERSACION (Conv Cl 8, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -133,7 +133,7 @@ CONV CL 8 HOY: las mismas expresiones en uso oral, al final de la frase, mas
 el contraste weekday / weekend. El marco quedo sellado en papel a las 8:00:
 apoyate en eso, no lo vuelvas a explicar. Arranca con un "Rhythm Roundup":
 cada uno 1 frase con "every day" o "twice a week" al final.
-TAREA QUE DEJE: 12 lineas escritas, due Cl 9 antes de las 7:00 PM. El video
+TAREA QUE DEJE: 6 lineas escritas, due Cl 9 antes de las 7:00 PM. El video
 del dia lo asignas TU (abre con LISTEN FIRST). NO pidas otro papel encima.
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo modulo.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
@@ -174,10 +174,10 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 
 - **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/GRAMATICA/B1_Clase8_GRAMMAR_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), orden real de la hoja de arranque 13/10: Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia · PASE Grammar -> Conv en papel a las 10:00 y Conv -> Grammar al cerrar las 12:00 para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion, que hace el chequeo de portafolio; Gramatica solo lo recuerda) · foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
 - **B3 REDISENADO POR ANTI-DUPLICADO.** La guia 4H anterior de Grammar Cl 8 usaba **"SCHEDULE BRIEFING"** (planear la cadencia de un proyecto con el jefe), el mismo guion que Conv Cl 8 (**"RECURRING-MEETING SCHEDULING"**: dos colegas acuerdan cada cuanto pasan las cosas). Hoy es **NEW TENANT ORIENTATION**: cambia el registro (un cliente externo que paga por los servicios, no un acuerdo entre pares), cambian los roles (administrador del edificio y jefe administrativo del inquilino), cambia la meta (saber y cuestionar con que frecuencia se presta cada servicio) y cambia la carga gramatical (la expresion obligada con **do / did / can / should**, que es la habilidad objetiva del modulo, mas el cuestionamiento del numero). Observers con tres columnas, incluida la del auxiliar. **Revision previa:** la version anterior (auditoria externa de la bitacora de seguridad y mantenimiento) repetia el escenario de Grammar Cl 7 (SAFETY INSPECTION, inspector externo en el sitio); se cambio para que los escenarios del tramo sean distintos.
-- **Tarea por pista, sin duplicar:** Gramatica deja la tarea ESCRITA (12 lineas con auxiliares) y recuerda que el video diario es UNO solo: el que asigna Conversacion hoy a las 10:00 (No. 8, abre con LISTEN FIRST). **Frente a la guia 4H anterior:** se agregan Ejercicios 1 p.168 (dictado y corregido) y el eje de "varios auxiliares", que es la habilidad objetiva literal del modulo.
+- **Tarea por pista, sin duplicar:** Gramatica deja la tarea ESCRITA (6 lineas con auxiliares) y recuerda que el video diario es UNO solo: el que asigna Conversacion hoy a las 10:00 (No. 8, abre con LISTEN FIRST). **Frente a la guia 4H anterior:** se agregan Ejercicios 1 p.168 (dictado y corregido) y el eje de "varios auxiliares", que es la habilidad objetiva literal del modulo.
 - **Recuperacion espaciada por pista:** N-3 = **Grammar Cl 5** (do/does, tercera persona -s) · N-7 = **Grammar Cl 1** (didn't vs haven't yet, short answer), mas los 3 errores del PASE de Conversacion Cl 7 (cierre del dia anterior). Sin mapa semanal de tickets todavia — NO se citan tickets.
 - **Virtud:** TEMPLANZA, Cl 3 de 5 (Cl 6-10 de cada pista), calendario absoluto. Cl 9 es Cl 4 de 5; Cl 10 la cierra.
-- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — Gramatica sella la herramienta y las 12 lineas de la tarea son materia prima directa de la pieza que arma Conversacion en Cl 9. Se anota para que no se lea como pieza perdida.
+- **Proyecto del nivel:** hoy NO hay pieza nueva de MY STORY — Gramatica sella la herramienta y las 6 lineas de la tarea son materia prima directa de la pieza que arma Conversacion en Cl 9. Se anota para que no se lea como pieza perdida.
 - **Lo que viene:** Conv Cl 9 abre posesion (A1 M15 p.187-196 + M30 p.333-336). **Cl 10 es el hito de ENTREVISTA SIMULADA** y Grammar Cl 10 hace su seguimiento escrito; se anuncia a los estudiantes en el cierre de Conv Cl 9, no antes.
 - `SUPUESTO DE PLANEACION — verificar`: **paginacion.** Guia 1 de M13 = p.167 y Ejemplos / Ejercicios 1 = p.168 segun los pies de pagina del libro digital; la guia 4H anterior citaba el rango "p.165-169" y aqui se mantiene el rango.
 - `SUPUESTO DE PLANEACION — verificar`: la prohibicion de "every days", el contraste "two times / twice" y la zona `WRONG` del zone walk son **refuerzo pedagogico Heiiu**, no cita verbatim de M13. El libro solo dice "every" = "cada" y da "every day"; el resto se enseña como uso estandar, no como regla del libro.

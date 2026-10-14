@@ -10,7 +10,7 @@
 
 > **DE PIE: Bloques 1-3 completos en o junto al tablero (~95 de 110 min ≈ 86%; piso 70%). Solo el Bloque 4 es sentado.** Movimiento SIEMPRE con contenido: nada de "stand up / sit down" suelto.
 
-> **TRAE HOY:** reloj, celular para la foto de inicio, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), **tus error papers y la tarea de 12 frases de Cl 18 (de ahi salen los 6 errores)** y el PASE que te dejo el docente de Conversacion al cierre de la Cl 18. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, celular para la foto de inicio, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), **tus error papers y la tarea de 6 frases de Cl 18 (de ahi salen los 6 errores)** y el PASE que te dejo el docente de Conversacion al cierre de la Cl 18. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 > **HOY SOLO: limpiar en papel el sistema del pasado con los errores REALES de estas semanas — diagnosticar la forma que se rompio (1-5), reconstruir y re-producir dentro de una narracion. Sin regla nueva. NO TOCAR AUN: el present perfect con have / has (Cl 21) — hoy solo se NOMBRA en el puente del cierre.**
 
@@ -80,18 +80,18 @@ Nobody leaves column C without writing column D.
 ```
 HOMEWORK GRAMMAR CL 19 — TWO THINGS.
 DUE: Cl 20, BEFORE 7:00 PM — that is, TODAY before 7:00 PM.
-NOT NEGOTIABLE. NOT FRAGMENTED. TIME: 30-45 min (B1).
-(1) WRITTEN, in your notebook: one paragraph, 10-12 sentences, about a
-    real project or change in your life: 3 earlier events (had +
-    participle), 3 link words (by the time / because / before), and
-    the error you owned today written CORRECTLY at least twice.
+NOT NEGOTIABLE. NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+(1) WRITTEN, in your notebook: one paragraph, 5-6 sentences, about a
+    real project or change in your life: 2 earlier events (had +
+    participle), 2 link words (by the time / because / before), and
+    the error you owned today written CORRECTLY at least once.
     Underline HAD, circle the participle, number each form (1-5).
     Bring the notebook to Conversation Cl 20.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
     one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 5. **PASE al docente de CONVERSACION (Conv Cl 19, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
@@ -109,7 +109,7 @@ el error propio · la simulacion PROJECT HANDOVER TO THE NEW COLLEAGUE (no
 repitas ese titulo ni su guion).
 TU CLASE DE HOY: la clinica oral. Pon atencion especial a la forma mas
 debil de arriba. El chequeo de portafolio es tuyo.
-TAREA QUE DEJE: parrafo de 10-12 frases, due Cl 20 antes de las 7:00 PM.
+TAREA QUE DEJE: parrafo de 5-6 frases, due Cl 20 antes de las 7:00 PM.
 El video del dia lo asignas tu (con LISTEN FIRST). NO pidas otro papel encima.
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo contenido.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
