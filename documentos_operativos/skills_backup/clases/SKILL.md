@@ -36,6 +36,8 @@ Si la fecha es ambigua, resuélvela con el contexto (`currentDate` del entorno +
 Virtud: {virtud} · Frase del Día: "{frase}"
 
 ## BLOQUE 1 ({min}') — Apertura
+- **{hora} EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo
+  de docentes. Esa foto es la hora de inicio.** (regla 14/10/2026)
 - Recuperación espaciada (10'): [instrucción EXACTA de qué recuperar de
   Cl N-3 y Cl N-7 — oral, de pie]
 - Chequeo público de portafolio (3'): "Who did their daily audio/video?"
@@ -54,9 +56,12 @@ Virtud: {virtud} · Frase del Día: "{frase}"
 - Ticket de salida (5'): cada estudiante escribe 3-5 frases con la
   estructura de hoy. Se recogen TODOS.
 - Tarea: [qué] — DUE: Cl {N+1} antes de {hora}
+  · LISTEN FIRST (5-10 min, antes de grabar): frase de búsqueda en inglés
+    sobre el tema de hoy → 2 min de un hablante con OTRO acento → repetir
+    3 frases en voz alta → el video diario ABRE con esas 3 frases
 - Error paper + anuncio próxima clase
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Foto de inicio enviada  □ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
 ```
 
 **Reglas fijas de la estructura:**
@@ -105,9 +110,20 @@ Virtud: {virtud} · Frase del Día: "{frase}"
 - **No fabricar resultados** ni inventar lo que no se puede verificar (`feedback-no-fabricated-reports`). Incluye: no citar "tickets de la semana" si no hay mapa semanal procesado.
 - **Simulación profesional realista** (oficina, cliente, tienda, aeropuerto, entrevista, equipo). NUNCA fantasía. NUNCA familia/trauma personal.
 - **Tarea**: due date explícita (próxima clase antes de **7:00 PM** general; **B2 Amina = 6:00 PM** — norma del cohorte). Tiempo por nivel: A1 15-20min · A2 20-30 · B1 30-45 · B2 45-60 (4 componentes estrictos). NO fragmentada. Push-back NO se acepta. El **audio/video diario del portafolio** es componente permanente de la tarea en todos los niveles (1-3 min, celular, repetir/escuchar/grabarse).
+- **LISTEN FIRST (regla 13/10/2026, todos los niveles desde A1):** la tarea diaria lleva SIEMPRE, antes del video, un componente fijo de 5-10 min: una **frase de búsqueda en inglés** (4-8 palabras, sobre el tema REAL de la clase, la trae la guía) → el estudiante escucha 2 min a un hablante con un acento distinto al del profe (Scottish, Irish, Indian, Australian, Nigerian, Texan, Jamaican…) → repite 3 frases en voz alta imitando el acento → **abre su video diario con esas 3 frases**. Sin entregable aparte ni material del profe. En el chequeo de portafolio, el video que no abre con las 3 frases cuenta como incompleto (una frase: *"Your video starts with your three sentences. Tomorrow."*). Si alguien dice que no entiende un acento (incluido el del profe): *"Accents are the world. Your ear trains at home, two minutes a day."* En B1 4H va en la pista CONV (la que asigna el video); GRAMMAR solo lo menciona. La línea TIME de la tarea suma los 10 min. Bloque en inglés dentro del código de la tarea:
+  ```
+  LISTEN FIRST (5-10 min, BEFORE you record):
+  Search on YouTube or a podcast app: "<frase de búsqueda>".
+  Pick a speaker whose accent is NOT your teacher's (Scottish, Irish,
+  Indian, Australian, Nigerian, Texan, Jamaican...). Listen 2 minutes.
+  Repeat 3 sentences out loud, imitating that accent.
+  OPEN YOUR VIDEO with those 3 sentences. Then do your task.
+  ```
+- **Foto de inicio (regla 14/10/2026, puntualidad docente):** primer punto del Bloque 1 de TODA guía: a la hora exacta de inicio el profe envía al grupo de docentes la foto del tablero con la Frase del Día ya escrita; esa foto es su hora de inicio real (se liquida por bloques de 15 min; lo lleva Jacqueline). "TRAE HOY" incluye el celular para la foto; el checklist de salida incluye "☐ Foto de inicio enviada".
 - **Error Paper** doble protocolo: anónimo en clase + libreta privada con NOMBRES para el reporte de coordinación.
 - **Cero material físico preparado por profe/academia** — objetos = tarea previa al estudiante + Plan B en la hoja.
-- **B1 Grammar (Juan Diego)** ~70%+ del bloque DE PIE (ansiedad con guías estáticas). Las últimas guías corrieron en ~86% de pie — mantén ese piso.
+- **B1 4H orden del día (hoja de arranque 13/10/2026):** GRAMÁTICA 8:00-10:00 (B1 solos) y CONVERSACIÓN 10:00-12:00 (B1+B2 juntos con la guía CONV del día). PASE Grammar Cl N → Conv Cl N en papel a las 10:00; PASE Conv Cl N → Grammar Cl N+1 al cerrar a las 12:00. Un solo video diario, lo asigna y revisa CONV (chequeo de portafolio con una mejora por video a las 10:00); GRAMMAR a las 8:00 solo recuerda la due date. Encabezados sin "va PRIMERO/SEGUNDO".
+- **B1 Grammar** ~70%+ del bloque DE PIE (ansiedad con guías estáticas). Las últimas guías corrieron en ~86% de pie — mantén ese piso.
 - **B2 Amina específico**:
   - **Fase 2 (Cl 6-12):** ~94% oral, cero escritura en clase.
   - **Fase 3 (Cl 13-20):** escritura en clase **a mano**, anti-fraude documentado (texto traído de casa no cuenta, se reescribe a mano; AI/home-text sospechoso → alerta coordinación).

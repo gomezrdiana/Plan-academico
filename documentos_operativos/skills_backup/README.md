@@ -7,6 +7,6 @@ Las skills vivas están en `.claude/skills/` (ignorado por git). Esta carpeta es
 
 | Skill | Última sincronización |
 |---|---|
-| `clases` | 10/07/2026 — reporte v3: cuerpo fijo de plantilla + cabecera pre-llenada por clase (reemplaza build_report_v2) |
+| `clases` | 14/10/2026 — + LISTEN FIRST en la tarea (2 min otro acento + 3 frases abren el video), foto de inicio como prueba de puntualidad, orden del día B1 4H (Grammar 8-10 / Conv 10-12) |
 | `repaso-ausente` | 06/07/2026 |
 | `semanal` | 22/07/2026 — + paso B2-TER semáforo de contenido (semanas programadas restantes, regla del día 25, entregado = confirmado recibido) |
