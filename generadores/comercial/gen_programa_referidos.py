@@ -49,12 +49,13 @@ def salto(): d.add_paragraph().add_run().add_break(WD_BREAK.PAGE)
 
 p('HEIIU · COMERCIAL · DOCUMENTO INTERNO', GRIS, 10)
 p('PROGRAMA DE REFERIDOS — VERSIÓN FINAL (14/10/2026)', NAR, 15)
-p('Roles: estudiante o egresado que refiere · docente recolector-cerrador (sin grupo a cargo durante el piloto) · asesora comercial · coordinación · gerencia. Reemplaza la propuesta del 12/10. Base: investigación del 14/10 (evidencia y fuentes en INVESTIGACION_REFERIDOS_2026-10-14.md).', GRIS, 9.5)
+p('Roles: estudiante o egresado que refiere · docente recolector-cerrador (sin grupo a cargo durante el piloto de 15 días) · asesora comercial · coordinación · gerencia. Reemplaza la propuesta del 12/10. Base: investigación del 14/10 (evidencia y fuentes en INVESTIGACION_REFERIDOS_2026-10-14.md).', GRIS, 9.5)
 
 h('0. Decisiones tomadas (gerencia, 14/10)')
 for t in [
  '**Opción B**, con los ajustes de la investigación. La Opción A ($200.000 + fijo) se descarta: cae en el rango donde el bono alto trae referidos menos rentables.',
  '**El docente recolecta Y cierra** sus referidos. Recolecta en todos los grupos activos y llama a los egresados. Cobra por comisión, con los papeles firmados antes del primer mensaje (sección 6).',
+ '**Piloto de 15 días: del 15 al 30 de octubre.** No hay ventas en octubre; esto arranca ya. El 30 se mide y se decide si sigue igual, cambia o para.',
  '**Base:** unos 60 estudiantes activos más los egresados (cantidad SIN DATO: coordinación entrega la lista).',
  '**El referido recibe una clase de prueba** junto a quien lo refiere (o solo, si quien lo refiere es egresado). Nunca descuento.',
  '**Contador:** antes del primer pago del bono se le hacen las preguntas de la sección 8.',
@@ -74,7 +75,7 @@ tabla([
 ], bold_rows=(4, 5))
 for t in [
  '**La regla es que cierre el docente.** El caso "cierra la asesora" solo ocurre cuando él no llevó al referido a cita en 7 días o no cerró en 14 (sección 5): el lead pasa a ella y él se queda con su 2%. La propuesta del 12/10 ponía a la asesora al 3% en referidos; su contrato dice 5% para toda venta que gestione y no se toca por un caso que será la excepción.',
- '**Las primeras 3 matrículas el docente las cierra acompañado** por la asesora: él conduce y cobra su 5%; ella recibe ' + m(ACOMP) + ' fijos por acompañamiento (lo paga gerencia, máximo 3 veces; no modifica ningún contrato). Desde la 4ª cierra solo.',
+ '**Las primeras 2 matrículas el docente las cierra acompañado** por la asesora: él conduce y cobra su 5%; ella recibe ' + m(ACOMP) + ' fijos por acompañamiento (lo paga gerencia, máximo 2 veces; no modifica ningún contrato). Desde la 3ª cierra solo.',
  '**Una sola comisión por matrícula.** Nunca cobran los dos el 5% por el mismo recaudo. En la planilla queda quién condujo la asesoría hasta el abono.',
  '**Bono de quien refiere:** el estudiante activo elige **transferencia**, **abono a su propia cuota** o **2 horas 1-a-1**. El egresado elige transferencia o 2 horas 1-a-1. Sin tope: 3 matrículas, 3 bonos (más de 3 en un mes pasa a revisión, sección 4).',
  '**Beneficio del referido:** una **clase de prueba** en el grupo de quien lo refiere, antes de decidir (si quien refiere es egresado, en el grupo que coordinación indique). Entra con la misma tarifa y la misma beca que cualquiera. Coordinación define en qué grupos y qué días caben visitantes; el docente agenda la clase de prueba con coordinación, nunca por su cuenta.',
@@ -127,16 +128,16 @@ for t in [
  '**Papeles antes del primer mensaje:** (1) contrato docente v3.1 firmado (gerencia lo verifica hoy; si falta, se firma hoy); (2) **Anexo de Habilitación Comercial** firmado, que exige inducción previa con el Kit de Venta (precios, becas, escalera, El Pacto, garantía); (3) este programa como hoja de arranque firmada por los dos (metas, plazos, cierres acompañados, línea y planilla). El contrato ya cubre propiedad intelectual, confidencialidad, datos (Ley 1581) y la prohibición de usar bases o contactos de Heiiu fuera de Heiiu. No se pacta no competencia amplia: en Colombia no se sostiene (abogado).',
  '**Tarifario cerrado y cero autoridad.** Solo precios, becas y planes oficiales. Sin descuentos, sin promesas de facilidad, rapidez, empleo o visas, sin plazos de resultado distintos del texto de la garantía. Dice las condiciones duras antes de firmar (El Pacto: video diario, asistencia, puntualidad). **Nunca recibe dinero.** No firma nada en nombre de Heiiu.',
  '**Canal y datos de Heiiu.** Trabaja solo desde la línea de referidos de Heiiu; nunca desde su celular personal. El referido escribe primero y su SÍ queda en el chat. Planilla única (Anexo C). Las listas de estudiantes y egresados son Material Protegido: se consultan en la planilla y no salen de ahí.',
- '**Piloto de 60 días con metas, plazos y clase protegida.** Cero venta en tiempo de clase. Metas en la sección 7. Sus horas de ronda y de llamadas no se pagan aparte: su ingreso es la comisión (así lo dice el anexo: actividad facultativa, sin subordinación). Si gerencia decide pagarlas, entran al costo por matrícula.',
+ '**Piloto de 15 días con metas, plazos y clase protegida.** Cero venta en tiempo de clase. Metas en la sección 7. Sus horas de ronda y de llamadas no se pagan aparte: su ingreso es la comisión (así lo dice el anexo: actividad facultativa, sin subordinación). Si gerencia decide pagarlas, entran al costo por matrícula.',
 ]: li(t)
 
-h('7. Operación del piloto (60 días desde la primera ronda)')
+h('7. Operación del piloto (15 días: del 15 al 30 de octubre)')
 for t in [
- '**Semana 1 — grupos activos:** una ronda de 30 segundos en cada grupo (coordinación entrega la lista de grupos y horarios). Una sola petición en clase por grupo al mes; después, los momentos fijos: al cerrar una matrícula (la asesora), al grabar un testimonio, tras un midterm o presentación, y al graduar (cada graduado sale con 2 referidos pedidos).',
- '**Semanas 1-2 — egresados:** coordinación arma la lista (nombre, nivel terminado, fecha, teléfono) en la planilla. El docente escribe primero por la línea de Heiiu (Anexo B-c): se presenta, pide permiso para llamar 2 minutos y ofrece la salida ("si prefieres que no te escribamos, dímelo"). Quien dice que no, se marca y no se vuelve a contactar. Llamada en horario legal. SUPUESTO: la autorización de datos de la matrícula cubre esta comunicación de la academia; el abogado lo confirma. Por eso el mensaje va primero y nunca una llamada en frío.',
- '**Metas mínimas del piloto:** 20 referidos que escriben → 7 citas → 3 matrículas. Si la lista de egresados contactables pasa de 60 personas, la meta sube a 30 → 10 → 4. (Con 60 activos y una participación típica cercana al 19%, solo los activos darían unos 11 referidos; los egresados son los que completan la cifra.)',
- '**Reporte:** 5 líneas cada lunes en la reunión fija (registrados, contactados, citas, matrículas, bonos por pagar) y un mensaje de 3 líneas a las 6:00 p.m. los días que haya gestión. Lo que no está en la planilla no cuenta.',
- '**Medición a 60 días:** costo por matrícula referida (bonos + comisiones) contra pauta ($72.000 + 5% + plataforma); días de primer mensaje a cita; % de cierre; cuota 3 pagada y asistencia ≥80% a 90 días (referidos vs. pauta del mismo periodo); retención de quienes refirieron. Sigue si el costo por matrícula referida es ≤ 1,2 veces el de la pauta y la retención es igual o mejor. Si cuesta más y retiene igual, baja el bono. Con 3-4 matrículas la retención se confirma al cierre del cohorte, no a los 60 días.',
+ '**Días 1-3 (15 al 17/10) — grupos activos:** una ronda de 30 segundos en cada grupo, todos los grupos en tres días (coordinación entrega hoy la lista de grupos y horarios). Una sola petición en clase por grupo; después, los momentos fijos: al cerrar una matrícula (la asesora), al grabar un testimonio, tras un midterm o presentación, y al graduar (cada graduado sale con 2 referidos pedidos).',
+ '**Días 1-7 (15 al 22/10) — egresados, todos:** coordinación arma hoy la lista (nombre, nivel terminado, fecha, teléfono) en la planilla. El docente escribe primero por la línea de Heiiu (Anexo B-c): se presenta, pide permiso para llamar 2 minutos y ofrece la salida ("si prefieres que no te escribamos, dímelo"). Quien dice que no, se marca y no se vuelve a contactar. Llamada en horario legal. SUPUESTO: la autorización de datos de la matrícula cubre esta comunicación de la academia; el abogado lo confirma. Por eso el mensaje va primero y nunca una llamada en frío.',
+ '**Metas del piloto (al 30/10):** 15 referidos que escriben → 5 citas → 2 matrículas con inicial pagada. Si la lista de egresados contactables pasa de 60 personas, la meta sube a 20 → 7 → 3. (Con 60 activos y una participación típica cercana al 19%, solo los activos darían unos 11 referidos; los egresados completan la cifra.) Ritmo diario: 1 referido nuevo que escribe por día hábil.',
+ '**Reporte:** mensaje de 3 líneas TODOS los días a las 6:00 p.m. (a quién pidió hoy, cuántos escribieron, citas agendadas) y 5 líneas los lunes en la reunión fija (registrados, contactados, citas, matrículas, bonos por pagar). Lo que no está en la planilla no cuenta.',
+ '**Corte del 30/10:** referidos que escribieron, citas, asistencia, matrículas con inicial, días de primer mensaje a cita, y costo por matrícula referida (bonos + comisiones) contra pauta ($72.000 + 5% + plataforma). Sigue si llegó a la meta o si el costo por matrícula referida es ≤ 1,2 veces el de la pauta. Si no llegó ni a 5 referidos que escriben, el problema es la ronda o el mensaje, no el bono: se corrige el guion y se repite 15 días más. La retención (cuota 3 y asistencia ≥80% a 90 días) se mide después, al cierre del cohorte.',
 ]: li(t)
 
 h('8. Para el contador (antes del primer pago de bono)')
@@ -190,7 +191,7 @@ tabla([
  ['Recolectado por', 'Docente / asesora / otro'],
  ['Verificación 30 días', 'No estaba en base, bot ni formulario: sí/no (lo revisa coordinación)'],
  ['Estado', 'Contactado → clase de prueba (fecha) → cita (fecha) → inicial pagada → clase 5 → bono pagado'],
- ['Quién condujo la asesoría', 'Docente / asesora / acompañado (nº 1-3)'],
+ ['Quién condujo la asesoría', 'Docente / asesora / acompañado (nº 1-2)'],
  ['Programa y forma de pago', 'Completo contado / cuotas / Arranque'],
  ['Bono', 'Valor · forma elegida (transferencia, abono, 2 h) · fecha de pago'],
  ['Comisión', 'A quién (5% o 2%) · mes de liquidación'],
