@@ -58,7 +58,7 @@ Preguntas nuevas:
 
 9. INFORME SEMANAL por etiqueta (caliente/tibio/frío) y por grupo A/B (último dígito del teléfono: par = solo bot, impar = bot + llamada anunciada): leads, citas, asistencia y matrícula (ese dato lo pasa la asesora). Y los envíos fallidos del primer mensaje a leads de pauta por código de error (131049, 131026) y por origen (formulario vs. clic a WhatsApp). Corte de evaluación: 31 de octubre. Y una pregunta: ¿podemos sacar estos reportes nosotros mismos desde el panel (exportar o filtrar por etiqueta, grupo A/B, origen y fecha), para no tener que pedírselos cada semana?
 
-Lo demás (plantillas de nombre y correo, recordatorios a 12 h y 1 h, "fecha de cohorte") quedó bien. Lo que la plataforma no permite lo compensamos con la llamada anunciada de la asesora. Revisamos números el 15 con los anuncios nuevos al aire. Gracias."""
+Lo demás (plantillas de nombre y correo, recordatorios a 12 h y 1 h, "fecha de cohorte") quedó bien. De lo que la plataforma no permite, aceptamos tres cosas: agrupar mensajes, validar el nombre y variar los reintentos. Las otras dos sí las necesitamos resueltas: el aviso a la asesora con los disparadores del punto 7(e), y la exclusión de leads activos en cualquier reactivación (aunque por ahora no habrá reactivaciones). Revisamos números el 15 con los anuncios nuevos al aire. Gracias."""
 p(MSG)
 
 OUT = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\plataforma LaHaus\RESPUESTA_JAIDER_2026-10-13.docx'
