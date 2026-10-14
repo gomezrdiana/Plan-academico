@@ -104,9 +104,10 @@ caja(['"Treinta segundos antes de que se vayan. Ustedes saben lo que cuesta este
       'Y su amigo puede venir a una clase con ustedes antes de decidir. ¿Quién ya pensó en alguien? Escríbanle hoy."'])
 t('Primer mensaje al egresado (antes de llamar):', bold=True, after=1)
 caja(['Hola [nombre], soy Juan Diego, profesor de Heiiu. Terminaste [nivel] con nosotros en [mes]. Te escribo por una sola cosa:',
-      '¿tienes 2 minutos para que te llame hoy o mañana? Es sobre una persona que tú conozcas que necesite inglés.',
-      'Si prefieres que no te escribamos más, dímelo y listo.'])
-t('Llamada al egresado (2 minutos): cómo te fue después del curso → "piensa en UNA persona que necesite inglés de verdad" → "no me des su número: te mando un mensaje y se lo reenvías; si escribe y se matricula, recibes $150.000 o 2 horas 1-a-1" → "¿a quién se lo vas a mandar hoy?" → mensaje enviado al colgar.', size=9.5, color=GRIS)
+      'abrimos un programa de referidos para egresados. Si conoces a alguien que necesite inglés de verdad y se matricula,',
+      'recibes $150.000 (o 2 horas de clase 1-a-1), y tu amigo tiene una clase de prueba antes de decidir.',
+      '¿Tienes 2 minutos para que te llame hoy o mañana y te cuente cómo funciona? Si prefieres que no te escribamos más, dímelo y listo.'])
+t('Llamada al egresado (2 minutos): cómo te fue después del curso → "piensa en UNA persona que necesite inglés de verdad" → "no me des su número: te mando un mensaje y se lo reenvías; si escribe, se matricula y llega a su clase 5, recibes los $150.000 o las 2 horas" → "¿a quién se lo vas a mandar hoy?" → mensaje enviado al colgar.', size=9.5, color=GRIS)
 t('Primera respuesta al referido (desde la línea de Heiiu):', bold=True, after=1)
 caja(['Hola [nombre], gracias por escribir. Soy Juan Diego, profesor de Heiiu. Antes de seguir: usaremos tu nombre y número solo',
       'para darte información de nuestros programas, según nuestra política de datos [enlace]. ¿Nos autorizas? Responde SÍ.',

@@ -178,7 +178,10 @@ p('**(b) Primera respuesta de Heiiu al referido** (desde la línea de referidos,
 caja(['Hola [nombre], gracias por escribir. Soy [nombre], profesor de Heiiu.', 'Antes de seguir: usaremos tu nombre y número solo para darte información', 'de nuestros programas, según nuestra política de datos [enlace].', '¿Nos autorizas? Responde SÍ. (Puedes pedir que te borremos cuando quieras.)'])
 p('Después del SÍ: para qué necesitas el inglés · desde cero o ya estudiaste (y qué pasó) · presencial y jornada · El Pacto (video diario, garantía por escrito: "¿te le mides a ese ritmo?") · contado o inicial y cuotas · clase de prueba y asesoría por llamada: "¿[franja 1] o [franja 2]?". El referido escribe el día y la hora para que quede firme.', size=9.5, color=GRIS)
 p('**(c) Primer mensaje a un egresado** (antes de llamar):', after=2)
-caja(['Hola [nombre], soy [nombre], profesor de Heiiu. Terminaste [nivel] con nosotros', 'en [mes]. Te escribo por una sola cosa: ¿tienes 2 minutos para que te llame', 'hoy o mañana? Es sobre una persona que tú conozcas que necesite inglés.', 'Si prefieres que no te escribamos más, dímelo y listo.'])
+caja(['Hola [nombre], soy [nombre], profesor de Heiiu. Terminaste [nivel] con nosotros en [mes]. Te escribo por una sola cosa:',
+      'abrimos un programa de referidos para egresados. Si conoces a alguien que necesite inglés de verdad y se matricula,',
+      'recibes $150.000 (o 2 horas de clase 1-a-1), y tu amigo tiene una clase de prueba antes de decidir.',
+      '¿Tienes 2 minutos para que te llame hoy o mañana y te cuente cómo funciona? Si prefieres que no te escribamos más, dímelo y listo.'])
 p('**Guion de la llamada al egresado (2 minutos):** cómo te fue después del curso (una pregunta, para la planilla de testimonios) → "piensa en UNA persona que necesite inglés de verdad: trabajo, irse, un hijo" → "no me des su número: te mando un mensaje y se lo reenvías; si escribe y se matricula, recibes $150.000 o 2 horas 1-a-1" → "¿a quién se lo vas a mandar hoy?" → mensaje (a) versión egresado enviado al colgar.', size=9.5, color=GRIS)
 
 p('ANEXO C — PLANILLA ÚNICA DE REFERIDOS (columnas)', NAR, 13)
