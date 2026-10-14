@@ -64,7 +64,7 @@ tabla([
 t('Qué hacer según la causa (la decisión la toma Jacqueline):', bold=True, after=1)
 tabla([
  ['Causa', 'Acción'],
- ['El cambio de profe', 'Hoy: el docente anterior manda un audio de 30 segundos al grupo (texto abajo). Mañana: el docente actual se presenta 5 minutos antes de empezar la guía, sin pedir disculpas por nada: quién es, cómo trabaja, qué espera de ellos.'],
+ ['El cambio de profe', 'Hoy: el docente anterior manda un audio de 30 segundos al grupo (texto abajo). El docente actual ya se presentó el martes: no se vuelve a presentar ni pide disculpas por nada; al que faltó y vuelve, una frase de bienvenida y a la guía.'],
  ['El ritmo o la exigencia', 'No se baja el ritmo. Se le recuerda el trato: el ritmo existe por la garantía por escrito; si cumple y no avanza, se le devuelve el nivel. Se le ofrece hablar 10 minutos con el docente actual al final de la clase de mañana.'],
  ['El acento del profe nuevo ("no le entiendo")', 'Es parte del entrenamiento, no un defecto: en la vida real van a oír millones de acentos, y el oído se entrena en casa, no cambiando de profe. Desde esta semana la tarea diaria arranca con 2 minutos de un hablante con otro acento (LISTEN FIRST) y el video diario se abre con 3 frases de eso. Se le dice: "Si hoy te cuesta entenderle, en dos semanas vas a entender a cualquiera; eso es exactamente lo que estás comprando."'],
  ['Algo personal (trabajo, salud, dinero)', 'Se anota con fecha de regreso. Si es dinero, pasa a Experiencia al Cliente con el protocolo de cobranza, no al docente.'],
@@ -74,7 +74,6 @@ t('Audio del docente anterior al grupo (lo graba él hoy; Jacqueline se lo pide 
 caja(['"Hola, equipo. Les hablo porque este grupo lo empecé yo y me importa cómo les va. Desde esta semana su profe de gramática es [nombre]:',
       'lo conozco, sabe lo que hace y va a exigirles lo mismo que yo, porque ustedes pueden. Yo sigo en la academia y nos vamos a cruzar.',
       'Lo único que les pido es que no falten: cada clase que se pierden es más difícil de recuperar que de asistir. Nos vemos."'])
-t('Presentación del docente actual (mañana, 5 minutos, antes de la guía): quién es, dónde aprendió, cómo trabaja (de pie, hablando, corrigiendo), qué espera (video diario, tarea, puntualidad) y una frase de cierre: "Mi trabajo es que salgan hablando; el de ustedes, venir y entrenar". Sin disculparse por el acento ni por el cambio.', size=9.5, color=GRIS)
 
 t('Mensaje de Jacqueline al grupo del B1 (hoy, después de las llamadas; también sirve como cierre de cada llamada):', bold=True, after=1)
 caja(['"Equipo del B1: les hablo con franqueza. Son un grupo pequeño, de 4, y eso tiene dos caras: cada uno recibe más atención del profe,',
@@ -104,7 +103,7 @@ t('Esta semana (14 al 17/10) el reporte va todos los días. Desde la semana sigu
 
 sec('CHECKLIST DE JACQUELINE — HOY 14/10')
 for c in ['Llamar a cada ausente del B1 antes de las 5:00 p.m. y llenar la tabla.', 'Pedir hoy el audio al docente anterior y reenviarlo al grupo del B1.',
-          'Avisar al docente actual que mañana abre con 5 minutos de presentación.', 'Enviar el mensaje de puntualidad al grupo de docentes (lo manda Diana).',
+          'Enviar el mensaje de puntualidad al grupo de docentes (lo manda Diana).',
           'Mensaje al grupo del B1 (Parte 1) hoy, después de las llamadas.', 'Reporte de una línea a Diana a las 12:30 p.m. desde mañana.']:
     item(c, '☐')
 
