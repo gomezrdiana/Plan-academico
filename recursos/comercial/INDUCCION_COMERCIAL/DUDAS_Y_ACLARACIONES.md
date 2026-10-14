@@ -128,3 +128,13 @@ Las columnas de texto libre (nombres, teléfonos, fechas, próximo paso) no tien
 
 
 **DUDA (03/10/2026) — Llega un cliente con carta de una empresa aliada (Heiiu Business Partner).** Se le aplica la columna Transformación (45% contado / 36% cuotas), igual que a un afiliado a Cajasan; la carta de la empresa es el soporte. Si además trae la designación de Beca [Empresa] (máximo 3 por empresa y por trimestre, o 5 si todos sus becados cumplieron el trimestre anterior), paga el 45% aunque vaya a cuotas, y lleva libros y prioridad de cupo. Nunca se suman dos becas: se aplica la mejor. Si la EMPRESA quiere pagar ella los cupos, eso es Plan Empresa a tarifa corporativa ($4.782.800 por cupo del completo): de 3 a 7 cupos tiene formato estándar (contado o 30% + 3 cuotas); de 8 en adelante o con condiciones distintas lo cierra gerencia: se agenda, no se cotiza.
+
+---
+
+## ADICIÓN #11 — EL PACTO (versión 15/10) Y LA PERFILACIÓN ANTES DE INFORMAR (15/10/2026 · entra al Kit de Venta en la próxima revisión)
+
+**Qué cambia:** antes de dar cualquier información (programa, precio, beca, jornadas) se perfila al cliente con seis preguntas en orden fijo: motivo y destino · para quién y quién decide · nivel y experiencia · presencial y jornada · **El Pacto** (a TODOS, con el texto nuevo: "entrenamiento en equipo, como un gimnasio o aprender a nadar… video corto todos los días… garantía del 100%… ¿te le mides a ese ritmo?") · forma de pago (contado o inicial del 20% y cuotas; Cajasan). Solo después viene la información del Kit (cierre doble, anclas, escalera). La charla de absolución de la adición #6 queda solo para el cliente quemado, dentro del paso del Pacto.
+
+**Qué más:** el asistente del chat hace los mismos seis pasos desde el 15/10 y los deja en el panel: la asesora confirma, no repite. La asesoría es por llamada de WhatsApp por defecto, desde la plataforma; videollamada si el cliente la pide o decide con alguien más; presencial solo si lo pide; la firma siempre en la sede. Horario legal: L-V 7:00 a.m.-7:00 p.m., sábados 8:00 a.m.-3:00 p.m.; un contacto al día por cliente.
+
+**Documento:** `ANEXO_KIT_PACTO_Y_PERFILACION.docx/.pdf` (estructura de la llamada minuto a minuto, texto exacto del Pacto, precio cuándo y cómo, campos del panel, checklist de auditoría). Reemplaza, para el texto del Pacto, la adición #6.
