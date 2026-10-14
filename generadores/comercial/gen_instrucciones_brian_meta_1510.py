@@ -50,7 +50,7 @@ tabla([
 ])
 para('Nada de precio ni de "quiero información" en el prellenado: el agente necesita un motivo para arrancar la conversación.', size=9.5, color=GRIS)
 h('3. Formularios actuales')
-for t in ['• "Au Pair" quedó pausada el 08/10 (de 7 citas por LaHaus, 4 vinieron de Curso Inglés, 2 de base de datos y 1 de Au Pair). "Curso Inglés" como formulario se pausó el 13/10 y ese mismo anuncio pasó a WhatsApp (es el conjunto de la sección 1). No se vuelve a prender el formulario viejo.',
+for t in ['• "Au Pair" quedó pausada el 08/10 (de 7 citas por LaHaus, 4 vinieron de Curso Inglés, 2 de base de datos y 1 de Au Pair). "Curso Inglés" como formulario se pausó el 13/10 y ese mismo anuncio pasó a WhatsApp (es el conjunto de la sección 1). No se vuelve a prender el formulario viejo. Cuando los anuncios nuevos estén adjuntos a la campaña, Brian nos pasa el enlace y el ID de la campaña y de cada anuncio, para dárselos a LaHaus.',
           '• El control nuevo (HEIIU_FORM_CONTROL_1510) se crea con tipo "MAYOR INTENCIÓN" (pantalla de confirmación de datos). Activar verificación del teléfono por SMS si está disponible en Colombia. Teléfono SIN autorrelleno.',
           '• Pantalla de introducción: "Te escribirá nuestro asistente por WhatsApp en menos de 5 minutos. Responde para agendar tu videollamada de 20 minutos."',
           '• Preguntas (máximo 6, todas de opción múltiple PERSONALIZADAS, no las autollenadas de Meta): ¿Para qué necesitas el inglés? (trabajo / irme del país / estudio / mi hijo) · ¿Para cuándo quieres empezar? (este mes / en 1-2 meses / solo averiguando) · ¿Puedes asistir presencial en Bucaramanga? (sí / no) · ¿Estás dispuesto(a) a grabar un video corto en inglés todos los días como parte del entrenamiento? (sí, me le mido / prefiero algo más suave) · ¿Cómo prefieres invertir en tu formación? (de contado / inicial y cuotas / solo si es gratis) · Nombre y WhatsApp (el teléfono SIN autorrelleno).',
@@ -60,9 +60,7 @@ for t in ['• "Au Pair" quedó pausada el 08/10 (de 7 citas por LaHaus, 4 vinie
 
 h('4. Au Pair (prioridad: es el servicio que más engancha)')
 for t in ['• La campaña separada de Au Pair ya está pausada (08/10): a $20.000/día no salía de aprendizaje, 1 cita en 8 días y 3 de cada 5 leads creían que era una agencia de empleo. Esos $20.000/día quedan reservados para el 15/10.',
-          '• Vuelve como UN anuncio (V5_PASAPORTE) dentro del conjunto de WhatsApp cuando llegue el video. Si en la entrega del miércoles se puede priorizar V5, nos sirve mucho: es el servicio que más engancha. Mientras tanto no se crea nada de Au Pair. Primera línea del texto del anuncio: "No somos agencia: te preparamos en inglés para la entrevista de Au Pair o de trabajo en el exterior. El trámite lo haces con la agencia que elijas."',
-          '• Prohibido por política de Meta (resultados irreales): prometer empleo, visa, familia anfitriona o salario. Solo preparación.',
-          '• La categoría especial "Empleo" no es obligatoria para audiencia en Colombia; no marcarla.']:
+          '• Vuelve como UN anuncio (V5_PASAPORTE) dentro del conjunto de WhatsApp cuando llegue el video. Si se puede priorizar V5, nos sirve mucho: es el servicio que más engancha. Mientras tanto no se crea nada de Au Pair. Primera línea del texto del anuncio: "No somos agencia: te preparamos en inglés para la entrevista de Au Pair o de trabajo en el exterior. El trámite lo haces con la agencia aliada en la que confiamos."']:
     para(t, after=2)
 
 h('5. Lo que falta y cuándo entra')
