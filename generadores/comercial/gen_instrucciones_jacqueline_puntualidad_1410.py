@@ -68,6 +68,8 @@ caja(['Profesores, les quiero recalcar lo que estamos construyendo. El programa 
       'Eso lo tenemos que poder expresar todos. Estamos firmando garantías y un trabajo duro: video todos los días, asistencia, un ritmo que no se baja.',
       'Le pedimos al estudiante disciplina de soldado porque quiere subir de rango: un ascenso, una entrevista, una visa. Y un soldado así necesita un líder',
       'que llegue antes que él. Un coach que llega tarde no puede exigir puntualidad, ni tarea, ni ritmo: pierde la autoridad en el primer minuto.',
+      'Pero no podemos tener a Jacqueline encima de ustedes pidiéndoles que lleguen a tiempo o llamándolos porque no han llegado. Eso no es',
+      'comportamiento top. No es el trabajo de Jacqueline.',
       'Por eso desde el lunes 19 de octubre arranca el registro de inicio de clase. Antes de que entre el primer estudiante, cada uno escribe la Frase del Día',
       'en el tablero y envía la foto a este grupo. La hora de esa foto es la hora de inicio real; cuando Jacqueline está en la sede, su registro es el que vale.',
       'Llegar tarde es llegar tarde: desde el primer minuto queda registrado. Como dice el contrato, se paga por horas efectivamente impartidas: cada bloque',
