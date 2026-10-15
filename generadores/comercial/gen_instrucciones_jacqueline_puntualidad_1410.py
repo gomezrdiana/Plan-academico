@@ -50,11 +50,11 @@ r = p.add_run('Heiiu English Academy · 14 de octubre de 2026 · Uso interno · 
 
 sec('PARTE 1 — PUNTUALIDAD DOCENTE: una regla mecánica que corre sola desde el lunes 19/10')
 t('La hora de inicio de cada clase es condición del servicio en el contrato docente, y el pago es por horas efectivamente impartidas. No se llama la atención: se registra y se liquida. Jacqueline lleva el registro; Diana lo ve los lunes.', bold=True)
-item('Antes de que entre el primer estudiante, el docente escribe la Frase del Día en el tablero y envía la FOTO al grupo de docentes. La hora de ese mensaje es la hora de inicio real. La foto se toma con el salón vacío: "estaba en clase" o "el estudiante no me dejó" no aplican, porque si ya había estudiante y no había foto, llegó con él o después. Cuando Jacqueline está en la sede, su registro de la hora de llegada es el que vale, por encima de la foto. Sin foto y sin registro de Jacqueline = clase iniciada tarde.', 'Registro:')
+item('Jacqueline anota en la tabla la hora a la que cada docente entra al salón, en cada clase. Esa es la hora de inicio real y la única prueba. No le pide nada al docente ni lo llama: anota. La Frase del Día debe estar en el tablero antes de que entre el primer estudiante; la foto al grupo de docentes es opcional y no sirve como prueba de hora.', 'Registro:')
 item('Llegar tarde es llegar tarde: desde el minuto 1 queda registrado como clase iniciada tarde. Tres clases tarde en el mes: llamado de atención por escrito de Diana. El descuento corre por bloques: cada bloque de 15 minutos iniciado tarde se descuenta de la liquidación del mes (la fracción de hora no impartida no se paga). Ninguna situación se resuelve en el grupo: quien tenga una razón la escribe a Jacqueline ese mismo día.', 'Consecuencia:')
 item('Jacqueline llena esta tabla cada día (toma 2 minutos) y la manda a Diana los lunes con la liquidación.', 'Tabla semanal:')
 tabla([
- ['Día', 'Grupo', 'Docente (rol)', 'Hora de inicio', 'Hora de la foto / llegada', 'Minutos tarde', 'Bloques de 15 a descontar'],
+ ['Día', 'Grupo', 'Docente (rol)', 'Hora de inicio', 'Hora de llegada (Jacqueline)', 'Minutos tarde', 'Bloques de 15 a descontar'],
  ['', '', '', '', '', '', ''], ['', '', '', '', '', '', ''], ['', '', '', '', '', '', ''],
 ], [1.6, 2.4, 3.2, 2.2, 2.4, 2.2, 3.2], fs=9)
 t('Mensaje de Diana al grupo de docentes (se envía hoy; rige desde el lunes 19):', bold=True, after=1)
@@ -70,9 +70,9 @@ caja(['Profesores, les quiero recalcar lo que estamos construyendo. El programa 
       'que llegue antes que él. Un coach que llega tarde no puede exigir puntualidad, ni tarea, ni ritmo: pierde la autoridad en el primer minuto.',
       'Pero no podemos tener a Jacqueline encima de ustedes pidiéndoles que lleguen a tiempo o llamándolos porque no han llegado. Eso no es',
       'comportamiento top. No es el trabajo de Jacqueline.',
-      'Por eso desde el lunes 19 de octubre arranca el registro de inicio de clase. Antes de que entre el primer estudiante, cada uno escribe la Frase del Día',
-      'en el tablero y envía la foto a este grupo. La hora de esa foto es la hora de inicio real; cuando Jacqueline está en la sede, su registro es el que vale.',
-      'Llegar tarde es llegar tarde: desde el primer minuto queda registrado. Como dice el contrato, se paga por horas efectivamente impartidas: cada bloque',
+      'Por eso desde el lunes 19 de octubre arranca el registro de inicio de clase. Jacqueline anota la hora a la que cada uno entra al salón; esa es la hora',
+      'de inicio real. No les va a pedir nada ni a llamarlos: anota, y ya. La Frase del Día tiene que estar en el tablero antes de que entre el primer',
+      'estudiante; la foto al grupo la pueden mandar si quieren, pero no es la prueba. Llegar tarde es llegar tarde: desde el primer minuto queda registrado. Como dice el contrato, se paga por horas efectivamente impartidas: cada bloque',
       'de 15 minutos iniciado tarde se descuenta en la liquidación del mes. Corre igual para todos. Cualquier situación se escribe a Jacqueline el mismo día.',
       'El profe que está a las 7:50 con la frase en el tablero ya ganó la clase antes de empezarla. Así se lidera a alguien que quiere subir de rango. Gracias.'])
 
@@ -82,7 +82,7 @@ t('Esta semana (14 al 17/10) el reporte va todos los días para que la rutina qu
 
 sec('CHECKLIST DE JACQUELINE — HOY 14/10')
 for c in ['Leer la Parte 1 y confirmar a Diana que la entendió.', 'Diana envía hoy el mensaje de puntualidad al grupo de docentes; Jacqueline queda atenta a lo que respondan por privado.',
-          'Mañana: anotar la hora de la foto de cada clase en la tabla semanal (aunque la regla rija desde el lunes 19, la tabla se empieza a llenar ya).',
+          'Mañana: anotar la hora de llegada de cada docente en la tabla semanal (aunque la regla rija desde el lunes 19, la tabla se empieza a llenar ya).',
           'Reporte de una línea a Diana a las 12:30 p.m. desde mañana.']:
     item(c, '☐')
 
