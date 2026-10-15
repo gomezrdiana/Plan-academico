@@ -57,23 +57,27 @@ tabla([
  ['Día', 'Grupo', 'Docente (rol)', 'Hora de inicio', 'Hora de llegada (Jacqueline)', 'Minutos tarde', 'Bloques de 15 a descontar'],
  ['', '', '', '', '', '', ''], ['', '', '', '', '', '', ''], ['', '', '', '', '', '', ''],
 ], [1.6, 2.4, 3.2, 2.2, 2.4, 2.2, 3.2], fs=9)
-t('Mensaje de Diana al grupo de docentes (se envía hoy; rige desde el lunes 19):', bold=True, after=1)
-caja(['Profesores, les quiero recalcar lo que estamos construyendo. El programa que he venido desarrollando no busca solo enseñar inglés: busca formar al',
-      'estudiante desde el ser. Es un programa distinto al de cualquier academia, y solo funciona si todos lo ejecutamos igual. Si no, lo que vendemos en la',
-      'parte comercial no se ve en el aula y no cumplimos lo que prometimos.',
+t('Mensaje de Diana al grupo de docentes (enviado el 14/10; rige desde el lunes 19):', bold=True, after=1)
+caja(['Profesores, les quiero recalcar lo que estamos construyendo.',
+      'El programa que he venido desarrollando no busca solo enseñar inglés: busca formar al estudiante desde el ser. Por eso los valores, la puntualidad,',
+      'formar el carácter desde hacer cosas que no nos gustan, etc. Es un programa distinto al de cualquier academia, y solo funciona si todos lo ejecutamos',
+      'igual. Si no, lo que vendemos en la parte comercial no se ve en el aula y no cumplimos lo que prometimos.',
       'Hoy el programa evolucionó a esto: vendemos un entrenamiento tipo batallón, un bootcamp. Nada de eso es fácil. La competencia vende inglés fácil,',
-      'flexible y divertido; nosotros vendemos lo contrario: mentoría, acompañamiento, constancia, disciplina y, sí, algo de dolor. Y lo que repiten los',
-      'grandes, Steve Jobs, Elon Musk: para estar en el top hay que rodearse de los top y hacer cosas top. Uno se junta con top y es top. Punto.',
-      'Por eso nos rodeamos de gente emprendedora, líder, que quiere estar ahí arriba. Y por eso cada uno de nosotros tiene que ser top en lo suyo: un estudiante que paga por ser top no puede tener un profe promedio.',
+      'flexible y divertido; nosotros vendemos lo contrario: mentoría, acompañamiento, constancia, disciplina y, sí, algo de dolor.',
+      'Muchos hemos leído lo que predican grandes como Steve Jobs, Elon Musk y muchos otros: para estar en el top hay que rodearse de los top y hacer cosas',
+      'top. Uno se junta con top y es top. Punto.',
+      'Por eso nos rodeamos de gente emprendedora, líder, que quiere estar ahí arriba. Y por eso cada uno de nosotros tiene que ser top en lo suyo: un',
+      'estudiante que paga por ser top no puede tener un profe promedio. Entonces debe empezar por nosotros.',
       'Eso lo tenemos que poder expresar todos. Estamos firmando garantías y un trabajo duro: video todos los días, asistencia, un ritmo que no se baja.',
       'Le pedimos al estudiante disciplina de soldado porque quiere subir de rango: un ascenso, una entrevista, una visa. Y un soldado así necesita un líder',
       'que llegue antes que él. Un coach que llega tarde no puede exigir puntualidad, ni tarea, ni ritmo: pierde la autoridad en el primer minuto.',
-      'Pero no podemos tener a Jacqueline encima de ustedes pidiéndoles que lleguen a tiempo o llamándolos porque no han llegado. Eso no es',
+      'Entonces no podemos tener a Jacqueline encima de ustedes pidiéndoles que lleguen a tiempo o llamándolos porque no han llegado. Eso no es',
       'comportamiento top. No es el trabajo de Jacqueline.',
       'Por eso desde el lunes 19 de octubre arranca el registro de inicio de clase. Jacqueline anota la hora a la que cada uno entra al salón; esa es la hora',
-      'de inicio real. No les va a pedir nada ni a llamarlos: anota, y ya. La Frase del Día tiene que estar en el tablero antes de que entre el primer',
-      'estudiante; la foto al grupo la pueden mandar si quieren, pero no es la prueba. Llegar tarde es llegar tarde: desde el primer minuto queda registrado. Como dice el contrato, se paga por horas efectivamente impartidas: cada bloque',
-      'de 15 minutos iniciado tarde se descuenta en la liquidación del mes. Corre igual para todos. Cualquier situación se escribe a Jacqueline el mismo día.',
+      'de inicio real. No les va a pedir nada ni a llamarlos.',
+      'Llegar tarde es llegar tarde: desde el primer minuto queda registrado. Como dice el contrato, se paga por horas efectivamente impartidas: cada bloque',
+      'de 15 minutos iniciado tarde se descuenta en la liquidación del mes. Corre igual para todos.',
+      'Cualquier situación se escribe a Jacqueline el mismo día.',
       'El profe que está a las 7:50 con la frase en el tablero ya ganó la clase antes de empezarla. Así se lidera a alguien que quiere subir de rango. Gracias.'])
 
 sec('PARTE 2 — REPORTE DIARIO A DIANA (una sola línea, 12:30 p.m.)')
