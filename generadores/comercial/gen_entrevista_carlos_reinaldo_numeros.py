@@ -85,7 +85,7 @@ busca(doc, 'sobre lo cobrado, no sobre lo firmado. Si no lo sabe, se le explica 
 preg(doc, '"Si tu plan trae una meta en pesos: ¿en qué mes entra esa plata a la cuenta?"')
 busca(doc, 'que distinga firmado, inicial pagada y recaudo real.')
 preg(doc, '"Vienes de un salario de banca. El básico aquí es el mínimo legal y lo que protege los meses 1 a 3 es el piso. Si en el mes 4 la comisión todavía no reemplaza lo que ganabas, ¿qué haces?"')
-busca(doc, 'una respuesta concreta sobre su caja personal ("tengo para X meses", "mi esposa trabaja", "ya lo calculé") en vez de "no hay problema". Lleva 5 meses sin trabajar: si no lo ha calculado, se va en el mes 5.')
+busca(doc, 'una respuesta concreta sobre su caja personal ("tengo para X meses", "mi esposa trabaja", "ya lo calculé") en vez de "no hay problema". Lleva más de un año sin ingreso fijo (BBVA terminó en mayo de 2025): si no lo ha calculado, se va en el mes 5.')
 preg(doc, '"Martes y jueves en la sede, con tu planilla abierta, con Diana y conmigo. ¿Te sirve?"')
 busca(doc, 'un sí sin condiciones. Es un hecho del cargo, no se negocia.')
 
