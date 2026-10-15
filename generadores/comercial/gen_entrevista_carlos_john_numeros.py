@@ -73,6 +73,8 @@ preg(doc, '"Los mínimos del cargo son 40 empresas con decisor y 12 reuniones al
 preg(doc, '"¿Qué cuenta para ti como decisor contactado?"')
 busca(doc, 'la respuesta correcta es "hablé con la persona que decide y tengo nombre, cargo y celular". Si cuenta correos enviados o mensajes de LinkedIn, sus 40 son 8.')
 preg(doc, '"Tus 5 empresas de la tarea son grandes, con directores nacionales; eso firma en 2 o 3 meses. ¿Qué firmas en el mes 1 mientras eso madura?"')
+preg(doc, '"En la ficha escribiste que puedes sentarte con 20 gerentes en 2 semanas y nombraste tres clínicas odontológicas. En la tarea no pusiste ni una clínica. ¿Cuál es tu mes 1 de verdad: las 20 clínicas que conoces o las 5 empresas grandes que no? ¿Y cuántas matrículas da una clínica de 15 empleados?"')
+busca(doc, 'la ficha es lo que tiene (su red de clínicas de Welli y Dentix); la tarea es lo que cree que queríamos oír. Que lo reconozca y que ponga números a las clínicas: cuántas firma en el mes 1 y cuántas matrículas salen de cada una. Si defiende las 5 grandes como su mes 1, no está leyendo su propio embudo.')
 preg(doc, '"Dime los 5 indicadores que me vas a mostrar cada martes y, para cada uno, el número al que te sacas tú solo."')
 busca(doc, 'que las cifras del embudo cuadren entre sí (si dice 40 contactos y 20 reuniones, no sabe lo que es un decisor). Y que el último punto lo diga sin pensar: un gerente comercial sabe cuándo está fallando antes de que se lo digan.')
 
