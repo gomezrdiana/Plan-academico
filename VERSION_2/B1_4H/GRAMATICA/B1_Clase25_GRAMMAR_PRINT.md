@@ -16,7 +16,7 @@
 
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
-**Objective: re-fire irregular perfects and the narrative chain, then load the gerund seat.**
+**Objective: re-fire irregular perfects and the earlier-event layer (had + participle), then load the gerund seat.**
 
 **8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
@@ -24,7 +24,7 @@
    - "Present -> past -> participle, fast: go, take, be, find." (Cl 22)
    - "Fix it: 'He has took the bus and has ate lunch.'" (Cl 22)
    - "One true 'I have never + participle' line." (Cl 22)
-   - "The five-form chain in 3 lines: used to + was -ing + when + simple (+ connector)." (Cl 18)
+   - "HAD for the earlier event: 'I / study English -> I / go to London' — one sentence with BEFORE." (Cl 18)
    - "Fix it: 'First I was arrive, then the meeting had start.'" (Cl 18)
 2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"THINKING is... PLANNING is... LEARNING is... — the phrase is built with today's structure."*
@@ -119,3 +119,4 @@ El video del dia lo asignas TU (abre con LISTEN FIRST).
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: PRUDENCIA v2 dia 5 CIERRA hoy; Cl 26-30 = TEMPLANZA v2 (calendario absoluto). Anunciar la transicion.
 - **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 25 -> Conv Cl 25 en papel a las 10:00; Conv Cl 25 -> Grammar Cl 26 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date (su antiguo audio de portafolio sale). Tarea escrita a la mitad (6 frases; 15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, reglas citadas, simulacion, virtud) intacto.
+- **N-3/N-7 alineados a la edicion nueva de Cl 13-22 (15/10/2026):** Cl 18 de la edicion nueva es el past perfect (B1 M9 p.103-104): la cadena con used to se cambia por el dictado de Grammar Cl 18 con had + participio.

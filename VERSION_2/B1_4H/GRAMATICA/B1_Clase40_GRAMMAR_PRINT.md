@@ -61,13 +61,13 @@ IMPERSONAL (p.141): "It is important to help." (never drop "it")
 5. **Zone walk (12', DE PIE):** board `CAUSATIVE | NOUN<->ADJ | PREFIX/SUFFIX | IMPERSONAL/COMPOUND`. Tu cantas un contexto; parejas caminan a la zona correcta Y producen la forma. Si mal, "again" y re-caminan. 14 llamados (min 3 causativas, 2 passive).
 6. Cierre del bloque: uso libre — cada uno 2 frases verdaderas: 1 passive causative real ("I got my documents translated") + 1 con noun/adjective pair o impersonal ("It is important to...").
 
-## BLOQUE 3 — THE HANDOVER BRIEFING (35') — DE PIE 100%
+## BLOQUE 3 — THE MAINTENANCE REQUEST DESK (35') — DE PIE 100%
 
-**Objective: hand a project over — delegate pending tasks (causative) and describe the person taking it (adjectives) — precisely.**
+**Objective: request and confirm office repairs — what gets fixed and by whom (causative) and exactly what is wrong (advanced adjectives) — precisely.**
 
-1. Board: `THE HANDOVER BRIEFING — "GET IT DONE + DESCRIBE PRECISELY" — 3 ROTATIONS`
-2. Escenario profesional realista (solo tablero y sala): entregas un proyecto. **1 guest = el que entrega** que delega 3 tareas (have/get + participio: "have the files sent, get the client called") + describe a quien recibe (3 adjetivos precisos + 1 prefijo negativo + 1 impersonal "It is important to..."); **1 estudiante = el que recibe** y pide precision ("What exactly should I get done? What do you mean by 'disorganized'?"); el resto = **OBSERVERS ACTIVOS** (causative con participio, active con/sin "to", noun vs adjective, prefijo correcto, "it" presente, 1 pregunta). Tu = COACH afuera, nunca guest.
-3. 3 rotaciones (~9'). Cada ronda min 2 passive causative + 2 prefijos + 1 impersonal. Entre rondas: 60 seg de cadena "activa -> passive causative" + noun<->adjective.
+1. Board: `MAINTENANCE REQUEST DESK — "WHAT DO YOU NEED DONE?" — 3 ROTATIONS`
+2. Escenario profesional realista (servicios generales de una oficina o clinica, solo tablero y sala): un area pide reparaciones antes de una visita importante. **1 guest = el coordinador de mantenimiento** que recibe la solicitud y confirma quien hace que y cuando (passive causative: *"We'll have the projector repaired by noon; I'll get the cables replaced."*; active: *"I'll ask the supplier to send a new one; I'll have my technician check it."*) + compound e impersonal (*"It's a two-hour job. It is impossible to paint it today."*); **1 estudiante = quien hace la solicitud** y describe el daño con precision (*"The chair is unsafe, the screen is useless, the cable is irreparable — I need it done today."*) y exige fecha. El resto = **OBSERVERS ACTIVOS** de pie en 2 filas: fila CAUSATIVE (participio presente, "to" correcto) y fila ADJECTIVES (noun vs adjective, prefijo, compound singular, "it" presente); cada uno anota 1 error, 1 acierto, 1 pregunta. Tu = COACH afuera, nunca guest.
+3. 3 rotaciones (~9'). Cada ronda min 2 passive causative + 1 active + 2 prefijos + 1 compound + 1 impersonal. Entre rondas: 60 seg de cadena "problema -> solicitud" ("the light is broken" -> "I need the light fixed") + noun<->adjective.
 4. Debrief por tipos, anonimo. Recurrentes al lado del board; con 3, congela, coro 2x, borra, sigue. Regla: profesional y respetuoso.
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
@@ -77,7 +77,8 @@ IMPERSONAL (p.141): "It is important to help." (never drop "it")
 ```
 HOMEWORK GRAMMAR CL 40 — DUE Cl 41, BEFORE 7:00 PM — TODAY before 7:00 PM.
 NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
-(1) WRITE 6 lines about a real project handover:
+(1) WRITE 6 lines: a real repair or maintenance request at YOUR work
+    (a printer, an AC unit, a door, a system):
     1 passive causative (have/get + object + participle),
     1 active causative (make/let no "to", or ask/tell with "to"),
     2 noun/adjective pairs, 1 prefix/suffix word, 1 impersonal
@@ -105,7 +106,7 @@ dia lo asignas tu (con LISTEN FIRST). NO pidas otro papel encima.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + zone walk + handover) ☐ PASE Conv Cl 39 leido ☐ PASE a Conv Cl 40 entregado en mano a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + zone walk + maintenance desk) ☐ PASE Conv Cl 39 leido ☐ PASE a Conv Cl 40 entregado en mano a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -122,7 +123,7 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 **PLAN B por bloque:**
 - B1: si flojean relative pronouns, drilea 3 causativas ("I got the copies made") + 3 pares noun/adjetivo.
 - B2: doble modulo — si el tiempo aprieta, prioriza passive causative (p.123) + noun/adj + prefijos; compound/impersonal a la simulacion.
-- B3: grupo <=4 -> 2 rotaciones + mas cadena "activa -> passive causative" + noun<->adjective.
+- B3: grupo <=4 -> 2 rotaciones del maintenance desk + mas cadena "problema -> solicitud" + noun<->adjective. Sin caso propio: caso neutro del board ("The meeting room projector is broken and the client arrives at 3").
 - B4: ticket minimo = 3 frases (1 causativa, 1 par noun/adj, 1 impersonal), pero SIEMPRE se recoge.
 
 ## NOTA INTERNA (no leer en clase)
@@ -134,4 +135,4 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - Recuperacion: N-3 = Cl 37 = B1 M7 (confirmado por coordinacion); N-7 = Cl 33 (ventana repaso A2). (SUPUESTO DE PLANEACIÓN — verificar ancla N-7.)
 - Virtud: FORTALEZA v2 dia 5 — CIERRA (calendario absoluto). Mañana Cl 41 abre SINTESIS.
 - **Orden real del dia (hoja de arranque 13/10/2026):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia · PASE Grammar Cl N -> Conv Cl N en papel a las 10:00 y Conv Cl N -> Grammar Cl N+1 al cerrar a las 12:00 · UN solo video diario (lo asigna Conversacion, abre con LISTEN FIRST; el chequeo con una mejora por video es de Conversacion a las 10:00) · tarea escrita de Grammar de 15-20 min (la mitad de items) · foto de inicio a la hora exacta al grupo de docentes.
-- `SUPUESTO DE PLANEACION — verificar` (anti-duplicado, fuera del alcance de este ajuste): Conv Cl 40 corre tambien "THE HANDOVER BRIEFING" a las 10:00. Con el orden real, el grupo la hace dos veces el mismo dia; coordinacion decide si se rediseña el Bloque 3 de una de las dos pistas.
+- **B3 ES DISTINTO DEL DE CONV CL 40 PORQUE:** a las 10:00 es **THE HANDOVER BRIEFING** — entrega de un proyecto antes de salir, roles el que entrega mas el que recibe, delega tareas y describe a una PERSONA. Aqui es **THE MAINTENANCE REQUEST DESK** — solicitud de reparaciones a servicios generales, roles coordinador de mantenimiento mas quien solicita, carga obligatoria passive causative para confirmar quien arregla que + active causative con/sin "to" + adjetivos de DAÑO y objetos (prefijos un-/ir-/-less, compound "a two-hour job", impersonal "It is impossible to..."), y los observers se dividen en 2 filas por estructura, cosa que no existe en Conv Cl 40. Ni el titulo, ni los roles, ni el guion, ni la carga gramatical se repiten. La tarea escrita cambio de tema (15/10): solicitud real de reparacion en SU trabajo, no el handover, para que el estudiante no escriba de noche lo mismo que grabo en el video de Conv. Resuelve el `SUPUESTO` anti-duplicado que antes quedaba abierto aqui.

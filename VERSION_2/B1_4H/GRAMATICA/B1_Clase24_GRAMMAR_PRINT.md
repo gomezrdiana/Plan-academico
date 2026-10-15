@@ -14,7 +14,7 @@
 
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
-**Objective: re-fire perfect and used to, then flip the focus from actor to result.**
+**Objective: re-fire the present perfect and the story layers, then flip the focus from actor to result.**
 
 **8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
@@ -22,8 +22,8 @@
    - "Have or has + participle: 'the team / finish / the audit'. Then make it a question." (Cl 21)
    - "Short answer only: 'Have you sent the file?'" (Cl 21)
    - "Closed or open? 'I ___ (work) there in 2021' / 'I ___ (work) hard this month.'" (Cl 21/23)
-   - "used to + one true old habit; then the negative with 'didn't use to'." (Cl 17)
-   - "WOULD for repeated past actions: one true line ('Every morning I would...')." (Cl 17)
+   - "Scene + turn: 'In 2019 I ___ (live) in ___ when ___ (happen).' — say it all past." (Cl 17)
+   - "Fix it: 'Finally we finish it.'" (Cl 17)
 2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones.
 4. **Revision tarea (3'):** 6 frases cerrado/abierto sobre la mesa; recoge. **PASE de Conv Cl 23 (dejado al cierre de las 12:00)** leido en voz alta: sus 3 errores literales entran a la recuperacion; hoy la pasiva se escribe con reglas antes de hablarla a las 10:00.
@@ -119,3 +119,4 @@ El video del dia lo asignas TU (abre con LISTEN FIRST).
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: PRUDENCIA v2 dia 4 (calendario absoluto).
 - **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 24 -> Conv Cl 24 en papel a las 10:00; Conv Cl 24 -> Grammar Cl 25 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date (su antiguo audio de portafolio sale). Tarea escrita a la mitad (3 activas convertidas = 6 lineas; 15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, reglas citadas, simulacion, virtud) intacto.
+- **N-3/N-7 alineados a la edicion nueva de Cl 13-22 (15/10/2026):** used to / didn't use to / would (edicion vieja) se cambian por la historia por capas de Grammar Cl 17 (escena + giro con when; fuga al presente en el orden); Objective sin used to.

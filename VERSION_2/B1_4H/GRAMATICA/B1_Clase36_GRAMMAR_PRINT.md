@@ -53,9 +53,9 @@ NEVER "should OF" -> always "should HAVE".
    - "could have went" -> "could have gone" (participio)
 6. **Producto verificable:** lectura coral; feedback logro primero, forma despues.
 
-## BLOQUE 3 — DRILL + CONNECTORS DEBRIEF (35') — DE PIE 100%
+## BLOQUE 3 — DRILL + THE DELAY CALL TO A CLIENT (35') — DE PIE 100%
 
-**Objective: form cause/contrast connectors at speed, then hold them in a resilience debrief.**
+**Objective: form cause/contrast connectors at speed, then hold a client call about a delayed delivery with connectors AND perfect modals.**
 
 1. Board — cita del libro (M6, p.53/57):
 ```
@@ -65,8 +65,8 @@ RESULT:  , so + clause | . That's why + clause
 CONTRAST:, but + clause | Even though + clause (formal: although)
          | On the other hand | In spite of / Despite + noun
 ```
-2. **Cadena de conversion (12', circulo, DE PIE):** tu cantas dos ideas ("we lost the client / the delay"); estudiante 1 las une con un conector correcto ("We lost the client because of the delay"), 2 la reformula con contraste ("...but we fixed the process"), 3 lanza el siguiente par. Velocidad creciente; ultimo giro: solo casos reales de SU trabajo.
-3. **The resilience debrief (18'):** escenario profesional realista: explicar a un lider un contratiempo real y como se superó. **1 guest = quien explica** con el molde (*"We failed because of a bad estimate. Even though the team was tired, we replanned, so we recovered the deadline."*); otro rota como quien pregunta (*"Why did it happen? What did you do despite the pressure?"*); el resto = **OBSERVERS ACTIVOS** (2 errores, 1 acierto, 1 pregunta). Tu = COACH afuera, nunca guest. 3 rotaciones.
+2. **Cadena de conversion (12', circulo, DE PIE):** tu cantas dos ideas de logistica ("the truck didn't leave / the road closure"); estudiante 1 las une con un conector correcto ("The truck didn't leave because of the road closure"), 2 la reformula con contraste ("...but the order is already packed"), 3 lanza el siguiente par. Velocidad creciente; ultimo giro: solo entregas reales de SU trabajo (pedidos, informes, citas, envios).
+3. **The delay call (18'):** Board: `CLIENT CALL — "WHERE IS MY ORDER?" — 3 ROTATIONS`. Escenario profesional realista (atencion al cliente / logistica, solo tablero y sala): un cliente llama molesto porque su pedido no llego. **1 guest = el ejecutivo de cuenta** que explica la causa y propone la salida con el molde (*"Due to a road closure, the truck couldn't leave. We should have called you yesterday. Even though the order is late, it is packed, so it arrives tomorrow."*); otro estudiante rota como **el cliente** y presiona con perfect modals (*"You could have told us earlier. Why didn't you send it by another route?"*). El guest debe usar min 1 causa + 1 resultado + 1 contraste + 1 should/could have. El resto = **OBSERVERS ACTIVOS** de pie en 3 filas: CAUSE / RESULT / CONTRAST — cada fila levanta la mano cuando oye su conector y anota 1 error, 1 acierto, 1 pregunta. Tu = COACH afuera, nunca guest ni cliente. 3 rotaciones.
 4. **Cierre FORTALEZA (5'):** *"Fortitude day one — say one true 'even though ___, I ___' about a time you did not quit."* — 2 respuestas maximo. *"This opens Fortitude. Four more days."*
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
@@ -90,7 +90,7 @@ NOT fragmented.
 > **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: today's rules, out loud, in a real work situation. Your video is assigned there. Final on Cl 44 — calendar fact only — coordination, not me."*
+4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: today's rules, out loud, in a real work situation. Your video is assigned there."*
 5. **PASE al docente de CONVERSACION (Conv Cl 36, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No se pasa de palabra: el bloque siguiente lo dicta otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
 PASE Grammar -> Conv — Cl 36 (HOY, a las 10:00)
@@ -107,7 +107,7 @@ El video del dia lo asignas TU (abre con LISTEN FIRST).
 Virtud: FORTALEZA v2 dia 1 — abierta en mi pista.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 10 modals + resilience debrief) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 10 modals + delay call) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -125,12 +125,13 @@ Ejemplos p.54/58: *"Thanks to my teacher, I can speak English!"* · *"Due to you
 
 ### PLAN B (sin material)
 - Sin board: profe dicta ambos moldes; cadena de conversion oral de memoria.
-- Grupo chico (<4): profe = quien pregunta en el debrief; guest fijo explica; el resto observa.
-- Sin caso propio: usa un caso neutro del board ("The launch was delayed").
+- Grupo chico (<4): profe = el cliente en el delay call (solo en este caso); guest fijo = ejecutivo de cuenta; el resto observa con las 3 filas de conectores.
+- Sin caso propio: usa un caso neutro del board ("The client's 200 boxes did not arrive yesterday").
 
 ## NOTA INTERNA (no leer en clase)
 - Modulos HOY = M5 (p.43-49) + M6 (p.53-60), verbatim en anexo.
 - Recuperacion N-3 = Cl 33 (GET/causative/adverbs, M42-44 confirmado por frontera de entrada); N-7 = Cl 29 (phrasal verbs). **(SUPUESTO DE PLANEACIÓN — verificar: cierre A2 Cl 27-33 en re-mapeo paralelo; N-7 estructura real del tramo final A2, numero ajustable.)**
+- **B3 ES DISTINTO DEL DE CONV CL 36 PORQUE:** a las 10:00 es **EXPLAINING THE SETBACK YOU BEAT** — debrief interno de resiliencia ante un lider, roles quien explica mas quien pregunta, carga solo conectores de causa y contraste. Aqui es **THE DELAY CALL TO A CLIENT** — llamada de atencion al cliente por un pedido retrasado, roles ejecutivo de cuenta mas cliente molesto, carga obligatoria conectores (causa + resultado + contraste) MAS should/could have del M5 en la boca del cliente y del guest, y los observers se dividen en 3 filas por tipo de conector, cosa que no existe en Conv Cl 36. Ni el titulo, ni los roles, ni el guion, ni la carga gramatical se repiten. `Resilience debrief` (el B3 anterior de esta guia) queda retirado porque duplicaba el de Conv.
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: FORTALEZA v2 dia 1 ABRE hoy (calendario absoluto). Cl 37 = dia 2.
 - Cronograma: Cl 44 = FINAL (evaluador externo, NO se genera guia ese dia).

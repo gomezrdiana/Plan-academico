@@ -59,12 +59,12 @@ M34 PRICE (Guia p.293-294): two ways ->
    - "It cost $5 each" (falta -s) -> "It costs $5" / "They cost $5 each"
 6. **Producto verificable:** lectura coral del board; feedback primero sobre el logro, luego la forma.
 
-## BLOQUE 3 — DRILL + THE STOCK CHECK (35') — DE PIE 100%
+## BLOQUE 3 — DRILL + THE TEAM EVENT BUDGET (35') — DE PIE 100%
 
-**Objective: produce quantities and prices at speed, then hold them in a realistic stock/price check.**
+**Objective: produce quantities and prices at speed, then defend them in a realistic budget meeting for a company event.**
 
-1. **Cadena de conversion (12', circulo, DE PIE):** tu cantas un sustantivo ("printers" / "coffee" / "a license $95"); estudiante 1 decide how many/how much y pregunta, 2 responde con cantidad o precio + each si aplica, 3 lanza el siguiente. Velocidad creciente; ultimo giro: solo cosas reales de SU trabajo.
-2. **The stock check (18'):** escenario profesional realista: revisar inventario y precios con un proveedor antes de ordenar. **1 guest = el proveedor** con el molde (*"There are a few printers and a lot of paper. The printer is $95; the cartridges cost $6 each; there's only a bit of toner left."*); otro estudiante rota como quien pregunta (*"How many are there? How much does the toner cost?"*); el resto = **OBSERVERS ACTIVOS** (2 errores, 1 acierto, 1 pregunta). Tu = COACH afuera, nunca guest. 3 rotaciones.
+1. **Cadena de conversion (12', circulo, DE PIE):** tu cantas un sustantivo del evento ("guests" / "budget" / "a lunch $25" / "chairs" / "time"); estudiante 1 decide how many/how much y pregunta, 2 responde con cantidad o precio + each si aplica, 3 lanza el siguiente. Velocidad creciente; ultimo giro: solo cosas reales de un evento de SU trabajo.
+2. **The team event budget (18'):** escenario profesional realista: RRHH organiza el almuerzo de cierre de año del equipo y necesita la aprobacion de finanzas. **1 guest = el coordinador del evento** que presenta su presupuesto (*"There are forty people confirmed. We have two thousand dollars. The lunch costs twenty-five dollars each, the room is three hundred, and we need a few extra chairs."*); otro estudiante rota como la asistente de finanzas que audita cada cifra (*"How many people are coming, exactly? How much money is left? How much does the room cost?"*); el resto = **OBSERVERS ACTIVOS** con tarea distinta: suman en voz baja las cifras del guest y al final dicen si el presupuesto cierra o se pasa, en 1 frase ("It's two hundred dollars too much"). Tu = COACH afuera, nunca guest. 3 rotaciones; cada guest presenta OTRO evento real (capacitacion, reunion de clientes, celebracion).
 3. **Cierre TEMPLANZA (5'):** *"Five days of Temperance close here. Name one work resource you use TOO MUCH of, and one you have JUST a few of."* — 2 respuestas maximo. *"This closes Temperance. Next class opens Justice."*
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
@@ -103,7 +103,7 @@ El video del dia lo asignas TU (abre con LISTEN FIRST).
 Virtud: TEMPLANZA v2 dia 5 — CERRADA en mi pista; cierrala igual.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas + stock check) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas + team event budget) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -131,3 +131,4 @@ M34 (p.295): "How much are the hamburgers?" - "They're six dollars each."
 - Virtud: TEMPLANZA v2 dia 5 CIERRA hoy (calendario absoluto); Cl 31 abre JUSTICIA v2. Anunciar la transicion.
 - **Siguiente sesion Grammar:** Cl 31 = cluster DESCRIPCION **M36 (p.301-306) + M37 (p.307-312) + M38 (p.313-317)**. JUSTICIA v2 dia 1.
 - **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 30 -> Conv Cl 30 en papel a las 10:00; Conv Cl 30 -> Grammar Cl 31 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date. Tarea escrita a la mitad (15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes.
+- **B3 ES DISTINTO DEL DE CONV CL 30 PORQUE:** a las 10:00 es **THE SUPPLY ORDER** — llamada al proveedor para reponer stock, roles proveedor mas quien hace el pedido, guion de existencias y precios unitarios (impresoras, cartuchos). Ahora es **THE TEAM EVENT BUDGET** — reunion interna para aprobar el presupuesto de un evento del equipo, roles coordinador del evento (RRHH) mas asistente de finanzas que audita, guion de asistentes, dinero disponible y costo por persona, y los observers suman las cifras y dan veredicto cierra / se pasa, tarea que no existe en Conv Cl 30. Misma carga gramatical (M32-M34), distinto titulo, roles, guion y funcion. El B3 viejo de esta pista (`The stock check`, casi igual al de Conv) queda retirado.

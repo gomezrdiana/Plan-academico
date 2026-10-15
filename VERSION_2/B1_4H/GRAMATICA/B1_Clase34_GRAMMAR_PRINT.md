@@ -58,9 +58,9 @@ BOOK EXAMPLES (p.4):
    - "She has left, hasn't her?" -> "...hasn't she?" (pronombre sujeto)
 6. **Producto verificable:** lectura coral del board; feedback logro primero, forma despues.
 
-## BLOQUE 3 — EITHER/NEITHER/BOTH + FAIR CHOICE (35') — DE PIE 100%
+## BLOQUE 3 — DRILL + THE TWO-SOLUTION CUSTOMER CALL (35') — DE PIE 100%
 
-**Objective: form either/neither/both correctly at speed, then hold it in a realistic fair decision.**
+**Objective: form either/neither/both correctly at speed, then use it to offer a client two fair solutions.**
 
 1. Board — cita del libro (M2, p.9/13/17):
 ```
@@ -71,8 +71,8 @@ neither ... nor-> zero of two  "neither Spanish nor English"
 both ... and   -> two of two   "both Spanish and English"
                  (both =/= 'also/too')
 ```
-2. **Cadena de conversion (12', circulo, DE PIE):** tu cantas un par de opciones reales ("morning shift / evening shift") + "1 / 0 / 2"; estudiante 1 forma either/neither/both correcto, 2 lo justifica justo en 1 linea, 3 lanza el siguiente par. Velocidad creciente; ultimo giro: solo pares reales de SU trabajo.
-3. **The fair decision (18'):** escenario profesional realista: un equipo decide justamente entre dos opciones. **1 guest = quien plantea** con el molde (*"We can hire either the senior or the junior. Neither is cheap, but both are qualified — the fair call is the junior with a mentor."*); otro estudiante rota como quien pregunta (*"Which is fairer? Can we fund both?"*); el resto = **OBSERVERS ACTIVOS** (2 errores, 1 acierto, 1 pregunta). Tu = COACH afuera, nunca guest. 3 rotaciones.
+2. **Cadena de conversion (12', circulo, DE PIE):** tu cantas un par de soluciones para un cliente ("a refund / a new date" · "store pickup / home delivery" · "the email / the phone line") + "1 / 0 / 2"; estudiante 1 forma either/neither/both correcto, 2 lo justifica justo en 1 linea, 3 lanza el siguiente par. Velocidad creciente; ultimo giro: solo pares reales que SU empresa ofrece a clientes.
+3. **The two-solution customer call (18'):** escenario profesional realista: servicio al cliente (aerolinea, tienda en linea, clinica, operador de internet) resuelve un problema por telefono. **1 guest = el agente de servicio** que ofrece dos salidas con el molde y confirma con tags (*"We can offer you either a full refund or a new date. Both options are free. Neither option includes the hotel, I'm afraid. That's fair, isn't it?"*); otro estudiante rota como el cliente molesto que presiona (*"Can I have both? Why neither? So I can either wait or lose the money?"*); el resto = **OBSERVERS ACTIVOS** con tarea distinta: anotan cada either / neither / both del agente, cazan "neither ... not" y "both" usado por "also", y dicen en 1 frase si el trato fue justo para el cliente. Tu = COACH afuera, nunca guest. 3 rotaciones; cada guest atiende OTRO problema real.
 4. **Cierre JUSTICIA (5'):** *"Justice day four — say one true 'neither ... nor' where refusing both options is the fair thing."* — 2 respuestas maximo.
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
@@ -96,7 +96,7 @@ NOT fragmented.
 > **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: today's rules, out loud, in a real work situation. Your video is assigned there. Final on Cl 44 — calendar fact only — coordination, not me."*
+4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: today's rules, out loud, in a real work situation. Your video is assigned there."*
 5. **PASE al docente de CONVERSACION (Conv Cl 34, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No se pasa de palabra: el bloque siguiente lo dicta otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
 PASE Grammar -> Conv — Cl 34 (HOY, a las 10:00)
@@ -114,7 +114,7 @@ El video del dia lo asignas TU (abre con LISTEN FIRST).
 Virtud: JUSTICIA v2 dia 4.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (libro abierto p.3 + board 10 tags + fair decision) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (libro abierto p.3 + board 10 tags + two-solution customer call) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -141,3 +141,4 @@ p.17: *"'Both…and' is the equivalent to 'ambos…y'... we do not use 'both' to
 - Virtud: JUSTICIA v2 dia 4 (calendario absoluto). Cl 35 = dia 5 (cierra bloque); Cl 36 abre FORTALEZA v2.
 - Cronograma: Cl 44 = FINAL (evaluador externo, NO se genera guia ese dia).
 - **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 34 -> Conv Cl 34 en papel a las 10:00; Conv Cl 34 -> Grammar Cl 35 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date. Tarea escrita a la mitad (15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes.
+- **B3 ES DISTINTO DEL DE CONV CL 34 PORQUE:** a las 10:00 es **THE TWO-OPTION DECISION** — reunion INTERNA donde el equipo elige entre dos propuestas/proveedores/turnos, roles quien plantea mas quien pregunta. Ahora es **THE TWO-SOLUTION CUSTOMER CALL** — servicio al cliente: un agente OFRECE dos soluciones a un cliente externo molesto y confirma con question tags (M1 integrado), roles agente de servicio mas cliente, y los observers cazan los errores de M2 y juzgan si el trato fue justo para el cliente, tarea que no existe en Conv Cl 34. Misma carga gramatical (M2, con M1 de apoyo), distinto titulo, roles, guion y funcion. La cadena ya no usa el par de turnos de Conv: usa soluciones para clientes. El B3 viejo de esta pista (`The fair decision`, otra decision interna casi igual a la de Conv) queda retirado.

@@ -20,11 +20,11 @@
 **10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 20 y Cl 16); errores anonimos al board; 1 min re-produccion:
-   - "A 3-line story: used to + was -ing + when + past simple." (Cl 20)
+   - "A 3-line story: was -ing + when + past simple + one DIDN'T." (Cl 20)
    - "Add the earlier layer: '...because I had already ___.'" (Cl 20)
-   - "WHEN or WHILE: '___ I was driving, my boss called.'" (Cl 16)
+   - "Cut the line: 'I was driving to work when my boss ___ (call).' — short action, past simple." (Cl 16)
    - "Fix it: 'I was cook dinner when he arrive.'" (Cl 16)
-   - "Two long actions at the same time — one sentence with WHILE." (Cl 16)
+   - "Ask a partner: 'What were you doing when ___?' — answer with the line and the cut." (Cl 16)
 2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar; el chequeo nombre por nombre es SOLO tuyo (Gramatica a las 8:00 solo recuerda el video). Di: *"I am not asking who made it. I am asking who SENT it."* Marcas ENVIO o NO ENVIO y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real**. El video que no abre con sus 3 frases de LISTEN FIRST cuenta como incompleto. Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."*
 3. **Frase del Dia (4').** Board antes; lectura 2x + coro + 1 solo; 3+ inserciones hoy.
 4. **Lectura del PASE de Gramatica, en voz alta (3').** Lees los 3 errores escritos del papel que te entrego Gramatica Cl 23 a las 10:00: *"These came out of your writing this morning. Now they have to survive out loud."*
@@ -35,7 +35,7 @@
 
 **Objective: everyone has interviewed a partner about real experiences and reported three of them accurately.**
 
-1. Meta en 1 linea (arriba). **Avance de proyecto hoy: una linea nueva para MY STORY — "Since the midterm I have..." (rumbo al Final).**
+1. Meta en 1 linea (arriba). **Avance de proyecto hoy: una linea nueva para MY STORY — "Since my presentation I have...".**
 2. Board — el pivote (solo uso oral; Grammar lo formalizo hoy a las 8:00 con el libro; aqui NO se re-explica):
 ```
 THE NATURAL PIVOT
@@ -114,7 +114,8 @@ Tu Cl 24 abre M18 "You Are Loved!" — la voz pasiva regular
 
 - Modulo ancla de hoy: A2 Book **M17 "You Didn't, or You Haven't?" — The Present Perfect vs The Simple Past (p.163; Guia 1 p.164)**. Conv lo APLICA oralmente (pivote); Grammar ya lo formalizo hoy a las 8:00. NO enseñar la tabla de usos en Conv.
 - Distribucion clase<->modulo (M17 hoy; M18 Cl 24; M20 Cl 25 — M19 NO existe): SUPUESTO DE PLANEACIÓN — verificar.
-- MY STORY sigue vivo post-midterm rumbo al Final (Cl 44, evaluador externo — no se genera guia ese dia). Avance de hoy: linea "Since the midterm I have...".
+- MY STORY sigue vivo post-midterm rumbo al Final (Cl 44, evaluador externo — no se genera guia ese dia). Avance de hoy: linea "Since my presentation I have..." (al estudiante no se le nombra el midterm ni el Final).
 - Virtud: PRUDENCIA v2 dia 3 (calendario absoluto).
 - Profe sin material preparado: todo en tablero + papel del estudiante.
 - **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (B1 + B2 juntos), el MISMO dia. PASE Grammar Cl 23 -> Conv Cl 23 en papel a las 10:00; Conv Cl 23 -> Grammar Cl 24 al cerrar a las 12:00. UN solo video diario, el de Conversacion: el chequeo nombre por nombre con UNA mejora por video es de esta pista. La tarea de esta pista pasa a ser SOLO el video (antes llevaba ademas un papel y un audio; su contenido quedo dentro del video): la escrita es de Gramatica. LISTEN FIRST abre el video (busqueda de hoy: "tell me about your work experience"). Foto de inicio a las 10:00 al grupo de docentes. Contenido (modulo, simulacion, virtud) intacto.
+- **N-3/N-7 alineados a la edicion nueva de Cl 13-22 (15/10/2026):** salen used to y while (no estan en el libro ni en la edicion nueva); entran la escena + giro + didn't de Cl 20 y la interrupcion con WHEN de Cl 16 (A2 M12 p.100).

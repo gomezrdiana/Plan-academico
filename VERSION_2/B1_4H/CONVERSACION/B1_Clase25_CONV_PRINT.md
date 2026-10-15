@@ -13,16 +13,16 @@
 
 ## BLOQUE 1 — APERTURA (20')
 
-**Objective: re-fire irregular perfects and the narrative chain, then aim at opinions.**
+**Objective: re-fire irregular perfects and the earlier-event layer (had + participle), then aim at opinions.**
 
 **10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 22 y Cl 18); errores anonimos al board; 1 min re-produccion:
    - "have + irregular participle: go, take, be — one true sentence each, fast." (Cl 22)
    - "Fix it: 'She has went to the office.'" (Cl 22)
-   - "One line FROM your midterm story — the line you would keep forever." (Cl 22)
-   - "Chain: used to + was -ing + when + simple, 3 lines." (Cl 18)
-   - "Order a mini story out loud: first / then / after that / finally." (Cl 18)
+   - "One line FROM your MY STORY, MY GOALS presentation — the line you would keep forever." (Cl 22)
+   - "Before the story began: 'By the time the client called, I had ___.' — one true line." (Cl 18)
+   - "Fix it: 'I had went to the office before the meeting.'" (Cl 18)
 2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar; el chequeo nombre por nombre es SOLO tuyo (Gramatica a las 8:00 solo recuerda el video). Di: *"I am not asking who made it. I am asking who SENT it."* Marcas ENVIO o NO ENVIO y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real**. El video que no abre con sus 3 frases de LISTEN FIRST cuenta como incompleto. Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."*
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"Hear the shape? PLANNING ahead is... CHOOSING well is... FINISHING is... — that shape is today."*
 4. **Lectura del PASE de Gramatica, en voz alta (3').** Lees los 3 errores escritos del papel que te entrego Gramatica Cl 25 a las 10:00: *"These came out of your writing this morning. Now they have to survive out loud."*
@@ -118,3 +118,4 @@ tu Cl 26 abre TEMPLANZA v2.
 - MY STORY vivo rumbo al Final Cl 44 (evaluador externo; ese dia no se genera guia).
 - Profe sin material preparado: todo en tablero + papel del estudiante.
 - **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (B1 + B2 juntos), el MISMO dia. PASE Grammar Cl 25 -> Conv Cl 25 en papel a las 10:00; Conv Cl 25 -> Grammar Cl 26 al cerrar a las 12:00. UN solo video diario, el de Conversacion: el chequeo nombre por nombre con UNA mejora por video es de esta pista. La tarea de esta pista pasa a ser SOLO el video (antes llevaba ademas un papel y un audio; su contenido quedo dentro del video): la escrita es de Gramatica. LISTEN FIRST abre el video (busqueda de hoy: "workplace values and principles explained"). Foto de inicio a las 10:00 al grupo de docentes. Contenido (modulo, simulacion, virtud) intacto.
+- **N-3/N-7 alineados a la edicion nueva de Cl 13-22 (15/10/2026):** Cl 18 de la edicion nueva es el past perfect (B1 M9 p.103-104), no la cadena con used to: los dos items de N-7 pasan a had + participio; el item de Cl 22 nombra la presentacion por su titulo, sin la palabra de evaluacion.

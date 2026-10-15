@@ -59,12 +59,12 @@ M38 ORDER (Guia p.314): Cantidad > Opinion > Tamano > Edad > Forma >
    - "he wear a jacket" -> "he is wearing a jacket"
 6. **Producto verificable:** lectura coral del board; feedback primero sobre el logro, luego la forma.
 
-## BLOQUE 3 — DRILL + THE ID DESCRIPTION (35') — DE PIE 100%
+## BLOQUE 3 — DRILL + THE LOST ITEM CLAIM (35') — DE PIE 100%
 
-**Objective: order adjectives at speed, then hold them in a realistic identify-the-person exchange.**
+**Objective: order adjectives at speed, then hold them in a realistic lost-and-found claim at a reception desk.**
 
-1. **Cadena de conversion (12', circulo, DE PIE):** tu cantas adjetivos sueltos + sustantivo ("car / black / big"); estudiante 1 los ordena ("a big black car"), 2 agrega una descripcion de persona ("she has short curly hair"), 3 lanza el siguiente. Velocidad creciente; ultimo giro: solo personas reales de SU trabajo.
-2. **The ID description (18'):** escenario profesional realista: recepcion/seguridad describe a un visitante o empleado para identificarlo. **1 guest = quien describe** con el molde (*"We're expecting a tall, average-weight woman with long straight blond hair and pale skin. She's wearing a black jacket, a white shirt and brown shoes. She has glasses and a brown bag."*); otro estudiante rota como quien confirma y pregunta (*"What does she look like? What is she wearing? What color is her hair?"*); el resto = **OBSERVERS ACTIVOS** (2 errores, 1 acierto, 1 pregunta). Tu = COACH afuera, nunca guest. 3 rotaciones.
+1. **Cadena de conversion (12', circulo, DE PIE):** tu cantas adjetivos sueltos + un objeto de trabajo ("bag / black / big / old" · "umbrella / blue / long" · "laptop case / grey / small / square"); estudiante 1 los ordena ("a big old black bag"), 2 describe al dueno con be/have + wearing ("The owner is tall, she has short curly hair, she's wearing a grey coat"), 3 lanza el siguiente. Velocidad creciente; ultimo giro: solo objetos reales que SU trabajo pierde o recibe.
+2. **The lost item claim (18'):** escenario profesional realista: recepcion de un hotel, clinica o edificio de oficinas; alguien viene a reclamar un objeto que dejo el dia anterior. **1 guest = el cliente que reclama** y describe el objeto en orden y a si mismo para que lo confirmen en la camara (*"I lost a small old brown bag with a long black strap. I'm average height, I have short straight black hair and glasses. Today I'm wearing a dark green jacket."*); otro estudiante rota como el agente de recepcion que verifica antes de entregar (*"What does the bag look like? What color is the strap? What does the person on the camera look like?"*); el resto = **OBSERVERS ACTIVOS** con tarea distinta: el grupo "guarda" el objeto y solo lo entrega si la descripcion sale en orden (tamano-edad-forma-color) + 2 errores literales. Tu = COACH afuera, nunca guest. 3 rotaciones; cada guest reclama OTRO objeto real.
 3. **Cierre JUSTICIA (5'):** *"Justice day one — give one fair, ordered description of a real person at your work, one sentence."* — 2 respuestas maximo.
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
@@ -104,7 +104,7 @@ El video del dia lo asignas TU (abre con LISTEN FIRST).
 Virtud: JUSTICIA v2 dia 1 — abierta en mi pista.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 descripciones + ID description) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 descripciones + lost item claim) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -131,3 +131,4 @@ M38 ORDER (p.316): "I have a small green English car." "Arianna has long
 - Virtud: JUSTICIA v2 dia 1 (calendario absoluto).
 - **Siguiente sesion Grammar:** Cl 32 = **M39 (p.318-325) + M41 (p.326-332)** (M40 NO existe). JUSTICIA v2 dia 2.
 - **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 31 -> Conv Cl 31 en papel a las 10:00; Conv Cl 31 -> Grammar Cl 32 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date. Tarea escrita a la mitad (15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes.
+- **B3 ES DISTINTO DEL DE CONV CL 31 PORQUE:** a las 10:00 es **THE FRONT DESK / SECURITY BRIEFING** — alguien describe a un visitante esperado para que el guardia lo deje entrar, roles quien describe mas guardia, guion centrado en una PERSONA. Ahora es **THE LOST ITEM CLAIM** — atencion al cliente en una recepcion: un cliente reclama un OBJETO perdido, lo describe con adjetivos en orden y se describe a si mismo para la verificacion por camara, roles cliente mas agente de recepcion, y los observers solo 'entregan' el objeto si el orden de adjetivos es correcto, tarea que no existe en Conv Cl 31. Misma carga gramatical (M36-M38), distinto titulo, roles, guion y funcion. El B3 viejo de esta pista (`The ID description`, casi igual al de Conv) queda retirado.

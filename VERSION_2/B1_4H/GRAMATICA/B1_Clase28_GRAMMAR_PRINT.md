@@ -69,12 +69,12 @@ Cada activacion: coro 2x + cada estudiante 1 frase real de trabajo con esa forma
    - "gooder / bestest" -> "better / the best" (irregulares)
 8. **Producto verificable:** lectura coral del board; feedback logro primero, forma despues.
 
-## BLOQUE 3 — DRILL + THE OPTIONS REVIEW (35') — DE PIE 100%
+## BLOQUE 3 — DRILL + THE MONTHLY RESULTS BRIEFING (35') — DE PIE 100%
 
-**Objective: switch across the three forms at speed, then hold them in a realistic options/candidates review.**
+**Objective: switch across the three forms at speed, then report real results with them in a monthly briefing to a manager.**
 
-1. **Cadena de conversion (12', circulo, DE PIE):** tu cantas 2 elementos + adjetivo ("app A / app B / fast" · "this plan / that plan / good" · "our team / all teams / strong"); estudiante 1 lo dice IGUAL ("A is as fast as B"), 2 lo dice DESIGUAL ("A is faster than B"), 3 lo dice SUPERLATIVO ("A is the fastest of all") y lanza el siguiente trio. Velocidad creciente; ultimo giro: solo trabajo real.
-2. **The options review (18'):** escenario profesional realista: reunion para elegir entre proveedores / herramientas / candidatos. **1 guest = quien recomienda** y compara con las tres formas (*"Option A is as reliable as B, but A is cheaper than B. Honestly, A is the best value of the three."*); otro estudiante rota como el jefe que pregunta (*"Is A as fast as C? Which is the most expensive? Why is B better?"*); el resto = **OBSERVERS ACTIVOS** (2 errores, 1 acierto, 1 pregunta). Tu = COACH afuera, nunca guest. 3 rotaciones.
+1. **Cadena de conversion (12', circulo, DE PIE):** tu cantas 2 datos + adjetivo ("this month / last month / busy" · "our branch / the north branch / fast" · "our team / all four teams / punctual"); estudiante 1 lo dice IGUAL ("This month is as busy as last month"), 2 DESIGUAL ("This month is busier than last month"), 3 SUPERLATIVO ("This is the busiest month of the year") y lanza el siguiente trio. Velocidad creciente; ultimo giro: solo datos reales de SU trabajo.
+2. **The monthly results briefing (18'):** escenario profesional realista: cierre de mes en una sucursal (tienda, bodega, clinica, call center); NO se elige nada, se REPORTA. **1 guest = el supervisor de turno** que informa resultados contra el mes anterior y contra otras sedes (*"Sales this month are as high as in September, but returns are lower than last month. Our branch had the fastest delivery time of the four, and the most punctual team."*); otro estudiante rota como el gerente regional que verifica (*"Is this month as good as last month? Which branch is the slowest? Why are complaints higher than in August?"*); el resto = **OBSERVERS ACTIVOS** con tarea distinta: cuentan cuantas frases IGUAL / DESIGUAL / SUPERLATIVO dijo el guest (meta: las tres) + 2 errores literales. Tu = COACH afuera, nunca guest. 3 rotaciones; cada guest reporta OTRA sucursal real.
 3. **Cierre TEMPLANZA (5'):** *"Temperance day three — compare two things at work fairly: one 'as ... as', one 'better than', and name 'the best'."* — 2 respuestas maximo.
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
@@ -115,7 +115,7 @@ TAREA QUE DEJE: 6 lineas escritas, due Cl 29 antes de las 7:00 PM.
 El video del dia lo asignas TU (abre con LISTEN FIRST).
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 comparaciones + options review) ☐ PASE entregado a Conv a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 comparaciones + monthly results briefing) ☐ PASE entregado a Conv a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -142,3 +142,4 @@ El video del dia lo asignas TU (abre con LISTEN FIRST).
 - Virtud: TEMPLANZA v2 dia 3 (calendario absoluto).
 - Proxima Grammar = Cl 29 comprime M29 + M30 (grados + so/too/enough; M31 NO existe). El LIBRO B1 entra en Cl 34.
 - **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 28 -> Conv Cl 28 en papel a las 10:00; Conv Cl 28 -> Grammar Cl 29 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date (su antiguo audio de portafolio sale). Tarea escrita a la mitad (6 frases; 15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, reglas citadas, simulacion, virtud) intacto.
+- **B3 ES DISTINTO DEL DE CONV CL 28 PORQUE:** a las 10:00 es **THE OPTIONS REVIEW** — reunion para ELEGIR proveedor/herramienta/plan, roles quien recomienda mas jefe/cliente que pregunta. Ahora es **THE MONTHLY RESULTS BRIEFING** — no se elige nada: se REPORTAN resultados de cierre de mes contra el mes anterior y contra otras sedes, roles supervisor de turno mas gerente regional, y los observers llevan un conteo igual / desigual / superlativo que no existe en Conv Cl 28. Misma carga gramatical (M26-M28), distinto titulo, roles, guion y funcion comunicativa. La cadena de conversion tambien cambia a datos de resultados (mes, sucursal, equipo). El B3 viejo de esta pista (`The options review`, casi igual al de Conv) queda retirado.

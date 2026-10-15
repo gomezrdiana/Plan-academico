@@ -19,10 +19,10 @@
 **8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 20 y Cl 16); errores anonimos al board; 1 min re-produccion:
-   - "Chain the five: used to / was -ing / when + simple / had + participle / a connector — one mini story." (Cl 20)
+   - "Chain the five: was -ing / when + simple / did-didn't / had + participle / an order word — one mini story." (Cl 20)
    - "Which form is it? 'By then she had already signed.'" (Cl 20)
-   - "WHEN or WHILE + why: '___ we were testing the app, the server failed.'" (Cl 16)
-   - "Fix both: 'He was work while I cooked was.'" (Cl 16)
+   - "Line or cut? 'We ___ (test) the app when the server ___ (fail).'" (Cl 16)
+   - "Fix it: 'I was playing when my mom was calling.'" (Cl 16)
    - "Background + event, one line, all past." (Cl 16/20)
 2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones.
@@ -110,3 +110,4 @@ El video del dia lo asignas TU (abre con LISTEN FIRST).
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: PRUDENCIA v2 dia 3 (calendario absoluto).
 - **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 23 -> Conv Cl 23 en papel a las 10:00; Conv Cl 23 -> Grammar Cl 24 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date (su antiguo audio de portafolio sale). Tarea escrita a la mitad (6 frases; 15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, reglas citadas, simulacion, virtud) intacto.
+- **N-3/N-7 alineados a la edicion nueva de Cl 13-22 (15/10/2026):** las 5 formas son las de Grammar Cl 20 (escena, giro, lucha, evento anterior, orden), sin used to; while sale (Cl 16 enseño solo WHEN, A2 M12 p.100).

@@ -65,12 +65,12 @@ Coro 2x + cada estudiante 1 par "so.../too..." real de su trabajo.
    - "It is too good!" (elogio) -> "It is SO good!" (so = bueno; too = problema)
 7. **Producto verificable:** lectura coral del board; feedback logro primero, forma despues.
 
-## BLOQUE 3 — DRILL + THE WORKLOAD CHECK-IN (35') — DE PIE 100%
+## BLOQUE 3 — DRILL + THE NEW OFFICE INSPECTION (35') — DE PIE 100%
 
-**Objective: measure degrees at speed, then hold them in a realistic workload/quality check-in.**
+**Objective: measure degrees at speed, then hold them in a realistic inspection of a new work space before signing.**
 
-1. **Cadena de conversion (12', circulo, DE PIE):** tu cantas un adjetivo + tema de trabajo ("hard / this project" · "new / the system" · "busy / your week"); estudiante 1 pregunta ("How hard is this project?"), 2 responde con intensificador ("It's pretty hard"), 3 lo juzga con enough/so/too ("It's hard enough, but not too much") y lanza el siguiente. Velocidad creciente; ultimo giro: solo trabajo real.
-2. **The workload check-in (18'):** escenario profesional realista: reunion corta para revisar carga y calidad. **1 guest = miembro del equipo** que reporta con ambos moldes (*"The deadline is pretty tight. The tool is good enough, but the process is too slow. My team is so committed — honestly, they work too hard."*); otro estudiante rota como el lider que pregunta (*"How heavy is your week? Is the budget enough? Is anything too much right now?"*); el resto = **OBSERVERS ACTIVOS** (2 errores, 1 acierto, 1 pregunta). Tu = COACH afuera, nunca guest. 3 rotaciones.
+1. **Cadena de conversion (12', circulo, DE PIE):** tu cantas un adjetivo + parte de un espacio de trabajo ("big / the meeting room" · "quiet / the second floor" · "far / the parking lot" · "bright / the reception"); estudiante 1 pregunta ("How big is the meeting room?"), 2 responde con intensificador ("It's pretty big"), 3 lo juzga con enough/so/too ("It's big enough for twelve, but the parking lot is too far") y lanza el siguiente. Velocidad creciente; ultimo giro: solo SU lugar de trabajo real.
+2. **The new office inspection (18'):** escenario profesional realista: la empresa va a mudarse y alguien recorre el local nuevo antes de firmar el arriendo. **1 guest = el coordinador de instalaciones** que ya visito el local y reporta (*"The meeting room is pretty big — big enough for twelve. The second floor is so quiet! But the parking lot is too small, and the kitchen isn't big enough for the whole team."*); otro estudiante rota como la gerente administrativa que pregunta antes de firmar (*"How far is it from the bus station? Is the light good enough? Is anything too expensive?"*); el resto = **OBSERVERS ACTIVOS** con tarea distinta: levantan la mano en cada "so" (bueno) y anotan cada "too" (problema); al final dicen si el local se firma o no, en 1 frase. Tu = COACH afuera, nunca guest. 3 rotaciones; cada guest inspecciona OTRO espacio real (oficina, bodega, consultorio).
 3. **Cierre TEMPLANZA (5'):** *"Temperance day four — name one thing at work that is 'good enough' and one that is 'too much', and how you keep the balance."* — 2 respuestas maximo.
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
@@ -112,7 +112,7 @@ TAREA QUE DEJE: 6 lineas escritas, due Cl 30 antes de las 7:00 PM.
 El video del dia lo asignas TU (abre con LISTEN FIRST).
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas mixtas + workload check-in) ☐ PASE entregado a Conv a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas mixtas + new office inspection) ☐ PASE entregado a Conv a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -137,3 +137,4 @@ El video del dia lo asignas TU (abre con LISTEN FIRST).
 - Virtud: TEMPLANZA v2 dia 4 (calendario absoluto); Cl 30 cierra el bloque (dia 5).
 - **FRONTERA DE SALIDA (para el agente de Cl 30-33):** Cl 30 = quantities and prices (how many / how much); tarea de hoy = 10 frases grados + so/too/enough sobre trabajo real + portafolio, DUE Cl 30 antes 7:00 PM; PASE estandar entregado. El LIBRO B1 entra en Cl 34.
 - **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 29 -> Conv Cl 29 en papel a las 10:00; Conv Cl 29 -> Grammar Cl 30 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date (su antiguo audio de portafolio sale). Tarea escrita a la mitad (6 frases; 15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, reglas citadas, simulacion, virtud) intacto.
+- **B3 ES DISTINTO DEL DE CONV CL 29 PORQUE:** a las 10:00 es **THE WORKLOAD CHECK-IN** — reunion de carga y calidad del equipo, roles miembro del equipo mas lider, guion sobre deadlines, procesos y personas. Ahora es **THE NEW OFFICE INSPECTION** — se juzga un ESPACIO FISICO antes de firmar un arriendo, roles coordinador de instalaciones mas gerente administrativa, guion sobre tamano, distancia, luz y precio, y los observers marcan so (bueno) vs too (problema) y dan veredicto firmar / no firmar, tarea que no existe en Conv Cl 29. Misma carga gramatical (M29 + M30), distinto titulo, roles, guion y funcion. La cadena de conversion tambien cambia a partes de un espacio de trabajo. El B3 viejo de esta pista (`The workload check-in`, casi igual al de Conv) queda retirado.

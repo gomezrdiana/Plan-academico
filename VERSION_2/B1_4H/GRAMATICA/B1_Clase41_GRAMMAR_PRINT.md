@@ -60,14 +60,15 @@ RECIPROCAL (Guide 3, p.155):
 5. **Zone walk (12', DE PIE):** board `INDEFINITE | REFLEXIVE | RECIPROCAL | + BOOK-CLOSE zone`. Tu cantas un contexto; parejas caminan a la zona correcta Y producen la frase (verbo singular / reflexivo / each other). En la BOOK-CLOSE zone producen 1 frase sobre TODO el nivel usando cualquier estructura del libro. 14 llamados.
 6. Cierre del bloque: uso libre — cada uno 2 frases verdaderas: 1 reflexive real ("I taught myself...") + 1 reciprocal real ("we corrected each other").
 
-## BLOQUE 3 — THE BOOK-CLOSE ROUNDTABLE (35') — DE PIE 100% — sintesis + semilla de presentacion
+## BLOQUE 3 — THE PROJECT-CLOSE MEMO AUDIT (35') — DE PIE 100% — sintesis + semilla de presentacion
 
-**Objective: each student delivers a 90-sec reflection that closes the book and seeds the final presentation.**
+**Objective: write, audit and defend a 4-line project-close memo that uses the whole book — the corrected lines become the skeleton of the final presentation.**
 
-1. Board: `BOOK-CLOSE ROUNDTABLE — "WHAT I BUILT — MYSELF AND WITH EACH OTHER" — M1-M12 DONE`
-2. Escenario profesional realista (solo tablero y sala): mesa de cierre. **1 guest a la vez = el que reflexiona** 90 seg sobre el nivel, usando min 2 indefinite (verbo singular) + 1 reflexive + 1 reciprocal + 2 estructuras reales del libro (reported speech, perfect tenses, causative, advanced adjectives...); el resto = **OBSERVERS ACTIVOS** (2 estructuras del libro que oyeron + 1 duda de forma). Tu = COACH afuera, nunca guest; cronometras y anotas las 5 mejores frases al board.
-3. Rondas de ~90 seg hasta que todos pasen. Aplauso corto tras cada uno; sin Q&A largo. Entre rondas: 30 seg de cadena indefinite/reflexive a velocidad.
-4. Debrief breve, anonimo. Lee las 5 mejores frases del board; el grupo repite cada una. *"Esto es lo que se lleva el nivel."*
+1. Board: `PROJECT-CLOSE MEMO AUDIT — "CHECK IT YOURSELF, CHECK EACH OTHER" — M1-M12 DONE`. Escenario profesional realista (oficina, solo tablero y sala): antes de que un memo de cierre de proyecto llegue a la direccion, pasa por auditoria de calidad.
+2. **Audit warm-up (5', grupo de pie frente al board):** escribes 4 lineas de un memo de cierre con 4 errores reales del PASE de Conv Cl 40 y de la Frase del Dia mal copiada (ej.: *"Everyone in the team are proud. We finished the 3-months project by our own. I had the report send. We supported ourselves."*). El grupo audita en voz alta: cada error se corrige Y se nombra su modulo ("M12 — singular verb").
+3. **Stations (10', parejas DE PIE, 4 estaciones en el board):** `M1-M3 | M4-M6 | M7-M9 | M10-M12`. Cada pareja escribe en su estacion 2 lineas de SU memo de cierre del nivel (lo que logro, lo que hizo by myself, con quien trabajo each other) usando la estructura de esa estacion + 1 pronombre M12. Cada 2'30" rotan: la pareja siguiente audita las lineas anteriores — marca ✓ o corrige con otro color y dice la regla en voz alta.
+4. **The audit meeting (15', rondas de ~3'):** **1 guest = el autor del memo**, lee sus 4 lineas desde su papel; otro estudiante rota como **auditor de calidad** y pide 2 ajustes de precision (*"Who exactly is 'someone'? Did you do it by yourself or with each other? Which tense — 'I have finished' or 'I finished'?"*); el guest defiende o corrige de viva voz y reescribe la linea en el board. El resto = **OBSERVERS ACTIVOS**: cada uno vigila UNA estacion (modulos asignados) y al cierre de la ronda dice 1 estructura oida + 1 ajuste. Tu = COACH afuera, nunca guest ni auditor; cronometras y anotas las 5 mejores lineas corregidas.
+5. Debrief breve, anonimo. Lee las 5 mejores lineas; el grupo repite cada una. *"Esto es lo que se lleva el nivel."* Remata: *"Tonight these corrected lines become bullets in your presentation skeleton."*
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
 
@@ -104,7 +105,7 @@ El video del dia lo asignas tu (con LISTEN FIRST). NO pidas otro papel.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + zone walk + roundtable) ☐ PASE Conv Cl 40 leido ☐ PASE a Conv Cl 41 entregado en mano a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + estaciones + memo audit) ☐ PASE Conv Cl 40 leido ☐ PASE a Conv Cl 41 entregado en mano a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -118,7 +119,7 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 **PLAN B por bloque:**
 - B1: si flojea reported speech, drilea 3 back-shifts + 1 tag y sigue.
 - B2: si la zone walk con 4 zonas se enreda, corre 3 (indefinite/reflexive/reciprocal) y agrega BOOK-CLOSE en la 2a vuelta.
-- B3: grupo pequeño -> 2 min por persona; grupo grande -> 75 seg. Todos pasan.
+- B3: sin board grande -> estaciones en hojas del cuaderno de cada pareja, que rotan de mano en mano. Grupo pequeño -> todos pasan como autor (~4' cada uno); grupo grande -> rondas de 2'30" y el resto audita en parejas. Sin memo propio: caso neutro del board ("Project close: new client system, 3 months").
 - B4: la tarea del esqueleto es innegociable; si falta tiempo se dicta oral, pero due date Cl 42 7 PM NO se mueve.
 
 ## NOTA INTERNA (no leer en clase)
@@ -131,4 +132,4 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - Virtud: SINTESIS dia 1 (calendario absoluto).
 - **Orden real del dia (hoja de arranque 13/10/2026):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia · PASE Grammar Cl N -> Conv Cl N en papel a las 10:00 y Conv Cl N -> Grammar Cl N+1 al cerrar a las 12:00 · UN solo video diario (lo asigna Conversacion, abre con LISTEN FIRST; el chequeo con una mejora por video es de Conversacion a las 10:00) · tarea escrita de Grammar de 15-20 min (la mitad de items) · foto de inicio a la hora exacta al grupo de docentes.
 - **Tarea a la mitad en Cl 41:** el esqueleto conserva sus 6 viñetas (las necesita la presentacion) pero cada una baja a UNA linea con su meta gramatical: eso cabe en 15-20 min. `SUPUESTO DE PLANEACION — verificar` con coordinacion.
-- `SUPUESTO DE PLANEACION — verificar` (anti-duplicado, fuera del alcance de este ajuste): Conv Cl 41 corre a las 10:00 una mesa de cierre casi igual (CLOSING ROUNDTABLE). Coordinacion decide si una de las dos pistas cambia su Bloque 3.
+- **B3 ES DISTINTO DEL DE CONV CL 41 PORQUE:** a las 10:00 es **THE CLOSING ROUNDTABLE** — mesa de cierre ORAL, cada uno habla 90 seg sobre el nivel, roles el que reflexiona mas observers, semilla = CONTAR la historia. Aqui es **THE PROJECT-CLOSE MEMO AUDIT** — memo de cierre ESCRITO auditado por estaciones M1-M12, roles autor del memo mas auditor de calidad, carga obligatoria corregir y nombrar el modulo de cada error (M12 + todo el libro), produccion oral (defensa) mas escrita (reescritura en board), semilla = ESTRUCTURAR las lineas corregidas que pasan al esqueleto de la tarea. Ni el titulo, ni los roles, ni el guion, ni la carga gramatical se repiten. Grammar Cl 43 abre presentaciones y Conv Cl 43 cierra: sin cambio. Resuelve el `SUPUESTO` anti-duplicado que antes quedaba abierto aqui. `SUPUESTO DE PLANEACIÓN — verificar`: los 4 errores del warm-up salen del PASE de Conv Cl 40; si el PASE no llego, el profe usa los 4 errores tipicos del Bloque 2.

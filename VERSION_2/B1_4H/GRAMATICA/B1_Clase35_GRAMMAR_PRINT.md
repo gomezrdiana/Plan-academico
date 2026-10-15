@@ -77,9 +77,9 @@ Ambos: la probabilidad es 0% — el pasado no se cambia.
    - "If I had studied, I will be an engineer" -> "I WOULD be an engineer"
 5. **Produccion libre (6'):** cada uno toma **un solo hecho real de su pasado** y lo dice **en los dos moldes**: *"If I had taken that job, I would have earned more that year — and I would be a manager today."* Ronda completa, de pie.
 
-## BLOQUE 3 — THE CONDITIONALS COMPARED (35') — DE PIE 100%
+## BLOQUE 3 — THE CONDITIONALS COMPARED + THE EXIT INTERVIEW (35') — DE PIE 100%
 
-**Objective: build the full 0/1/2/3 table on the board and run one real situation up all five rungs.**
+**Objective: build the full 0/1/2/3 table on the board, run real situations up all five rungs, then hold an HR exit interview in both third conditionals.**
 
 1. **CONSTRUIR LA TABLA (12', parejas al board).** Dibuja la columna izquierda VACIA (0 / 1st / 2nd / 3rd straight / 3rd mixed). Cada pareja sube y llena **una fila**: probabilidad + tiempos + un ejemplo propio. El grupo verifica contra el libro. Resultado — **el tablero central del dia** (foto obligatoria):
 ```
@@ -105,7 +105,7 @@ EL LIBRO (p.37): "The 0, 1st, and 2nd conditionals are used for
 3rd mixed:    If Mark had arrived on time, I would be amazed.
 ```
    3 escaleras minimo. Si un escalon se rompe, la escalera vuelve a empezar desde ese escalon — sin regaño, solo se repite.
-3. **THE FAIR POST-MORTEM (12', 2 rotaciones de ~6').** Escenario profesional realista: revisar una decision pasada del equipo con justicia. **1 guest = reporta el caso**; otro rota como quien pregunta, y **debe preguntar en los dos niveles**: *"If you had checked the numbers, what would you have done?"* (recto) y *"If you had checked them, where would we be now?"* (mixto). El guest responde en el molde correspondiente. El resto = **OBSERVERS ACTIVOS** (1 error de molde, 1 acierto, 1 pregunta). Tu = COACH afuera, nunca guest.
+3. **THE EXIT INTERVIEW (12', 2 rotaciones de ~6').** Board: `HR EXIT INTERVIEW — "WHAT WOULD HAVE KEPT YOU?"`. Escenario profesional realista (RRHH, solo tablero y sala): una persona deja la empresa y RRHH le hace la entrevista de salida para entender que fallo. **1 guest = el empleado que se va**; otro estudiante rota como **entrevistador de RRHH**, que **debe preguntar en los dos niveles**: *"If we had offered you training last year, would you have stayed?"* (recto) y *"If you had been promoted in March, would you be leaving today?"* (mixto). El guest responde en el molde que corresponde y nombra el escalon: *"If my manager had listened, I would have stayed — that's third straight."* El resto = **OBSERVERS ACTIVOS** con conteo en el aire: dedos a la izquierda = recto, a la derecha = mixto; cada uno anota 1 molde mezclado, 1 acierto, 1 pregunta. Tu = COACH afuera, nunca guest ni entrevistador.
 4. **Cierre JUSTICIA (3'):** *"Justice day five — one true line: 'If I had ___, I would be ___ today.' Name what is missing now, without blaming anyone."* — 2 respuestas maximo. *"Justice closes. Next class: Fortitude, day one."*
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
@@ -133,7 +133,7 @@ NOT fragmented.
 > **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: today's rules, out loud, in a real work situation. Your video is assigned there. Final on Cl 44 — calendar fact only — coordination, not me."*
+4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: today's rules, out loud, in a real work situation. Your video is assigned there."*
 5. **PASE al docente de CONVERSACION (Conv Cl 35, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No se pasa de palabra: el bloque siguiente lo dicta otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
 PASE Grammar -> Conv — Cl 35 (HOY, a las 10:00)
@@ -152,7 +152,7 @@ El video del dia lo asignas TU (abre con LISTEN FIRST).
 Virtud: JUSTICIA v2 dia 5 — CERRADA en mi pista; cierrala igual.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Foto de la TABLA COMPARADA del board ☐ Fotos/videos (post-mortem) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Foto de la TABLA COMPARADA del board ☐ Fotos/videos (exit interview) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -178,8 +178,8 @@ Ejemplos p.38 (escalera completa): *"0: If I have money, I buy lunch. / 1st: ...
 ### PLAN B (sin material)
 - Sin board: el profe dicta los dos moldes y la tabla fila por fila; la escalera se corre de memoria en cadena de pie.
 - Si a los 25 min el mixto no aterriza: **cierra hoy con recto + tabla comparada** y corre la escalera solo hasta "3rd straight"; el mixto entra como primer bloque de recuperacion de Cl 36. Mejor 2 moldes limpios que 3 borrosos. **Reportalo a coordinacion** — el mixto NO puede quedar sin dictarse otra vez.
-- Grupo chico (<4): el profe hace de quien pregunta en el post-mortem; guest fijo reporta; el resto observa. La tabla la llena el grupo entero, no por parejas.
-- Sin caso propio: caso neutro del board ("The report went out with an error").
+- Grupo chico (<4): el profe hace de entrevistador de RRHH en el exit interview (solo en este caso); guest fijo = el empleado que se va; el resto observa con el conteo recto/mixto. La tabla la llena el grupo entero, no por parejas.
+- Sin caso propio: caso neutro del board ("A senior analyst is leaving after three years without a raise").
 
 ## NOTA INTERNA (no leer en clase)
 
@@ -189,6 +189,7 @@ Ejemplos p.38 (escalera completa): *"0: If I have money, I buy lunch. / 1st: ...
 - Modulos HOY = M3 (p.23-25, comprimido) + **M4 completo (p.29-31 recto, p.33-35 mixto, p.37-39 comparada)**, verbatim en anexo.
 - Recuperacion N-3 = Cl 32 (superlativos/ranking); N-7 = Cl 28 (phrasal verbs). **(SUPUESTO DE PLANEACIÓN — verificar: cierre A2 Cl 27-33 en re-mapeo paralelo; estructuras reales del tramo final A2, numero de clase ajustable.)**
 - **Frontera de salida:** M4 queda CERRADO — Cl 36 abre M5 (p.43-49) + M6 (p.53-60) sin deuda pendiente. Si se aplico el Plan B (mixto no dictado), coordinacion debe reprogramarlo antes de Cl 40.
+- **B3 ES DISTINTO DEL DE CONV CL 35 PORQUE:** a las 10:00 es **WHAT WOULD YOU HAVE DONE?** — post-mortem de equipo sobre una decision pasada, roles quien reporta el caso mas quien pregunta, carga solo tercer condicional RECTO. Aqui es **THE CONDITIONALS COMPARED + THE EXIT INTERVIEW** — tabla 0/1/2/3 y escalera de cinco escalones, luego entrevista de salida de RRHH, roles empleado que se va mas entrevistador de RRHH, carga obligatoria RECTO y MIXTO en la misma pregunta, el guest nombra el escalon y los observers llevan un conteo recto / mixto que no existe en Conv Cl 35. Ni el titulo, ni los roles, ni el guion, ni la carga gramatical se repiten. `Fair post-mortem` (el B3 anterior de esta guia) queda retirado porque duplicaba el de Conv.
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: JUSTICIA v2 dia 5 CIERRA hoy (calendario absoluto). Cl 36 abre FORTALEZA v2 dia 1.
 - Cronograma: Cl 44 = FINAL (evaluador externo, NO se genera guia ese dia). NO comunicar evaluaciones — coordinacion.

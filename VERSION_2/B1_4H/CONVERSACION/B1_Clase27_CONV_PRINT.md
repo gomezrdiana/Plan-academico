@@ -21,7 +21,7 @@
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 24 = M18 y Cl 20); errores anonimos al board; 1 min re-produccion:
    - "Say one work process in 3 passive steps: 'the order is received, it is checked, it is sent.'" (Cl 24)
    - "Fix it: 'The report receives every week.'" (Cl 24)
-   - "Chain a mini past story: used to / was -ing / when + past simple / had + participle." (Cl 20)
+   - "Chain a mini past story: was -ing / when + past simple / didn't / had + participle." (Cl 20)
    - "Which form? 'By then she had already signed.'" (Cl 20)
    - "First / then / after that / finally — order a real task, all past." (Cl 20/24)
 2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar; el chequeo nombre por nombre es SOLO tuyo (Gramatica a las 8:00 solo recuerda el video). Di: *"I am not asking who made it. I am asking who SENT it."* Marcas ENVIO o NO ENVIO y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real**. El video que no abre con sus 3 frases de LISTEN FIRST cuenta como incompleto. Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."*
@@ -119,3 +119,4 @@ Tu Cl 28 abre M26 + M27 + M28 comparacion completa
 - MY STORY vivo rumbo al Final Cl 44 (evaluador externo; ese dia no se genera guia).
 - Profe sin material preparado: todo en tablero + papel del estudiante.
 - **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (B1 + B2 juntos), el MISMO dia. PASE Grammar Cl 27 -> Conv Cl 27 en papel a las 10:00; Conv Cl 27 -> Grammar Cl 28 al cerrar a las 12:00. UN solo video diario, el de Conversacion: el chequeo nombre por nombre con UNA mejora por video es de esta pista. La tarea de esta pista pasa a ser SOLO el video (antes llevaba ademas un papel y un audio; su contenido quedo dentro del video): la escrita es de Gramatica. LISTEN FIRST abre el video (busqueda de hoy: "a day in the life of an office manager"). Foto de inicio a las 10:00 al grupo de docentes. Contenido (modulo, simulacion, virtud) intacto.
+- **N-3/N-7 alineados a la edicion nueva de Cl 13-22 (15/10/2026):** la cadena de Cl 20 pierde used to (no esta en el libro) y toma las 5 formas reales de Cl 20: escena, giro, lucha con didn't, evento anterior con had.

@@ -21,7 +21,7 @@
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 24 = M18 y Cl 20); errores anonimos al board; 1 min re-produccion:
    - "Three passive steps of one work process: 'is received / is checked / is sent.'" (Cl 24)
    - "Fix it: 'The boxes prepare every morning.'" (Cl 24)
-   - "Chain: used to / was -ing / when + past simple / had + participle." (Cl 20)
+   - "Chain: was -ing / when + past simple / didn't / had + participle." (Cl 20)
    - "Fix it: 'By then she had already sign.'" (Cl 20)
    - "Background + event, all past, one line." (Cl 20/24)
 2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
@@ -64,12 +64,12 @@ Coro 2x + cada estudiante 1 frase real con pronombre en medio.
    - "turn off it" -> "turn IT off" · "pick up her" -> "pick HER up" · "look up it" -> "look IT up"
 7. **Producto verificable:** lectura coral del board; feedback logro primero, forma despues.
 
-## BLOQUE 3 — DRILL + THE FRONT DESK / SHIFT (35') — DE PIE 100%
+## BLOQUE 3 — DRILL + CLIENT VISIT CHECK CALL (35') — DE PIE 100%
 
 **Objective: place object and pronoun at speed, then hold both phrasal rules in one realistic scene.**
 
 1. **Cadena de conversion (12', circulo, DE PIE):** tu cantas un phrasal + objeto alternando tipo ("look after / the interns" -> NO sep · "turn on / the system" -> sep · "listen to / the client" -> NO sep · "pick up / the reports" -> sep); estudiante 1 lo dice completo, 2 lo pasa a pronombre (NO sep -> al final: "look after them"; sep -> en medio: "turn it on"), 3 lanza el siguiente. Velocidad creciente; ultimo giro: solo trabajo real.
-2. **Front desk / shift scene (18'):** escenario profesional realista: recepcion/soporte o arranque de turno. **1 guest = agente/encargado** que atiende y da instrucciones mezclando ambos tipos (*"Listen to the instructions, then ask for the reference number — I'll look after your case. Turn on the system, pick up the deliveries at the back, and look them up before you print."*); otro estudiante rota como el cliente/quien recibe el turno y pregunta (*"Who do I ask for? Should I turn it on first? Do you pick them up before lunch?"*); el resto = **OBSERVERS ACTIVOS** (2 errores, 1 acierto, 1 pregunta). Tu = COACH afuera, nunca guest. 3 rotaciones.
+2. **Client visit check call (18'):** escenario profesional realista: en 15 minutos llega un cliente a una reunion en la oficina y la gerente de cuenta llama desde el taxi para confirmar que todo esta listo. Board: `CLIENT VISIT CHECK CALL — "DID YOU TURN IT ON?" — 3 ROTATIONS`. Guest y caller se paran **espalda con espalda** (es una llamada: no se ven). **1 guest = el asistente que esta en la sala de reuniones** y confirma cada punto con el pronombre en el lugar correcto (*"Yes, I turned it on. I picked them up at eight. I'm looking after the two guests from the bank, and I looked her up on the company website."*); otro estudiante rota como **la gerente de cuenta que llama** y revisa su lista con preguntas del libro (*"Did you turn on the projector? Did you pick up the reports? Who are you looking after? Did you look up the client's name? Did anyone ask for me?"*); el resto = **OBSERVERS ACTIVOS** con conteo en su papel: `WHOLE OK` · `PRONOUN IN THE MIDDLE OK` · `"turn off it" type (write it literal)` · `1 question I would ask`. Tu = COACH afuera, nunca guest. 3 rotaciones; en cada una cambias 1 dato de la lista (laptop / coffee / visitor badges).
 3. **Cierre TEMPLANZA (5'):** *"Temperance day two — name one thing you look after (whole) and one thing you turn off (control)."* — 2 respuestas maximo.
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
@@ -110,7 +110,7 @@ TAREA QUE DEJE: 6 lineas escritas, due Cl 28 antes de las 7:00 PM.
 El video del dia lo asignas TU (abre con LISTEN FIRST).
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas mixtas + front desk) ☐ PASE entregado a Conv a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas mixtas + check call) ☐ PASE entregado a Conv a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -135,3 +135,5 @@ El video del dia lo asignas TU (abre con LISTEN FIRST).
 - Virtud: TEMPLANZA v2 dia 2 (calendario absoluto).
 - Proxima Grammar = Cl 28 comprime M26 + M27 + M28 (comparacion completa; M25 NO existe). El LIBRO B1 entra en Cl 34.
 - **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 27 -> Conv Cl 27 en papel a las 10:00; Conv Cl 27 -> Grammar Cl 28 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date (su antiguo audio de portafolio sale). Tarea escrita a la mitad (6 frases; 15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, reglas citadas, simulacion, virtud) intacto.
+- **N-3/N-7 alineados a la edicion nueva de Cl 13-22 (15/10/2026):** la cadena de Cl 20 pierde used to (no esta en el libro) y toma las formas reales de Grammar Cl 20 (escena, giro, lucha con didn't, evento anterior).
+- **B3 ES DISTINTO DEL DE CONV CL 27 PORQUE:** a las 10:00 es **THE HELP DESK / HANDOVER** — un agente da instrucciones a quien entra o recibe el turno (imperativos: "turn on the terminal, ask for the reference number"). Ahora es **CLIENT VISIT CHECK CALL** — llamada telefonica espalda con espalda entre la gerente de cuenta y el asistente en la sala, en formato pregunta en pasado + respuesta con pronombre en medio ("Did you turn on the projector? — Yes, I turned it on", el modelo de M24 p.235), con observers contando pronombres bien ubicados. Ni el titulo, ni los roles, ni el guion, ni el tipo de frase se repiten. Virtud y frase de cierre TEMPLANZA intactas; minutos del bloque iguales. `SUPUESTO DE PLANEACION — verificar`: el escenario de la llamada es diseño Heiiu (el libro no trae simulacion).

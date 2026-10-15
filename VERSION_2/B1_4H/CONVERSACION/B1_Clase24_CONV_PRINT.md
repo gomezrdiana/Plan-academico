@@ -13,7 +13,7 @@
 
 ## BLOQUE 1 — APERTURA (20')
 
-**Objective: reactivate the perfect system and used to, then point at processes.**
+**Objective: reactivate the present perfect and the four-layer past story, then point at processes.**
 
 **10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
@@ -21,8 +21,8 @@
    - "Three things you have finished this week — have + participle, fast." (Cl 21)
    - "Negative + still possible: 'I ___ (not / call) the client.'" (Cl 21)
    - "Question: 'you / visit / the new office?' — present perfect." (Cl 21)
-   - "One old habit you don't have now — used to." (Cl 17)
-   - "Fix it: 'I didn't use to worked at night.'" (Cl 17)
+   - "Scene + turn, one line: 'In 2021 I was working in ___ when ___.' — all past." (Cl 17)
+   - "Fix it: 'I was work when he calls.'" (Cl 17)
 2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar; el chequeo nombre por nombre es SOLO tuyo (Gramatica a las 8:00 solo recuerda el video). Di: *"I am not asking who made it. I am asking who SENT it."* Marcas ENVIO o NO ENVIO y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real**. El video que no abre con sus 3 frases de LISTEN FIRST cuenta como incompleto. Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."*
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones.
 4. **Lectura del PASE de Gramatica, en voz alta (3').** Lees los 3 errores escritos del papel que te entrego Gramatica Cl 24 a las 10:00: *"These came out of your writing this morning. Now they have to survive out loud."*
@@ -125,3 +125,4 @@ Tu Cl 25 abre M20 "Playing is Fun!" — gerundio como sujeto
 - Virtud: PRUDENCIA v2 dia 4 (calendario absoluto).
 - Profe sin material preparado: todo en tablero + papel del estudiante.
 - **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (B1 + B2 juntos), el MISMO dia. PASE Grammar Cl 24 -> Conv Cl 24 en papel a las 10:00; Conv Cl 24 -> Grammar Cl 25 al cerrar a las 12:00. UN solo video diario, el de Conversacion: el chequeo nombre por nombre con UNA mejora por video es de esta pista. La tarea de esta pista pasa a ser SOLO el video (antes llevaba ademas un papel y un audio; su contenido quedo dentro del video): la escrita es de Gramatica. LISTEN FIRST abre el video (busqueda de hoy: "how a business process works explained"). Foto de inicio a las 10:00 al grupo de docentes. Contenido (modulo, simulacion, virtud) intacto.
+- **N-3/N-7 alineados a la edicion nueva de Cl 13-22 (15/10/2026):** los dos items de Cl 17 (used to / didn't use to) se cambian por la historia por capas que si se enseño ese dia (escena was -ing + giro con when, A2 M12); Objective sin used to.
