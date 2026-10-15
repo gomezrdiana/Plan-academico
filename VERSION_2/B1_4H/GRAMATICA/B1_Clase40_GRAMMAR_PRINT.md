@@ -1,10 +1,12 @@
-# B1 MASTERY — Cl 40/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 40/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 40/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 40/44 · 110 min · 8:00-10:00 AM (va PRIMERO, antes de Conversacion) · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** B1 Book **M10 "The Causative" (p.117-126) + M11 "Advanced Adjectives — Tell Me About It!" (p.127-144)** — doble ~50/50 (Active Causative p.119; Passive p.123; Noun-Adj p.129; Prefixes/Suffixes p.133; Compound p.137; Impersonal p.141)
 **Focus (1 line):** Delegate with shape (have/get + object + past participle) and describe precisely (noun/adjective, prefixes/suffixes, compound, "It is + adj + to/that").
 **Virtud:** FORTALEZA v2 — dia 5 de 5 (el bloque CIERRA)
 **Frase del Dia:** *"Fortitude closes the block getting things done and naming them right: I HAD it FINISHED, I GOT it DONE — by a strong, well-prepared, fearless team; it is important to say the precise word."*
+
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres), el PASE que te dejo el docente de Conversacion al cierre de la Cl 39 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 > **DE PIE: Bloques 1-3 completos (~95 de 110 min ≈ 86%; piso 70%). Solo Bloque 4 sentado.** Movimiento con contenido siempre.
 
@@ -14,15 +16,17 @@
 
 **Objective: re-fire relative pronouns and perfect tenses, then build the causative and advanced adjectives.**
 
+**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 37 y Cl 33); errores anonimos al board; 1 min re-produccion:
    - "Relative pronoun in the air: 'The report ___ we sent is the one ___ the client approved.'" (Cl 37)
    - "Embedded question — fix the order: 'Do you know what time is it?'" (Cl 37)
    - "Perfect tense (Cl 39): 'By 5pm I ___ (finish) the migration.' Which perfect?" (Cl 39 — puente)
    - "Present perfect vs past (Cl 39): 'I ___ (live) here since 2021' / 'I ___ (move) here in 2021.'" (Cl 39 — puente)
    - "Judge the level: 'It is ___ enough' / 'It is too ___', full sentence." (Cl 33 — ventana de repaso)
-2. **Chequeo publico de portafolio (3'):** conteo del audio de ayer; no-envios a tu cuaderno.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, en su Bloque 1 a las 10:00. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los 2-3 minutos que libera este punto pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones.
-4. **Revision tarea (3'):** 12 sentences (Cl 39: perfect tenses) sobre la mesa; recoge. **PASE de Conv (hoy)** leido: esta mañana delegaron y describieron — hoy se escribe con reglas.
+4. **Revision tarea (3'):** 6 sentences (Cl 39: perfect tenses) sobre la mesa; recoge. **PASE de Conv Cl 39 (cierre de ayer)** leido: sus gaps orales de perfect tenses son tus blancos. Hoy se escribe con reglas; a las 10:00 Conversacion lo lleva a la voz.
 
 > [VIRTUD] Board: "FORTITUDE — DAY 5 — BLOCK CLOSES". *"Precision is courage: get it done, and name it with the exact word — not the easy one."*
 
@@ -71,35 +75,37 @@ IMPERSONAL (p.141): "It is important to help." (never drop "it")
 1. **Ticket de salida (5'):** 3-5 frases: 2 causativas (1 passive con participio, 1 active con/sin "to") + 2 descripciones (1 noun/adjective pair o prefijo, 1 impersonal "It is + adj + to/that"). Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
-HOMEWORK CL 40 GRAMMAR — DUE Cl 41, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE 12 lines about a real project handover:
-    2 passive causative (1 have, 1 get + object + participle),
-    2 active causative (1 make/let no "to", 1 ask/tell with "to"),
-    3 noun/adjective pairs, 3 prefix/suffix words, 2 impersonal
-    "It is ... to/that ...". Underline the participle in each causative.
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: describe your job, one
-    key colleague (8 advanced adjectives), and 3 things you delegate.
-    Label: B1-GRAMMAR-40.
+HOMEWORK GRAMMAR CL 40 — DUE Cl 41, BEFORE 7:00 PM — TODAY before 7:00 PM.
+NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+(1) WRITE 6 lines about a real project handover:
+    1 passive causative (have/get + object + participle),
+    1 active causative (make/let no "to", or ask/tell with "to"),
+    2 noun/adjective pairs, 1 prefix/suffix word, 1 impersonal
+    "It is ... to/that ...". Underline the participle in the causative.
+(2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
+    one CONVERSATION assigns today at 10:00 (it opens with LISTEN FIRST).
 (3) Bring the paper to next class.
 ```
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversacion el total del dia no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Cl 41: indefinite pronouns (everyone/someone/anyone/no one), reflexive (myself/by myself) and reciprocal (each other). We close the B1 book and begin your final presentation."*
-5. **PASE a Conv Cl 41** (fisico, antes de salir):
+4. **Cierre y anuncio:** *"At ten o'clock you have CONVERSATION with the other teacher: delegate and describe, out loud. Your video is assigned there. Next class at eight: indefinite pronouns (everyone/someone/anyone/no one), reflexive (myself/by myself) and reciprocal (each other). We close the B1 book and begin your final presentation."*
+5. **PASE al docente de CONVERSACION (Conv Cl 40, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion:
 ```
-PASE Grammar -> Conv — Cl 40 -> Cl 41
+PASE Grammar Cl 40 -> Conv Cl 40
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones bajo presion: (a) passive causative sin participio ("had the car
 wash"); (b) "made me to stay" ("to" de mas); (c) noun por adjetivo;
 (d) prefijo equivocado / compound en plural / impersonal sin "it".
-Hoy quedaron M10+M11 lockeados en papel. Tu Cl 41 abre M12 (advanced
-pronouns) Y cierra el libro B1 (M1-M12): arranca con "who does what at
-work — everyone, no one — and who does it by themselves / with each
-other". Cl 41 abre SINTESIS: conecta con la presentacion final.
+Hoy quedaron M10+M11 lockeados en papel. Tu Conv Cl 40 de hoy los lleva
+a la voz: no re-expliques la regla. FORTALEZA v2 dia 5: CERRADA hoy en
+mi pista; cierrala igual en la tuya. El chequeo de videos es tuyo.
+TAREA QUE DEJE: 6 lineas, due Cl 41 antes de las 7:00 PM. El video del
+dia lo asignas tu (con LISTEN FIRST). NO pidas otro papel encima.
+Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + zone walk + handover) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Conteo portafolio anotado
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + zone walk + handover) ☐ PASE Conv Cl 39 leido ☐ PASE a Conv Cl 40 entregado en mano a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -127,3 +133,5 @@ other". Cl 41 abre SINTESIS: conecta con la presentacion final.
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Recuperacion: N-3 = Cl 37 = B1 M7 (confirmado por coordinacion); N-7 = Cl 33 (ventana repaso A2). (SUPUESTO DE PLANEACIÓN — verificar ancla N-7.)
 - Virtud: FORTALEZA v2 dia 5 — CIERRA (calendario absoluto). Mañana Cl 41 abre SINTESIS.
+- **Orden real del dia (hoja de arranque 13/10/2026):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia · PASE Grammar Cl N -> Conv Cl N en papel a las 10:00 y Conv Cl N -> Grammar Cl N+1 al cerrar a las 12:00 · UN solo video diario (lo asigna Conversacion, abre con LISTEN FIRST; el chequeo con una mejora por video es de Conversacion a las 10:00) · tarea escrita de Grammar de 15-20 min (la mitad de items) · foto de inicio a la hora exacta al grupo de docentes.
+- `SUPUESTO DE PLANEACION — verificar` (anti-duplicado, fuera del alcance de este ajuste): Conv Cl 40 corre tambien "THE HANDOVER BRIEFING" a las 10:00. Con el orden real, el grupo la hace dos veces el mismo dia; coordinacion decide si se rediseña el Bloque 3 de una de las dos pistas.

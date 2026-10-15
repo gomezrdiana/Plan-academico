@@ -1,70 +1,99 @@
-# B1 MASTERY — Cl 43/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA (PROTOCOLO)
+# B1 MASTERY — Cl 43/44 — GRAMMAR — HOJA DE RUTA (PROTOCOLO)
 
-**Sesion 43/44 · 110 min · Bloques: B1 10' + B2 45' + B3 40' + B4 15' = 110 · 100% ingles**
-**Focus (1 line):** Finish any remaining presentations, then debrief the group's real strengths and the B1 structures that shone, run a reflective ticket, and reframe the recordings as evidence of courage and service.
+**Sesion 43/44 · 110 min · 8:00-10:00 AM (va PRIMERO, ABRE el dia de presentaciones) · Bloques: B1 15' + B2 45' + B3 40' + B4 10' = 110 · 100% ingles**
+**Focus (1 line):** Open the final presentations — rules, random order, and the first two rounds: each student tells their real story (7-10 min) showing the B1 course structures + 2-3 questions. The teacher conducts and times; does NOT evaluate or communicate results.
 **Virtud:** SINTESIS — dia 3 de 4 · **FORTALEZA + JUSTICIA integradas**
-**Frase del Dia:** *"Fortitude carried us to the front, justice keeps the applause honest: I name the true strength I saw in someone else, and I own the story I HAVE told — braver THAN I was, fair to every voice."*
+**Frase del Dia:** *"I stand where it is hard and I listen where it is fair: fortitude to tell the story I HAVE lived, justice to honor every classmate WHO walked this road with me."*
 
-> **PROTOCOLO, no clase de modulo. Segundo bloque del dia de presentaciones.** El profe CONDUCE. NO evalua NI comunica resultados (coordinacion evalua). DE PIE en las presentaciones pendientes y el debrief.
+> **PROTOCOLO, no clase de modulo. Primer bloque del dia de presentaciones.** El profe CONDUCE y CRONOMETRA. NO evalua, NO da notas, NO comunica resultados (coordinacion evalua; el profe lleva notas privadas SOLO para coordinacion). Presentaciones en ORDEN ALEATORIO. **DE PIE:** el ponente siempre; la audiencia de pie en semicirculo durante las rondas (~80%; piso 70%). Solo Bloque 4 sentado.
+
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (notas privadas con nombres), papelitos con los nombres para el sorteo (los escribes tu en el momento), el PASE que te dejo el docente de Conversacion al cierre de la Cl 42 y celular para la foto de inicio. NADA impreso.
 
 ---
 
-## BLOQUE 1 — APERTURA (10') — DE PIE
+## BLOQUE 1 — APERTURA Y REGLAS (15') — DE PIE
 
-**Objective: pick up the day where Conv left it and set the closing tone.**
+**Objective: open with courage, set the order, and make the audience active and fair.**
 
-1. **PASE de Conv (hoy) leido (3'):** quienes faltan por presentar + fortalezas repetidas + estructuras del curso mas oidas. Anuncia el orden de los pendientes (aleatorio).
-2. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo. Señala: *"Fortitude to present, justice to honor each voice. We close together."*
-3. **Chequeo publico de portafolio (3'):** ¿quien grabo su ensayo/reflexion? conteo a tu cuaderno.
+**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
-> [VIRTUD] Board: "SYNTHESIS — DAY 3 · FORTITUDE + JUSTICE". *"Every presenter stood in a hard place; every listener gave a fair hearing. That is the level, lived."*
+1. **PASE de Conv Cl 42 leido (2'):** cuantos ensayaron al frente ayer y las estructuras que mas fallaron. Solo lo lees tu; NO se comenta al grupo.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** *"Yesterday's rehearsal video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues.
+3. **Frase del Dia (3').** Board antes; 2 lecturas + coro. Señala: *"Courage to stand and speak; justice to listen to every voice. Both today."*
+4. **Reglas del protocolo (5') — board:**
+```
+FINAL PRESENTATION — "MY REAL STORY" (7-10 min + 2-3 questions)
+- Random order (I draw names). Be ready to go anytime.
+- Speak from your skeleton — a structured story, not a read speech.
+- SHOW the course structures: reported speech, a perfect tense,
+  a relative/embedded, a tag, a comparative.
+- AUDIENCE = active, fair observers: each writes for every speaker
+  1 real strength + which course structures they heard + 1
+  respectful question.
+- I keep time and conduct. I do not grade or comment on results.
+```
+5. **Sorteo del orden (4'):** saca nombres al azar; anuncia los primeros 2-3. *"Any question about evaluation goes to coordination, not me."*
 
-## BLOQUE 2 — PRESENTACIONES PENDIENTES (45') — DE PIE
+> [VIRTUD] Board: "SYNTHESIS — DAY 3 · FORTITUDE + JUSTICE". *"To present is fortitude — you stand where it's hard. To listen well is justice — every story gets its fair hearing."*
 
-**Objective: complete the presentations that did not fit in the Conv block.**
+## BLOQUE 2 — PRESENTACIONES (RONDA 1) (45') — DE PIE
 
-1. En orden aleatorio, los estudiantes pendientes presentan su historia real (7-10 min) luciendo las estructuras del curso B1 + 2-3 preguntas de la audiencia. Mismo protocolo del bloque Conv.
-2. Tu CRONOMETRAS y CONDUCES; NO interrumpes por errores; NO evaluas en voz alta; NO comunicas resultados.
-3. **Audiencia = OBSERVERS ACTIVOS:** por cada ponente, 1 fortaleza + cuales estructuras del curso oyo + 1 pregunta respetuosa (alimenta el error paper de observers).
-4. **Foto/video** de cada presentacion (celular del estudiante/compañero) — entregable estandar de portafolio.
-5. Si ya todos presentaron en el bloque Conv: este bloque pasa directo al debrief extendido (Bloque 3) y al reframe; no se inventa relleno.
+**Objective: run the first round of presentations with an active, fair audience.**
 
-## BLOQUE 3 — DEBRIEF DE FORTALEZAS + ESTRUCTURAS + REFRAME (40') — DE PIE ~80%
+1. En orden aleatorio, cada estudiante presenta su historia real (7-10 min): quien era al empezar (pasado + reported speech), que ha logrado hoy (perfect + comparacion + tag), a donde va (futuro + relative/embedded) — luciendo las estructuras del curso B1.
+2. Tu CRONOMETRAS (avisa a los 8 min con una señal silenciosa) y CONDUCES. NO interrumpes por errores; NO evaluas en voz alta.
+3. **Audiencia = OBSERVERS ACTIVOS:** cada uno escribe por cada ponente 1 fortaleza + cuales estructuras del curso oyo + 1 pregunta respetuosa (esto alimenta el error paper de observers y el debrief de Conversacion a las 10:00).
+4. Al cerrar cada presentacion: 2-3 preguntas de la audiencia (no tuyas) + respuesta breve del ponente.
+5. **Foto/video:** graba cada presentacion (celular del estudiante o de un compañero) — entregable estandar de portafolio. Sin exponer, es evidencia del logro.
 
-**Objective: name the group's real strengths and the B1 structures that shone, fairly, and reframe the recordings as courage + service.**
+## BLOQUE 3 — PRESENTACIONES (RONDA 2) + Q&A (40') — DE PIE
 
-1. **Debrief de fortalezas (16', de pie, en circulo):** con las fichas de observers (anonimas), el grupo nombra en voz alta las fortalezas reales que aparecieron hoy (no las notas — las FORTALEZAS: "clear story", "brave opening", "confident future"). Cada estudiante dice 1 fortaleza que vio en OTRO (justicia: reconocer al otro). Tu tejes patrones al board (anonimos).
-2. **Estructuras que brillaron (12', de pie):** repaso rapido de las estructuras del curso B1 que mejor salieron hoy — reported speech ("she SAID... he TOLD me"), perfect tenses ("I HAVE... I HAD... I WILL HAVE"), relativos/embedded ("the client WHO..."), tags ("..., didn't you?"), comparativos ("better THAN before") — coro breve de 2-3 lineas modelo reales. Consolidacion, no enseñanza nueva.
-3. **Reframe de las grabaciones (8'):** discurso de reframe del portafolio: *"You recorded yourself today. That recording is not for judging you — it is proof of your courage, and a gift to the next student who is scared to start. Grabarte = fortaleza + servicio al siguiente."* Conecta la grabacion con la FORTALEZA del dia y el servicio. NO eliminar las fotos/videos: son entregable.
-4. **Cierre SINTESIS dia 3 (4'):** canon VATS integrado: *"Which virtue did you work MOST this level? Which one is still missing?"* — 3-4 respuestas.
+**Objective: present as many stories as fit, with the same fair protocol.**
 
-## BLOQUE 4 — CIERRE (15') — SENTADOS
+1. Continua el orden aleatorio. Los que no alcancen pasan al bloque de Conversacion de HOY a las 10:00 (segundo bloque del dia), en el mismo orden del sorteo.
+2. Mismo protocolo: 7-10 min + 2-3 preguntas, audiencia activa, tu cronometras y conduces sin evaluar.
+3. Mantén el ritmo: si un ponente se pasa de 10 min, cierra con la señal y pasa a preguntas.
+4. **Cierre SINTESIS dia 3 (4'):** *"Fortitude + justice: in one line, name the bravest part of standing up this morning."* — 3-4 respuestas.
 
-1. **Ticket de salida reflexivo (7'):** cada estudiante escribe 4-6 frases: la fortaleza que mas mostro hoy + la estructura del curso B1 que mejor domina + a quien del grupo agradece y por que + una cosa que aun quiere mejorar. Nombre en el papel. Se recogen TODOS; sin evaluar.
-2. **Error paper de OBSERVERS:** recoge todas las fichas de audiencia del dia; citas de forma con nombres -> tu cuaderno privado para coordinacion; anonimas -> ya usadas en el debrief.
+## BLOQUE 4 — CIERRE (10') — SENTADOS
+
+1. **Ticket de salida (5'):** cada estudiante (ponentes y audiencia) escribe 3-5 frases: que hizo bien hoy + una estructura del curso B1 que domina + a quien agradece. Nombre en el papel. Se recogen TODOS; sin evaluar.
+2. **Error paper de OBSERVERS:** recoge las fichas de audiencia (fortaleza + estructuras + pregunta de cada observer); las citas de forma con nombres van a tu cuaderno privado para coordinacion; la version anonima viaja en el PASE para el debrief de Conversacion a las 10:00.
 3. **Tarea (board):**
 ```
-HOMEWORK CL 43 GRAMMAR — DUE Cl 44, BEFORE 7:00 PM
-TIME: 30-45 min (B1). Reflective portfolio only.
-PORTFOLIO (audio, 3 min, eyes closed): "The bravest thing I did
-this level, and the person I thank for it." Course structures.
-Label: B1-43-REFLECTION-2. WhatsApp group. (No written homework.)
+HOMEWORK GRAMMAR CL 43 — NO WRITTEN HOMEWORK TODAY.
+DAILY PORTFOLIO VIDEO — ONE video a day: today's is the reflection
+CONVERSATION assigns today at 10:00 (it opens with LISTEN FIRST).
+DUE: Cl 44, BEFORE 7:00 PM — that is, TODAY before 7:00 PM.
 ```
-4. **Proxima clase:** *"Cl 44: our closing session — bring only yourself. Synthesis, day 4."* (NO menciones examen ni contenido.)
-5. **Sin PASE de contenido** (Cl 44 es cierre y no lleva Grammar). Deja a tu cuaderno: fortalezas del grupo + estructuras del curso dominadas, para el reporte de coordinacion.
+4. **Cierre y anuncio:** *"At ten o'clock you continue with CONVERSATION and the other teacher: the remaining presentations and our debrief. Your video is assigned there."* (NO menciones examen ni contenido.)
+5. **PASE al docente de CONVERSACION (Conv Cl 43, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, junto con las fichas de observers anonimas:
+```
+PASE Grammar Cl 43 -> Conv Cl 43 (mismo dia, protocolo)
+Estudiantes que YA presentaron: ____________________________
+Estudiantes que FALTAN, en el orden del sorteo: ______________
+Fortalezas repetidas de la audiencia (para tu debrief): ________
+Estructuras del curso mas escuchadas hoy (para tu debrief): ____
+Tu bloque HOY = presentaciones pendientes + debrief de fortalezas
++ reframe de las grabaciones + ticket reflexivo + el video del dia
+(lo asignas tu, con LISTEN FIRST). El chequeo de videos es tuyo.
+Cl 43 = SINTESIS dia 3 (FORTALEZA + JUSTICIA). NO evaluar ni comunicar.
+Firma Gramatica: ______________  Recibido Conversacion: ______________
+```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Fichas de observers recogidas (error paper) ☐ Tickets reflexivos recogidos (TODOS) ☐ Fotos/videos de presentaciones ☐ Reframe hecho ☐ Todos presentaron (o pendientes anotados) ☐ Conteo portafolio anotado
+**Checklist salida:** ☐ Reporte firmado ☐ Fichas de observers recogidas (error paper) ☐ Tickets recogidos (TODOS) ☐ Fotos/videos de las presentaciones ☐ Orden aleatorio usado ☐ PASE a Conv Cl 43 entregado en mano a las 10:00 (quien falta) ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 ---
 
 ## NOTA INTERNA (no leer en clase)
 
-- Segundo bloque del dia de PRESENTACIONES FINALES (protocolo integrado). Consume el numero Cl 43 (mismo dia que el bloque Conv).
-- **V13 critico:** el profe conduce/cronometra, NO evalua NI comunica resultados. Coordinacion evalua. Notas privadas (nombres) SOLO a coordinacion.
-- Si todos presentaron en el bloque Conv, este bloque es debrief extendido + reframe; NO se rellena artificialmente.
-- Virtud: SINTESIS dia 3 — FORTALEZA + JUSTICIA (calendario absoluto). Canon VATS Q3 ("¿cual virtud trabajaste mas / cual falta?").
-- Estructuras del debrief = las reales del libro B1 (M8-M12 + tags/relativos/comparativos), no las del arco viejo.
-- Fotos/videos = entregable estandar con reframe (memoria fotos-videos-reframe): grabarse = fortaleza + servicio; NO eliminar.
-- Error paper de hoy = fichas de observers (doble protocolo).
-- Cl 44 = solo CONV (cierre del nivel). Final del nivel = evaluador externo, sin guia. En Cl 44 NO se menciona el examen.
-- DE PIE ~80% (presentaciones + debrief de pie). Profe sin material preparado: todo oral + papel + celular.
+- Primer bloque del dia de PRESENTACIONES FINALES (protocolo integrado, sin marcador separado — regla de eventos integrados). Consume el numero Cl 43 (mismo dia que el bloque Conv).
+- **Orden real del dia (hoja de arranque 13/10/2026):** Grammar 8:00-10:00 ABRE (reglas, sorteo, rondas 1-2) y Conv 10:00-12:00 CIERRA (pendientes, debrief, reframe, ticket reflexivo, video). La guia anterior traia el orden inverso; para no romper el protocolo se intercambiaron las mitades del dia entre las dos pistas, y con ellas la Frase del Dia (esta es la de apertura). PASE Grammar Cl 43 -> Conv Cl 43 a las 10:00; no hay PASE de Conv a Grammar (no existe Grammar Cl 44).
+- **V13 critico:** el profe conduce y cronometra, NO evalua NI comunica notas/resultados. Coordinacion evalua. Las notas privadas del profe (con nombres/citas de forma) van SOLO a coordinacion.
+- **Tarea:** dia de protocolo sin tarea escrita: la regla de la mitad no aplica. UN solo video diario (la reflexion de Conv, con LISTEN FIRST); la segunda reflexion que antes asignaba Grammar se elimina por la regla de un video al dia.
+- Virtud: SINTESIS dia 3 — FORTALEZA + JUSTICIA (calendario absoluto). Canon VATS Q3 en el debrief de Conv.
+- Proyecto MY STORY = esta presentacion luciendo estructuras del libro B1 (formato `SUPUESTO DE PLANEACION — verificar por Diana`, ver Cl 42).
+- Recuperacion adaptada: dia de protocolo, la reactivacion es la presentacion misma (todas las familias del curso). No hay N-3/N-7 aislada.
+- Error paper de hoy = fichas de la audiencia (observers), doble protocolo (anonimo al debrief de Conv; nombres a coordinacion).
+- Cl 44 = solo CONV (cierre). El Final del nivel lo aplica evaluador externo — NO se genera guia ese dia. En Cl 44 NO se menciona el examen.
+- Profe sin material preparado: todo oral + papel del estudiante + celular para grabar.

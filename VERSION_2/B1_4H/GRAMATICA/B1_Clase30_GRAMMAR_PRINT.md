@@ -1,6 +1,6 @@
-# B1 MASTERY — Cl 30/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 30/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 30/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 30/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** REPASO COMPRIMIDO — A2 Book **M32 "How Many People Are There?" (Guia 1 p.275) + M33 "How Much Money Do You Have?" (Guia 1 p.285) + M34 "How Much Does It Cost?" (Guia 1 p.293-294)**. **M31 NO existe (salta M30 -> M32); M35 NO existe (salta M34 -> M36).**
 **Focus (1 line):** Count with how many, measure with how much, price with be/cost + each — three functions locked on paper, fast.
 **Virtud:** TEMPLANZA v2 — dia 5 de 5 (CIERRA bloque Cl 26-30)
@@ -9,11 +9,15 @@
 > **DE PIE: Bloques 1-3 completos (~95 de 110 min ≈ 86%; piso 70%). Solo Bloque 4 sentado.** Movimiento con contenido siempre.
 > **REPASO COMPRIMIDO — ya lo vieron en A2. 3 modulos hoy: activar rapido y producir. El libro B1 entra Cl 34.**
 
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 29 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+
 ---
 
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: re-fire phrasal verbs and the closed/open choice, then load quantities and prices.**
+
+**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 27 y Cl 23); errores anonimos al board; 1 min re-produccion:
    - "Separable vs non-separable: 'pick it UP', 'ask FOR it' — one of each." (Cl 27)
@@ -21,9 +25,9 @@
    - "Closed or open period — one dated line, one open line." (Cl 23)
    - "Fix it: 'She has gone to Cali last year.'" (Cl 23)
    - "Chain: phrasal + 'I have already ___ it.'" (Cl 27/23)
-2. **Chequeo publico de portafolio (3'):** conteo del audio de ayer; no-envios a tu cuaderno.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"HOW MANY + countable + are there; HOW MUCH + uncountable + is there; and HOW MUCH for price. Three questions, one fair measure."*
-4. **Revision tarea (3'):** 10 lineas grados + so/too/enough (M29-M30) sobre la mesa; recoge. **PASE de Conv (hoy)** leido: los gaps (a)-(b) son los blancos.
+4. **Revision tarea (3'):** la tarea escrita de Cl 29 (grados + so/too/enough, M29-M30) sobre la mesa; recoge. **PASE de Conv (Cl 29, dejado al cierre de la clase anterior)** leido: los gaps (a)-(b) son los blancos.
 
 > [VIRTUD] Board: "TEMPERANCE — DAY 5, CLOSING". *"Temperance ends by taking neither too much nor too many. 'A few', 'a bit of', 'a lot of' name the right amount. Today closes the block; next class opens Justice."*
 
@@ -69,34 +73,37 @@ M34 PRICE (Guia p.293-294): two ways ->
 2. **Tarea (board):**
 ```
 HOMEWORK CL 30 GRAMMAR — DUE Cl 31, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE 12 lines about your work: 4 "how many" Q+A, 4 "how much"
-    Q+A, 4 prices (2 with "be", 2 with "cost" + "each"). Check
+TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+NOT fragmented.
+(1) WRITE 6 lines about your work: 2 "how many" Q+A, 2 "how much"
+    Q+A, 2 prices (1 with "be", 1 with "cost" + "each"). Check
     countable vs uncountable and the -s on "costs".
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: "My workplace
-    right now" — count 3 things, measure 2, price 2. Label:
-    B1-GRAMMAR-30. WhatsApp group.
-(3) Bring the paper to next class.
-```
-3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Cl 31: describing people and clothes — what he's wearing, what she looks like, the right order of adjectives (a big black car, not a black big car). Justice, day 1."*
-5. **PASE a Conv Cl 31** (fisico, antes de salir):
-```
-PASE Grammar -> Conv — Cl 30 -> Cl 31
-3 gaps frescos de hoy (literal, sin nombre aqui):
-1. ______________________  2. ______________________  3. ______________________
-Patrones bajo presion: (a) "how much + contable"; (b) "how many +
-incontable"; (c) "how much cost it?"; (d) "cost" sin -s.
-Cerrado hoy: M32-M34 cantidades y precios (how many / how much /
-be-cost + each). Tu Cl 31 abre el cluster DESCRIPCION: M36 "What
-Are You Wearing?" (ropa + colores, p.301-305), M37 "What Do You
-Look Like?" (describir personas con be/have, p.307-310) y M38
-"Order of Adjectives" (p.313-315). Abre en produccion oral,
-describiendo companeros y clientes con justicia. Cl 30 CERRO
-TEMPLANZA v2 (dia 5); Cl 31 abre JUSTICIA v2 dia 1.
+(2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
+    one CONVERSATION assigns today at 10:00. Send it TODAY to the
+    cohort WhatsApp group. Audio only by exception (max 2 a week).
+(3) Bring the paper to Grammar Cl 31.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas + stock check) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Conteo portafolio anotado
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+
+3. **Error paper** anonimo cerrado; nombres/citas al reporte.
+4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: today's rules, out loud, in a real work situation. Your video is assigned there."*
+5. **PASE al docente de CONVERSACION (Conv Cl 30, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No se pasa de palabra: el bloque siguiente lo dicta otra persona. Llenalo mientras el grupo escribe el ticket:
+```
+PASE Grammar -> Conv — Cl 30 (HOY, a las 10:00)
+3 gaps escritos de hoy (literal, sin nombre aqui):
+1. ______________________  2. ______________________  3. ______________________
+Patrones bajo presion en papel: (a) "how much + contable"; (b) "how
+many + incontable"; (c) "how much cost it?"; (d) "cost" sin -s.
+SELLADO HOY EN PAPEL: M32-M34 cantidades y precios (how many / how
+much / be-cost + each). Tu bloque lo USA oral: no vuelvas a explicar
+la regla. Los gaps (a)-(b) son tus blancos orales.
+TAREA QUE DEJE: 6 lineas escritas, due Cl 31 antes de las 7:00 PM.
+El video del dia lo asignas TU (abre con LISTEN FIRST).
+Virtud: TEMPLANZA v2 dia 5 — CERRADA en mi pista; cierrala igual.
+```
+
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas + stock check) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -123,3 +130,4 @@ M34 (p.295): "How much are the hamburgers?" - "They're six dollars each."
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: TEMPLANZA v2 dia 5 CIERRA hoy (calendario absoluto); Cl 31 abre JUSTICIA v2. Anunciar la transicion.
 - **Siguiente sesion Grammar:** Cl 31 = cluster DESCRIPCION **M36 (p.301-306) + M37 (p.307-312) + M38 (p.313-317)**. JUSTICIA v2 dia 1.
+- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 30 -> Conv Cl 30 en papel a las 10:00; Conv Cl 30 -> Grammar Cl 31 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date. Tarea escrita a la mitad (15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes.

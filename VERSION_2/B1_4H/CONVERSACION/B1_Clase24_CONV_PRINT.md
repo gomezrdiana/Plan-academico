@@ -1,17 +1,21 @@
-# B1 MASTERY — Cl 24/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 24/44 — CONV — HOJA DE RUTA
 
-**Sesion 24/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Sesion 24/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Focus (1 line):** Explain your real work as a process — when the result matters more than the person.
 **Virtud:** PRUDENCIA v2 — dia 4 de 5
 **Frase del Dia:** *"Prudence looks at consequences: the work is planned with care, the plan is followed, and the result is respected."*
 
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos), el PASE que te entrega el docente de Gramatica a las 10:00 (Grammar Cl 24, de esta misma manana) y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+
 ---
 
-> **HOY SOLO USO ORAL DE: el proceso de trabajo hablado en voz pasiva simple (to be + participio), cuando el resultado importa mas que la persona. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: el causativo activo ('I want you to...') y el causativo con have/get + objeto + participio — eso es de Cl 33 y 40.**
+> **HOY SOLO USO ORAL DE: el proceso de trabajo hablado en voz pasiva simple (to be + participio), cuando el resultado importa mas que la persona. NO EXPLICAR LA REGLA (ya la sello Gramatica hoy a las 8:00: no la repites). NO TOCAR AÚN: el causativo activo ('I want you to...') y el causativo con have/get + objeto + participio — eso es de Cl 33 y 40.**
 
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate the perfect system and used to, then point at processes.**
+
+**10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 21 y Cl 17); errores anonimos al board; 1 min re-produccion:
    - "Three things you have finished this week — have + participle, fast." (Cl 21)
@@ -19,9 +23,9 @@
    - "Question: 'you / visit / the new office?' — present perfect." (Cl 21)
    - "One old habit you don't have now — used to." (Cl 17)
    - "Fix it: 'I didn't use to worked at night.'" (Cl 17)
-2. **Chequeo publico de portafolio (3'):** conteo en voz alta del audio de ayer; no-envios a tu cuaderno.
+2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar; el chequeo nombre por nombre es SOLO tuyo (Gramatica a las 8:00 solo recuerda el video). Di: *"I am not asking who made it. I am asking who SENT it."* Marcas ENVIO o NO ENVIO y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real**. El video que no abre con sus 3 frases de LISTEN FIRST cuenta como incompleto. Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."*
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones.
-4. **Revision tarea (3'):** "My experience file" (10 lineas pareadas) sobre la mesa; recoge. **PASE de Grammar (Cl 23)** leido: hoy giramos a procesos.
+4. **Lectura del PASE de Gramatica, en voz alta (3').** Lees los 3 errores escritos del papel que te entrego Gramatica Cl 24 a las 10:00: *"These came out of your writing this morning. Now they have to survive out loud."*
 
 > [VIRTUD] Board: "PRUDENCE — DAY 4". *"A prudent professional respects the process: plan first, then every step is followed."*
 
@@ -30,7 +34,7 @@
 **Objective: everyone has explained one real process from their job or studies in six steps a stranger could follow.**
 
 1. Meta en 1 linea (arriba). **Avance de proyecto hoy: una linea de proceso para MY STORY — "how I do what I do".**
-2. Board — el molde oral (Grammar lo formaliza hoy mismo con M18; aqui NO se enseña la tabla):
+2. Board — el molde oral (Grammar lo formalizo hoy a las 8:00 con M18; aqui NO se re-enseña la tabla):
 ```
 THE PROCESS TELLS ITSELF
 "First, the order is received. Then it is checked.
@@ -67,41 +71,57 @@ CASUAL (a un colega nuevo, con confianza):
 1. **Ticket de salida (5', sentados):** 3-5 frases: tu proceso en 3 pasos ("...is received / is checked / is sent") + 1 linea formal + 1 linea casual del mismo paso. Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
-HOMEWORK CL 24 CONV — DUE Cl 25, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE your full process — 8 lines, FORMAL register
-    ("...is received / is checked / is prepared..."), connectors
-    in order (first / then / after that / finally).
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: the SAME process,
-    CASUAL register, like explaining it to a new teammate.
-    Label: B1-CONV-24. WhatsApp group.
-(3) Bring the paper to next class.
+HOMEWORK CL 24 CONV — ONE TASK ONLY: THE VIDEO.
+DUE: Cl 25, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
+TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
+LISTEN FIRST (5-10 min, BEFORE you record):
+Search on YouTube or a podcast app: "how a business process works explained".
+Pick a speaker whose accent is NOT your teacher's (Scottish, Irish,
+Indian, Australian, Nigerian, Texan, Jamaican...). Listen 2 minutes.
+Repeat 3 sentences out loud, imitating that accent.
+OPEN YOUR VIDEO with those 3 sentences. Then do your task.
+DAILY PORTFOLIO VIDEO No. 24 — MINIMUM 3 MINUTES, video of yourself
+speaking, straight through, NO reading, NO script on camera.
+Content: "MY WORK, EXPLAINED" — your real work process in 6
+steps, TWICE: first FORMAL, like briefing a client ("...is received /
+is checked / is prepared..."), then CASUAL, like explaining it to a
+new teammate. Connectors in order: first / then / after that / finally.
+Close with the Phrase of the Day.
+Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-24.
+Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
+
+> **LISTEN FIRST es parte fija de la tarea:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de la proxima clase, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
+
+> **La tarea de hoy es SOLO el video** — la tarea escrita de este contenido ya la asigno el docente de Gramatica hoy a las 8:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Cl 25: what matters at work — 'Arriving on time is respect. Asking questions is smart.' Activities take the subject's chair."*
-5. **PASE a Grammar HOY** (fisico, antes del cambio de bloque):
+4. **Anuncio de cierre:** *"Next class starts at eight o'clock with GRAMMAR Cl 25 and the other teacher: 'Playing is fun!' — the verb takes the subject's chair: 'Working under pressure is normal.' Bring your notebook. Send your video TODAY."*
+5. **PASE al docente de GRAMATICA (Grammar Cl 25, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por el grupo de docentes. No se pasa de palabra: la clase siguiente la abre otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv -> Grammar — Cl 24 (mismo dia)
+PASE Conv -> Grammar — Cl 24 -> Cl 25 (se deja HOY a las 12:00)
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones orales de hoy: (a) "is prepare" (falta -ed); (b) "the order
 receives" (activa por pasiva); (c) "is prepared for Juan" (by);
 (d) actor colado cuando no aporta ("somebody is checked the box").
-Hoy explicaron procesos reales en 6 pasos y en 2 registros; la voz
-pasiva ya les salio de la boca. Tu bloque la formaliza con M18
-(p.173-175): estructura, tabla activa->pasiva y el agente que se
-puede eliminar. Los gaps (a)-(c) son tus errores tipicos de arranque.
+Hoy APLICARON oral lo que tu pista sello a las 8:00 (voz pasiva regular, M18).
+Videos que NO llegaron hoy: ____________. Yo deje SOLO el video
+No. 24 (abre con LISTEN FIRST); la tarea escrita es tuya.
+Tu Cl 25 abre M20 "Playing is Fun!" — gerundio como sujeto
+(p.181). M19 NO existe.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + procesos al frente) ☐ PASE entregado ☐ Conteo portafolio anotado
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + procesos al frente) ☐ PASE de Gramatica leido (recibido a las 10:00) ☐ PASE a Grammar dejado al cerrar a las 12:00 ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Foto de inicio enviada a las 10:00
 
 ---
 
 ## NOTA INTERNA (no leer en clase)
 
-- Modulo ancla de hoy: A2 Book **M18 "You Are Loved!" — The Passive Voice for Regular Participles (p.173; Guia 1 p.174; Examples p.175)**. Conv lo APLICA oralmente (procesos + registros); Grammar lo formaliza hoy mismo. NO enseñar la tabla en Conv.
+- Modulo ancla de hoy: A2 Book **M18 "You Are Loved!" — The Passive Voice for Regular Participles (p.173; Guia 1 p.174; Examples p.175)**. Conv lo APLICA oralmente (procesos + registros); Grammar ya lo formalizo hoy a las 8:00. NO enseñar la tabla en Conv.
 - El bloque 3 es doble produccion de registros (formal <-> casual) — ambos orales, con contraste explicito y mini-situaciones; no teoria.
 - Distribucion clase<->modulo (M18 hoy; M20 Cl 25 — M19 NO existe): SUPUESTO DE PLANEACIÓN — verificar.
 - MY STORY vivo rumbo al Final Cl 44 (evaluador externo; ese dia no se genera guia). Avance de hoy: linea de proceso "how I do what I do".
 - Virtud: PRUDENCIA v2 dia 4 (calendario absoluto).
 - Profe sin material preparado: todo en tablero + papel del estudiante.
+- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (B1 + B2 juntos), el MISMO dia. PASE Grammar Cl 24 -> Conv Cl 24 en papel a las 10:00; Conv Cl 24 -> Grammar Cl 25 al cerrar a las 12:00. UN solo video diario, el de Conversacion: el chequeo nombre por nombre con UNA mejora por video es de esta pista. La tarea de esta pista pasa a ser SOLO el video (antes llevaba ademas un papel y un audio; su contenido quedo dentro del video): la escrita es de Gramatica. LISTEN FIRST abre el video (busqueda de hoy: "how a business process works explained"). Foto de inicio a las 10:00 al grupo de docentes. Contenido (modulo, simulacion, virtud) intacto.

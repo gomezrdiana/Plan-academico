@@ -1,6 +1,6 @@
-# B1 MASTERY — Cl 33/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 33/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 33/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 33/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** REPASO COMPRIMIDO — CIERRE DEL LIBRO A2 — A2 Book **M42 "Getting Crazy!" — Changes of State with get (Guia 1 p.334-335) + M43 "How Do You Do?" — Adverbs of Manner (Guia 1 p.341-342) + M44 "I Want You to Go" — Active Causative (Guia 1 p.347-348, ULTIMO modulo)**.
 **Focus (1 line):** get + adjective = change, adjective + -ly = how, want/need + person + to + verb = volition — locked on paper. **A2 book closes today.**
 **Virtud:** JUSTICIA v2 — dia 3 de 5
@@ -9,11 +9,15 @@
 > **DE PIE: Bloques 1-3 completos (~95 de 110 min ≈ 86%; piso 70%). Solo Bloque 4 sentado.** Movimiento con contenido siempre.
 > **REPASO COMPRIMIDO — ULTIMO dia del libro A2. 3 modulos hoy; M44 CIERRA el libro. Cl 34 abren SU libro, el libro B1.**
 
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 32 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+
 ---
 
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: re-fire quantities/prices and gerunds-after-prepositions, then load get, adverbs and volition.**
+
+**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 30 y Cl 26); errores anonimos al board; 1 min re-produccion:
    - "how many / how much + a price — one true work line." (Cl 30)
@@ -21,9 +25,9 @@
    - "Gerund after preposition: 'without ___ing', 'before ___ing'." (Cl 26)
    - "Fix it: 'She left without to say goodbye.'" (Cl 26)
    - "Chain: 'It costs ___ each' + 'after ___ing, I ___.'" (Cl 30/26)
-2. **Chequeo publico de portafolio (3'):** conteo del audio de ayer; no-envios a tu cuaderno.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"GET + adjective is a change: I got tired. Adjective + -LY is how: carefully, quickly (irregular: fast, well). 'I want YOU to go' asks another person. Three closes, one book finished."*
-4. **Revision tarea (3'):** 12 lineas de posesion/participios (M39-M41) sobre la mesa; recoge. **PASE de Conv (hoy)** leido: los gaps (a)-(b) son los blancos.
+4. **Revision tarea (3'):** las 6 lineas de posesion/participios (M39-M41) sobre la mesa; recoge. **PASE de Conv (Cl 32, dejado al cierre de la clase anterior)** leido: los gaps (a)-(b) son los blancos.
 
 > [VIRTUD] Board: "JUSTICE — DAY 3". *"Justice finishes the work well and asks others fairly. To do it carefully and to close it fully is just — and today the A2 book is closed."*
 
@@ -69,34 +73,39 @@ M44 CAUSATIVE (Guia p.347-348) - ULTIMO MODULO:
 2. **Tarea (board):**
 ```
 HOMEWORK CL 33 GRAMMAR — DUE Cl 34, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE 10 sentences about your real week: 4 with GET (changes
-    of state), 3 with an adverb of manner (how you did something),
-    3 with "I want/need ___ to ___" (active causative). Check
+TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+NOT fragmented.
+(1) WRITE 5 sentences about your real week: 2 with GET (changes
+    of state), 2 with an adverb of manner (how you did something),
+    1 with "I want/need ___ to ___" (active causative). Check
     "well" not "good", and "you to" not "that you".
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: how your week
-    changed (get), how you worked (adverb), and what you want a
-    teammate to do. Label: B1-GRAMMAR-33. WhatsApp group.
-(3) Bring the paper to next class.
-```
-3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Cl 34: we open the B1 book — Module 1. The A2 book is complete; your book begins. Justice, day 4."*
-5. **PASE a Conv Cl 34** (fisico, antes de salir):
-```
-PASE Grammar -> Conv — Cl 33 -> Cl 34
-3 gaps frescos de hoy (literal, sin nombre aqui):
-1. ______________________  2. ______________________  3. ______________________
-Patrones bajo presion: (a) "I want that you..." (por "want you
-to..."); (b) "worked careful" (adverbio); (c) "plays good" (por
-well); (d) "got tiring" (por tired).
-CERRADO HOY: el LIBRO A2 completo (M42 get + M43 adverbios + M44
-causativo, ultimo modulo). Tu Cl 34 ABRE EL LIBRO B1 — Module 1
-(el libro propio del estudiante). Abre en produccion oral,
-recogiendo los gaps del cierre A2 (get/adverbio/causativo) como
-puente al B1. Cl 33 = JUSTICIA v2 dia 3; Cl 34 = dia 4.
+(2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
+    one CONVERSATION assigns today at 10:00. Send it TODAY to the
+    cohort WhatsApp group. Audio only by exception (max 2 a week).
+(3) Bring the paper to Grammar Cl 34.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas + debrief & delegation) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Conteo portafolio anotado
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+
+3. **Error paper** anonimo cerrado; nombres/citas al reporte.
+4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: today's rules, out loud, in a real work situation. Your video is assigned there."*
+5. **PASE al docente de CONVERSACION (Conv Cl 33, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No se pasa de palabra: el bloque siguiente lo dicta otra persona. Llenalo mientras el grupo escribe el ticket:
+```
+PASE Grammar -> Conv — Cl 33 (HOY, a las 10:00)
+3 gaps escritos de hoy (literal, sin nombre aqui):
+1. ______________________  2. ______________________  3. ______________________
+Patrones bajo presion en papel: (a) "I want that you..." (por "want
+you to..."); (b) "worked careful" (adverbio); (c) "plays good" (por
+well); (d) "got tiring" (por tired).
+SELLADO HOY EN PAPEL: el LIBRO A2 completo (M42 get + M43 adverbios
++ M44 causativo, ultimo modulo). Tu bloque lo USA oral: no vuelvas
+a explicar la regla. Los gaps (a)-(b) son tus blancos orales.
+TAREA QUE DEJE: 5 frases escritas, due Cl 34 antes de las 7:00 PM.
+El video del dia lo asignas TU (abre con LISTEN FIRST).
+Virtud: JUSTICIA v2 dia 3.
+```
+
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas + debrief & delegation) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -123,4 +132,5 @@ M44 CAUSATIVE (p.348): "I want you to get a job." "You need me to buy a car."
 - Recuperacion N-3 = Cl 30 (M32-M34 cantidades/precios); N-7 = Cl 26 (M21+M22 gerundios tras preposicion + doble verbo, mapa comprimido). Cl 26 lo genera agente en paralelo (SUPUESTO — verificar).
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: JUSTICIA v2 dia 3 (calendario absoluto).
-- **FRONTERA DE SALIDA:** Cl 34 abre el **libro B1, Module 1** (libro propio del estudiante). Los agentes del libro B1 asumen: tarea Cl 33 = 10 frases (4 GET + 3 adverbio + 3 causativo) sobre la semana real + portafolio DUE Cl 34 7:00 PM; PASE Grammar Cl 33 -> Conv Cl 34 con los gaps del cierre A2.
+- **FRONTERA DE SALIDA:** Cl 34 abre el **libro B1, Module 1** (libro propio del estudiante). Los agentes del libro B1 asumen: tarea escrita Cl 33 = 5 frases (2 GET + 2 adverbio + 1 causativo) sobre la semana real, DUE Cl 34 7:00 PM (el video del dia es de Conversacion); con el orden real, el PASE que llega a Grammar Cl 34 es el de Conv Cl 33 (12:00), con los gaps orales del cierre A2.
+- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 33 -> Conv Cl 33 en papel a las 10:00; Conv Cl 33 -> Grammar Cl 34 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date. Tarea escrita a la mitad (15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes.

@@ -1,27 +1,31 @@
-# B1 MASTERY — Cl 34/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 34/44 — CONV — HOJA DE RUTA
 
-**Sesion 34/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Sesion 34/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Focus (1 line):** Open the B1 book. Confirm fairly (question tags) and decide justly between two options (either / neither / both).
 **Virtud:** JUSTICIA v2 — dia 4 de 5
 **Frase del Dia:** *"Justice confirms before it concludes: this is the fair option, isn't it? — either we choose the honest way or the easy one, and I choose the one that's right for everyone."*
 
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos), tu libro B1, el PASE que te entrega el docente de Gramatica a las 10:00 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+
 ---
 
-> **HOY SOLO USO ORAL DE: confirmar hablando con question tags y decidir entre dos opciones (either / neither / both). NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: la deduccion (must / might / could / can't) y el tercer condicional ('what would you have done?') — eso es de Cl 35.**
+> **HOY SOLO USO ORAL DE: confirmar hablando con question tags y decidir entre dos opciones (either / neither / both). NO EXPLICAR LA REGLA (ya la sello Gramatica hoy a las 8:00: no la repites). NO TOCAR AÚN: la deduccion (must / might / could / can't) y el tercer condicional ('what would you have done?') — eso es de Cl 35.**
 
 ## BLOQUE 1 — APERTURA (20')
 
-**Objective: reactivate recent structures, open SU B1 book, aim question tags + two-option decisions.**
+**Objective: reactivate recent structures, put SU B1 book (opened at 8:00) to work, aim question tags + two-option decisions.**
 
-1. **HITO — estrenan SU libro (2-3', DE PIE).** *"Today you open YOUR B1 book for the first time. Everything from here is B1 — you earned it."* Todos abren su propio libro B1 en **p.3** (Module 1). Sin materiales del profe: el libro es del estudiante. Foto del momento (libro abierto p.3). Board: "B1 BOOK — DAY 1 — M1 QUESTION TAGS".
-2. **Recuperacion (8', oral, DE PIE, cadena, sin cuaderno).** Disparadores; errores anonimos al board; 1 min re-produccion:
+**10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
+1. **Eco del hito (1', DE PIE).** *"You opened YOUR B1 book at eight o'clock. Now it talks."* Libro en **p.3**. (El estreno con foto ya lo hizo Gramatica.)
+2. **Recuperacion (9', oral, DE PIE, cadena, sin cuaderno).** Disparadores; errores anonimos al board; 1 min re-produccion:
    - "Describe a coworker in 2 sentences (adjectives)." (Cl 31 — describing)
    - "Fix it: 'He is a person very serious.'" (Cl 31)
    - "Non-separable phrasal: 'I look after ___', 'I ask for ___.'" (Cl 27 — phrasal verbs)
    - "Separable phrasal with a pronoun: 'pick ___ up', 'turn ___ off.'" (Cl 27)
-3. **Chequeo publico de portafolio (3'):** conteo en voz alta del audio de ayer; no-envios a tu cuaderno.
+3. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar; el chequeo nombre por nombre es SOLO tuyo (Gramatica a las 8:00 solo recuerda el video). Marcas ENVIO o NO ENVIO y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real**. El video que no abre con sus 3 frases de LISTEN FIRST cuenta como incompleto. Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."*
 4. **Frase del Dia (3').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"'isn't it?' confirms fairly; 'either/neither/both' weighs two options — that fair weighing is Justice, day 4."*
-5. **Revision tarea (2'):** tarea de Cl 33 (10 frases: 4 GET + 3 manner adverb + 3 causative) sobre la mesa; recoge. **PASE de Grammar (Cl 33)** leido: hoy abre M1.
+5. **Lectura del PASE de Gramatica, en voz alta (3').** Lees los 3 errores escritos del papel que te entrego Gramatica a las 10:00: *"These came out of your writing this morning. Now they have to survive out loud."* Los gaps (a)-(b) del PASE son tus blancos de hoy.
 
 > [VIRTUD] Board: "JUSTICE — DAY 4". *"To confirm honestly ('isn't it?') and to choose fairly between two options — that is a just mind. One more day of Justice after today."*
 
@@ -31,7 +35,7 @@
 
 1. Meta en 1 linea: *"By the end of this block, everyone has kept a work conversation going with 5+ correct question tags."*
 2. **Avance MY STORY (2'):** una linea — *"I've come far, haven't I?"* (the fair, honest confirmation of my growth).
-3. Board — el molde oral (Grammar formaliza M1 hoy mismo; aqui NO se enseña la regla; verbatim en anexo):
+3. Board — el molde oral (Gramatica sello M1 hoy a las 8:00; aqui NO se re-explica la regla; verbatim en anexo):
 ```
 CONFIRMING WITH A TAG (B1 Book M1, p.3)
 "You work here, don't you?"      "She isn't ready, is she?"
@@ -58,32 +62,49 @@ CONFIRMING WITH A TAG (B1 Book M1, p.3)
 1. **Ticket de salida (5', sentados):** 3-5 frases sobre SU trabajo: minimo 2 con question tag + 1 con either/neither/both. Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
-HOMEWORK CL 34 CONV — DUE Cl 35, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE a 10-line work dialogue: 6 lines end with a
-    question tag (3 affirmative->negative, 3 negative->
-    affirmative), and 2 lines use either/neither/both to
-    decide between two real options.
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: confirm 5
-    facts about your job with tags + make one fair two-option
-    decision. Label: B1-CONV-34. WhatsApp group.
-(3) Bring the paper and YOUR B1 book to next class.
+HOMEWORK CL 34 CONV — ONE TASK ONLY: THE VIDEO.
+DUE: Cl 35, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
+TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
+LISTEN FIRST (5-10 min, BEFORE you record):
+Search on YouTube or a podcast app: "question tags in everyday conversation".
+Pick a speaker whose accent is NOT your teacher's (Scottish, Irish,
+Indian, Australian, Nigerian, Texan, Jamaican...). Listen 2 minutes.
+Repeat 3 sentences out loud, imitating that accent.
+OPEN YOUR VIDEO with those 3 sentences. Then do your task.
+DAILY PORTFOLIO VIDEO No. 34 — MINIMUM 3 MINUTES, video of yourself
+speaking, straight through, NO reading, NO script on camera.
+Content: "CONFIRM AND DECIDE" — confirm 5 real facts about your
+job with question tags ("The meeting is at nine, isn't it?"), then
+make one fair two-option decision with either / neither / both.
+Close with the Phrase of the Day.
+Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-34.
+Audio only by exception (max 2 a week): the rule is VIDEO.
+Bring YOUR B1 book to every class.
 ```
+
+> **LISTEN FIRST es parte fija de la tarea:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de la proxima clase, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
+
+> **La tarea de hoy es SOLO el video** — la tarea escrita de estos modulos ya la asigno el docente de Gramatica hoy a las 8:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Cl 35: B1 book M3 Deduction + M4 Third Conditional. Justice closes tomorrow, day 5. Evaluation questions go to coordination."*
-5. **PASE a Grammar HOY** (fisico, antes del cambio de bloque):
+4. **Proxima clase:** *"Next class starts at eight o'clock with GRAMMAR and the other teacher. Send your video TODAY. Cl 35: B1 book M3 Deduction + M4 Third Conditional. Justice closes tomorrow, day 5. Evaluation questions go to coordination."*
+5. **PASE al docente de GRAMATICA (Grammar Cl 35, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por el grupo de docentes. No se pasa de palabra: la clase siguiente la abre otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv -> Grammar — Cl 34 (mismo dia)
+PASE Conv -> Grammar — Cl 34 -> Cl 35 (se deja HOY a las 12:00)
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones orales de hoy: (a) tag con auxiliar equivocado
 ("You work here, isn't it?"); (b) doble negativo con neither
 ("neither is not fair"); (c) "either ... nor" / "both" por
-"also". Hoy abrieron el B1 book (M1) y decidieron entre dos
-opciones. Tu bloque formaliza M1 (p.3-5) y M2 (p.7-19).
+"also".
+Videos que NO llegaron hoy: ____________. Yo deje SOLO el video
+No. 34 (abre con LISTEN FIRST); la tarea escrita es tuya.
+Tu Cl 35 abre M3 Deduction (p.23-25) + M4 Third Conditional
+COMPLETO (recto p.29-31, mixto p.33-35, comparada p.37-39). Cl 35 =
+JUSTICIA v2 dia 5 (cierra el bloque).
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (libro abierto p.3 + decision meeting) ☐ PASE entregado ☐ Conteo portafolio anotado
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (decision meeting) ☐ PASE entregado ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Foto de inicio enviada a las 10:00
 
 [PAGEBREAK]
 
@@ -104,8 +125,9 @@ Cita p.17: *"'Both…and' is the equivalent to 'ambos…y'... we do not use 'bot
 - Si nadie trajo el libro: se trabaja 100% con los moldes del board (verbatim de arriba); la tarea recuerda traerlo Cl 35.
 
 ## NOTA INTERNA (no leer en clase)
-- Hoy ABRE el B1 book: M1 Question Tags (p.3-5) + M2 Either/Neither/Both (p.7-19). Conv aplica oral; Grammar formaliza hoy mismo. Cita verbatim en anexo.
+- Hoy ABRE el B1 book (el estreno con foto lo hace Gramatica a las 8:00; aqui solo el eco): M1 Question Tags (p.3-5) + M2 Either/Neither/Both (p.7-19). Gramatica lo sella en papel a las 8:00; Conv aplica oral a las 10:00. Cita verbatim en anexo.
 - Recuperacion N-3 = Cl 31 (describing / adjetivos, tramo final A2); N-7 = Cl 27 (phrasal verbs). **(SUPUESTO DE PLANEACIÓN — verificar: el cierre del arco A2 Cl 27-33 esta siendo re-mapeado en paralelo; las estructuras recuperadas son reales del tramo final A2, el numero de clase exacto puede ajustarse.)**
 - Virtud: JUSTICIA v2 dia 4 (calendario absoluto). Cl 35 = dia 5 (cierra bloque).
 - MY STORY vivo rumbo al Final Cl 44 (evaluador externo; ese dia NO se genera guia).
 - Profe sin material preparado: todo en tablero + libro del estudiante + papel del estudiante.
+- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (B1 + B2 juntos), el MISMO dia. PASE Grammar Cl 34 -> Conv Cl 34 en papel a las 10:00; Conv Cl 34 -> Grammar Cl 35 al cerrar a las 12:00. UN solo video diario, el de Conversacion: el chequeo nombre por nombre con UNA mejora por video es de esta pista. La tarea de esta pista pasa a ser SOLO el video (antes llevaba ademas un papel y un audio): la escrita es de Gramatica. LISTEN FIRST abre el video (busqueda de hoy: "question tags in everyday conversation"). Foto de inicio a las 10:00 al grupo de docentes.

@@ -1,12 +1,14 @@
-# B1 MASTERY — Cl 25/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 25/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 25/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 25/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** A2 Book **M20 "Playing is Fun!" — Gerunds as Subjects** (modulo p.181; Guia 1 p.183; Ejemplos p.184). **M19 NO existe en el libro — se salta.**
 **Focus (1 line):** Put the verb in the subject's chair — gerund + is + opinion, locked on paper.
 **Virtud:** PRUDENCIA v2 — dia 5 de 5 (CIERRA bloque Cl 21-25)
 **Frase del Dia:** *"Thinking before acting is prudence: planning is a choice, practicing is a habit, and learning is the consequence that pays my future."*
 
 > **DE PIE: Bloques 1-3 completos (~95 de 110 min ≈ 86%; piso 70%). Solo Bloque 4 sentado.** Movimiento con contenido siempre.
+
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 24 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 ---
 
@@ -16,15 +18,17 @@
 
 **Objective: re-fire irregular perfects and the narrative chain, then load the gerund seat.**
 
+**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 22 y Cl 18); errores anonimos al board; 1 min re-produccion:
    - "Present -> past -> participle, fast: go, take, be, find." (Cl 22)
    - "Fix it: 'He has took the bus and has ate lunch.'" (Cl 22)
    - "One true 'I have never + participle' line." (Cl 22)
    - "The five-form chain in 3 lines: used to + was -ing + when + simple (+ connector)." (Cl 18)
    - "Fix it: 'First I was arrive, then the meeting had start.'" (Cl 18)
-2. **Chequeo publico de portafolio (3'):** conteo del audio de ayer; no-envios a tu cuaderno.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"THINKING is... PLANNING is... LEARNING is... — the phrase is built with today's structure."*
-4. **Revision tarea (3'):** 12 lineas activa->pasiva sobre la mesa; recoge. **PASE de Conv (hoy)** leido: los gaps (a)-(c) son los blancos.
+4. **Revision tarea (3'):** 6 lineas activa->pasiva sobre la mesa; recoge. **PASE de Conv Cl 24 (dejado al cierre de las 12:00)** leido en voz alta: sus 3 errores literales entran a la recuperacion.
 
 > [VIRTUD] Board: "PRUDENCE — DAY 5, CLOSING". *"Courageous weeks end clean: today you close Prudence with the wisest structure of all — thinking before acting."*
 
@@ -72,35 +76,38 @@ CONTRASTE: "I am working." (continuo) vs "Working is hard." (sujeto)
 2. **Tarea (board):**
 ```
 HOMEWORK CL 25 GRAMMAR — DUE Cl 26, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE 12 sentences with a gerund as subject: 6 about work,
-    6 about learning English. Underline the gerund, circle the verb
+TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+NOT fragmented.
+(1) WRITE 6 sentences with a gerund as subject: 3 about work,
+    3 about learning English. Underline the gerund, circle the verb
     that follows it.
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: "What has worked
-    for me this course" — every line starts with a gerund subject.
-    Label: B1-GRAMMAR-25. WhatsApp group.
-(3) Bring the paper to next class.
+(2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
+    one CONVERSATION assigns today at 10:00. Send it TODAY to the
+    cohort WhatsApp group. Audio only by exception (max 2 a week).
+(3) Bring the paper to Grammar Cl 26.
 ```
+
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Cl 26: gerunds after prepositions — 'We shouldn't swim after eating.' New virtue: Temperance, day 1."*
-5. **PASE a Conv Cl 26** (fisico, antes de salir):
+4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: what matters at work, said and defended — 'Arriving on time is respect.' Prudence closes there too. Your video is assigned there."*
+5. **PASE al docente de CONVERSACION (Conv Cl 25, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No se pasa de palabra: el bloque siguiente lo dicta otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
-PASE Grammar -> Conv — Cl 25 -> Cl 26
+PASE Grammar -> Conv — Cl 25 (HOY, a las 10:00)
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones bajo presion: (a) verbo pelado de sujeto ("Arrive on time
 is..."); (b) "is" omitido tras el gerundio; (c) gerundio/continuo
 mezclados; (d) -ing olvidado al segundo elemento ("Working and
 learn is...").
-Semana cerrada: pitch (M15) -> midterm -> irregulares (M16) ->
-cerrado/abierto (M17) -> pasiva (M18) -> gerundio sujeto (M20).
-Tu Cl 26 abre M21 "We Shouldn't Swim After Eating" — Gerunds after
-Prepositions: el gerundio ahora despues de preposicion ("after
-eating", "before leaving"). Abre con rutinas reales de trabajo
-("After finishing X, I always..."). Cl 26 abre TEMPLANZA v2.
+SELLADO HOY EN PAPEL: el gerundio como sujeto (M20, p.181-184) y su contraste
+con el continuo.
+Tu Conv Cl 25 lo USA oral: no vuelvas a explicar la regla.
+TAREA QUE DEJE: 6 lineas escritas, due Cl 26 antes de las 7:00 PM.
+El video del dia lo asignas TU (abre con LISTEN FIRST).
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 principios + advice round) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Conteo portafolio anotado
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 principios + advice round) ☐ PASE entregado a Conv a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 ---
 
@@ -111,3 +118,4 @@ eating", "before leaving"). Abre con rutinas reales de trabajo
 - Bloque 2 corre como ciclo tarea-producto (meta anunciada en 1 linea -> preparacion -> ejecucion -> producto verificable en el board -> feedback logro-primero), ejecutado DE PIE junto al board.
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: PRUDENCIA v2 dia 5 CIERRA hoy; Cl 26-30 = TEMPLANZA v2 (calendario absoluto). Anunciar la transicion.
+- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 25 -> Conv Cl 25 en papel a las 10:00; Conv Cl 25 -> Grammar Cl 26 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date (su antiguo audio de portafolio sale). Tarea escrita a la mitad (6 frases; 15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, reglas citadas, simulacion, virtud) intacto.

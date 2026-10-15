@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 2/44 — CONV — HOJA DE RUTA
 
-**Conv 2/44 · 110 min · 8:00-10:00 · Bloques: B1 25' + B2 35' + B3 25' + B4 25' = 110**
+**Conv 2/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 25' + B2 35' + B3 25' + B4 25' = 110**
 **Modulo ancla:** A2 Book **M17 "You Didn't, or You Haven't? — The Present Perfect vs The Simple Past" (p.163-165)** — capa 2, hoy solo USO ORAL
 **Focus (1 linea):** Hablar el negativo y la pregunta: *"I didn't"* = cerrado y muerto · *"I haven't... yet"* = abierto y todavia posible.
 **Virtud:** PRUDENCIA — Cl 2 de 5 de esta virtud (Cl 1-5 de cada pista)
@@ -8,23 +8,25 @@
 
 > **ENGLISH ONLY de principio a fin. Ya no hay excepcion de idioma** — la de la Cl 1 era solo para el cronograma y el ritual de apertura. Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos) y el PASE que te dejo Gramatica al cerrar la Cl 1. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos) el PASE que te entrega el docente de Gramatica a las 10:00 (Grammar Cl 2, de esta misma manana) y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
-> **HOY SOLO (M17 capa 2, HABLADO): el negativo didn't vs haven't... yet y la pregunta "Have you...?" con short answer corto, dichos en voz alta bajo presion. La regla NO se explica ni se escribe en el tablero como tabla: ya se sello en papel en Gramatica Cl 1. Hoy se USA. NO TOCAR AUN: la tabla de participios escrita y los 8 items que quedaron del libro (eso es GRAMATICA Cl 2, hoy a las 10) · should / shouldn't y los numeros, horas y precios (Cl 3) · will (Cl 4) · should have / would have (muy adelante en el nivel).**
+> **HOY SOLO (M17 capa 2, HABLADO): el negativo didn't vs haven't... yet y la pregunta "Have you...?" con short answer corto, dichos en voz alta bajo presion. La regla NO se explica ni se escribe en el tablero como tabla: ya se sello en papel en Gramatica Cl 1. Hoy se USA. NO REPETIR: la tabla de participios escrita y los 8 items que quedaban del libro (ya los cerro GRAMATICA Cl 2 hoy a las 8:00) · NO TOCAR AUN: should / shouldn't y los numeros, horas y precios (Cl 3) · will (Cl 4) · should have / would have (muy adelante en el nivel).**
 
 ## BLOQUE 1 — APERTURA Y RECUPERACION (25')
 
 **Objective: bring back the hinge, and open the day with "not yet" in everyone's mouth.**
 
-1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Abre la columna **"llegada tarde"** en tu cuaderno y anotala HOY: llegada despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia. **NO vuelvas a explicar la regla ni las condiciones de la garantia:** eso se dijo una sola vez en la Cl 1. Hoy solo se registra.
-2. **Chequeo de portafolio, publico, con lista en mano (5') — es el PRIMERO del nivel.** Los videos los VES ANTES de clase. Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas **ENVIO / NO ENVIO**, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"'I have finish' — the participle: finishED"*). Eso entra a tu reporte de hoy: video recibido mas la mejora dicha. Al que no envio, una sola frase y sigues: *"You send it TODAY, together with today's video. Two videos, same day. The list goes to coordination today."* Feedback si; de notas, resultados o garantia no hablas tu: *"That is coordination."*
+**10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
+1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Abre la columna **"llegada tarde"** en tu cuaderno y anotala HOY: llegada despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia. **NO vuelvas a explicar la regla ni las condiciones de la garantia:** eso se dijo una sola vez en la Cl 1. Hoy solo se registra.
+2. **Chequeo de portafolio, publico, con lista en mano (5') — es el PRIMERO del nivel.** Los videos los VES ANTES de clase; el chequeo nombre por nombre es SOLO tuyo (Gramatica a las 8:00 solo recordo el video). El video que no abre con sus 3 frases del LISTEN FIRST cuenta como incompleto. Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas **ENVIO / NO ENVIO**, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"'I have finish' — the participle: finishED"*). Eso entra a tu reporte de hoy: video recibido mas la mejora dicha. Al que no envio, una sola frase y sigues: *"You send it TODAY, together with today's video. Two videos, same day. The list goes to coordination today."* Feedback si; de notas, resultados o garantia no hablas tu: *"That is coordination."*
 3. **VATS (6', de pie, en circulo).** El **porque** primero, para ti: la prudencia es lo que hace que un estudiante mida antes de hablar en una entrevista y no se cierre puertas solo. La **traduccion al aula de hoy**: decir *"I haven't... yet"* en vez de *"I didn't"* es dejar la puerta abierta a proposito — eso es una decision prudente, no una excusa.
    - **V, Virtud (1'):** tablero `PRUDENCE — CL 2 OF 5`. Di: *"This block is prudence. Today prudence is one word: YET. It is the difference between a door you closed and a door you left open."*
    - **A, Activar (2'):** una sola pregunta, en ingles, que junta virtud y gramatica del dia: *"What is something you HAVEN'T done yet, that a prudent person would not call impossible?"* 30 segundos de silencio para pensar.
    - **T, Talk (2'):** en parejas, 1 minuto cada uno, obligatorio con la estructura: *"I haven't ___ yet, but..."*
    - **S, Share (1'):** 2-3 estudiantes lo dicen al grupo. Tu no corriges gramatica aqui: escuchas y anotas.
    - **Si alguien pregunta para que sirve esto:** *"Because on the day you need your English — in an interview, at an airport, in front of a client — the word that fails you is not vocabulary. It is nerve, or patience, or preparation. That is what we train here, with a name."*
-4. **Recuperacion activa (9', oral, DE PIE, en cadena, sin cuaderno).** Arranca leyendo en voz alta **los 3 errores literales del PASE** que te dejo Gramatica ayer: *"These came out of your hands yesterday, on paper. Today they come out of your mouth, correct."* **N-3 y N-7 de tu pista no existen todavia** (esta pista solo tiene la Cl 1): recuperas la Cl 1 de Conversacion mas lo del PASE. Disparadores:
+4. **Recuperacion activa (9', oral, DE PIE, en cadena, sin cuaderno).** Arranca leyendo en voz alta **los 3 errores literales del PASE** que te entrego Gramatica a las 10:00: *"These came out of your hands this morning, on paper. Now they come out of your mouth, correct."* **N-3 y N-7 de tu pista no existen todavia** (esta pista solo tiene la Cl 1): recuperas la Cl 1 de Conversacion mas lo del PASE. Disparadores:
    - "One TRUE line with a fixed time word." (closed) → "Same idea, no time word, with 'I have...'." (open)
    - "Fix it out loud: 'I don't finished the report.'"
    - "Fix it out loud: 'He haven't called the client.'"
@@ -37,7 +39,7 @@
 
 **Objective: by the end, each of you has said 3 true "I haven't... yet" lines out loud and the plan that closes them.**
 
-1. **Avance de proyecto hoy: MY STORY, MY GOALS — piece 1 "Where I am now" (1').** Di: *"Piece 0 was your story. Piece 1 is where you stand TODAY: what you have done, what you haven't done yet, and how you will close it. At Cl 22 you present it. At the end of the level you defend it in front of a panel."* El cuaderno de 10-12 lineas que dejo Gramatica Cl 1 es su materia prima: que lo tengan a mano.
+1. **Avance de proyecto hoy: MY STORY, MY GOALS — piece 1 "Where I am now" (1').** Di: *"Piece 0 was your story. Piece 1 is where you stand TODAY: what you have done, what you haven't done yet, and how you will close it. At Cl 22 you present it. At the end of the level you defend it in front of a panel."* El cuaderno de 6 lineas que dejo Gramatica Cl 1 es su materia prima: que lo tengan a mano.
 2. **Tablero, 3 zonas (3') — solo uso ORAL, la regla ya esta sellada en papel:**
 ```
 DONE (open past)                  |  NOT DONE YET (still possible)
@@ -68,13 +70,19 @@ QUESTION -> SHORT ANSWER:  "Have you finished?"  "Yes, I have." / "No, I haven't
 1. **Error paper al tablero, sin nombres (7', sentados).** Escribes 4-6 errores REALES del dia, anonimos. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio con la forma corregida. En tu cuaderno, los mismos errores **CON nombre y cita literal** para el reporte de coordinacion. Doble protocolo, siempre. **Mientras el grupo trabaja el ultimo error, TU escribes la tarea en el tablero.**
 2. **Showcase piece 1, de pie (7').** 3-4 estudiantes que no hablaron al grupo en el Bloque 2 dicen su piece 1 completo (done + not yet + plan) en 60 segundos, cada uno cierra con la Frase del Dia. El grupo responde a cada uno con UNA pregunta *"Have you...?"* y el estudiante da el short answer corto.
 3. **Ticket de salida (5').** 3-5 frases con la estructura de hoy — al menos 2 con *"I haven't... yet"*, 1 con *didn't* y 1 pregunta *"Have you...?"* — con nombre en el papel. Se recogen **TODOS**. NO los evaluas ni los comentas: viajan fisicos con el error paper a coordinacion.
-4. **Cierre (6').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"At ten today it is GRAMMAR Cl 2: same level, same plan, a new Phrase of the Day. You will close the module on paper — the participles and the items of the book that are still open. Bring your notebook and send your video."* Si preguntan por notas, resultados o garantia: *"That is coordination, not me."* Nada mas.
+4. **Cierre (6').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with GRAMMAR Cl 3 and the other teacher. New content: advice — what you should and shouldn't do — with times and prices, sealed on paper. Bring your notebook. Send your video TODAY."* Si preguntan por notas, resultados o garantia: *"That is coordination, not me."* Nada mas.
 
 **Tarea (escrita en el tablero durante el error paper, leida en voz alta al cierre):**
 ```
 HOMEWORK CL 2 (CONVERSATION) — ONE TASK ONLY: THE VIDEO.
 DUE Cl 3, BEFORE 7:00 PM — that is, TODAY before 7:00 PM. NOT NEGOTIABLE.
-TIME: 30-45 min (B1) — prepare, rehearse twice, then record. NOT fragmented.
+TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
+LISTEN FIRST (5-10 min, BEFORE you record):
+Search on YouTube or a podcast app: "goals I haven't achieved yet".
+Pick a speaker whose accent is NOT your teacher's (Scottish, Irish,
+Indian, Australian, Nigerian, Texan, Jamaican...). Listen 2 minutes.
+Repeat 3 sentences out loud, imitating that accent.
+OPEN YOUR VIDEO with those 3 sentences. Then do your task.
 DAILY PORTFOLIO VIDEO No. 2 — MINIMUM 3 MINUTES, video of yourself
 speaking, straight through, NO reading, NO script on camera.
 Content: your MY STORY piece 1 — "Where I am now": 3 things you HAVE
@@ -83,30 +91,35 @@ Close with the Phrase of the Day.
 Send it to the cohort WhatsApp group the SAME day. Label: B1-4H-VIDEO-2.
 Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
-> **La tarea de esta pista es SOLO el video** — la tarea ESCRITA de este contenido la asigna Gramatica hoy a las 10. No pidas ademas un papel: **las tareas de las dos pistas NO se duplican.**
+> **LISTEN FIRST es parte fija de la tarea:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de la proxima clase, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
+> **La tarea de esta pista es SOLO el video** — la tarea ESCRITA de este contenido ya la asigno Gramatica hoy a las 8:00. No pidas ademas un papel: **las tareas de las dos pistas NO se duplican.**
 > Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
-5. **PASE a GRAMATICA (Grammar Cl 2, hoy a las 10:00) — se entrega EN MANO al cambio de bloque, o por el grupo de docentes antes de las 10:00.** No es opcional y no se pasa de palabra: **el bloque de las 10 lo dicta quien no estuvo en el tuyo.** Copia este texto y llenalo antes de salir:
+5. **PASE a GRAMATICA (Grammar Cl 3, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv Cl 2 -> Grammar Cl 2 — de CONVERSACION a GRAMATICA (mismo dia, 10:00)
-Virtud: PRUDENCIA, Cl 2 de 5 de esta virtud. Modulo: A2 M17 p.163-165, capa 2.
+PASE Conv Cl 2 -> Grammar Cl 3 — de CONVERSACION a GRAMATICA (para las 8:00)
+Virtud: PRUDENCIA, Cl 2 de 5; la proxima es Cl 3 de 5. Modulo de hoy: A2 M17
+p.163-165, capa 2 HABLADA — el modulo quedo CERRADO.
 3 ERRORES frescos de hoy (cita literal, SIN nombre aqui; nombres en mi reporte):
 1. ____________________  2. ____________________  3. ____________________
 QUE QUEDA PENDIENTE del modulo: ________________________________________
 Conteo de la simulacion (done / not yet / closed): ____ / ____ / ____
-Videos No. 1 que NO llegaron (ya chequeados con lista, no los repitas): ______
+Videos No. 1 que NO llegaron (chequeados con lista; tu solo recuerdas): ______
 YA QUEDO HECHO HOY, NO LO REPITAS: el chequeo de videos con lista · el
 negativo y la pregunta HABLADOS con short answer · MY STORY piece 1
 (done / not yet / plan) · la simulacion PERFORMANCE REVIEW.
 SIMULACION DISTINTA A LA DE HOY — NO REPITAS "PERFORMANCE REVIEW" ni su
 guion (empleado mas team leader, balance del trimestre). Mismo punto
 gramatical, escenario profesional diferente.
-TAREA QUE DEJE: SOLO el video No. 2. La ESCRITA la asignas TU. No se duplican.
+TAREA QUE DEJE: SOLO el video No. 2 (abre con LISTEN FIRST). La ESCRITA la
+asignaste TU esta manana. No se duplican.
+GRAMMAR CL 3 ARRANCA CONTENIDO NUEVO: A1 M4 "Where Should We Live?" (p.41-44,
+should / shouldn't) mas A1 M5 "Numbers to 100" (p.61-64, horas y precios).
 LA FRASE DEL DIA NO SE TRASPASA: cada clase estrena la suya. No repitas la mia.
 Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE entregado a las 10:00
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE de Gramatica leido (recibido a las 10:00) ☐ PASE a Grammar Cl 3 dejado al cerrar a las 12:00 ☐ Foto de inicio enviada a las 10:00
 
 [PAGEBREAK]
 
@@ -128,18 +141,18 @@ b. **Presente perfecto:** Algo que no ha pasado todavia, pero todavia se puede. 
 - **Drill de movimiento atascado:** cadena sentada rapida — tu das la situacion, el grupo grita "OVER" o "NOT YET" en coro y un estudiante produce la negativa correcta.
 - **Simulacion que no arranca:** cadena de pie — cada uno dice 1 *"I haven't... yet"* verdadero mas 1 *"last ___ I didn't..."* y nombra al siguiente. Tu sigues fuera del rol.
 - **Parejas desbalanceadas / numero impar:** trio, y el tercero hace de observer con la misma ficha de 3 columnas.
-- **Grupo incompleto a las 8:00:** arrancas igual, registras la llegada tarde, el que llega se integra al drill sin repetirle nada.
+- **Grupo incompleto a las 10:00:** arrancas igual, registras la llegada tarde, el que llega se integra al drill sin repetirle nada.
 - **Showcase sin tiempo:** 2 estudiantes en vez de 4; el ticket y la tarea NO se recortan.
 - **Sobra tiempo:** *"make it a question"* — das una afirmativa, el grupo la vuelve pregunta con *"Have you...?"* y da el short answer en coro.
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-- **Edicion unificada:** contenido de la maestra del nocturno (Conv Cl 2: M17 capa 2 oral, MY STORY piece 1, PERFORMANCE REVIEW) con envoltorio 4H: 8:00-10:00, antes de Gramatica Cl 2; 110 min (25' + 35' + 25' + 25'). Para caber en 110: el drill y las parejas se acortan, el B3 baja a 3 rotaciones y el "producto" del Bloque 2 se parte — 2-3 piezas al grupo en el Bloque 2 y el resto como showcase en el Bloque 4. VATS de 6 min, chequeo de portafolio con lista y ticket intactos.
-- **Portafolio:** hoy es el **primer chequeo publico** del nivel (video No. 1). En el 4H Conversacion chequea los videos; Gramatica chequea su tarea escrita. Un solo video por dia: hoy es el No. 2.
+- **Edicion unificada:** contenido de la maestra del nocturno (Conv Cl 2: M17 capa 2 oral, MY STORY piece 1, PERFORMANCE REVIEW) con envoltorio 4H y el orden real de la hoja de arranque 13/10: 10:00-12:00, despues de Gramatica Cl 2 el mismo dia; foto de inicio a las 10:00; 110 min (25' + 35' + 25' + 25'). Para caber en 110: el drill y las parejas se acortan, el B3 baja a 3 rotaciones y el "producto" del Bloque 2 se parte — 2-3 piezas al grupo en el Bloque 2 y el resto como showcase en el Bloque 4. VATS de 6 min, chequeo de portafolio con lista y ticket intactos.
+- **Portafolio:** hoy es el **primer chequeo publico** del nivel (video No. 1). En el 4H Conversacion chequea los videos (lista + UNA mejora por video; Gramatica solo recuerda la due date); Gramatica chequea su tarea escrita. Un solo video por dia: hoy es el No. 2, y abre con LISTEN FIRST (busqueda de hoy: "goals I haven't achieved yet").
 - **Virtud:** PRUDENCIA, **Cl 2 de 5 de esta virtud**. Calendario absoluto por numero de clase, bloques de 5.
-- **Recuperacion:** N-3 y N-7 de la pista **no existen todavia**. Se recupera Conv Cl 1 mas los 3 errores del PASE de Gramatica Cl 1. Sin mapa semanal → NO se citan tickets.
-- **Secuencia que explica el contenido de hoy:** Gramatica Cl 1 ya **sello en papel** la capa 2 completa (negativo, pregunta, short answer, "for", participios, 12 items de Exercises 1). Por eso hoy Conversacion **NO vuelve a poner la tabla en el tablero**: produce oralmente lo que ya esta escrito.
-- **Anti-duplicado:** hoy **PERFORMANCE REVIEW** (uno a uno, balance del trimestre, empleado mas team leader, done / not-yet / plan, conteo de 3 columnas). Distinto de **MEET THE NEW TEAM** (Conv Cl 1) y de **INCIDENT REPORT TO HR** (Grammar Cl 1). El PASE prohibe repetir PERFORMANCE REVIEW en Gramatica Cl 2.
-- **Proyecto del nivel:** MY STORY, MY GOALS — **piece 1 "Where I am now"**. El papel de 10-12 lineas de Gramatica Cl 1 es su materia prima.
+- **Recuperacion:** N-3 y N-7 de la pista **no existen todavia**. Se recupera Conv Cl 1 mas los 3 errores del PASE de Gramatica Cl 2 (de esta misma manana). Sin mapa semanal → NO se citan tickets.
+- **Secuencia que explica el contenido de hoy:** Gramatica Cl 1 ya **sello en papel** la capa 2 completa (negativo, pregunta, short answer, "for", participios, 12 items de Exercises 1). Y Gramatica Cl 2, hoy a las 8:00, **cerro el modulo** (participios, 8 items, Verbal Practice). Por eso hoy Conversacion **NO vuelve a poner la tabla en el tablero**: produce oralmente lo que ya esta escrito.
+- **Anti-duplicado:** hoy **PERFORMANCE REVIEW** (uno a uno, balance del trimestre, empleado mas team leader, done / not-yet / plan, conteo de 3 columnas). Distinto de **MEET THE NEW TEAM** (Conv Cl 1), de **INCIDENT REPORT TO HR** (Grammar Cl 1) y de **SHIFT HANDOVER** (Grammar Cl 2, hoy a las 8:00). El PASE prohibe repetir PERFORMANCE REVIEW en Gramatica Cl 3.
+- **Proyecto del nivel:** MY STORY, MY GOALS — **piece 1 "Where I am now"**. El papel de 6 lineas de Gramatica Cl 1 es su materia prima.
 - **Proxima clase de esta pista (Conv Cl 3):** A1 Book **M4 "Where Should We Live?" (p.41-44, should/shouldn't)** + A1 Book **M5 "Numbers to 100" (p.61-64, horas y precios)**. `SUPUESTO DE PLANEACIÓN — verificar`: el anclaje modulo-clase del puente Cl 1-5 viene del mapa del B1 Mastery, no de una tabla del libro.
 - **Sin material preparado:** todo en tablero, papel del propio estudiante o voz; Plan B por bloque en el Anexo.

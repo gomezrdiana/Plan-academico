@@ -1,6 +1,6 @@
-# B1 MASTERY — Cl 26/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 26/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 26/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 26/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Repaso comprimido A2 · Modulos de HOY: M21 (gerundio tras preposicion, p.197-200) + M22 (doble verbo to/-ing, p.207-209).** Familia GERUNDIOS. Ya vistos en su A2 — hoy se CONSOLIDAN veloz, no se enseñan de cero.
 **Focus (1 line):** Two gerund shapes at speed — after a preposition it's -ing (before eating), and after the first verb it's "to" or "-ing" (want to rest / love working).
 **Virtud:** TEMPLANZA v2 — dia 1 de 5 (ABRE bloque Cl 26-30)
@@ -8,11 +8,15 @@
 
 > **DE PIE: Bloques 1-3 completos (~95 de 110 min ≈ 86%; piso 70%). Solo Bloque 4 sentado.** Movimiento con contenido siempre.
 
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 25 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+
 ---
 
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: re-fire the closed/open tense choice and the past-perfect layer, then load both gerund shapes.**
+
+**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 23 = M17 y Cl 19); errores anonimos al board; 1 min re-produccion:
    - "Closed or open? 'I sent it last week' vs 'I have sent it this week' — one true each." (Cl 23)
@@ -20,9 +24,9 @@
    - "'had + participle': one line with 'By then...'" (Cl 19)
    - "Fix it: 'When the meeting started, I already prepared everything.'" (Cl 19)
    - "Background + event, all past, one line." (Cl 19/23)
-2. **Chequeo publico de portafolio (3'):** conteo del audio de ayer; no-envios a tu cuaderno.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"After FINISHING (preposition + -ing), decide TO begin (first verb + to), never speak without THINKING — two shapes, one calm pause. That's today."*
-4. **Revision tarea (3'):** 12 lineas gerundio-como-sujeto (M20, Cl 25 Grammar) sobre la mesa; recoge. **PASE de Conv (hoy)** leido: los gaps (a)-(c) son los blancos.
+4. **Revision tarea (3'):** 6 lineas gerundio-como-sujeto (M20, Cl 25 Grammar) sobre la mesa; recoge. **PASE de Conv Cl 25 (dejado al cierre de las 12:00)** leido en voz alta: sus 3 errores literales entran a la recuperacion.
 
 > [VIRTUD] Board: "TEMPERANCE — DAY 1, OPENING". *"Prudence closed last class. Today opens Temperance — self-control and the right measure: the pause before the action, and knowing when to start and stop."*
 
@@ -74,37 +78,39 @@ Coro 2x + cada estudiante 1 meta real ("I want to..." / "I love ...-ing").
 2. **Tarea (board):**
 ```
 HOMEWORK CL 26 GRAMMAR — DUE Cl 27, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE 10 sentences about your work MIXING both shapes:
-    5 with a preposition + -ing (before/after/without/about) and
-    5 with a double verb (want/decide/forget TO ... ; love/start/
+TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+NOT fragmented.
+(1) WRITE 6 sentences about your work MIXING both shapes:
+    3 with a preposition + -ing (before/after/without/about) and
+    3 with a double verb (want/decide/forget TO ... ; love/start/
     stop/finish ...-ING). Underline the preposition or first verb.
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: "My work goals
-    and routines" — each line uses one of the two shapes.
-    Label: B1-GRAMMAR-26. WhatsApp group.
-(3) Bring the paper to next class.
+(2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
+    one CONVERSATION assigns today at 10:00. Send it TODAY to the
+    cohort WhatsApp group. Audio only by exception (max 2 a week).
+(3) Bring the paper to Grammar Cl 27.
 ```
+
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Cl 27: phrasal verbs — the ones we don't break ('I look after her') and the ones we split ('turn it off'). Still Temperance, day 2."*
-5. **PASE a Conv Cl 27** (fisico, antes de salir):
+4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: your routines and your goals out loud — 'Before leaving, I check my inbox. I want to lead a project.' Your video is assigned there."*
+5. **PASE al docente de CONVERSACION (Conv Cl 26, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No se pasa de palabra: el bloque siguiente lo dicta otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
-PASE Grammar -> Conv — Cl 26 -> Cl 27
+PASE Grammar -> Conv — Cl 26 (HOY, a las 10:00)
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones bajo presion: (a) accion sin -ing tras preposicion
 ("after eat"); (b) infinitivo colado ("before to leave"); (c)
 "want learn" (falta "to"); (d) "love to solve" (deberia -ing);
 (e) "stopped to check" con sentido de dejar de.
-Cerrado hoy (repaso comprimido): M21 gerundio tras preposicion +
-M22 doble verbo (to = no empezado / -ing = empezado). Tu Cl 27
-comprime M23 + M24 = PHRASAL VERBS: no separables ("I look after
-her", objeto al final) y separables ("pick her up / turn it off",
-pronombre en medio). Abre con a quien cada uno cuida/escucha en el
-trabajo y que prende/apaga/recoge en un dia normal. Cl 27 =
-TEMPLANZA v2 dia 2.
+SELLADO HOY EN PAPEL: repaso comprimido M21 (gerundio tras preposicion) +
+M22 (doble verbo: to = no empezado / -ing = empezado).
+Tu Conv Cl 26 lo USA oral: no vuelvas a explicar la regla.
+TAREA QUE DEJE: 6 lineas escritas, due Cl 27 antes de las 7:00 PM.
+El video del dia lo asignas TU (abre con LISTEN FIRST).
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas mixtas + stand-up) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Conteo portafolio anotado
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas mixtas + stand-up) ☐ PASE entregado a Conv a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -128,3 +134,4 @@ TEMPLANZA v2 dia 2.
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: TEMPLANZA v2 dia 1 ABRE hoy (calendario absoluto); Cl 26-30 = TEMPLANZA v2. Anunciar la transicion Prudencia -> Templanza.
 - Proxima Grammar = Cl 27 comprime M23 + M24 (phrasal verbs). El LIBRO B1 entra en Cl 34.
+- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 26 -> Conv Cl 26 en papel a las 10:00; Conv Cl 26 -> Grammar Cl 27 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date (su antiguo audio de portafolio sale). Tarea escrita a la mitad (6 frases; 15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, reglas citadas, simulacion, virtud) intacto.

@@ -1,17 +1,21 @@
-# B1 MASTERY — Cl 25/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 25/44 — CONV — HOJA DE RUTA
 
-**Sesion 25/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Sesion 25/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Focus (1 line):** State and defend what matters at work — with the activity itself in the subject's chair.
 **Virtud:** PRUDENCIA v2 — dia 5 de 5 (CIERRA bloque Cl 21-25)
 **Frase del Dia:** *"Planning ahead is prudence, choosing well is wisdom, and finishing this week strong is the choice that builds my future."*
 
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos), el PASE que te entrega el docente de Gramatica a las 10:00 (Grammar Cl 25, de esta misma manana) y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+
 ---
 
-> **HOY SOLO USO ORAL DE: la actividad en la silla del sujeto, hablada — 'Working here is...' / 'Planning is...'. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: el gerundio despues de preposicion (before eating) y el doble verbo (want to rest / love working) — eso es de Cl 26.**
+> **HOY SOLO USO ORAL DE: la actividad en la silla del sujeto, hablada — 'Working here is...' / 'Planning is...'. NO EXPLICAR LA REGLA (ya la sello Gramatica hoy a las 8:00: no la repites). NO TOCAR AÚN: el gerundio despues de preposicion (before eating) y el doble verbo (want to rest / love working) — eso es de Cl 26.**
 
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: re-fire irregular perfects and the narrative chain, then aim at opinions.**
+
+**10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 22 y Cl 18); errores anonimos al board; 1 min re-produccion:
    - "have + irregular participle: go, take, be — one true sentence each, fast." (Cl 22)
@@ -19,9 +23,9 @@
    - "One line FROM your midterm story — the line you would keep forever." (Cl 22)
    - "Chain: used to + was -ing + when + simple, 3 lines." (Cl 18)
    - "Order a mini story out loud: first / then / after that / finally." (Cl 18)
-2. **Chequeo publico de portafolio (3'):** conteo del audio de ayer; no-envios a tu cuaderno.
+2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar; el chequeo nombre por nombre es SOLO tuyo (Gramatica a las 8:00 solo recuerda el video). Di: *"I am not asking who made it. I am asking who SENT it."* Marcas ENVIO o NO ENVIO y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real**. El video que no abre con sus 3 frases de LISTEN FIRST cuenta como incompleto. Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."*
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"Hear the shape? PLANNING ahead is... CHOOSING well is... FINISHING is... — that shape is today."*
-4. **Revision tarea (3'):** proceso formal de 8 lineas sobre la mesa; recoge. **PASE de Grammar (Cl 24)** leido en voz alta.
+4. **Lectura del PASE de Gramatica, en voz alta (3').** Lees los 3 errores escritos del papel que te entrego Gramatica Cl 25 a las 10:00: *"These came out of your writing this morning. Now they have to survive out loud."*
 
 > [VIRTUD] Board: "PRUDENCE — DAY 5, CLOSING". *"Day 5 closes Prudence: this week you planned a pitch, weighed the period, chose the focus. Today: choosing well, said out loud."*
 
@@ -30,7 +34,7 @@
 **Objective: everyone has stated and defended three work priorities with the activity as the subject.**
 
 1. Meta en 1 linea (arriba). **Avance de proyecto hoy: una linea para MY STORY — "what doing this course has meant".**
-2. Board — el molde oral (Grammar lo formaliza hoy mismo con M20; aqui NO se enseña la regla):
+2. Board — el molde oral (Grammar lo formalizo hoy a las 8:00 con M20; aqui NO se re-enseña la regla):
 ```
 THE ACTIVITY TAKES THE CHAIR
 "Arriving on time is respect."
@@ -59,41 +63,58 @@ THE ACTIVITY TAKES THE CHAIR
 1. **Ticket de salida (5', sentados):** 3-5 frases con actividad-como-sujeto sobre SU vida real ("Working at night is...", "Studying English has been..."). Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
-HOMEWORK CL 25 CONV — DUE Cl 26, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE "My working principles" — 8 lines, each starting with an
-    activity as subject ("Arriving...", "Asking...", "Finishing...").
-    Give a reason in the same line.
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: say your 8
-    principles like a team lead on day one. Label: B1-CONV-25.
-    WhatsApp group.
-(3) Bring the paper to next class.
+HOMEWORK CL 25 CONV — ONE TASK ONLY: THE VIDEO.
+DUE: Cl 26, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
+TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
+LISTEN FIRST (5-10 min, BEFORE you record):
+Search on YouTube or a podcast app: "workplace values and principles explained".
+Pick a speaker whose accent is NOT your teacher's (Scottish, Irish,
+Indian, Australian, Nigerian, Texan, Jamaican...). Listen 2 minutes.
+Repeat 3 sentences out loud, imitating that accent.
+OPEN YOUR VIDEO with those 3 sentences. Then do your task.
+DAILY PORTFOLIO VIDEO No. 25 — MINIMUM 3 MINUTES, video of yourself
+speaking, straight through, NO reading, NO script on camera.
+Content: "MY WORKING PRINCIPLES" — 8 principles, each one starting
+with an activity as subject ("Arriving...", "Asking...",
+"Finishing..."), each with its reason, said like a team lead on
+day one.
+Close with the Phrase of the Day.
+Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-25.
+Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
+
+> **LISTEN FIRST es parte fija de la tarea:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de la proxima clase, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
+
+> **La tarea de hoy es SOLO el video** — la tarea escrita de este contenido ya la asigno el docente de Gramatica hoy a las 8:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Cl 26: activities after prepositions — 'We shouldn't swim after eating.' New virtue: Temperance. Evaluation questions go to coordination."*
-5. **PASE a Grammar HOY** (fisico, antes del cambio de bloque):
+4. **Anuncio de cierre:** *"Next class starts at eight o'clock with GRAMMAR Cl 26 and the other teacher: gerunds after prepositions — 'We shouldn't swim after eating.' New virtue: Temperance, day 1. Send your video TODAY. Evaluation questions go to coordination."*
+5. **PASE al docente de GRAMATICA (Grammar Cl 26, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por el grupo de docentes. No se pasa de palabra: la clase siguiente la abre otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv -> Grammar — Cl 25 (mismo dia)
+PASE Conv -> Grammar — Cl 25 -> Cl 26 (se deja HOY a las 12:00)
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones orales de hoy: (a) verbo pelado de sujeto ("Arrive on time
 is respect"); (b) "is" perdido tras el gerundio ("Working here very
 hard"); (c) gerundio confundido con continuo ("I am working is
 hard"); (d) participios irregulares aun sueltos en "has been".
-Hoy pusieron actividades en la silla del sujeto, oralmente, con
-opiniones y panel. Tu bloque formaliza M20 (gerundio como sujeto,
-p.181-184): la forma -ing en posicion de sujeto y el contraste con
-el continuo. Los gaps (a)-(c) son tus blancos.
+Hoy APLICARON oral lo que tu pista sello a las 8:00 (gerundio como sujeto, M20).
+Videos que NO llegaron hoy: ____________. Yo deje SOLO el video
+No. 25 (abre con LISTEN FIRST); la tarea escrita es tuya.
+Tu Cl 26 abre M21 gerundio tras preposicion + M22 doble
+verbo (repaso comprimido). Cl 25 CERRO PRUDENCIA v2 en las dos pistas;
+tu Cl 26 abre TEMPLANZA v2.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + panel) ☐ PASE entregado ☐ Conteo portafolio anotado
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + panel) ☐ PASE de Gramatica leido (recibido a las 10:00) ☐ PASE a Grammar dejado al cerrar a las 12:00 ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Foto de inicio enviada a las 10:00
 
 ---
 
 ## NOTA INTERNA (no leer en clase)
 
-- Modulo ancla de hoy: A2 Book **M20 "Playing is Fun!" — Gerunds as Subjects (p.181; Guia 1 p.183; Ejemplos p.184)**. Conv lo APLICA oralmente; Grammar lo formaliza hoy mismo. **M19 NO existe en el libro** (verificado; se salta, nunca se inventa).
+- Modulo ancla de hoy: A2 Book **M20 "Playing is Fun!" — Gerunds as Subjects (p.181; Guia 1 p.183; Ejemplos p.184)**. Conv lo APLICA oralmente; Grammar ya lo formalizo hoy a las 8:00. **M19 NO existe en el libro** (verificado; se salta, nunca se inventa).
 - Distribucion clase<->modulo de la semana (M15/M16/M17/M18/M20): SUPUESTO DE PLANEACIÓN — verificar.
 - Virtud: PRUDENCIA v2 dia 5 CIERRA hoy (calendario absoluto). Cl 26-30 = TEMPLANZA v2 (Cl 26 dia 1 ABRE) — anunciar la transicion en el cierre.
 - MY STORY vivo rumbo al Final Cl 44 (evaluador externo; ese dia no se genera guia).
 - Profe sin material preparado: todo en tablero + papel del estudiante.
+- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (B1 + B2 juntos), el MISMO dia. PASE Grammar Cl 25 -> Conv Cl 25 en papel a las 10:00; Conv Cl 25 -> Grammar Cl 26 al cerrar a las 12:00. UN solo video diario, el de Conversacion: el chequeo nombre por nombre con UNA mejora por video es de esta pista. La tarea de esta pista pasa a ser SOLO el video (antes llevaba ademas un papel y un audio; su contenido quedo dentro del video): la escrita es de Gramatica. LISTEN FIRST abre el video (busqueda de hoy: "workplace values and principles explained"). Foto de inicio a las 10:00 al grupo de docentes. Contenido (modulo, simulacion, virtud) intacto.

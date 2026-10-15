@@ -1,6 +1,6 @@
-# B1 MASTERY — Cl 36/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 36/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 36/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 36/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** B1 Book **M5 "Could Have / Should Have — The Perfect Modals"** (Guia 1 p.43; Guia 2 Regret p.47; Ejemplos p.44/48) + **M6 "Connectors of Cause and Contrast"** (Guia 1 p.53; Guia 2 p.57)
 **Focus (1 line):** Lock modal + HAVE + participle (would/could/should have) + the cause/contrast connectors — on paper, standing.
 **Virtud:** FORTALEZA v2 — dia 1 de 5 (ABRE el bloque Cl 36-40)
@@ -8,20 +8,24 @@
 
 > **DE PIE: Bloques 1-3 completos (~95 de 110 min ≈ 86%; piso 70%). Solo Bloque 4 sentado.** Movimiento con contenido siempre.
 
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 35 y tu libro B1 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+
 ---
 
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: re-fire causative/adverbs + a deduction, then load perfect modals.**
 
+**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores; errores anonimos al board; 1 min re-produccion:
    - "Causative: 'I had my laptop repaired' + one manner adverb." (Cl 33)
    - "Fix it: 'I cut my hair yesterday' (meaning: at the salon)." (Cl 33 — causative)
    - "Deduce: 'His coat is gone. He must ___.'" (Cl 35 — deduction)
    - "One separable phrasal, pronoun in the middle: 'turn it off'." (Cl 29 — phrasal verbs)
-2. **Chequeo publico de portafolio (3'):** conteo del audio de ayer; no-envios a tu cuaderno.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"modal + HAVE + participle: should HAVE rested, could HAVE stopped — never 'should of'. Connectors join the fight to the win. That is today."*
-4. **Revision tarea (3'):** 12 frases (deduccion + tercer condicional recto y mixto) + la escalera completa de 5 escalones (Cl 35) sobre la mesa; recoge. **PASE de Conv (hoy)** leido: los gaps son tus blancos.
+4. **Revision tarea (3'):** 5 frases (deduccion + tercer condicional recto y mixto) + la escalera completa de 5 escalones (Cl 35) sobre la mesa; recoge. **PASE de Conv (Cl 35, dejado al cierre de la clase anterior)** leido: los gaps son tus blancos.
 
 > [VIRTUD] Board: "FORTITUDE — DAY 1, OPENING". *"Justice closed last class. Fortitude opens today — strength. 'I should have' owns the past; 'even though... I continued' names the courage. Four more days of Fortitude."*
 
@@ -71,32 +75,39 @@ CONTRAST:, but + clause | Even though + clause (formal: although)
 2. **Tarea (board):**
 ```
 HOMEWORK CL 36 GRAMMAR — DUE Cl 37, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE 12 sentences: 6 perfect modals (2 should have, 2
-    could have, 2 wish/if only — all with HAVE/HAD + participle)
-    + 6 connectors (3 cause: because/because of/so; 3 contrast:
-    but/even though/despite). Underline each connector.
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: 3 regrets
-    turned to strength + explain 1 setback with 4 connectors.
-    Label: B1-GRAMMAR-36. WhatsApp group.
-(3) Bring the paper and YOUR B1 book to next class.
-```
-3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Cl 37: B1 book M7 Relative Pronouns & Embedded Questions. Fortitude continues, day 2. Final on Cl 44 — calendar fact only — coordination, not me."*
-5. **PASE a Conv Cl 37** (fisico, antes de salir):
-```
-PASE Grammar -> Conv — Cl 36 -> Cl 37
-3 gaps frescos de hoy (literal, sin nombre aqui):
-1. ______________________  2. ______________________  3. ______________________
-Patrones bajo presion: (a) "should of / could of" por "should
-have"; (b) "wish I would have"; (c) "because" + sustantivo sin
-"of"; (d) "although ... but" / "despite of". Cerrado hoy: M5
-Perfect Modals + M6 Connectors. Tu Cl 37 abre M7 Relative
-Pronouns & Embedded Questions (p.63-81) en produccion oral,
-conectado a FORTALEZA dia 2. Cl 37 = FORTALEZA v2 dia 2.
+TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+NOT fragmented.
+(1) WRITE 6 sentences: 3 perfect modals (1 should have, 1 could
+    have, 1 wish/if only — all with HAVE/HAD + participle)
+    + 3 connectors (1 because of, 1 so, 1 even though or despite).
+    Underline each connector.
+(2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
+    one CONVERSATION assigns today at 10:00. Send it TODAY to the
+    cohort WhatsApp group. Audio only by exception (max 2 a week).
+(3) Bring the paper and YOUR B1 book to Grammar Cl 37.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 10 modals + resilience debrief) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Conteo portafolio anotado
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+
+3. **Error paper** anonimo cerrado; nombres/citas al reporte.
+4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: today's rules, out loud, in a real work situation. Your video is assigned there. Final on Cl 44 — calendar fact only — coordination, not me."*
+5. **PASE al docente de CONVERSACION (Conv Cl 36, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No se pasa de palabra: el bloque siguiente lo dicta otra persona. Llenalo mientras el grupo escribe el ticket:
+```
+PASE Grammar -> Conv — Cl 36 (HOY, a las 10:00)
+3 gaps escritos de hoy (literal, sin nombre aqui):
+1. ______________________  2. ______________________  3. ______________________
+Patrones bajo presion en papel: (a) "should of / could of" por
+"should have"; (b) "wish I would have"; (c) "because" + sustantivo
+sin "of"; (d) "although ... but" / "despite of".
+SELLADO HOY EN PAPEL: M5 Perfect Modals + M6 Connectors. Tu bloque
+lo USA oral: no vuelvas a explicar la regla. Gaps (a)-(b) = tus
+blancos orales.
+TAREA QUE DEJE: 6 frases escritas, due Cl 37 antes de las 7:00 PM.
+El video del dia lo asignas TU (abre con LISTEN FIRST).
+Virtud: FORTALEZA v2 dia 1 — abierta en mi pista.
+```
+
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 10 modals + resilience debrief) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -123,3 +134,4 @@ Ejemplos p.54/58: *"Thanks to my teacher, I can speak English!"* · *"Due to you
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: FORTALEZA v2 dia 1 ABRE hoy (calendario absoluto). Cl 37 = dia 2.
 - Cronograma: Cl 44 = FINAL (evaluador externo, NO se genera guia ese dia).
+- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 36 -> Conv Cl 36 en papel a las 10:00; Conv Cl 36 -> Grammar Cl 37 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date. Tarea escrita a la mitad (15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes.

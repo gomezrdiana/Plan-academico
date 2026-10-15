@@ -1,17 +1,21 @@
-# B1 MASTERY — Cl 38/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 38/44 — CONV — HOJA DE RUTA
 
-**Sesion 38/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Sesion 38/44 · 110 min · 10:00 AM-12:00 M (va SEGUNDO, despues de Grammar) · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Focus (1 line):** Relay what people really said at work — "She SAID the deadline moved; he TOLD me the client was upset" — pass the true message on without softening it.
 **Virtud:** FORTALEZA v2 — dia 3 de 5
 **Frase del Dia:** *"Fortitude reports the hard truth: she SAID the deadline had moved, he TOLD me the client was worried, they ASKED if we could deliver — I pass the real message on, I don't soften it, I don't drop it."*
 
 ---
 
-> **HOY SOLO USO ORAL DE: relevar hablando lo que otros dijeron — she SAID / he TOLD me / they ASKED — sin suavizar el mensaje. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los tiempos perfectos completos (present, past y future perfect + continuos, con for/since/already/yet) — eso es de Cl 39.**
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, lista de videos recibidos), el PASE que te entrega el docente de Gramatica a las 10:00 (Grammar Cl 38) y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+
+> **HOY SOLO USO ORAL DE: relevar hablando lo que otros dijeron — she SAID / he TOLD me / they ASKED — sin suavizar el mensaje. NO RE-EXPLICAR LA REGLA (ya la formalizo Grammar hoy a las 8:00). NO TOCAR AÚN: los tiempos perfectos completos (present, past y future perfect + continuos, con for/since/already/yet) — eso es de Cl 39.**
 
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate deduction, the third conditional and describing, then step into reporting.**
+
+**10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 35 y Cl 31); errores anonimos al board; 1 min re-produccion:
    - "Deduction — a colleague isn't answering. Give TWO possibilities: 'He ___ (must / might / can't) be...'." (Cl 35)
@@ -19,9 +23,9 @@
    - "Third conditional as a question: 'What ___ you ___ (do) if the client had called?'" (Cl 35)
    - "Describe a coworker in 3 adjectives — 'She is patient, organized, and ___.'" (Cl 31 — ventana de repaso)
    - "Fix it: 'If I would have known, I would call you.'" (Cl 35)
-2. **Chequeo publico de portafolio (3'):** conteo en voz alta del audio de ayer; no-envios a tu cuaderno.
+2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar; el chequeo nombre por nombre es SOLO tuyo (Gramatica a las 8:00 solo recordo la due date). Di: *"I am not asking who made it. I am asking who SENT it."* Marcas ENVIO / NO ENVIO del video de ayer y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real**. El video que no abre con sus 3 frases del LISTEN FIRST cuenta como incompleto. Al que no envio: *"You send the missing video TODAY, together with today's."* No-envios a tu cuaderno y al reporte.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones.
-4. **Revision tarea (3'):** tarea de Cl 37 (writing M7 — relative pronouns + embedded questions) sobre la mesa; recoge. **PASE de Grammar (Cl 37)** leido: hoy giramos a reportar lo que otros dijeron.
+4. **PASE de Grammar Cl 38 (recibido a las 10:00) leido en voz alta (3'):** los 3 errores escritos de esta manana (reported speech en papel) son tus blancos orales. Di: *"This morning you wrote it. Now you say it, at speed."* El papel de la tarea lo reviso Gramatica: tu no recoges papel.
 
 > [VIRTUD] Board: "FORTITUDE — DAY 3". *"It takes courage to report the message exactly — no editing, no hiding."*
 
@@ -30,7 +34,7 @@
 **Objective: everyone has reported six real work messages using say/tell/ask + the verb stepped back.**
 
 1. Meta en 1 linea (arriba). **Avance de proyecto hoy: una linea de MY STORY — "the most important thing a boss or teacher ever told me."**
-2. Board — el molde oral (Grammar lo formaliza hoy mismo con M8; aqui NO se enseña la tabla):
+2. Board — el molde oral (Grammar lo formalizo hoy a las 8:00 con M8; aqui NO se re-enseña la tabla):
 ```
 REPORT IT — THE VERB STEPS ONE FOOT BACK
 Direct:   "I am busy."        -> She SAID she WAS busy.
@@ -60,38 +64,51 @@ now -> then | today -> that day | here -> there
 1. **Ticket de salida (5', sentados):** 3-5 frases reportando cosas reales de hoy — minimo 1 con SAID, 1 con TOLD (+ persona), 1 con ASKED IF. Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
-HOMEWORK CL 38 CONV — DUE Cl 39, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE 8 reported sentences from real conversations this week:
-    3 with SAID, 3 with TOLD (+ person), 2 with ASKED (1 with IF).
-    Step every inner verb one foot back.
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: report 5 things
-    people told you this week. Label: B1-CONV-38. WhatsApp group.
-(3) Bring the paper to next class.
+HOMEWORK CONVERSATION CL 38 — ONE TASK ONLY: THE VIDEO.
+DUE: Cl 39, BEFORE 7:00 PM — that is, TODAY before 7:00 PM.
+TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
+LISTEN FIRST (5-10 min, BEFORE you record):
+Search on YouTube or a podcast app: "passing on a message at work".
+Pick a speaker whose accent is NOT your teacher's (Scottish, Irish,
+Indian, Australian, Nigerian, Texan, Jamaican...). Listen 2 minutes.
+Repeat 3 sentences out loud, imitating that accent.
+OPEN YOUR VIDEO with those 3 sentences. Then do your task.
+DAILY PORTFOLIO VIDEO No. 38 — 2-3 min, video of yourself speaking,
+straight through, NO reading. "WHILE YOU WERE OUT": report 6 real
+things people told you this week — 2 with SAID, 2 with TOLD
+(+ person), 2 with ASKED (1 with IF). Step every inner verb one
+foot back. Close with the Phrase of the Day.
+Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-38.
 ```
+
+> **LISTEN FIRST es parte fija de la tarea:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de la proxima clase, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
+
+> **La tarea de hoy es SOLO el video** — la tarea escrita de este contenido ya la asigno el docente de Gramatica hoy a las 8:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Cl 39: place what you've done in time — 'I've finished the audit, I had finished before she called, by month-end I will have closed it.'"*
-5. **PASE a Grammar HOY** (fisico, antes del cambio de bloque):
+4. **Proxima clase:** *"Next class starts at eight o'clock with GRAMMAR Cl 39 and the other teacher: place what you've done in time — 'I've finished the audit, I had finished before she called, by month-end I will have closed it.' Send your video TODAY."*
+5. **PASE al docente de GRAMATICA (Grammar Cl 39, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por el grupo de docentes:
 ```
-PASE Conv -> Grammar — Cl 38 (mismo dia)
+PASE Conv Cl 38 -> Grammar Cl 39
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones orales de hoy: (a) "she said me" (SAY no lleva persona; TELL si);
 (b) verbo sin dar el paso atras ("he said he IS busy"); (c) "asked that
 I was free" (yes/no lleva IF/WHETHER, no "that"); (d) "told to me".
-Hoy reportaron 6 mensajes reales cada uno y relayaron una mañana entera.
-Tu bloque formaliza M8 (p.83-96): say/tell/ask + back-shift table (p.93).
-Los gaps (a)-(c) son sus errores tipicos de arranque. (Cl 39 = M9 perfect
-tenses; el causativo llega en Cl 40 con M10+M11.)
+Hoy reportaron 6 mensajes reales cada uno y relayaron una mañana entera,
+sobre M8 que sellaste en papel a las 8:00. Tu Cl 39 abre M9 perfect
+tenses (p.97-116); el back-shift "has done -> had done" es el puente.
+TAREA: la escrita la dejaste tu esta manana; yo deje SOLO el video
+No. 38 (abre con LISTEN FIRST).
+Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + relay al frente) ☐ PASE entregado ☐ Conteo portafolio anotado
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + relay al frente) ☐ **Videos recibidos + UNA mejora dicha por video** ☐ PASE Grammar Cl 38 leido en el Bloque 1 ☐ PASE a Grammar Cl 39 dejado al cerrar a las 12:00 ☐ Foto de inicio enviada a las 10:00
 
 [PAGEBREAK]
 
 ## ANEXO — VERBATIM DEL LIBRO + PLAN B (no leer literal en clase)
 
-**Modulo ancla: B1 Book M8 "Reported Speech — He Said, She Said" (p.83-96).** Conv lo APLICA oralmente; Grammar lo formaliza hoy. NO enseñar la tabla en Conv.
+**Modulo ancla: B1 Book M8 "Reported Speech — He Said, She Said" (p.83-96).** Grammar lo formalizo hoy a las 8:00; Conv lo APLICA oralmente a las 10:00. NO re-enseñar la tabla en Conv.
 
 Reglas del libro (referencia; el molde oral sale de aqui):
 - **Guide 2 (p.89) — say / tell / ask:** SAY = decir (no requiere persona; "to" opcional: "I said hello to Janel"). TELL = contar/informar (requiere persona, sin preposicion: "I told my mom the time"). ASK = preguntar (requiere persona; para si/no usa IF/WHETHER). Ejemplos del libro (p.85): *"Daniella said that she was happy / Daniella told me where she lives / Daniella asked me if I was sick."*
@@ -110,4 +127,5 @@ Reglas del libro (referencia; el molde oral sale de aqui):
 - Recuperacion: N-3 = Cl 35 ≈ B1 M3-4 (Deduction + Third Conditional); N-7 = Cl 31, ventana de repaso comprimido A2 (~describir) — ancla flexible; verificar contra la reescritura paralela de Cl 26-37.
 - MY STORY vivo rumbo al Final Cl 44 (evaluador externo; ese dia no se genera guia). Avance hoy: "the most important thing a boss/teacher ever told me".
 - Virtud: FORTALEZA v2 dia 3 (calendario absoluto).
+- **Orden real del dia (hoja de arranque 13/10/2026):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia · PASE Grammar Cl N -> Conv Cl N en papel a las 10:00 y Conv Cl N -> Grammar Cl N+1 al cerrar a las 12:00 · UN solo video diario (lo asigna Conversacion, abre con LISTEN FIRST; el chequeo con una mejora por video es de Conversacion a las 10:00) · tarea escrita de Grammar de 15-20 min (la mitad de items) · foto de inicio a la hora exacta al grupo de docentes.
 - Profe sin material preparado: todo en tablero + papel del estudiante + su libro B1 (es suyo, p.83-96).

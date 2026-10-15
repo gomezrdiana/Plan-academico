@@ -1,11 +1,13 @@
 # B1 MASTERY — Cl 44/44 — CONV (UNICO BLOQUE CON GUIA) — HOJA DE RUTA (CIERRE)
 
-**Sesion 44/44 · 110 min · Bloques: B1 15' + B2 45' + B3 35' + B4 15' = 110**
+**Sesion 44/44 · 110 min · 8:00-10:00 AM (va PRIMERO; el Final externo va 10:00 AM-12:00 M) · Bloques: B1 15' + B2 45' + B3 35' + B4 15' = 110**
 **Focus (1 line):** Consolidate every B1 family in a board-station circuit (whole level: A2 reviewed + B1 book M1-M12), then return and read the Letter to My Future Self written in Cl 1 — the closing ritual of the level.
 **Virtud:** SINTESIS — dia 4 de 4 · **las 4 virtudes integradas (PRUDENCIA + TEMPLANZA + JUSTICIA + FORTALEZA)**
 **Frase del Dia:** *"Four virtues, one language, mine now: prudence to plan what's next, temperance to keep the habit, justice to thank WHO helped me, fortitude to keep going — I read the letter I HAVE carried since Cl 1, and I choose what I take forward."*
 
 > **CIERRE del nivel, no clase de modulo.** Repaso integral (todo el libro B1) + ritual de la Carta. Sin PASE, sin tarea. **PROHIBIDO mencionar el examen o su contenido** — el profe no conoce el instrumento.
+
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (lista de videos recibidos, notas para el reporte) y celular para la foto de inicio. Las Cartas de Cl 1 las trae COORDINACION. NADA impreso.
 
 ---
 
@@ -13,7 +15,9 @@
 
 **Objective: open the closing with an integral warm-up across the whole level.**
 
-1. **Chequeo publico de portafolio (3'):** ¿quien grabo su reflexion (B1-43-REFLECTION)? conteo a tu cuaderno — el ultimo del nivel.
+**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+
+1. **Chequeo de portafolio con lista en mano (3'):** el ultimo del nivel. Nombre por nombre ENVIO / NO ENVIO de la reflexion (B1-43-REFLECTION) y al que envio, **UNA cosa por mejorar, en 5 segundos, con el error real** (sobre la forma, nunca sobre lo personal). No-envios a tu cuaderno y al reporte.
 2. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"Prudence plans the road ahead; temperance walks it steadily; justice thanks who helped; fortitude keeps going. If you had to keep ONE virtue for life — which? Hold that question today."*
 3. **Recuperacion integral (8', oral, DE PIE, cadena, sin cuaderno) — repaso de TODO el nivel, no solo N-3/N-7.** Un disparador por familia del libro B1; errores anonimos al board:
    - "Report it: 'She SAID she WAS ready; he ASKED IF I had finished.'" (M8)
@@ -60,15 +64,17 @@ STATION CIRCUIT — THE WHOLE B1 BOOK (produce, don't copy)
 2. **Error paper** anonimo cerrado (ultimo del nivel); nombres/citas al reporte de coordinacion.
 3. **Sin tarea** (cierre del nivel).
 4. **Foto/video de grupo (opcional):** cierre del portafolio; entregable estandar, con el reframe ya trabajado (grabarse = fortaleza + servicio).
-5. **Anuncio proxima sesion (textual, sin nada mas):** *"Next block: a closing session with a special guest. Come as you are."* **NO menciones examen, formato ni contenido.** *"Everything about what comes next goes through coordination."*
+5. **Anuncio de cierre (textual, sin nada mas):** *"Next block: a closing session with a special guest. Come as you are."* **NO menciones examen, formato, contenido ni resultados.** Si alguien pregunta por la evaluacion: *"That is coordination, not me."*
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets finales recogidos (TODOS) ☐ Cartas del Futuro entregadas y leidas ☐ Fotos/videos ☐ Conteo portafolio anotado ☐ Ningun contenido de examen mencionado
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets finales recogidos (TODOS) ☐ Cartas del Futuro entregadas y leidas ☐ Fotos/videos ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Ningun contenido de examen mencionado ☐ Foto de inicio enviada a las 8:00
 
 ---
 
 ## NOTA INTERNA (no leer en clase)
 
-- **Cl 44 = SOLO CONV.** El segundo bloque del dia (las ultimas 2h del nivel) es el EXAMEN FINAL con evaluador externo: NO lleva guia (no la generamos). El profe de CONV NO conoce el instrumento y NO lo menciona; su unico anuncio es "closing session with a special guest".
+- **Cl 44 = SOLO CONV.** El otro bloque del dia es el EXAMEN FINAL con evaluador externo: NO lleva guia (no la generamos). El profe de CONV NO conoce el instrumento y NO lo menciona.
+- **ORDEN REAL (regla 15/10/2026):** el Final del nivel ocupa las ULTIMAS 2 horas (10:00 AM-12:00 M, evaluador externo, sin guia). Este cierre se dicta 8:00-10:00 con la foto de inicio a las 8:00; por eso el anuncio final anuncia el bloque siguiente sin decir que es examen.
+- **Sin tarea** (cierre del nivel): no se agrega LISTEN FIRST.
 - Dia de CIERRE, no de modulo (el LIBRO B1 cerro COMPLETO M1-M12 en Cl 41). Repaso integral (circuito de estaciones = todas las familias del libro B1) + ritual de la Carta a Mi Yo del Futuro (escrita en Cl 1).
 - **Cero material del profe:** las Cartas de Cl 1 las trae COORDINACION (no el profe). El profe solo reparte y conduce.
 - Virtud: SINTESIS dia 4 — las 4 virtudes integradas (calendario absoluto B1 daytime; canon VATS Q4 "una sola virtud para vivir").

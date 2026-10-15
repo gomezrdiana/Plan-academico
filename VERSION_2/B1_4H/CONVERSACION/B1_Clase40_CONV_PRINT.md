@@ -1,17 +1,21 @@
-# B1 MASTERY — Cl 40/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 40/44 — CONV — HOJA DE RUTA
 
-**Sesion 40/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Sesion 40/44 · 110 min · 10:00 AM-12:00 M (va SEGUNDO, despues de Grammar) · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Focus (1 line):** Delegate and describe at work — "I had the report sent; I got the room booked" + "a talented, well-organized, hard-working teammate" — hand off tasks and name people honestly.
 **Virtud:** FORTALEZA v2 — dia 5 de 5 (el bloque CIERRA)
 **Frase del Dia:** *"Fortitude finishes strong: what I can't carry alone I GET done, and I name people honestly — a hard-working, well-organized teammate, and a careless, irresponsible one too."*
 
 ---
 
-> **HOY SOLO USO ORAL DE: delegar y describir hablando — I had the report sent / I got the room booked + 'a well-organized, hard-working teammate'. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los pronombres indefinidos, reflexivos y reciprocos (everyone, myself, each other) — eso es de Cl 41.**
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, lista de videos recibidos), el PASE que te entrega el docente de Gramatica a las 10:00 (Grammar Cl 40) y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+
+> **HOY SOLO USO ORAL DE: delegar y describir hablando — I had the report sent / I got the room booked + 'a well-organized, hard-working teammate'. NO RE-EXPLICAR LA REGLA (ya la formalizo Grammar hoy a las 8:00). NO TOCAR AÚN: los pronombres indefinidos, reflexivos y reciprocos (everyone, myself, each other) — eso es de Cl 41.**
 
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate relative pronouns, embedded questions and perfect tenses, then delegate and describe.**
+
+**10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 37 y Cl 33); errores anonimos al board; 1 min re-produccion:
    - "Relative pronoun: 'The client ___ called is the one ___ signed the contract.'" (Cl 37)
@@ -19,9 +23,9 @@
    - "Fix it: 'Do you know where is the office?'" (Cl 37 — embedded keeps affirmative order)
    - "Present perfect (Cl 39): 'What have you finished this week?' — answer with since/for." (Cl 39 — puente)
    - "Judge the level, full sentence: 'This task is ___ enough / too ___.'" (Cl 33 — ventana de repaso)
-2. **Chequeo publico de portafolio (3'):** conteo en voz alta del audio de ayer; no-envios a tu cuaderno.
+2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar; el chequeo nombre por nombre es SOLO tuyo (Gramatica a las 8:00 solo recordo la due date). Di: *"I am not asking who made it. I am asking who SENT it."* Marcas ENVIO / NO ENVIO del video de ayer y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real**. El video que no abre con sus 3 frases del LISTEN FIRST cuenta como incompleto. Al que no envio: *"You send the missing video TODAY, together with today's."* No-envios a tu cuaderno y al reporte.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones.
-4. **Revision tarea (3'):** tarea Cl 39 CONV (8 lines: perfect tenses timeline) sobre la mesa; recoge. **PASE de Grammar (Cl 39)** leido: hoy giramos a delegar y describir.
+4. **PASE de Grammar Cl 40 (recibido a las 10:00) leido en voz alta (3'):** los 3 errores escritos de esta manana (causative + adjectives en papel) son tus blancos orales. Di: *"This morning you wrote it. Now you hand over a real project with it."* El papel de la tarea lo reviso Gramatica: tu no recoges papel.
 
 > [VIRTUD] Board: "FORTITUDE — DAY 5 — BLOCK CLOSES". *"Courage delegates without shame and describes people fairly — strengths and weaknesses in plain words."*
 
@@ -30,7 +34,7 @@
 **Objective: everyone has delegated real tasks (have/get + participle) and described real people/things with precise adjectives.**
 
 1. Meta en 1 linea (arriba). **Avance de proyecto hoy: una linea de MY STORY — "the strongest teammate I have had, and what I delegate to keep going."**
-2. Board — el molde oral (Grammar formaliza hoy M10+M11; aqui NO se enseña la tabla):
+2. Board — el molde oral (Grammar lo formalizo hoy a las 8:00 con M10+M11; aqui NO se re-enseña la tabla):
 ```
 DELEGATE (M10)          |  DESCRIBE (M11)
 I HAD the report SENT.  |  NOUN<->ADJ: strength/strong, talent/talented
@@ -60,38 +64,52 @@ active: make/let/help = no "to" | ask/tell/want = "to"
 1. **Ticket de salida (5', sentados):** 3-5 frases: 2 delegaciones (have/get + participio) + 2 descripciones (1 noun/adjective pair, 1 con prefijo o impersonal "It is..."). Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
-HOMEWORK CL 40 CONV — DUE Cl 41, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE a 10-line handover note about a real project:
-    3 delegations (have/get + thing + past participle),
-    3 noun/adjective pairs, 2 prefix/suffix words, 2 impersonal
-    "It is ... to/that ..." describing the person taking over.
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: describe the strongest
-    teammate you have and 3 things you would delegate. Label: B1-CONV-40.
-(3) Bring the paper to next class.
+HOMEWORK CONVERSATION CL 40 — ONE TASK ONLY: THE VIDEO.
+DUE: Cl 41, BEFORE 7:00 PM — that is, TODAY before 7:00 PM.
+TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
+LISTEN FIRST (5-10 min, BEFORE you record):
+Search on YouTube or a podcast app: "how to hand over a project".
+Pick a speaker whose accent is NOT your teacher's (Scottish, Irish,
+Indian, Australian, Nigerian, Texan, Jamaican...). Listen 2 minutes.
+Repeat 3 sentences out loud, imitating that accent.
+OPEN YOUR VIDEO with those 3 sentences. Then do your task.
+DAILY PORTFOLIO VIDEO No. 40 — 2-3 min, video of yourself speaking,
+straight through, NO reading. "MY HANDOVER": describe the strongest
+teammate you have (noun/adjective pairs, 1 prefix word, 1 "It is
+... to ...") and 3 real things you get done by others (have/get +
+thing + past participle). Close with the Phrase of the Day.
+Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-40.
 ```
+
+> **LISTEN FIRST es parte fija de la tarea:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de la proxima clase, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
+
+> **La tarea de hoy es SOLO el video** — la tarea escrita de este contenido ya la asigno el docente de Gramatica hoy a las 8:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Cl 41: everyone, someone, no one — and myself, by myself, each other. We close the B1 book and begin your final presentation."*
-5. **PASE a Grammar HOY** (fisico, antes del cambio de bloque):
+4. **Proxima clase:** *"Next class starts at eight o'clock with GRAMMAR Cl 41 and the other teacher: everyone, someone, no one — and myself, by myself, each other. We close the B1 book and begin your final presentation. Send your video TODAY."*
+5. **PASE al docente de GRAMATICA (Grammar Cl 41, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por el grupo de docentes:
 ```
-PASE Conv -> Grammar — Cl 40 (mismo dia)
+PASE Conv Cl 40 -> Grammar Cl 41
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones orales de hoy: (a) delegacion sin participio ("I had the report
 send"); (b) "made me to stay" ("to" con make/let/have/help); (c) noun por
 adjetivo ("she is intelligence"); (d) prefijo equivocado ("unpolite"),
 compound en plural ("3-years-old"), impersonal sin "it". Hoy delegaron y
-describieron personas reales. Tu bloque formaliza M10 (causative, p.117-126)
-+ M11 (advanced adjectives, p.127-144), doble.
+describieron personas reales, sobre M10+M11 que sellaste a las 8:00.
+FORTALEZA v2 CERRO hoy en las dos pistas. Tu Cl 41 abre M12 (advanced
+pronouns), cierra el libro B1 y abre SINTESIS: tu guia la nombra.
+TAREA: la escrita la dejaste tu esta manana; yo deje SOLO el video
+No. 40 (abre con LISTEN FIRST).
+Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + handover al frente) ☐ PASE entregado ☐ Conteo portafolio anotado
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + handover al frente) ☐ **Videos recibidos + UNA mejora dicha por video** ☐ PASE Grammar Cl 40 leido en el Bloque 1 ☐ PASE a Grammar Cl 41 dejado al cerrar a las 12:00 ☐ Foto de inicio enviada a las 10:00
 
 [PAGEBREAK]
 
 ## ANEXO — VERBATIM DEL LIBRO + PLAN B (no leer literal en clase)
 
-**Modulos ancla: B1 Book M10 "The Causative" (p.117-126) + M11 "Advanced Adjectives — Tell Me About It!" (p.127-144).** Conv los APLICA oralmente; Grammar los formaliza hoy.
+**Modulos ancla: B1 Book M10 "The Causative" (p.117-126) + M11 "Advanced Adjectives — Tell Me About It!" (p.127-144).** Grammar los formalizo hoy a las 8:00; Conv los APLICA oralmente a las 10:00.
 
 Reglas y ejemplos del libro (referencia):
 - **M10 Guide 1 (p.119) — active causative:** CON "to": ask/allow/get/tell/want/need. SIN "to": help/let/make/have. *"Most verbs use the infinitive... if the verb implies the main action has started, then we do not use the infinitive."* Libro p.120: *"I always help Sebastian finish his homework / You can't make me love you! / The teacher had the children sit on the floor."*
@@ -113,4 +131,6 @@ Reglas y ejemplos del libro (referencia):
 - Recuperacion: N-3 = Cl 37 = B1 M7 (Relative Pronouns + Embedded Questions — confirmado por coordinacion); N-7 = Cl 33 (ventana repaso A2). (SUPUESTO DE PLANEACIÓN — verificar ancla N-7 con la reescritura paralela de Cl 26-33.)
 - MY STORY vivo rumbo al Final Cl 44 (evaluador externo). Avance hoy: "the strongest teammate I have had, and what I delegate".
 - Virtud: FORTALEZA v2 dia 5 — el bloque CIERRA (calendario absoluto). Mañana Cl 41 abre SINTESIS.
+- **Orden real del dia (hoja de arranque 13/10/2026):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia · PASE Grammar Cl N -> Conv Cl N en papel a las 10:00 y Conv Cl N -> Grammar Cl N+1 al cerrar a las 12:00 · UN solo video diario (lo asigna Conversacion, abre con LISTEN FIRST; el chequeo con una mejora por video es de Conversacion a las 10:00) · tarea escrita de Grammar de 15-20 min (la mitad de items) · foto de inicio a la hora exacta al grupo de docentes.
+- `SUPUESTO DE PLANEACION — verificar` (anti-duplicado, fuera del alcance de este ajuste): Grammar Cl 40 corre tambien "THE HANDOVER BRIEFING" a las 8:00 con el mismo guion. Con el orden real, el grupo la hace dos veces el mismo dia; coordinacion decide si se rediseña el Bloque 3 de una de las dos pistas.
 - Profe sin material preparado: todo en tablero + papel del estudiante + su libro B1 (p.117-144).

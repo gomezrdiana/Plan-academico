@@ -1,19 +1,23 @@
-# B1 MASTERY — Cl 31/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 31/44 — CONV — HOJA DE RUTA
 
-**Sesion 31/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Sesion 31/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Focus (1 line):** Describe people and clothes fairly at work — what she's wearing, what he looks like, the right order of adjectives.
 **Virtud:** JUSTICIA v2 — dia 1 de 5 (ABRE bloque Cl 31-35)
 **Frase del Dia:** *"Justice sees each person clearly and describes them fairly: a tall young man, short curly hair, a dark blue jacket — the right words in the right order, nothing exaggerated."*
 
 > **REPASO COMPRIMIDO — ya lo vieron en A2. Ritmo rapido: 3 modulos, activar y producir. El libro B1 entra Cl 34.**
 
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos), el PASE que te entrega el docente de Gramatica a las 10:00 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+
 ---
 
-> **HOY SOLO USO ORAL DE: la descripcion hablada de personas y ropa — what she's wearing, what he looks like, adjetivos en orden. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los pronombres posesivos con whose y los adjetivos participio (tiring vs tired) — eso es de Cl 32.**
+> **HOY SOLO USO ORAL DE: la descripcion hablada de personas y ropa — what she's wearing, what he looks like, adjetivos en orden. NO EXPLICAR LA REGLA (ya la sello Gramatica hoy a las 8:00: no la repites). NO TOCAR AÚN: los pronombres posesivos con whose y los adjetivos participio (tiring vs tired) — eso es de Cl 32.**
 
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate comparatives and the passive, then aim at describing people and clothing.**
+
+**10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 28 y Cl 24); errores anonimos al board; 1 min re-produccion:
    - "Compare two tools: one 'as ... as' and one '-er / more ... than'." (Cl 28)
@@ -21,9 +25,9 @@
    - "Passive: 'The report is written', 'The plan is followed' — one true work line." (Cl 24)
    - "Fix it: 'The lunch is prepare by the team.'" (Cl 24)
    - "Chain: 'X is the best ___' + 'It is ___ (checked/sent) every day.'" (Cl 28/24)
-2. **Chequeo publico de portafolio (3'):** conteo en voz alta del audio de ayer; no-envios a tu cuaderno.
+2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar; el chequeo nombre por nombre es SOLO tuyo (Gramatica a las 8:00 solo recuerda el video). Marcas ENVIO o NO ENVIO y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real**. El video que no abre con sus 3 frases de LISTEN FIRST cuenta como incompleto. Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."*
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"'What do you look like?' asks the appearance; 'What are you wearing?' asks the clothes. Adjectives go BEFORE the noun, in order: size-age-color. That fair, clear description is Justice, day one."*
-4. **Revision tarea (3'):** las 12 lineas de cantidades/precios (de Cl 30) sobre la mesa; recoge. **PASE de Grammar (Cl 30)** leido: hoy giramos de medir cantidades a DESCRIBIR personas y ropa.
+4. **Lectura del PASE de Gramatica, en voz alta (3').** Lees los 3 errores escritos del papel que te entrego Gramatica a las 10:00: *"These came out of your writing this morning. Now they have to survive out loud."* Los gaps (a)-(b) del PASE son tus blancos de hoy.
 
 > [VIRTUD] Board: "JUSTICE — DAY 1". *"Justice sees each person as they are and names them fairly — not flattering, not cruel, just accurate. To describe honestly is the first act of justice."*
 
@@ -32,7 +36,7 @@
 **Objective: everyone describes a real person at work — clothing + appearance — with adjectives in the right order.**
 
 1. Meta en 1 linea (arriba). **Avance de proyecto hoy: una linea para MY STORY — "who I am now: a more confident person, wearing the role I earned."**
-2. Board — el molde oral (Grammar lo formaliza hoy mismo con M36-M38; aqui NO se enseña la regla):
+2. Board — el molde oral (Gramatica lo sello hoy a las 8:00 con M36-M38; aqui NO se re-explica la regla):
 ```
 DESCRIBING PEOPLE & CLOTHES AT WORK
 CLOTHES: "He is wearing a light blue shirt and dark grey pants."
@@ -61,42 +65,59 @@ ORDER:  size -> age -> shape -> color   ("a big black car", not "a black big car
 1. **Ticket de salida (5', sentados):** 3-5 frases describiendo a personas reales de su trabajo: ropa + apariencia, con adjetivos en orden. Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
-HOMEWORK CL 31 CONV — DUE Cl 32, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE "The people at my work" — 8 lines describing 3 real
-    people: what they wear + what they look like, with adjectives
-    in the right order (size-age-color). No names, use their role.
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: describe your
-    team or a client — clothes and appearance — fairly and
-    clearly. Label: B1-CONV-31. WhatsApp group.
-(3) Bring the paper to next class.
+HOMEWORK CL 31 CONV — ONE TASK ONLY: THE VIDEO.
+DUE: Cl 32, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
+TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
+LISTEN FIRST (5-10 min, BEFORE you record):
+Search on YouTube or a podcast app: "describe a person what does she look like".
+Pick a speaker whose accent is NOT your teacher's (Scottish, Irish,
+Indian, Australian, Nigerian, Texan, Jamaican...). Listen 2 minutes.
+Repeat 3 sentences out loud, imitating that accent.
+OPEN YOUR VIDEO with those 3 sentences. Then do your task.
+DAILY PORTFOLIO VIDEO No. 31 — MINIMUM 3 MINUTES, video of yourself
+speaking, straight through, NO reading, NO script on camera.
+Content: "THE PEOPLE AT MY WORK" — describe 2 or 3 real people
+(use their role, no names): what they wear + what they look like,
+with adjectives in the right order (size-age-color). Fair, nothing
+exaggerated.
+Close with the Phrase of the Day.
+Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-31.
+Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
+
+> **LISTEN FIRST es parte fija de la tarea:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de la proxima clase, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
+
+> **La tarea de hoy es SOLO el video** — la tarea escrita de estos modulos ya la asigno el docente de Gramatica hoy a las 8:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Cl 32: whose is it, and how do we feel — 'that's mine, this is hers', 'the meeting was tiring, I'm interested'. Justice, day 2. Evaluation questions go to coordination."*
-5. **PASE a Grammar HOY** (fisico, antes del cambio de bloque):
+4. **Proxima clase:** *"Next class starts at eight o'clock with GRAMMAR and the other teacher. Send your video TODAY. Cl 32: whose is it, and how do we feel — 'that's mine, this is hers', 'the meeting was tiring, I'm interested'. Justice, day 2. Evaluation questions go to coordination."*
+5. **PASE al docente de GRAMATICA (Grammar Cl 32, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por el grupo de docentes. No se pasa de palabra: la clase siguiente la abre otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv -> Grammar — Cl 31 (mismo dia)
+PASE Conv -> Grammar — Cl 31 -> Cl 32 (se deja HOY a las 12:00)
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones orales de hoy: (a) orden de adjetivos ("a black big
 jacket"); (b) "he is wear" (falta -ing en wearing); (c) "she has
 30 years" (edad con be); (d) adjetivo en plural ("blacks shoes").
-Hoy describieron personas y ropa reales. Tu bloque formaliza M36
-(ropa + colores + adj antes del sustantivo, p.301-305), M37
-(describir con be/have + like como preposicion, p.307-310) y M38
-(orden de adjetivos, p.313-315). Los gaps (a)-(b) son tus blancos.
+Videos que NO llegaron hoy: ____________. Yo deje SOLO el video
+No. 31 (abre con LISTEN FIRST); la tarea escrita es tuya.
+Tu Cl 32 abre M39 "Mine, All Mine!" — posesivos + "whose"
+(p.318-319) y M41 "This Is Interesting!" — participios -ed/-ing
+(p.326-328). M40 NO existe (salta 39->41). Cl 31 = JUSTICIA v2
+dia 1; Cl 32 = dia 2.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + front desk) ☐ PASE entregado ☐ Conteo portafolio anotado
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + front desk) ☐ PASE entregado ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Foto de inicio enviada a las 10:00
 
 ---
 
 ## NOTA INTERNA (no leer en clase)
 
 - **REPASO COMPRIMIDO Cl 26-33.** Hoy 3 modulos: A2 Book **M36 (p.301-306) + M37 (p.307-312) + M38 (p.313-317)** — familia DESCRIPCION. **El libro B1 entra Cl 34.**
-- Conv APLICA oral (describir personas/ropa); Grammar formaliza hoy mismo. NO enseñar la regla en Conv.
+- Conv APLICA oral (describir personas/ropa); Gramatica ya la sello en papel a las 8:00. NO re-enseñar la regla en Conv.
 - Recuperacion N-3 = Cl 28 (cluster comparativos M26-M28: as...as / -er-more than / superlativo, mapa comprimido); N-7 = Cl 24 (M18 passive voice, verificado en guia existente). (SUPUESTO — Cl 28 lo genera agente en paralelo; verificar.)
 - Virtud: JUSTICIA v2 dia 1 (calendario absoluto).
 - MY STORY vivo rumbo al Final Cl 44 (evaluador externo; ese dia no se genera guia).
 - Profe sin material preparado: todo en tablero + papel del estudiante.
 - **M35 NO existe** (salta M34 -> M36); **M40 NO existe** (salta M39 -> M41). Verificado.
+- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (B1 + B2 juntos), el MISMO dia. PASE Grammar Cl 31 -> Conv Cl 31 en papel a las 10:00; Conv Cl 31 -> Grammar Cl 32 al cerrar a las 12:00. UN solo video diario, el de Conversacion: el chequeo nombre por nombre con UNA mejora por video es de esta pista. La tarea de esta pista pasa a ser SOLO el video (antes llevaba ademas un papel y un audio): la escrita es de Gramatica. LISTEN FIRST abre el video (busqueda de hoy: "describe a person what does she look like"). Foto de inicio a las 10:00 al grupo de docentes.

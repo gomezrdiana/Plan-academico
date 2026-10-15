@@ -1,6 +1,6 @@
-# B1 MASTERY — Cl 31/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 31/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 31/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 31/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** REPASO COMPRIMIDO — A2 Book **M36 "What Are You Wearing?" (Guia 1 p.304; Vocab p.302-303) + M37 "What Do You Look Like?" (Guia 1 p.310) + M38 "Order of Adjectives" (Guia 1 p.314; Ejemplos p.315)**.
 **Focus (1 line):** Adjectives BEFORE the noun in order (size-age-shape-color), be/have to describe, wearing for clothes — locked on paper.
 **Virtud:** JUSTICIA v2 — dia 1 de 5 (ABRE bloque Cl 31-35)
@@ -9,11 +9,15 @@
 > **DE PIE: Bloques 1-3 completos (~95 de 110 min ≈ 86%; piso 70%). Solo Bloque 4 sentado.** Movimiento con contenido siempre.
 > **REPASO COMPRIMIDO — ya lo vieron en A2. 3 modulos hoy. El libro B1 entra Cl 34.**
 
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 30 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+
 ---
 
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: re-fire comparatives and the passive, then load descriptive adjectives.**
+
+**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 28 y Cl 24); errores anonimos al board; 1 min re-produccion:
    - "-er / more ... than: 'This is faster than that', 'It's more useful than...'." (Cl 28)
@@ -21,9 +25,9 @@
    - "Passive: 'The email is sent', 'The room is cleaned' — one true line." (Cl 24)
    - "Fix it: 'The plan is follow every week.'" (Cl 24)
    - "Chain: superlative 'the best ___' + passive 'it is ___ daily'." (Cl 28/24)
-2. **Chequeo publico de portafolio (3'):** conteo del audio de ayer; no-envios a tu cuaderno.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"A TALL YOUNG man — size before age. A DARK BLUE jacket — the first adjective modifies the second. Order is the rule today."*
-4. **Revision tarea (3'):** 12 lineas de cantidades/precios (M32-M34) sobre la mesa; recoge. **PASE de Conv (hoy)** leido: los gaps (a)-(b) son los blancos.
+4. **Revision tarea (3'):** las 6 lineas de cantidades/precios (M32-M34) sobre la mesa; recoge. **PASE de Conv (Cl 30, dejado al cierre de la clase anterior)** leido: los gaps (a)-(b) son los blancos.
 
 > [VIRTUD] Board: "JUSTICE — DAY 1". *"Justice names what it sees in the right order, without flattery or cruelty. A fair description is the first act of a just mind."*
 
@@ -69,33 +73,38 @@ M38 ORDER (Guia p.314): Cantidad > Opinion > Tamano > Edad > Forma >
 2. **Tarea (board):**
 ```
 HOMEWORK CL 31 GRAMMAR — DUE Cl 32, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE 12 lines describing 3 real people at your work: what
+TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+NOT fragmented.
+(1) WRITE 6 lines describing 2 real people at your work: what
     they wear + what they look like. Underline each adjective
     string and check the order (size-age-shape-color).
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: "The people I
-    work with" — describe two colleagues fairly, clothes and
-    appearance. Label: B1-GRAMMAR-31. WhatsApp group.
-(3) Bring the paper to next class.
-```
-3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Cl 32: whose is it — mine, yours, hers, theirs — and how things make us feel — tiring/tired, interesting/interested. Justice, day 2."*
-5. **PASE a Conv Cl 32** (fisico, antes de salir):
-```
-PASE Grammar -> Conv — Cl 31 -> Cl 32
-3 gaps frescos de hoy (literal, sin nombre aqui):
-1. ______________________  2. ______________________  3. ______________________
-Patrones bajo presion: (a) orden de adjetivos; (b) edad con "have"
-en vez de "be"; (c) adjetivo pluralizado; (d) "wear" sin -ing.
-Cerrado hoy: M36-M38 descripcion (ropa, be/have, orden de adj).
-Tu Cl 32 abre M39 "Mine, All Mine!" — pronombres posesivos +
-"whose" (p.318-319) y M41 "This Is Interesting!" — adjetivos con
-participio -ed/-ing (p.326-328). M40 NO existe (salta 39->41).
-Abre con "whose is this?" (objetos del equipo) y reacciones
-(tired/tiring). Cl 31 = JUSTICIA v2 dia 1; Cl 32 = dia 2.
+(2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
+    one CONVERSATION assigns today at 10:00. Send it TODAY to the
+    cohort WhatsApp group. Audio only by exception (max 2 a week).
+(3) Bring the paper to Grammar Cl 32.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 descripciones + ID description) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Conteo portafolio anotado
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+
+3. **Error paper** anonimo cerrado; nombres/citas al reporte.
+4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: today's rules, out loud, in a real work situation. Your video is assigned there."*
+5. **PASE al docente de CONVERSACION (Conv Cl 31, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No se pasa de palabra: el bloque siguiente lo dicta otra persona. Llenalo mientras el grupo escribe el ticket:
+```
+PASE Grammar -> Conv — Cl 31 (HOY, a las 10:00)
+3 gaps escritos de hoy (literal, sin nombre aqui):
+1. ______________________  2. ______________________  3. ______________________
+Patrones bajo presion en papel: (a) orden de adjetivos; (b) edad
+con "have" en vez de "be"; (c) adjetivo pluralizado; (d) "wear"
+sin -ing.
+SELLADO HOY EN PAPEL: M36-M38 descripcion (ropa, be/have, orden de
+adjetivos). Tu bloque lo USA oral: no vuelvas a explicar la regla.
+Los gaps (a)-(b) son tus blancos orales.
+TAREA QUE DEJE: 6 lineas escritas, due Cl 32 antes de las 7:00 PM.
+El video del dia lo asignas TU (abre con LISTEN FIRST).
+Virtud: JUSTICIA v2 dia 1 — abierta en mi pista.
+```
+
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 descripciones + ID description) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -121,3 +130,4 @@ M38 ORDER (p.316): "I have a small green English car." "Arianna has long
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: JUSTICIA v2 dia 1 (calendario absoluto).
 - **Siguiente sesion Grammar:** Cl 32 = **M39 (p.318-325) + M41 (p.326-332)** (M40 NO existe). JUSTICIA v2 dia 2.
+- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 31 -> Conv Cl 31 en papel a las 10:00; Conv Cl 31 -> Grammar Cl 32 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date. Tarea escrita a la mitad (15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes.

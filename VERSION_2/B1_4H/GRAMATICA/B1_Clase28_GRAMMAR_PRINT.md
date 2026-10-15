@@ -1,6 +1,6 @@
-# B1 MASTERY — Cl 28/44 — GRAMMAR (va SEGUNDO) — HOJA DE RUTA
+# B1 MASTERY — Cl 28/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 28/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 28/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Repaso comprimido A2 · Modulos de HOY: M26 (igual "as...as", p.241-246) + M27 (desigual "-er/more...than", p.247-252) + M28 (superlativo "the ...est/the most", p.253-260).** Familia COMPARACION. M25 NO existe. Ya vistos en A2 — hoy se CONSOLIDAN veloz, no se enseñan de cero.
 **Focus (1 line):** The full comparison at speed — as good as (equal), better than (unequal), the best of all (superlative).
 **Virtud:** TEMPLANZA v2 — dia 3 de 5
@@ -8,11 +8,15 @@
 
 > **DE PIE: Bloques 1-3 completos (~95 de 110 min ≈ 86%; piso 70%). Solo Bloque 4 sentado.** Movimiento con contenido siempre.
 
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 27 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+
 ---
 
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: re-fire the gerund-subject and present-perfect layers, then load the three comparison forms.**
+
+**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 25 = M20 y Cl 21 = M15); errores anonimos al board; 1 min re-produccion:
    - "Gerund in the subject's chair: 'Working here is...', 'Learning English has been...'" (Cl 25)
@@ -20,9 +24,9 @@
    - "have/has + regular participle: one affirmative, one negative, one question." (Cl 21)
    - "Fix it: 'He have worked here for years.'" (Cl 21)
    - "Open period vs specific time — one line each." (Cl 21/25)
-2. **Chequeo publico de portafolio (3'):** conteo del audio de ayer; no-envios a tu cuaderno.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"As good AS (equal), betteR THAN (unequal), THE best (superlative) — three ways to compare fairly. That's today."*
-4. **Revision tarea (3'):** 10 lineas phrasal mixtas (M23+M24, Cl 27 Grammar) sobre la mesa; recoge. **PASE de Conv (hoy)** leido: los gaps (a)-(c) son los blancos.
+4. **Revision tarea (3'):** 6 lineas phrasal mixtas (M23+M24, Cl 27 Grammar) sobre la mesa; recoge. **PASE de Conv Cl 27 (dejado al cierre de las 12:00)** leido en voz alta: sus 3 errores literales entran a la recuperacion.
 
 > [VIRTUD] Board: "TEMPERANCE — DAY 3". *"Temperance compares without boasting: it can say 'as good as', 'better than', and even 'the best' — with a calm, fair measure."*
 
@@ -79,36 +83,39 @@ Cada activacion: coro 2x + cada estudiante 1 frase real de trabajo con esa forma
 2. **Tarea (board):**
 ```
 HOMEWORK CL 28 GRAMMAR — DUE Cl 29, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE 12 sentences comparing real things at work: 4 equal
-    (as ... as / not as ... as), 4 unequal (...-er/more ... than,
-    incl. 1 better + 1 worse), 4 superlative (the ...est/the most,
+TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
+NOT fragmented.
+(1) WRITE 6 sentences comparing real things at work: 2 equal
+    (as ... as / not as ... as), 2 unequal (...-er/more ... than,
+    incl. 1 better or worse), 2 superlative (the ...est/the most,
     incl. 1 the best). Underline the comparison words.
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: "Comparing my
-    tools and options at work" — use all three forms.
-    Label: B1-GRAMMAR-28. WhatsApp group.
-(3) Bring the paper to next class.
+(2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
+    one CONVERSATION assigns today at 10:00. Send it TODAY to the
+    cohort WhatsApp group. Audio only by exception (max 2 a week).
+(3) Bring the paper to Grammar Cl 29.
 ```
+
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Cl 29: how much and how far — 'How hard is it? It's pretty hard. It's good enough, not too much.' Degrees and so/too/enough. Still Temperance, day 4."*
-5. **PASE a Conv Cl 29** (fisico, antes de salir):
+4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: comparing your real options at work, fairly — as good as, better than, the best. Your video is assigned there."*
+5. **PASE al docente de CONVERSACION (Conv Cl 28, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No se pasa de palabra: el bloque siguiente lo dicta otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
-PASE Grammar -> Conv — Cl 28 -> Cl 29
+PASE Grammar -> Conv — Cl 28 (HOY, a las 10:00)
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones bajo presion: (a) "as good than" (deberia "as good as");
 (b) "more better" / doble comparativo; (c) "more easy" (deberia
 "easier"); (d) "the most fast" (deberia "the fastest"); (e)
 irregulares "gooder/bestest".
-Cerrado hoy (repaso comprimido): M26 igual + M27 desigual + M28
-superlativo. Tu Cl 29 comprime M29 + M30 = GRADOS E INTENSIDAD:
-preguntar con "how + adjetivo" y responder con really/very/kinda/
-sorta/pretty/not very (M29), y "enough" pospuesto + "so"/"too"
-(M30). Abre con "how hard/good/busy is your job?" y respuestas
-reales. Cl 29 = TEMPLANZA v2 dia 4.
+SELLADO HOY EN PAPEL: repaso comprimido M26 (igual) + M27 (desigual) +
+M28 (superlativo).
+Tu Conv Cl 28 lo USA oral: no vuelvas a explicar la regla.
+TAREA QUE DEJE: 6 lineas escritas, due Cl 29 antes de las 7:00 PM.
+El video del dia lo asignas TU (abre con LISTEN FIRST).
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 comparaciones + options review) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Conteo portafolio anotado
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 comparaciones + options review) ☐ PASE entregado a Conv a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
 
 [PAGEBREAK]
 
@@ -134,3 +141,4 @@ reales. Cl 29 = TEMPLANZA v2 dia 4.
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: TEMPLANZA v2 dia 3 (calendario absoluto).
 - Proxima Grammar = Cl 29 comprime M29 + M30 (grados + so/too/enough; M31 NO existe). El LIBRO B1 entra en Cl 34.
+- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 28 -> Conv Cl 28 en papel a las 10:00; Conv Cl 28 -> Grammar Cl 29 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date (su antiguo audio de portafolio sale). Tarea escrita a la mitad (6 frases; 15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, reglas citadas, simulacion, virtud) intacto.

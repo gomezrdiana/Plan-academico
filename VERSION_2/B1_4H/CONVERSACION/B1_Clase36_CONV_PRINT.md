@@ -1,26 +1,30 @@
-# B1 MASTERY — Cl 36/44 — CONV (va PRIMERO) — HOJA DE RUTA
+# B1 MASTERY — Cl 36/44 — CONV — HOJA DE RUTA
 
-**Sesion 36/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Sesion 36/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Focus (1 line):** Own regret without breaking (could/should have) and explain a setback you pushed through (because / so / but / even though).
 **Virtud:** FORTALEZA v2 — dia 1 de 5 (ABRE el bloque Cl 36-40)
 **Frase del Dia:** *"Fortitude owns the past and pushes on: I should have prepared more, but because I keep going, I grow — even though it was hard, I did not quit."*
 
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos), tu libro B1, el PASE que te entrega el docente de Gramatica a las 10:00 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+
 ---
 
-> **HOY SOLO USO ORAL DE: asumir hablando el arrepentimiento (could have / should have) y explicar un contratiempo superado con because / so / but / even though. NO EXPLICAR LA REGLA (eso es del bloque de Grammar de hoy). NO TOCAR AÚN: los pronombres relativos (who / which / that) y las preguntas incrustadas — eso es de Cl 37.**
+> **HOY SOLO USO ORAL DE: asumir hablando el arrepentimiento (could have / should have) y explicar un contratiempo superado con because / so / but / even though. NO EXPLICAR LA REGLA (ya la sello Gramatica hoy a las 8:00: no la repites). NO TOCAR AÚN: los pronombres relativos (who / which / that) y las preguntas incrustadas — eso es de Cl 37.**
 
 ## BLOQUE 1 — APERTURA (20')
 
 **Objective: reactivate causative/adverbs + a phrasal verb, then aim perfect modals + connectors.**
+
+**10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores; errores anonimos al board; 1 min re-produccion:
    - "Causative + one manner adverb: 'I had the report checked carefully.'" (Cl 33 — GET/causative/adverbs)
    - "Fix it: 'I did cut my hair' (causative)." (Cl 33)
    - "One phrasal verb about your workday." (Cl 29 — phrasal verbs)
    - "Deduce it: 'The office is dark. He ___ have left.'" (Cl 35 bridge — deduction)
-2. **Chequeo publico de portafolio (3'):** conteo en voz alta del audio de ayer; no-envios a tu cuaderno.
+2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar; el chequeo nombre por nombre es SOLO tuyo (Gramatica a las 8:00 solo recuerda el video). Marcas ENVIO o NO ENVIO y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real**. El video que no abre con sus 3 frases de LISTEN FIRST cuenta como incompleto. Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."*
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"'should have' owns the past; 'but / even though' names the fight you won. To face regret and keep going is Fortitude — and it opens today."*
-4. **Revision tarea (3'):** "The fair judgment" (Cl 35, deduction + 3rd conditional) sobre la mesa; recoge. **PASE de Grammar (Cl 35)** leido: hoy M5 + M6.
+4. **Lectura del PASE de Gramatica, en voz alta (3').** Lees los 3 errores escritos del papel que te entrego Gramatica a las 10:00: *"These came out of your writing this morning. Now they have to survive out loud."* Los gaps (a)-(b) del PASE son tus blancos de hoy.
 
 > [VIRTUD] Board: "FORTITUDE — DAY 1, OPENING". *"Justice closed last class. Today opens Fortitude — strength. To say 'I should have' without breaking, and 'even though it was hard, I continued' — that is a strong mind."*
 
@@ -30,7 +34,7 @@
 
 1. Meta en 1 linea: *"By the end of this block, everyone has named a real regret with 'should/could have' AND the strong step they take next."*
 2. **Avance MY STORY (2'):** una linea — *"I could have given up, I should have rested — but I kept going."* (the strength that defines my growth).
-3. Board — el molde oral (Grammar formaliza M5 hoy; verbatim en anexo):
+3. Board — el molde oral (Gramatica sello M5 hoy a las 8:00; verbatim en anexo):
 ```
 FACING REGRET WITH STRENGTH (B1 Book M5, p.43/47)
 "I should have prepared more."   (recommendation, past)
@@ -58,22 +62,36 @@ FACING REGRET WITH STRENGTH (B1 Book M5, p.43/47)
 1. **Ticket de salida (5', sentados):** 3-5 frases sobre SU trabajo: minimo 2 con could/should have + 2 con conector (1 de causa, 1 de contraste). Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
-HOMEWORK CL 36 CONV — DUE Cl 37, BEFORE 7:00 PM
-TIME: 30-45 min (B1). NOT fragmented.
-(1) WRITE "The setback I beat" — 8 lines: 3 with should/could
-    have (own the regret) + 5 explaining how you pushed through
-    with connectors (because, because of, so, but, even though,
-    despite — use at least 4 different ones).
-(2) PORTFOLIO audio (daily) — 2 min, eyes closed: tell one
-    real work setback and how you overcame it, with 4+
-    connectors. Label: B1-CONV-36. WhatsApp group.
-(3) Bring the paper and YOUR B1 book to next class.
+HOMEWORK CL 36 CONV — ONE TASK ONLY: THE VIDEO.
+DUE: Cl 37, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
+TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
+LISTEN FIRST (5-10 min, BEFORE you record):
+Search on YouTube or a podcast app: "how I overcame a setback at work".
+Pick a speaker whose accent is NOT your teacher's (Scottish, Irish,
+Indian, Australian, Nigerian, Texan, Jamaican...). Listen 2 minutes.
+Repeat 3 sentences out loud, imitating that accent.
+OPEN YOUR VIDEO with those 3 sentences. Then do your task.
+DAILY PORTFOLIO VIDEO No. 36 — MINIMUM 3 MINUTES, video of yourself
+speaking, straight through, NO reading, NO script on camera.
+Content: "THE SETBACK I BEAT" — one real work setback: own the
+regret (should have / could have), then tell how you pushed through
+with at least 4 connectors (because, because of, so, but, even
+though, despite).
+Close with the Phrase of the Day.
+Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-36.
+Audio only by exception (max 2 a week): the rule is VIDEO.
+Bring YOUR B1 book to every class.
 ```
+
+> **LISTEN FIRST es parte fija de la tarea:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de la proxima clase, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
+
+> **La tarea de hoy es SOLO el video** — la tarea escrita de estos modulos ya la asigno el docente de Gramatica hoy a las 8:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Cl 37: B1 book M7 Relative Pronouns & Embedded Questions. Fortitude continues, day 2. Evaluation questions go to coordination."*
-5. **PASE a Grammar HOY** (fisico, antes del cambio de bloque):
+4. **Proxima clase:** *"Next class starts at eight o'clock with GRAMMAR and the other teacher. Send your video TODAY. Cl 37: B1 book M7 Relative Pronouns & Embedded Questions. Fortitude continues, day 2. Evaluation questions go to coordination."*
+5. **PASE al docente de GRAMATICA (Grammar Cl 37, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por el grupo de docentes. No se pasa de palabra: la clase siguiente la abre otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv -> Grammar — Cl 36 (mismo dia)
+PASE Conv -> Grammar — Cl 36 -> Cl 37 (se deja HOY a las 12:00)
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones orales de hoy: (a) "should of / could of" por "should
@@ -81,9 +99,13 @@ have"; (b) "because" + sustantivo (falta "because of"); (c)
 "although ... but" (doble conector); (d) "despite of". Hoy
 convirtieron regret en fuerza y explicaron contratiempos
 superados. Tu bloque formaliza M5 (p.43-49) y M6 (p.53-60).
+Videos que NO llegaron hoy: ____________. Yo deje SOLO el video
+No. 36 (abre con LISTEN FIRST); la tarea escrita es tuya.
+Tu Cl 37 abre M7 Relative Pronouns & Embedded Questions
+(p.63-81). Cl 36 = FORTALEZA v2 dia 1; Cl 37 = dia 2.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board regrets + resilience debrief) ☐ PASE entregado ☐ Conteo portafolio anotado
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board regrets + resilience debrief) ☐ PASE entregado ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Foto de inicio enviada a las 10:00
 
 [PAGEBREAK]
 
@@ -110,3 +132,4 @@ Ejemplos p.54/58: *"Because of the winter, we will stay in the house."* · *"Sin
 - Virtud: FORTALEZA v2 dia 1 ABRE hoy (calendario absoluto). Cl 37 = dia 2.
 - MY STORY vivo rumbo al Final Cl 44 (evaluador externo).
 - Profe sin material preparado: todo en tablero + libro + papel del estudiante.
+- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (B1 + B2 juntos), el MISMO dia. PASE Grammar Cl 36 -> Conv Cl 36 en papel a las 10:00; Conv Cl 36 -> Grammar Cl 37 al cerrar a las 12:00. UN solo video diario, el de Conversacion: el chequeo nombre por nombre con UNA mejora por video es de esta pista. La tarea de esta pista pasa a ser SOLO el video (antes llevaba ademas un papel y un audio): la escrita es de Gramatica. LISTEN FIRST abre el video (busqueda de hoy: "how I overcame a setback at work"). Foto de inicio a las 10:00 al grupo de docentes.
