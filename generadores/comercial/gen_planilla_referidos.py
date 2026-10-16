@@ -113,7 +113,7 @@ filas5 = [('Registrados', '=COUNTA(REFERIDOS!D3:D302)'),
           ('Matrículas con inicial', '=COUNTA(REFERIDOS!S3:S302)'),
           ('Bonos por pagar (clase 5 sin bono pagado)', '=COUNTIF(REFERIDOS!P3:P302,"Clase 5")'),
           ('Cerrados / NO', '=COUNTIF(REFERIDOS!P3:P302,"Cerrado")+COUNTIF(REFERIDOS!M3:M302,"NO")'),
-          ('Días promedio registro → cita', '=IFERROR(AVERAGE(IF(REFERIDOS!R3:R302<>"",REFERIDOS!R3:R302-REFERIDOS!B3:B302)),"")')]
+          ('Días promedio registro → cita', '=IFERROR(SUMPRODUCT((REFERIDOS!R3:R302<>"")*(REFERIDOS!R3:R302-REFERIDOS!B3:B302))/COUNTA(REFERIDOS!R3:R302),"")')]
 for k, (lab, f) in enumerate(filas5, start=3):
     ws.cell(row=k, column=7, value=lab).font = B; ws.cell(row=k, column=7).border = borde; ws.cell(row=k, column=7).fill = GRIS
     c = ws.cell(row=k, column=8, value=f); c.border = borde; c.font = N
