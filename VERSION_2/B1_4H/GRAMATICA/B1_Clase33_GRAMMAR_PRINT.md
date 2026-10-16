@@ -65,7 +65,7 @@ M44 CAUSATIVE (Guia p.347-348) - ULTIMO MODULO:
 
 1. **Cadena de conversion (12', circulo, DE PIE):** tu cantas un elemento ("the client / angry" · "work / careful" · "the team / send it") -> estudiante 1 lo arma (get / adverbio / "I want the team to send it"), 2 encadena otro, 3 lanza el siguiente. Velocidad creciente; ultimo giro: solo situaciones reales de SU trabajo.
 2. **The debrief & delegation (18'):** escenario profesional realista: cierre de semana; el lider reporta cambios, como se hizo el trabajo y delega. **1 guest = el lider** con el molde (*"The launch got complicated, but we handled it calmly and finished well. Next week I want you to review the numbers carefully, and I need Marketing to send the copy early."*); otro estudiante rota como quien reporta y recibe la tarea (*"I got behind, but I worked hard. I want you to check my part."*); el resto = **OBSERVERS ACTIVOS** (2 errores, 1 acierto, 1 pregunta). Tu = COACH afuera, nunca guest. 3 rotaciones.
-3. **Cierre JUSTICIA + HITO (5'):** *"Justice day three — one thing you got better at, one thing you did well this term."* — 2 respuestas maximo. Luego, sobrio, al grupo: *"This finishes the A2 book — every module is complete. Next class you open a new book: YOUR book, the B1 book, Module 1. Same standard, new level."* (Sin fiesta ni materiales — es un hito verbal.)
+3. **Cierre JUSTICIA + HITO (5'):** *"Justice day three — one thing you got better at, one thing you did well this term."* — 2 respuestas maximo. Luego, sobrio, al grupo: *"This finishes the A2 book — every module is complete. Next class you open a new book: YOUR book, the B1 book, Module 1. Same standard, new level. Bring it tomorrow and every day from now on."* (Sin fiesta ni materiales — es un hito verbal.)
 
 ## BLOQUE 4 — CIERRE (15') — SENTADOS
 
@@ -82,7 +82,8 @@ NOT fragmented.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
     one CONVERSATION assigns today at 10:00. Send it TODAY to the
     cohort WhatsApp group. Audio only by exception (max 2 a week).
-(3) Bring the paper to Grammar Cl 34.
+(3) Bring the paper AND YOUR B1 BOOK to Grammar Cl 34. From Cl 34
+    the B1 book comes to EVERY class, both tracks.
 ```
 
 > **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
@@ -134,3 +135,4 @@ M44 CAUSATIVE (p.348): "I want you to get a job." "You need me to buy a car."
 - Virtud: JUSTICIA v2 dia 3 (calendario absoluto).
 - **FRONTERA DE SALIDA:** Cl 34 abre el **libro B1, Module 1** (libro propio del estudiante). Los agentes del libro B1 asumen: tarea escrita Cl 33 = 5 frases (2 GET + 2 adverbio + 1 causativo) sobre la semana real, DUE Cl 34 7:00 PM (el video del dia es de Conversacion); con el orden real, el PASE que llega a Grammar Cl 34 es el de Conv Cl 33 (12:00), con los gaps orales del cierre A2.
 - **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 33 -> Conv Cl 33 en papel a las 10:00; Conv Cl 33 -> Grammar Cl 34 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date. Tarea escrita a la mitad (15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes.
+- **Libro B1 (entrega):** el estudiante debe tener su libro B1 en la mano ANTES de la Cl 34 (8:00, Gramatica abre Module 1). La entrega del libro la hace coordinacion, no el docente, a mas tardar al cierre de esta Cl 33; el docente solo recuerda traerlo (tarea punto 3 y cierre). Cl 1-33 no requieren libro del estudiante: todo A1/A2 se dicta desde el tablero.

@@ -81,6 +81,7 @@ thing you want a teammate to do ("I want you to ___").
 Close with the Phrase of the Day.
 Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-33.
 Audio only by exception (max 2 a week): the rule is VIDEO.
+REMINDER (not a task): bring YOUR B1 BOOK from Cl 34, every class.
 ```
 
 > **LISTEN FIRST es parte fija de la tarea:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de la proxima clase, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
@@ -88,7 +89,7 @@ Audio only by exception (max 2 a week): the rule is VIDEO.
 > **La tarea de hoy es SOLO el video** — la tarea escrita de estos modulos ya la asigno el docente de Gramatica hoy a las 8:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Proxima clase:** *"Next class starts at eight o'clock with GRAMMAR and the other teacher. Send your video TODAY. Cl 34: we open the B1 book — Module 1. The A2 book is complete; your book begins. Justice continues, day 4. Evaluation questions go to coordination."*
+4. **Proxima clase:** *"Next class starts at eight o'clock with GRAMMAR and the other teacher. Send your video TODAY. Cl 34: we open the B1 book — Module 1. The A2 book is complete; your book begins. Bring YOUR B1 book from tomorrow, every class. Justice continues, day 4. Evaluation questions go to coordination."*
 5. **PASE al docente de GRAMATICA (Grammar Cl 34, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por el grupo de docentes. No se pasa de palabra: la clase siguiente la abre otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
 PASE Conv -> Grammar — Cl 33 -> Cl 34 (se deja HOY a las 12:00)
@@ -119,3 +120,4 @@ Cl 33 = JUSTICIA v2 dia 3; Cl 34 = dia 4.
 - Profe sin material preparado: todo en tablero + papel del estudiante.
 - **M40 NO existe** (salta M39 -> M41). Verificado. Frontera de salida: Cl 34 abre el libro B1, Modulo 1.
 - **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (B1 + B2 juntos), el MISMO dia. PASE Grammar Cl 33 -> Conv Cl 33 en papel a las 10:00; Conv Cl 33 -> Grammar Cl 34 al cerrar a las 12:00. UN solo video diario, el de Conversacion: el chequeo nombre por nombre con UNA mejora por video es de esta pista. La tarea de esta pista pasa a ser SOLO el video (antes llevaba ademas un papel y un audio): la escrita es de Gramatica. LISTEN FIRST abre el video (busqueda de hoy: "how my week went at work"). Foto de inicio a las 10:00 al grupo de docentes.
+- **Libro B1 (entrega):** el estudiante debe tener su libro B1 ANTES de la Cl 34 (Gramatica 8:00 abre Module 1). La entrega la hace coordinacion, no el docente, a mas tardar al cierre de esta Cl 33 (12:00); el docente solo lo recuerda en el anuncio de proxima clase y en el tablero de tarea. Cl 1-33 no requieren libro del estudiante.
