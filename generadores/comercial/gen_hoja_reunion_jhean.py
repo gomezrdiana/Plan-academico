@@ -115,6 +115,6 @@ sec('Después de la reunión: 5 líneas a Carlos')
 t('1) Tiresia: ciclo, quién firmaba y cuánto entró a caja; cuadra con "$600M": sí / no.  2) Aprende Institute y fotografía: explicación con fechas: sí / no; tiempo completo: sí / no.  3) Heiiu en vivo: su embudo se acerca a 6-7 cupos / 2-3 empresas / 12 reuniones / 40 contactos: sí / no.  4) Las cinco empresas con persona para el lunes: sí / no.  5) Tomó el reto: sí / no, y tu veto en una frase.', size=9.5)
 t('Orden: hoy el reto por escrito → sábado llamada a Francy Ferro → lunes 8:00 inducción → martes o miércoles Carlos le hace las 5 preguntas (ya con datos reales del reto) → 3/11 corte → 4/11 contrato o fin.', size=9.5, bold=True, after=0)
 
-out = BASE + r'\HOJA_LLAMADA_JHEAN_TIRESIA.docx'
+out = BASE + r'\Jhean Cardenas\HOJA_LLAMADA_JHEAN_TIRESIA.docx'
 try: doc.save(out); print('OK', out)
 except PermissionError: doc.save(out.replace('.docx', '_v2.docx')); print('ABIERTO -> _v2')

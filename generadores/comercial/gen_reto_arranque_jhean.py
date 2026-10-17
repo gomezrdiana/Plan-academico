@@ -101,6 +101,6 @@ t('Información de Heiiu (precios, materiales, bases) confidencial y solo para e
 
 t('Confirmas respondiendo "acepto" a este mensaje hoy. Con eso te enviamos el formato y el mensaje de contacto para que arranques mañana.', size=10.5, bold=True, after=0)
 
-out = BASE + r'\RETO_ARRANQUE_15_DIAS_JHEAN.docx'
+out = BASE + r'\Jhean Cardenas\RETO_ARRANQUE_15_DIAS_JHEAN.docx'
 try: doc.save(out); print('OK', out)
 except PermissionError: doc.save(out.replace('.docx', '_v2.docx')); print('ABIERTO -> _v2')
