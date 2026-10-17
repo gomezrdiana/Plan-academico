@@ -184,25 +184,25 @@ sec('6. Hoja de precios de la charla')
 tabla(['Opción', 'Para quién', 'Valor', 'Cómo se paga'], [
  ('1. Tu empresa paga tu cupo (Plan Empresa)', 'Solo si la empresa firmó la Orden Plan Empresa', 'Programa completo A1 a B2 por cupo: $4.782.800 (3 a 7 cupos) · $4.350.000 (8 a 15) · $3.950.000 (16 a 30)', 'Lo paga la empresa contra factura: de contado, o inicial (30% en el tramo de 3 a 7; 40% de 8 en adelante) y 3 cuotas mensuales. Copago posible. La empresa escoge a quién le da cada cupo y puede cambiar a la persona antes de la primera clase, siempre que no cambie de horario; después de iniciar, no.'),
  ('2. Pagas tú, con la beca de la alianza', 'Todo colaborador con carta de su empresa aliada', 'Completo A1 a B2 (lista $8.696.000): **$4.782.800 de contado** · **$5.565.440 a cuotas**', 'Contado: transferencia a la cuenta de Heiiu o tarjeta; crédito de banco o cooperativa y cesantías también cuentan como contado. Cuotas: inicial mínima del 20% ($1.113.088) y cuotas mensuales al 1,9%; firmas pagaré. La cuota exacta la da coordinación con el motor de cuotas, nunca de memoria.'),
- ('3. Arranque A1+A2', 'Solo si el completo no le alcanza', '$2.990.000, precio único, sin beca. 200 horas, dos niveles certificados y Módulo de Graduación', 'Contado. Arranque a cuotas: ' + SUP + '.'),
+ ('3. Arranque A1+A2', 'Solo si el completo no le alcanza', '$2.990.000, precio único, sin beca. 200 horas, dos niveles certificados y Módulo de Graduación', 'Contado o máximo dos pagos: la mitad al inscribirse y la otra mitad antes de la primera clase; no hay más cuotas.'),
 ], [3.4, 3.2, 4.9, 6.5], size=8.5)
 bullets([
  '**Becas con el nombre de la empresa** (las 3 que la empresa elige por trimestre): pagan $4.782.800 aunque vayan a cuotas, con libros y prioridad de cupo. Nunca se suman dos becas: se aplica la mejor.',
- '**Ya sabe algo de inglés:** el valor de los paquetes parciales (A2 a B2, B1 a B2, solo B2) para aliados: ' + SUP + '. El nivel lo define la academia en la sesión de ubicación.',
+ '**Ya sabe algo de inglés:** puede entrar a un grupo que ya va andando, pero eso lo define y lo cotiza gerencia, caso por caso; tú lo agendas, no lo cierras. El foco del reto es la gente que empieza de cero: es lo más fácil de cerrar y lo que abre el grupo del 3 de noviembre.',
  '**Todo entra a Heiiu:** transferencia a la cuenta de Heiiu o tarjeta. Si el estudiante paga en efectivo, el efectivo llega a la sede ese mismo día y coordinación expide el recibo. Tú nunca te quedas con dinero.',
- '**Número de la cuenta de Heiiu** para dar en la charla: ' + SUP + ' el lunes 20 (no lo escribas de memoria).'], size=9)
+ '**Número de la cuenta de Heiiu** para dar en la charla: te lo entrega gerencia en la inducción del lunes 20. No lo escribas de memoria.'], size=9)
 
 # ---------------------------------------------------------------- 7
 sec('7. Proceso de inscripción paso a paso')
 tabla(['Paso', 'Qué pasa', 'Quién'], [
  ('1. Interesado', 'Queda en la hoja de la charla y ese mismo día en la planilla (hoja INTERESADOS).', 'Ejecutivo'),
- ('2. Cierre', 'Lo haces tú, en la charla o en el seguimiento (llamada o en la sede), en unos 20 minutos. Orden: motivo, para quién y quién decide, nivel, jornada, El Pacto, forma de pago; solo entonces el número exacto. "Ya sé algo": sesión de ubicación; quién la hace y cuándo: ' + SUP + '.', 'Ejecutivo'),
+ ('2. Cierre', 'Lo haces tú, en la charla o en el seguimiento (llamada o en la sede), en unos 20 minutos. Orden: motivo, para quién y quién decide, nivel, jornada, El Pacto, forma de pago; solo entonces el número exacto. "Ya sé algo": la sesión de ubicación se coordina con la academia para el día siguiente, sin excepción; tú la agendas en el acto y gerencia define en qué grupo entra.', 'Ejecutivo'),
  ('3. Inicial pagada', 'Transferencia a la cuenta de Heiiu o tarjeta, con pantallazo del comprobante (la cédula se presenta en la sede, no se envía por chat); efectivo, a la sede el mismo día con recibo de coordinación. Para entrar el 3 de noviembre, pagada antes de esa fecha. Coordinación recibe y verifica el pago.', 'Estudiante · coordinación'),
  ('4. Contrato y pagaré', 'Tú llevas o envías al estudiante a la sede. Allí, en físico: contrato de matrícula, anexo de garantía y pagaré si va a cuotas (si requiere codeudor se define ahí). Menor de 18: firma el acudiente.', 'Coordinación'),
  ('5. Cupo', 'Grupo del 3 o del 9 de noviembre; el horario lo definen los primeros matriculados (empresa con 8 o más: su propio horario). Plan Empresa: la orden la firma gerencia y la empresa designa a sus colaboradores; puede cambiar a la persona antes de la primera clase sin cambiar de horario.', 'Coordinación · gerencia'),
 ], [3.0, 12.0, 3.0], size=8.5)
 caja(['**Qué cuenta como "inscrito pagado" para el reto:** la inicial (o el pago de contado) **en la cuenta de Heiiu, verificada por coordinación,** a más tardar el martes 3 de noviembre a las 6:00 p. m. En Plan Empresa, cada cupo cuenta cuando entra el pago inicial de la empresa por ese cupo.',
-      '**No cuenta:** una promesa de pago, un pantallazo sin verificar, dinero que alguien te entregue a ti. Si el abono de separación de $300.000 cuenta como inicial para el reto: ' + SUP + '.'], size=9)
+      '**No cuenta:** una promesa de pago, un pantallazo sin verificar, dinero que alguien te entregue a ti. El abono de separación de $300.000 NO cuenta: solo la inicial del 20% o el pago de contado.'], size=9)
 
 # ---------------------------------------------------------------- 8
 sec('8. Objeciones frecuentes: la respuesta corta')
@@ -244,12 +244,12 @@ tabla(['Fecha', 'Qué tiene que estar hecho'], [
 sub('Qué llevas en la maleta')
 tabla(['Archivo (en recursos/comercial/B2B/)', 'Para qué', 'Ojo'], [
  ('CONVENIO_HEIIU_BUSINESS_PARTNER_v1.pdf', 'Lo firma la empresa en el modelo A', 'Firma por Heiiu el representante legal (gerencia).'),
- ('ORDEN_PLAN_EMPRESA_v1.pdf', 'Lo firma la empresa en el modelo B', 'Queda en firme con firma de gerencia y pago inicial. El cambio de persona vale hasta antes de la primera clase (gerencia), aunque el numeral 3 diga otra cosa.'),
+ ('ORDEN_PLAN_EMPRESA_v1.pdf', 'Lo firma la empresa en el modelo B', 'Queda en firme con firma de gerencia y pago inicial. La empresa puede cambiar a la persona solo antes del inicio y sin cambiar de horario.'),
  ('COMPARATIVO_BENEFICIO_ALIANZA.pdf', 'Tu referencia de las dos ofertas en pesos', 'Es para ti: no se entrega (trae columnas internas).'),
  ('CARTA_BUSINESS_PARTNER_v3.pdf', 'Carta de invitación a la empresa', 'Trae fecha de septiembre y una regla vieja de beca: no se entrega hasta que gerencia la actualice.'),
  ('PROPUESTA_B2B_EMPRESAS.pdf', 'Propuesta de julio', 'Trae menú, profesor nativo y modalidad virtual que ya no aplican: no se entrega ni se lee hasta que gerencia la actualice.'),
 ], [6.2, 5.4, 6.4], size=8.5)
-t('Además: este kit, la planilla en el celular, 10 hojas INTERESADOS impresas y la carta de postulación de la empresa para cada colaborador (modelo: ' + SUP + '). Transporte y celular son tuyos.', size=9)
+t('Además: este kit, la planilla en el celular, 10 hojas INTERESADOS impresas y la carta de postulación de la empresa para cada colaborador (modelo: CARTA_POSTULACION_EMPRESA_ALIADA.pdf, en B2B/). Transporte y celular son tuyos.', size=9)
 
 out = BASE + r'\KIT_ARRANQUE_RETO_15_DIAS_ALIANZAS.docx'
 try:
