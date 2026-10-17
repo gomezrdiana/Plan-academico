@@ -13,19 +13,19 @@ NAR = RGBColor(0xE5, 0x4C, 0x09); GRIS = RGBColor(0x66, 0x66, 0x66)
 BASE = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\LINKEDIN DIANA GOMEZ\Candidatos'
 doc = Document()
 for s in doc.sections:
-    s.top_margin = Cm(0.8); s.bottom_margin = Cm(0.6); s.left_margin = Cm(1.5); s.right_margin = Cm(1.5)
-doc.styles['Normal'].font.name = 'Calibri'; doc.styles['Normal'].font.size = Pt(9)
+    s.top_margin = Cm(0.7); s.bottom_margin = Cm(0.5); s.left_margin = Cm(1.5); s.right_margin = Cm(1.5)
+doc.styles['Normal'].font.name = 'Calibri'; doc.styles['Normal'].font.size = Pt(8.5)
 def shd(cell, color):
     tcPr = cell._tc.get_or_add_tcPr(); el = OxmlElement('w:shd')
     el.set(qn('w:val'), 'clear'); el.set(qn('w:color'), 'auto'); el.set(qn('w:fill'), color); tcPr.append(el)
 def sec(txt):
     p = doc.add_paragraph(); p.paragraph_format.space_before = Pt(3); p.paragraph_format.space_after = Pt(0)
     r = p.add_run(txt); r.bold = True; r.font.size = Pt(10.5); r.font.color.rgb = NAR
-def t(txt, size=9, color=None, after=1, bold=False):
+def t(txt, size=8.5, color=None, after=1, bold=False):
     p = doc.add_paragraph(); p.paragraph_format.space_after = Pt(after)
     r = p.add_run(txt); r.font.size = Pt(size); r.bold = bold
     if color: r.font.color.rgb = color
-def bullets(items, size=9):
+def bullets(items, size=8.5):
     for x in items:
         p = doc.add_paragraph(style='List Bullet'); p.paragraph_format.space_after = Pt(0); r = p.add_run(x); r.font.size = Pt(size)
 def caja(txt, size=10.5):
@@ -86,8 +86,8 @@ t('Si un inscrito paga inicial y cuotas, al 3 de noviembre se liquida el 10% de 
 
 sec('7. El 4 de noviembre')
 bullets([
- '10 inscritos o más: contrato laboral (básico $2.000.000 más prestaciones, ingreso mínimo de $3.500.000 los meses 1 a 3 por indicadores, comisión del 10% sobre caja, acelerador sobre meta), con el mínimo del mes 1 garantizado.',
- '5 a 9 inscritos: contrato laboral con el mismo esquema, sin la garantía del mes 1.',
+ '10 inscritos o más: contrato laboral (básico $2.000.000 más prestaciones, ingreso mínimo de $3.500.000 los meses 1 a 3 si cumples los indicadores, comisión del 10% sobre caja sin tope, acelerador sobre la meta). Los indicadores y la meta de tu contrato se fijan con lo que demuestres en el reto, nunca por debajo: noviembre 10 inscritos, diciembre 12, enero 15.',
+ '5 a 9 inscritos: el mismo contrato, con los indicadores estándar del cargo (mes 1: 40 empresas contactadas, 12 reuniones, 2 firmas; mes 2: 4 firmas; mes 3: 6).',
  'Menos de 5: el reto termina; se pagan los honorarios y la comisión de lo que haya entrado.'])
 
 sec('8. Si aceptas hoy: de aquí al lunes')
@@ -97,7 +97,7 @@ bullets([
  'Antes del lunes: leer la propuesta y los escenarios que ya tienes. Lunes 8:00 a. m. en la sede: inducción de 2 horas y a las 10:00 a la calle.'])
 
 sec('9. Reglas')
-t('Información de Heiiu (precios, materiales, bases) confidencial y solo para este reto. Empresas y contactos registrados quedan en la base de Heiiu. Comisión solo sobre dinero efectivamente recibido.', size=8.5)
+t('Información de Heiiu (precios, materiales, bases) confidencial y solo para este reto. Empresas y contactos registrados quedan en la base de Heiiu. Comisión solo sobre dinero efectivamente recibido.', size=8)
 
 t('Confirmas respondiendo "acepto" a este mensaje hoy. Con eso te enviamos el formato y el mensaje de contacto para que arranques mañana.', size=10.5, bold=True, after=0)
 
