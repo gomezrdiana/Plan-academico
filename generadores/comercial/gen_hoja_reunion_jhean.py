@@ -45,6 +45,29 @@ r = p.add_run('JHEAN — REUNIÓN: NÚMEROS Y RETO DE 15 DÍAS'); r.bold = True;
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(6)
 r = p.add_run('40 min · Uso interno de gerencia · Llevas: esta hoja, su HV, sus respuestas del 16/10 y el documento del reto (no se entrega en la reunión, se envía después)'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
+sec('VERSIÓN AL GRANO — 15 minutos (usa solo esta página; lo demás es respaldo)')
+t('1. Abres tú, 1 minuto, sin preámbulo:', bold=True, after=1)
+caja('"Jhean, te voy a ir al grano. La academia necesita vender ya, y yo no tengo tiempo para un proceso de selección de tres semanas. La única forma de saber si esto funciona es trabajando. Te propongo un reto de 15 días. Te lo cuento completo y me dices si lo tomas."')
+t('2. El Pacto, 1 minuto:', bold=True, after=1)
+caja('"No vendemos inglés fácil ni rápido. Vendemos un entrenamiento exigente, con video diario y puntualidad, y un destino: el trabajo, el viaje o el estudio que esa persona necesita. El cliente firma sabiendo a qué se compromete. Quien no quiera entrenar así no es nuestro estudiante, y es mejor que lo sepa en la charla, no en la clase 5. Eso es lo que vas a decir en las empresas."')
+t('3. El reto, de corrido, 3 minutos (no pausas hasta terminar):', bold=True, after=1)
+bullets([
+ 'Lunes 20 de octubre a martes 3 de noviembre, por prestación de servicios. Diez días hábiles, el 2 es festivo.',
+ 'Meta: 10 inscritos con inicial pagada, por empresas, al menos 5 de una misma empresa.',
+ 'Empresas de dueño, 40 a 150 empleados, donde el que decide está en la reunión. Tú abres, das una charla de 20 minutos a su gente y cierras. El pago entra a Heiiu y coordinación firma el contrato.',
+ 'Un millón de honorarios más el 10% de la caja que entre hasta el 3 de noviembre. 15 minutos conmigo todos los días a las 8:00.',
+ 'El 4 de noviembre: 10 o más, contrato laboral con la meta a tu ritmo. 5 a 9, contrato con el esquema normal. Menos de 5, hasta ahí.'])
+t('4. La plata, una frase:', bold=True, after=1)
+caja('"Si logras los 10 te vas con entre 4 y 6 millones por 15 días. Pediste de 4 a 8 al mes. Aquí está."')
+t('5. Las dos preguntas que sí haces, 3 minutos:', bold=True, after=1)
+caja('"Las consultorías y la fotografía: ¿se cierran o siguen? Esto es tiempo completo."   Se acepta "fin de semana". No se acepta "manejo las dos".')
+caja('"¿Con qué cinco empresas arrancas mañana? Nombre del dueño o gerente."')
+anota('1 __________ 2 __________ 3 __________ 4 __________ 5 __________.   Sin cinco con persona puede aceptar igual, pero ya sabes qué esperar el lunes.')
+t('6. Cierre, 1 minuto:', bold=True, after=1)
+caja('"¿Lo tomas? Te mando el reto por escrito al salir, me respondes acepto hoy, y esta noche te llega el kit, el formato y los documentos. Lunes 8:00 en la sede, dos horas y a la calle."')
+t('Si pide más fijo: "El fijo sube el 4 de noviembre con el contrato." Si pide una semana de inducción: "Son dos horas y yo contigo todos los días a las 8:00." Si pregunta si hay más gente: "Hay otro ejecutivo en otro sector. Tu lista es tuya." No se dice "estás contratado". No se menciona a nadie más. Lo de Tiresia se lo pregunta Carlos el martes.', size=9.5, color=GRIS, after=0)
+doc.add_page_break()
+
 sec('Lo que respondió el 16/10, leído contra lo que pedimos')
 tb = doc.add_table(rows=1, cols=3); tb.style = 'Table Grid'
 hdr = ['Pregunta', 'Lo que dijo', 'Lectura']
