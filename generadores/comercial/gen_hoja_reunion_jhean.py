@@ -99,14 +99,14 @@ bullets([
  'Dónde: empresas de dueño, 40 a 150 empleados, donde el que decide está en la reunión y autoriza una charla de 20 minutos con su gente. Nada de compras ni multinacionales: no firman en dos semanas.',
  'Qué recibe: $1.000.000 de honorarios por el reto (cuenta de cobro el 3/11) más 10% de la caja que entre hasta esa fecha de los inscritos que él trajo.',
  'Qué pasa el 4 de noviembre: 10 o más = contrato laboral con el piso del mes 1 garantizado. 5 a 9 = contrato laboral con el esquema estándar (básico $2M, piso $3,5M por indicadores, 10% de caja). Menos de 5 = se paga el reto y termina.',
- 'Qué pone Heiiu: inducción de 2 horas el lunes, propuesta y oferta a empleados cerradas (él no inventa precios), planilla, una asesora en cada charla para cerrar ahí mismo, 15 minutos diarios a las 8:00 con gerencia.',
+ 'Qué pone Heiiu: inducción de 2 horas el lunes, propuesta y oferta a empleados cerradas (él no inventa precios), hoja de precios y mensaje de contacto, planilla, coordinación para contratos y pagos, 15 minutos diarios a las 8:00 con gerencia. No hay asesora: él presenta y cierra.',
  'Ritmo mínimo: 15 empresas con decisor contactadas en los primeros 2 días, 8 reuniones con decisor la primera semana, 3 charlas autorizadas para la segunda.'])
 caja('"¿Con qué empresas arrancas el lunes? Dame cinco, con nombre del dueño o gerente, que te reciban esta semana."')
 anota('1 __________ 2 __________ 3 __________ 4 __________ 5 __________.   Esta es la respuesta que decide. Si no tiene cinco con persona, el reto no arranca el lunes: se le da hasta el miércoles para mandar la lista y arranca el jueves.')
 caja('"¿Lo tomas?" Si pide más honorarios: "El fijo sube el 4 de noviembre con el contrato. Lo que sube en el reto es la comisión." Si pide que la meta sea en reuniones y no en inscritos: no. La meta es caja, porque es lo que necesita la academia.', size=10)
 
 sec('5. Cierre (2 min)')
-caja('"Te mando hoy el reto por escrito en una página. Me confirmas por este medio y nos vemos el lunes a las 8:00 en la sede. Antes del lunes hablo con tu referencia de Tiresia."')
+caja('"Te mando hoy el reto por escrito en una página. Me respondes acepto hoy mismo, y con eso te llega el formato y el mensaje de contacto para que mañana empieces con la lista de 15 empresas. El lunes a las 8:00 en la sede, inducción de 2 horas y a la calle. Antes del lunes hablo con tu referencia de Tiresia."')
 t('No se dice "estás contratado", "cuenta con eso" ni "bienvenido". No se menciona ningún otro candidato. No se le muestra el esquema de John ni se le dice que hay otro proceso.', size=10)
 
 sec('Después de la reunión: 5 líneas a Carlos')

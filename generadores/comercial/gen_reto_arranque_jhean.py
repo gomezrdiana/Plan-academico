@@ -13,19 +13,19 @@ NAR = RGBColor(0xE5, 0x4C, 0x09); GRIS = RGBColor(0x66, 0x66, 0x66)
 BASE = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\LINKEDIN DIANA GOMEZ\Candidatos'
 doc = Document()
 for s in doc.sections:
-    s.top_margin = Cm(0.9); s.bottom_margin = Cm(0.7); s.left_margin = Cm(1.6); s.right_margin = Cm(1.6)
-doc.styles['Normal'].font.name = 'Calibri'; doc.styles['Normal'].font.size = Pt(9.5)
+    s.top_margin = Cm(0.8); s.bottom_margin = Cm(0.6); s.left_margin = Cm(1.5); s.right_margin = Cm(1.5)
+doc.styles['Normal'].font.name = 'Calibri'; doc.styles['Normal'].font.size = Pt(9)
 def shd(cell, color):
     tcPr = cell._tc.get_or_add_tcPr(); el = OxmlElement('w:shd')
     el.set(qn('w:val'), 'clear'); el.set(qn('w:color'), 'auto'); el.set(qn('w:fill'), color); tcPr.append(el)
 def sec(txt):
-    p = doc.add_paragraph(); p.paragraph_format.space_before = Pt(4); p.paragraph_format.space_after = Pt(0)
+    p = doc.add_paragraph(); p.paragraph_format.space_before = Pt(3); p.paragraph_format.space_after = Pt(0)
     r = p.add_run(txt); r.bold = True; r.font.size = Pt(10.5); r.font.color.rgb = NAR
-def t(txt, size=9.5, color=None, after=2, bold=False):
+def t(txt, size=9, color=None, after=1, bold=False):
     p = doc.add_paragraph(); p.paragraph_format.space_after = Pt(after)
     r = p.add_run(txt); r.font.size = Pt(size); r.bold = bold
     if color: r.font.color.rgb = color
-def bullets(items, size=9.5):
+def bullets(items, size=9):
     for x in items:
         p = doc.add_paragraph(style='List Bullet'); p.paragraph_format.space_after = Pt(0); r = p.add_run(x); r.font.size = Pt(size)
 def caja(txt, size=10.5):
@@ -41,14 +41,16 @@ r = p.add_run('Heiiu · Lunes 20 de octubre al martes 3 de noviembre de 2026 · 
 
 caja('Meta única: 10 personas inscritas con inicial pagada en caja de Heiiu al cierre del martes 3 de noviembre, llegadas a través de empresas. Al menos 5 de una misma empresa. Cuenta solo lo que esté pagado a esa fecha.')
 
+sec('0. Lo que vendemos (El Pacto)')
+t('No vendemos inglés fácil ni rápido. Vendemos un entrenamiento exigente, con video diario, puntualidad y horas de práctica real, y un destino concreto: el trabajo, el viaje o el estudio que esa persona necesita. El cliente firma sabiendo a qué se compromete. Quien no quiera entrenar así, no es nuestro estudiante, y es mejor que lo sepa en la charla, no en la clase 5.')
+
 sec('1. Qué es')
-t('Quince días de trabajo real por prestación de servicios, antes de un contrato laboral. Diez días hábiles (el 2 de noviembre es festivo). Tú organizas tu agenda; la meta es una sola y se mide en caja.')
+t('Quince días de trabajo real por prestación de servicios, antes de un contrato laboral (10 días hábiles; el 2 de noviembre es festivo). Tú organizas tu agenda; la meta se mide en caja.')
 
 sec('2. Cómo se consigue')
 bullets([
- 'Empresas de 40 a 150 empleados donde el dueño o el gerente decide en la reunión. Nada de áreas de compras ni multinacionales: no firman en dos semanas.',
- 'Reunión con el decisor y autorización de una charla de 20 minutos con sus empleados, en la empresa.',
- 'En cada charla va una asesora de Heiiu: ella toma los interesados, agenda y cierra. Tú abres la puerta y presentas; la inscripción la hace Heiiu.',
+ 'Empresas de 40 a 150 empleados donde el dueño o el gerente decide en la reunión (compras y multinacionales no firman en dos semanas). Reunión con el decisor y charla de 20 minutos con sus empleados.',
+ 'Tú abres la puerta, presentas y cierras con la hoja de precios de Heiiu. El pago entra a la cuenta de Heiiu y coordinación firma el contrato con cada estudiante.',
  'La oferta para los empleados es la que entrega Heiiu en la inducción. No se prometen precios, descuentos, horarios ni condiciones distintas.'])
 
 sec('3. Ritmo mínimo')
@@ -59,11 +61,10 @@ bullets([
 
 sec('4. Seguimiento')
 bullets([
- 'Todos los días a las 8:00 a. m., 15 minutos con gerencia (lunes en la sede, los demás días por llamada): qué hiciste ayer frente al plan y qué empresas tienes hoy.',
- 'Toda empresa se registra en la planilla de Heiiu antes de la primera reunión. La planilla al día es condición para liquidar.'])
+ 'Todos los días a las 8:00 a. m., 15 minutos con gerencia (lunes en la sede, el resto por llamada): qué hiciste ayer y qué empresas tienes hoy. Toda empresa se registra en la planilla antes de la primera reunión; planilla al día es condición para liquidar.'])
 
 sec('5. Qué pone Heiiu')
-t('Inducción el lunes 20 de 8:00 a 10:00 a. m. en la sede; propuesta ejecutiva y oferta a empleados; planilla; una asesora para cada charla y cada cierre; material de marca. Transporte y celular son tuyos.')
+t('Inducción el lunes 20 de 8:00 a 10:00 a. m. en la sede; propuesta ejecutiva, hoja de precios y mensaje de contacto; planilla; coordinación para contratos y pagos; material de marca. Transporte y celular son tuyos.')
 
 sec('6. Qué recibes')
 t('Honorarios de $1.000.000 por el reto, contra cuenta de cobro el 3 de noviembre, más el 10% de lo que haya entrado a caja hasta esa fecha por los inscritos de tus empresas. Con los 10 inscritos pagados, así queda:', after=2)
@@ -89,10 +90,16 @@ bullets([
  '5 a 9 inscritos: contrato laboral con el mismo esquema, sin la garantía del mes 1.',
  'Menos de 5: el reto termina; se pagan los honorarios y la comisión de lo que haya entrado.'])
 
-sec('8. Reglas')
-t('La información de Heiiu (precios, materiales, bases de datos) es confidencial y se usa solo para este reto. Las empresas y contactos registrados quedan en la base de Heiiu. El nombre de Heiiu se usa únicamente para lo acordado aquí. La comisión se paga solo sobre dinero efectivamente recibido.', size=9.5)
+sec('8. Si aceptas hoy: de aquí al lunes')
+bullets([
+ 'Sábado: lista de 15 empresas de 40 a 150 empleados con nombre y cargo del dueño o gerente, en el formato que te enviamos.',
+ 'Sábado y domingo: mensaje de contacto (te lo enviamos hoy) a los 15. Meta: 5 reuniones agendadas para la semana del 20.',
+ 'Antes del lunes: leer la propuesta y los escenarios que ya tienes. Lunes 8:00 a. m. en la sede: inducción de 2 horas y a las 10:00 a la calle.'])
 
-t('Confirmas respondiendo "acepto" a este mensaje antes del domingo 19 de octubre a las 6:00 p. m. Nos vemos el lunes a las 8:00 a. m. en la sede.', size=10.5, bold=True, after=0)
+sec('9. Reglas')
+t('Información de Heiiu (precios, materiales, bases) confidencial y solo para este reto. Empresas y contactos registrados quedan en la base de Heiiu. Comisión solo sobre dinero efectivamente recibido.', size=8.5)
+
+t('Confirmas respondiendo "acepto" a este mensaje hoy. Con eso te enviamos el formato y el mensaje de contacto para que arranques mañana.', size=10.5, bold=True, after=0)
 
 out = BASE + r'\RETO_ARRANQUE_15_DIAS_JHEAN.docx'
 try: doc.save(out); print('OK', out)
