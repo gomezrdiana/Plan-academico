@@ -45,9 +45,12 @@ r = p.add_run('JHEAN — REUNIÓN: NÚMEROS Y RETO DE 15 DÍAS'); r.bold = True;
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(6)
 r = p.add_run('40 min · Uso interno de gerencia · Llevas: esta hoja, su HV, sus respuestas del 16/10 y el documento del reto (no se entrega en la reunión, se envía después)'); r.font.size = Pt(9); r.font.color.rgb = GRIS
 
-sec('VERSIÓN AL GRANO — 15 minutos (usa solo esta página; lo demás es respaldo)')
+sec('VERSIÓN AL GRANO — 20 minutos (usa solo esta página; lo demás es respaldo)')
 t('1. Abres tú, 1 minuto, sin preámbulo:', bold=True, after=1)
 caja('"Jhean, te voy a ir al grano. La academia necesita vender ya, y yo no tengo tiempo para un proceso de selección de tres semanas. La única forma de saber si esto funciona es trabajando. Te propongo un reto de 15 días. Te lo cuento completo y me dices si lo tomas."')
+t('1b. Su experiencia, 5 minutos, una sola pregunta (para que se sienta escuchado y te sirva de puente):', bold=True, after=1)
+caja('"Antes de contarte el reto, cuéntame Tiresia en cinco minutos: cómo conseguías la primera reunión, quién firmaba y cuánto duraba hasta la firma."')
+anota('reunión: ______________  firmaba: ______________  ciclo: ______ semanas.   Si dice "mucho" o "casi siempre", pides el número. Puente al reto: "Aquí es lo mismo pero al revés: el ticket es 20 veces más chico y el ciclo tiene que ser de días, no de meses. Por eso el reto se mide en caja y no en reuniones."')
 t('2. El Pacto, 1 minuto:', bold=True, after=1)
 caja('"No vendemos inglés fácil ni rápido. Vendemos un entrenamiento exigente, con video diario y puntualidad, y un destino: el trabajo, el viaje o el estudio que esa persona necesita. El cliente firma sabiendo a qué se compromete. Quien no quiera entrenar así no es nuestro estudiante, y es mejor que lo sepa en la charla, no en la clase 5. Eso es lo que vas a decir en las empresas."')
 t('3. El reto, de corrido, 3 minutos (no pausas hasta terminar):', bold=True, after=1)
@@ -60,7 +63,7 @@ bullets([
 t('4. La plata, una frase:', bold=True, after=1)
 caja('"Si logras los 10 te vas con entre 4 y 6 millones por 15 días. Pediste de 4 a 8 al mes. Aquí está."')
 t('5. Las dos preguntas que sí haces, 3 minutos:', bold=True, after=1)
-caja('"Las consultorías y la fotografía: ¿se cierran o siguen? Esto es tiempo completo."   Se acepta "fin de semana". No se acepta "manejo las dos".')
+caja('"Y ahora, las consultorías y la fotografía: ¿se cierran o siguen? Esto es tiempo completo."   Se acepta "fin de semana". No se acepta "manejo las dos".')
 caja('"¿Con qué cinco empresas arrancas mañana? Nombre del dueño o gerente."')
 anota('1 __________ 2 __________ 3 __________ 4 __________ 5 __________.   Sin cinco con persona puede aceptar igual, pero ya sabes qué esperar el lunes.')
 t('6. Cierre, 1 minuto:', bold=True, after=1)
