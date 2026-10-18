@@ -111,7 +111,7 @@ def tabla(hdr, filas, anchos, size=8.5, first_bold=True):
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(0)
 r = p.add_run('KIT DE ARRANQUE — RETO DE 15 DÍAS · ALIANZAS EMPRESARIALES'); r.bold = True; r.font.size = Pt(15); r.font.color.rgb = NAR
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(5)
-r = p.add_run('Heiiu English Academy · Para el ejecutivo de alianzas · Del lunes 19 de octubre al martes 3 de noviembre de 2026 · Léelo completo antes del lunes')
+r = p.add_run('Heiiu English Academy · Para el ejecutivo de alianzas · Del lunes 19 de octubre al martes 3 de noviembre de 2026 · Léelo completo antes de responder al reto')
 r.font.size = Pt(9.5); r.font.color.rgb = GRIS
 caja(['**Tu meta única:** 10 personas inscritas y pagadas en la cuenta de Heiiu al martes 3 de noviembre a las 6:00 p. m., traídas por ti: empresas, referidos o conocidos. Cada persona queda registrada en tu planilla antes de pagar. Inscrito pagado = pagó de contado, o pagó la inicial de su plan de pagos y firmó el contrato con coordinación. Lo ideal es de contado.',
       '**Tu trabajo:** contactas al dueño o gerente, te reúnes con quien decide, das una charla de 20 minutos a sus empleados, presentas y **cierras tú mismo**, en la charla o en el seguimiento. No hay asesora ni cita con asesora. El pago entra a Heiiu, de contado idealmente. El estudiante firma el contrato con coordinación en la sede, y pagaré solo si va a cuotas.',
