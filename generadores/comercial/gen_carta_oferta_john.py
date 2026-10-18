@@ -64,7 +64,7 @@ t('Usted acepta el cargo conociendo la realidad de la academia: una empresa pequ
 sec('6. Aceptación y firma')
 bullets([
  'Acepte esta oferta respondiendo por escrito a más tardar el lunes 19 de octubre de 2026 a las 12:00 del día.',
- 'Exámenes médicos de ingreso el lunes 19. Firma del contrato y del anexo de compensación el martes 20 a las 8:00 a. m. en la sede. Traer: cédula, RUT, certificación bancaria, certificados de afiliación a EPS y fondo de pensiones, hoja de vida y certificados laborales.',
+ 'Exámenes médicos de ingreso el lunes 19, por cuenta de la empresa (la orden se la enviamos con su aceptación). Firma del contrato y del anexo de compensación el martes 20 a las 8:00 a. m. en la sede. Traer: cédula, RUT, certificación bancaria, certificados de afiliación a EPS y fondo de pensiones, hoja de vida y certificados laborales.',
  'Esta oferta reemplaza cualquier conversación anterior sobre los términos del cargo y pierde vigencia si no se acepta en el plazo indicado.'])
 t('', after=3)
 t('_________________________________', after=0)
