@@ -13,19 +13,19 @@ NAR = RGBColor(0xE5, 0x4C, 0x09); GRIS = RGBColor(0x66, 0x66, 0x66)
 BASE = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\LINKEDIN DIANA GOMEZ\Candidatos'
 doc = Document()
 for s in doc.sections:
-    s.top_margin = Cm(0.7); s.bottom_margin = Cm(0.5); s.left_margin = Cm(1.5); s.right_margin = Cm(1.5)
-doc.styles['Normal'].font.name = 'Calibri'; doc.styles['Normal'].font.size = Pt(8.5)
+    s.top_margin = Cm(0.6); s.bottom_margin = Cm(0.4); s.left_margin = Cm(1.3); s.right_margin = Cm(1.3)
+doc.styles['Normal'].font.name = 'Calibri'; doc.styles['Normal'].font.size = Pt(8)
 def shd(cell, color):
     tcPr = cell._tc.get_or_add_tcPr(); el = OxmlElement('w:shd')
     el.set(qn('w:val'), 'clear'); el.set(qn('w:color'), 'auto'); el.set(qn('w:fill'), color); tcPr.append(el)
 def sec(txt):
-    p = doc.add_paragraph(); p.paragraph_format.space_before = Pt(3); p.paragraph_format.space_after = Pt(0)
+    p = doc.add_paragraph(); p.paragraph_format.space_before = Pt(2); p.paragraph_format.space_after = Pt(0)
     r = p.add_run(txt); r.bold = True; r.font.size = Pt(10.5); r.font.color.rgb = NAR
-def t(txt, size=8.5, color=None, after=1, bold=False):
+def t(txt, size=8, color=None, after=0, bold=False):
     p = doc.add_paragraph(); p.paragraph_format.space_after = Pt(after)
     r = p.add_run(txt); r.font.size = Pt(size); r.bold = bold
     if color: r.font.color.rgb = color
-def bullets(items, size=8.5):
+def bullets(items, size=8):
     for x in items:
         p = doc.add_paragraph(style='List Bullet'); p.paragraph_format.space_after = Pt(0); r = p.add_run(x); r.font.size = Pt(size)
 def caja(txt, size=10.5):
@@ -39,7 +39,7 @@ r = p.add_run('RETO DE ARRANQUE — ALIANZAS EMPRESARIALES'); r.bold = True; r.f
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(6)
 r = p.add_run('Heiiu · Lunes 19 de octubre al martes 3 de noviembre de 2026 · Para: Jhean Cárdenas'); r.font.size = Pt(9.5); r.font.color.rgb = GRIS
 
-caja('Meta única: 10 personas inscritas y pagadas en caja de Heiiu al cierre del martes 3 de noviembre, traídas por ti: empresas, referidos o conocidos. Cada persona queda registrada en tu planilla antes de pagar. Inscrito pagado = pagó de contado, o pagó la inicial de su plan de pagos y firmó el contrato con coordinación. Lo ideal es de contado.')
+caja('Meta única: 10 personas inscritas y pagadas en caja de Heiiu al cierre del martes 3 de noviembre, traídas por ti: empresas, referidos o conocidos. Cada persona queda registrada en tu planilla antes de pagar. Inscrito pagado = pagó de contado, o pagó la inicial de su plan de pagos y firmó el contrato con coordinación. Lo ideal es de contado.', size=9.5)
 
 sec('0. Lo que vendemos (El Pacto)')
 t('No vendemos inglés fácil ni rápido. Vendemos un entrenamiento exigente, con video diario, puntualidad y horas de práctica real, y un destino concreto: el trabajo, el viaje o el estudio que esa persona necesita. El cliente firma sabiendo a qué se compromete. Quien no quiera entrenar así, no es nuestro estudiante, y es mejor que lo sepa en la charla, no en la clase 5.')
@@ -51,7 +51,7 @@ sec('2. Cómo se consigue')
 bullets([
  'Empresas de 40 a 150 empleados donde el dueño o el gerente decide en la reunión (compras y multinacionales no firman en dos semanas). Reunión con el decisor y charla de 20 minutos con sus empleados.',
  'Tú abres la puerta, presentas y cierras con la hoja de precios de Heiiu. El pago entra a la cuenta de Heiiu, de contado idealmente; el estudiante firma el contrato con coordinación en la sede, y pagaré solo si va a cuotas.',
- 'La oferta para los empleados es la que entrega Heiiu en la inducción. No se prometen precios, descuentos, horarios ni condiciones distintas.'])
+ 'La oferta es la que entrega Heiiu en la inducción: sin precios, descuentos, horarios ni condiciones distintas.'])
 
 sec('3. Ritmo mínimo')
 bullets([
