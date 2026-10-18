@@ -84,11 +84,8 @@ for row in tb.rows:
     row.cells[0].width = Cm(8.6); row.cells[1].width = Cm(3.0); row.cells[2].width = Cm(2.9); row.cells[3].width = Cm(2.9)
 t('Si un inscrito paga inicial y cuotas, al 3 de noviembre se liquida el 10% de la inicial; el 10% de cada cuota se paga cuando entra.', size=9, color=GRIS, after=2)
 
-sec('7. El 4 de noviembre')
-bullets([
- '10 inscritos o más: contrato laboral (básico $2.000.000 más prestaciones, ingreso mínimo de $3.500.000 los meses 1 a 3 si cumples los indicadores, comisión del 10% sobre caja sin tope, acelerador sobre la meta). Los indicadores y la meta de tu contrato se fijan con lo que demuestres en el reto, nunca por debajo: noviembre 10 inscritos, diciembre 12, enero 15.',
- '5 a 9 inscritos: el mismo contrato, con los indicadores estándar del cargo (mes 1: 40 empresas contactadas, 12 reuniones, 2 firmas; mes 2: 4 firmas; mes 3: 6).',
- 'Menos de 5: el reto termina; se pagan los honorarios y la comisión de lo que haya entrado.'])
+sec('7. Después del 3 de noviembre')
+t('Con el resultado del reto en la mano, el 4 de noviembre nos sentamos a hablar de cómo seguimos. El reto no obliga a ninguna de las dos partes a nada más que lo escrito aquí.')
 
 sec('8. Si aceptas hoy: de aquí al lunes')
 bullets([

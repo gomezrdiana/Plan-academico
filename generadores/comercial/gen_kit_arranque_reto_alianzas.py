@@ -289,7 +289,7 @@ tabla(['Concepto', 'Cuánto', 'Cuándo y cómo'], [
  ('Comisión', '10% de lo que entre a caja hasta el 3 de noviembre por tus inscritos', 'Se paga aunque no llegues a la meta. Si un inscrito paga inicial y cuotas, el 3 de noviembre se liquida el 10% de la inicial y el 10% de cada cuota cuando entra.'),
  ('Bono', '$1.000.000 de contado', 'Solo si llegas a 10 inscritos pagados al 3 de noviembre a las 6:00 p. m.'),
  ('Los que ya venían avanzados', '10% de lo que entre', 'Si la academia te entrega a alguien ya avanzado para que lo cierres, te pagan comisión, pero no cuenta para los 10.'),
- ('El 4 de noviembre', 'Contrato laboral según resultado', '10 o más: contrato con la meta a tu ritmo (noviembre 10, diciembre 12, enero 15). 5 a 9: contrato con los indicadores estándar del cargo. Menos de 5: termina el reto; se pagan honorarios y comisión.'),
+ ('Después del 3 de noviembre', 'Se define con el resultado', 'El 4 de noviembre, con los números del reto, gerencia y tú hablan de cómo seguir. El reto no obliga a nada más que lo escrito aquí.'),
 ], [3.6, 5.0, 9.4], size=8.5)
 caja('Con los 10 inscritos pagados: 10 cupos pagados por la empresa ($4.350.000 c/u) = $6.350.000 para ti · 10 completos pagados por empleados ($4.782.800 c/u) = $6.782.800 · 10 Arranques ($2.990.000 c/u) = $4.990.000. Siempre: honorarios + bono + comisión.', size=9.5)
 

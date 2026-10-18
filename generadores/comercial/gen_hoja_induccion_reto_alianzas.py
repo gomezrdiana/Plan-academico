@@ -51,7 +51,7 @@ for i, h in enumerate(['Hora', 'Bloque', 'Qué pasa y qué se verifica']):
     c = tb.rows[0].cells[i]; shd(c, 'E54C09'); c.paragraphs[0].paragraph_format.space_after = Pt(0)
     r = c.paragraphs[0].add_run(h); r.bold = True; r.font.size = Pt(8.5); r.font.color.rgb = BLANCO
 filas = [
- ('8:00', '1. El reto en sus palabras', 'Él te dice la meta, la fecha, qué cuenta como inscrito pagado, qué recibe y qué pasa el 4 de noviembre. Si se equivoca en algo, se corrige ahí. 2 minutos para que te diga qué dudas le dejó la lectura.'),
+ ('8:00', '1. El reto en sus palabras', 'Él te dice la meta, la fecha, qué cuenta como inscrito pagado, qué recibe, y que el 4 de noviembre se habla con el resultado en la mano. Si se equivoca en algo, se corrige ahí. 2 minutos para que te diga qué dudas le dejó la lectura.'),
  ('8:10', '2. Lo que vendemos', 'Él lee El Pacto en voz alta, como lo diría en una charla. Luego explica las 4 diferencias (garantía con condiciones, mentor y grupo selectivo, Módulo de Graduación, virtudes). Tú corriges palabras: nunca fácil, rápido, nativos, descuento.'),
  ('8:25', '3. Precios', 'Con la hoja de precios del kit delante, él te presenta las 4 opciones como si fueras una empleada. Verificas: plan empresa desde 3 cupos y sus tramos; beca de alianza contado y cuotas; Arranque máximo 2 pagos; inglés para empresarios $70.000/h mín. 30 h. Y la respuesta a "¿por qué no descuento?".'),
  ('8:40', '4. La plata y el proceso', 'Le entregas la cuenta. Él repite: todo entra a Heiiu, efectivo a la sede el mismo día, contrato en la sede con coordinación, pagaré solo si hay cuotas, cédula en la sede y no por chat. Qué cuenta y qué no para los 10; los avanzados que le entregue la academia comisionan pero no cuentan.'),
@@ -72,7 +72,7 @@ for row in tb.rows:
 doc.add_paragraph().paragraph_format.space_after = Pt(0)
 
 sec('Lo que no se hace en la inducción')
-t('No se le muestra el esquema ni el nombre de ningún otro ejecutivo. No se le dan precios ni condiciones que no estén en el kit. No se le promete el contrato del 4 de noviembre: se le repite que depende del resultado. No se alarga: a las 10:00 sale, aunque falte algo; lo que falte se resuelve a las 8:30 del martes.', size=9)
+t('No se le muestra el esquema ni el nombre de ningún otro ejecutivo. No se le dan precios ni condiciones que no estén en el kit. No se le promete ningún contrato: el 4 de noviembre se habla con el resultado en la mano. No se alarga: a las 10:00 sale, aunque falte algo; lo que falte se resuelve a las 8:30 del martes.', size=9)
 caja('Al terminar, 3 líneas a tu socio: 1) sabe explicar precios y Pacto sin ayuda: sí / no. 2) cuántas empresas con decisor metió en la planilla. 3) su mensaje al gerente: lo mandarías tú: sí / no. El martes o miércoles él le hace las 5 preguntas de números con datos reales.')
 
 out = BASE + r'\HOJA_INDUCCION_RETO_ALIANZAS.docx'
