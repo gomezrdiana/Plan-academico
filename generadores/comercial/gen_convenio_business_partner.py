@@ -41,7 +41,7 @@ t('POR LA EMPRESA ALIADA                                                        
 t('_____________________________                                          _____________________________', after=1)
 t('Nombre: ________________________                                        DIANA MARCELA GÓMEZ RANGEL', after=1)
 t('C.C. ______________________________                                       Representante Legal', after=4)
-t('Presentado por: ______________________________ (docente habilitado Heiiu) · Fecha de presentación: ____ / ____ / 2026', size=8.5, color=GRIS)
+t('Presentado por: ______________________________ (representante comercial Heiiu) · Fecha de presentación: ____ / ____ / 2026', size=8.5, color=GRIS)
 
 out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\B2B\CONVENIO_HEIIU_BUSINESS_PARTNER_v1.docx'
 d.save(out); print('OK', out)
