@@ -58,8 +58,8 @@ bullets([
  'Cuando gerencia asigne contactos de la base de la academia, son para trabajarlos como a cualquier cliente, con la comisión de cierre vigente de las asesoras; esas ventas cuentan al 50% para la meta del cargo.',
  'Cierra con las tarifas y los documentos estándar de la academia; no está facultado para otorgar descuentos. Convenios y órdenes los firma el representante legal.'])
 
-sec('5. La realidad de la empresa')
-t('El cargo se acepta conociendo la realidad de la academia: una empresa pequeña, en crecimiento, donde los resultados se necesitan rápido y no hay tiempos de empresa grande. Por eso la inducción es de un día y medio y no de una semana: el producto se aprende con el kit de trabajo, en las primeras reuniones y en el seguimiento diario. Entender el producto y salir a la calle lo antes posible es parte del cargo desde el primer día.', after=1)
+sec('5. La realidad de la empresa y el arranque')
+t('El cargo se acepta conociendo la realidad de la academia: una empresa pequeña, en crecimiento, donde los resultados se necesitan rápido. La intención es que el arranque tome el menor tiempo posible: en el día y medio de inducción se hacen simulaciones de reunión con el decisor y de charla, llamadas reales a empresas y acompañamiento a las primeras citas, con el kit de trabajo como base. El resto del producto se aprende en la calle y en el seguimiento diario, con gerencia al lado.', after=1)
 
 sec('6. Aceptación y firma')
 bullets([
