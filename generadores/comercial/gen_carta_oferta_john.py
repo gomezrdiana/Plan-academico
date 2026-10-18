@@ -10,9 +10,9 @@ NAR = RGBColor(0xE5, 0x4C, 0x09); GRIS = RGBColor(0x66, 0x66, 0x66)
 BASE = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\LINKEDIN DIANA GOMEZ\Candidatos\John Hinestroza'
 d = Document()
 for s in d.sections:
-    s.top_margin = Cm(1.3); s.bottom_margin = Cm(1.0); s.left_margin = Cm(2.0); s.right_margin = Cm(2.0)
-d.styles['Normal'].font.name = 'Calibri'; d.styles['Normal'].font.size = Pt(9.5)
-def t(txt, size=9.5, bold=False, color=None, after=3, align=None):
+    s.top_margin = Cm(1.0); s.bottom_margin = Cm(0.8); s.left_margin = Cm(1.8); s.right_margin = Cm(1.8)
+d.styles['Normal'].font.name = 'Calibri'; d.styles['Normal'].font.size = Pt(9)
+def t(txt, size=9, bold=False, color=None, after=2, align=None):
     p = d.add_paragraph(); p.paragraph_format.space_after = Pt(after)
     if align: p.alignment = align
     r = p.add_run(txt); r.font.size = Pt(size); r.bold = bold
@@ -20,7 +20,7 @@ def t(txt, size=9.5, bold=False, color=None, after=3, align=None):
 def sec(txt):
     p = d.add_paragraph(); p.paragraph_format.space_before = Pt(4); p.paragraph_format.space_after = Pt(1)
     r = p.add_run(txt); r.bold = True; r.font.size = Pt(10.5); r.font.color.rgb = NAR
-def bullets(items, size=9.5):
+def bullets(items, size=9):
     for x in items:
         p = d.add_paragraph(style='List Bullet'); p.paragraph_format.space_after = Pt(0); r = p.add_run(x); r.font.size = Pt(size)
 
@@ -46,11 +46,12 @@ bullets([
 
 sec('3. Forma de trabajo')
 bullets([
- 'Dos días fijos por semana en la sede (martes y jueves), con registro de asistencia, para tablero, activaciones con el equipo de asesoría y cierres con empresas. Los demás días en campo, con autonomía para organizar su agenda y sus visitas.',
+ 'Dos días fijos por semana en la sede, lunes y miércoles (si el lunes es festivo, esa semana son martes y jueves), con registro de asistencia, para tablero, activaciones con el equipo de asesoría y cierres con empresas. Los demás días en campo, con autonomía para organizar su agenda y sus visitas.',
  'Seguimiento diario de 15 minutos con gerencia a las 8:45 a. m., que usted presenta: resultados del día anterior frente al plan y empresas del día. Planeación semanal los lunes, 30 minutos, que usted lidera. Tablero de alianzas al día, el mismo día.',
  'Sin personal a cargo. El equipo de asesoría comercial apoya las activaciones y matricula a los interesados que usted genere, pero no le reporta.',
  'Territorio inicial asignado por gerencia: salud (clínicas, odontología, IPS), fundaciones, cajas de compensación y organizaciones grandes. Una empresa queda a su nombre cuando la registra primero en el tablero. Gerencia puede ajustar el territorio por escrito.',
- 'Cierra con las tarifas y los documentos estándar de la academia; no está facultado para otorgar descuentos. Convenios y órdenes los firma el representante legal.'])
+ 'Cierra con las tarifas y los documentos estándar de la academia; no está facultado para otorgar descuentos. Convenios y órdenes los firma el representante legal.',
+ 'Cuando gerencia lo asigne, podrá trabajar la base de contactos de la academia (interesados que llegaron por publicidad y no cerraron): esas matrículas pagan la comisión de cierre vigente de las asesoras y cuentan al 50% para su meta.'])
 
 sec('4. Revisión de resultados')
 t('El jueves 11 de diciembre de 2026, dentro del periodo de prueba, se revisan los resultados del cargo: inscritos con pago recibido, firmas activadas y cumplimiento de los indicadores de gestión. La continuidad del cargo depende de esa revisión.', after=2)
@@ -60,7 +61,7 @@ bullets([
  'Acepte esta oferta respondiendo por escrito antes del jueves 22 de octubre de 2026 a las 6:00 p. m.',
  'Firma del contrato y del anexo de compensación: viernes 23 de octubre de 2026 en la sede. Traer: cédula, RUT, certificación bancaria, certificados de afiliación a EPS y fondo de pensiones, hoja de vida y certificados laborales.',
  'Esta oferta reemplaza cualquier conversación anterior sobre los términos del cargo y pierde vigencia si no se acepta en el plazo indicado.'])
-t('', after=10)
+t('', after=4)
 t('_________________________________', after=0)
 t('Diana Marcela Gómez Rangel', bold=True, after=0)
 t('Gerente · Heiiu English Academy · Global Teacher S.A.S.', size=9, color=GRIS, after=8)
