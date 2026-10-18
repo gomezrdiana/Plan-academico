@@ -61,13 +61,13 @@ bullets([
 
 sec('4. Seguimiento')
 bullets([
- 'Todos los días a las 8:00 a. m., 15 minutos con gerencia (lunes en la sede, el resto por llamada): qué hiciste ayer y qué empresas tienes hoy. Toda empresa se registra en la planilla antes de la primera reunión; planilla al día es condición para liquidar.'])
+ 'Todos los días a las 8:30 a. m., 15 minutos con gerencia (lunes en la sede, el resto por llamada): rutina del día, dudas, sugerencias, recomendaciones e indicadores si los hay. Toda empresa se registra en la planilla antes de la primera reunión; planilla al día es condición para liquidar.'])
 
 sec('5. Qué pone Heiiu')
 t('Inducción el lunes 19 de 8:00 a 10:00 a. m. en la sede; propuesta ejecutiva, hoja de precios y mensaje de contacto; planilla; coordinación para contratos y pagos; material de marca. Transporte y celular son tuyos.')
 
 sec('6. Qué recibes')
-t('Honorarios de $1.000.000 por el reto, contra cuenta de cobro el 3 de noviembre, más el 10% de lo que haya entrado a caja hasta esa fecha por tus inscritos. Y si llegas a 10, un bono adicional de $1.000.000 de contado. Con los 10 inscritos pagados, así queda:', after=2)
+t('Honorarios de $1.000.000 por el reto, contra cuenta de cobro el 3 de noviembre, más el 10% de lo que haya entrado a caja hasta esa fecha por tus inscritos: honorarios y comisión se pagan pase lo que pase con la meta. Y si llegas a 10, un bono adicional de $1.000.000 de contado. Si la academia te entrega a alguien ya avanzado para que lo cierres, te pagan comisión, pero no cuenta para los 10. Con los 10 inscritos pagados, así queda:', after=2)
 tb = doc.add_table(rows=1, cols=4); tb.style = 'Table Grid'
 for i, h in enumerate(['Los 10 inscritos', 'Entra a caja', 'Comisión 10%', 'Total para ti (honorarios + bono + comisión)']):
     c = tb.rows[0].cells[i]; shd(c, 'E54C09'); c.paragraphs[0].paragraph_format.space_after = Pt(0)

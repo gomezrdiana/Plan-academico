@@ -58,7 +58,7 @@ bullets([
  'Lunes 20 de octubre a martes 3 de noviembre, por prestación de servicios. Diez días hábiles, el 2 es festivo.',
  'Meta: 10 inscritos pagados (contado, o inicial más contrato firmado), traídos por él (empresas, referidos o conocidos), registrados en su planilla antes de pagar.',
  'Empresas de dueño, 40 a 150 empleados, donde el que decide está en la reunión. Tú abres, das una charla de 20 minutos a su gente y cierras. El pago entra a Heiiu y coordinación firma el contrato.',
- 'Un millón de honorarios más el 10% de la caja que entre hasta el 3 de noviembre, y un bono de un millón de contado si llega a 10. 15 minutos conmigo todos los días a las 8:00.',
+ 'Un millón de honorarios más el 10% de la caja que entre hasta el 3 de noviembre, y un bono de un millón de contado si llega a 10. 15 minutos conmigo todos los días a las 8:30.',
  'El 4 de noviembre: 10 o más, contrato laboral con la meta a tu ritmo. 5 a 9, contrato con el esquema normal. Menos de 5, hasta ahí.'])
 t('4. La plata, una frase:', bold=True, after=1)
 caja('"Si logras los 10 te vas con entre 5 y 7 millones por 15 días. Pediste de 4 a 8 al mes. Aquí está."')
@@ -68,7 +68,7 @@ caja('"¿Con qué cinco empresas arrancas mañana? Nombre del dueño o gerente."
 anota('1 __________ 2 __________ 3 __________ 4 __________ 5 __________.   Sin cinco con persona puede aceptar igual, pero ya sabes qué esperar el lunes.')
 t('6. Cierre, 1 minuto:', bold=True, after=1)
 caja('"¿Lo tomas? Te mando el reto por escrito al salir, me respondes acepto hoy, y esta noche te llega el kit, el formato y los documentos. Lunes 8:00 en la sede, dos horas y a la calle."')
-t('Si pide más fijo: "El fijo sube el 4 de noviembre con el contrato." Si pide una semana de inducción: "Son dos horas y yo contigo todos los días a las 8:00." Si pregunta si hay más gente: "Hay otro ejecutivo en otro sector. Tu lista es tuya." No se dice "estás contratado". No se menciona a nadie más. Lo de Tiresia se lo pregunta Carlos el martes.', size=9.5, color=GRIS, after=0)
+t('Si pide más fijo: "El fijo sube el 4 de noviembre con el contrato." Si pide una semana de inducción: "Son dos horas y yo contigo todos los días a las 8:30." Si pregunta si hay más gente: "Hay otro ejecutivo en otro sector. Tu lista es tuya." No se dice "estás contratado". No se menciona a nadie más. Lo de Tiresia se lo pregunta Carlos el martes.', size=9.5, color=GRIS, after=0)
 doc.add_page_break()
 
 sec('Lo que respondió el 16/10, leído contra lo que pedimos')
@@ -127,11 +127,11 @@ bullets([
  'Qué recibe: $1.000.000 de honorarios por el reto (cuenta de cobro el 3/11), más 10% de la caja que entre hasta esa fecha de los inscritos que él trajo, más un bono de $1.000.000 de contado si llega a 10.',
  'La plata en una frase: "Si logras los 10 te vas con entre 5 y 7 millones por 15 días: un millón de honorarios, un millón de bono y el 10% de caja. Pediste de 4 a 8 al mes. Aquí está." (10 cupos pagados por la empresa: $6.350.000 · 10 completos pagados por empleados: $6.782.800 · 10 Arranques: $4.990.000).',
  'Qué pasa el 4 de noviembre: 10 o más = contrato laboral (básico $2M más prestaciones, piso $3,5M por indicadores, 10% de caja sin tope) con la meta puesta a su propio ritmo: noviembre 10 inscritos, diciembre 12, enero 15. "La meta de tu contrato va a ser lo que hagas en el reto, nunca menos." 5 a 9 = el mismo contrato con los indicadores estándar del cargo. Menos de 5 = se paga el reto y termina. El contrato es indefinido con periodo de prueba de 2 meses; eso se dice si pregunta, no se adelanta.',
- 'Qué pone Heiiu: inducción de 2 horas el lunes, propuesta y oferta a empleados cerradas (él no inventa precios), hoja de precios y mensaje de contacto, planilla, coordinación para contratos y pagos, 15 minutos diarios a las 8:00 con gerencia. No hay asesora: él presenta y cierra.',
+ 'Qué pone Heiiu: inducción de 2 horas el lunes, propuesta y oferta a empleados cerradas (él no inventa precios), hoja de precios y mensaje de contacto, planilla, coordinación para contratos y pagos, 15 minutos diarios a las 8:30 con gerencia. No hay asesora: él presenta y cierra.',
  'Ritmo mínimo: 15 empresas con decisor contactadas en los primeros 2 días, 8 reuniones con decisor la primera semana, 3 charlas autorizadas para la segunda.'])
 caja('"¿Con qué empresas arrancas el lunes? Dame cinco, con nombre del dueño o gerente, que te reciban esta semana."')
 anota('1 __________ 2 __________ 3 __________ 4 __________ 5 __________.   Esta es la respuesta que decide. Si no tiene cinco con persona, el reto no arranca el lunes: se le da hasta el miércoles para mandar la lista y arranca el jueves.')
-caja('"¿Lo tomas?" Si pide más honorarios: "El fijo sube el 4 de noviembre con el contrato. Lo que sube en el reto es la comisión." Si pide que la meta sea en reuniones: no, la meta es caja. Si pide una semana de inducción: "Son dos horas el lunes y yo contigo 15 minutos todos los días a las 8:00; lo demás se aprende en la calle." Si pregunta si hay más gente vendiendo: "Hay otro ejecutivo de alianzas en otro sector. Tu lista es tuya." Nada más sobre eso.', size=9.5)
+caja('"¿Lo tomas?" Si pide más honorarios: "El fijo sube el 4 de noviembre con el contrato. Lo que sube en el reto es la comisión." Si pide que la meta sea en reuniones: no, la meta es caja. Si pide una semana de inducción: "Son dos horas el lunes y yo contigo 15 minutos todos los días a las 8:30; lo demás se aprende en la calle." Si pregunta si hay más gente vendiendo: "Hay otro ejecutivo de alianzas en otro sector. Tu lista es tuya." Nada más sobre eso.', size=9.5)
 
 sec('5. Cierre (2 min)')
 caja('"Te mando hoy el reto por escrito en una página. Me respondes acepto hoy mismo, y con eso te llega el formato y el mensaje de contacto para que mañana empieces con la lista de 15 empresas. El lunes a las 8:00 en la sede, inducción de 2 horas y a la calle. Antes del lunes hablo con tu referencia de Tiresia."')
