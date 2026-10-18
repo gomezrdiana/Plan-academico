@@ -56,12 +56,12 @@ caja('"No vendemos inglés fácil ni rápido. Vendemos un entrenamiento exigente
 t('3. El reto, de corrido, 3 minutos (no pausas hasta terminar):', bold=True, after=1)
 bullets([
  'Lunes 20 de octubre a martes 3 de noviembre, por prestación de servicios. Diez días hábiles, el 2 es festivo.',
- 'Meta: 10 inscritos con inicial pagada, por empresas, al menos 5 de una misma empresa.',
+ 'Meta: 10 inscritos con inicial pagada, traídos por él (empresas, referidos o conocidos), registrados en su planilla antes de pagar y que no estén ya en la base de Heiiu.',
  'Empresas de dueño, 40 a 150 empleados, donde el que decide está en la reunión. Tú abres, das una charla de 20 minutos a su gente y cierras. El pago entra a Heiiu y coordinación firma el contrato.',
- 'Un millón de honorarios más el 10% de la caja que entre hasta el 3 de noviembre. 15 minutos conmigo todos los días a las 8:00.',
+ 'Un millón de honorarios más el 10% de la caja que entre hasta el 3 de noviembre, y un bono de un millón de contado si llega a 10. 15 minutos conmigo todos los días a las 8:00.',
  'El 4 de noviembre: 10 o más, contrato laboral con la meta a tu ritmo. 5 a 9, contrato con el esquema normal. Menos de 5, hasta ahí.'])
 t('4. La plata, una frase:', bold=True, after=1)
-caja('"Si logras los 10 te vas con entre 4 y 6 millones por 15 días. Pediste de 4 a 8 al mes. Aquí está."')
+caja('"Si logras los 10 te vas con entre 5 y 7 millones por 15 días. Pediste de 4 a 8 al mes. Aquí está."')
 t('5. Las dos preguntas que sí haces, 3 minutos:', bold=True, after=1)
 caja('"Y ahora, las consultorías y la fotografía: ¿se cierran o siguen? Esto es tiempo completo."   Se acepta "fin de semana". No se acepta "manejo las dos".')
 caja('"¿Con qué cinco empresas arrancas mañana? Nombre del dueño o gerente."')
@@ -122,10 +122,10 @@ t('Antes del reto, El Pacto en un minuto: "No vendemos inglés fácil ni rápido
 t('El reto no es el contrato. Es la prueba real, pagada, antes del contrato. Se dice completo, de corrido, y luego se pregunta.', size=9.5, color=GRIS, after=2)
 bullets([
  'Del lunes 20 de octubre al martes 3 de noviembre (10 días hábiles; el 2 es festivo), por prestación de servicios, no contrato laboral.',
- 'Meta única: 10 inscritos con inicial pagada, vía empresas, al 3 de noviembre. Al menos 5 de una misma empresa.',
+ 'Meta única: 10 inscritos con inicial pagada al 3 de noviembre, traídos por él: empresas, referidos o conocidos. Registrados en su planilla antes de pagar; no cuentan los que ya estaban en la base de Heiiu.',
  'Dónde: empresas de dueño, 40 a 150 empleados, donde el que decide está en la reunión y autoriza una charla de 20 minutos con su gente. Nada de compras ni multinacionales: no firman en dos semanas.',
- 'Qué recibe: $1.000.000 de honorarios por el reto (cuenta de cobro el 3/11) más 10% de la caja que entre hasta esa fecha de los inscritos que él trajo.',
- 'La plata en una frase: "Si logras los 10 te vas con entre 4 y 6 millones por 15 días: un millón de honorarios más el 10% de caja. Pediste de 4 a 8 al mes. Aquí está." (10 cupos pagados por la empresa: $5.350.000 · 10 completos pagados por empleados: $5.782.800 · 10 Arranques: $3.990.000).',
+ 'Qué recibe: $1.000.000 de honorarios por el reto (cuenta de cobro el 3/11), más 10% de la caja que entre hasta esa fecha de los inscritos que él trajo, más un bono de $1.000.000 de contado si llega a 10.',
+ 'La plata en una frase: "Si logras los 10 te vas con entre 5 y 7 millones por 15 días: un millón de honorarios, un millón de bono y el 10% de caja. Pediste de 4 a 8 al mes. Aquí está." (10 cupos pagados por la empresa: $6.350.000 · 10 completos pagados por empleados: $6.782.800 · 10 Arranques: $4.990.000).',
  'Qué pasa el 4 de noviembre: 10 o más = contrato laboral (básico $2M más prestaciones, piso $3,5M por indicadores, 10% de caja sin tope) con la meta puesta a su propio ritmo: noviembre 10 inscritos, diciembre 12, enero 15. "La meta de tu contrato va a ser lo que hagas en el reto, nunca menos." 5 a 9 = el mismo contrato con los indicadores estándar del cargo. Menos de 5 = se paga el reto y termina. El contrato es indefinido con periodo de prueba de 2 meses; eso se dice si pregunta, no se adelanta.',
  'Qué pone Heiiu: inducción de 2 horas el lunes, propuesta y oferta a empleados cerradas (él no inventa precios), hoja de precios y mensaje de contacto, planilla, coordinación para contratos y pagos, 15 minutos diarios a las 8:00 con gerencia. No hay asesora: él presenta y cierra.',
  'Ritmo mínimo: 15 empresas con decisor contactadas en los primeros 2 días, 8 reuniones con decisor la primera semana, 3 charlas autorizadas para la segunda.'])

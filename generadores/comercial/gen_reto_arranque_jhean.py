@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """RETO DE ARRANQUE de 15 días para el candidato 2 de alianzas (Jhean): prueba real pagada por prestación de servicios
-antes del contrato laboral. Meta única: 10 inscritos con inicial pagada vía empresas al 3/11/2026. 1 página.
+antes del contrato laboral. Meta única: 10 inscritos con inicial pagada traídos por él al 3/11/2026; bono $1M si llega a 10. 1 página.
 Se envía por escrito después de la reunión (ver gen_hoja_reunion_jhean.py, bloque 4).
 Salida (fuera de git): Candidatos/RETO_ARRANQUE_15_DIAS_JHEAN.docx (+ PDF vía Word COM)."""
 from docx import Document
@@ -39,7 +39,7 @@ r = p.add_run('RETO DE ARRANQUE — ALIANZAS EMPRESARIALES'); r.bold = True; r.f
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(6)
 r = p.add_run('Heiiu · Lunes 20 de octubre al martes 3 de noviembre de 2026 · Para: Jhean Cárdenas'); r.font.size = Pt(9.5); r.font.color.rgb = GRIS
 
-caja('Meta única: 10 personas inscritas con inicial pagada en caja de Heiiu al cierre del martes 3 de noviembre, llegadas a través de empresas. Al menos 5 de una misma empresa. Cuenta solo lo que esté pagado a esa fecha.')
+caja('Meta única: 10 personas inscritas con inicial pagada en caja de Heiiu al cierre del martes 3 de noviembre, traídas por ti: empresas, referidos o conocidos. Dos reglas: cada persona queda registrada en tu planilla antes de pagar, y no cuentan los que ya estaban en la base de Heiiu. Cuenta solo lo que esté pagado a esa fecha.')
 
 sec('0. Lo que vendemos (El Pacto)')
 t('No vendemos inglés fácil ni rápido. Vendemos un entrenamiento exigente, con video diario, puntualidad y horas de práctica real, y un destino concreto: el trabajo, el viaje o el estudio que esa persona necesita. El cliente firma sabiendo a qué se compromete. Quien no quiera entrenar así, no es nuestro estudiante, y es mejor que lo sepa en la charla, no en la clase 5.')
@@ -67,15 +67,15 @@ sec('5. Qué pone Heiiu')
 t('Inducción el lunes 20 de 8:00 a 10:00 a. m. en la sede; propuesta ejecutiva, hoja de precios y mensaje de contacto; planilla; coordinación para contratos y pagos; material de marca. Transporte y celular son tuyos.')
 
 sec('6. Qué recibes')
-t('Honorarios de $1.000.000 por el reto, contra cuenta de cobro el 3 de noviembre, más el 10% de lo que haya entrado a caja hasta esa fecha por los inscritos de tus empresas. Con los 10 inscritos pagados, así queda:', after=2)
+t('Honorarios de $1.000.000 por el reto, contra cuenta de cobro el 3 de noviembre, más el 10% de lo que haya entrado a caja hasta esa fecha por tus inscritos. Y si llegas a 10, un bono adicional de $1.000.000 de contado. Con los 10 inscritos pagados, así queda:', after=2)
 tb = doc.add_table(rows=1, cols=4); tb.style = 'Table Grid'
-for i, h in enumerate(['Los 10 inscritos', 'Entra a caja', 'Comisión 10%', 'Total para ti']):
+for i, h in enumerate(['Los 10 inscritos', 'Entra a caja', 'Comisión 10%', 'Total para ti (honorarios + bono + comisión)']):
     c = tb.rows[0].cells[i]; shd(c, 'E54C09'); c.paragraphs[0].paragraph_format.space_after = Pt(0)
     r = c.paragraphs[0].add_run(h); r.bold = True; r.font.size = Pt(9.5); r.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF)
 for fila in [
- ('10 cupos pagados por la empresa ($4.350.000 c/u)', '$43.500.000', '$4.350.000', '$5.350.000'),
- ('10 cupos del programa completo pagados por los empleados ($4.782.800 c/u)', '$47.828.000', '$4.782.800', '$5.782.800'),
- ('10 Arranques pagados en su totalidad ($2.990.000 c/u)', '$29.900.000', '$2.990.000', '$3.990.000')]:
+ ('10 cupos pagados por la empresa ($4.350.000 c/u)', '$43.500.000', '$4.350.000', '$6.350.000'),
+ ('10 cupos del programa completo pagados por los empleados ($4.782.800 c/u)', '$47.828.000', '$4.782.800', '$6.782.800'),
+ ('10 Arranques pagados en su totalidad ($2.990.000 c/u)', '$29.900.000', '$2.990.000', '$4.990.000')]:
     row = tb.add_row().cells
     for i, txt in enumerate(fila):
         row[i].paragraphs[0].paragraph_format.space_after = Pt(0)

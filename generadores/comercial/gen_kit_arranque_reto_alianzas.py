@@ -113,7 +113,7 @@ r = p.add_run('KIT DE ARRANQUE — RETO DE 15 DÍAS · ALIANZAS EMPRESARIALES');
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(5)
 r = p.add_run('Heiiu English Academy · Para el ejecutivo de alianzas · Del lunes 20 de octubre al martes 3 de noviembre de 2026 · Léelo el domingo; llévalo el lunes')
 r.font.size = Pt(9.5); r.font.color.rgb = GRIS
-caja(['**Tu meta única:** 10 personas inscritas con la inicial pagada en la cuenta de Heiiu al martes 3 de noviembre a las 6:00 p. m., llegadas a través de empresas. Al menos 5 de una misma empresa.',
+caja(['**Tu meta única:** 10 personas inscritas con la inicial pagada en la cuenta de Heiiu al martes 3 de noviembre a las 6:00 p. m., traídas por ti: empresas, referidos o conocidos. Cada persona queda registrada en tu planilla antes de pagar; no cuentan los que ya estaban en la base de Heiiu.',
       '**Tu trabajo:** contactas al dueño o gerente, te reúnes con quien decide, das una charla de 20 minutos a sus empleados, presentas y **cierras tú mismo**, en la charla o en el seguimiento. No hay asesora ni cita con asesora. El pago entra a Heiiu; coordinación recibe el pago y firma contrato y pagaré con cada estudiante en la sede, a donde tú lo llevas o lo envías.',
       '**Tu rutina fija:** 15 minutos con gerencia todos los días a las 8:00 a. m. (el lunes 20 en la sede, después por llamada): qué hiciste ayer y qué empresas tienes hoy. La planilla FORMATO_15_EMPRESAS_RETO.xlsx siempre al día.'], size=9.5)
 
