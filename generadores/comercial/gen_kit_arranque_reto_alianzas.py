@@ -113,7 +113,7 @@ r = p.add_run('KIT DE ARRANQUE — RETO DE 15 DÍAS · ALIANZAS EMPRESARIALES');
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(5)
 r = p.add_run('Heiiu English Academy · Para el ejecutivo de alianzas · Del lunes 19 de octubre al martes 3 de noviembre de 2026 · Léelo completo antes de responder al reto')
 r.font.size = Pt(9.5); r.font.color.rgb = GRIS
-caja(['**Tu meta única:** 10 personas inscritas y pagadas en la cuenta de Heiiu al martes 3 de noviembre a las 6:00 p. m., traídas por ti: empresas, referidos o conocidos. Cada persona queda registrada en tu planilla antes de pagar. Inscrito pagado = pagó de contado, o pagó la inicial de su plan de pagos y firmó el contrato con coordinación. Lo ideal es de contado.',
+caja(['**Tu meta:** 10 personas inscritas y pagadas, **o $30.000.000 en caja** de Heiiu, lo que llegue primero, al martes 3 de noviembre a las 6:00 p. m., traídas por ti: empresas, referidos o conocidos, de cualquier programa (completo, parcial, Arranque, plan empresa o inglés para empresarios). Cada persona queda registrada en tu planilla antes de pagar. Inscrito pagado = pagó de contado, o pagó la inicial de su plan de pagos y firmó el contrato con coordinación. Caja = dinero verificado en la cuenta de Heiiu. Lo ideal es de contado: 7 completos de contado ya son la meta.',
       '**Tu trabajo:** contactas al dueño o gerente, te reúnes con quien decide, y cierras tú mismo: lo preferido es que la empresa invierta (plan empresa); si no, la charla de 20 minutos a sus empleados y la inscripción de cada uno con la beca de alianza. El pago entra a Heiiu, de contado idealmente. El estudiante firma el contrato con coordinación en la sede, y pagaré solo si va a cuotas.',
       '**Tu rutina fija:** 15 minutos con gerencia todos los días a las **8:30 a. m.** (el lunes 19 en la sede, después por llamada): rutina del día, dudas, sugerencias, recomendaciones e indicadores si los hay. La planilla FORMATO_15_EMPRESAS_RETO.xlsx siempre al día antes de esa llamada.',
       '**Este kit es la base.** Los guiones de reunión y de charla son nuestra sugerencia: tú tienes la experiencia y los adaptas. Lo que no cambia: qué se ofrece, los precios, lo que no se promete y las reglas.'], size=9.5)
@@ -212,7 +212,7 @@ tabla(['Opción', 'Para quién', 'Valor', 'Cómo se paga'], [
  ('1. Tu empresa paga tu cupo (Plan Empresa)', 'Solo si la empresa firmó la Orden Plan Empresa (existe desde 3 cupos; con menos, cada persona se matricula con la beca de alianza, y la empresa le paga si quiere)', 'Programa completo A1 a B2 por cupo: $4.782.800 (3 a 7 cupos) · $4.350.000 (8 a 15) · $3.950.000 (16 a 30)', 'Lo paga la empresa contra factura: de contado, o inicial (30% en el tramo de 3 a 7; 40% de 8 en adelante) y 3 cuotas mensuales. La empresa escoge a quién le da cada cupo y puede cambiar a la persona antes del inicio, sin cambiar de horario; iniciado el nivel, no.'),
  ('2. Pagas tú, con la beca de la alianza', 'Todo colaborador con carta de su empresa aliada', 'Completo A1 a B2 (lista $8.696.000): **$4.782.800 de contado** · **$5.565.440 a cuotas**', 'Contado: transferencia a la cuenta de Heiiu o tarjeta; crédito de banco o cooperativa y cesantías también cuentan como contado. Cuotas: inicial mínima del 20% ($1.113.088) y cuotas mensuales al 1,9%; firma pagaré. La cuota exacta la da coordinación con el motor de cuotas, nunca de memoria.'),
  ('3. Arranque A1+A2', 'Solo si el completo no le alcanza', '$2.990.000, precio único, sin beca. 200 horas, dos niveles certificados y Módulo de Graduación', 'Contado o máximo dos pagos: la mitad al inscribirse y la otra mitad antes de la primera clase; no hay más cuotas.'),
- ('4. Inglés para empresarios', 'El dueño o gerente que lo quiere para él', 'Personalizado, virtual, a su medida: **$70.000 la hora, mínimo 30 horas** ($2.100.000)', 'De contado. Tú lo agendas con gerencia, que arma el plan con él. Cuenta para tu comisión; para la meta cuenta como un inscrito si paga el paquete de 30 horas.'),
+ ('4. Inglés para empresarios', 'El dueño o gerente que lo quiere para él', 'Personalizado, virtual, a su medida: **$70.000 la hora, mínimo 30 horas** ($2.100.000)', 'De contado. Tú lo agendas con gerencia, que arma el plan con él. Cuenta para tu comisión y para la caja de la meta.'),
 ], [3.4, 3.4, 4.6, 6.6], size=8.5)
 bullets([
  '**Por qué "beca" y no "descuento":** el programa vale $8.696.000. Las becas las otorga el Fondo de Becas de la academia, según el perfil del estudiante y con soportes; la alianza con su empresa le da la columna más alta. Un descuento para todo el mundo no es descuento: es el precio, y así lo entiende la ley. Por eso nunca se dice "descuento" ni se suman dos becas: se aplica la mejor.',
@@ -231,7 +231,7 @@ tabla(['Paso', 'Qué pasa', 'Quién'], [
  ('4. Contrato', 'El estudiante va a la sede. Allí, en físico: contrato de matrícula, anexo de garantía y, solo si va a cuotas, el pagaré (si requiere codeudor se define ahí). Menor de 18: firma el acudiente.', 'Coordinación'),
  ('5. Cupo', 'Grupo del 3 de noviembre; el horario lo definen los primeros matriculados (empresa con 8 o más: su propio horario). Plan Empresa: la orden la firma gerencia y la empresa designa a sus colaboradores; puede cambiar a la persona antes del inicio sin cambiar de horario.', 'Coordinación · gerencia'),
 ], [3.0, 12.0, 3.0], size=8.5)
-caja(['**Qué cuenta como "inscrito pagado" para el reto:** pagó de contado, o pagó la inicial de su plan de pagos y firmó el contrato con coordinación, **en la cuenta de Heiiu y verificado por coordinación,** a más tardar el martes 3 de noviembre a las 6:00 p. m. En Plan Empresa, cada cupo cuenta cuando entra el pago inicial de la empresa por ese cupo.',
+caja(['**Qué cuenta para la meta:** inscrito pagado = pagó de contado, o pagó la inicial de su plan de pagos y firmó el contrato con coordinación; caja = todo lo que entre a la cuenta de Heiiu por tus ventas, de cualquier programa, **verificado por coordinación,** a más tardar el martes 3 de noviembre a las 6:00 p. m. En Plan Empresa, cada cupo cuenta cuando entra el pago inicial de la empresa por ese cupo.',
       '**No cuenta:** una promesa de pago, un pantallazo sin verificar, dinero que alguien te entregue a ti, ni el abono de separación de $300.000 solo. **Los que ya venían avanzados** y que la academia te entregue para cerrar: te pagan comisión, pero no cuentan para los 10.'], size=9)
 
 # ---------------------------------------------------------------- 10
@@ -270,7 +270,7 @@ tabla(['Fecha', 'Qué tiene que estar hecho'], [
  ('Mié 21 a vie 23/10', 'Reuniones. Corte de la semana 1: **8 reuniones con decisor y 3 charlas autorizadas** (o planes empresa en firma) para la semana 2, con fecha.'),
  ('Lun 26 a vie 30/10', 'Charlas, cierres e inscripciones. Recomendación: charlas hechas a más tardar el jueves 29, para que los pagos alcancen a entrar antes del corte y los inscritos puedan abrir grupo el 3 de noviembre.'),
  ('Lun 2/11', 'Festivo: no se contacta a nadie por iniciativa tuya.'),
- ('Mar 3/11', '**Corte a las 6:00 p. m.:** inscritos pagados y verificados por coordinación. Planilla cerrada y cuenta de cobro. Ese mismo día abre el grupo del 3 de noviembre.'),
+ ('Mar 3/11', '**Corte a las 6:00 p. m.:** inscritos pagados y caja, verificados por coordinación. Planilla cerrada y cuenta de cobro. Ese mismo día abre el grupo del 3 de noviembre.'),
 ], [3.4, 14.6], size=8.5)
 sub('Qué llevas en la maleta (todo está en tu carpeta)')
 tabla(['Archivo', 'Para qué', 'Ojo'], [
@@ -287,11 +287,11 @@ sec('13. Tu compensación en el reto')
 tabla(['Concepto', 'Cuánto', 'Cuándo y cómo'], [
  ('Honorarios del reto', '$1.000.000', 'Contra cuenta de cobro el 3 de noviembre. Se pagan pase lo que pase con la meta.'),
  ('Comisión', '10% de lo que entre a caja hasta el 3 de noviembre por tus inscritos', 'Se paga aunque no llegues a la meta. Si un inscrito paga inicial y cuotas, el 3 de noviembre se liquida el 10% de la inicial y el 10% de cada cuota cuando entra.'),
- ('Bono', '$1.000.000 de contado', 'Solo si llegas a 10 inscritos pagados al 3 de noviembre a las 6:00 p. m.'),
+ ('Bono', '$1.000.000 de contado', 'Solo si llegas a la meta al 3 de noviembre a las 6:00 p. m.: 10 inscritos pagados o $30.000.000 en caja, lo que llegue primero.'),
  ('Los que ya venían avanzados', '10% de lo que entre', 'Si la academia te entrega a alguien ya avanzado para que lo cierres, te pagan comisión, pero no cuenta para los 10.'),
  ('Después del 3 de noviembre', 'Se define con el resultado', 'El 4 de noviembre, con los números del reto, gerencia y tú hablan de cómo seguir. El reto no obliga a nada más que lo escrito aquí.'),
 ], [3.6, 5.0, 9.4], size=8.5)
-caja('Con los 10 inscritos pagados: 10 cupos pagados por la empresa ($4.350.000 c/u) = $6.350.000 para ti · 10 completos pagados por empleados ($4.782.800 c/u) = $6.782.800 · 10 Arranques ($2.990.000 c/u) = $4.990.000. Siempre: honorarios + bono + comisión.', size=9.5)
+caja('Ejemplos con la meta cumplida: 7 completos de contado ($4.782.800 c/u) = $33.479.600 de caja = $5.347.960 para ti · 10 cupos pagados por la empresa ($4.350.000 c/u) = $6.350.000 para ti · 10 completos pagados por empleados ($4.782.800 c/u) = $6.782.800 · 10 Arranques ($2.990.000 c/u) = $4.990.000. Siempre: honorarios + bono + comisión.', size=9.5)
 
 out = BASE + r'\KIT_ARRANQUE_RETO_15_DIAS_ALIANZAS.docx'
 try:

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """RETO DE ARRANQUE de 15 días para el candidato 2 de alianzas (Jhean): prueba real pagada por prestación de servicios
-antes del contrato laboral. Meta única: 10 inscritos con inicial pagada traídos por él al 3/11/2026; bono $1M si llega a 10. 1 página.
+antes del contrato laboral. Meta: 10 inscritos pagados o $30M en caja al 3/11/2026, lo que llegue primero; bono $1M si llega. 1 página.
 Se envía por escrito después de la reunión (ver gen_hoja_reunion_jhean.py, bloque 4).
 Salida (fuera de git): Candidatos/RETO_ARRANQUE_15_DIAS_JHEAN.docx (+ PDF vía Word COM)."""
 from docx import Document
@@ -39,7 +39,7 @@ r = p.add_run('RETO DE ARRANQUE — ALIANZAS EMPRESARIALES'); r.bold = True; r.f
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(6)
 r = p.add_run('Heiiu · Lunes 19 de octubre al martes 3 de noviembre de 2026 · Para: Jhean Cárdenas'); r.font.size = Pt(9.5); r.font.color.rgb = GRIS
 
-caja('Meta única: 10 personas inscritas y pagadas en caja de Heiiu al cierre del martes 3 de noviembre, traídas por ti: empresas, referidos o conocidos. Cada persona queda registrada en tu planilla antes de pagar. Inscrito pagado = pagó de contado, o pagó la inicial de su plan de pagos y firmó el contrato con coordinación. Lo ideal es de contado.', size=9.5)
+caja('Meta: 10 personas inscritas y pagadas, o $30.000.000 en caja de Heiiu, lo que llegue primero, al cierre del martes 3 de noviembre, traídas por ti: empresas, referidos o conocidos, de cualquier programa (completo, parcial, Arranque, plan empresa o inglés para empresarios). Cada persona queda registrada en tu planilla antes de pagar. Inscrito pagado = pagó de contado, o pagó la inicial de su plan de pagos y firmó el contrato con coordinación. Caja = dinero verificado en la cuenta de Heiiu. Lo ideal es de contado.', size=9.5)
 
 sec('0. Lo que vendemos (El Pacto)')
 t('No vendemos inglés fácil ni rápido. Vendemos un entrenamiento exigente, con video diario, puntualidad y horas de práctica real, y un destino concreto: el trabajo, el viaje o el estudio que esa persona necesita. El cliente firma sabiendo a qué se compromete. Quien no quiera entrenar así, no es nuestro estudiante, y es mejor que lo sepa en la charla, no en la clase 5.')
@@ -67,7 +67,7 @@ sec('5. Qué pone Heiiu')
 t('Inducción el lunes 19 de 8:00 a 10:00 a. m. en la sede; propuesta ejecutiva, hoja de precios y mensaje de contacto; planilla; coordinación para contratos y pagos; material de marca. Transporte y celular son tuyos.')
 
 sec('6. Qué recibes')
-t('Honorarios de $1.000.000 por el reto, contra cuenta de cobro el 3 de noviembre, más el 10% de lo que haya entrado a caja hasta esa fecha por tus inscritos: honorarios y comisión se pagan pase lo que pase con la meta. Y si llegas a 10, un bono adicional de $1.000.000 de contado. Si la academia te entrega a alguien ya avanzado para que lo cierres, te pagan comisión, pero no cuenta para los 10. Con los 10 inscritos pagados, así queda:', after=2)
+t('Honorarios de $1.000.000 por el reto, contra cuenta de cobro el 3 de noviembre, más el 10% de lo que haya entrado a caja hasta esa fecha por tus inscritos: honorarios y comisión se pagan pase lo que pase con la meta. Y si llegas a la meta (10 inscritos o $30.000.000 en caja), un bono adicional de $1.000.000 de contado. Si la academia te entrega a alguien ya avanzado para que lo cierres, te pagan comisión, pero no cuenta para los 10. Con los 10 inscritos pagados, así queda:', after=2)
 tb = doc.add_table(rows=1, cols=4); tb.style = 'Table Grid'
 for i, h in enumerate(['Los 10 inscritos', 'Entra a caja', 'Comisión 10%', 'Total para ti (honorarios + bono + comisión)']):
     c = tb.rows[0].cells[i]; shd(c, 'E54C09'); c.paragraphs[0].paragraph_format.space_after = Pt(0)

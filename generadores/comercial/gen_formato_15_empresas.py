@@ -26,7 +26,7 @@ wb = Workbook()
 ws = wb.active; ws.title = 'EMPRESAS'
 ws['A1'] = 'RETO DE 15 DÍAS · EMPRESAS (20/10 al 3/11/2026)'; ws['A1'].font = TIT_FONT
 ws['A2'] = ('Toda empresa se registra aquí ANTES de la primera reunión. Empresas de 40 a 150 empleados donde el dueño o el gerente decide. '
-            'Planilla al día antes de la llamada de las 8:00 a. m. Uso interno: los datos no se comparten.')
+            'Planilla al día antes de la llamada de las 8:30 a. m. Uso interno: los datos no se comparten.')
 ws['A2'].font = NOTA_FONT; ws.merge_cells('A2:O2'); ws.row_dimensions[2].height = 28; ws['A2'].alignment = WRAP
 cols = [('#', 5), ('Empresa', 24), ('Sector', 16), ('Nº empleados', 11), ('Decisor (nombre)', 22), ('Cargo', 16),
         ('Celular', 14), ('Cómo lo conoces', 18), ('Fecha contacto', 12), ('Fecha reunión', 12),
@@ -72,11 +72,11 @@ ws.sheet_properties.pageSetUpPr.fitToPage = True
 
 # ------------------------------------------------------------ REPORTE DIARIO
 wr = wb.create_sheet('REPORTE DIARIO')
-wr['A1'] = 'REPORTE DIARIO · se llena antes de la llamada de las 8:00 a. m.'; wr['A1'].font = TIT_FONT
-wr['A2'] = ('Tres líneas por día. Inscritos pagados = inicial en la cuenta de Heiiu, verificada por coordinación. '
+wr['A1'] = 'REPORTE DIARIO · se llena antes de la llamada de las 8:30 a. m.'; wr['A1'].font = TIT_FONT
+wr['A2'] = ('Cuatro datos por día. Inscritos pagados = contado, o inicial más contrato firmado. Caja = dinero verificado en la cuenta de Heiiu. Meta: 10 inscritos o $30.000.000, lo que llegue primero. '
             'Corte: martes 3/11 a las 6:00 p. m. El lunes 2/11 es festivo.')
-wr['A2'].font = NOTA_FONT; wr.merge_cells('A2:E2'); wr['A2'].alignment = WRAP; wr.row_dimensions[2].height = 28
-hdr = [('Fecha', 13), ('Empresas contactadas hoy', 16), ('Reuniones hechas hoy', 16), ('Inscritos pagados acumulados', 18), ('Nota del día (1 línea)', 50)]
+wr['A2'].font = NOTA_FONT; wr.merge_cells('A2:F2'); wr['A2'].alignment = WRAP; wr.row_dimensions[2].height = 28
+hdr = [('Fecha', 13), ('Empresas contactadas hoy', 16), ('Reuniones hechas hoy', 16), ('Inscritos pagados acumulados', 18), ('Caja acumulada ($)', 18), ('Nota del día (1 línea)', 46)]
 for i, (h, w) in enumerate(hdr, 1):
     c = wr.cell(row=4, column=i, value=h); c.fill = HDR_FILL; c.font = HDR_FONT; c.alignment = CENT; c.border = BORDE
     wr.column_dimensions[get_column_letter(i)].width = w
@@ -91,13 +91,13 @@ wr.add_data_validation(dv_n)
 for k, dia in enumerate(dias):
     r = 5 + k
     c = wr.cell(row=r, column=1, value=dia); c.number_format = 'DD/MM/YYYY'
-    for ci in range(1, 6):
+    for ci in range(1, 7):
         cc = wr.cell(row=r, column=ci); cc.border = BORDE; cc.alignment = WRAP; cc.font = Font(name='Calibri', size=10)
         if k % 2 == 1: cc.fill = CREMA_FILL
     if dia == dt.date(2026, 11, 2):
-        wr.cell(row=r, column=5, value='Festivo: sin contacto a clientes')
+        wr.cell(row=r, column=6, value='Festivo: sin contacto a clientes')
     if dia == dt.date(2026, 11, 3):
-        wr.cell(row=r, column=5, value='CORTE 6:00 p. m.')
+        wr.cell(row=r, column=6, value='CORTE 6:00 p. m.')
     wr.row_dimensions[r].height = 20
 lr = 4 + len(dias)
 dv_n.add(f'B5:D{lr}')
@@ -105,10 +105,13 @@ wr.cell(row=lr + 1, column=1, value='TOTAL').font = Font(name='Calibri', bold=Tr
 wr.cell(row=lr + 1, column=2, value=f'=SUM(B5:B{lr})').font = Font(name='Calibri', bold=True)
 wr.cell(row=lr + 1, column=3, value=f'=SUM(C5:C{lr})').font = Font(name='Calibri', bold=True)
 wr.cell(row=lr + 1, column=4, value=f'=MAX(D5:D{lr})').font = Font(name='Calibri', bold=True)
+wr.cell(row=lr + 1, column=5, value=f'=MAX(E5:E{lr})').font = Font(name='Calibri', bold=True)
+wr.cell(row=lr + 1, column=5).number_format = '#,##0'
+for rr in range(5, lr + 1): wr.cell(row=rr, column=5).number_format = '#,##0'
 wr.cell(row=lr + 3, column=1, value='Ritmo mínimo').font = Font(name='Calibri', bold=True, color=NAR)
 for j, txt in enumerate(['Mar 20/10: 15 empresas contactadas con el decisor (acumulado).',
                          'Vie 23/10: 8 reuniones con decisor y 3 charlas autorizadas para la semana 2.',
-                         'Mar 3/11, 6:00 p. m.: 10 inscritos pagados.']):
+                         'Mar 3/11, 6:00 p. m.: 10 inscritos pagados o $30.000.000 en caja, lo que llegue primero.']):
     wr.cell(row=lr + 4 + j, column=1, value=txt).font = NOTA_FONT
 wr.freeze_panes = 'B5'
 
