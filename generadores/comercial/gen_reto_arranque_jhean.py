@@ -99,7 +99,7 @@ bullets([
 sec('9. Reglas')
 t('Información de Heiiu (precios, materiales, bases) confidencial y solo para este reto. Empresas y contactos registrados quedan en la base de Heiiu. Comisión solo sobre dinero efectivamente recibido.', size=8)
 
-t('Confirmas respondiendo "acepto" a este mensaje hoy. Con eso te enviamos el formato y el mensaje de contacto para que arranques mañana.', size=10.5, bold=True, after=0)
+t('Confirmas respondiendo "acepto" a este mensaje antes del sábado 18 de octubre a las 12:00 del día. Con eso te enviamos el kit, el formato y los documentos para que arranques el mismo sábado con la lista de empresas.', size=10.5, bold=True, after=0)
 
 out = BASE + r'\Jhean Cardenas\RETO_ARRANQUE_15_DIAS_JHEAN.docx'
 try: doc.save(out); print('OK', out)
