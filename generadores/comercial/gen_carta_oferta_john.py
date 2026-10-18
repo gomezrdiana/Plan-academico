@@ -29,8 +29,8 @@ def bullets(items, size=8):
 t('Heiiu English Academy · Global Teacher S.A.S.', size=8.5, color=GRIS, after=0)
 t('Bucaramanga, 18 de octubre de 2026', after=4)
 t('OFERTA LABORAL — GERENTE DE ALIANZAS EMPRESARIALES', bold=True, size=12, color=NAR, after=2, align=WD_ALIGN_PARAGRAPH.CENTER)
-t('Señor John Hinestroza', after=3)
-t('Después de nuestras conversaciones y de la verificación de sus referencias, le presentamos por escrito la oferta para incorporarse a la academia. Estos son los términos; el contrato y su anexo de compensación recogen exactamente lo mismo. La oferta está sujeta a los exámenes médicos de ingreso.', after=3)
+t('Para: John Hinestroza', after=3)
+t('Después de las conversaciones sostenidas y de la verificación de referencias, Heiiu English Academy presenta por escrito la oferta para el cargo. Estos son los términos; el contrato y su anexo de compensación recogen exactamente lo mismo. La oferta está sujeta a los exámenes médicos de ingreso.', after=3)
 
 sec('1. Cargo, contrato y fecha de inicio')
 bullets([
@@ -41,7 +41,7 @@ bullets([
 sec('2. Compensación (detalle en el anexo de compensación)')
 bullets([
  'Básico: salario mínimo legal más auxilio de transporte ($2.000.000 en 2026), más prestaciones sociales y seguridad social de ley.',
- 'Comisión del 10% sobre el recaudo del primer año de los contratos de plan empresa y programas personalizados que usted cierre; se liquida mes vencido sobre lo efectivamente recaudado, sin tope.',
+ 'Comisión del 10% sobre el recaudo del primer año de los contratos de plan empresa y programas personalizados cerrados por el Gerente de Alianzas; se liquida mes vencido sobre lo efectivamente recaudado, sin tope.',
  'Acelerador: aplica solo sobre lo que venda por encima de la meta del trimestre ($90.000.000 en el primero). Ese excedente comisiona al 15% hasta el 130% de la meta y al 20% de ahí en adelante, siempre que en ese trimestre haya firmado al menos dos empresas nuevas con pago recibido.',
  'Cartera de alianzas: 6% de los pagos de cada estudiante que se matricule con carta de una empresa aliada registrada a su nombre, durante los 12 meses siguientes a su matrícula, y 3% del mes 13 al 24. Si el contrato termina, se pagan las comisiones causadas sobre lo recaudado hasta la fecha de retiro; la cartera y las alianzas quedan en la empresa.',
  'Ingreso mínimo garantizado de $3.500.000 en cada uno de los meses 1 a 3 en que cumpla los indicadores de gestión y de firmas (mes 1: 40 empresas contactadas con quien decide, 12 reuniones y 2 firmas; mes 2: 4 firmas acumuladas y 2 activaciones; mes 3: 6 firmas acumuladas y 3 activaciones). La meta de ventas de $30.000.000 mensuales no es condición de esta garantía. Si en un mes no se cumplen los indicadores, se paga el básico más las comisiones causadas.',
@@ -52,19 +52,19 @@ t('El periodo de prueba se evalúa con ventas, no solo con gestión. Antes de su
 
 sec('4. Forma de trabajo')
 bullets([
- 'Reunión diaria de seguimiento con gerencia de 15 a 30 minutos, de lunes a viernes a las 8:45 a. m., que usted presenta: resultados del día anterior frente al plan y empresas del día. Es virtual, salvo dos días a la semana que son presenciales en la sede, con gerencia o con quien gerencia designe (socio financiero o asesor externo). Planeación semanal los lunes, 30 minutos, presencial. Tablero de alianzas al día, el mismo día. Fuera de eso, autonomía para organizar su agenda y sus visitas.',
- 'Sin personal a cargo. El equipo de asesoría comercial apoya las activaciones y matricula a los interesados que usted genere, pero no le reporta: usted es responsable de que esa gestión ocurra, le hace seguimiento y escala a gerencia lo que no avance.',
+ 'Reunión diaria de seguimiento con gerencia de 15 a 30 minutos, de lunes a viernes a las 8:45 a. m., presentada por el Gerente de Alianzas: resultados del día anterior frente al plan y empresas del día. Es virtual, salvo dos días a la semana que son presenciales en la sede, con gerencia o con quien gerencia designe (socio financiero o asesor externo). Planeación semanal los lunes, 30 minutos, presencial. Tablero de alianzas al día, el mismo día. Fuera de eso, autonomía para organizar la agenda y las visitas.',
+ 'Sin personal a cargo. El equipo de asesoría comercial apoya las activaciones y matricula a los interesados que el Gerente de Alianzas genere, pero no le reporta: el Gerente de Alianzas es responsable de que esa gestión ocurra, le hace seguimiento y escala a gerencia lo que no avance.',
  'Territorio inicial: salud (clínicas, odontología, IPS), fundaciones, cajas de compensación y organizaciones grandes. Puede haber otros comerciales B2B en otros sectores. Regla única de atribución: una empresa es de quien la registra primero en el tablero, con 60 días para la primera reunión con el decisor; vencido ese plazo sin reunión, se libera. Los conflictos los resuelve gerencia por escrito.',
- 'Cuando gerencia le asigne contactos de la base de la academia, son para trabajarlos como a cualquier cliente, con la comisión de cierre vigente de las asesoras; esas ventas cuentan al 50% para su meta.',
+ 'Cuando gerencia asigne contactos de la base de la academia, son para trabajarlos como a cualquier cliente, con la comisión de cierre vigente de las asesoras; esas ventas cuentan al 50% para la meta del cargo.',
  'Cierra con las tarifas y los documentos estándar de la academia; no está facultado para otorgar descuentos. Convenios y órdenes los firma el representante legal.'])
 
 sec('5. La realidad de la empresa')
-t('Usted acepta el cargo conociendo la realidad de la academia: una empresa pequeña, en crecimiento, donde los resultados se necesitan rápido y no hay tiempos de empresa grande. Por eso la inducción es de un día y medio y no de una semana: el producto se aprende con el kit de trabajo, en las primeras reuniones y en el seguimiento diario. Entender el producto y salir a la calle lo antes posible es parte del cargo desde el primer día.', after=1)
+t('El cargo se acepta conociendo la realidad de la academia: una empresa pequeña, en crecimiento, donde los resultados se necesitan rápido y no hay tiempos de empresa grande. Por eso la inducción es de un día y medio y no de una semana: el producto se aprende con el kit de trabajo, en las primeras reuniones y en el seguimiento diario. Entender el producto y salir a la calle lo antes posible es parte del cargo desde el primer día.', after=1)
 
 sec('6. Aceptación y firma')
 bullets([
- 'Acepte esta oferta respondiendo por escrito a más tardar el lunes 19 de octubre de 2026 a las 12:00 del día.',
- 'Exámenes médicos de ingreso el lunes 19, por cuenta de la empresa (la orden se la enviamos con su aceptación). Firma del contrato y del anexo de compensación el martes 20 a las 8:00 a. m. en la sede. Traer: cédula, RUT, certificación bancaria, certificados de afiliación a EPS y fondo de pensiones, hoja de vida y certificados laborales.',
+ 'La oferta se acepta respondiendo por escrito a más tardar el lunes 19 de octubre de 2026 a las 12:00 del día.',
+ 'Exámenes médicos de ingreso el lunes 19, por cuenta de la empresa (la orden se envía con la aceptación). Firma del contrato y del anexo de compensación el martes 20 a las 8:00 a. m. en la sede. Documentos para la firma: cédula, RUT, certificación bancaria, certificados de afiliación a EPS y fondo de pensiones, hoja de vida y certificados laborales.',
  'Esta oferta reemplaza cualquier conversación anterior sobre los términos del cargo y pierde vigencia si no se acepta en el plazo indicado.'])
 t('', after=3)
 t('_________________________________', after=0)
