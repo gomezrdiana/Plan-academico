@@ -56,7 +56,7 @@ caja('"No vendemos inglés fácil ni rápido. Vendemos un entrenamiento exigente
 t('3. El reto, de corrido, 3 minutos (no pausas hasta terminar):', bold=True, after=1)
 bullets([
  'Lunes 20 de octubre a martes 3 de noviembre, por prestación de servicios. Diez días hábiles, el 2 es festivo.',
- 'Meta: 10 inscritos con inicial pagada, traídos por él (empresas, referidos o conocidos), registrados en su planilla antes de pagar y que no estén ya en la base de Heiiu.',
+ 'Meta: 10 inscritos pagados (contado, o inicial más contrato firmado), traídos por él (empresas, referidos o conocidos), registrados en su planilla antes de pagar.',
  'Empresas de dueño, 40 a 150 empleados, donde el que decide está en la reunión. Tú abres, das una charla de 20 minutos a su gente y cierras. El pago entra a Heiiu y coordinación firma el contrato.',
  'Un millón de honorarios más el 10% de la caja que entre hasta el 3 de noviembre, y un bono de un millón de contado si llega a 10. 15 minutos conmigo todos los días a las 8:00.',
  'El 4 de noviembre: 10 o más, contrato laboral con la meta a tu ritmo. 5 a 9, contrato con el esquema normal. Menos de 5, hasta ahí.'])
@@ -121,8 +121,8 @@ sec('4. El reto, dicho una vez y sin negociar (8 min)')
 t('Antes del reto, El Pacto en un minuto: "No vendemos inglés fácil ni rápido. Vendemos un entrenamiento exigente, con video diario y puntualidad, y un destino: el trabajo, el viaje o el estudio que esa persona necesita. El cliente firma sabiendo a qué se compromete. Quien no quiera entrenar así no es nuestro estudiante, y es mejor que lo sepa en la charla, no en la clase 5. Eso es lo que vas a decir en las empresas."', size=9.5, after=3)
 t('El reto no es el contrato. Es la prueba real, pagada, antes del contrato. Se dice completo, de corrido, y luego se pregunta.', size=9.5, color=GRIS, after=2)
 bullets([
- 'Del lunes 20 de octubre al martes 3 de noviembre (10 días hábiles; el 2 es festivo), por prestación de servicios, no contrato laboral.',
- 'Meta única: 10 inscritos con inicial pagada al 3 de noviembre, traídos por él: empresas, referidos o conocidos. Registrados en su planilla antes de pagar; no cuentan los que ya estaban en la base de Heiiu.',
+ 'Del lunes 19 de octubre al martes 3 de noviembre (11 días hábiles; el 2 es festivo), por prestación de servicios, no contrato laboral.',
+ 'Meta única: 10 inscritos pagados al 3 de noviembre (contado, o inicial más contrato firmado), traídos por él: empresas, referidos o conocidos. Registrados en su planilla antes de pagar.',
  'Dónde: empresas de dueño, 40 a 150 empleados, donde el que decide está en la reunión y autoriza una charla de 20 minutos con su gente. Nada de compras ni multinacionales: no firman en dos semanas.',
  'Qué recibe: $1.000.000 de honorarios por el reto (cuenta de cobro el 3/11), más 10% de la caja que entre hasta esa fecha de los inscritos que él trajo, más un bono de $1.000.000 de contado si llega a 10.',
  'La plata en una frase: "Si logras los 10 te vas con entre 5 y 7 millones por 15 días: un millón de honorarios, un millón de bono y el 10% de caja. Pediste de 4 a 8 al mes. Aquí está." (10 cupos pagados por la empresa: $6.350.000 · 10 completos pagados por empleados: $6.782.800 · 10 Arranques: $4.990.000).',
@@ -139,7 +139,7 @@ t('No se dice "estás contratado", "cuenta con eso" ni "bienvenido". No se le mu
 
 sec('Después de la reunión: 5 líneas a Carlos')
 t('1) Tiresia: ciclo, quién firmaba y cuánto entró a caja; cuadra con "$600M": sí / no.  2) Aprende Institute y fotografía: explicación con fechas: sí / no; tiempo completo: sí / no.  3) Heiiu en vivo: su embudo se acerca a 6-7 cupos / 2-3 empresas / 12 reuniones / 40 contactos: sí / no.  4) Las cinco empresas con persona para el lunes: sí / no.  5) Tomó el reto: sí / no, y tu veto en una frase.', size=9.5)
-t('Orden: hoy el reto por escrito → sábado llamada a Francy Ferro → lunes 8:00 inducción → martes o miércoles Carlos le hace las 5 preguntas (ya con datos reales del reto) → 3/11 corte → 4/11 contrato o fin.', size=9.5, bold=True, after=0)
+t('Orden: hoy el reto por escrito → lunes a primera hora llamada a Francy Ferro → lunes 8:00 inducción → martes o miércoles Carlos le hace las 5 preguntas (ya con datos reales del reto) → 3/11 corte → 4/11 contrato o fin.', size=9.5, bold=True, after=0)
 
 out = BASE + r'\Jhean Cardenas\HOJA_LLAMADA_JHEAN_TIRESIA.docx'
 try: doc.save(out); print('OK', out)

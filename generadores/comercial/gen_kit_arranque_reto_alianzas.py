@@ -111,11 +111,11 @@ def tabla(hdr, filas, anchos, size=8.5, first_bold=True):
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(0)
 r = p.add_run('KIT DE ARRANQUE — RETO DE 15 DÍAS · ALIANZAS EMPRESARIALES'); r.bold = True; r.font.size = Pt(15); r.font.color.rgb = NAR
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(5)
-r = p.add_run('Heiiu English Academy · Para el ejecutivo de alianzas · Del lunes 20 de octubre al martes 3 de noviembre de 2026 · Léelo el domingo; llévalo el lunes')
+r = p.add_run('Heiiu English Academy · Para el ejecutivo de alianzas · Del lunes 19 de octubre al martes 3 de noviembre de 2026 · Léelo completo antes del lunes')
 r.font.size = Pt(9.5); r.font.color.rgb = GRIS
-caja(['**Tu meta única:** 10 personas inscritas con la inicial pagada en la cuenta de Heiiu al martes 3 de noviembre a las 6:00 p. m., traídas por ti: empresas, referidos o conocidos. Cada persona queda registrada en tu planilla antes de pagar; no cuentan los que ya estaban en la base de Heiiu.',
-      '**Tu trabajo:** contactas al dueño o gerente, te reúnes con quien decide, das una charla de 20 minutos a sus empleados, presentas y **cierras tú mismo**, en la charla o en el seguimiento. No hay asesora ni cita con asesora. El pago entra a Heiiu; coordinación recibe el pago y firma contrato y pagaré con cada estudiante en la sede, a donde tú lo llevas o lo envías.',
-      '**Tu rutina fija:** 15 minutos con gerencia todos los días a las 8:00 a. m. (el lunes 20 en la sede, después por llamada): qué hiciste ayer y qué empresas tienes hoy. La planilla FORMATO_15_EMPRESAS_RETO.xlsx siempre al día.'], size=9.5)
+caja(['**Tu meta única:** 10 personas inscritas y pagadas en la cuenta de Heiiu al martes 3 de noviembre a las 6:00 p. m., traídas por ti: empresas, referidos o conocidos. Cada persona queda registrada en tu planilla antes de pagar. Inscrito pagado = pagó de contado, o pagó la inicial de su plan de pagos y firmó el contrato con coordinación. Lo ideal es de contado.',
+      '**Tu trabajo:** contactas al dueño o gerente, te reúnes con quien decide, das una charla de 20 minutos a sus empleados, presentas y **cierras tú mismo**, en la charla o en el seguimiento. No hay asesora ni cita con asesora. El pago entra a Heiiu, de contado idealmente. El estudiante firma el contrato con coordinación en la sede, y pagaré solo si va a cuotas.',
+      '**Tu rutina fija:** 15 minutos con gerencia todos los días a las 8:00 a. m. (el lunes 19 en la sede, después por llamada): qué hiciste ayer y qué empresas tienes hoy. La planilla FORMATO_15_EMPRESAS_RETO.xlsx siempre al día.'], size=9.5)
 
 # ---------------------------------------------------------------- 1
 sec('1. Heiiu en 10 líneas')
@@ -125,11 +125,12 @@ bullets([
  '**Triple certificación de calidad ICONTEC** (NTC 5555, NTC 5580 e ISO 9001). Es una certificación, no una exclusividad.',
  '**Garantía de aprendizaje por escrito**, texto único: "Si cumples — asistencia, tareas, evaluaciones — y no avanzas, te devolvemos el 100% del nivel. Por escrito, en el contrato." Es lo único que se dice como "la única academia PRESENCIAL de Bucaramanga".',
  '**Niveles:** A1 (90 h) · A2 (110 h) · B1 (175 h) · B2 (200 h). Programa completo A1 a B2 = **575 horas** presenciales. Certificado oficial por cada nivel aprobado y factura al matricularse.',
- '**Próximo grupo (confirmado por gerencia):** abre el martes 3 de noviembre o el lunes 9 de noviembre. Jornada de mañana, tarde o noche, de 2 o de 4 horas diarias: el horario lo definen los primeros que se matriculen; una empresa con 8 cupos o más define su propio horario. Para entrar el 3 de noviembre, la inicial tiene que estar pagada antes de esa fecha. Sábados de 8:00 a 12:00, un nivel a la vez.',
- '**Cómo son las clases:** en grupo pequeño, habladas en inglés desde la primera clase, con una simulación real en cada clase (entrevista, llamada, reunión) y el profesor como coach; video corto diario en inglés que el profesor revisa; una virtud por bloque.',
+ '**Próximo grupo (confirmado por gerencia):** abre el martes 3 de noviembre. Jornada de mañana, tarde o noche, de 2 o de 4 horas diarias: el horario lo definen los primeros que se matriculen; una empresa con 8 cupos o más define su propio horario. Para entrar el 3 de noviembre, la inicial tiene que estar pagada antes de esa fecha. Sábados de 8:00 a 12:00, un nivel a la vez.',
+ '**Cómo son las clases:** presenciales, en grupos de máximo 16, con método activo y práctico; video corto diario en inglés que el profesor revisa; una virtud por bloque.',
  '**Convenio con Cajasan** (no exclusivo): el afiliado entra a la columna más alta del Fondo de Becas. Nunca "los únicos con Cajasan".',
- 'Al terminar A2, **Módulo de Graduación** a elección: Emprendedor (página web y primer mensaje de venta en inglés) o Pasaporte (video de presentación, hoja de vida, entrevista ensayada). Con el completo, Refuerzo PRO al final de B2. Se describen, nunca se promete un resultado.',
- '**Nuestra causa** (para la reunión): educativa, formar a jóvenes y trabajadores de Santander a través del inglés con valores y disciplina; empresarial, las empresas locales pueden ganar con calidad, resultados que se pueden mostrar y garantía por escrito.'])
+ '**Módulo de Graduación** (al terminar A2, incluido en el Arranque y en el completo), a elección: **Emprendedor**, sale con su página web publicada en inglés, su pitch y su primer mensaje de venta a un cliente real; o **Pasaporte**, sale con el video de presentación, la hoja de vida en inglés, la entrevista ensayada y la postulación al exterior lista. Con el completo, además, Refuerzo PRO al final de B2. Se describen, nunca se promete un resultado. Dilo en toda charla: es lo que diferencia el programa de un curso.',
+ '**La garantía, condiciones que el estudiante firma:** asistencia (hasta 20% de faltas por nivel; con incapacidad médica no cuentan), tareas al 90% (el video diario se graba en casa) y todas las evaluaciones. Si falta, recupera hasta dos clases al mes en el taller de los sábados. Tres llegadas tarde de más de 15 minutos suman una falta. Retracto: 5 días hábiles por ley; después no hay devolución por retiro, solo por garantía. Dilo antes de que firme, no después.',
+ '**Nuestra causa** (para la reunión con el dueño o gerente): educativa, formar a jóvenes y trabajadores de Santander a través del inglés con valores y disciplina; empresarial, las empresas locales pueden ganar con calidad, resultados que se pueden mostrar y garantía por escrito.'])
 
 # ---------------------------------------------------------------- 2
 sec('2. El Pacto y la proyección por motivo')
@@ -171,7 +172,7 @@ sec('5. La charla de 20 minutos a los empleados')
 tabla(['Minuto', 'Bloque', 'Qué haces'], [
  ('0-3', 'El destino', 'Pregunta a la sala: "¿Quién aquí necesita el inglés para el trabajo, para un viaje, para estudiar o por sus hijos?" Toma dos respuestas y usa la proyección de esa persona (sección 2).'),
  ('3-6', 'El Pacto', 'El texto de la sección 2, completo, en voz alta. "Esto no es para todos, y está bien: es mejor saberlo hoy que en la clase 5."'),
- ('6-9', 'Cómo son las clases', 'Presenciales, grupo pequeño, inglés desde la primera clase, una simulación real por clase, video diario, una virtud por bloque. El grupo abre el 3 o el 9 de noviembre; mañana, tarde o noche, de 2 o 4 horas diarias, y el horario lo definen los primeros que se matriculan. La garantía, con su texto exacto.'),
+ ('6-9', 'Cómo son las clases', 'Presenciales, grupos de máximo 16, método activo y práctico, video diario, una virtud por bloque. El Módulo de Graduación en una frase: Emprendedor o Pasaporte. El grupo abre el 3 de noviembre; mañana, tarde o noche, de 2 o 4 horas diarias, y el horario lo definen los primeros que se matriculan. La garantía, con su texto exacto y sus condiciones.'),
  ('9-13', 'Precios: las 3 opciones', 'La tabla de la sección 6, en este orden: lo que paga tu empresa (si firmó plan empresa), el completo con la beca de la alianza, y el Arranque solo para quien el completo no le alcance. "No manejamos descuentos: el precio es el precio."'),
  ('13-16', 'Cómo inscribirse hoy', 'Cierras ahí mismo con los que estén listos: "Hoy te doy tu número exacto, pagas la inicial (transferencia a la cuenta de Heiiu o tarjeta) y firmas en la sede con coordinación. Los primeros que se matriculan definen el horario del grupo."'),
  ('Si la empresa ya compró los cupos (Plan Empresa)', 'La charla cambia', 'No es de venta: son 10 minutos con los colaboradores designados para El Pacto, el horario del grupo y la fecha de inicio, para que nadie llegue sin saber a qué se comprometió. Al resto del personal se les ofrece la beca de la alianza (opción 2): un cupo pagado por la empresa abre la puerta para vender más.'),
@@ -182,7 +183,7 @@ t('El mismo día pasas los interesados a la planilla y guardas la hoja física p
 # ---------------------------------------------------------------- 6
 sec('6. Hoja de precios de la charla')
 tabla(['Opción', 'Para quién', 'Valor', 'Cómo se paga'], [
- ('1. Tu empresa paga tu cupo (Plan Empresa)', 'Solo si la empresa firmó la Orden Plan Empresa', 'Programa completo A1 a B2 por cupo: $4.782.800 (3 a 7 cupos) · $4.350.000 (8 a 15) · $3.950.000 (16 a 30)', 'Lo paga la empresa contra factura: de contado, o inicial (30% en el tramo de 3 a 7; 40% de 8 en adelante) y 3 cuotas mensuales. Copago posible. La empresa escoge a quién le da cada cupo y puede cambiar a la persona antes de la primera clase, siempre que no cambie de horario; después de iniciar, no.'),
+ ('1. Tu empresa paga tu cupo (Plan Empresa)', 'Solo si la empresa firmó la Orden Plan Empresa (existe desde 3 cupos; con menos, los empleados pagan con la beca de alianza)', 'Programa completo A1 a B2 por cupo: $4.782.800 (3 a 7 cupos) · $4.350.000 (8 a 15) · $3.950.000 (16 a 30)', 'Lo paga la empresa contra factura: de contado, o inicial (30% en el tramo de 3 a 7; 40% de 8 en adelante) y 3 cuotas mensuales. Copago posible. La empresa escoge a quién le da cada cupo y puede cambiar a la persona antes de la primera clase, siempre que no cambie de horario; después de iniciar, no.'),
  ('2. Pagas tú, con la beca de la alianza', 'Todo colaborador con carta de su empresa aliada', 'Completo A1 a B2 (lista $8.696.000): **$4.782.800 de contado** · **$5.565.440 a cuotas**', 'Contado: transferencia a la cuenta de Heiiu o tarjeta; crédito de banco o cooperativa y cesantías también cuentan como contado. Cuotas: inicial mínima del 20% ($1.113.088) y cuotas mensuales al 1,9%; firmas pagaré. La cuota exacta la da coordinación con el motor de cuotas, nunca de memoria.'),
  ('3. Arranque A1+A2', 'Solo si el completo no le alcanza', '$2.990.000, precio único, sin beca. 200 horas, dos niveles certificados y Módulo de Graduación', 'Contado o máximo dos pagos: la mitad al inscribirse y la otra mitad antes de la primera clase; no hay más cuotas.'),
 ], [3.4, 3.2, 4.9, 6.5], size=8.5)
@@ -190,7 +191,7 @@ bullets([
  '**Becas con el nombre de la empresa** (las 3 que la empresa elige por trimestre): pagan $4.782.800 aunque vayan a cuotas, con libros y prioridad de cupo. Nunca se suman dos becas: se aplica la mejor.',
  '**Ya sabe algo de inglés:** puede entrar a un grupo que ya va andando, pero eso lo define y lo cotiza gerencia, caso por caso; tú lo agendas, no lo cierras. El foco del reto es la gente que empieza de cero: es lo más fácil de cerrar y lo que abre el grupo del 3 de noviembre.',
  '**Todo entra a Heiiu:** transferencia a la cuenta de Heiiu o tarjeta. Si el estudiante paga en efectivo, el efectivo llega a la sede ese mismo día y coordinación expide el recibo. Tú nunca te quedas con dinero.',
- '**Número de la cuenta de Heiiu** para dar en la charla: te lo entrega gerencia en la inducción del lunes 20. No lo escribas de memoria.'], size=9)
+ '**Número de la cuenta de Heiiu** para dar en la charla: te lo entrega gerencia en la inducción del lunes 19. No lo escribas de memoria.'], size=9)
 
 # ---------------------------------------------------------------- 7
 sec('7. Proceso de inscripción paso a paso')
@@ -199,7 +200,7 @@ tabla(['Paso', 'Qué pasa', 'Quién'], [
  ('2. Cierre', 'Lo haces tú, en la charla o en el seguimiento (llamada o en la sede), en unos 20 minutos. Orden: motivo, para quién y quién decide, nivel, jornada, El Pacto, forma de pago; solo entonces el número exacto. "Ya sé algo": la sesión de ubicación se coordina con la academia para el día siguiente, sin excepción; tú la agendas en el acto y gerencia define en qué grupo entra.', 'Ejecutivo'),
  ('3. Inicial pagada', 'Transferencia a la cuenta de Heiiu o tarjeta, con pantallazo del comprobante (la cédula se presenta en la sede, no se envía por chat); efectivo, a la sede el mismo día con recibo de coordinación. Para entrar el 3 de noviembre, pagada antes de esa fecha. Coordinación recibe y verifica el pago.', 'Estudiante · coordinación'),
  ('4. Contrato y pagaré', 'Tú llevas o envías al estudiante a la sede. Allí, en físico: contrato de matrícula, anexo de garantía y pagaré si va a cuotas (si requiere codeudor se define ahí). Menor de 18: firma el acudiente.', 'Coordinación'),
- ('5. Cupo', 'Grupo del 3 o del 9 de noviembre; el horario lo definen los primeros matriculados (empresa con 8 o más: su propio horario). Plan Empresa: la orden la firma gerencia y la empresa designa a sus colaboradores; puede cambiar a la persona antes de la primera clase sin cambiar de horario.', 'Coordinación · gerencia'),
+ ('5. Cupo', 'Grupo del 3 de noviembre; el horario lo definen los primeros matriculados (empresa con 8 o más: su propio horario). Plan Empresa: la orden la firma gerencia y la empresa designa a sus colaboradores; puede cambiar a la persona antes de la primera clase sin cambiar de horario.', 'Coordinación · gerencia'),
 ], [3.0, 12.0, 3.0], size=8.5)
 caja(['**Qué cuenta como "inscrito pagado" para el reto:** la inicial (o el pago de contado) **en la cuenta de Heiiu, verificada por coordinación,** a más tardar el martes 3 de noviembre a las 6:00 p. m. En Plan Empresa, cada cupo cuenta cuando entra el pago inicial de la empresa por ese cupo.',
       '**No cuenta:** una promesa de pago, un pantallazo sin verificar, dinero que alguien te entregue a ti. El abono de separación de $300.000 NO cuenta: solo la inicial del 20% o el pago de contado.'], size=9)
@@ -225,7 +226,7 @@ bullets([
  'No hay clase de prueba. No hay clases virtuales en grupo. No se habla de profesores nativos ni del equipo docente: se vende método, respaldo y garantía.',
  'Nunca "fácil", "rápido", "gratis", "patrocinio", "descuento", "bilingüe en X meses"; nunca se promete empleo, visa ni resultado. Se dice "beca del Fondo" y "sin costo para la empresa".',
  'No se nombran otras academias. No se nombran métodos: se dice "clases inmersivas, activas y prácticas".',
- 'Solo dos fechas de inicio: martes 3 o lunes 9 de noviembre. No se promete horario: lo definen los primeros matriculados.',
+ 'Una sola fecha de inicio: martes 3 de noviembre. No se promete horario: lo definen los primeros matriculados.',
  'Todo pago entra a Heiiu: transferencia o tarjeta; el efectivo llega a la sede el mismo día y coordinación expide el recibo. Nunca te quedas con dinero. Tú no firmas por Heiiu.',
  'Los datos personales de interesados y decisores van solo en la planilla y en la hoja física de la charla; no se comparten con nadie, tampoco con la empresa.',
  'Toda empresa queda registrada en el formato antes de la primera reunión.',
@@ -234,12 +235,12 @@ bullets([
 # ---------------------------------------------------------------- 10
 sec('10. Ritmo del reto día a día')
 tabla(['Fecha', 'Qué tiene que estar hecho'], [
- ('Lun 20/10', '8:00 a 10:00 a. m., inducción en la sede; 10:00, a la calle. Mensajes de contacto a tu lista; primeras reuniones agendadas.'),
- ('Mar 21/10', 'Corte de los días 1 y 2: **15 empresas contactadas con el decisor**, con nombre y cargo en la planilla.'),
- ('Mié 22 a vie 24/10', 'Reuniones. Corte de la semana 1: **8 reuniones con decisor y 3 charlas autorizadas** para la semana 2, con fecha.'),
- ('Lun 27 a vie 31/10', 'Charlas, cierres e inscripciones. Recomendación: charlas hechas a más tardar el jueves 30, para que los pagos alcancen a entrar antes del corte y los inscritos puedan abrir grupo el 3 de noviembre.'),
+ ('Lun 19/10', '8:00 a 10:00 a. m., inducción en la sede; 10:00, a la calle. Mensajes de contacto a tu lista; primeras reuniones agendadas.'),
+ ('Mar 20/10', 'Corte de los días 1 y 2: **15 empresas contactadas con el decisor**, con nombre y cargo en la planilla.'),
+ ('Mié 21 a vie 23/10', 'Reuniones. Corte de la semana 1: **8 reuniones con decisor y 3 charlas autorizadas** para la semana 2, con fecha.'),
+ ('Lun 26 a vie 30/10', 'Charlas, cierres e inscripciones. Recomendación: charlas hechas a más tardar el jueves 29, para que los pagos alcancen a entrar antes del corte y los inscritos puedan abrir grupo el 3 de noviembre.'),
  ('Lun 2/11', 'Festivo: no se contacta a nadie por iniciativa tuya.'),
- ('Mar 3/11', '**Corte a las 6:00 p. m.:** inscritos con inicial pagada y verificada por coordinación. Planilla cerrada y cuenta de cobro. Ese mismo día abre el grupo del 3 de noviembre (el siguiente, el lunes 9).'),
+ ('Mar 3/11', '**Corte a las 6:00 p. m.:** inscritos con inicial pagada y verificada por coordinación. Planilla cerrada y cuenta de cobro. Ese mismo día abre el grupo del 3 de noviembre.'),
 ], [3.4, 14.6], size=8.5)
 sub('Qué llevas en la maleta')
 tabla(['Archivo (en recursos/comercial/B2B/)', 'Para qué', 'Ojo'], [

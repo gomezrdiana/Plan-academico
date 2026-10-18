@@ -37,20 +37,20 @@ def caja(txt, size=10.5):
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(0)
 r = p.add_run('RETO DE ARRANQUE — ALIANZAS EMPRESARIALES'); r.bold = True; r.font.size = Pt(14); r.font.color.rgb = NAR
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(6)
-r = p.add_run('Heiiu · Lunes 20 de octubre al martes 3 de noviembre de 2026 · Para: Jhean Cárdenas'); r.font.size = Pt(9.5); r.font.color.rgb = GRIS
+r = p.add_run('Heiiu · Lunes 19 de octubre al martes 3 de noviembre de 2026 · Para: Jhean Cárdenas'); r.font.size = Pt(9.5); r.font.color.rgb = GRIS
 
-caja('Meta única: 10 personas inscritas con inicial pagada en caja de Heiiu al cierre del martes 3 de noviembre, traídas por ti: empresas, referidos o conocidos. Dos reglas: cada persona queda registrada en tu planilla antes de pagar, y no cuentan los que ya estaban en la base de Heiiu. Cuenta solo lo que esté pagado a esa fecha.')
+caja('Meta única: 10 personas inscritas y pagadas en caja de Heiiu al cierre del martes 3 de noviembre, traídas por ti: empresas, referidos o conocidos. Cada persona queda registrada en tu planilla antes de pagar. Inscrito pagado = pagó de contado, o pagó la inicial de su plan de pagos y firmó el contrato con coordinación. Lo ideal es de contado.')
 
 sec('0. Lo que vendemos (El Pacto)')
 t('No vendemos inglés fácil ni rápido. Vendemos un entrenamiento exigente, con video diario, puntualidad y horas de práctica real, y un destino concreto: el trabajo, el viaje o el estudio que esa persona necesita. El cliente firma sabiendo a qué se compromete. Quien no quiera entrenar así, no es nuestro estudiante, y es mejor que lo sepa en la charla, no en la clase 5.')
 
 sec('1. Qué es')
-t('Quince días de trabajo real por prestación de servicios, antes de un contrato laboral (10 días hábiles; el 2 de noviembre es festivo). Tú organizas tu agenda; la meta se mide en caja.')
+t('Del lunes 19 de octubre al martes 3 de noviembre: trabajo real por prestación de servicios, antes de un contrato laboral (11 días hábiles; el 2 de noviembre es festivo). Tú organizas tu agenda; la meta se mide en caja.')
 
 sec('2. Cómo se consigue')
 bullets([
  'Empresas de 40 a 150 empleados donde el dueño o el gerente decide en la reunión (compras y multinacionales no firman en dos semanas). Reunión con el decisor y charla de 20 minutos con sus empleados.',
- 'Tú abres la puerta, presentas y cierras con la hoja de precios de Heiiu. El pago entra a la cuenta de Heiiu y coordinación firma el contrato con cada estudiante.',
+ 'Tú abres la puerta, presentas y cierras con la hoja de precios de Heiiu. El pago entra a la cuenta de Heiiu, de contado idealmente; el estudiante firma el contrato con coordinación en la sede, y pagaré solo si va a cuotas.',
  'La oferta para los empleados es la que entrega Heiiu en la inducción. No se prometen precios, descuentos, horarios ni condiciones distintas.'])
 
 sec('3. Ritmo mínimo')
@@ -64,7 +64,7 @@ bullets([
  'Todos los días a las 8:00 a. m., 15 minutos con gerencia (lunes en la sede, el resto por llamada): qué hiciste ayer y qué empresas tienes hoy. Toda empresa se registra en la planilla antes de la primera reunión; planilla al día es condición para liquidar.'])
 
 sec('5. Qué pone Heiiu')
-t('Inducción el lunes 20 de 8:00 a 10:00 a. m. en la sede; propuesta ejecutiva, hoja de precios y mensaje de contacto; planilla; coordinación para contratos y pagos; material de marca. Transporte y celular son tuyos.')
+t('Inducción el lunes 19 de 8:00 a 10:00 a. m. en la sede; propuesta ejecutiva, hoja de precios y mensaje de contacto; planilla; coordinación para contratos y pagos; material de marca. Transporte y celular son tuyos.')
 
 sec('6. Qué recibes')
 t('Honorarios de $1.000.000 por el reto, contra cuenta de cobro el 3 de noviembre, más el 10% de lo que haya entrado a caja hasta esa fecha por tus inscritos. Y si llegas a 10, un bono adicional de $1.000.000 de contado. Con los 10 inscritos pagados, así queda:', after=2)
@@ -92,14 +92,14 @@ bullets([
 
 sec('8. Si aceptas hoy: de aquí al lunes')
 bullets([
- 'Sábado: lista de 15 empresas de 40 a 150 empleados con nombre y cargo del dueño o gerente, en el formato que te enviamos.',
- 'Sábado y domingo: mensaje de contacto (te lo enviamos hoy) a los 15. Meta: 5 reuniones agendadas para la semana del 20.',
+ 'Hoy: lista de 15 empresas de 40 a 150 empleados con nombre y cargo del dueño o gerente, en el formato que te enviamos.',
+ 'Hoy mismo o el lunes a primera hora: mensaje de contacto (te lo enviamos hoy) a los 15. Meta: 5 reuniones agendadas para esta semana.',
  'Antes del lunes: leer la propuesta y los escenarios que ya tienes. Lunes 8:00 a. m. en la sede: inducción de 2 horas y a las 10:00 a la calle.'])
 
 sec('9. Reglas')
 t('Información de Heiiu (precios, materiales, bases) confidencial y solo para este reto. Empresas y contactos registrados quedan en la base de Heiiu. Comisión solo sobre dinero efectivamente recibido.', size=8)
 
-t('Confirmas respondiendo "acepto" a este mensaje antes del sábado 18 de octubre a las 12:00 del día. Con eso te enviamos el kit, el formato y los documentos para que arranques el mismo sábado con la lista de empresas.', size=10.5, bold=True, after=0)
+t('Confirmas respondiendo "acepto" a este mensaje hoy domingo 18 de octubre antes de las 6:00 p. m. Con eso te enviamos el kit, el formato y los documentos para que arranques hoy mismo con la lista de empresas.', size=10.5, bold=True, after=0)
 
 out = BASE + r'\Jhean Cardenas\RETO_ARRANQUE_15_DIAS_JHEAN.docx'
 try: doc.save(out); print('OK', out)
