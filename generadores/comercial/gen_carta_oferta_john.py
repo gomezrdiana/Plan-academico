@@ -48,7 +48,7 @@ bullets([
  'Metas trimestrales crecientes y escalones de básico según la tabla del anexo, que cubre los primeros 24 meses y se conoce desde la firma. El esquema de comisiones y metas se revisa cada año según rendimiento, de común acuerdo y por escrito.'])
 
 sec('3. Periodo de prueba y revisión de resultados')
-t('El periodo de prueba se evalúa con ventas, no solo con gestión. Antes de su cierre, y a más tardar el jueves 3 de diciembre de 2026 (día 45), debe haber como mínimo $30.000.000 en ventas con pago recibido, por cualquier canal: plan empresa, alianzas, programas personalizados o base de la academia. Si esa cifra no se alcanza, el contrato termina dentro del periodo de prueba. La garantía de ingreso de los meses 1 a 3 no modifica esta condición.', after=1)
+t('El periodo de prueba se evalúa con ventas, no solo con gestión, en dos cortes. Día 30, miércoles 18 de noviembre de 2026: debe haber al menos una venta con pago recibido o una alianza activada. Día 45, jueves 3 de diciembre de 2026: debe haber como mínimo $30.000.000 en ventas con pago recibido, por cualquier canal (plan empresa, alianzas, programas personalizados o base de la academia). La continuidad del cargo después de cada corte depende de ese resultado. La garantía de ingreso de los meses 1 a 3 no modifica esta condición.', after=1)
 
 sec('4. Forma de trabajo')
 bullets([
