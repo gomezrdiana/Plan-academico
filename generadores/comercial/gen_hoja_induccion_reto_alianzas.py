@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Hoja de gerencia para la inducción de 2 horas (lunes 19/10/2026, 8:00-10:00) del ejecutivo de alianzas que arranca
+"""Hoja de gerencia para la inducción de 2 horas (miércoles 21/10/2026, 8:00-10:00) del ejecutivo de alianzas que arranca
 el reto de 15 días. Por rol, 1 página: checklist previo + 10 bloques con minutos + cierre.
 Salida (git): recursos/comercial/INDUCCION_COMERCIAL/contratacion comercial/HOJA_INDUCCION_RETO_ALIANZAS.docx (+PDF)."""
 from docx import Document
@@ -36,7 +36,7 @@ def caja(txt, size=9):
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(0)
 r = p.add_run('INDUCCIÓN DEL RETO DE 15 DÍAS — 2 HORAS'); r.bold = True; r.font.size = Pt(13); r.font.color.rgb = NAR
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(4)
-r = p.add_run('Lunes 19 de octubre de 2026 · 8:00 a 10:00 a. m. · Sede · Hoja de gerencia · Él habla más que tú: en cada bloque él explica y tú corriges'); r.font.size = Pt(8.5); r.font.color.rgb = GRIS
+r = p.add_run('Miércoles 21 de octubre de 2026 · 8:00 a 10:00 a. m. · Sede · Hoja de gerencia · Él habla más que tú: en cada bloque él explica y tú corriges'); r.font.size = Pt(8.5); r.font.color.rgb = GRIS
 
 sec('Antes de las 8:00 (checklist)')
 bullets([
@@ -56,11 +56,11 @@ filas = [
  ('8:25', '3. Precios', 'Con la hoja de precios del kit delante, él te presenta las 4 opciones como si fueras una empleada. Verificas: plan empresa desde 3 cupos y sus tramos; beca de alianza contado y cuotas; Arranque máximo 2 pagos; inglés para empresarios $70.000/h mín. 30 h. Y la respuesta a "¿por qué no descuento?".'),
  ('8:40', '4. La plata y el proceso', 'Le entregas la cuenta. Él repite: todo entra a Heiiu, efectivo a la sede el mismo día, contrato en la sede con coordinación, pagaré solo si hay cuotas, cédula en la sede y no por chat. Qué cuenta y qué no para los 10; los avanzados que le entregue la academia comisionan pero no cuentan.'),
  ('8:50', '5. Los documentos', 'Orden Plan Empresa (quién la firma, cuándo queda en firme, cambio de persona solo antes del inicio), Convenio (12 meses, sin costo, se firma con fecha de charla), Carta de postulación (una por colaborador, sin carta no hay beca), flyer. Él te dice cuál usa en cada caso.'),
- ('9:00', '6. La planilla', 'Abre el Excel y mete ahí, en vivo, las empresas que trae con nombre y cargo del decisor. Regla: toda empresa registrada antes de la primera reunión. Le muestras el reporte diario de 3 líneas y la hoja INTERESADOS. Meta del martes: 15 empresas.'),
+ ('9:00', '6. La planilla', 'Abre el Excel y mete ahí, en vivo, las empresas que trae con nombre y cargo del decisor. Regla: toda empresa registrada antes de la primera reunión. Le muestras el reporte diario de 3 líneas y la hoja INTERESADOS. Meta del jueves: 15 empresas.'),
  ('9:15', '7. Su mensaje al gerente', 'Lo escribe él ahí mismo para una de sus empresas. Tú lo lees como gerente con los 6 criterios del kit. Se ajusta y se manda en vivo antes de salir.'),
  ('9:25', '8. Simulación de 5 minutos', 'Tú eres la dueña de una empresa de 60 empleados; él hace la reunión de 10 minutos en 5. Dos correcciones máximo, no diez. Si le sobra tiempo, 3 minutos de charla a empleados.'),
  ('9:35', '9. Reglas innegociables', 'Él lee las 9 reglas del kit. Preguntas. Se cierra con la de menores de 12 y la de que él no firma por Heiiu.'),
- ('9:45', '10. Cierre y rutina', 'Todos los días 8:30, 15 minutos por llamada: rutina, dudas, sugerencias, recomendaciones, indicadores si hay. Cortes: martes 20 (15 empresas), viernes 23 (8 reuniones, 3 charlas), martes 3/11 6:00 p. m. Un solo canal de WhatsApp contigo. A las 10:00, a la calle.'),
+ ('9:45', '10. Cierre y rutina', 'Todos los días 8:30, 15 minutos por llamada: rutina, dudas, sugerencias, recomendaciones, indicadores si hay. Cortes: jueves 22 (15 empresas), martes 27 (8 reuniones, 3 charlas), martes 3/11 6:00 p. m. Un solo canal de WhatsApp contigo. A las 10:00, a la calle.'),
 ]
 for a, b, c3 in filas:
     row = tb.add_row().cells
@@ -72,7 +72,7 @@ for row in tb.rows:
 doc.add_paragraph().paragraph_format.space_after = Pt(0)
 
 sec('Lo que no se hace en la inducción')
-t('No se le muestra el esquema ni el nombre de ningún otro ejecutivo. No se le dan precios ni condiciones que no estén en el kit. No se le promete ningún contrato: el 4 de noviembre se habla con el resultado en la mano. No se alarga: a las 10:00 sale, aunque falte algo; lo que falte se resuelve a las 8:30 del martes.', size=9)
+t('No se le muestra el esquema ni el nombre de ningún otro ejecutivo. No se le dan precios ni condiciones que no estén en el kit. No se le promete ningún contrato: el 4 de noviembre se habla con el resultado en la mano. No se alarga: a las 10:00 sale, aunque falte algo; lo que falte se resuelve a las 8:30 del jueves.', size=9)
 caja('Al terminar, 3 líneas a tu socio: 1) sabe explicar precios y Pacto sin ayuda: sí / no. 2) cuántas empresas con decisor metió en la planilla. 3) su mensaje al gerente: lo mandarías tú: sí / no. El martes o miércoles él le hace las 5 preguntas de números con datos reales.')
 
 out = BASE + r'\HOJA_INDUCCION_RETO_ALIANZAS.docx'

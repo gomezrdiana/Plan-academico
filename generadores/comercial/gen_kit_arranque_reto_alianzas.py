@@ -111,11 +111,11 @@ def tabla(hdr, filas, anchos, size=8.5, first_bold=True):
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(0)
 r = p.add_run('KIT DE ARRANQUE — RETO DE 15 DÍAS · ALIANZAS EMPRESARIALES'); r.bold = True; r.font.size = Pt(15); r.font.color.rgb = NAR
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(5)
-r = p.add_run('Heiiu English Academy · Para el ejecutivo de alianzas · Del lunes 19 de octubre al martes 3 de noviembre de 2026 · Léelo completo antes de responder al reto')
+r = p.add_run('Heiiu English Academy · Para el ejecutivo de alianzas · Del miércoles 21 de octubre al martes 3 de noviembre de 2026 · Léelo completo antes de responder al reto')
 r.font.size = Pt(9.5); r.font.color.rgb = GRIS
 caja(['**Tu meta:** 10 personas inscritas y pagadas, **o $30.000.000 en caja** de Heiiu, lo que llegue primero, al martes 3 de noviembre a las 6:00 p. m., traídas por ti: empresas, referidos o conocidos, de cualquier programa (completo, parcial, Arranque, plan empresa o inglés para empresarios). Cada persona queda registrada en tu planilla antes de pagar. Inscrito pagado = pagó de contado, o pagó la inicial de su plan de pagos y firmó el contrato con coordinación. Caja = dinero verificado en la cuenta de Heiiu. Lo ideal es de contado: 7 completos de contado ya son la meta.',
       '**Tu trabajo:** contactas al dueño o gerente, te reúnes con quien decide, y cierras tú mismo: lo preferido es que la empresa invierta (plan empresa); si no, la charla de 20 minutos a sus empleados y la inscripción de cada uno con la beca de alianza. El pago entra a Heiiu, de contado idealmente. El estudiante firma el contrato con coordinación en la sede, y pagaré solo si va a cuotas.',
-      '**Tu rutina fija:** 15 minutos con gerencia todos los días a las **8:30 a. m.** (el lunes 19 en la sede, después por llamada): rutina del día, dudas, sugerencias, recomendaciones e indicadores si los hay. La planilla FORMATO_15_EMPRESAS_RETO.xlsx siempre al día antes de esa llamada.',
+      '**Tu rutina fija:** 15 minutos con gerencia todos los días a las **8:30 a. m.** (el miércoles 21 en la sede, después por llamada): rutina del día, dudas, sugerencias, recomendaciones e indicadores si los hay. La planilla FORMATO_15_EMPRESAS_RETO.xlsx siempre al día antes de esa llamada.',
       '**Este kit es la base.** Los guiones de reunión y de charla son nuestra sugerencia: tú tienes la experiencia y los adaptas. Lo que no cambia: qué se ofrece, los precios, lo que no se promete y las reglas.'], size=9.5)
 
 # ---------------------------------------------------------------- 1
@@ -219,7 +219,7 @@ bullets([
  '**Becas con el nombre de la empresa** (las 3 que la empresa elige por trimestre): pagan $4.782.800 aunque vayan a cuotas, con libros y prioridad de cupo.',
  '**Ya sabe algo de inglés:** puede entrar a un grupo que ya va andando, pero eso lo define y lo cotiza gerencia, caso por caso; tú lo agendas, no lo cierras. La sesión de ubicación se coordina para el día siguiente, sin excepción. El foco del reto es la gente que empieza de cero: es lo más fácil de cerrar y lo que abre el grupo del 3 de noviembre.',
  '**Todo entra a Heiiu:** transferencia a la cuenta de Heiiu o tarjeta. Si el estudiante paga en efectivo, el efectivo llega a la sede ese mismo día y coordinación expide el recibo. Tú nunca te quedas con dinero.',
- '**Número de la cuenta de Heiiu** para dar en la charla: te lo entrega gerencia en la inducción del lunes 19. No lo escribas de memoria.'], size=9)
+ '**Número de la cuenta de Heiiu** para dar en la charla: te lo entrega gerencia en la inducción del miércoles 21. No lo escribas de memoria.'], size=9)
 
 # ---------------------------------------------------------------- 9
 sec('9. Proceso de inscripción paso a paso (cuando toca activación)')
@@ -265,10 +265,10 @@ bullets([
 # ---------------------------------------------------------------- 12
 sec('12. Ritmo del reto día a día')
 tabla(['Fecha', 'Qué tiene que estar hecho'], [
- ('Lun 19/10', '8:00 a 10:00 a. m., inducción en la sede; 10:00, a la calle. Mensajes de contacto a tu lista; primeras reuniones agendadas.'),
- ('Mar 20/10', 'Corte de los días 1 y 2: **15 empresas contactadas con el decisor**, con nombre y cargo en la planilla.'),
- ('Mié 21 a vie 23/10', 'Reuniones. Corte de la semana 1: **8 reuniones con decisor y 3 charlas autorizadas** (o planes empresa en firma) para la semana 2, con fecha.'),
- ('Lun 26 a vie 30/10', 'Charlas, cierres e inscripciones. Recomendación: charlas hechas a más tardar el jueves 29, para que los pagos alcancen a entrar antes del corte y los inscritos puedan abrir grupo el 3 de noviembre.'),
+ ('Mié 21/10', '8:00 a 10:00 a. m., inducción en la sede; 10:00, a la calle. Mensajes de contacto a tu lista; primeras reuniones agendadas.'),
+ ('Jue 22/10', 'Corte de los días 1 y 2: **15 empresas contactadas con el decisor**, con nombre y cargo en la planilla.'),
+ ('Vie 23 a mar 27/10', 'Reuniones. Corte de la primera semana: **8 reuniones con decisor y 3 charlas autorizadas** (o planes empresa en firma) para la semana 2, con fecha.'),
+ ('Mié 28 a vie 30/10', 'Charlas, cierres e inscripciones. Recomendación: charlas hechas a más tardar el jueves 29, para que los pagos alcancen a entrar antes del corte y los inscritos puedan abrir grupo el 3 de noviembre.'),
  ('Lun 2/11', 'Festivo: no se contacta a nadie por iniciativa tuya.'),
  ('Mar 3/11', '**Corte a las 6:00 p. m.:** inscritos pagados y caja, verificados por coordinación. Planilla cerrada y cuenta de cobro. Ese mismo día abre el grupo del 3 de noviembre.'),
 ], [3.4, 14.6], size=8.5)

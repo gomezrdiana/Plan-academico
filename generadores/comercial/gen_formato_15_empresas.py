@@ -82,7 +82,7 @@ for i, (h, w) in enumerate(hdr, 1):
     wr.column_dimensions[get_column_letter(i)].width = w
 wr.row_dimensions[4].height = 32
 dias = []
-d = dt.date(2026, 10, 19)
+d = dt.date(2026, 10, 21)
 while d <= dt.date(2026, 11, 3):
     if d.weekday() < 5: dias.append(d)
     d += dt.timedelta(days=1)
@@ -109,8 +109,8 @@ wr.cell(row=lr + 1, column=5, value=f'=MAX(E5:E{lr})').font = Font(name='Calibri
 wr.cell(row=lr + 1, column=5).number_format = '#,##0'
 for rr in range(5, lr + 1): wr.cell(row=rr, column=5).number_format = '#,##0'
 wr.cell(row=lr + 3, column=1, value='Ritmo mínimo').font = Font(name='Calibri', bold=True, color=NAR)
-for j, txt in enumerate(['Mar 20/10: 15 empresas contactadas con el decisor (acumulado).',
-                         'Vie 23/10: 8 reuniones con decisor y 3 charlas autorizadas para la semana 2.',
+for j, txt in enumerate(['Jue 22/10: 15 empresas contactadas con el decisor (acumulado).',
+                         'Mar 27/10: 8 reuniones con decisor y 3 charlas autorizadas para la semana 2.',
                          'Mar 3/11, 6:00 p. m.: 10 inscritos pagados o $30.000.000 en caja, lo que llegue primero.']):
     wr.cell(row=lr + 4 + j, column=1, value=txt).font = NOTA_FONT
 wr.freeze_panes = 'B5'
