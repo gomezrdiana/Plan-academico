@@ -21,7 +21,7 @@ Cada cohorte sigue la regla:
 
 ### Carpetas vacías (reservadas)
 
-- **A1_2H**, **B1_2H** → cohortes sin abrir aún en esta estructura. Se poblarán al activarse.
+- **A1_2H** → cohorte nocturno A1. **B1 no tiene carpeta 2H:** desde el 19/10/2026 el B1 es edición única en `B1_4H/` (sirve para 4 h y para 2 h nocturna; ver `B1_4H/HOJA_LECTURA_POR_JORNADA.pdf`). La antigua `B1_2H` está archivada en `VERSION_1/B1_2H_archivo_2026-10/`.
 
 ## Notas operativas
 
