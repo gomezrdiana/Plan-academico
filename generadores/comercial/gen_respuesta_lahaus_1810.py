@@ -15,31 +15,32 @@ def p(t, bold=False, color=None, size=10.5):
 
 p('RESPUESTA A LAHAUS — 18/10/2026', True, NAR, 14)
 p('Responde al informe "Respuestas y ajustes a tus solicitudes del 13 de octubre" y al folleto del nuevo sistema de reintentos. Enviar como un solo mensaje por el grupo de WhatsApp o por correo.', False, GRIS, 9.5)
-p('ANTES DE ENVIAR, gerencia completa o confirma: (a) los dos números o apodos del punto 4; (b) la regla de edad del punto 6 (está escrita como quedó en la base del 6/10: desde 12 en cualquier jornada con acudiente); (c) si la jornada de la tarde se ofrece como "en apertura"; (d) el estado de la campaña Curso Inglés 13/10 en el punto 2.', True, GRIS, 9.5)
+p('Decisiones de gerencia 19/10 ya incorporadas: edad (sábados desde 12, entre semana desde 17, excepción solo en la asesoría), tarde (solo en la cita), campaña 13/10 apagada y nueva del 19/10 activa, casos sin número buscados por frase y hora.', True, GRIS, 9.5)
 
 MSG = """Hola Jaider, gracias por el informe del 13: está claro y se nota el trabajo. Confirmo lo aplicado y respondo lo que nos pediste, en el mismo orden, más cuatro puntos nuevos.
 
 1. SALUDO (sección 01). No cambiamos el saludo. Se mantiene el vigente: "Hola, gracias por escribirnos. Soy el asistente de Heiiu. Para orientarte bien, ¿para qué necesitas el inglés?" Razones: una sola pregunta, la motivación primero y sin superlativos (no decimos "la mejor metodología" de nada). Con esto, por favor actualicen también la confirmación de cita: solo menciona el enlace cuando la cita es por videollamada.
 
 2. SALUDOS POR FLUJO (sección 07). Hoy hay dos flujos activos y uno pausado:
-   a) Clic a WhatsApp, campaña HEIIU_CTWA_BGA_1510 (anuncios V1_VIDEODEHOY, V3_575H, V4_VACANTE). El lead llega con un mensaje prellenado que trae el código del video entre paréntesis. Saludo: "Hola, gracias por escribirnos por el video. Soy el asistente de Heiiu. Para orientarte bien, ¿para qué necesitas el inglés?" Si el prellenado ya trae el motivo (por ejemplo V4: "Necesito el inglés para..."), el agente omite el paso 1, pide el nombre y sigue con el paso 2.
+   a) Clic a WhatsApp: la campaña nueva que entró el 19 de octubre (reemplaza a la del 15, que quedó pausada). Los videos entran con un mensaje prellenado que trae el código del video entre paréntesis (V1, V3, V4). Saludo: "Hola, gracias por escribirnos por el video. Soy el asistente de Heiiu. Para orientarte bien, ¿para qué necesitas el inglés?" Si el prellenado ya trae el motivo (por ejemplo V4: "Necesito el inglés para..."), el agente omite el paso 1, pide el nombre y sigue con el paso 2.
    b) Formulario, campaña HEIIU_FORM_CONTROL_1510. El formulario trae el motivo (trabajo / irme del país / estudio / mi hijo). Saludo: "Hola, [nombre]. Gracias por dejarnos tus datos. Soy el asistente de Heiiu. Vi que el inglés es para [motivo del formulario]; para orientarte bien, ¿es para ti o para alguien más?" Si el motivo no se puede leer, usa el saludo del punto 1.
    c) Reactivación: sin saludo nuevo; no habrá reactivaciones hasta nuevo aviso.
-   Campañas pausadas: Au Pair 25/08 y Curso Inglés 30/09. Curso Inglés 13/10: [CONFIRMAR: pausada / activa; si sigue activa usa el saludo a)]. En ningún saludo aparece "Arranque de octubre" ni el nombre de un programa.
+   Campañas pausadas: Au Pair 25/08, Curso Inglés 30/09, Curso Inglés 13/10 y la de clic a WhatsApp del 15/10. En ningún saludo aparece "Arranque de octubre" ni el nombre de un programa.
 
 3. FILTROS DE AGENDA (sección 03). No pedimos cambios: con Modalidad (llamada, virtual, presencial) y Estado nos basta. Solo confirmen que el mensaje al lead dice "por llamada de WhatsApp a este mismo número" o, si es video, trae el enlace.
 
-4. CASOS (sección 08). Jerson (317 376 1839) y Henry (318 561 8222) ya los tienen; esperamos la respuesta el miércoles 21. Los otros dos:
-   • Lead del 7/10 que dijo "quiero reforzar lo que ya sé": [NÚMERO O APODO DE WHATSAPP].
-   • María Eugenia (7/10, 12:34 pm): [NÚMERO O APODO DE WHATSAPP].
+4. CASOS (sección 08). Jerson (317 376 1839) y Henry (318 561 8222) ya los tienen; esperamos la respuesta el miércoles 21. De los otros dos no tenemos el número, pero ustedes tienen todas las conversaciones del 7 de octubre y se pueden buscar por frase y hora:
+   • El lead que escribió "quiero reforzar lo que ya sé" el 7/10, y el agente le repitió la pregunta de nivel.
+   • La conversación del 7/10 a las 12:34 pm en la que nuestra asesora escribió "déjame que la asesora te escriba hoy" y el agente siguió escribiendo después.
+   Si no aparecen con esos datos, nos dicen y los buscamos conversación por conversación.
 
 5. HORARIO LEGAL (sección 12). No hemos detectado contactos fuera de horario. Si vemos uno, enviamos el número ese mismo día.
 
 Puntos nuevos:
 
-6. EDAD Y JORNADAS (pasos 2 y 4 del flujo). Dos ajustes de configuración:
-   • Paso 2: la edad mínima es 12 años en cualquier jornada. De 12 a 17, el acudiente asiste a la asesoría y firma, y entre semana se exige el compromiso de trabajo diario fuera de clase. Menores de 12: no se agenda. Hoy el agente dice "entre semana desde 17", y eso no es así.
-   • Paso 4: además de mañana (8:00 a 12:00) y noche (6:30 a 8:30 p. m.), existe la jornada de la tarde en apertura: si el lead solo puede en la tarde, el agente registra la franja que le sirve y agenda igual la asesoría. No se le dice que no.
+6. EDAD Y JORNADAS (pasos 2 y 4 del flujo). Dos precisiones de configuración:
+   • Paso 2: se mantiene "sábados desde 12 años; entre semana desde 17". Pero si un padre pide entre semana para un hijo de 12 a 16, el agente no dice que no: responde "es una opción que se revisa con el acudiente en la asesoría" y agenda. Menores de 12: no se agenda.
+   • Paso 4: el agente sigue ofreciendo solo mañana (8:00 a 12:00) y noche (6:30 a 8:30 p. m.). Si el lead dice que solo puede en la tarde, no se descalifica: "eso lo revisas con la asesora en la cita" y agenda igual. La tarde no se ofrece como opción por iniciativa del agente.
 
 7. REGLA DE ANTICIPACIÓN PARA AGENDAR (punto 16 del informe del 9/10). Sí queremos cambiarla: de 24 horas a 4 horas, dentro del horario de atención. Con 24 horas perdemos al que quiere la asesoría mañana temprano.
 
