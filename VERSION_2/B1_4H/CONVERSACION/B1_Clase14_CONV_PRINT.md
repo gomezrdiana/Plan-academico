@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 14/44 — CONV — HOJA DE RUTA
 
-**Sesion 14/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Sesion 14/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Modulo:** A2 Book **M12 "I Was Playing when My Mom Called" — Examples (p.101)** con el vocabulario de tiempo del A1 Book **M32 "Diego Was Sick Yesterday" (Vocabulario p.360: yesterday, last night, last week, last month, last year...)** y el A2 Book **M2 Guide 1 (p.15: IN + mes / año)**; HOY SOLO USO ORAL
 **Focus (1 linea):** Poner cada hecho del pasado en su tiempo exacto — at 8:00, in 2019, last month, two days ago — y contarlo en orden: first, then, after that, finally.
 **Virtud:** JUSTICIA — Cl 4 de 5 de esta virtud (Cl 11-15 de cada pista)
@@ -8,7 +8,7 @@
 
 > **ENGLISH ONLY de principio a fin.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges. Los rituales ya se presentaron en la Cl 1: hoy solo se APLICAN, no se explican.
 
-> **TRAE HOY:** reloj, celular para la foto de inicio, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video) y el PASE que te entrega el docente de Gramatica a las 10:00 (Grammar Cl 14, de esta misma manana). NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, celular para las fotos/videos del dia, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos con UNA mejora anotada por video) y el PASE que te dejo el docente de Gramatica en su ultima sesion. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 > **HOY SOLO: el anclaje HABLADO del pasado — LAST + periodo (last week, last month, sin "the"), ___ AGO despues del periodo (two days ago), AT / ON / IN que ya tienen desde la Cl 4, la palabra de tiempo al FINAL de la frase — y el orden de la historia con first, then, after that, finally. La regla se USA, no se explica. NO TOCAR AUN: las reglas en papel y el dictado (GRAMATICA Cl 14) · was / were + -ing (Cl 15) · la interrupcion con when (Cl 16).**
 
@@ -16,9 +16,9 @@
 
 **Objective: every voice is awake, every video is accounted for, and the room knows that today every past sentence has an exact time.**
 
-**10:00 EN PUNTO: foto del tablero con la Frase del Dia ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+**Puntualidad: coordinación registra la hora de llegada; foto de inicio opcional.**
 
-1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
+1. **EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra. Si preguntan por notas, resultados o garantia: *"That is coordination, not me."*
 2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar. Di: *"I am not asking who made it. I am asking who SENT it. Who sent video No. 13?"* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you asked 'did you went' — 'did you GO'"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* En la misma pasada marcas quien tiene **el cuaderno con las 15 frases de Gramatica Cl 13 abierto sobre la mesa** (SI / NO). No lo lees ni lo corriges: solo se registra.
 3. **Recuperacion espaciada DE TU PISTA (6', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Conv Cl 11** (el pasado regular hablado con su sonido y su marcador de tiempo, dando el credito a quien lo hizo) · N-7 = **Conv Cl 7** (los adverbios de frecuencia y su posicion). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
    - "Three regular pasts with the right sound: worked /t/ · called /d/ · needed /id/ — one true sentence each, with a time marker." (Cl 11)
@@ -39,7 +39,7 @@
 **Objective: by the end, every one of you tells a partner a six-step story of how you got here — every step with a correct time word, in order.**
 
 1. **Avance de proyecto hoy: MY STORY, MY GOALS — pieza "HOW I GOT HERE" (1').** Di: *"One piece every class. Today, the road that brought you to this room — in six steps, each one with its real date."*
-2. **Tablero, solo uso ORAL (3') — las reglas en papel las sello Gramatica Cl 14 a las 8:00:**
+2. **Tablero, solo uso ORAL (3') — las reglas en papel las sella Gramatica Cl 14 en su sesion:**
 ```
 THE TRUE TIME  (A1 Book M32 p.360 · A2 Book M2 p.15 · A2 Book M12 p.101)
  yesterday · last night · last week · last weekend · last month · last year
@@ -72,12 +72,12 @@ THE TRUE ORDER:   First, ...  Then, ...  After that, ...  Finally, ...
 1. **Ticket de salida (4').** 3-5 frases en pasado sobre su ultimo mes, en orden (first / then / finally), con un tiempo correcto en cada una (al menos 1 AGO y 1 LAST). Nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
 2. **Error paper (4').** Escribes 4-6 errores REALES del dia en el papel fisico ANONIMO y los pasas al tablero sin nombres. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio corregido. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
 3. **Cierre de JUSTICIA, dia 4 (2').** *"Which true date did you say today, even if it made you look late?"* — 2 respuestas. Cierras: *"Day four of justice. Next class closes the block."*
-4. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with GRAMMAR Cl 15 and the other teacher: WAS and WERE on paper — when the past is a point and when it is a line. Bring your notebook. Send your video TODAY."*
+4. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next session: GRAMMAR, with the other teacher: WAS and WERE on paper — when the past is a point and when it is a line. Bring your notebook. Send your video TODAY."*
 
 **Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
 HOMEWORK CONVERSATION CL 14 — ONE TASK ONLY: THE VIDEO.
-DUE: Cl 15, BEFORE 7:00 PM — that is, TODAY before 7:00 PM. NOT NEGOTIABLE.
+DUE: BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl 15). NOT NEGOTIABLE.
 TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
 LISTEN FIRST (5-10 min, BEFORE you record):
 Search on YouTube or a podcast app: "how I got my first job story".
@@ -92,17 +92,17 @@ course, in at least 8 steps, in order: first, then, after that, finally.
 A true time in every step: 2 with AGO, 2 with LAST, 2 with AT / ON / IN.
 Then one question someone asked you about it, with DID, and your answer.
 Close with the Phrase of the Day.
-Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-14.
+Send it TODAY to the cohort WhatsApp group. Label: B1-VIDEO-14.
 Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 
-> **LISTEN FIRST es parte fija de la tarea desde hoy:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de manana, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
+> **LISTEN FIRST es parte fija de la tarea desde hoy:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de la proxima sesion, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
 
-> **La tarea de hoy es SOLO el video** — la tarea escrita de este modulo ya la asigno el docente de Gramatica hoy a las 8:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+> **La tarea de hoy es SOLO el video** — la tarea escrita de este modulo la asigna el docente de Gramatica en su sesion. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
-5. **PASE al docente de GRAMATICA (Grammar Cl 15, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por mensaje escrito directo por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo mientras el grupo escribe el ticket:
+5. **PASE al docente de GRAMATICA — lo entregas al terminar tu sesion**, en papel en la carpeta del cohorte o por mensaje escrito al grupo de docentes; va a la siguiente sesion de la otra pista (la proxima jornada, sea de 4 h o de 2 h). No es opcional y no se pasa de palabra: **la siguiente sesion la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv Cl 14 -> Grammar Cl 15 — del docente de CONVERSACION al de GRAMATICA
+PASE Conv Cl 14 -> siguiente sesion de Grammar — del docente de CONVERSACION al de GRAMATICA
 Virtud: JUSTICIA, Cl 4 de 5 (Cl 11-15). Angulo de hoy en mi pista: la fecha
 real, aunque deje mal parado. Tu guia trae el tuyo.
 LO QUE SALIO ORAL HOY: last + periodo · periodo + ago · at / on / in · tiempo
@@ -112,7 +112,7 @@ al final · first-then-after that-finally. A1 M32 p.360 · A2 M2 p.15 · A2 M12 
 Patrones oidos: (a) "ago two days"; (b) "the last week" / "in last month";
 (c) tiempo en medio del verbo ("I yesterday called"); (d) "at the 3rd" /
 "on 2019"; (e) historia sin palabras de orden.
-QUE QUEDO FRAGIL del modulo (lo sellaste esta manana en papel):
+QUE QUEDO FRAGIL del modulo (lo sella Grammar en papel):
 _______________________________________________________________
 Cuadernos con las 15 frases de Grammar Cl 13 (SI / NO): ____ de ____.
 YA QUEDO HECHO HOY, NO LO REPITAS: la cadena oral de anclaje · la pieza "HOW I
@@ -120,13 +120,13 @@ GOT HERE".
 SIMULACION QUE USE HOY — NO LA REPITAS: "MONTHLY PROJECT RECAP MEETING" (un
 responsable recorre un proyecto ante el lider). Ni el titulo ni el guion, ni
 ningun otro briefing, reporte de equipo o reunion de cierre. Escenario DISTINTO.
-TAREA: la escrita la dejaste tu esta manana; yo deje SOLO el video No. 14
+TAREA: la escrita es tuya; yo deje SOLO el video No. 14
 (abre con las 3 frases del LISTEN FIRST).
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el contenido de la Cl 15.
 Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ **PASE Conv -> Grammar Cl 15 dejado al cerrar a las 12:00** ☐ PASE Grammar -> Conv de la Cl 14 (recibido a las 10:00) leido en el Bloque 1 ☐ Cuadernos de Grammar Cl 13 marcados SI / NO ☐ Pieza "HOW I GOT HERE" dicha por todos ☐ Foto de inicio enviada a las 10:00
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ **PASE a la siguiente sesion de Grammar entregado al terminar** ☐ PASE de Gramatica (su ultima sesion) leido en el Bloque 1 ☐ Cuadernos de Grammar Cl 13 marcados SI / NO ☐ Pieza "HOW I GOT HERE" dicha por todos
 
 [PAGEBREAK]
 
@@ -136,21 +136,21 @@ Firma Conversacion: ______________  Recibido Gramatica: ______________
 **A2 Book, Module 2 — "Months and Years", Guide 1 (p.15), verbatim:** "1. Para indicar que un evento ocurre en un mes o año específico, usamos la preposición 'in'." · "E.g. I will play in January." · "E.g. I will play in 2021." (AT / ON / IN ya se usaron oralmente en Cl 4.)
 **A2 Book, Module 12, Examples (p.101), verbatim:** "I ate a sandwich at 8:00." · "Steve woke up at 6:30 today." · y en Exercises (p.102): "Last night, I ___ (to hang out) with my friends at the school." · "At 10:30, Eric ___ (to arrive)..."
 
-**Ya lo sello GRAMATICA Cl 14 a las 8:00; aqui no se repite:** las reglas escritas de LAST / AGO / posicion, la coma cuando el tiempo va al inicio y el dictado.
+**Lo sella GRAMATICA Cl 14 en papel; aqui no se repite:** las reglas escritas de LAST / AGO / posicion, la coma cuando el tiempo va al inicio y el dictado.
 
 **Plan B (cero material, todo tablero o voz):**
 - **Bloque 1 — sin PASE de Gramatica:** arrancas con la cadena de recuperacion y usas como puente "Did you went?" -> "Did you GO?".
 - **Bloque 2 — confunden AGO y LAST:** te quedas hoy solo con esos dos (los que mas se rompen) y AT / ON / IN pasan al tablero como banco. Si la pieza no sale en 6 pasos, baja a 4 y sube en la segunda ronda.
 - **Bloque 3 — simulacion que no arranca:** el guest dice 4 pasos y el lead hace 2 preguntas; subes a 6 y 3 en la segunda rotacion.
 - **Bloque 4 — falta tiempo:** ticket de 3 frases; la tarea NO se recorta.
-- **Grupo incompleto a las 10:00:** arrancas igual, registras la llegada tarde; el que llega entra a la cadena sin que le repitas nada.
+- **Grupo incompleto a la hora de inicio:** arrancas igual, registras la llegada tarde; el que llega entra a la cadena sin que le repitas nada.
 - **Sobra tiempo:** "true or false timeline" — cada uno dice 3 hechos de su vida con su tiempo, uno con la fecha falsa; el grupo adivina cual y pregunta con did.
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-- **Edicion unica manana/noche:** esta guia reescribe la 4H anterior con el formato y las reglas de la edicion nueva (plantilla: Cl 1-12 de `VERSION_2/B1_4H`): 110 min (20 + 40 + 35 + 15), Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues el MISMO dia (orden de la hoja de arranque 13/10) · **PASE Grammar -> Conv en papel a las 10:00 y Conv -> Grammar al cerrar a las 12:00, para la manana siguiente** · Conv hace el chequeo de portafolio (asigna el video del dia) · due "Cl N+1, BEFORE 7:00 PM" · ticket antes del error paper · UN solo video diario. Contenido conservado: anclaje del pasado + secuencia, HOY SOLO, recap meeting, avance MY STORY.
-- **Frente a la guia 4H anterior:** (1) **anclaje del libro corregido:** la anterior citaba "verbatim" del A2 M12 las reglas de LAST / AGO; el M12 solo trae ejemplos con tiempo (p.101). El vocabulario LAST sale del **A1 M32 (p.360)** y el IN + mes / año del **A2 M2 (p.15)**. (2) Se quito del tablero el ejemplo con un dia de la semana: las guias no los llevan. (3) La simulacion se renombro **MONTHLY PROJECT RECAP MEETING** (antes "WEEKLY RECAP MEETING"): el reporte de la semana ya lo hizo Conv Cl 12 (START-OF-WEEK TEAM STAND-UP); aqui el recorrido es de un proyecto del ultimo mes, lo que obliga AGO / LAST / ON + fecha. Mismo guion de fondo (responsable + lider que pide precision), conservado. (4) Tarea escrita a Gramatica; aqui SOLO el video. (5) Portafolio = VIDEO diario (la anterior pedia audio).
+- **Edicion unica (decision de gerencia):** esta guia sirve para la jornada de 4 h y la nocturna de 2 h; secuencia y horas en HOJA_LECTURA_POR_JORNADA. 110 min (B1 20' + B2 40' + B3 35' + B4 15') · cada sesion cierra con PASE escrito a la siguiente sesion de la otra pista · due "BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl N+1)" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion, que hace el chequeo de portafolio y abre con LISTEN FIRST). Contenido conservado: anclaje del pasado + secuencia, HOY SOLO, recap meeting, avance MY STORY.
+- **Frente a la edicion anterior:** (1) **anclaje del libro corregido:** la anterior citaba "verbatim" del A2 M12 las reglas de LAST / AGO; el M12 solo trae ejemplos con tiempo (p.101). El vocabulario LAST sale del **A1 M32 (p.360)** y el IN + mes / año del **A2 M2 (p.15)**. (2) Se quito del tablero el ejemplo con un dia de la semana: las guias no los llevan. (3) La simulacion se renombro **MONTHLY PROJECT RECAP MEETING** (antes "WEEKLY RECAP MEETING"): el reporte de la semana ya lo hizo Conv Cl 12 (START-OF-WEEK TEAM STAND-UP); aqui el recorrido es de un proyecto del ultimo mes, lo que obliga AGO / LAST / ON + fecha. Mismo guion de fondo (responsable + lider que pide precision), conservado. (4) Tarea escrita a Gramatica; aqui SOLO el video. (5) Portafolio = VIDEO diario (la anterior pedia audio).
 - **Virtud:** JUSTICIA, Cl 4 de 5 (Cl 11-15), calendario absoluto. Angulo de Conversacion: **la fecha real, aunque deje mal parado.** Grammar Cl 14 trabaja otro angulo (las mismas preguntas y el mismo respeto para todos).
-- **Anti-duplicado:** la guia 4H anterior tenia en Conv "WEEKLY RECAP MEETING" y en Grammar "WEEKLY BRIEFING": el mismo guion. En esta edicion **Grammar Cl 14 lleva escenario rediseñado** (verificacion de linea de tiempo en una solicitud de credito). El PASE lo prohibe por escrito.
+- **Anti-duplicado:** la edicion anterior tenia en Conv "WEEKLY RECAP MEETING" y en Grammar "WEEKLY BRIEFING": el mismo guion. En esta edicion **Grammar Cl 14 lleva escenario rediseñado** (verificacion de linea de tiempo en una solicitud de credito). El PASE lo prohibe por escrito.
 - **Recuperacion:** N-3 = Conv Cl 11 · N-7 = Conv Cl 7, disparadores tomados de esas guias. Sin mapa semanal de tickets: NO se citan tickets.
-- `SUPUESTO DE PLANEACION — verificar`: **AGO y las palabras de secuencia (first, then, after that, finally) no aparecen en el libro**; se conservan de la guia 4H anterior y del mapa del nivel (Cl 14 = ago / last con first-then-finally, anunciado en las Cl 11-13). La regla de posicion (tiempo al final) es sistematizacion Heiiu sobre los ejemplos del libro.
+- `SUPUESTO DE PLANEACION — verificar`: **AGO y las palabras de secuencia (first, then, after that, finally) no aparecen en el libro**; se conservan de la edicion anterior y del mapa del nivel (Cl 14 = ago / last con first-then-finally, anunciado en las Cl 11-13). La regla de posicion (tiempo al final) es sistematizacion Heiiu sobre los ejemplos del libro.

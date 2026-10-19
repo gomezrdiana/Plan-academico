@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 30/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 30/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 30/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** REPASO COMPRIMIDO — A2 Book **M32 "How Many People Are There?" (Guia 1 p.275) + M33 "How Much Money Do You Have?" (Guia 1 p.285) + M34 "How Much Does It Cost?" (Guia 1 p.293-294)**. **M31 NO existe (salta M30 -> M32); M35 NO existe (salta M34 -> M36).**
 **Focus (1 line):** Count with how many, measure with how much, price with be/cost + each — three functions locked on paper, fast.
 **Virtud:** TEMPLANZA v2 — dia 5 de 5 (CIERRA bloque Cl 26-30)
@@ -9,7 +9,7 @@
 > **DE PIE: Bloques 1-3 completos (~95 de 110 min ≈ 86%; piso 70%). Solo Bloque 4 sentado.** Movimiento con contenido siempre.
 > **REPASO COMPRIMIDO — ya lo vieron en A2. 3 modulos hoy: activar rapido y producir. El libro B1 entra Cl 34.**
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 29 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion en su ultima sesion y celular para las fotos/videos del dia. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 ---
 
@@ -17,7 +17,7 @@
 
 **Objective: re-fire phrasal verbs and the closed/open choice, then load quantities and prices.**
 
-**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+**Puntualidad: coordinación registra la hora de llegada; foto de inicio opcional.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 27 y Cl 23); errores anonimos al board; 1 min re-produccion:
    - "Separable vs non-separable: 'pick it UP', 'ask FOR it' — one of each." (Cl 27)
@@ -25,9 +25,9 @@
    - "Closed or open period — one dated line, one open line." (Cl 23)
    - "Fix it: 'She has gone to Cali last year.'" (Cl 23)
    - "Chain: phrasal + 'I have already ___ it.'" (Cl 27/23)
-2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, con su lista y UNA mejora por video. Tu solo dices: *"Your daily video goes out every day. Conversation checks it, name by name."* Y sigues; los minutos que libera pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"HOW MANY + countable + are there; HOW MUCH + uncountable + is there; and HOW MUCH for price. Three questions, one fair measure."*
-4. **Revision tarea (3'):** la tarea escrita de Cl 29 (grados + so/too/enough, M29-M30) sobre la mesa; recoge. **PASE de Conv (Cl 29, dejado al cierre de la clase anterior)** leido: los gaps (a)-(b) son los blancos.
+4. **Revision tarea (3'):** la tarea escrita de Cl 29 (grados + so/too/enough, M29-M30) sobre la mesa; recoge. **PASE de Conversacion (el que te dejo en su ultima sesion)** leido: los gaps (a)-(b) son los blancos.
 
 > [VIRTUD] Board: "TEMPERANCE — DAY 5, CLOSING". *"Temperance ends by taking neither too much nor too many. 'A few', 'a bit of', 'a lot of' name the right amount. Today closes the block; next class opens Justice."*
 
@@ -72,38 +72,38 @@ M34 PRICE (Guia p.293-294): two ways ->
 1. **Ticket de salida (5'):** 3-5 frases sobre SU trabajo: minimo 1 "how many", 1 "how much", 1 precio ("It costs ___ each"). Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
-HOMEWORK CL 30 GRAMMAR — DUE Cl 31, BEFORE 7:00 PM
+HOMEWORK CL 30 GRAMMAR — DUE: BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl 31)
 TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
 NOT fragmented.
 (1) WRITE 6 lines about your work: 2 "how many" Q+A, 2 "how much"
     Q+A, 2 prices (1 with "be", 1 with "cost" + "each"). Check
     countable vs uncountable and the -s on "costs".
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
-    one CONVERSATION assigns today at 10:00. Send it TODAY to the
+    one CONVERSATION assigns in its session. Send it TODAY to the
     cohort WhatsApp group. Audio only by exception (max 2 a week).
 (3) Bring the paper to Grammar Cl 31.
 ```
 
-> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion en su sesion — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: today's rules, out loud, in a real work situation. Your video is assigned there."*
-5. **PASE al docente de CONVERSACION (Conv Cl 30, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No se pasa de palabra: el bloque siguiente lo dicta otra persona. Llenalo mientras el grupo escribe el ticket:
+4. **Anuncio de cierre:** *"Next session: CONVERSATION, with the other teacher: today's rules, out loud, in a real work situation. Your video is assigned there."*
+5. **PASE al docente de CONVERSACION — lo entregas al terminar tu sesion**, en papel en la carpeta del cohorte o por el grupo de docentes; va a la siguiente sesion de la otra pista (en jornada de 4 h, a continuacion; en jornada de 2 h, la noche siguiente). No se pasa de palabra: la siguiente sesion la abre otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
-PASE Grammar -> Conv — Cl 30 (HOY, a las 10:00)
+PASE Grammar Cl 30 -> siguiente sesion de Conv
 3 gaps escritos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones bajo presion en papel: (a) "how much + contable"; (b) "how
 many + incontable"; (c) "how much cost it?"; (d) "cost" sin -s.
 SELLADO HOY EN PAPEL: M32-M34 cantidades y precios (how many / how
-much / be-cost + each). Tu bloque lo USA oral: no vuelvas a explicar
+much / be-cost + each). Conv Cl 30 lo USA oral: no se vuelve a explicar
 la regla. Los gaps (a)-(b) son tus blancos orales.
-TAREA QUE DEJE: 6 lineas escritas, due Cl 31 antes de las 7:00 PM.
+TAREA QUE DEJE: 6 lineas escritas, due antes de mi proxima sesion (Cl 31).
 El video del dia lo asignas TU (abre con LISTEN FIRST).
-Virtud: TEMPLANZA v2 dia 5 — CERRADA en mi pista; cierrala igual.
+Virtud: TEMPLANZA v2 dia 5 — CERRADA en mi pista (Cl 30 la cierra en las dos pistas).
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas + team event budget) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas + team event budget) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion)
 
 [PAGEBREAK]
 
@@ -130,5 +130,5 @@ M34 (p.295): "How much are the hamburgers?" - "They're six dollars each."
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: TEMPLANZA v2 dia 5 CIERRA hoy (calendario absoluto); Cl 31 abre JUSTICIA v2. Anunciar la transicion.
 - **Siguiente sesion Grammar:** Cl 31 = cluster DESCRIPCION **M36 (p.301-306) + M37 (p.307-312) + M38 (p.313-317)**. JUSTICIA v2 dia 1.
-- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 30 -> Conv Cl 30 en papel a las 10:00; Conv Cl 30 -> Grammar Cl 31 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date. Tarea escrita a la mitad (15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes.
-- **B3 ES DISTINTO DEL DE CONV CL 30 PORQUE:** a las 10:00 es **THE SUPPLY ORDER** — llamada al proveedor para reponer stock, roles proveedor mas quien hace el pedido, guion de existencias y precios unitarios (impresoras, cartuchos). Ahora es **THE TEAM EVENT BUDGET** — reunion interna para aprobar el presupuesto de un evento del equipo, roles coordinador del evento (RRHH) mas asistente de finanzas que audita, guion de asistentes, dinero disponible y costo por persona, y los observers suman las cifras y dan veredicto cierra / se pasa, tarea que no existe en Conv Cl 30. Misma carga gramatical (M32-M34), distinto titulo, roles, guion y funcion. El B3 viejo de esta pista (`The stock check`, casi igual al de Conv) queda retirado.
+- **Secuencia entre pistas (edicion unica 4 h / 2 h — ver HOJA_LECTURA_POR_JORNADA):** cada sesion cierra con PASE escrito a la siguiente sesion de la otra pista. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date. Tarea escrita a la mitad (15-20 min) para que el dia completo no pase de ~1 hora.
+- **B3 ES DISTINTO DEL DE CONV CL 30 PORQUE:** en Conv Cl 30 es **THE SUPPLY ORDER** — llamada al proveedor para reponer stock, roles proveedor mas quien hace el pedido, guion de existencias y precios unitarios (impresoras, cartuchos). Ahora es **THE TEAM EVENT BUDGET** — reunion interna para aprobar el presupuesto de un evento del equipo, roles coordinador del evento (RRHH) mas asistente de finanzas que audita, guion de asistentes, dinero disponible y costo por persona, y los observers suman las cifras y dan veredicto cierra / se pasa, tarea que no existe en Conv Cl 30. Misma carga gramatical (M32-M34), distinto titulo, roles, guion y funcion. El B3 viejo de esta pista (`The stock check`, casi igual al de Conv) queda retirado.

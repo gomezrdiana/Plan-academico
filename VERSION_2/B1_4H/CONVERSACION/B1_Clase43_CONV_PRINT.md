@@ -1,13 +1,13 @@
 # B1 MASTERY — Cl 43/44 — CONV — HOJA DE RUTA (PROTOCOLO)
 
-**Sesion 43/44 · 110 min · 10:00 AM-12:00 M (va SEGUNDO, CIERRA el dia de presentaciones) · Bloques: B1 10' + B2 45' + B3 40' + B4 15' = 110**
+**Sesion 43/44 · 110 min · CIERRA las presentaciones finales · Bloques: B1 10' + B2 45' + B3 40' + B4 15' = 110**
 **Focus (1 line):** Finish the remaining presentations, then debrief the group's real strengths and the B1 structures that shone, run a reflective ticket, and reframe the recordings as evidence of courage and service.
 **Virtud:** SINTESIS — dia 3 de 4 · **FORTALEZA + JUSTICIA integradas**
 **Frase del Dia:** *"Fortitude carried us to the front, justice keeps the applause honest: I name the true strength I saw in someone else, and I own the story I HAVE told — braver THAN I was, fair to every voice."*
 
-> **PROTOCOLO, no clase de modulo. Segundo bloque del dia de presentaciones (Gramatica las abrio a las 8:00).** El profe CONDUCE. NO evalua NI comunica resultados (coordinacion evalua). DE PIE en las presentaciones pendientes y el debrief.
+> **PROTOCOLO, no clase de modulo. Segunda sesion de las presentaciones finales: CIERRA las presentaciones (Gramatica las abrio en su sesion Cl 43).** El profe CONDUCE. NO evalua NI comunica resultados (coordinacion evalua). DE PIE en las presentaciones pendientes y el debrief.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (notas privadas con nombres, lista de videos recibidos), el PASE y las fichas de observers que te entrega el docente de Gramatica a las 10:00 (Grammar Cl 43) y celular para la foto de inicio. NADA impreso.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (notas privadas con nombres, lista de videos recibidos), el PASE y las fichas de observers que te dejo el docente de Gramatica en su ultima sesion (Grammar Cl 43) y celular para las fotos/videos del dia. NADA impreso.
 
 ---
 
@@ -15,11 +15,11 @@
 
 **Objective: pick up the day where Grammar left it and set the closing tone.**
 
-**10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+**Puntualidad: coordinación registra la hora de llegada; foto de inicio opcional.**
 
 1. **PASE de Grammar Cl 43 leido (2'):** quienes faltan por presentar (en el orden del sorteo) + fortalezas repetidas + estructuras del curso mas oidas. Anuncia el orden de los pendientes.
 2. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo. Señala: *"Fortitude to present, justice to honor each voice. We close together."*
-3. **Chequeo de portafolio con lista en mano (4'):** el chequeo es SOLO tuyo (Gramatica solo recordo la due date). Nombre por nombre ENVIO / NO ENVIO del video de ensayo de ayer (B1-4H-VIDEO-42-REHEARSAL) y al que envio, **UNA cosa por mejorar, en 5 segundos, con el error real**. El video que no abre con sus 3 frases del LISTEN FIRST cuenta como incompleto. No-envios a tu cuaderno y al reporte.
+3. **Chequeo de portafolio con lista en mano (4'):** el chequeo es SOLO tuyo (Gramatica solo recordo la due date). Nombre por nombre ENVIO / NO ENVIO del video de ensayo de la sesion anterior de esta pista (B1-VIDEO-42-REHEARSAL) y al que envio, **UNA cosa por mejorar, en 5 segundos, con el error real**. El video que no abre con sus 3 frases del LISTEN FIRST cuenta como incompleto. No-envios a tu cuaderno y al reporte.
 
 > [VIRTUD] Board: "SYNTHESIS — DAY 3 · FORTITUDE + JUSTICE". *"Every presenter stood in a hard place; every listener gave a fair hearing. That is the level, lived."*
 
@@ -49,7 +49,7 @@
 3. **Tarea (board):**
 ```
 HOMEWORK CONVERSATION CL 43 — ONE TASK ONLY: THE VIDEO.
-DUE: Cl 44, BEFORE 7:00 PM — that is, TODAY before 7:00 PM.
+DUE: BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl 44).
 TIME: 40-55 min (10 LISTEN FIRST + 30-45 reflection video). NOT fragmented.
 LISTEN FIRST (5-10 min, BEFORE you record):
 Search on YouTube or a podcast app: "how learning a language changed me".
@@ -63,19 +63,19 @@ structures. Label: B1-43-REFLECTION. WhatsApp group.
 (No written homework today.)
 ```
 
-> **LISTEN FIRST es parte fija de la tarea:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."* La tarea de hoy es SOLO este video (Gramatica no dejo tarea escrita). Si alguien pide fragmentar o dice que no le dio tiempo: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+> **LISTEN FIRST es parte fija de la tarea:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."* La tarea de hoy es SOLO este video (Gramatica Cl 43 no deja tarea escrita). Si alguien pide fragmentar o dice que no le dio tiempo: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
 4. **Proxima clase:** *"Cl 44: our closing session. Bring nothing — just yourself. Synthesis, day 4."* (NO menciones examen ni contenido.)
 5. **Sin PASE de contenido** (no existe Grammar Cl 44: el Final lo aplica un evaluador externo). Deja a tu cuaderno: fortalezas del grupo + estructuras del curso dominadas + quienes presentaron, para el reporte de coordinacion y para tu Cl 44.
 
-**Checklist salida:** ☐ Reporte firmado ☐ Fichas de observers recogidas (error paper) ☐ Tickets reflexivos recogidos (TODOS) ☐ Fotos/videos de presentaciones ☐ Reframe hecho ☐ Todos presentaron (o pendientes anotados) ☐ **Videos recibidos + UNA mejora dicha por video** ☐ PASE Grammar Cl 43 leido ☐ Foto de inicio enviada a las 10:00
+**Checklist salida:** ☐ Reporte firmado ☐ Fichas de observers recogidas (error paper) ☐ Tickets reflexivos recogidos (TODOS) ☐ Fotos/videos de presentaciones ☐ Reframe hecho ☐ Todos presentaron (o pendientes anotados) ☐ **Videos recibidos + UNA mejora dicha por video** ☐ PASE Grammar Cl 43 leido
 
 ---
 
 ## NOTA INTERNA (no leer en clase)
 
-- Segundo bloque del dia de PRESENTACIONES FINALES (protocolo integrado). Consume el numero Cl 43 (mismo dia que el bloque Grammar).
-- **Orden real del dia (hoja de arranque 13/10/2026):** Grammar 8:00-10:00 ABRE (reglas, sorteo, rondas 1-2) y Conv 10:00-12:00 CIERRA (pendientes, debrief, reframe, ticket reflexivo, video). La guia anterior traia el orden inverso; para no romper el protocolo se intercambiaron las mitades del dia entre las dos pistas, y con ellas la Frase del Dia (esta es la de cierre). El chequeo de videos con UNA mejora por video es de Conversacion.
+- Segunda sesion de las PRESENTACIONES FINALES (protocolo integrado). Consume el numero Cl 43 (mismo numero de clase que la sesion de Grammar).
+- **Secuencia entre pistas (edicion unica 4 h / 2 h — ver HOJA_LECTURA_POR_JORNADA):** cada sesion cierra con PASE escrito a la siguiente sesion de la otra pista. En Cl 43, Grammar ABRE (reglas, sorteo, rondas 1-2) y Conv CIERRA (pendientes, debrief, reframe, ticket reflexivo, video), en ambas jornadas; por eso esta Frase del Dia es la de cierre. El chequeo de videos con UNA mejora por video es de Conversacion. `SUPUESTO DE PLANEACIÓN — verificar`: en jornada de 2 h la noche de Grammar Cl 43 va ANTES que la de Conv Cl 43 (excepcion a la alternancia Conv N -> Grammar N).
 - **V13 critico:** el profe conduce/cronometra, NO evalua NI comunica resultados. Coordinacion evalua. Notas privadas (nombres) SOLO a coordinacion.
 - Si todos presentaron en el bloque de Gramatica, este bloque es debrief extendido + reframe; NO se rellena artificialmente.
 - Virtud: SINTESIS dia 3 — FORTALEZA + JUSTICIA (calendario absoluto). Canon VATS Q3 ("¿cual virtud trabajaste mas / cual falta?").

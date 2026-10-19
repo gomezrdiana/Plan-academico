@@ -1,12 +1,12 @@
 # B1 MASTERY — Cl 38/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 38/44 · 110 min · 8:00-10:00 AM (va PRIMERO, antes de Conversacion) · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 38/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** B1 Book **M8 "Reported Speech — He Said, She Said"** (p.83-96; Guide 2 say/tell/ask p.89; Guide 3 back-shift p.93)
 **Focus (1 line):** Build reported speech on paper — say/tell/ask, and step every inner verb one foot back.
 **Virtud:** FORTALEZA v2 — dia 3 de 5
 **Frase del Dia:** *"A brave voice reports without hiding: he SAID he WAS afraid, she TOLD me she HAD failed, they ASKED IF I would stay — the verb steps back, the truth stays whole."*
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres), el PASE que te dejo el docente de Conversacion al cierre de la Cl 37 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres), el PASE que te dejo el docente de Conversacion en su ultima sesion y celular para las fotos/videos del dia. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 > **DE PIE: Bloques 1-3 completos (~95 de 110 min ≈ 86%; piso 70%). Solo Bloque 4 sentado.** Movimiento con contenido siempre.
 
@@ -16,7 +16,7 @@
 
 **Objective: re-fire deduction and the third conditional, then flip from direct words to reported words.**
 
-**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+**Puntualidad: coordinación registra la hora de llegada; foto de inicio opcional.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 35 y Cl 31); errores anonimos al board; 1 min re-produccion:
    - "Deduction on paper in the air: 'The lights are off — they ___ (must / can't) be home.' Give both." (Cl 35)
@@ -24,9 +24,9 @@
    - "Fix it: 'If I would have studied, I would have pass.'" (Cl 35)
    - "Describe this room in 3 adjectives, full sentences." (Cl 31 — ventana de repaso)
    - "Question form third conditional: 'you / call / me — if you had known?'" (Cl 35)
-2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, en su Bloque 1 a las 10:00. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los 2-3 minutos que libera este punto pasan a la recuperacion.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, en su Bloque 1. Tu solo dices: *"Your daily video goes out every day. Conversation checks it, name by name."* Y sigues; los 2-3 minutos que libera este punto pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones.
-4. **Revision tarea (3'):** tarea M7 (6 frases) sobre la mesa; recoge. **PASE de Conv Cl 37 (cierre de ayer)** leido: sus gaps orales de M7 son tus blancos. Hoy reported speech se escribe con reglas; a las 10:00 Conversacion lo lleva a la voz.
+4. **Revision tarea (3'):** tarea M7 (6 frases) sobre la mesa; recoge. **PASE de Conversacion (el que te dejo en su ultima sesion)** leido: sus gaps orales de M7 son tus blancos. Hoy reported speech se escribe con reglas; en su sesion Conversacion lo lleva a la voz.
 
 > [VIRTUD] Board: "FORTITUDE — DAY 3". *"Reporting takes courage: you carry someone's exact words, you don't change them to protect yourself."*
 
@@ -73,36 +73,36 @@ BOOK (p.85): "Daniella said that she was happy /
 1. **Ticket de salida (5'):** 3-5 frases reportando cosas reales de tu trabajo/estudio (min 1 SAID, 1 TOLD + persona, 1 ASKED IF). Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
-HOMEWORK GRAMMAR CL 38 — DUE Cl 39, BEFORE 7:00 PM — TODAY before 7:00 PM.
+HOMEWORK GRAMMAR CL 38 — DUE: BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl 39).
 NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
 (1) WRITE 6 reported sentences from a real conversation this week:
     2 with SAY, 2 with TELL (+ person: me/him/her/them),
     2 with ASK (1 with a question word: where/when/why; 1 with IF).
     Apply full back-shift. Underline the reporting verb.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
-    one CONVERSATION assigns today at 10:00 (it opens with LISTEN FIRST).
+    one CONVERSATION assigns in its session (it opens with LISTEN FIRST).
 (3) Bring the paper to next class.
 ```
-> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversacion el total del dia no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversacion el total del dia no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion en su sesion — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Cierre y anuncio:** *"At ten o'clock you have CONVERSATION with the other teacher: you relay real messages out loud. Your video is assigned there. Next class at eight: perfect tenses — 'I've finished, I had finished before it happened, by 5pm I'll have finished.'"*
-5. **PASE al docente de CONVERSACION (Conv Cl 38, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion:
+4. **Cierre y anuncio:** *"Next session: CONVERSATION, with the other teacher: you relay real messages out loud. Your video is assigned there. Next GRAMMAR session: perfect tenses — 'I've finished, I had finished before it happened, by 5pm I'll have finished.'"*
+5. **PASE al docente de CONVERSACION — lo entregas al terminar tu sesion**, en papel en la carpeta del cohorte o por el grupo de docentes; va a la siguiente sesion de la otra pista (en jornada de 4 h, a continuacion; en jornada de 2 h, la noche siguiente). No se pasa de palabra: la siguiente sesion la abre otra persona:
 ```
-PASE Grammar Cl 38 -> Conv Cl 38
+PASE Grammar Cl 38 -> siguiente sesion de Conv
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones bajo presion: (a) "said me" (persona con TELL, no SAY);
 (b) "told that" (falta persona); (c) verbo sin back-shift bajo velocidad;
 (d) "asked did I finish" (afirmativo adentro: "asked IF I had finished").
-Hoy quedo M8 lockeado en papel (say/tell/ask + back-shift, p.93). Tu Conv
-Cl 38 de hoy lo lleva a la voz (relay de mensajes): no re-expliques la
-tabla. El chequeo de videos es tuyo. TAREA QUE DEJE: 6 frases, due Cl 39
-antes de las 7:00 PM. El video del dia lo asignas tu (con LISTEN FIRST).
+Hoy quedo M8 lockeado en papel (say/tell/ask + back-shift, p.93). Conv
+Cl 38 lo lleva a la voz (relay de mensajes): no re-expliques la
+tabla. El chequeo de videos es tuyo. TAREA QUE DEJE: 6 frases, due antes de
+mi proxima sesion (Cl 39). El video del dia lo asignas tu (con LISTEN FIRST).
 NO pidas otro papel encima. (Cl 39 = M9; Cl 40 = M10+M11.)
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + zone walk + incident report) ☐ PASE Conv Cl 37 leido ☐ PASE a Conv Cl 38 entregado en mano a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + zone walk + incident report) ☐ PASE Conv Cl 37 leido ☐ PASE a la siguiente sesion de Conv entregado en mano ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion)
 
 [PAGEBREAK]
 
@@ -127,4 +127,4 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Recuperacion: N-3 = Cl 35 ≈ B1 M3-4; N-7 = Cl 31 (ventana repaso A2). (SUPUESTO DE PLANEACIÓN — verificar corte de mitades y anclas N-3/N-7 con la reescritura paralela de Cl 26-37.)
 - Virtud: FORTALEZA v2 dia 3 (calendario absoluto).
-- **Orden real del dia (hoja de arranque 13/10/2026):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia · PASE Grammar Cl N -> Conv Cl N en papel a las 10:00 y Conv Cl N -> Grammar Cl N+1 al cerrar a las 12:00 · UN solo video diario (lo asigna Conversacion, abre con LISTEN FIRST; el chequeo con una mejora por video es de Conversacion a las 10:00) · tarea escrita de Grammar de 15-20 min (la mitad de items) · foto de inicio a la hora exacta al grupo de docentes.
+- **Secuencia entre pistas (edicion unica 4 h / 2 h — ver HOJA_LECTURA_POR_JORNADA):** cada sesion cierra con PASE escrito a la siguiente sesion de la otra pista. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date. Tarea escrita a la mitad (15-20 min) para que el dia completo no pase de ~1 hora.

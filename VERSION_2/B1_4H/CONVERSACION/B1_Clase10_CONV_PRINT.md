@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 10/44 — CONV — HOJA DE RUTA
 
-**Sesion 10/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 35' + B3 40' + B4 15' = 110**
+**Sesion 10/44 · 110 min · Bloques: B1 20' + B2 35' + B3 40' + B4 15' = 110**
 **Modulo:** A1 Book **M16 "I Like It! — Object Pronouns" (Guia 1 p.199; ejemplos p.201; rango p.197-201)** — ancla de hoy; HOY SOLO USO ORAL
 **Focus (1 linea):** Reemplazar el nombre en voz alta — they trained ME, I helped THEM, my manager trusted US — sin mover el orden de la frase, y sostenerlo en una entrevista de trabajo real.
 **Virtud:** TEMPLANZA — Cl 5 de 5 de esta virtud (Cl 6-10 de cada pista) — CIERRA el bloque
@@ -8,9 +8,9 @@
 
 > **ENGLISH ONLY de principio a fin.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges. Los rituales ya se presentaron en la Cl 1: hoy solo se APLICAN, no se explican.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos), el PASE que te entrega el docente de Gramatica a las 10:00 y **tu telefono cargado y con espacio: foto de inicio y hoy grabas las entrevistas**. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos), el PASE que te dejo el docente de Gramatica en su ultima sesion y **tu telefono cargado y con espacio: fotos/videos del dia y hoy grabas las entrevistas**. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
-> **HOY SOLO: los 7 pronombres objeto hablados (me / you / him / her / it / us / them) despues del verbo o despues de una preposicion, manteniendo el orden de la frase, mas su uso sostenido dentro de la ENTREVISTA SIMULADA del dia. La regla se USA, no se explica. NO TOCAR AUN: la tabla formal sujeto-objeto, los pronombres tras preposicion en papel, el ejercicio escrito y la nota escrita de la entrevista — eso ya lo hizo GRAMATICA Cl 10 a las 8:00: no lo repites. Y NO se tocan "mine / hers" ni "myself / each other": no son de este modulo.**
+> **HOY SOLO: los 7 pronombres objeto hablados (me / you / him / her / it / us / them) despues del verbo o despues de una preposicion, manteniendo el orden de la frase, mas su uso sostenido dentro de la ENTREVISTA SIMULADA del dia. La regla se USA, no se explica. NO TOCAR AUN: la tabla formal sujeto-objeto, los pronombres tras preposicion en papel, el ejercicio escrito y la nota escrita de la entrevista — eso lo hace GRAMATICA Cl 10 en papel en su sesion: no lo repites. Y NO se tocan "mine / hers" ni "myself / each other": no son de este modulo.**
 
 > **HITO DE HOY — ENTREVISTA SIMULADA (primer hito del nivel), DENTRO del Bloque 3.** Ya la anunciaste en el cierre de la clase anterior, en una sola frase. Hoy no se vuelve a anunciar: se ejecuta. **Cada estudiante es candidato UNA vez, 3 minutos, en una sola toma, y TU la grabas con tu telefono como evidencia del expediente.** Tu papel es COACH desde afuera: **jamas eres candidato ni entrevistador.** Si preguntan si esto es una nota o si cuenta para la garantia: *"That is coordination, not me. What I give you is feedback."*
 
@@ -18,16 +18,16 @@
 
 **Objective: every voice is awake, every video is accounted for, and the room knows the pronoun moves behind the verb.**
 
-**10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+**Puntualidad: coordinación registra la hora de llegada; foto de inicio opcional.**
 
-1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra.
-2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar; el chequeo nombre por nombre es SOLO tuyo (Gramatica a las 8:00 solo recuerda el video). Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"'the projector's screen' — 'the screen OF the projector'"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* Sin discusion; si preguntan por notas o por la garantia: *"That is coordination, not me."*
+1. **EN PUNTO arrancas, puerta abierta, de pie (1').** Marca en tu cuaderno la columna **"llegada tarde"** (despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia). NO expliques la regla otra vez: solo se registra.
+2. **Chequeo de portafolio con lista en mano (3').** Ya viste los videos antes de entrar; el chequeo nombre por nombre es SOLO tuyo (Gramatica solo recuerda el video). Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas ENVIO o NO ENVIO, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"'the projector's screen' — 'the screen OF the projector'"*). Al que no envio: *"You send the missing video TODAY, together with today's. Two videos, same day. The list goes to coordination today."* Sin discusion; si preguntan por notas o por la garantia: *"That is coordination, not me."*
 3. **Recuperacion espaciada DE TU PISTA (5', oral, DE PIE, en cadena, sin cuaderno).** N-3 = **Conv Cl 7** (adverbios de frecuencia y su posicion) · N-7 = **Conv Cl 3** (consejo profesional con should, con horas y precios). Errores al tablero ANONIMOS, coro 2x, 1 minuto de re-produccion correcta:
    - "How often + adverb: two true sentences, 'I always...' and 'she usually...'." (Cl 7)
    - "With BE: 'She IS usually on time.' — never 'she always is'." (Cl 7)
    - "Advice with a number: 'You should reply within 24 hours.'" (Cl 3)
    - "Fix it out loud: 'I check always my email.'" (Cl 7)
-4. **Lectura del PASE recibido, en voz alta (2').** Lees los 3 errores literales del papel que te entrego Gramatica a las 10:00: *"These three came out of your writing this morning. Now they have to survive an interview."*
+4. **Lectura del PASE recibido, en voz alta (2').** Lees los 3 errores literales del papel que te dejo Gramatica en su ultima sesion: *"These three came out of your writing in Grammar. Now they have to survive an interview."*
 5. **Frase del Dia (4').** Escrita en el tablero ANTES de que entren, arriba y grande; ahi se queda toda la clase. 2 lecturas tuyas, coro 2x, 1 estudiante solo. Glosa en UNA linea, sin clase de gramatica: *"After the verb it changes: I know HIM, he helped ME."* Insertala natural **3+ veces**; al cierre 1 la dice de memoria y otro la usa en una oracion nueva propia.
 
 > **[VIRTUD] TEMPLANZA — Cl 5 de 5. CIERRA el bloque. Tablero: "TEMPERANCE — DAY 5 OF 5 — CLOSING".** (5', el ritual completo; la retrospectiva de cierre va en el Bloque 4)
@@ -97,7 +97,7 @@ THE INTERVIEW -- 6 QUESTIONS, ASKED IN THIS ORDER
 3. **Reglas duras del hito:**
    - **TU eres COACH desde afuera — NUNCA candidato, NUNCA entrevistador.** Los dos entrevistadores son estudiantes que rotan. Si el candidato se congela 15 segundos, sueltas UN prompt (*"Start with what you do now"*) y te retiras. No terminas sus frases.
    - **3 minutos por candidato, UNA sola toma, sin repetir.** El que se traba sigue desde donde quedo.
-   - **Grabas tu con tu telefono**, de pie al lado, plano fijo. Antes de la primera toma, 10 segundos: *"This is your first interview in English. In this level you will have another one, and you will see the difference. Speak, do not read."* Etiqueta `B1-4H-HITO-CL10-[nombre]`; HOY lo reenvias a la auxiliar administrativa.
+   - **Grabas tu con tu telefono**, de pie al lado, plano fijo. Antes de la primera toma, 10 segundos: *"This is your first interview in English. In this level you will have another one, and you will see the difference. Speak, do not read."* Etiqueta `B1-HITO-CL10-[nombre]`; HOY lo reenvias a la auxiliar administrativa.
    - **TODOS pasan como candidato una vez.** Calcula 3 min de entrevista + 1 min de devolucion de observers por persona; ajusta con el Plan B si el grupo es grande. **El cierre no arranca sin la lista completa.**
 4. **OBSERVERS ACTIVOS con ficha en su propio papel (la dibujan ellos en 30 seg):** cuatro casillas — `OBJECT PRONOUNS HEARD` (una raya por cada uno) · `1 STRENGTH (type, not person)` · `1 IMPROVEMENT` · `1 QUESTION I WOULD HAVE ASKED`. Al cerrar cada entrevista, en 60 segundos: un observer canta el conteo de pronombres, otro dice la fortaleza en TIPO y otro la mejora. **Nunca se nombra a nadie y nunca se dice "bien" o "mal": se dice que paso.**
 5. **Tu devolucion, 10 segundos por candidato, inmediata.** UNA sola cosa, concreta y en ingles (*"you answered question three with no pronouns — 'he trained me', not 'he trained'"*). NO comentas nada mas, NO comparas candidatos, NO hablas de notas ni de resultados. Si insisten: *"That is coordination, not me."*
@@ -108,12 +108,12 @@ THE INTERVIEW -- 6 QUESTIONS, ASKED IN THIS ORDER
 1. **Ticket de salida (4').** 3-5 frases sobre la entrevista de hoy reemplazando nombres por pronombres objeto (al menos 1 despues de preposicion: *"they asked me about it"*, *"I talked with them"*), con nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
 2. **Error paper (4').** Escribes 4-6 errores REALES de las entrevistas en el papel fisico ANONIMO y los pasas al tablero sin nombres. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio corregido. En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte. Doble protocolo, siempre.
 3. **Retrospectiva de cierre de TEMPLANZA (3').** *"One word for TEMPERANCE these five classes — thirty seconds each, no discussion."* Escuchas, no comentas. Cierras: *"Block closed. The next guide opens a new virtue."*
-4. **Cierre (4').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with GRAMMAR Cl 11 and the other teacher: the past on paper — every regular verb with its ED. New virtue, new block. Bring your notebook. Send your video TODAY."*
+4. **Cierre (4').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next session: GRAMMAR, with the other teacher: the past on paper — every regular verb with its ED. New virtue, new block. Bring your notebook. Send your video TODAY."*
 
 **Tarea (la escribes en el tablero durante el ticket, la lees en voz alta al cierre):**
 ```
 HOMEWORK CONVERSATION CL 10 — ONE TASK ONLY: THE VIDEO.
-DUE: Cl 11, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
+DUE: BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl 11). NOT NEGOTIABLE. The video goes out TODAY.
 TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
 LISTEN FIRST (5-10 min, BEFORE you record):
 Search on YouTube or a podcast app: "job interview tell me about yourself".
@@ -126,17 +126,17 @@ speaking, straight through, NO reading, NO script on camera.
 Content: "MY INTERVIEW, DONE RIGHT" — record your answers to questions
 1, 3 and 5 again, fixing what you were told today. At least 6 object
 pronouns, and one of them after a preposition. Close with the Phrase
-of the Day. Send it TODAY to the cohort WhatsApp group. Label: B1-4H-VIDEO-10.
+of the Day. Send it TODAY to the cohort WhatsApp group. Label: B1-VIDEO-10.
 Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **LISTEN FIRST es parte fija de la tarea desde hoy:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de mañana, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
-> **La tarea de hoy es SOLO el video** — la tarea escrita de este modulo ya la asigno el docente de Gramatica hoy a las 8:00. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
+> **La tarea de hoy es SOLO el video** — la tarea escrita de este modulo la asigna el docente de Gramatica en su sesion. No pidas ademas un papel: las dos pistas NO duplican tarea. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
-5. **PASE al docente de GRAMATICA (Grammar Cl 11, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque, y hoy paso el primer hito del nivel.** Copia este texto y llenalo mientras el grupo escribe el ticket:
+5. **PASE al docente de GRAMATICA — lo entregas al terminar tu sesion**, en papel en la carpeta del cohorte o por el grupo de docentes; va a la siguiente sesion de la otra pista (la proxima jornada, sea de 4 h o de 2 h). No es opcional y no se pasa de palabra: **la siguiente sesion la abre otra persona que no estuvo en tu bloque, y hoy paso el primer hito del nivel.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv Cl 10 -> Grammar Cl 11 — del docente de CONVERSACION al de GRAMATICA
-Virtud: TEMPLANZA, Cl 5 de 5 — CERRADA hoy en las dos pistas, con retrospectiva.
-Tu Cl 11 ABRE la virtud siguiente: tu guia la nombra.
+PASE Conv Cl 10 -> siguiente sesion de Grammar — del docente de CONVERSACION al de GRAMATICA
+Virtud: TEMPLANZA, Cl 5 de 5 — se CIERRA en la Cl 10 de las dos pistas, con retrospectiva.
+Grammar Cl 11 ABRE la virtud siguiente: su guia la nombra.
 HOY SE HIZO EL HITO: ENTREVISTA SIMULADA, 3 min por estudiante, 1 sola toma,
 grabada y reenviada HOY a la auxiliar. Grabados: ___ de ___. Faltan: ________.
 LO QUE SALIO ORAL HOY: los 7 pronombres objeto (despues del verbo y despues
@@ -154,16 +154,16 @@ YA QUEDO HECHO HOY, NO LO REPITAS: el uso oral de los pronombres · las 6
 frases del texto de mentores en el tablero · la pieza de proyecto "TELL ME
 ABOUT YOURSELF" · la entrevista simulada completa · el chequeo de portafolio
 (videos que NO llegaron: ____________) · la retrospectiva de cierre de virtud.
-LA PARTE ESCRITA DEL HITO YA SE HIZO en tu Cl 10 a las 8:00: no la repitas.
+LA PARTE ESCRITA DEL HITO es de Grammar Cl 10 (nota a mano): no la dupliques.
 SIMULACION QUE USE HOY — NO LA REPITAS: "SIMULATED JOB INTERVIEW" (6 preguntas).
 Ni titulo, ni guion, ni preguntas: escenario profesional DISTINTO.
-TAREA ESCRITA: la asignaste TU esta manana. Yo hoy deje SOLO el video No. 10
+TAREA ESCRITA: es tuya (Grammar Cl 10). Yo deje SOLO el video No. 10
 (abre con LISTEN FIRST).
 LA FRASE DEL DIA NO SE TRASPASA: estrena la tuya sobre el mismo modulo.
 Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ **Videos de hito B1-4H-HITO-CL10-[nombre] reenviados hoy a la auxiliar** ☐ Retrospectiva de cierre de virtud hecha ☐ Todos pasaron como candidato ☐ Foto de inicio enviada a las 10:00
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ **Videos de hito B1-HITO-CL10-[nombre] reenviados hoy a la auxiliar** ☐ Retrospectiva de cierre de virtud hecha ☐ Todos pasaron como candidato
 
 [PAGEBREAK]
 
@@ -179,7 +179,7 @@ Firma Conversacion: ______________  Recibido Gramatica: ______________
 **Ejemplos del libro (p.201), verbatim:** "Do you talk with Omar? / Yes, I talk with him." · "Can Dairon study with Valentina and Juliet? / Yes, he can study with them." · "Should Arnold work with you and Frank? / Yes, he should work with us." · "Did you call your mother? / Yes, I called her." · "Do you know Camilo? / Yes, I know him." · "Can I help you? / Yes, you can help me." · "Do you like pizza? / Yes, I like it." / "...hamburgers? / Yes, I like them."
 **Vocabulario del modulo (p.198):** pizza · a hamburger · a hot dog · broccoli · **know** (pasado irregular: knew) · **hang out** (pasado: hung out) · **talk** · **call**.
 
-**Ya hecho en GRAMATICA Cl 10 a las 8:00, no lo repites hoy:** la tabla sujeto-objeto completa en el tablero, los pronombres tras preposicion por escrito, el ejercicio del libro y **la nota escrita de la entrevista, a mano en clase** (ver nota interna).
+**Lo hace GRAMATICA Cl 10 en papel, no lo repites hoy:** la tabla sujeto-objeto completa en el tablero, los pronombres tras preposicion por escrito, el ejercicio del libro y **la nota escrita de la entrevista, a mano en clase** (ver nota interna).
 
 **Plan B (cero material, todo tablero o voz):**
 - **Grupo grande, no alcanzan todos:** entrevista a 2'30'', devolucion de observers a 30 seg, y **grabas a los ultimos dos en el pasillo durante el ticket**, de uno en uno. **La entrevista NO se pasa a otro dia:** el hito es de la Cl 10.
@@ -187,19 +187,19 @@ Firma Conversacion: ______________  Recibido Gramatica: ______________
 - **Se congelan:** UN prompt y 10 segundos de silencio. No rescatas. Si se congela dos veces, pasa al siguiente y vuelve al final.
 - **Se cae el telefono o no hay espacio:** la entrevista se hace igual y anotas en el reporte quien quedo sin grabar; coordinacion decide si se repone. La clase NUNCA se detiene por la grabacion.
 - **Bloque 2 atascado en la tabla:** deja hoy solo him / her / them (los que la entrevista exige) y trae me / us al drill de zonas.
-- **Grupo incompleto a las 10:00:** arrancas igual, registras la llegada tarde; el que llega igual pasa como candidato.
+- **Grupo incompleto a la hora de inicio:** arrancas igual, registras la llegada tarde; el que llega igual pasa como candidato.
 - **Sobra tiempo:** "the question you feared" — cada uno responde otra vez, en 45 segundos, la pregunta que peor le salio.
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-- **Edicion unica manana/noche:** edicion maestra del nocturno llevada al 4H. **Solo cambia el envoltorio:** 110 min, orden real de la hoja de arranque 13/10: Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (B1 + B2 juntos), el MISMO dia · PASE Grammar -> Conv en papel a las 10:00 y Conv -> Grammar al cerrar las 12:00 para la clase siguiente · UN solo video diario (el de Conversacion, que hace el chequeo de portafolio y desde la Cl 3 abre con LISTEN FIRST) · foto de inicio a las 10:00 al grupo de docentes. Contenido (modulo, HOY SOLO, hito, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
+- **Edicion unica (decision de gerencia):** esta guia sirve para la jornada de 4 h y la nocturna de 2 h; secuencia y horas en HOJA_LECTURA_POR_JORNADA. 110 min (B1 20' + B2 35' + B3 40' + B4 15') · cada sesion cierra con PASE escrito a la siguiente sesion de la otra pista · due "BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl N+1)" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion, que hace el chequeo de portafolio y abre con LISTEN FIRST). Contenido (modulo, HOY SOLO, hito, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
 - **Hito integrado:** el mapa del nivel lo ubica en Cl 10 y Cl 18, **dentro** de la guia del dia, sin marcador aparte.
-- **Minutos en 4H (dia de hito):** 20/35/40/15 = 110; el recorte de 10' frente a la maestra sale 5' del Bloque 2 y 5' del Bloque 3. El hito conserva 40' (~8 candidatos a 3+1 min); si el grupo es mayor, Plan B.
+- **Minutos (dia de hito):** 20/35/40/15 = 110; el recorte de 10' frente a la version de 120 min sale 5' del Bloque 2 y 5' del Bloque 3. El hito conserva 40' (~8 candidatos a 3+1 min); si el grupo es mayor, Plan B.
 - **Cero material impreso y cero tecnologia:** el texto sobre mentores (IP de Heiiu) **no se reparte** — sus 6 frases van dictadas al tablero. La unica tecnologia es **el telefono del docente para grabar**, evidencia de expediente y no herramienta de clase.
-- **Anti-duplicado:** Conv usa hoy **SIMULATED JOB INTERVIEW**; Gramatica Cl 10 (8:00) usa REFERENCE CHECK CALL y su PASE prohibe repetirlo aqui; el PASE de hoy prohibe repetir la entrevista en Gramatica Cl 11.
-- **Tarea por pista:** Conversacion deja SOLO el video (No. 10), y su contenido es la auto-correccion de la entrevista. La escrita la asigno Gramatica Cl 10 a las 8:00.
-- **Recuperacion por pista:** N-3 = **Conv Cl 7** (adverbios de frecuencia) · N-7 = **Conv Cl 3** (should con horas y precios) · mas los 3 errores del PASE de Gramatica Cl 10 (esta misma manana). Sin mapa semanal de tickets — NO se citan tickets. **Virtud:** TEMPLANZA, Cl 5 de 5, calendario absoluto; Grammar Cl 10 la cerro en su pista a las 8:00 y **hoy CIERRA en Conversacion** con retrospectiva en el Bloque 4; la guia de Cl 11 estrena la siguiente.
+- **Anti-duplicado:** Conv usa hoy **SIMULATED JOB INTERVIEW**; Gramatica Cl 10 usa REFERENCE CHECK CALL y su PASE prohibe repetirlo aqui; el PASE de hoy prohibe repetir la entrevista en la siguiente sesion de Gramatica.
+- **Tarea por pista:** Conversacion deja SOLO el video (No. 10), y su contenido es la auto-correccion de la entrevista. La escrita la asigna Gramatica Cl 10.
+- **Recuperacion por pista:** N-3 = **Conv Cl 7** (adverbios de frecuencia) · N-7 = **Conv Cl 3** (should con horas y precios) · mas los 3 errores del PASE de Gramatica Cl 10 (su ultima sesion). Sin mapa semanal de tickets — NO se citan tickets. **Virtud:** TEMPLANZA, Cl 5 de 5, calendario absoluto; Grammar Cl 10 la cierra en su pista y **hoy CIERRA en Conversacion** con retrospectiva en el Bloque 4; la guia de Cl 11 estrena la siguiente.
 - **Proyecto del nivel:** avanza la pieza **"TELL ME ABOUT YOURSELF"** (90 seg), la mas importante del tramo: es la apertura del midterm de Cl 22 y del Shark Tank de Cl 43. **Evaluaciones:** el docente da **feedback** (una cosa por candidato, 10 seg) y **jamas** notas, resultados ni juicio de garantia; la grabacion es evidencia y quien la interpreta es coordinacion.
-- **ORDEN REAL Y LA NOTA DEL HITO (`SUPUESTO DE PLANEACION — verificar`):** con Gramatica a las 8:00, la nota escrita del hito ya no puede ser "seguimiento posterior": en Grammar Cl 10 se escribe como **nota previa** a la entrevista (mismo marco, mismas reglas, a mano y recogida). Alternativa a decidir por coordinacion: pasar la nota de seguimiento a Grammar Cl 11 (8:00 del dia siguiente, dentro de las 24 horas reales), recortando otro punto de esa guia.
-- **Destino de las grabaciones del hito: DECIDIDO** (syllabus del cohorte). Al computador de la academia suben la grabacion de entrada, **un video de hito cada 10 clases (Cl 10, 20, 30 y 40)** y la grabacion de salida; los videos diarios se quedan en el grupo de WhatsApp. **En Cl 10 el video de hito ES la entrevista simulada:** el docente la reenvia HOY a la auxiliar administrativa, una por una con el nombre, etiqueta `B1-4H-HITO-CL10-[nombre]`.
+- **SECUENCIA Y LA NOTA DEL HITO (`SUPUESTO DE PLANEACION — verificar`):** la nota escrita del hito la hace Grammar Cl 10 (mismo marco, mismas reglas, a mano y recogida). En jornada de 4 h Grammar Cl 10 va antes de esta sesion y la nota es **previa** a la entrevista; en jornada de 2 h va despues (la noche siguiente) y la nota es **seguimiento posterior**. Coordinacion confirma si el enfoque cambia segun la jornada.
+- **Destino de las grabaciones del hito: DECIDIDO** (syllabus del cohorte). Al computador de la academia suben la grabacion de entrada, **un video de hito cada 10 clases (Cl 10, 20, 30 y 40)** y la grabacion de salida; los videos diarios se quedan en el grupo de WhatsApp. **En Cl 10 el video de hito ES la entrevista simulada:** el docente la reenvia HOY a la auxiliar administrativa, una por una con el nombre, etiqueta `B1-HITO-CL10-[nombre]`.
 - `SUPUESTO DE PLANEACION — verificar`: **duracion y alcance del hito.** El mapa dice "entrevista simulada Cl 10 y Cl 18, guest-observer, grabada", sin fijar minutos; aqui se fija en **3 min por candidato, una toma, todos pasan**. Y las **6 preguntas son diseño Heiiu** (reciclan los modulos del tramo), no cita del libro: el unico contenido de libro del dia es A1 M16. Ajustar ambas cosas antes de la Cl 18 si coordinacion decide otra cosa.

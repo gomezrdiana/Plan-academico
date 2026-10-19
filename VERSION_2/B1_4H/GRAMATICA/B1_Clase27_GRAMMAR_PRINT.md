@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 27/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 27/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 27/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Repaso comprimido A2 · Modulos de HOY: M23 (phrasal NO separables, p.221-224) + M24 (phrasal SEPARABLES, p.233-236).** Familia PHRASAL VERBS. Ya vistos en A2 — hoy se CONSOLIDAN veloz, no se enseñan de cero.
 **Focus (1 line):** Two phrasal rules at speed — the ones that never split ("look after her") and the ones that do, with the pronoun in the middle ("turn it off").
 **Virtud:** TEMPLANZA v2 — dia 2 de 5
@@ -8,7 +8,7 @@
 
 > **DE PIE: Bloques 1-3 completos (~95 de 110 min ≈ 86%; piso 70%). Solo Bloque 4 sentado.** Movimiento con contenido siempre.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 26 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion en su ultima sesion y celular para las fotos/videos del dia. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 ---
 
@@ -16,7 +16,7 @@
 
 **Objective: re-fire the passive process language and the past chain, then load both phrasal-verb rules.**
 
-**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+**Puntualidad: coordinación registra la hora de llegada; foto de inicio opcional.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 24 = M18 y Cl 20); errores anonimos al board; 1 min re-produccion:
    - "Three passive steps of one work process: 'is received / is checked / is sent.'" (Cl 24)
@@ -24,9 +24,9 @@
    - "Chain: was -ing / when + past simple / didn't / had + participle." (Cl 20)
    - "Fix it: 'By then she had already sign.'" (Cl 20)
    - "Background + event, all past, one line." (Cl 20/24)
-2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, con su lista y UNA mejora por video. Tu solo dices: *"Your daily video goes out every day. Conversation checks it, name by name."* Y sigues; los minutos que libera pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"Look after THEM — never splits, object at the end. Turn IT off — splits, and with a pronoun the little word waits in the middle. Two rules today."*
-4. **Revision tarea (3'):** 6 lineas mixtas gerundio (M21+M22, Cl 26 Grammar) sobre la mesa; recoge. **PASE de Conv Cl 26 (dejado al cierre de las 12:00)** leido en voz alta: sus 3 errores literales entran a la recuperacion.
+4. **Revision tarea (3'):** 6 lineas mixtas gerundio (M21+M22, Cl 26 Grammar) sobre la mesa; recoge. **PASE de Conversacion (el que te dejo en su ultima sesion)** leido en voz alta: sus 3 errores literales entran a la recuperacion.
 
 > [VIRTUD] Board: "TEMPERANCE — DAY 2". *"Temperance keeps things whole and in their place: the non-separable phrasal stays together, and the separable one moves the pronoun with control."*
 
@@ -77,7 +77,7 @@ Coro 2x + cada estudiante 1 frase real con pronombre en medio.
 1. **Ticket de salida (5'):** 3-5 frases que MEZCLEN ambos tipos (minimo 1 NO separable con objeto al final y 1 separable con pronombre en medio). Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
-HOMEWORK CL 27 GRAMMAR — DUE Cl 28, BEFORE 7:00 PM
+HOMEWORK CL 27 GRAMMAR — DUE: BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl 28)
 TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
 NOT fragmented.
 (1) WRITE 6 sentences about your work MIXING both: 3 non-separable
@@ -85,18 +85,18 @@ NOT fragmented.
     3 separable with a PRONOUN in the middle (turn it off/pick her
     up/look them up). Circle the object or pronoun.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
-    one CONVERSATION assigns today at 10:00. Send it TODAY to the
+    one CONVERSATION assigns in its session. Send it TODAY to the
     cohort WhatsApp group. Audio only by exception (max 2 a week).
 (3) Bring the paper to Grammar Cl 28.
 ```
 
-> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion en su sesion — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: the people you look after and the things you turn on and off at work. Your video is assigned there."*
-5. **PASE al docente de CONVERSACION (Conv Cl 27, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No se pasa de palabra: el bloque siguiente lo dicta otra persona. Llenalo mientras el grupo escribe el ticket:
+4. **Anuncio de cierre:** *"Next session: CONVERSATION, with the other teacher: the people you look after and the things you turn on and off at work. Your video is assigned there."*
+5. **PASE al docente de CONVERSACION — lo entregas al terminar tu sesion**, en papel en la carpeta del cohorte o por el grupo de docentes; va a la siguiente sesion de la otra pista (en jornada de 4 h, a continuacion; en jornada de 2 h, la noche siguiente). No se pasa de palabra: la siguiente sesion la abre otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
-PASE Grammar -> Conv — Cl 27 (HOY, a las 10:00)
+PASE Grammar Cl 27 -> siguiente sesion de Conv
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones bajo presion: (a) preposicion perdida/cambiada ("I listen
@@ -105,12 +105,12 @@ pronombre al final en separables ("turn off it", "pick up her");
 (d) mezcla separable/no separable.
 SELLADO HOY EN PAPEL: repaso comprimido M23 (phrasal NO separables, objeto
 al final) + M24 (SEPARABLES, pronombre en medio).
-Tu Conv Cl 27 lo USA oral: no vuelvas a explicar la regla.
-TAREA QUE DEJE: 6 lineas escritas, due Cl 28 antes de las 7:00 PM.
+Conv Cl 27 lo USA oral: en Conv no se vuelve a explicar la regla.
+TAREA QUE DEJE: 6 lineas escritas, due antes de mi proxima sesion (Cl 28).
 El video del dia lo asignas TU (abre con LISTEN FIRST).
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas mixtas + check call) ☐ PASE entregado a Conv a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas mixtas + check call) ☐ PASE entregado a Conv al terminar la sesion ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion)
 
 [PAGEBREAK]
 
@@ -134,6 +134,6 @@ El video del dia lo asignas TU (abre con LISTEN FIRST).
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: TEMPLANZA v2 dia 2 (calendario absoluto).
 - Proxima Grammar = Cl 28 comprime M26 + M27 + M28 (comparacion completa; M25 NO existe). El LIBRO B1 entra en Cl 34.
-- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 27 -> Conv Cl 27 en papel a las 10:00; Conv Cl 27 -> Grammar Cl 28 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date (su antiguo audio de portafolio sale). Tarea escrita a la mitad (6 frases; 15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, reglas citadas, simulacion, virtud) intacto.
+- **Secuencia entre pistas (edicion unica 4 h / 2 h — ver HOJA_LECTURA_POR_JORNADA):** cada sesion cierra con PASE escrito a la siguiente sesion de la otra pista. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date (su antiguo audio de portafolio sale). Tarea escrita a la mitad (6 frases; 15-20 min) para que el dia completo no pase de ~1 hora. Contenido (modulo, reglas citadas, simulacion, virtud) intacto.
 - **N-3/N-7 alineados a la edicion nueva de Cl 13-22 (15/10/2026):** la cadena de Cl 20 pierde used to (no esta en el libro) y toma las formas reales de Grammar Cl 20 (escena, giro, lucha con didn't, evento anterior).
-- **B3 ES DISTINTO DEL DE CONV CL 27 PORQUE:** a las 10:00 es **THE HELP DESK / HANDOVER** — un agente da instrucciones a quien entra o recibe el turno (imperativos: "turn on the terminal, ask for the reference number"). Ahora es **CLIENT VISIT CHECK CALL** — llamada telefonica espalda con espalda entre la gerente de cuenta y el asistente en la sala, en formato pregunta en pasado + respuesta con pronombre en medio ("Did you turn on the projector? — Yes, I turned it on", el modelo de M24 p.235), con observers contando pronombres bien ubicados. Ni el titulo, ni los roles, ni el guion, ni el tipo de frase se repiten. Virtud y frase de cierre TEMPLANZA intactas; minutos del bloque iguales. `SUPUESTO DE PLANEACION — verificar`: el escenario de la llamada es diseño Heiiu (el libro no trae simulacion).
+- **B3 ES DISTINTO DEL DE CONV CL 27 PORQUE:** en Conv Cl 27 es **THE HELP DESK / HANDOVER** — un agente da instrucciones a quien entra o recibe el turno (imperativos: "turn on the terminal, ask for the reference number"). Ahora es **CLIENT VISIT CHECK CALL** — llamada telefonica espalda con espalda entre la gerente de cuenta y el asistente en la sala, en formato pregunta en pasado + respuesta con pronombre en medio ("Did you turn on the projector? — Yes, I turned it on", el modelo de M24 p.235), con observers contando pronombres bien ubicados. Ni el titulo, ni los roles, ni el guion, ni el tipo de frase se repiten. Virtud y frase de cierre TEMPLANZA intactas; minutos del bloque iguales. `SUPUESTO DE PLANEACION — verificar`: el escenario de la llamada es diseño Heiiu (el libro no trae simulacion).

@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 32/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 32/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 32/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** REPASO COMPRIMIDO — A2 Book **M39 "Mine, All Mine!" — Possessive Pronouns + whose (Guia 1 p.318-319; Ejemplos p.319) + M41 "This Is Interesting!" — Participle Adjectives -ed/-ing (Guia 1 p.327-328; Ejemplos p.328-329)**. **M40 NO existe (salta M39 -> M41).**
 **Focus (1 line):** mine/yours/his/hers/ours/theirs with whose, and -ing (thing) vs -ed (person) — locked on paper.
 **Virtud:** JUSTICIA v2 — dia 2 de 5
@@ -9,7 +9,7 @@
 > **DE PIE: Bloques 1-3 completos (~95 de 110 min ≈ 86%; piso 70%). Solo Bloque 4 sentado.** Movimiento con contenido siempre.
 > **REPASO COMPRIMIDO — ya lo vieron en A2. 2 modulos hoy. El libro B1 entra Cl 34.**
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 31 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion en su ultima sesion y celular para las fotos/videos del dia. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 ---
 
@@ -17,7 +17,7 @@
 
 **Objective: re-fire so/too/enough and gerunds-as-subjects, then load possessives and participle adjectives.**
 
-**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+**Puntualidad: coordinación registra la hora de llegada; foto de inicio opcional.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 29 y Cl 25); errores anonimos al board; 1 min re-produccion:
    - "so / too / enough — one true work line each." (Cl 29)
@@ -25,9 +25,9 @@
    - "Gerund as subject: 'Learning is...', 'Planning is...'." (Cl 25)
    - "Fix it: 'To plan is a choice' -> gerund subject." (Cl 25)
    - "Chain: 'too ___ to ___' + 'Working ___ is ___.'" (Cl 29/25)
-2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, con su lista y UNA mejora por video. Tu solo dices: *"Your daily video goes out every day. Conversation checks it, name by name."* Y sigues; los minutos que libera pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"MINE — no noun after it. TIRING describes the task; TIRED describes me. Whose, and which ending — that is today's rule."*
-4. **Revision tarea (3'):** las 6 lineas describiendo personas (M36-M38) sobre la mesa; recoge. **PASE de Conv (Cl 31, dejado al cierre de la clase anterior)** leido: los gaps (a)-(b) son los blancos.
+4. **Revision tarea (3'):** las 6 lineas describiendo personas (M36-M38) sobre la mesa; recoge. **PASE de Conversacion (el que te dejo en su ultima sesion)** leido: los gaps (a)-(b) son los blancos.
 
 > [VIRTUD] Board: "JUSTICE — DAY 2". *"Justice gives each their own and names feelings honestly. 'Mine' claims fairly; '-ed' confesses truthfully. Both are just."*
 
@@ -70,7 +70,7 @@ M41 (Guia p.327-328): -ING para lo que PRODUCE el efecto,
 1. **Ticket de salida (5'):** 3-5 frases: minimo 2 de posesion (mine/hers/theirs + whose) y 2 de sentimiento (1 -ing, 1 -ed). Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
-HOMEWORK CL 32 GRAMMAR — DUE Cl 33, BEFORE 7:00 PM
+HOMEWORK CL 32 GRAMMAR — DUE: BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl 33)
 TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
 NOT fragmented.
 (1) WRITE 6 lines about your work: 3 ownership (whose + mine/
@@ -78,32 +78,32 @@ NOT fragmented.
     -ing for the thing and 1 with -ed for you). Check "mine" has
     no noun after.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
-    one CONVERSATION assigns today at 10:00. Send it TODAY to the
+    one CONVERSATION assigns in its session. Send it TODAY to the
     cohort WhatsApp group. Audio only by exception (max 2 a week).
 (3) Bring the paper to Grammar Cl 33.
 ```
 
-> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion en su sesion — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: today's rules, out loud, in a real work situation. Your video is assigned there."*
-5. **PASE al docente de CONVERSACION (Conv Cl 32, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No se pasa de palabra: el bloque siguiente lo dicta otra persona. Llenalo mientras el grupo escribe el ticket:
+4. **Anuncio de cierre:** *"Next session: CONVERSATION, with the other teacher: these rules, out loud, in a real work situation. Your video is assigned there."*
+5. **PASE al docente de CONVERSACION — lo entregas al terminar tu sesion**, en papel en la carpeta del cohorte o por el grupo de docentes; va a la siguiente sesion de la otra pista (en jornada de 4 h, a continuacion; en jornada de 2 h, la noche siguiente). No se pasa de palabra: la siguiente sesion la abre otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
-PASE Grammar -> Conv — Cl 32 (HOY, a las 10:00)
+PASE Grammar Cl 32 -> siguiente sesion de Conv
 3 gaps escritos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones bajo presion en papel: (a) "it's my" por "it's mine"; (b)
 "I am boring" por "bored"; (c) "the task was tired" por "tiring";
 (d) orden de "whose ... is it?".
-SELLADO HOY EN PAPEL: M39 posesivos + whose y M41 participios
+SELLADO EN PAPEL EN MI SESION: M39 posesivos + whose y M41 participios
 -ed/-ing (M40 NO existe). Tu bloque lo USA oral: no vuelvas a
 explicar la regla. Los gaps (a)-(b) son tus blancos orales.
-TAREA QUE DEJE: 6 lineas escritas, due Cl 33 antes de las 7:00 PM.
+TAREA QUE DEJE: 6 lineas escritas, due antes de mi proxima sesion (Cl 33).
 El video del dia lo asignas TU (abre con LISTEN FIRST).
 Virtud: JUSTICIA v2 dia 2.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas + claim & debrief) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas + claim & debrief) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion)
 
 [PAGEBREAK]
 
@@ -129,4 +129,4 @@ M41 (p.328-329): "This is a really boring book." "Mark was really bored."
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: JUSTICIA v2 dia 2 (calendario absoluto).
 - **Siguiente sesion Grammar:** Cl 33 = **M42 (p.333-339) + M43 (p.340-346) + M44 (p.347-350)** — M44 es el ULTIMO modulo del libro A2 (cierre como hito verbal). JUSTICIA v2 dia 3.
-- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 32 -> Conv Cl 32 en papel a las 10:00; Conv Cl 32 -> Grammar Cl 33 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date. Tarea escrita a la mitad (15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes.
+- **Secuencia entre pistas (edicion unica 4 h / 2 h — ver HOJA_LECTURA_POR_JORNADA):** cada sesion cierra con PASE escrito a la siguiente sesion de la otra pista. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date. Tarea escrita a la mitad (15-20 min) para que el dia completo no pase de ~1 hora.

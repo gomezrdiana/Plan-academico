@@ -14,7 +14,7 @@ V2 = _hos.path.join(ROOT, 'VERSION_2')
 COHORTE_LABEL = {
     'A1_4H': 'A1 (4h)', 'A1_2H': 'A1 (2h noche)',
     'A2_4H': 'A2 (4h)', 'A2_2H': 'A2 (2h PM)',
-    'B1_4H/CONVERSACION': 'B1 Mastery (4h AM)', 'B1_4H/GRAMATICA': 'B1 Mastery (4h AM)', 'B1_2H/CONVERSACION': 'B1 Mastery (2h noche)', 'B1_2H/GRAMATICA': 'B1 Mastery (2h noche)',
+    'B1_4H/CONVERSACION': 'B1 Mastery (4h y 2h)', 'B1_4H/GRAMATICA': 'B1 Mastery (4h y 2h)', 'B1_2H/CONVERSACION': 'B1 Mastery (2h noche)', 'B1_2H/GRAMATICA': 'B1 Mastery (2h noche)',
     'B2_4H': 'B2 (4h)', 'B2_2H': 'B2 (2h noche)',
     'A2_SUPLETORIO_2026-10': 'A2 SUPLETORIO oct-2026 (4h)',
 }

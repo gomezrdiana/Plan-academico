@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 29/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 29/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 29/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Repaso comprimido A2 · Modulos de HOY: M29 (grados/intensificadores "how..?" + really/very/kinda/sorta/pretty/not very, p.261-266) + M30 (enough pospuesto + so/too, p.267-272).** Familia GRADO/INTENSIDAD. Ya vistos en A2 — hoy se CONSOLIDAN veloz, no se enseñan de cero.
 **Focus (1 line):** Say how much at speed — ask "how ___?", answer with an intensifier, and judge the level: enough / not enough / so / too.
 **Virtud:** TEMPLANZA v2 — dia 4 de 5
@@ -8,7 +8,7 @@
 
 > **DE PIE: Bloques 1-3 completos (~95 de 110 min ≈ 86%; piso 70%). Solo Bloque 4 sentado.** Movimiento con contenido siempre.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 28 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion en su ultima sesion y celular para las fotos/videos del dia. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 ---
 
@@ -16,7 +16,7 @@
 
 **Objective: re-fire the gerund shapes (Cl 26) and irregular perfects (Cl 22), then load degrees and so/too/enough.**
 
-**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+**Puntualidad: coordinación registra la hora de llegada; foto de inicio opcional.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 26 = M21+M22 y Cl 22 = M16); errores anonimos al board; 1 min re-produccion:
    - "Preposition + -ing AND a double verb, one line: 'Before deciding to change, I always think.'" (Cl 26)
@@ -24,9 +24,9 @@
    - "have/has + irregular participle: gone, taken, been, eaten — fast." (Cl 22)
    - "Fix it: 'I have ate lunch already.'" (Cl 22)
    - "'Have you ever...?' — ask, then answer with a dated past line." (Cl 22)
-2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, con su lista y UNA mejora por video. Tu solo dices: *"Your daily video goes out every day. Conversation checks it, name by name."* Y sigues; los minutos que libera pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"HOW hard is it? Pretty hard. It's good ENOUGH — not TOO much, and SO worth it. That measure is today."*
-4. **Revision tarea (3'):** 6 lineas comparaciones (M26/M27/M28, Cl 28 Grammar) sobre la mesa; recoge. **PASE de Conv Cl 28 (dejado al cierre de las 12:00)** leido en voz alta: sus 3 errores literales entran a la recuperacion.
+4. **Revision tarea (3'):** 6 lineas comparaciones (M26/M27/M28, Cl 28 Grammar) sobre la mesa; recoge. **PASE de Conversacion (el que te dejo en su ultima sesion)** leido en voz alta: sus 3 errores literales entran a la recuperacion.
 
 > [VIRTUD] Board: "TEMPERANCE — DAY 4". *"Temperance is the right amount: not too much, not too little — 'good enough' is the measure a calm professional lives by."*
 
@@ -78,7 +78,7 @@ Coro 2x + cada estudiante 1 par "so.../too..." real de su trabajo.
 1. **Ticket de salida (5'):** 3-5 frases que MEZCLEN los dos moldes (minimo 1 "how ___?" + intensificador y 1 con enough/so/too) sobre SU trabajo. Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
-HOMEWORK CL 29 GRAMMAR — DUE Cl 30, BEFORE 7:00 PM
+HOMEWORK CL 29 GRAMMAR — DUE: BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl 30)
 TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
 NOT fragmented.
 (1) WRITE 6 sentences about your real work MIXING degrees +
@@ -87,18 +87,18 @@ NOT fragmented.
     level (good enough / not ... enough / so ... / too ...).
     Underline the intensifier or so/too/enough.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
-    one CONVERSATION assigns today at 10:00. Send it TODAY to the
+    one CONVERSATION assigns in its session. Send it TODAY to the
     cohort WhatsApp group. Audio only by exception (max 2 a week).
 (3) Bring the paper to Grammar Cl 30.
 ```
 
-> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion en su sesion — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: how much is just right at work — 'pretty busy, good enough, not too much.' Your video is assigned there."*
-5. **PASE al docente de CONVERSACION (Conv Cl 29, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No se pasa de palabra: el bloque siguiente lo dicta otra persona. Llenalo mientras el grupo escribe el ticket:
+4. **Anuncio de cierre:** *"Next session: CONVERSATION, with the other teacher: how much is just right at work — 'pretty busy, good enough, not too much.' Your video is assigned there."*
+5. **PASE al docente de CONVERSACION — lo entregas al terminar tu sesion**, en papel en la carpeta del cohorte o por el grupo de docentes; va a la siguiente sesion de la otra pista (en jornada de 4 h, a continuacion; en jornada de 2 h, la noche siguiente). No se pasa de palabra: la siguiente sesion la abre otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
-PASE Grammar -> Conv — Cl 29 (HOY, a las 10:00)
+PASE Grammar Cl 29 -> siguiente sesion de Conv
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones bajo presion: (a) "how much old" (deberia "how old");
@@ -107,12 +107,12 @@ elogio (deberia "so good"); (d) intensificador omitido en la
 respuesta ("It's new" en vez de "It's pretty new").
 SELLADO HOY EN PAPEL: repaso comprimido M29 (grados/intensificadores) +
 M30 (enough pospuesto + so/too).
-Tu Conv Cl 29 lo USA oral: no vuelvas a explicar la regla.
-TAREA QUE DEJE: 6 lineas escritas, due Cl 30 antes de las 7:00 PM.
+Conv Cl 29 lo USA oral: en Conv no se vuelve a explicar la regla.
+TAREA QUE DEJE: 6 lineas escritas, due antes de mi proxima sesion (Cl 30).
 El video del dia lo asignas TU (abre con LISTEN FIRST).
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas mixtas + new office inspection) ☐ PASE entregado a Conv a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board 12 lineas mixtas + new office inspection) ☐ PASE entregado a Conv al terminar la sesion ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion)
 
 [PAGEBREAK]
 
@@ -135,6 +135,6 @@ El video del dia lo asignas TU (abre con LISTEN FIRST).
 - Bloque 2 = activacion rapida por modulo + ciclo tarea-producto mixto, DE PIE junto al board. Bloque 3 = drill de movimiento + simulacion guest-observer integradora.
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: TEMPLANZA v2 dia 4 (calendario absoluto); Cl 30 cierra el bloque (dia 5).
-- **FRONTERA DE SALIDA (para el agente de Cl 30-33):** Cl 30 = quantities and prices (how many / how much); tarea de hoy = 10 frases grados + so/too/enough sobre trabajo real + portafolio, DUE Cl 30 antes 7:00 PM; PASE estandar entregado. El LIBRO B1 entra en Cl 34.
-- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 29 -> Conv Cl 29 en papel a las 10:00; Conv Cl 29 -> Grammar Cl 30 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date (su antiguo audio de portafolio sale). Tarea escrita a la mitad (6 frases; 15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, reglas citadas, simulacion, virtud) intacto.
-- **B3 ES DISTINTO DEL DE CONV CL 29 PORQUE:** a las 10:00 es **THE WORKLOAD CHECK-IN** — reunion de carga y calidad del equipo, roles miembro del equipo mas lider, guion sobre deadlines, procesos y personas. Ahora es **THE NEW OFFICE INSPECTION** — se juzga un ESPACIO FISICO antes de firmar un arriendo, roles coordinador de instalaciones mas gerente administrativa, guion sobre tamano, distancia, luz y precio, y los observers marcan so (bueno) vs too (problema) y dan veredicto firmar / no firmar, tarea que no existe en Conv Cl 29. Misma carga gramatical (M29 + M30), distinto titulo, roles, guion y funcion. La cadena de conversion tambien cambia a partes de un espacio de trabajo. El B3 viejo de esta pista (`The workload check-in`, casi igual al de Conv) queda retirado.
+- **FRONTERA DE SALIDA (para el agente de Cl 30-33):** Cl 30 = quantities and prices (how many / how much); tarea de hoy = 10 frases grados + so/too/enough sobre trabajo real + portafolio, DUE antes de la proxima sesion de Grammar (Cl 30); PASE estandar entregado. El LIBRO B1 entra en Cl 34.
+- **Secuencia entre pistas (edicion unica 4 h / 2 h — ver HOJA_LECTURA_POR_JORNADA):** cada sesion cierra con PASE escrito a la siguiente sesion de la otra pista. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date (su antiguo audio de portafolio sale). Tarea escrita a la mitad (6 frases; 15-20 min) para que el dia completo no pase de ~1 hora. Contenido (modulo, reglas citadas, simulacion, virtud) intacto.
+- **B3 ES DISTINTO DEL DE CONV CL 29 PORQUE:** en Conv Cl 29 es **THE WORKLOAD CHECK-IN** — reunion de carga y calidad del equipo, roles miembro del equipo mas lider, guion sobre deadlines, procesos y personas. Ahora es **THE NEW OFFICE INSPECTION** — se juzga un ESPACIO FISICO antes de firmar un arriendo, roles coordinador de instalaciones mas gerente administrativa, guion sobre tamano, distancia, luz y precio, y los observers marcan so (bueno) vs too (problema) y dan veredicto firmar / no firmar, tarea que no existe en Conv Cl 29. Misma carga gramatical (M29 + M30), distinto titulo, roles, guion y funcion. La cadena de conversion tambien cambia a partes de un espacio de trabajo. El B3 viejo de esta pista (`The workload check-in`, casi igual al de Conv) queda retirado.

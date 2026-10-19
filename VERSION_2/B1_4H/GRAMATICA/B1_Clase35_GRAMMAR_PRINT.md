@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 35/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 35/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 35/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** B1 Book **M3 "Deduction"** (Guia 1 p.23 — COMPRIMIDO, ver nota interna) + B1 Book **M4 "The Third Conditional — What Would You Have Done?" COMPLETO**: Guia 1 Straight (p.29-31) + **Guia 2 Mixed (p.33-35)** + **Guia 3 The Conditionals Compared (p.37-39)**
 **Focus (1 line):** Close M4 whole — straight (the result died in the past), mixed (the result is missing today), and the full 0/1/2/3 ladder in one table.
 **Virtud:** JUSTICIA v2 — dia 5 de 5 (CIERRA el bloque Cl 31-35)
@@ -8,26 +8,26 @@
 
 > **DE PIE: Bloques 1-3 completos (~95 de 110 min ≈ 86%; piso 70%). Solo Bloque 4 sentado.** Movimiento con contenido siempre.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 34 y tu libro B1 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion en su ultima sesion y tu libro B1 y celular para las fotos/videos del dia. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 ---
 
-> **HOY SOLO: M3 deducción comprimida (el bloque oral completo es de Conv, hoy a las 10:00) + M4 COMPLETO — recto (G1 p.29), mixto (G2 p.33) y la tabla comparada 0/1/2/3 (G3 p.37). NO TOCAR AÚN: could have / should have y los conectores de causa y contraste — eso es de Cl 36.**
+> **HOY SOLO: M3 deducción comprimida (el bloque oral completo es de Conv Cl 35) + M4 COMPLETO — recto (G1 p.29), mixto (G2 p.33) y la tabla comparada 0/1/2/3 (G3 p.37). NO TOCAR AÚN: could have / should have y los conectores de causa y contraste — eso es de Cl 36.**
 
 ## BLOQUE 1 — APERTURA (20') — DE PIE
 
 **Objective: re-fire two-option decisions + tags, then aim the whole third conditional.**
 
-**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+**Puntualidad: coordinación registra la hora de llegada; foto de inicio opcional.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores; errores anonimos al board; 1 min re-produccion:
    - "either/neither/both — one true work decision each." (Cl 34 — two options)
    - "Add the tag: 'We can start, ___?'" (Cl 34 — tags)
    - "Superlative + honest degree: 'the most reliable / not very fast.'" (Cl 32)
    - "Fix it: 'the most best'." (Cl 32)
-2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, con su lista y UNA mejora por video. Tu solo dices: *"Your daily video goes out every day. Conversation checks it, name by name."* Y sigues; los minutos que libera pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones. Señala: *"Two halves. 'We would have known THEN' — the result died in the past. 'We would know TODAY' — the result is missing right now. Same 'if', two different worlds. That is today."*
-4. **Revision tarea (3'):** 6 frases tags + either/neither/both (Cl 34) sobre la mesa; recoge. **PASE de Conv (Cl 34, dejado al cierre de la clase anterior)** leido: los gaps son tus blancos. Di: *"Paper first today: the deduction in one table, then the whole third conditional — including the two guides nobody has seen yet. At ten o'clock you speak it."*
+4. **Revision tarea (3'):** 6 frases tags + either/neither/both (Cl 34) sobre la mesa; recoge. **PASE de Conversacion (el que te dejo en su ultima sesion)** leido: los gaps son tus blancos. Di: *"Paper first today: the deduction in one table, then the whole third conditional — including the two guides nobody has seen yet. In Conversation you speak it."*
 
 > [VIRTUD] Board: "JUSTICE — DAY 5, CLOSING". *"A fair judgment names the real consequence: what we lost then, and what we are still missing now. Justice closes today."*
 
@@ -46,7 +46,7 @@ certain opposite  CAN'T / MUST NOT  "He can't be sick."
 + be -ing: "He must be playing soccer."
 + have + participle: "He must have arrived already."
 ```
-2. **Sin extenderte:** la tabla del libro y a producir — a las 10:00 Conv lo trabaja oral un bloque completo (40 min). Meta: **8 deducciones al board en 6 min**, escritas por parejas de pie; el grupo verifica UNA cosa: ¿el modal es proporcional a la evidencia?
+2. **Sin extenderte:** la tabla del libro y a producir — Conv Cl 35 lo trabaja oral un bloque completo (40 min). Meta: **8 deducciones al board en 6 min**, escritas por parejas de pie; el grupo verifica UNA cosa: ¿el modal es proporcional a la evidencia?
 3. **Errores tipicos (board, coro 2x):** "He must to be sick" -> "He must be sick" · "He can't have saw" -> "He can't have seen" · "must" con evidencia debil -> "might / could".
 
 ### 2B — THE TWO THIRD CONDITIONALS (28')
@@ -113,7 +113,7 @@ EL LIBRO (p.37): "The 0, 1st, and 2nd conditionals are used for
 1. **Ticket de salida (5'):** 4-6 frases sobre SU trabajo: 1 deduccion (must o can't) + 2 tercer condicional **recto** + 2 tercer condicional **mixto** + 1 linea que diga **que numero de condicional** es una de ellas. Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
-HOMEWORK CL 35 GRAMMAR — DUE Cl 36, BEFORE 7:00 PM
+HOMEWORK CL 35 GRAMMAR — DUE: BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl 36)
 TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
 NOT fragmented.
 (1) WRITE about real past work decisions:
@@ -125,34 +125,34 @@ NOT fragmented.
     Underline "would have" in the straight ones and "would" in
     the mixed ones.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
-    one CONVERSATION assigns today at 10:00. Send it TODAY to the
+    one CONVERSATION assigns in its session. Send it TODAY to the
     cohort WhatsApp group. Audio only by exception (max 2 a week).
 (3) Bring the paper and YOUR B1 book to Grammar Cl 36.
 ```
 
-> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion en su sesion — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: today's rules, out loud, in a real work situation. Your video is assigned there."*
-5. **PASE al docente de CONVERSACION (Conv Cl 35, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No se pasa de palabra: el bloque siguiente lo dicta otra persona. Llenalo mientras el grupo escribe el ticket:
+4. **Anuncio de cierre:** *"Next session: CONVERSATION, with the other teacher: these rules, out loud, in a real work situation. Your video is assigned there."*
+5. **PASE al docente de CONVERSACION — lo entregas al terminar tu sesion**, en papel en la carpeta del cohorte o por el grupo de docentes; va a la siguiente sesion de la otra pista (en jornada de 4 h, a continuacion; en jornada de 2 h, la noche siguiente). No se pasa de palabra: la siguiente sesion la abre otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
-PASE Grammar -> Conv — Cl 35 (HOY, a las 10:00)
+PASE Grammar Cl 35 -> siguiente sesion de Conv
 3 gaps escritos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones bajo presion en papel: (a) "if I would have known" (would
 tras if); (b) "if I had knew" (participio); (c) moldes mezclados
 ("would have work today"); (d) mixto no elegido cuando la
 consecuencia es de HOY.
-SELLADO HOY EN PAPEL: M3 Deduction (tabla, comprimida: el bloque
+SELLADO EN PAPEL EN MI SESION: M3 Deduction (tabla, comprimida: el bloque
 oral completo es TUYO) + M4 COMPLETO (recto p.29 + mixto p.33 +
 tabla comparada p.37). Tu bloque USA oral la deduccion y el RECTO:
 no vuelvas a explicar la regla. Gaps (a)-(b) = tus blancos orales.
-TAREA QUE DEJE: 5 frases + 1 escalera, due Cl 36 antes de las 7:00 PM.
+TAREA QUE DEJE: 5 frases + 1 escalera, due antes de mi proxima sesion (Cl 36).
 El video del dia lo asignas TU (abre con LISTEN FIRST).
 Virtud: JUSTICIA v2 dia 5 — CERRADA en mi pista; cierrala igual.
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Foto de la TABLA COMPARADA del board ☐ Fotos/videos (exit interview) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Foto de la TABLA COMPARADA del board ☐ Fotos/videos (exit interview) ☐ PASE entregado ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion)
 
 [PAGEBREAK]
 
@@ -184,13 +184,13 @@ Ejemplos p.38 (escalera completa): *"0: If I have money, I buy lunch. / 1st: ...
 ## NOTA INTERNA (no leer en clase)
 
 - **POR QUE SE REESCRIBIO ESTA CLASE:** la version anterior cubria M4 **solo Guia 1** (recto, p.29-31) y mandaba Guia 2 (mixto, p.33-36) y Guia 3 (comparada, p.37-40) a "refuerzo opcional si sobra tiempo". Verificado contra `Libros/Libro B1.pdf`: **esas dos guias no se dictaban en ningun punto del track** — Cl 36 salta a M5 Perfect Modals. Era un hueco real del programa, no una decision. Hoy M4 se cierra **completo**.
-- **M3 COMPRIMIDO — justificacion (ajustada al orden real 8:00/10:00):** M3 se produce oralmente HOY a las 10:00 en el Bloque 2 completo de `B1_Clase35_CONV_PRINT.md` (40 min de deduccion sobre pistas reales), y **Cl 36 lo recicla** en su recuperacion ("Deduce: 'His coat is gone. He must ___.'"). Por eso aqui M3 queda en **lock de 12 min: tabla del libro + 8 deducciones**, ahora ANTES del bloque oral y no despues; las 28 min liberadas + el Bloque 3 entero se van a M4 completo. La cobertura de M3 (regla + ejemplos + produccion) queda intacta entre este lock y Conv. `SUPUESTO DE PLANEACION — verificar`: con Grammar primero, el lock de M3 deja de ser repaso de algo ya hablado y pasa a ser la primera vista de la regla; si coordinacion ve que 12 min no alcanzan, la alternativa es subir 2A a 15 min recortando la produccion libre de 2B.
+- **M3 COMPRIMIDO — justificacion:** M3 se produce oralmente en el Bloque 2 completo de `B1_Clase35_CONV_PRINT.md` (40 min de deduccion sobre pistas reales), y **Cl 36 lo recicla** en su recuperacion ("Deduce: 'His coat is gone. He must ___.'"). Por eso aqui M3 queda en **lock de 12 min: tabla del libro + 8 deducciones**, sin depender de si el bloque oral va antes o despues; las 28 min liberadas + el Bloque 3 entero se van a M4 completo. La cobertura de M3 (regla + ejemplos + produccion) queda intacta entre este lock y Conv. `SUPUESTO DE PLANEACION — verificar`: en jornada de 4 h (Grammar antes que Conv) el lock de M3 es la primera vista de la regla; en jornada de 2 h (Conv Cl 35 antes) es repaso de algo ya hablado; si coordinacion ve que 12 min no alcanzan, la alternativa es subir 2A a 15 min recortando la produccion libre de 2B.
 - **ERRATA DEL LIBRO — leer antes de clase.** En la tabla de la Guia 2 (p.33) el libro rotula la clausula condicional del **mixto** como *"WOULD HAVE + PARTICIPLE"*. Es un error de copia arrastrado de la Guia 1: la columna en español de esa misma tabla dice *"VERB + -ÍA, -ÍAS, -ÍAMOS, -ÍAN"*, el ejemplo de la propia guia es *"I would work in Rome today"*, los 22 ejemplos de p.34 usan **WOULD + verbo base**, y la Guia 3 (p.37) confirma la fila *"3rd (mixed): If (past perfect) + (conditional)"*. **Enseñar WOULD + BASE.** Si un estudiante señala la tabla, el profe reconoce la errata y muestra p.34 y p.37.
 - Modulos HOY = M3 (p.23-25, comprimido) + **M4 completo (p.29-31 recto, p.33-35 mixto, p.37-39 comparada)**, verbatim en anexo.
 - Recuperacion N-3 = Cl 32 (superlativos/ranking); N-7 = Cl 28 (phrasal verbs). **(SUPUESTO DE PLANEACIÓN — verificar: cierre A2 Cl 27-33 en re-mapeo paralelo; estructuras reales del tramo final A2, numero de clase ajustable.)**
 - **Frontera de salida:** M4 queda CERRADO — Cl 36 abre M5 (p.43-49) + M6 (p.53-60) sin deuda pendiente. Si se aplico el Plan B (mixto no dictado), coordinacion debe reprogramarlo antes de Cl 40.
-- **B3 ES DISTINTO DEL DE CONV CL 35 PORQUE:** a las 10:00 es **WHAT WOULD YOU HAVE DONE?** — post-mortem de equipo sobre una decision pasada, roles quien reporta el caso mas quien pregunta, carga solo tercer condicional RECTO. Aqui es **THE CONDITIONALS COMPARED + THE EXIT INTERVIEW** — tabla 0/1/2/3 y escalera de cinco escalones, luego entrevista de salida de RRHH, roles empleado que se va mas entrevistador de RRHH, carga obligatoria RECTO y MIXTO en la misma pregunta, el guest nombra el escalon y los observers llevan un conteo recto / mixto que no existe en Conv Cl 35. Ni el titulo, ni los roles, ni el guion, ni la carga gramatical se repiten. `Fair post-mortem` (el B3 anterior de esta guia) queda retirado porque duplicaba el de Conv.
+- **B3 ES DISTINTO DEL DE CONV CL 35 PORQUE:** en Conv Cl 35 es **WHAT WOULD YOU HAVE DONE?** — post-mortem de equipo sobre una decision pasada, roles quien reporta el caso mas quien pregunta, carga solo tercer condicional RECTO. Aqui es **THE CONDITIONALS COMPARED + THE EXIT INTERVIEW** — tabla 0/1/2/3 y escalera de cinco escalones, luego entrevista de salida de RRHH, roles empleado que se va mas entrevistador de RRHH, carga obligatoria RECTO y MIXTO en la misma pregunta, el guest nombra el escalon y los observers llevan un conteo recto / mixto que no existe en Conv Cl 35. Ni el titulo, ni los roles, ni el guion, ni la carga gramatical se repiten. `Fair post-mortem` (el B3 anterior de esta guia) queda retirado porque duplicaba el de Conv.
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: JUSTICIA v2 dia 5 CIERRA hoy (calendario absoluto). Cl 36 abre FORTALEZA v2 dia 1.
 - Cronograma: Cl 44 = FINAL (evaluador externo, NO se genera guia ese dia). NO comunicar evaluaciones — coordinacion.
-- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 35 -> Conv Cl 35 en papel a las 10:00; Conv Cl 35 -> Grammar Cl 36 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date. Tarea escrita a la mitad (15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes.
+- **Secuencia entre pistas (edicion unica 4 h / 2 h — ver HOJA_LECTURA_POR_JORNADA):** cada sesion cierra con PASE escrito a la siguiente sesion de la otra pista. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date. Tarea escrita a la mitad (15-20 min) para que el dia completo no pase de ~1 hora.

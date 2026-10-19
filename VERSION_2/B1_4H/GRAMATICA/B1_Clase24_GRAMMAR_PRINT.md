@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 24/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 24/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 24/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** A2 Book **M18 "You Are Loved!" — The Passive Voice for Regular Participles** (modulo p.173; Guia 1 p.174; Examples 1 p.175)
 **Focus (1 line):** Build the passive on paper — to be + participle, and drop the agent when it doesn't matter.
 **Virtud:** PRUDENCIA v2 — dia 4 de 5
@@ -8,7 +8,7 @@
 
 > **DE PIE: Bloques 1-3 completos (~95 de 110 min ≈ 86%; piso 70%). Solo Bloque 4 sentado.** Movimiento con contenido siempre.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 23 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion en su ultima sesion y celular para las fotos/videos del dia. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 ---
 
@@ -16,7 +16,7 @@
 
 **Objective: re-fire the present perfect and the story layers, then flip the focus from actor to result.**
 
-**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+**Puntualidad: coordinación registra la hora de llegada; foto de inicio opcional.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 21 y Cl 17); errores anonimos al board; 1 min re-produccion:
    - "Have or has + participle: 'the team / finish / the audit'. Then make it a question." (Cl 21)
@@ -24,9 +24,9 @@
    - "Closed or open? 'I ___ (work) there in 2021' / 'I ___ (work) hard this month.'" (Cl 21/23)
    - "Scene + turn: 'In 2019 I ___ (live) in ___ when ___ (happen).' — say it all past." (Cl 17)
    - "Fix it: 'Finally we finish it.'" (Cl 17)
-2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion a las 10:00, con su lista y UNA mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los minutos que libera pasan a la recuperacion.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, con su lista y UNA mejora por video. Tu solo dices: *"Your daily video goes out every day. Conversation checks it, name by name."* Y sigues; los minutos que libera pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones.
-4. **Revision tarea (3'):** 6 frases cerrado/abierto sobre la mesa; recoge. **PASE de Conv Cl 23 (dejado al cierre de las 12:00)** leido en voz alta: sus 3 errores literales entran a la recuperacion; hoy la pasiva se escribe con reglas antes de hablarla a las 10:00.
+4. **Revision tarea (3'):** 6 frases cerrado/abierto sobre la mesa; recoge. **PASE de Conversacion (el que te dejo en su ultima sesion)** leido en voz alta: sus 3 errores literales entran a la recuperacion; hoy la pasiva se sella por escrito con reglas; Conversacion la habla en su sesion.
 
 > [VIRTUD] Board: "PRUDENCE — DAY 4". *"Prudence decides what deserves the focus: sometimes the actor, sometimes the result."*
 
@@ -76,25 +76,25 @@ BOOK PAIRS (p.175):
 1. **Ticket de salida (5'):** 3-5 frases pasivas de tu propio trabajo/estudio (minimo 1 con "by + agente" y 2 sin agente). Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
-HOMEWORK CL 24 GRAMMAR — DUE Cl 25, BEFORE 7:00 PM
+HOMEWORK CL 24 GRAMMAR — DUE: BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl 25)
 TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
 NOT fragmented.
 (1) WRITE 3 active sentences from your real job/studies, each one
     converted to passive (6 lines: 1 with "by + agent", 2 without).
     Underline TO BE, circle the participle.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
-    one CONVERSATION assigns today at 10:00. Send it TODAY to the
+    one CONVERSATION assigns in its session. Send it TODAY to the
     cohort WhatsApp group. Audio only by exception (max 2 a week).
 (3) Bring the paper to Grammar Cl 25.
 ```
 
-> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion en su sesion — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Anuncio de cierre:** *"At ten o'clock you have CONVERSATION with the other teacher: your real work explained as a process — 'the order is received, then it is checked.' A new Phrase of the Day. Your video is assigned there."*
-5. **PASE al docente de CONVERSACION (Conv Cl 24, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No se pasa de palabra: el bloque siguiente lo dicta otra persona. Llenalo mientras el grupo escribe el ticket:
+4. **Anuncio de cierre:** *"Next session: CONVERSATION, with the other teacher: your real work explained as a process — 'the order is received, then it is checked.' A new Phrase of the Day. Your video is assigned there."*
+5. **PASE al docente de CONVERSACION — lo entregas al terminar tu sesion**, en papel en la carpeta del cohorte o por el grupo de docentes; va a la siguiente sesion de la otra pista (en jornada de 4 h, a continuacion; en jornada de 2 h, la noche siguiente). No se pasa de palabra: la siguiente sesion la abre otra persona. Llenalo mientras el grupo escribe el ticket:
 ```
-PASE Grammar -> Conv — Cl 24 (HOY, a las 10:00)
+PASE Grammar Cl 24 -> siguiente sesion de Conv
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones bajo presion: (a) "is prepare" (participio); (b) "for" en
@@ -102,12 +102,12 @@ lugar de "by"; (c) activa disfrazada ("the order receives");
 (d) to be omitido ("the boxes prepared here").
 SELLADO HOY EN PAPEL: la voz pasiva regular (M18, p.173-175): to be + participio, con y
 sin agente.
-Tu Conv Cl 24 lo USA oral: no vuelvas a explicar la regla.
-TAREA QUE DEJE: 6 lineas escritas, due Cl 25 antes de las 7:00 PM.
+Conv Cl 24 lo USA oral: en Conv no se vuelve a explicar la regla.
+TAREA QUE DEJE: 6 lineas escritas, due antes de mi proxima sesion (Cl 25).
 El video del dia lo asignas TU (abre con LISTEN FIRST).
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + tour) ☐ PASE entregado a Conv a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + tour) ☐ PASE entregado a Conv al terminar la sesion ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion)
 
 ---
 
@@ -118,5 +118,5 @@ El video del dia lo asignas TU (abre con LISTEN FIRST).
 - Distribucion clase<->modulo (M20 en Cl 25): SUPUESTO DE PLANEACIÓN — verificar.
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Virtud: PRUDENCIA v2 dia 4 (calendario absoluto).
-- **Orden real del dia (hoja de arranque 13/10):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia. PASE Grammar Cl 24 -> Conv Cl 24 en papel a las 10:00; Conv Cl 24 -> Grammar Cl 25 al cerrar a las 12:00. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date (su antiguo audio de portafolio sale). Tarea escrita a la mitad (3 activas convertidas = 6 lineas; 15-20 min) para que el dia completo no pase de ~1 hora. Foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, reglas citadas, simulacion, virtud) intacto.
+- **Secuencia entre pistas (edicion unica 4 h / 2 h — ver HOJA_LECTURA_POR_JORNADA):** cada sesion cierra con PASE escrito a la siguiente sesion de la otra pista. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date (su antiguo audio de portafolio sale). Tarea escrita a la mitad (3 activas convertidas = 6 lineas; 15-20 min) para que el dia completo no pase de ~1 hora. Contenido (modulo, reglas citadas, simulacion, virtud) intacto.
 - **N-3/N-7 alineados a la edicion nueva de Cl 13-22 (15/10/2026):** used to / didn't use to / would (edicion vieja) se cambian por la historia por capas de Grammar Cl 17 (escena + giro con when; fuga al presente en el orden); Objective sin used to.

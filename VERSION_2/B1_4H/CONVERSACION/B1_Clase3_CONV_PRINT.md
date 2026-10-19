@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 3/44 — CONV — HOJA DE RUTA
 
-**Sesion 3/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
+**Sesion 3/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110**
 **Modulo ancla:** A1 Book **M4 "Where Should We Live? — Giving Recommendations" (p.41-44)** + A1 Book **M5 "Numbers to 100 — Los Numeros, las Horas y los Precios" (p.61-64)** — hoy solo USO ORAL
 **Focus (1 linea):** Dar consejo profesional real en voz alta — *"you should... / you shouldn't..."* — con una hora o un precio dicho bien en cada recomendacion.
 **Virtud:** PRUDENCIA — Cl 3 de 5 de esta virtud (Cl 1-5 de cada pista)
@@ -8,25 +8,25 @@
 
 > **ENGLISH ONLY de principio a fin.** Si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos), el PASE que te entrega el docente de Gramatica a las 10:00 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde", lista de videos recibidos), el PASE que te dejo el docente de Gramatica en su ultima sesion y celular para las fotos/videos del dia. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
-> **HOY SOLO (M4 y M5, HABLADO): el consejo dicho en voz alta con should / shouldn't, y las horas y los precios PRONUNCIADOS en dos grupos como los trae el libro (2:10 = "two ten" · 6:00 = "six o'clock" · 2:08 = "two oh eight" · $7.35 = "seven thirty-five" · $13.05 = "thirteen oh five"). La regla NO se explica ni se escribe como paradigma: ya la sello Gramatica Cl 3 a las 8:00; aqui se usa. NO TOCAR AUN: el paradigma escrito de should con la pregunta, el short answer y el WH "where" (ya sellado en Gramatica Cl 3: no lo repites) · will y at/on/in (Cl 4) · la maquina de cantidades how much / how many (muy adelante en el nivel) · MILES Y MILLONES, que NO existen en el libro: el libro llega a cien, con horas y precios en dolares y centavos. Si alguien dice un precio en miles, tu mantienes la mecanica de dos grupos y NO ensenas cantidades grandes.**
+> **HOY SOLO (M4 y M5, HABLADO): el consejo dicho en voz alta con should / shouldn't, y las horas y los precios PRONUNCIADOS en dos grupos como los trae el libro (2:10 = "two ten" · 6:00 = "six o'clock" · 2:08 = "two oh eight" · $7.35 = "seven thirty-five" · $13.05 = "thirteen oh five"). La regla NO se explica ni se escribe como paradigma: la sella Gramatica Cl 3 en papel en su sesion; aqui se usa. NO TOCAR AUN: el paradigma escrito de should con la pregunta, el short answer y el WH "where" (lo sella Gramatica Cl 3 en papel: no lo repites) · will y at/on/in (Cl 4) · la maquina de cantidades how much / how many (muy adelante en el nivel) · MILES Y MILLONES, que NO existen en el libro: el libro llega a cien, con horas y precios en dolares y centavos. Si alguien dice un precio en miles, tu mantienes la mecanica de dos grupos y NO ensenas cantidades grandes.**
 
 ## BLOQUE 1 — APERTURA Y RECUPERACION (20')
 
 **Objective: recover the past hinge, then switch the room over to advice.**
 
-**10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+**Puntualidad: coordinación registra la hora de llegada; foto de inicio opcional.**
 
-1. **10:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Abre la columna **"llegada tarde"** en tu cuaderno y anotala HOY: llegada despues de las 10:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia. **NO vuelvas a explicar la regla ni las condiciones de la garantia:** se dijeron una sola vez en la Cl 1. Hoy solo se registra.
-2. **Chequeo de portafolio, publico, con lista en mano (3').** Los videos los VES ANTES de clase; el chequeo nombre por nombre es SOLO tuyo (Gramatica a las 8:00 solo recuerda el video). Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas **ENVIO / NO ENVIO**, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'I have finish' — the participle: finishED"*). Eso entra a tu reporte de hoy: video recibido mas la mejora dicha. Al que no envio, una sola frase y sigues: *"You send it TODAY, together with today's video. Two videos, same day. The list goes to coordination today."* Feedback si; de notas, resultados o garantia no hablas tu: *"That is coordination."*
+1. **EN PUNTO arrancas, puerta abierta, de pie (1').** Abre la columna **"llegada tarde"** en tu cuaderno y anotala HOY: llegada mas de 15 min despues del inicio se marca; cada 3 cuentan como una inasistencia para contrato y garantia. **NO vuelvas a explicar la regla ni las condiciones de la garantia:** se dijeron una sola vez en la Cl 1. Hoy solo se registra.
+2. **Chequeo de portafolio, publico, con lista en mano (3').** Los videos los VES ANTES de clase; el chequeo nombre por nombre es SOLO tuyo (Gramatica solo recuerda el video). Di: *"I am not asking who made it. I am asking who SENT it."* Nombre por nombre marcas **ENVIO / NO ENVIO**, y al que envio le dices en voz alta **UNA cosa por mejorar, en 5 segundos, con el error real** (*"you said 'I have finish' — the participle: finishED"*). Eso entra a tu reporte de hoy: video recibido mas la mejora dicha. Al que no envio, una sola frase y sigues: *"You send it TODAY, together with today's video. Two videos, same day. The list goes to coordination today."* Feedback si; de notas, resultados o garantia no hablas tu: *"That is coordination."*
 3. **VATS (6', de pie, en circulo).** El **porque** primero, para ti: la prudencia es la virtud del consejo — el que sabe aconsejar bien a otro es el que aprende a decidir bien para si mismo. La **traduccion al aula de hoy**: el consejo en ingles no es opinion suelta; es *"you should"* mas un dato concreto (una hora, un precio). Consejo sin dato no es consejo, es ruido.
    - **V, Virtud (1'):** tablero `PRUDENCE — CL 3 OF 5`. Di: *"This block is prudence. Prudence is the advice you would give your best friend: 'You should think it through. You shouldn't decide when you are tired.'"*
    - **A, Activar (2'):** una sola pregunta, en ingles, que junta virtud y gramatica del dia: *"What is ONE thing a person starting English should do every day, and at what time?"* 30 segundos de silencio para pensar.
    - **T, Talk (2'):** en parejas, 1 minuto cada uno, obligatorio con la estructura: *"You should ___ at ___, and you shouldn't ___."*
    - **S, Share (1'):** 2-3 estudiantes lo dicen al grupo. Tu escuchas y anotas; no corriges gramatica aqui.
    - **Si alguien pregunta para que sirve esto:** *"Because on the day you need your English — in an interview, in front of a client — what fails is not vocabulary. It is nerve, or patience, or preparation. That is what we train here, with a name."*
-4. **Recuperacion activa (6', oral, DE PIE, en cadena, sin cuaderno).** Arranca leyendo en voz alta **los 3 errores literales del PASE** que te entrego Gramatica hoy a las 10:00: *"These came off your papers this morning. Now they come out right, out loud."* **N-3 y N-7 de tu pista no existen todavia** (esta pista tiene Cl 1 y Cl 2): recuperas Conversacion Cl 1-2 mas lo del PASE. Disparadores:
+4. **Recuperacion activa (6', oral, DE PIE, en cadena, sin cuaderno).** Arranca leyendo en voz alta **los 3 errores literales del PASE** que te dejo Gramatica en su ultima sesion: *"These came off your papers in Grammar. Now they come out right, out loud."* **N-3 y N-7 de tu pista no existen todavia** (esta pista tiene Cl 1 y Cl 2): recuperas Conversacion Cl 1-2 mas lo del PASE. Disparadores:
    - "From Cl 1: 'last week' or 'this week' — which past? One sentence for each."
    - "From Cl 2: one thing you haven't done YET, and one thing you DIDN'T do and never will."
    - "Fix it out loud: 'I have go to the bank yesterday.'"
@@ -40,7 +40,7 @@
 **Objective: by the end, each of you gives 3 real recommendations out loud, each one carrying a time or a price said correctly.**
 
 1. **Avance de proyecto hoy: MY STORY, MY GOALS — piece 2 "My advice to a beginner" (1').** Di: *"Piece 0 was your story, piece 1 was where you stand. Piece 2 is what you would tell someone starting today — three recommendations, each with a real number. At the end of the level you defend all of it in front of a panel."*
-2. **Tablero, 2 columnas (3') — solo uso ORAL, el paradigma ya lo sello Gramatica a las 8:00:**
+2. **Tablero, 2 columnas (3') — solo uso ORAL, el paradigma lo sella Gramatica en papel en su sesion:**
 ```
 ADVICE (recommendation)                |  SAY THE NUMBER RIGHT (A1 M5)
 "You should study thirty minutes a day."|  2:10 -> "two ten"   6:00 -> "six o'clock"
@@ -70,12 +70,12 @@ TWO GROUPS, NO "and", NO "point".   13 "thirTEEN" is not 30 "THIRty".
 
 1. **Ticket de salida (5').** 3-5 frases con la estructura de hoy — al menos 2 con *should*, 1 con *shouldn't* y 2 numeros (una hora y un precio) **escritos en palabras** — con nombre en el papel. Se recogen **TODOS**. NO los evaluas ni los comentas: viajan fisicos con el error paper a coordinacion.
 2. **Error paper al tablero, sin nombres (5').** Escribes 4-6 errores REALES del dia, anonimos. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio con la forma corregida. En tu cuaderno, los mismos errores **CON nombre y cita literal** para el reporte de coordinacion. Doble protocolo, siempre. **Mientras el grupo trabaja el ultimo error, TU escribes la tarea en el tablero.**
-3. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with GRAMMAR and the other teacher: the future — 'I will' — and pinning a plan in time: at, on, in, on paper. Bring your notebook. Send your video TODAY."* Si preguntan por notas, resultados o garantia: *"That is coordination, not me."* Nada mas.
+3. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next session: GRAMMAR, with the other teacher: the future — 'I will' — and pinning a plan in time: at, on, in, on paper. Bring your notebook. Send your video TODAY."* Si preguntan por notas, resultados o garantia: *"That is coordination, not me."* Nada mas.
 
 **Tarea (escrita en el tablero durante el error paper, leida en voz alta al cierre):**
 ```
 HOMEWORK CL 3 (CONVERSATION) — ONE TASK ONLY: THE VIDEO.
-DUE: Cl 4, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
+DUE: BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl 4). NOT NEGOTIABLE. The video goes out TODAY.
 TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
 LISTEN FIRST (5-10 min, BEFORE you record):
 Search on YouTube or a podcast app: "advice for beginners should shouldn't".
@@ -93,12 +93,12 @@ Send it to the cohort WhatsApp group the SAME day.
 Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **LISTEN FIRST es parte fija de la tarea desde hoy:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de mañana, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
-> **La tarea de hoy es SOLO el video** — la tarea ESCRITA de este contenido ya la asigno el docente de Gramatica esta manana. No pidas ademas un papel: **las tareas de las dos pistas NO se duplican.**
+> **La tarea de hoy es SOLO el video** — la tarea ESCRITA de este contenido la asigna el docente de Gramatica en su sesion. No pidas ademas un papel: **las tareas de las dos pistas NO se duplican.**
 > Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
-4. **PASE al DOCENTE DE GRAMATICA (Grammar Cl 4, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por el grupo de docentes. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo mientras el grupo escribe el ticket:
+4. **PASE al docente de GRAMATICA — lo entregas al terminar tu sesion**, en papel en la carpeta del cohorte o por el grupo de docentes; va a la siguiente sesion de la otra pista (la proxima jornada, sea de 4 h o de 2 h). No es opcional y no se pasa de palabra: **la siguiente sesion la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Conv Cl 3 -> Grammar Cl 4 — del docente de CONVERSACION al de GRAMATICA
+PASE Conv Cl 3 -> siguiente sesion de Grammar — del docente de CONVERSACION al de GRAMATICA
 Virtud: PRUDENCIA, Cl 3 de 5; la proxima es Cl 4 de 5. Modulos: A1 M4 p.41-44 + A1 M5 p.61-64.
 3 ERRORES frescos de hoy (cita literal, SIN nombre aqui; nombres en mi reporte):
 1. ____________________  2. ____________________  3. ____________________
@@ -113,13 +113,13 @@ piece 2 · el price bee en coro · la simulacion TRAVEL ADVISORY DESK.
 SIMULACION DISTINTA A LA DE HOY — NO REPITAS "TRAVEL ADVISORY DESK" ni su
 guion (mostrador de servicio, cliente externo que pide recomendacion con
 precio). Mismo punto gramatical, escenario profesional diferente.
-TAREA QUE DEJE: SOLO el video (abre con LISTEN FIRST). La ESCRITA la
-asignaste TU esta manana. No se duplican.
+TAREA QUE DEJE: SOLO el video (abre con LISTEN FIRST). La ESCRITA es
+tuya. No se duplican.
 LA FRASE DEL DIA NO SE TRASPASA: cada clase estrena la suya. No repitas la mia.
 Firma Conversacion: ______________  Recibido Gramatica: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado ☐ Foto de inicio enviada a las 10:00
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ **Videos recibidos + UNA mejora dicha por video** ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE escrito enviado
 
 [PAGEBREAK]
 
@@ -142,17 +142,17 @@ Firma Conversacion: ______________  Recibido Gramatica: ______________
 - **Drill de movimiento atascado:** cadena sentada — tu das la accion, el grupo grita "SHOULD" o "SHOULDN'T" en coro y un estudiante completa la frase y le agrega un numero.
 - **Simulacion que no arranca:** cadena de pie — cada uno da 1 recomendacion mas 1 precio y nombra al siguiente. Tu sigues fuera del rol.
 - **Numeros muy flojos:** paras el bloque 2 minutos y corres solo **price bee**: cifras al azar, coro, velocidad creciente, alternando 13/30, 14/40, 15/50. Despues retomas.
-- **Grupo incompleto a las 10:00:** arrancas igual, registras la llegada tarde, el que llega se integra al drill sin repetirle nada.
+- **Grupo incompleto a la hora de inicio:** arrancas igual, registras la llegada tarde, el que llega se integra al drill sin repetirle nada.
 - **Sobra tiempo:** *"advise me"* — tu planteas un problema real de trabajo en 1 frase y cada estudiante da una recomendacion con numero, en cadena, sin repetir consejo.
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-- **Edicion unica manana/noche:** esta guia ES la edicion maestra del nocturno (`VERSION_2/B1_2H/CONVERSACION/B1_Clase3_CONV_PRINT.md`) llevada al 4H; reemplaza la guia 4H anterior. **Solo cambia el envoltorio:** 110 min (B1 20' + B2 40' + B3 35' + B4 15'), orden real de la hoja de arranque 13/10: Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues (B1 + B2 juntos), el MISMO dia · PASE Grammar -> Conv en papel a las 10:00 y Conv -> Grammar al cerrar las 12:00 para la clase siguiente · due "Cl N+1, BEFORE 7:00 PM" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion, que hace el chequeo de portafolio y desde la Cl 3 abre con LISTEN FIRST) · foto de inicio a las 10:00 al grupo de docentes. Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
-- **CORRECCION DE CONTENIDO FRENTE A LA GUIA 4H ANTERIOR, ya incorporada:** la guia 4H anterior de Conv Cl 3 ponia precios en miles de pesos (*"about 45,000"*, *"around 80,000"*), y eso **no esta en el libro**: A1 M5 llega a cien y trabaja precios en **dolares y centavos, en dos grupos** ($7.35, $13.05). Su propia guia 4H de Gramatica Cl 3 ya lo advertia ("miles/millones NO existen en el libro"). Esta guia corrige la inconsistencia: se ensena y se practica **solo el formato del libro**, y si un estudiante trae un precio en miles el docente conserva la mecanica de dos grupos sin ensenar cantidades grandes. Con esta edicion unica el pendiente queda **resuelto**: manana y noche dicen lo mismo.
+- **Edicion unica (decision de gerencia):** esta guia sirve para la jornada de 4 h y la nocturna de 2 h; secuencia y horas en HOJA_LECTURA_POR_JORNADA. 110 min (B1 20' + B2 40' + B3 35' + B4 15') · cada sesion cierra con PASE escrito a la siguiente sesion de la otra pista · due "BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl N+1)" · ticket de salida antes del error paper · UN solo video diario (el de Conversacion, que hace el chequeo de portafolio y abre con LISTEN FIRST). Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
+- **CORRECCION DE CONTENIDO FRENTE A LA EDICION ANTERIOR, ya incorporada:** la edicion anterior de Conv Cl 3 ponia precios en miles de pesos (*"about 45,000"*, *"around 80,000"*), y eso **no esta en el libro**: A1 M5 llega a cien y trabaja precios en **dolares y centavos, en dos grupos** ($7.35, $13.05). La edicion anterior de Gramatica Cl 3 ya lo advertia ("miles/millones NO existen en el libro"). Esta guia corrige la inconsistencia: se ensena y se practica **solo el formato del libro**, y si un estudiante trae un precio en miles el docente conserva la mecanica de dos grupos sin ensenar cantidades grandes. Con esta edicion unica el pendiente queda **resuelto**: manana y noche dicen lo mismo.
 - **Virtud:** PRUDENCIA, **Cl 3 de 5 de esta virtud** (Cl 1-5 de cada pista). Calendario absoluto por numero de clase de la pista, bloques de 5.
-- **Recuperacion:** N-3 y N-7 de la pista **no existen todavia** (Conversacion tiene Cl 1 y Cl 2). Se recupera Conversacion Cl 1-2 mas los 3 errores del PASE de Gramatica Cl 3 (esta misma manana). Sin mapa semanal todavia → NO se citan tickets.
+- **Recuperacion:** N-3 y N-7 de la pista **no existen todavia** (Conversacion tiene Cl 1 y Cl 2). Se recupera Conversacion Cl 1-2 mas los 3 errores del PASE de Gramatica Cl 3 (su ultima sesion). Sin mapa semanal todavia → NO se citan tickets.
 - **Continuidad:** M17 quedo **CERRADO** en Gramatica Cl 2 (los 20 items de Exercises 1 p.165 resueltos, participios y Verbal Practice 1 p.167). Hoy el nivel abre contenido nuevo del puente: el primer auxiliar modal del nivel. Por eso la recuperacion del Bloque 1 todavia toca la bisagra de los dos pasados: es lo ultimo que se cerro y no se suelta.
-- **Anti-duplicado:** hoy **TRAVEL ADVISORY DESK** (mostrador de servicio, cliente externo que llega a decidir, advisor que cotiza con precio y hora, observers contando should / shouldn't / numeros). Distinto de los tres escenarios anteriores del cohorte: **MEET THE NEW TEAM** (Conv Cl 1), **INCIDENT REPORT TO HR** (Grammar Cl 1), **PERFORMANCE REVIEW** (Conv Cl 2) y **SHIFT HANDOVER** (Grammar Cl 2). Gramatica Cl 3 (8:00) usa RELOCATION DECISION MEETING y su PASE prohibe repetirlo aqui; el PASE de hoy prohibe repetir TRAVEL ADVISORY DESK en Gramatica Cl 4.
+- **Anti-duplicado:** hoy **TRAVEL ADVISORY DESK** (mostrador de servicio, cliente externo que llega a decidir, advisor que cotiza con precio y hora, observers contando should / shouldn't / numeros). Distinto de los tres escenarios anteriores del cohorte: **MEET THE NEW TEAM** (Conv Cl 1), **INCIDENT REPORT TO HR** (Grammar Cl 1), **PERFORMANCE REVIEW** (Conv Cl 2) y **SHIFT HANDOVER** (Grammar Cl 2). Gramatica Cl 3 usa RELOCATION DECISION MEETING y su PASE prohibe repetirlo aqui; el PASE de hoy prohibe repetir TRAVEL ADVISORY DESK en la siguiente sesion de Gramatica.
 - **Proyecto del nivel:** MY STORY, MY GOALS — **piece 2 "My advice to a beginner"**. El papel de 12 lineas que dejo Gramatica Cl 2 alimento la pieza anterior; el de Gramatica Cl 3 alimentara la pieza 3.
 - **Proxima clase de esta pista (Conv Cl 4):** A1 Book **M6 "What Time Will You Eat Lunch?" (p.71-74, will)** + preposiciones de tiempo **IN / ON / AT** (A1 M29 "When Is It?" p.326; A2 M1 p.2 para "on" con dia o fecha; A2 M2 p.14 para "in" con mes o ano). `SUPUESTO DE PLANEACION — verificar`: el anclaje modulo-clase del puente Cl 1-5 viene del mapa del B1 Mastery, no de una tabla del libro.
 - **Sin material preparado:** todo en tablero, papel del propio estudiante o voz; los precios y las horas los traen los estudiantes de su propia vida. Plan B por bloque en el Anexo.

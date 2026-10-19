@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 4/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 4/44 · 110 min · 8:00-10:00 AM · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 4/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo ancla:** A1 Book **M6 "What Time Will You Eat Lunch? — The Simple Future" (p.71-76)** + preposiciones de tiempo **AT / ON / IN** (A1 M29 p.327 · A2 M1 p.3 · A2 M2 p.15) — hoy se SELLA EN PAPEL
 **Focus (1 linea):** Sellar will con su marco completo — won't, la pregunta, el short answer y *"what time will...?"* — y escribir un dia entero hora por hora con at, on e in.
 **Virtud:** PRUDENCIA — Cl 4 de 5 de esta virtud (Cl 1-5 de cada pista)
@@ -10,7 +10,7 @@
 
 > **DE PIE: Bloques 1-3 completos en o junto al tablero (~95 de 110 min ≈ 86%; piso 70%). Solo el Bloque 4 es sentado.** Movimiento SIEMPRE con contenido.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion al cierre de la Cl 3 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres, columna "llegada tarde"), el PASE que te dejo el docente de Conversacion en su ultima sesion y celular para las fotos/videos del dia. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 > **HOY SOLO (M6 en papel): el paradigma completo de will — afirmativo, won't, pregunta, short answer corto y "what time will...?" — mas Ejercicios 1 p.76 resuelto y el cuadro "MY PLAN TODAY" p.76 escrito con las 8 horas del libro, y las tres preposiciones at / on / in con la excepcion "at night". NO TOCAR AUN: presente simple y la -s de tercera persona (Cl 5) · futuro perfecto y "would have" (muy adelante). Y NO vuelvas a montar should: quedo sellado en Gramatica Cl 3 — hoy solo se recupera, y se usa como puente ("will se trata igual que should").**
 
@@ -18,17 +18,17 @@
 
 **Objective: recover the opening hinge, then drop the new auxiliary into a frame the room already owns.**
 
-**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+**Puntualidad: coordinación registra la hora de llegada; foto de inicio opcional.**
 
-1. **8:00 EN PUNTO arrancas, puerta abierta, de pie (1').** Abre la columna **"llegada tarde"** y anotala HOY: llegada despues de las 8:15 se marca; cada 3 cuentan como una inasistencia para contrato y garantia. **NO vuelvas a explicar la regla ni las condiciones de la garantia:** se dijeron una sola vez en la Cl 1. Hoy solo se registra.
-2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, en su Bloque 1 a las 10:00, con su propia lista y la mejora por video. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues. Feedback si; de notas, resultados o garantia no hablas tu: *"That is coordination."* Los 2-3 minutos que libera este punto pasan a la recuperacion activa.
+1. **EN PUNTO arrancas, puerta abierta, de pie (1').** Abre la columna **"llegada tarde"** y anotala HOY: llegada mas de 15 minutos despues del inicio se marca; cada 3 cuentan como una inasistencia para contrato y garantia. **NO vuelvas a explicar la regla ni las condiciones de la garantia:** se dijeron una sola vez en la Cl 1. Hoy solo se registra.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, en su Bloque 1, con su propia lista y la mejora por video. Tu solo dices: *"Your daily video goes out every day. Conversation checks it, name by name."* Y sigues. Feedback si; de notas, resultados o garantia no hablas tu: *"That is coordination."* Los 2-3 minutos que libera este punto pasan a la recuperacion activa.
 3. **VATS (6', de pie, en circulo).** El **porque** primero, para ti: la prudencia es lo que separa un plan de un deseo, y en el trabajo se mide en una sola cosa — si lo que prometiste tenia hora. La **traduccion al aula de hoy**: escribir el plan con su hora es lo que hace que se cumpla; por eso hoy el plan se escribe, no se conversa.
    - **V, Virtud (1'):** tablero `PRUDENCE — CL 4 OF 5`. Di: *"This block is prudence. A promise with no hour on it is not a promise. Today we write the hour."*
    - **A, Activar (2'):** una sola pregunta, en ingles, que junta virtud y gramatica del dia: *"What will you do tomorrow that you have postponed three times, and at what exact hour will you do it?"* 30 segundos de silencio para pensar.
    - **T, Talk (2'):** en parejas, 1 minuto cada uno, obligatorio con las dos partes: *"I will ___ at ___, and I won't ___."*
    - **S, Share (1'):** 2-3 estudiantes lo dicen al grupo. Tu escuchas y anotas; no corriges gramatica aqui.
    - **Si alguien pregunta para que sirve esto:** *"Because on the day you need your English — in an interview, in front of a client — what fails is not vocabulary. It is nerve, or patience, or preparation. That is what we train here, with a name."*
-4. **Recuperacion activa (8', oral, DE PIE, en cadena, sin cuaderno).** Arranca leyendo en voz alta **los 3 errores literales del PASE** que te dejo Conversacion al cierre de la Cl 3. **N-3 de tu pista = Gramatica Cl 1** (didn't vs haven't yet): se recupera hoy sin falta. **N-7 todavia no existe.** Disparadores:
+4. **Recuperacion activa (8', oral, DE PIE, en cadena, sin cuaderno).** Arranca leyendo en voz alta **los 3 errores literales del PASE** que te dejo Conversacion en su ultima sesion. **N-3 de tu pista = Gramatica Cl 1** (didn't vs haven't yet): se recupera hoy sin falta. **N-7 todavia no existe.** Disparadores:
    - "N-3, from Cl 1: negative — 'I ___ said hello' (never) and 'I ___ said hello' (not yet)."
    - "Question and SHORT answer: 'Have you finished?' — two words."
    - "From Cl 3: 'Should Juan play?' — short answer, both ways."
@@ -112,12 +112,12 @@ morning" and ONE must use "at night".
 
 1. **Ticket de salida (5').** 3-5 frases con la estructura de hoy — al menos 1 con *will*, 1 con *won't*, 1 pregunta con su short answer, y **at, on e in al menos una vez cada uno**, con las horas escritas en palabras — con nombre en el papel. Se recogen **TODOS**. NO los evaluas ni los comentas: viajan fisicos con el error paper a coordinacion.
 2. **Error paper al tablero, sin nombres (5').** Escribes 4-6 errores REALES del dia, anonimos. El grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 ejemplo nuevo propio con la forma corregida. En tu cuaderno, los mismos errores **CON nombre y cita literal** para el reporte de coordinacion. Doble protocolo, siempre. **Mientras el grupo trabaja el ultimo error, TU escribes la tarea en el tablero.**
-3. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"At ten o'clock you have CONVERSATION with the other teacher: same module, a new Phrase of the Day. You will say your plan for this level out loud — 'I will...' — pinned with at, on and in. Your video is assigned there."* Si preguntan por notas, resultados o garantia: *"That is coordination, not me."* Nada mas.
+3. **Cierre (5').** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next session: CONVERSATION, with the other teacher: same module, a new Phrase of the Day. You will say your plan for this level out loud — 'I will...' — pinned with at, on and in. Your video is assigned there."* Si preguntan por notas, resultados o garantia: *"That is coordination, not me."* Nada mas.
 
 **Tarea (la escribes en el tablero durante el error paper, la lees en voz alta al cierre):**
 ```
 HOMEWORK CL 4 (GRAMMAR) — TWO THINGS.
-DUE: Cl 5, BEFORE 7:00 PM. NOT NEGOTIABLE. The video goes out TODAY.
+DUE: BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl 5). NOT NEGOTIABLE. The video goes out TODAY.
 NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
 (1) WRITTEN, in your notebook, 6 sentences with will about your real next week:
     3 affirmative + 2 with won't + 1 question starting with "What time will...", with its
@@ -125,15 +125,15 @@ NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Con
     least once, and every hour written in words ("six twenty", "nine oh nine").
     Underline the preposition. Bring the notebook to the next Grammar class.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
-    one CONVERSATION assigns today at 10:00. Send it TODAY to the cohort
+    one CONVERSATION assigns in its session. Send it TODAY to the cohort
     WhatsApp group. Audio only by exception (max 2 a week).
 ```
-> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversación el total del día no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion — aqui no se pide un segundo video. No es un premio ni un reemplazo del papel.** Hoy se entregan las dos cosas: tu papel y ese video. Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversación; tú no pides nada aparte.
 
-4. **PASE al DOCENTE DE CONVERSACION (Conv Cl 4, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion. No es opcional y no se pasa de palabra: **el bloque siguiente lo dicta otra persona que no estuvo en el tuyo.** Copia este texto y llenalo mientras el grupo escribe el ticket:
+4. **PASE al docente de CONVERSACION — lo entregas al terminar tu sesion**, en papel en la carpeta del cohorte o por el grupo de docentes; va a la siguiente sesion de la otra pista (en jornada de 4 h, a continuacion; en jornada de 2 h, la noche siguiente). No es opcional y no se pasa de palabra: **la siguiente sesion la abre otra persona que no estuvo en la tuya.** Copia este texto y llenalo mientras el grupo escribe el ticket:
 ```
-PASE Grammar Cl 4 -> Conv Cl 4 — del docente de GRAMATICA al de CONVERSACION
-Virtud: PRUDENCIA, Cl 4 de 5 de esta virtud (la misma de tu bloque de hoy); la
+PASE Grammar Cl 4 -> siguiente sesion de Conv — del docente de GRAMATICA al de CONVERSACION
+Virtud: PRUDENCIA, Cl 4 de 5 de esta virtud; la
 Cl 5 la CIERRA (la siguiente clase de cada pista abre virtud nueva).
 QUE QUEDO SELLADO HOY EN PAPEL (A1 M6 p.71-76 y las preposiciones):
 el paradigma completo de will (afirmativo, won't, pregunta, short answer,
@@ -149,14 +149,14 @@ MY PLAN TODAY · el zone walk de tres preposiciones · la simulacion SERVICE
 SCHEDULING CALL (no repitas ese titulo ni su guion).
 TAREA QUE DEJE: 6 frases (escrito). El video del dia lo asignas TU (abre con
 LISTEN FIRST): no duplicar.
-CONV CL 4 HOY: el plan HABLADO con will y las tres preposiciones (MY STORY
-piece 3). El marco de will quedo sellado en papel a las 8:00: apoyate en
+CONV CL 4: el plan HABLADO con will y las tres preposiciones (MY STORY
+piece 3). El marco de will quedo sellado en papel en esta pista: apoyate en
 eso, no lo vuelvas a explicar.
 LA FRASE DEL DIA NO SE TRASPASA: cada clase estrena la suya. No repitas la mia.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ Recordatorio del video dicho ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos ☐ PASE enviado ☐ ~86% DE PIE ☐ Foto de inicio enviada a las 8:00
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ Recordatorio del video dicho ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos ☐ PASE enviado ☐ ~86% DE PIE
 
 [PAGEBREAK]
 
@@ -176,15 +176,15 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - **Drill en circulo atascado:** las cuatro formas se vuelven cuatro dedos — tu muestras 1, 2, 3 o 4 dedos y el estudiante produce esa forma. **Zone walk atascado:** tres dedos en el aire (1 = at, 2 = on, 3 = in), el grupo responde en coro y un estudiante hace la frase con will.
 - **Dictado de Ejercicios 1 muy lento:** dictas 7 items y los otros 3 quedan de tarea; **NO recortes MY PLAN TODAY** — es el producto escrito del dia. Si el tiempo aprieta de verdad, MY PLAN TODAY baja a 5 horas, nunca a cero.
 - **Simulacion que no arranca:** los dos siguen de espaldas pero tu das el guion en tres pasos al tablero (pregunta la hora / responde con at / confirma repitiendo). Tu sigues fuera del rol. **Preposiciones muy flojas:** *"at night trap"* en coro hasta que salga limpio.
-- **Grupo incompleto a las 8:00:** arrancas igual, registras la llegada tarde, el que llega se integra sin repetirle nada. **Sobra tiempo:** *"confirm it"* — das una cita con hora y el grupo la confirma en coro repitiendola completa.
+- **Grupo incompleto a la hora de inicio:** arrancas igual, registras la llegada tarde, el que llega se integra sin repetirle nada. **Sobra tiempo:** *"confirm it"* — das una cita con hora y el grupo la confirma en coro repitiendola completa.
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-- **Edicion unica manana/noche:** edicion maestra del nocturno llevada al 4H. **Solo cambia el envoltorio:** 110 min, orden real de la hoja de arranque 13/10: Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia · PASE Grammar -> Conv en papel a las 10:00 y Conv -> Grammar al cerrar las 12:00 para la clase siguiente · UN solo video diario (el de Conversacion, que hace el chequeo de portafolio; Gramatica solo lo recuerda) · foto de inicio a las 8:00 al grupo de docentes. Contenido (modulo, HOY SOLO, simulacion, ritual de virtud con su porque, tarea escrita, anexo) intacto.
-- **Paginacion corregida: A1 M6 = p.71-76** (Guia 1 p.73, Ejemplos p.75, Ejercicios 1 y MY PLAN TODAY p.76) y preposiciones en **A1 M29 p.327**, **A2 M1 p.3**, **A2 M2 p.15**. La guia 4H anterior tenia corrimiento de una pagina.
+- **Edicion unica (decision de gerencia):** esta guia sirve para la jornada de 4 h y la nocturna de 2 h; secuencia y horas en HOJA_LECTURA_POR_JORNADA. Cada sesion cierra con PASE escrito a la siguiente sesion de la otra pista · ticket de salida antes del error paper · UN solo video diario (el de Conversacion, que hace el chequeo de portafolio; Gramatica solo lo recuerda).
+- **Paginacion corregida: A1 M6 = p.71-76** (Guia 1 p.73, Ejemplos p.75, Ejercicios 1 y MY PLAN TODAY p.76) y preposiciones en **A1 M29 p.327**, **A2 M1 p.3**, **A2 M2 p.15**. La guia anterior tenia corrimiento de una pagina.
 - **Dias de la semana:** el ejemplo del libro para "on" (*"I will play on Monday"*) queda **solo en el Anexo, como cita del libro**; en el cuerpo y en el tablero se usa *"on the deadline day"*, para no meter nombres de dias ni fechas en la guia.
 - **Virtud:** PRUDENCIA, **Cl 4 de 5 de esta virtud** (Cl 1-5 de cada pista), calendario absoluto por numero de clase de la pista. **Recuperacion:** **N-3 de la pista YA EXISTE y es Gramatica Cl 1** (didn't vs haven't yet), marcada como tal en el Bloque 1; **N-7 todavia no existe.** Sin mapa semanal → NO se citan tickets.
-- **ANTI-DUPLICADO — por que el B3 de hoy es DISTINTO del de Conversacion Cl 4:** a las 10:00, en Conversacion Cl 4, es **PROJECT KICKOFF MEETING** (reunion interna de arranque, cara a cara, responsables exponiendo su plan, lead que pide fechas). Hoy es **SERVICE SCHEDULING CALL**: una **llamada** entre un cliente externo y quien agenda, los dos **de espaldas** para forzar la pronunciacion de las horas, con **short answer corto** en preguntas cerradas y **confirmacion de la cita repitiendo la hora** — nada de eso aparece en Conversacion. Ni titulo, ni roles, ni guion, ni disposicion fisica, ni carga gramatical se repiten. La guia 4H anterior usaba **WEEKLY PLANNING BRIEFING** aqui y se descarto: es casi el mismo guion que el PROJECT KICKOFF de Conversacion (planeacion con el jefe, "when will you...?"). Ese era el duplicado que prohibe la regla anti-duplicado.
+- **ANTI-DUPLICADO — por que el B3 de hoy es DISTINTO del de Conversacion Cl 4:** en Conversacion Cl 4 es **PROJECT KICKOFF MEETING** (reunion interna de arranque, cara a cara, responsables exponiendo su plan, lead que pide fechas). Hoy es **SERVICE SCHEDULING CALL**: una **llamada** entre un cliente externo y quien agenda, los dos **de espaldas** para forzar la pronunciacion de las horas, con **short answer corto** en preguntas cerradas y **confirmacion de la cita repitiendo la hora** — nada de eso aparece en Conversacion. Ni titulo, ni roles, ni guion, ni disposicion fisica, ni carga gramatical se repiten. La guia anterior usaba **WEEKLY PLANNING BRIEFING** aqui y se descarto: es casi el mismo guion que el PROJECT KICKOFF de Conversacion (planeacion con el jefe, "when will you...?"). Ese era el duplicado que prohibe la regla anti-duplicado.
 - **Proyecto del nivel:** hoy **no hay pieza nueva** — Gramatica sella la herramienta; MY PLAN TODAY y las 6 frases de la tarea alimentan la pieza que arma Conversacion en su Cl 5.
 - **Proxima clase de esta pista (Grammar Cl 5):** A1 **M8 "Where Do We Eat?" (presente simple, do/does)** + A1 **M9 "He Eats in the Restaurant" (tercera persona -s)**. `SUPUESTO DE PLANEACION — verificar`: el anclaje modulo-clase del puente Cl 1-5 viene del mapa del B1 Mastery; las paginas de M8 y M9 las verifica la guia de esa clase contra el libro.
 - **Sin material preparado:** todo en tablero, papel del propio estudiante o voz; nada de telefonos reales en la simulacion. Plan B por bloque en el Anexo.

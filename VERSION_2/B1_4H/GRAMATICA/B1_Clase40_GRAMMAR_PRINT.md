@@ -1,12 +1,12 @@
 # B1 MASTERY — Cl 40/44 — GRAMMAR — HOJA DE RUTA
 
-**Sesion 40/44 · 110 min · 8:00-10:00 AM (va PRIMERO, antes de Conversacion) · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
+**Sesion 40/44 · 110 min · Bloques: B1 20' + B2 40' + B3 35' + B4 15' = 110 · 100% ingles**
 **Modulo:** B1 Book **M10 "The Causative" (p.117-126) + M11 "Advanced Adjectives — Tell Me About It!" (p.127-144)** — doble ~50/50 (Active Causative p.119; Passive p.123; Noun-Adj p.129; Prefixes/Suffixes p.133; Compound p.137; Impersonal p.141)
 **Focus (1 line):** Delegate with shape (have/get + object + past participle) and describe precisely (noun/adjective, prefixes/suffixes, compound, "It is + adj + to/that").
 **Virtud:** FORTALEZA v2 — dia 5 de 5 (el bloque CIERRA)
 **Frase del Dia:** *"Fortitude closes the block getting things done and naming them right: I HAD it FINISHED, I GOT it DONE — by a strong, well-prepared, fearless team; it is important to say the precise word."*
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres), el PASE que te dejo el docente de Conversacion al cierre de la Cl 39 y celular para la foto de inicio. NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno (errores literales mas nombres), el PASE que te dejo el docente de Conversacion en su ultima sesion y celular para las fotos/videos del dia. NADA impreso: todo va al tablero o al papel del propio estudiante.
 
 > **DE PIE: Bloques 1-3 completos (~95 de 110 min ≈ 86%; piso 70%). Solo Bloque 4 sentado.** Movimiento con contenido siempre.
 
@@ -16,7 +16,7 @@
 
 **Objective: re-fire relative pronouns and perfect tenses, then build the causative and advanced adjectives.**
 
-**8:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+**Puntualidad: coordinación registra la hora de llegada; foto de inicio opcional.**
 
 1. **Recuperacion (10', oral, DE PIE, cadena, sin cuaderno).** Disparadores (Cl 37 y Cl 33); errores anonimos al board; 1 min re-produccion:
    - "Relative pronoun in the air: 'The report ___ we sent is the one ___ the client approved.'" (Cl 37)
@@ -24,9 +24,9 @@
    - "Perfect tense (Cl 39): 'By 5pm I ___ (finish) the migration.' Which perfect?" (Cl 39 — puente)
    - "Present perfect vs past (Cl 39): 'I ___ (live) here since 2021' / 'I ___ (move) here in 2021.'" (Cl 39 — puente)
    - "Judge the level: 'It is ___ enough' / 'It is too ___', full sentence." (Cl 33 — ventana de repaso)
-2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, en su Bloque 1 a las 10:00. Tu solo dices: *"Yesterday's video was due before seven p.m. Conversation checks it at ten o'clock."* Y sigues; los 2-3 minutos que libera este punto pasan a la recuperacion.
+2. **Recordatorio del video, UNA frase (30 seg) — NO es chequeo nombre por nombre.** El video diario lo asigna y lo revisa Conversacion, en su Bloque 1. Tu solo dices: *"Your daily video goes out every day. Conversation checks it, name by name."* Y sigues; los 2-3 minutos que libera este punto pasan a la recuperacion.
 3. **Frase del Dia (4').** Board antes; 2 lecturas + coro + 1 solo; 3+ inserciones.
-4. **Revision tarea (3'):** 6 sentences (Cl 39: perfect tenses) sobre la mesa; recoge. **PASE de Conv Cl 39 (cierre de ayer)** leido: sus gaps orales de perfect tenses son tus blancos. Hoy se escribe con reglas; a las 10:00 Conversacion lo lleva a la voz.
+4. **Revision tarea (3'):** 6 sentences (Cl 39: perfect tenses) sobre la mesa; recoge. **PASE de Conversacion (el que te dejo en su ultima sesion)** leido: sus gaps orales de perfect tenses son tus blancos. Hoy se escribe con reglas; en su sesion Conversacion lo lleva a la voz.
 
 > [VIRTUD] Board: "FORTITUDE — DAY 5 — BLOCK CLOSES". *"Precision is courage: get it done, and name it with the exact word — not the easy one."*
 
@@ -75,7 +75,7 @@ IMPERSONAL (p.141): "It is important to help." (never drop "it")
 1. **Ticket de salida (5'):** 3-5 frases: 2 causativas (1 passive con participio, 1 active con/sin "to") + 2 descripciones (1 noun/adjective pair o prefijo, 1 impersonal "It is + adj + to/that"). Nombre en el papel. Se recogen TODOS; sin evaluar; viajan con el error paper.
 2. **Tarea (board):**
 ```
-HOMEWORK GRAMMAR CL 40 — DUE Cl 41, BEFORE 7:00 PM — TODAY before 7:00 PM.
+HOMEWORK GRAMMAR CL 40 — DUE: BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl 41).
 NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Conversation's.
 (1) WRITE 6 lines: a real repair or maintenance request at YOUR work
     (a printer, an AC unit, a door, a system):
@@ -84,29 +84,29 @@ NOT FRAGMENTED. TIME: 15-20 min (B1) — the written task only. The video is Con
     2 noun/adjective pairs, 1 prefix/suffix word, 1 impersonal
     "It is ... to/that ...". Underline the participle in the causative.
 (2) DAILY PORTFOLIO VIDEO — ONE video a day, NOT two: today's is the
-    one CONVERSATION assigns today at 10:00 (it opens with LISTEN FIRST).
+    one CONVERSATION assigns in its session (it opens with LISTEN FIRST).
 (3) Bring the paper to next class.
 ```
-> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversacion el total del dia no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion a las 10:00 — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
+> **Tarea escrita de 15-20 minutos (regla desde Cl 3): con el video diario de Conversacion el total del dia no pasa de una hora. Si alguien dice que no tiene tiempo: una sola frase,** *"Twenty minutes on paper, three minutes on video. That is the whole day."* **El video es DIARIO y es UNO solo: hoy es el que asigna Conversacion en su sesion — aqui no se pide un segundo video.** Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."* Ese video abre con las 3 frases del LISTEN FIRST (2 minutos de otro acento) que asigna Conversacion; tu no pides nada aparte.
 3. **Error paper** anonimo cerrado; nombres/citas al reporte.
-4. **Cierre y anuncio:** *"At ten o'clock you have CONVERSATION with the other teacher: delegate and describe, out loud. Your video is assigned there. Next class at eight: indefinite pronouns (everyone/someone/anyone/no one), reflexive (myself/by myself) and reciprocal (each other). We close the B1 book and begin your final presentation."*
-5. **PASE al docente de CONVERSACION (Conv Cl 40, HOY a las 10:00) — se lo entregas EN PAPEL en el cambio de bloque**, antes de que arranque Conversacion:
+4. **Cierre y anuncio:** *"Next session: CONVERSATION, with the other teacher: delegate and describe, out loud. Your video is assigned there. Next GRAMMAR session: indefinite pronouns (everyone/someone/anyone/no one), reflexive (myself/by myself) and reciprocal (each other). We close the B1 book and begin your final presentation."*
+5. **PASE al docente de CONVERSACION — lo entregas al terminar tu sesion**, en papel en la carpeta del cohorte o por el grupo de docentes; va a la siguiente sesion de la otra pista (en jornada de 4 h, a continuacion; en jornada de 2 h, la noche siguiente). No se pasa de palabra: la siguiente sesion la abre otra persona:
 ```
-PASE Grammar Cl 40 -> Conv Cl 40
+PASE Grammar Cl 40 -> siguiente sesion de Conv
 3 gaps frescos de hoy (literal, sin nombre aqui):
 1. ______________________  2. ______________________  3. ______________________
 Patrones bajo presion: (a) passive causative sin participio ("had the car
 wash"); (b) "made me to stay" ("to" de mas); (c) noun por adjetivo;
 (d) prefijo equivocado / compound en plural / impersonal sin "it".
-Hoy quedaron M10+M11 lockeados en papel. Tu Conv Cl 40 de hoy los lleva
+Hoy quedaron M10+M11 lockeados en papel. Conv Cl 40 los lleva
 a la voz: no re-expliques la regla. FORTALEZA v2 dia 5: CERRADA hoy en
 mi pista; cierrala igual en la tuya. El chequeo de videos es tuyo.
-TAREA QUE DEJE: 6 lineas, due Cl 41 antes de las 7:00 PM. El video del
+TAREA QUE DEJE: 6 lineas, due antes de mi proxima sesion (Cl 41). El video del
 dia lo asignas tu (con LISTEN FIRST). NO pidas otro papel encima.
 Firma Gramatica: ______________  Recibido Conversacion: ______________
 ```
 
-**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + zone walk + maintenance desk) ☐ PASE Conv Cl 39 leido ☐ PASE a Conv Cl 40 entregado en mano a las 10:00 ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion) ☐ Foto de inicio enviada a las 8:00
+**Checklist salida:** ☐ Reporte firmado ☐ Error paper recogido ☐ Tickets recogidos (TODOS) ☐ Fotos/videos (board + zone walk + maintenance desk) ☐ PASE Conv Cl 39 leido ☐ PASE a la siguiente sesion de Conv entregado en mano ☐ ~86% DE PIE confirmado ☐ Recordatorio del video dicho (el chequeo es de Conversacion)
 
 [PAGEBREAK]
 
@@ -134,5 +134,5 @@ Firma Gramatica: ______________  Recibido Conversacion: ______________
 - DE PIE ≥70% (piso validado 86%): Bloques 1-3.
 - Recuperacion: N-3 = Cl 37 = B1 M7 (confirmado por coordinacion); N-7 = Cl 33 (ventana repaso A2). (SUPUESTO DE PLANEACIÓN — verificar ancla N-7.)
 - Virtud: FORTALEZA v2 dia 5 — CIERRA (calendario absoluto). Mañana Cl 41 abre SINTESIS.
-- **Orden real del dia (hoja de arranque 13/10/2026):** Grammar 8:00-10:00 primero y Conv 10:00-12:00 despues, el MISMO dia · PASE Grammar Cl N -> Conv Cl N en papel a las 10:00 y Conv Cl N -> Grammar Cl N+1 al cerrar a las 12:00 · UN solo video diario (lo asigna Conversacion, abre con LISTEN FIRST; el chequeo con una mejora por video es de Conversacion a las 10:00) · tarea escrita de Grammar de 15-20 min (la mitad de items) · foto de inicio a la hora exacta al grupo de docentes.
-- **B3 ES DISTINTO DEL DE CONV CL 40 PORQUE:** a las 10:00 es **THE HANDOVER BRIEFING** — entrega de un proyecto antes de salir, roles el que entrega mas el que recibe, delega tareas y describe a una PERSONA. Aqui es **THE MAINTENANCE REQUEST DESK** — solicitud de reparaciones a servicios generales, roles coordinador de mantenimiento mas quien solicita, carga obligatoria passive causative para confirmar quien arregla que + active causative con/sin "to" + adjetivos de DAÑO y objetos (prefijos un-/ir-/-less, compound "a two-hour job", impersonal "It is impossible to..."), y los observers se dividen en 2 filas por estructura, cosa que no existe en Conv Cl 40. Ni el titulo, ni los roles, ni el guion, ni la carga gramatical se repiten. La tarea escrita cambio de tema (15/10): solicitud real de reparacion en SU trabajo, no el handover, para que el estudiante no escriba de noche lo mismo que grabo en el video de Conv. Resuelve el `SUPUESTO` anti-duplicado que antes quedaba abierto aqui.
+- **Secuencia entre pistas (edicion unica 4 h / 2 h — ver HOJA_LECTURA_POR_JORNADA):** cada sesion cierra con PASE escrito a la siguiente sesion de la otra pista. UN solo video diario: lo asigna y lo revisa Conversacion (chequeo con UNA mejora por video; abre con LISTEN FIRST); Gramatica solo recuerda la due date. Tarea escrita a la mitad (15-20 min) para que el dia completo no pase de ~1 hora.
+- **B3 ES DISTINTO DEL DE CONV CL 40 PORQUE:** en Conv Cl 40 es **THE HANDOVER BRIEFING** — entrega de un proyecto antes de salir, roles el que entrega mas el que recibe, delega tareas y describe a una PERSONA. Aqui es **THE MAINTENANCE REQUEST DESK** — solicitud de reparaciones a servicios generales, roles coordinador de mantenimiento mas quien solicita, carga obligatoria passive causative para confirmar quien arregla que + active causative con/sin "to" + adjetivos de DAÑO y objetos (prefijos un-/ir-/-less, compound "a two-hour job", impersonal "It is impossible to..."), y los observers se dividen en 2 filas por estructura, cosa que no existe en Conv Cl 40. Ni el titulo, ni los roles, ni el guion, ni la carga gramatical se repiten. La tarea escrita cambio de tema (15/10): solicitud real de reparacion en SU trabajo, no el handover, para que el estudiante no escriba de noche lo mismo que grabo en el video de Conv. Resuelve el `SUPUESTO` anti-duplicado que antes quedaba abierto aqui.

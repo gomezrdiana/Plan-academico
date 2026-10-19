@@ -1,6 +1,6 @@
 # B1 MASTERY — Cl 1/44 — CONV — HOJA DE RUTA
 
-**Conv 1/44 · 110 min · 10:00 AM-12:00 M · Bloques: B1 25' + B2 35' + B3 25' + B4 25' = 110**
+**Conv 1/44 · 110 min · Bloques: B1 25' + B2 35' + B3 25' + B4 25' = 110**
 **Modulo ancla:** A2 Book **M17 "You Didn't, or You Haven't? — The Present Perfect vs The Simple Past" (p.163-164)** — hoy solo USO ORAL
 **Focus (1 linea):** Abrir el nivel, grabar la foto de partida de cada voz, y hablar la maquina del pasado: "last year I worked" (cerrado) vs "I have worked" (abierto).
 **Virtud:** PRUDENCIA — Cl 1 de 5 de esta virtud (Cl 1-5 de cada pista) — ABRE el bloque y el nivel
@@ -8,28 +8,28 @@
 
 > **ENGLISH ONLY desde el Bloque 2.** Unica excepcion HOY: cronograma, condiciones del programa y el ritual de Carta/Capsula pueden ir en espanol. Todo lo demas del dia, en ingles — si te sale espanol, reinicia la frase en ingles. Modelas lo que exiges.
 
-> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno personal (errores literales + nombres + columna "llegada tarde"), el PASE que te entrega el docente de Gramatica a las 10:00 (Grammar Cl 1, de esta misma manana) y tu telefono cargado con espacio (foto de inicio y grabaciones de entrada). NADA impreso: todo va al tablero o al papel del propio estudiante.
+> **TRAE HOY:** reloj, 2-3 marcadores, tu cuaderno personal (errores literales + nombres + columna "llegada tarde"), el PASE que te dejo el docente de Gramatica en su ultima sesion (si Grammar Cl 1 ya ocurrio antes que tu sesion) y tu telefono cargado con espacio (fotos/videos del dia y grabaciones de entrada). NADA impreso: todo va al tablero o al papel del propio estudiante.
 
-> **HOY SOLO (M17): el contraste en AFIRMATIVO y HABLADO — periodo cerrado ("last year I worked") = simple past · periodo abierto o indefinido ("I have worked") = present perfect. Hoy la regla se USA, no se explica. NO RE-EXPLICAR: el negativo didn't vs haven't, la pregunta "Have you...?" con short answer, for/since, y la lista de participios regulares e irregulares — eso ya lo sello GRAMATICA Cl 1 hoy a las 8:00 en papel: no lo repites.**
+> **HOY SOLO (M17): el contraste en AFIRMATIVO y HABLADO — periodo cerrado ("last year I worked") = simple past · periodo abierto o indefinido ("I have worked") = present perfect. Hoy la regla se USA, no se explica. NO RE-EXPLICAR: el negativo didn't vs haven't, la pregunta "Have you...?" con short answer, for/since, y la lista de participios regulares e irregulares — eso lo sella GRAMATICA Cl 1 en papel en su sesion: aqui no se explica ni se repite.**
 
 ## BLOQUE 1 — APERTURA DEL NIVEL (25')
 
 **Objective: everyone knows how this room works, and says one true sentence about their English.**
 
-**10:00 EN PUNTO: foto del tablero con la Frase del Día ya escrita, al grupo de docentes. Esa foto es tu hora de inicio.**
+**Puntualidad: coordinación registra la hora de llegada; foto de inicio opcional.**
 
-1. **10:00 EN PUNTO arrancas (2', puedes hablar en espanol).** Con la puerta abierta y de pie. Di tal cual: *"Cada clase empieza en punto: Gramatica a las 8:00 y Conversacion a las 10:00 — no a las 8:05 ni a las 10:05. Llegar despues de las 8:15 o de las 10:15 es llegada tarde, y cada tres llegadas tarde cuentan como una inasistencia para su contrato y para su garantia. No es castigo: el que llega a tiempo a una clase es el que llega a tiempo a una reunion, a una entrevista, a un vuelo. Eso tambien se entrena aqui, y yo lo registro todos los dias."* Abre en tu cuaderno la columna **"llegada tarde"** y anotala HOY.
-2. **PASE + warm-up de pie en cadena (5', sin cuaderno — NO hay recuperacion N-3/N-7, es la primera clase).** Primer minuto: lees en voz alta los 3 errores literales del PASE que te entrego Gramatica Cl 1 a las 10:00 (*"These came out of your writing this morning. Now they have to survive out loud."*). Luego, todos de pie en circulo: cada estudiante dice su nombre + UNA cosa verdadera en ingles, alternando el tipo: uno con tiempo cerrado (*"Last year I worked in a store"*), el siguiente con tiempo abierto (*"I have studied English for two years"*). El grupo repite la frase del compañero. Energia alta, CERO explicacion de gramatica; los errores que oigas van a tu cuaderno, no al tablero todavia.
+1. **EN PUNTO arrancas (2', puedes hablar en espanol).** Con la puerta abierta y de pie. Di tal cual: *"Cada sesion empieza en punto, a la hora exacta de su horario — no cinco minutos despues. Llegar mas de 15 minutos despues del inicio es llegada tarde, y cada tres llegadas tarde cuentan como una inasistencia para su contrato y para su garantia. No es castigo: el que llega a tiempo a una clase es el que llega a tiempo a una reunion, a una entrevista, a un vuelo. Eso tambien se entrena aqui, y yo lo registro todos los dias."* Abre en tu cuaderno la columna **"llegada tarde"** y anotala HOY.
+2. **PASE + warm-up de pie en cadena (5', sin cuaderno — NO hay recuperacion N-3/N-7, es la primera clase).** Primer minuto (solo si Gramatica ya tuvo su sesion Cl 1 antes que tu): lees en voz alta los 3 errores literales del PASE que te dejo en su ultima sesion (*"These came out of your writing in Grammar. Now they have to survive out loud."*). Si tu sesion es la primera del nivel, arrancas directo con la cadena. Luego, todos de pie en circulo: cada estudiante dice su nombre + UNA cosa verdadera en ingles, alternando el tipo: uno con tiempo cerrado (*"Last year I worked in a store"*), el siguiente con tiempo abierto (*"I have studied English for two years"*). El grupo repite la frase del compañero. Energia alta, CERO explicacion de gramatica; los errores que oigas van a tu cuaderno, no al tablero todavia.
 3. **Frase del Dia (3').** Escrita en el tablero ANTES de que entren. 2 lecturas tuyas + coro 2x + 1 estudiante solo. Glosa en 1 linea: *"Two pasts in one sentence: 'I did' closes the door, 'I have done' leaves it open."* Insertala natural **3+ veces** durante la clase; al cierre 1 estudiante la dice de memoria y otro la usa en una oracion nueva propia.
 4. **Los 5 rituales permanentes, guionados (5', di esto tal cual):**
    - **Frase del Dia:** *"Every class: ONE phrase on the board. We say it, we use it, you leave using it. No copying, no lists, no notebooks."*
    - **Portafolio diario de VIDEO:** *"Every day from today: ONE VIDEO of yourself speaking English. Minimum THREE minutes, straight, no reading, no script. You send it the SAME day to the cohort WhatsApp group. Audio instead of video only when something breaks — maximum twice a week. Before you record, two minutes listening to a speaker with a different accent: your video OPENS with three sentences from that speaker. I WATCH every video, and every class you get ONE thing to fix from it. That is your private coach, every single day."*
    - **Ticket de salida:** *"Last minutes of every class: you write 3 to 5 sentences on paper with today's structure and your name. You hand me the paper. I do not grade it — it travels to coordination."*
    - **Error paper:** *"I write the errors of the day on one paper — no names, ever, in this room. Errors are the road, not the shame."*
-   - **PASE entre pistas:** *"Every day you WRITE and lock the grammar first, at eight, in the Grammar class; at ten you TALK with me and use it. One level, one plan, two voices. What you write at eight comes to me on paper at ten, and what comes out of your mouth here goes back to Grammar on paper for the next class. Nothing gets lost between us, and nothing gets lost between days."*
+   - **PASE entre pistas:** *"One level, one plan, two voices. In Grammar you WRITE and lock it; here you TALK and use it. What you write goes to me on paper, and what you say here goes back to Grammar on paper for its next session. Nothing gets lost between us, and nothing gets lost between days."*
 5. **Cronograma del nivel + condiciones, una sola vez (4', puedes hablar en espanol).** Escribe en el tablero SOLO estos numeros: `Cl 22 MIDTERM · Cl 43 FINAL PRESENTATIONS · Cl 44 FINAL EXAM`. Di: *"44 clases de Conversacion y 44 de Gramatica, 175 horas. Cl 22: MIDTERM, 'My Story, My Goals', 5 minutos cada uno. Cl 43: presentaciones finales. Cl 44: examen final, lo aplica un evaluador externo, no yo."* Y luego, una sola vez, claro y sin adornos: *"Su garantia tiene tres condiciones: asistencia minima del 80% de las clases del nivel; entrega minima del 90% de las tareas, y el video diario cuenta como tarea; y presentar TODAS las evaluaciones del nivel — la evaluacion de entrada que grabamos hoy, la intermedia y el examen final. Las tres se verifican en los registros de la academia. De notas, resultados o calificaciones no hablo yo: eso es coordinacion."* NO comentes formato de examen, NO estimes resultados, NO negocies.
 
-> **[VATS] RITUAL DE VIRTUD — HOY SE PRESENTA LA PRIMERA VIRTUD DEL NIVEL EN ESTA PISTA (6', de pie, en circulo — no se recorta; hoy puede ir en espanol). Gramatica la abrio a las 8:00 con el angulo del papel; tu, con el de hablar.**
+> **[VATS] RITUAL DE VIRTUD — HOY SE PRESENTA LA PRIMERA VIRTUD DEL NIVEL EN ESTA PISTA (6', de pie, en circulo — no se recorta; hoy puede ir en espanol). Gramatica la trabaja en su sesion con el angulo del papel; tu, con el de hablar.**
 > **El porque, para ti:** al estudiante no se le prometio ingles: se le prometio entrenamiento y un destino. Lo que decide si llega no es la gramatica: es si se prepara antes de hablar, si aparece a tiempo, si sostiene el esfuerzo. La primera virtud del nivel es PRUDENCIA: pensar antes de actuar. **Traduccion al aula de hoy:** antes de cada frase, una pregunta — ¿el periodo esta cerrado o sigue abierto?
 > **V — Virtud (2'):** tablero `PRUDENCE — Cl 1 of 5: OPENING`. Presentala: *"Every five classes we train one virtue. The first one is PRUDENCE: thinking before acting, planning, deciding well. In this room it looks like three things: you prepare before you speak, you plan your daily video, you arrive on time. Today it is one question before every sentence: is the time period closed, or still open?"* **El porque, en una frase:** *"We train this because the day you need your English — an interview, a flight, a client — what fails is not your vocabulary: it is your preparation."*
 > **A — Activar (1'):** *"What is one prudent decision you made last year — and one you have made this year?"* 30 segundos de silencio para pensar.
@@ -42,7 +42,7 @@
 **Objective: by the end, each of you has said your English story out loud using BOTH the closed past and the open past — and your starting voice is recorded.**
 
 1. **Avance de proyecto hoy: MY STORY, MY GOALS — piece 0 "Who I am plus my English story" (1').** Di tal cual: *"This level has ONE project: MY STORY, MY GOALS — and at the end you DEFEND it in front of a panel. At Cl 22 you present 5 minutes. We build one piece every single class, starting today."*
-2. **Tablero, 2 columnas (3') — solo uso ORAL; la tabla ya la formalizo Gramatica Cl 1 hoy a las 8:00, aqui NO se re-explica:**
+2. **Tablero, 2 columnas (3') — solo uso ORAL; la tabla la formaliza Gramatica Cl 1 en papel en su sesion, aqui NO se re-explica:**
 ```
 CLOSED PAST (fixed time -> simple past)   |  OPEN PAST (indefinite -> present perfect)
 "Last year I worked in sales."            |  "I have worked in sales."
@@ -56,7 +56,7 @@ ONE QUESTION DECIDES: is the time period CLOSED or still OPEN?
 6. **Ejecucion en parejas, 2 rondas (10'):** cada estudiante DICE su piece 0 a su pareja (90 seg); la pareja verifica en voz alta: 2 lineas de pasado cerrado + 2 de pasado abierto. Cambio de pareja, segunda ronda mas fluida y mas corta. Numero impar = un trio. TODOS hablan dos veces.
 7. **Producto + feedback (7'):** 4-5 estudiantes dicen su piece 0 al grupo. Feedback primero sobre el LOGRO (*"did the story land?"*), despues sobre la forma. Los errores que aparezcan en 2+ parejas van al tablero ANONIMOS, coro 2x; los nombres y las citas literales a tu cuaderno.
 
-> **EN PARALELO TODO EL BLOQUE — EVALUACION ORAL DE ENTRADA GRABADA (obligatoria hoy).** Te sientas en una esquina con tu telefono y llamas a UN estudiante a la vez desde el trabajo en parejas (su pareja se suma a otra pareja o hace trio: la clase NO se detiene y nadie hace fila). **60-90 seg por persona, en video, una sola toma.** Antes de grabar, 10 seg: *"This is your starting photo. Later in this level you will see how far your voice traveled. Speak, do not read."* Los 4 disparadores quedan en una esquina del tablero: `(1) Who are you and what do you do? (2) Why are you studying English? (3) What did you do last weekend? (4) What have you achieved in English this year?` — los 3 y 4 fuerzan el contraste del modulo. NO corriges, NO repites la toma. Etiqueta `B1-4H-ENTRADA-CL1-[nombre]`. Si no alcanzas a todos, **sigues en el Bloque 3 durante las rotaciones**; el cierre no arranca sin la lista completa. Se ENVIAN **HOY MISMO** a la auxiliar administrativa (por WhatsApp, una por una con el nombre del estudiante), que las guarda en el computador de la academia; tu reporte lleva la lista de grabados y faltantes. **Quien no quede grabado hoy (llego tarde, se fue antes) o entre despues como estudiante nuevo se graba en la primera clase a la que asista**, ese mismo dia y con la misma etiqueta: ningun estudiante queda sin grabacion de entrada.
+> **EN PARALELO TODO EL BLOQUE — EVALUACION ORAL DE ENTRADA GRABADA (obligatoria hoy).** Te sientas en una esquina con tu telefono y llamas a UN estudiante a la vez desde el trabajo en parejas (su pareja se suma a otra pareja o hace trio: la clase NO se detiene y nadie hace fila). **60-90 seg por persona, en video, una sola toma.** Antes de grabar, 10 seg: *"This is your starting photo. Later in this level you will see how far your voice traveled. Speak, do not read."* Los 4 disparadores quedan en una esquina del tablero: `(1) Who are you and what do you do? (2) Why are you studying English? (3) What did you do last weekend? (4) What have you achieved in English this year?` — los 3 y 4 fuerzan el contraste del modulo. NO corriges, NO repites la toma. Etiqueta `B1-ENTRADA-CL1-[nombre]`. Si no alcanzas a todos, **sigues en el Bloque 3 durante las rotaciones**; el cierre no arranca sin la lista completa. Se ENVIAN **HOY MISMO** a la auxiliar administrativa (por WhatsApp, una por una con el nombre del estudiante), que las guarda en el computador de la academia; tu reporte lleva la lista de grabados y faltantes. **Quien no quede grabado hoy (llego tarde, se fue antes) o entre despues como estudiante nuevo se graba en la siguiente sesion a la que asista**, en esa misma sesion y con la misma etiqueta: ningun estudiante queda sin grabacion de entrada.
 
 ## BLOQUE 3 — SIMULACION: MEET THE NEW TEAM (25') — ENGLISH ONLY
 
@@ -78,12 +78,13 @@ ONE QUESTION DECIDES: is the time period CLOSED or still OPEN?
    - Plan B sin material: hoja del propio cuaderno, doblada en cuatro y sellada con doblez; nombre, fecha y tipo escritos afuera. CERO material tuyo.
    - **Mientras escriben en silencio, TU escribes la tarea en el tablero.** No hables.
 2. **Ticket de salida (5'):** 3-5 frases con la estructura de hoy — al menos 2 de pasado cerrado (con marca de tiempo) y 2 de *"I have..."* — con nombre en el papel. Se recogen TODOS. NO los evaluas ni comentas: viajan fisicos con el error paper a coordinacion.
-3. **Cierre (6'):** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next class starts at eight o'clock with GRAMMAR Cl 2 and the other teacher: you close this module on paper — the irregular participles and the items of the book that are still open. Bring your notebook. Send your video TODAY. You get feedback every day. Grades and results come only from coordination."*
+3. **Cierre (6'):** 1 estudiante dice la Frase del Dia de memoria + otro la usa en una oracion nueva. Lees la tarea del tablero en voz alta y dices la due date completa. Anuncio: *"Next session: GRAMMAR, with the other teacher: you work this module on paper — the irregular participles and the items of the book that are still open. Bring your notebook. Send your video TODAY. You get feedback every day. Grades and results come only from coordination."*
 
 **Tarea (escrita en el tablero durante el ritual, leida en voz alta al cierre):**
 ```
 HOMEWORK CL 1 (CONVERSATION) — ONE TASK ONLY: THE VIDEO.
-DUE Cl 2, BEFORE 7:00 PM — that is, TODAY before 7:00 PM. NOT NEGOTIABLE.
+DUE: BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl 2). NOT NEGOTIABLE.
+The video goes out TODAY.
 TIME: 40-55 min (10 LISTEN FIRST + 30-45 video). NOT fragmented.
 LISTEN FIRST (5-10 min, BEFORE you record):
 Search on YouTube or a podcast app: "my English learning journey so far".
@@ -96,17 +97,17 @@ straight through, NO reading, NO script on camera.
 Content: your MY STORY piece 0 — who you are, when your English started
 (3 sentences of closed past with a time word) and what you have achieved
 (3 sentences of "I have..."), then close with the Phrase of the Day.
-Send it to the cohort WhatsApp group. Label: B1-4H-VIDEO-1.
+Send it to the cohort WhatsApp group. Label: B1-VIDEO-1.
 Audio only by exception (max 2 a week): the rule is VIDEO.
 ```
 > **LISTEN FIRST es parte fija de la tarea desde hoy:** 2 minutos de un hablante con otro acento + 3 frases repetidas que ABREN el video. No pides entregable aparte ni preparas material. En el chequeo de portafolio de la proxima clase, el video que no abre con sus 3 frases cuenta como incompleto; una sola frase: *"Your video starts with your three sentences. Tomorrow."* Si alguien dice que no le entiende el acento a alguien (incluido un profe): *"Accents are the world. Your ear trains at home, two minutes a day."*
-> **La tarea de esta pista es SOLO el video** — la tarea escrita de este contenido ya la asigno Gramatica hoy a las 8:00 (Grammar Cl 1). No pidas ademas un papel: las tareas de las dos pistas NO se duplican.
+> **La tarea de esta pista es SOLO el video** — la tarea escrita de este contenido la asigna Gramatica en su sesion (Grammar Cl 1). No pidas ademas un papel: las tareas de las dos pistas NO se duplican.
 > Si alguien pide fragmentar o dice que no le dio tiempo, respondes una sola frase y sigues: *"This is what your level requires. We don't lower the bar — we raise your stamina."*
 
 4. **Error paper:** cierra el papel fisico ANONIMO del dia (4-6 errores reales). En tu cuaderno, los mismos errores CON nombre y cita literal para el reporte de coordinacion. Doble protocolo, siempre.
-5. **PASE a GRAMATICA (Grammar Cl 2, a las 8:00 de la proxima clase) — se lo dejas HOY al cerrar a las 12:00**, en papel en la carpeta del cohorte o por mensaje escrito al grupo de docentes. No es opcional y no se pasa de palabra: **la clase siguiente la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo antes de salir:
+5. **PASE al docente de GRAMATICA — lo entregas al terminar tu sesion**, en papel en la carpeta del cohorte o por mensaje escrito al grupo de docentes; va a la siguiente sesion de la otra pista (en jornada de 4 h, Grammar Cl 2; en jornada de 2 h, Grammar Cl 1 la noche siguiente). No es opcional y no se pasa de palabra: **la siguiente sesion la abre otra persona que no estuvo en tu bloque.** Copia este texto y llenalo antes de salir:
 ```
-PASE Conv Cl 1 -> Grammar Cl 2 — de CONVERSACION a GRAMATICA (para las 8:00)
+PASE Conv Cl 1 -> siguiente sesion de Grammar
 Frase del Dia de hoy (solo referencia: Grammar estrena la suya) y
 virtud (PRUDENCIA, Cl 1 de 5) al pie de este papel.
 3 gaps frescos de hoy (error literal, SIN nombre aqui; nombres en mi reporte):
@@ -120,17 +121,17 @@ la evaluacion oral de entrada grabada y enviada a la auxiliar · el cronograma
 garantia dichas una vez · el ritual de anclaje sellado y entregado a
 coordinacion · MY STORY piece 0 lanzado (hablado).
 FALTANTES DE GRABACION DE ENTRADA (grabalos en tu bloque, 60-90 seg): ________
-VIDEO No. 1 = unica tarea que asigne (abre con LISTEN FIRST); vence HOY 7:00 PM.
-Su chequeo publico con lista lo hace Conv Cl 2 a las 10:00: tu solo
+VIDEO No. 1 = unica tarea que asigne (abre con LISTEN FIRST); sale HOY.
+Su chequeo publico con lista lo hace Conv Cl 2: tu solo
 recuerdas la due date. Tu Bloque 1 arranca con estos 3 gaps.
 GRAMMAR CL 2: cierra M17 en papel con lo que el libro deja pendiente (ver tu
-guia). NO REPITAS "MEET THE NEW TEAM" ni "INCIDENT REPORT TO HR" (tu Cl 1).
-TAREA ESCRITA: la asignaste TU esta manana (6 lineas). Yo hoy deje SOLO el video.
+guia). NO REPITAS "MEET THE NEW TEAM" ni "INCIDENT REPORT TO HR" (Grammar Cl 1).
+TAREA ESCRITA: es tuya (Grammar Cl 1, 6 lineas). Yo deje SOLO el video.
 Frase del Dia de hoy: ____________________________________________________
 Virtud: PRUDENCIA, Cl 1 de 5 de esta virtud. Firma Conv: ________ Recibido: ________
 ```
 
-**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ Video No. 1 asignado (vence hoy 7:00 PM; lo chequea Conv Cl 2) ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE de Gramatica leido (recibido a las 10:00) ☐ PASE a Grammar Cl 2 dejado al cerrar a las 12:00 ☐ Sobres cerrados recogidos (Carta y/o Capsula) con lista a coordinacion ☐ **Grabaciones de entrada completas y ENVIADAS HOY a la auxiliar administrativa** (faltantes anotados en el PASE: se graban en su primera clase) ☐ Foto de inicio enviada a las 10:00
+**Checklist de salida:** ☐ Reporte: asistencia + "llegada tarde" ☐ Video No. 1 asignado (sale hoy; lo chequea Conv Cl 2) ☐ Error paper anonimo + libreta con nombres ☐ Tickets (TODOS) engrapados al reporte ☐ Fotos/videos ☐ PASE de Gramatica leido (si lo hubo) ☐ PASE a la siguiente sesion de Grammar entregado al terminar ☐ Sobres cerrados recogidos (Carta y/o Capsula) con lista a coordinacion ☐ **Grabaciones de entrada completas y ENVIADAS HOY a la auxiliar administrativa** (faltantes anotados en el PASE: se graban en la siguiente sesion a la que asistan)
 
 [PAGEBREAK]
 
@@ -164,20 +165,20 @@ Virtud: PRUDENCIA, Cl 1 de 5 de esta virtud. Firma Conv: ________ Recibido: ____
 5. En ambos casos la accion ya se termino, pero: a. "I studied last year." El periodo "last year" esta CERRADO — usamos el pasado simple. b. "I have studied this year." El periodo "this year" sigue ABIERTO — usamos el presente perfecto.
 6. En el negativo e interrogativo hay dos implicaciones diferentes: a. Pasado simple: algo que no ha pasado todavia y no va a pasar en el futuro. "I didn't say hello." b. Presente perfecto: algo que no ha pasado todavia, pero todavia se puede. "I haven't said hello."
 
-**Ya sellado en Grammar Cl 1 (hoy a las 8:00), no se repite en este bloque:** el punto 6 completo (negativo e interrogativo), Exercises 1 p.165 y Verbal Practice 1 (Present Perfect — Short Answer). **Apoyo formal:** Present Perfect regular, A2 M15 p.133-135 — have/has mas participio.
+**Lo sella Grammar Cl 1 en su sesion, no se repite en este bloque:** el punto 6 completo (negativo e interrogativo), Exercises 1 p.165 y Verbal Practice 1 (Present Perfect — Short Answer). **Apoyo formal:** Present Perfect regular, A2 M15 p.133-135 — have/has mas participio.
 
 **Plan B (cero material, todo tablero o voz):**
 - **Drill atascado:** cadena sentada rapida — tu dices la frase, el grupo grita "CLOSED" u "OPEN" en coro y un estudiante la transforma.
 - **Simulacion que no arranca:** cadena de pie — cada uno dice 1 hito con fecha mas 1 logro abierto y nombra al siguiente. Tu sigues fuera del rol.
-- **3+ grabaciones pendientes al entrar al Bloque 4:** recortas el debrief a 2 min y grabas en el pasillo, de uno en uno, durante el ritual de escritura. Al que aun asi no quede grabado hoy, se le graba en la primera clase a la que asista (Grammar Cl 2 a las 8:00: va en el PASE); va anotado como faltante en tu reporte.
-- **Grupo incompleto a las 10:00:** arrancas igual, registras la llegada tarde, el que llega se integra al warm-up sin repetirle nada.
+- **3+ grabaciones pendientes al entrar al Bloque 4:** recortas el debrief a 2 min y grabas en el pasillo, de uno en uno, durante el ritual de escritura. Al que aun asi no quede grabado hoy, se graba en la siguiente sesion a la que asista (va en el PASE); va anotado como faltante en tu reporte.
+- **Grupo incompleto a la hora de inicio:** arrancas igual, registras la llegada tarde, el que llega se integra al warm-up sin repetirle nada.
 - **Sobra tiempo:** "close it / open it" — das una frase con *"I have"* y el grupo la cierra con marca de tiempo, y al contrario.
 
 ## NOTA INTERNA PARA COORDINACION (no se lee en clase)
 
-**Edicion unificada (decision de gerencia):** una sola edicion de contenido para el B1 de la manana (4H) y el nocturno (2H); la maestra es la del nocturno. Esta guia es esa clase con el envoltorio 4H y el orden real de la hoja de arranque 13/10: Gramatica 8:00-10:00 primero, Conv 10:00-12:00 despues, 110 min por pista (B1 25' · B2 35' · B3 25' · B4 25'), PASE el MISMO dia (Grammar -> Conv en papel a las 10:00; Conv -> Grammar al cerrar las 12:00, para la clase siguiente), puntualidad 8:00 / 8:15 y 10:00 / 10:15, foto de inicio a las 10:00 al grupo de docentes, tarea con due "Cl N+1 antes de las 7:00 PM".
+**Edicion unica (decision de gerencia):** esta guia sirve para la jornada de 4 h y la nocturna de 2 h; la secuencia y las horas de cada jornada estan en HOJA_LECTURA_POR_JORNADA. 110 min por pista (B1 25' · B2 35' · B3 25' · B4 25'); cada sesion cierra con PASE escrito a la siguiente sesion de la otra pista; puntualidad: llegada tarde = mas de 15 min despues del inicio; tarea con due "BEFORE YOUR NEXT SESSION OF THIS TRACK (Cl N+1)".
 - **Reglas de las dos pistas (valen para toda clase del nivel):** (1) cada pista estrena su Frase del Dia; la del PASE es solo referencia; la **virtud es la misma** (calendario absoluto por numero de clase, bloques de 5). (2) **PASE escrito**, nunca de palabra: 3 gaps literales sin nombre, Frase de referencia, virtud y "lo que ya se hizo, no lo repitas". (3) Error paper y tickets se entregan a coordinacion **cada dia**, por quien dicto el bloque; los nombres y citas van en el reporte firmado de esa persona. (4) Cada pista lleva su columna "llegada tarde"; coordinacion consolida.
-- **Grammar Cl 1 (8:00) ya sello M17 capa 2** (negativo, pregunta con short answer, "not yet", for) con INCIDENT REPORT TO HR y no adelanto nada de la apertura. **Lo que Grammar Cl 2 necesita saber de esta clase** (va en el PASE): los 5 rituales ya presentados (no se re-presentan) · la **evaluacion oral de entrada ya grabada** (no se regraba; solo faltantes) · el video No. 1 vence hoy a las 7:00 PM (el chequeo publico es Conv Cl 2 a las 10:00) · cronograma y garantia ya dichos una vez.
+- **Grammar Cl 1 sella M17 capa 2** (negativo, pregunta con short answer, "not yet", for) con INCIDENT REPORT TO HR y no adelanta nada de la apertura. **Lo que la siguiente sesion de Grammar necesita saber de esta clase** (va en el PASE): los 5 rituales ya presentados (no se re-presentan) · la **evaluacion oral de entrada ya grabada** (no se regraba; solo faltantes) · el video No. 1 sale hoy (el chequeo publico es Conv Cl 2) · cronograma y garantia ya dichos una vez.
 - **Cronograma del nivel** (el profe lo anuncia hoy una vez y NUNCA comunica notas ni resultados): **MIDTERM "My Story, My Goals" Cl 22** (integrado en la clase regular) · **presentaciones finales Cl 43 (Shark Tank)** · **examen final Cl 44** (evaluador externo — ese dia NO se genera guia).
 
 **MAPA DE HITOS DEL NIVEL — `PLAN DE GERENCIA`, ajustable por coordinacion.** Todos van DENTRO de la guia del dia correspondiente (eventos integrados, sin marcadores separados).
@@ -195,6 +196,6 @@ Virtud: PRUDENCIA, Cl 1 de 5 de esta virtud. Firma Conv: ________ Recibido: ____
 - **Virtud:** Cl 1-5 de cada pista = PRUDENCIA (hoy Cl 1 de 5, abre el nivel).
 - **Proyecto del nivel:** MY STORY, MY GOALS — construido por piezas, una por clase. Piece 0 = hoy.
 - **Mapa modulo-clase (por pista):** Cl 1-2 = A2 M17 present perfect vs simple past · Cl 3 = A1 M4 "Where Should We Live?" (Should) mas A1 M5 "Numbers to 100" · Cl 4 = A1 M6 (Will) mas in/on/at · Cl 5 = A1 M8 + M9 · Cl 6 arranca la marcha del libro. `SUPUESTO DE PLANEACIÓN — verificar` el anclaje modulo-clase del puente con coordinacion.
-- **Doctrina vigente incorporada:** evaluacion oral de entrada grabada (foto de partida del expediente de garantia; se envia el MISMO dia a la auxiliar administrativa) · portafolio = VIDEO DIARIO B1 minimo 3 min que ABRE con las 3 frases del LISTEN FIRST (busqueda de hoy: "my English learning journey so far"), audio solo excepcional (max 2 por semana); el profe verifica que LLEGO · puntualidad 8:00 / 8:15 (y 10:00 / 10:15), cada 3 llegadas tarde = 1 inasistencia · garantia dicha UNA vez · 100% ingles desde el Bloque 2.
+- **Doctrina vigente incorporada:** evaluacion oral de entrada grabada (foto de partida del expediente de garantia; se envia en la misma sesion a la auxiliar administrativa) · portafolio = VIDEO DIARIO B1 minimo 3 min que ABRE con las 3 frases del LISTEN FIRST (busqueda de hoy: "my English learning journey so far"), audio solo excepcional (max 2 por semana); el profe verifica que LLEGO · puntualidad: llegada tarde = mas de 15 min despues del inicio de cada sesion, cada 3 llegadas tarde = 1 inasistencia · garantia dicha UNA vez · 100% ingles desde el Bloque 2.
 - `SUPUESTO DE PLANEACIÓN — verificar`: **lista nuevos vs continuos** de este cohorte (define Carta o Capsula). El protocolo dual del Bloque 4 cubre ambos casos.
-- **Orden del dia (hoja de arranque 13/10):** Gramatica 8:00-10:00 y Conversacion 10:00-12:00. Secuencia de contenido: Grammar Cl 1 -> Conv Cl 1 -> Grammar Cl 2 -> Conv Cl 2. `SUPUESTO DE PLANEACIÓN — verificar`: la apertura formal del nivel (rituales, cronograma, garantia, evaluacion de entrada, Carta/Capsula) se conserva aqui, a las 10:00, aunque Grammar Cl 1 sea el primer contacto; confirmar con coordinacion.
+- **Secuencia entre pistas (edicion unica 4 h / 2 h — ver HOJA_LECTURA_POR_JORNADA):** cada sesion cierra con PASE escrito a la siguiente sesion de la otra pista. `SUPUESTO DE PLANEACIÓN — verificar`: la apertura formal del nivel (rituales, cronograma, garantia, evaluacion de entrada, Carta/Capsula) va en Conv Cl 1: en jornada 2 h es el primer contacto del nivel; en jornada 4 h la precede Grammar Cl 1, que no adelanta la apertura; confirmar con coordinacion.
