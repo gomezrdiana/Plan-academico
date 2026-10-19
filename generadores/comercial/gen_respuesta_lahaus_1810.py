@@ -21,11 +21,11 @@ MSG = """Hola Jaider, gracias por el informe del 13: está claro y se nota el tr
 
 1. SALUDO (sección 01). No cambiamos el saludo. Se mantiene el vigente: "Hola, gracias por escribirnos. Soy el asistente de Heiiu. Para orientarte bien, ¿para qué necesitas el inglés?" Razones: una sola pregunta, la motivación primero y sin superlativos (no decimos "la mejor metodología" de nada). Con esto, por favor actualicen también la confirmación de cita: solo menciona el enlace cuando la cita es por videollamada.
 
-2. SALUDOS POR FLUJO (sección 07). Hoy hay dos flujos activos y uno pausado:
+2. SALUDOS POR FLUJO (sección 07). Hoy hay un solo flujo activo:
    a) Clic a WhatsApp: la campaña nueva que entró el 19 de octubre (reemplaza a la del 15, que quedó pausada). Los videos entran con un mensaje prellenado que trae el código del video entre paréntesis (V1, V3, V4). Saludo: "Hola, gracias por escribirnos por el video. Soy el asistente de Heiiu. Para orientarte bien, ¿para qué necesitas el inglés?" Si el prellenado ya trae el motivo (por ejemplo V4: "Necesito el inglés para..."), el agente omite el paso 1, pide el nombre y sigue con el paso 2.
-   b) Formulario, campaña HEIIU_FORM_CONTROL_1510. El formulario trae el motivo (trabajo / irme del país / estudio / mi hijo). Saludo: "Hola, [nombre]. Gracias por dejarnos tus datos. Soy el asistente de Heiiu. Vi que el inglés es para [motivo del formulario]; para orientarte bien, ¿es para ti o para alguien más?" Si el motivo no se puede leer, usa el saludo del punto 1.
+   b) Formulario: por ahora no hay campañas de formulario activas. Cuando volvamos a prender una, el saludo será: "Hola, [nombre]. Gracias por dejarnos tus datos. Soy el asistente de Heiiu. Vi que el inglés es para [motivo del formulario]; para orientarte bien, ¿es para ti o para alguien más?" Les avisamos antes de activarla.
    c) Reactivación: sin saludo nuevo; no habrá reactivaciones hasta nuevo aviso.
-   Campañas pausadas: Au Pair 25/08, Curso Inglés 30/09, Curso Inglés 13/10 y la de clic a WhatsApp del 15/10. En ningún saludo aparece "Arranque de octubre" ni el nombre de un programa.
+   Campañas pausadas: Au Pair 25/08, Curso Inglés 30/09, Curso Inglés 13/10, el formulario de control 1510 y la de clic a WhatsApp del 15/10. En ningún saludo aparece "Arranque de octubre" ni el nombre de un programa.
 
 3. FILTROS DE AGENDA (sección 03). No pedimos cambios: con Modalidad (llamada, virtual, presencial) y Estado nos basta. Solo confirmen que el mensaje al lead dice "por llamada de WhatsApp a este mismo número" o, si es video, trae el enlace.
 
