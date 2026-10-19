@@ -12,7 +12,7 @@ NAR = RGBColor(0xE5, 0x4C, 0x09); GRIS = RGBColor(0x66, 0x66, 0x66)
 BASE = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\LINKEDIN DIANA GOMEZ\Candidatos\John Hinestroza'
 d = Document()
 for s in d.sections:
-    s.top_margin = Cm(0.7); s.bottom_margin = Cm(0.5); s.left_margin = Cm(1.4); s.right_margin = Cm(1.4)
+    s.top_margin = Cm(0.6); s.bottom_margin = Cm(0.4); s.left_margin = Cm(1.3); s.right_margin = Cm(1.3)
 d.styles['Normal'].font.name = 'Calibri'; d.styles['Normal'].font.size = Pt(8)
 def t(txt, size=8, bold=False, color=None, after=1, align=None):
     p = d.add_paragraph(); p.paragraph_format.space_after = Pt(after)
@@ -48,7 +48,7 @@ bullets([
  'Metas trimestrales crecientes y escalones de básico según la tabla del anexo, que cubre los primeros 24 meses y se conoce desde la firma. El esquema de comisiones y metas se revisa cada año según rendimiento, de común acuerdo y por escrito.'])
 
 sec('3. Periodo de prueba y revisión de resultados')
-t('El periodo de prueba se evalúa con ventas, no solo con gestión, en dos cortes. Día 30, miércoles 18 de noviembre de 2026: al menos una venta firmada con el pago inicial recibido o una alianza activada. Día 45, jueves 3 de diciembre de 2026: como mínimo $30.000.000 en ventas firmadas con el pago inicial recibido, por cualquier canal (plan empresa, alianzas, programas personalizados o base de la academia). "Venta firmada" tiene la misma definición de la propuesta y del anexo: valor total del contrato firmado por la academia con el pago inicial recibido, de contado o a cuotas. La continuidad del cargo después de cada corte depende de ese resultado. Estos cortes no modifican la garantía de ingreso de los meses 1 a 3, que se paga siempre que se cumplan los indicadores de gestión y firmas.', after=1)
+t('El periodo de prueba se evalúa con ventas, no solo con gestión, en dos cortes. Día 30, miércoles 18 de noviembre de 2026: al menos una venta firmada con el pago inicial recibido o una alianza activada. Día 45, jueves 3 de diciembre de 2026: como mínimo $30.000.000 en ventas firmadas con el pago inicial recibido, por cualquier canal (plan empresa, alianzas, programas personalizados o base de la academia). "Venta firmada" tiene la misma definición de la propuesta y del anexo: valor total del contrato firmado por la academia con el pago inicial recibido, de contado o a cuotas. La continuidad del cargo después de cada corte depende de ese resultado. Los cortes no modifican la garantía de los meses 1 a 3, que se paga siempre que se cumplan los indicadores.', after=1)
 
 sec('4. Forma de trabajo')
 bullets([
@@ -59,7 +59,7 @@ bullets([
  'Cierra con las tarifas y los documentos estándar de la academia; no está facultado para otorgar descuentos. Convenios y órdenes los firma el representante legal.'])
 
 sec('5. La realidad de la empresa y el arranque')
-t('El cargo se acepta conociendo la realidad de la academia: una empresa pequeña, en crecimiento, donde los resultados se necesitan rápido. La intención es que el arranque tome el menor tiempo posible: en el día y medio de inducción se hacen simulaciones de reunión con el decisor y de charla, llamadas reales a empresas y acompañamiento a las primeras citas, con el kit de trabajo como base. El resto del producto se aprende en la calle y en el seguimiento diario, con gerencia al lado.', after=1)
+t('El cargo se acepta conociendo la realidad de la academia: una empresa pequeña, en crecimiento, donde los resultados se necesitan rápido. El arranque busca tomar el menor tiempo posible: en el día y medio de inducción se hacen simulaciones de reunión y de charla, llamadas reales a empresas y acompañamiento a las primeras citas, con el kit de trabajo como base. El resto se aprende en la calle y en el seguimiento diario, con gerencia al lado.', after=1)
 
 sec('6. Aceptación y firma')
 bullets([
