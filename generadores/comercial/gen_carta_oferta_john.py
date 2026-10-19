@@ -63,7 +63,7 @@ t('El cargo se acepta conociendo la realidad de la academia: una empresa pequeñ
 
 sec('6. Aceptación y firma')
 bullets([
- 'La oferta se acepta respondiendo por escrito, para alcanzar los exámenes de ingreso el lunes 19 y el inicio el martes 20.',
+ 'Aceptación por escrito lo antes posible, para organizar los exámenes de ingreso y el inicio.',
  'Exámenes médicos de ingreso el lunes 19, por cuenta de la empresa (la orden se envía con la aceptación). Firma del contrato y del anexo de compensación el martes 20 a las 8:00 a. m. en la sede, con la cédula. Los demás documentos se entregan a coordinación a más tardar el miércoles 21 a las 6:00 p. m.: RUT, certificados de afiliación a EPS y fondo de pensiones, hoja de vida y certificados laborales. El pago de nómina se hace en una cuenta del banco de la academia; la apertura se indica el martes.',
  'Esta oferta reemplaza cualquier conversación anterior sobre los términos del cargo y pierde vigencia si no se acepta en el plazo indicado.'])
 t('', after=3)
