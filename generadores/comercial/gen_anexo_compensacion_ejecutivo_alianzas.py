@@ -29,23 +29,28 @@ def tabla(rows):
             r = c[j].paragraphs[0].add_run(v); r.font.size = Pt(9)
     d.add_paragraph().paragraph_format.space_after = Pt(2)
 
-# ---------- Nota para el abogado ----------
-p('NOTA PARA EL ABOGADO (retirar antes de firmar)', True, 12, NAR)
-p('Borrador del anexo de compensación y metas para el cargo de Ejecutivo(a) de Alianzas Empresariales, que se firmaría junto con el contrato laboral (término a definir). Agradecemos revisar en especial:', after=3)
-for t in ['1. Naturaleza salarial: básico, comisiones, acelerador y garantía de ingreso mínimo se tratan como salario (art. 127 CST). Confirmar la redacción y la base de liquidación de prestaciones y seguridad social.',
-          '2. Metas crecientes pactadas desde la firma (cláusulas 5 y 6): validar que la tabla trimestral y el aumento automático desde el mes 25 queden bien pactados y no se interpreten como modificación unilateral (SL1183-2018).',
-          '3. Comisión de cartera decreciente (6% en los 12 meses siguientes a la firma de la matrícula del estudiante, 3% del mes 13 al 24, 0% después): validar redacción.',
-          '4. Terminación (cláusula 10): decisión de gerencia: a la terminación solo se pagan comisiones sobre lo recaudado hasta esa fecha; nada sobre recaudos posteriores ni cartera. Validar que la redacción sea suficiente y no se entienda como renuncia a derechos causados.',
-          '5. Incumplimiento de indicadores (cláusula 9): si se quiere que el incumplimiento reiterado pueda ser justa causa (SL520-2025), indicar si debe incluirse también en el Reglamento Interno de Trabajo.',
-          '6. Tipo de contrato y período de prueba (decisión de gerencia): contrato a término INDEFINIDO con período de prueba de DOS (2) MESES. Redactar la terminación dentro del período de prueba con causa objetiva documentada (indicadores de gestión y resultados registrados en el tablero y en las actas de seguimiento diario), de modo que la decisión al día 45 (revisión del 11/12/2026) quede soportada.',
-          '7. Confidencialidad y no captación de empresas aliadas y estudiantes tras la terminación: indicar alcance válido.']:
-    p(t, after=2)
-p('', after=6)
+import sys
+FIRMA = '--firma' in sys.argv
+if not FIRMA:
+    # ---------- Nota para el abogado ----------
+    p('NOTA PARA EL ABOGADO (retirar antes de firmar)', True, 12, NAR)
+    p('Borrador del anexo de compensación y metas para el cargo de Ejecutivo(a) de Alianzas Empresariales, que se firmaría junto con el contrato laboral (término a definir). Agradecemos revisar en especial:', after=3)
+    for t in ['1. Naturaleza salarial: básico, comisiones, acelerador y garantía de ingreso mínimo se tratan como salario (art. 127 CST). Confirmar la redacción y la base de liquidación de prestaciones y seguridad social.',
+              '2. Metas crecientes pactadas desde la firma (cláusulas 5 y 6): validar que la tabla trimestral y el aumento automático desde el mes 25 queden bien pactados y no se interpreten como modificación unilateral (SL1183-2018).',
+              '3. Comisión de cartera decreciente (6% en los 12 meses siguientes a la firma de la matrícula del estudiante, 3% del mes 13 al 24, 0% después): validar redacción.',
+              '4. Terminación (cláusula 10): decisión de gerencia: a la terminación solo se pagan comisiones sobre lo recaudado hasta esa fecha; nada sobre recaudos posteriores ni cartera. Validar que la redacción sea suficiente y no se entienda como renuncia a derechos causados.',
+              '5. Incumplimiento de indicadores (cláusula 9): si se quiere que el incumplimiento reiterado pueda ser justa causa (SL520-2025), indicar si debe incluirse también en el Reglamento Interno de Trabajo.',
+              '6. Tipo de contrato y período de prueba (decisión de gerencia): contrato a término INDEFINIDO con período de prueba de DOS (2) MESES. Redactar la terminación dentro del período de prueba con causa objetiva documentada (indicadores de gestión y resultados registrados en el tablero y en las actas de seguimiento diario), de modo que la decisión al día 45 (revisión del 11/12/2026) quede soportada.',
+              '7. Confidencialidad y no captación de empresas aliadas y estudiantes tras la terminación: indicar alcance válido.']:
+        p(t, after=2)
+    p('', after=6)
 
 # ---------- Anexo ----------
 p('ANEXO No. 1 AL CONTRATO DE TRABAJO', True, 13, NAR, WD_ALIGN_PARAGRAPH.CENTER, after=2)
 p('ESQUEMA DE COMPENSACIÓN, METAS E INDICADORES — EJECUTIVO(A) DE ALIANZAS EMPRESARIALES', True, 11, None, WD_ALIGN_PARAGRAPH.CENTER, after=8)
-p('Entre GLOBAL TEACHER S.A.S. (Heiiu English Academy), NIT __________, representada legalmente por __________________, en adelante EL EMPLEADOR, y __________________, identificado(a) con C.C. __________, en adelante EL TRABAJADOR, se acuerda el presente anexo, que hace parte integral del contrato de trabajo suscrito el ____ / ____ / ______.', after=8)
+INTRO_FIRMA = 'Entre GLOBAL TEACHER S.A.S. (Heiiu English Academy), NIT 900.422.478-2, representada legalmente por DIANA MARCELA GÓMEZ RANGEL, C.C. 63.552.709, en adelante EL EMPLEADOR, y JOHN HINESTROZA, identificado con C.C. ____________________, en adelante EL TRABAJADOR, se acuerda el presente anexo, que hace parte integral del contrato de trabajo suscrito el 20 de octubre de 2026.'
+INTRO_BORR = 'Entre GLOBAL TEACHER S.A.S. (Heiiu English Academy), NIT __________, representada legalmente por __________________, en adelante EL EMPLEADOR, y __________________, identificado(a) con C.C. __________, en adelante EL TRABAJADOR, se acuerda el presente anexo, que hace parte integral del contrato de trabajo suscrito el ____ / ____ / ______.'
+p(INTRO_FIRMA if FIRMA else INTRO_BORR, after=8)
 
 cl(1, 'OBJETO DEL CARGO', 'EL TRABAJADOR desarrollará el canal corporativo e institucional de la academia: prospección y relacionamiento con empresas, áreas de bienestar, fundaciones y colegios, incluida la participación en ferias escolares, universitarias y empresariales; presentación de la propuesta de valor; negociación y cierre de convenios de alianza (Heiiu Business Partner) y de órdenes de plan empresa; cierre de programas personalizados para ejecutivos; activación de las alianzas firmadas; y propuesta de nuevas oportunidades de programas y mercados. La atención de prospectos individuales que llegan por publicidad y canales digitales corresponde al equipo de asesoría comercial.')
 cl(2, 'SALARIO BÁSICO', 'EL TRABAJADOR devengará un salario básico mensual equivalente al salario mínimo legal mensual vigente, más el auxilio de transporte legal cuando haya lugar ($1.750.905 + $249.095 en 2026, Decretos 1469 y 1470 de 2025). El básico se ajusta cada año según el decreto del Gobierno Nacional. El básico aumentará por escalones de resultado según la cláusula 7.')
@@ -76,5 +81,6 @@ p('_______________________________                    __________________________
 p('EL EMPLEADOR                                                         EL TRABAJADOR', after=0)
 
 out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\ANEXO_COMPENSACION_EJECUTIVO_ALIANZAS_BORRADOR.docx'
+if FIRMA: out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\LINKEDIN DIANA GOMEZ\Candidatos\John Hinestroza\ANEXO_1_COMPENSACION_JOHN_PARA_FIRMA.docx'
 try: d.save(out); print('OK', out)
 except PermissionError: d.save(out.replace('.docx', '_v2.docx')); print('ABIERTO -> _v2')
