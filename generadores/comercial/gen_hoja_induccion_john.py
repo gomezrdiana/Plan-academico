@@ -52,7 +52,7 @@ bullets([
  'Exámenes de ingreso hechos hoy con la orden firmada. Coordinación avisada: nómina en cuenta del banco de la academia (abrirla esta semana), documentos a más tardar el miércoles 6 pm, RUT.',
  'Impresos: kit de arranque (secciones 1 a 11; la 12 y la 13 son del reto y no aplican), su anexo, 3 órdenes plan empresa, 3 convenios, 5 cartas de postulación, flyer "Dos caminos", 10 hojas de interesados.',
  'Tablero de alianzas (TABLERO_ALIANZAS.xlsx) compartido en Drive con él y contigo; su lista de prospectos (PROSPECTOS EMPRESAS + 40 EMPLEADOS.xlsx) a la mano para cargarla.',
- 'Número de cuenta de Heiiu para pagos, en un papel. Decidido: cuántos contactos de la base de la academia le entregas el miércoles (sugerido: 20, los más recientes sin cita).'])
+ 'Número de cuenta de Heiiu para pagos, en un papel. Lista de los 18 leads calientes del panel de LaHaus (filtro Agendando y Agendado) impresa o en pantalla para el bloque de las 4:00; y decidido cuántos contactos más de la base le entregas el miércoles.'])
 
 sec('Martes 20')
 tabla([
@@ -65,14 +65,14 @@ tabla([
  ('12:30', 'Almuerzo', ''),
  ('2:00', '7. Su mensaje al gerente', 'Lo escribe él para tres empresas de su lista (una clínica, una fundación, una caja). Tú lo lees como gerente con los 6 criterios del kit (no abrir con "academia de inglés" ni con quién paga; un pedido de 15 minutos; sin precios; "sin costo para la empresa"; dos opciones de hora). Se ajusta y se manda en vivo.'),
  ('3:00', '8. Simulaciones', 'Dos reuniones de 10 minutos: tú eres la gerente de una clínica de 80 empleados y luego la directora de una fundación. Él lleva la reunión de 6 pasos con plan empresa primero. Dos correcciones por simulación, no diez. Luego 5 minutos de charla a empleados.'),
- ('4:00', '9. Llamadas reales', 'Diez llamadas a su lista para agendar reuniones de esta semana, contigo al lado. Objetivo del día: 3 reuniones agendadas en el tablero.'),
+ ('4:00', '9. Llamadas reales: los 18 calientes', 'Le entregas los 18 leads del panel de LaHaus (filtro Agendando y Agendado) con el guion de cierre: primero los que asistieron y no cerraron, luego citas pendientes e inasistencias, luego los que empezaron a agendar. Lee la conversación de cada uno antes de llamar. Llamada, no mensaje; sin precios por teléfono; cada resultado anotado en el lead. Objetivo del día: 5 asesorías agendadas para esta semana y toda separación que salga.'),
  ('5:00', '10. Cierre del día', 'Él te presenta el reporte: contactados, reuniones agendadas, qué faltó. Reglas innegociables leídas por él. Mañana 8:45 presencial.'),
 ], [1.2, 3.4, 13.6])
 
 sec('Miércoles 21')
 tabla([
  ('8:45', '1. Primer seguimiento', 'Lo presenta él, 15 minutos: resultados de ayer frente al plan y empresas de hoy. Así va a ser todos los días.'),
- ('9:00', '2. Base de la academia', 'Le entregas los contactos asignados con el guion de cierre en cita y las reglas del agente (precio solo con beca, cita por llamada, sin descuentos). Primeras 5 llamadas contigo al lado; luego solo. Estas ventas cuentan completas para los cortes de la prueba.'),
+ ('9:00', '2. Base de la academia', 'Sigue con los 18 que no contestaron ayer (segunda llamada) y con los contactos nuevos que le asignes, con el guion de cierre en cita y las reglas del agente (precio solo con beca, cita por llamada, sin descuentos). Estas ventas cuentan completas para los cortes de la prueba.'),
  ('10:30', '3. Acompañamiento', 'Si ya tiene una reunión agendada, van juntos; si no, llamadas a empresas de su lista hasta tener 2 reuniones más para el jueves y el viernes.'),
  ('12:00', 'A la calle', 'Viernes 24, 8:45, presencial: cierre de la primera semana con el tablero.'),
 ], [1.2, 3.4, 13.6])
