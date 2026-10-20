@@ -61,7 +61,7 @@ p = d.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_form
 r = p.add_run('PRUEBA PRÁCTICA — UN VIDEO DE 20 SEGUNDOS, DESDE TU CASA'); r.bold = True; r.font.size = Pt(11)
 
 sec('1. Qué es la prueba')
-t('Te asignamos un tema (la ficha al final de este documento). Tú escribes el guion de un video de 20 segundos, lo grabas desde tu casa, lo editas y lo entregas junto con el guion escrito. En el cargo real, el contenido orgánico de las dos marcas (Heiiu y PCG Constructora) es híbrido: unas veces gerencia entrega el guion y otras lo escribe el CM a partir de una idea. En esta prueba lo escribes tú, porque es lo que necesitamos ver. Para este ejercicio usaremos la academia. No buscamos producción de agencia: buscamos criterio, mensaje y ejecución limpia. Puedes apoyarte en las herramientas que quieras para escribir; lo que evaluamos es que el mensaje respete las reglas y suene a una persona hablándole a otra, no a una plantilla.')
+t('Te asignamos un tema (la ficha al final de este documento). Tú escribes el guion de un video de 20 segundos, lo grabas desde tu casa, lo editas y lo entregas junto con el guion escrito. En el cargo real, el contenido orgánico de las dos marcas (Heiiu y PCG Constructora) es híbrido: unas veces gerencia entrega el guion y otras lo escribe el CM a partir de una idea. En esta prueba lo escribes tú a partir de la idea de la ficha, y además cumples tal cual las tres instrucciones fijas que trae la ficha: así vemos las dos cosas, criterio propio y seguir instrucciones. Para este ejercicio usaremos la academia. No buscamos producción de agencia: buscamos criterio, mensaje y ejecución limpia. Puedes apoyarte en las herramientas que quieras para escribir; lo que evaluamos es que el mensaje respete las reglas y suene a una persona hablándole a otra, no a una plantilla.')
 t('La prueba no tiene pago. Si la academia publica tu video en sus redes o en pauta, te paga $100.000 por la pieza, pases o no el proceso. Se publique o no, puedes usar el video en tu portafolio.', bold=True)
 
 sec('2. El mensaje de la academia (lo que no cambia, sea cual sea el tema; la constructora tiene sus propias reglas, que se entregan aparte)')
@@ -93,7 +93,7 @@ sec('5. Cómo se evalúa (pasa quien cumple los 7)')
 tabla(['Criterio', 'Qué se revisa'], [
  ('1. Gancho', 'Los primeros 2 segundos detienen el dedo sin atribuirle una carencia a quien mira. Nada prohibido.'),
  ('2. Mensaje', 'El video dice lo que pide la ficha, con el tono de la sección 2: serio, concreto, para quien se le mide. Nada prohibido en voz, subtítulo ni pantalla.'),
- ('3. Guion', 'Entregado en la tabla de cuatro columnas y ejecutado como se escribió. Se nota que primero se pensó y después se grabó.'),
+ ('3. Guion e instrucciones', 'Guion entregado en la tabla de cuatro columnas y ejecutado como se escribió. Las tres instrucciones fijas de la ficha cumplidas tal cual. Se nota que primero se pensó y después se grabó.'),
  ('4. Subtítulos', 'Grandes, palabra por palabra, dentro de la zona segura, sin errores de ortografía.'),
  ('5. Formato y nombre', '9:16, 1080x1920, MP4, 18 a 25 segundos, nombre exacto, enviado por correo o enlace sin comprimir.'),
  ('6. Audio e imagen', 'Voz limpia sin eco ni ruido; encuadre estable; persona real a cámara; sin aro de luz.'),
@@ -108,32 +108,37 @@ FICHAS = [
   'Jóvenes y profesionales desde los 17 años que ven vacantes o convocatorias que piden inglés y las pasan de largo.',
   'En Heiiu el estudiante no termina con un certificado: termina con su hoja de vida en inglés, su video de presentación grabado y su entrevista ensayada (es nuestro módulo Pasaporte, pero no digas el nombre). La idea en una frase: "El inglés no te da el puesto; te quita la excusa que hoy te lo cierra."',
   ['"Consigue trabajo", "te contratan", "en X meses". Se vende preparación, jamás empleo.', 'Nombrar LinkedIn como promesa: puede aparecer como contexto ("la vacante que viste ayer"), no como resultado garantizado.'],
-  'Una hoja con la palabra "INGLÉS: AVANZADO" escrita a mano, como en una hoja de vida, y la persona diciendo: "Esto no se escribe. Se entrena."'),
+  'Una hoja con la palabra "INGLÉS: AVANZADO" escrita a mano, como en una hoja de vida, y la persona diciendo: "Esto no se escribe. Se entrena."',
+  'En algún momento del video se escribe a mano, frente a la cámara y legible, la cifra "575 h" (las horas del programa completo).'),
  ('B', 'EL PACIENTE QUE ESCRIBE EN INGLÉS',
   'Recepcionistas, asistentes y coordinadoras, desde los 17 años, de clínicas estéticas, odontológicas y consultorios de Bucaramanga que reciben pacientes del exterior.',
   'El paciente extranjero escribe por WhatsApp, llama para confirmar la cita, pregunta por las indicaciones después del procedimiento, y la respuesta se demora o pasa por el doctor. En Heiiu se entrena exactamente eso: cada clase tiene una simulación real (una llamada, una cita, una explicación) con el profesor corrigiendo. La idea en una frase: "La clínica atiende pacientes de afuera. La recepción también debería."',
   ['Prometer que la clínica va a recibir más pacientes o que la persona va a ganar más.', 'Nombrar clínicas o marcas reales.'],
-  'La persona con el celular en la mano leyendo un mensaje en inglés (inventado, sin nombres) y levantando la mirada: "¿Y ahora quién le responde?"'),
+  'La persona con el celular en la mano leyendo un mensaje en inglés (inventado, sin nombres) y levantando la mirada: "¿Y ahora quién le responde?"',
+  'En algún momento del video se dice, en inglés y a cámara, una frase completa de atención al paciente (por ejemplo, confirmar una cita), con su subtítulo.'),
  ('C', 'ENFERMERÍA EN INGLÉS',
   'Enfermeras, auxiliares y estudiantes de enfermería de Bucaramanga, desde los 17 años.',
   'En un turno llega un paciente que solo habla inglés: hay que entender qué le duele, explicar un procedimiento, tranquilizar. Y las convocatorias que piden inglés existen y pasan de largo. En Heiiu se entrena con simulaciones de ese tipo: paciente, médico, familiar; el profesor como mentor que corrige y pide cuentas. La idea en una frase: "Entender al paciente no es un lujo. Es parte del cuidado."',
   ['"Visa", "trabaja en Estados Unidos", "contrato afuera" o cualquier promesa de migración o empleo.', 'Nombrar hospitales, clínicas o programas de reclutamiento.'],
-  'La persona en uniforme (o con una bata sencilla) a cámara, sin escenario de hospital, diciendo la primera frase de una simulación en inglés y luego, en español: "Esto se practica. Aquí, todos los días."'),
+  'La persona en uniforme (o con una bata sencilla) a cámara, sin escenario de hospital, diciendo la primera frase de una simulación en inglés y luego, en español: "Esto se practica. Aquí, todos los días."',
+  'En algún momento del video aparece en pantalla, en texto grande, la palabra "GARANTÍA POR ESCRITO" en naranja de marca.'),
  ('D', 'ASÍ SE APRENDE AQUÍ',
   'Cualquier persona desde los 17 años que ya intentó aprender inglés y no pasó del nivel básico.',
   'Una clase en Heiiu no es sentarse a copiar: desde el primer día se habla, se practica, uno se equivoca, se frustra, y el profesor, que es un mentor, corrige y lo repite hasta que sale. Todos los días el estudiante graba un video corto en inglés y lo recibe de vuelta con una mejora. Se dice de frente que no es fácil, y por eso hay garantía por escrito. La idea en una frase: "Aquí te vas a frustrar. Y vas a salir hablando."',
   ['Nombres de métodos o de enfoques pedagógicos. Se dice "clases inmersivas, activas y prácticas", nada más.', '"Fácil", "divertido", "sin esfuerzo", "aprende jugando".', 'Mostrar o nombrar estudiantes reales (se graba desde tu casa; la academia no aparece).'],
-  'La persona escribe en una hoja "FÁCIL" y lo tacha; debajo escribe "INTENSO". Y a cámara: "Lo primero no te lo vamos a decir. Lo segundo, sí."'),
+  'La persona escribe en una hoja "FÁCIL" y lo tacha; debajo escribe "INTENSO". Y a cámara: "Lo primero no te lo vamos a decir. Lo segundo, sí."',
+  'En algún momento del video se dice, tal cual: "Todos los días grabas un video corto en inglés y tu profesor te lo devuelve con una mejora."'),
 ]
 d.add_page_break()
 sec('7. Las fichas (cada candidato recibe una)')
-for letra, titulo, publico, idea, no, gancho in FICHAS:
+for letra, titulo, publico, idea, no, gancho, fijo in FICHAS:
     t('FICHA ' + letra + ' · ' + titulo, bold=True, size=10.5, after=1)
     tabla(['', ''], [
      ('A quién le habla', publico),
      ('Qué tiene que decir (la idea; las palabras son tuyas)', idea),
      ('Lo que no se dice en esta ficha, además de la lista general', ' · '.join(no)),
      ('Un gancho posible (puedes proponer otro)', gancho),
+     ('Tres instrucciones fijas (se cumplen tal cual)', '1. ' + fijo + ' · 2. La frase final, dicha tal cual: "Pregúntanos qué fecha te queda. Escríbenos." · 3. El logo de Heiiu aparece solo en el último segundo; antes, nunca.'),
      ('Archivo', 'CMP_' + letra + '_20s.mp4'),
     ], [4.6, 12.6])
 out = BASE + r'\PRUEBA_4_VIDEOS_CM.docx'
