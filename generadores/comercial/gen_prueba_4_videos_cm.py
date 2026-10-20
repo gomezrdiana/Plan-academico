@@ -56,20 +56,21 @@ def mk(d):
 # =============================================================== BRIEF + FICHAS
 d = nuevo(); sec, t, bullets, caja, tabla = mk(d)
 p = d.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(0)
-r = p.add_run('HEIIU ENGLISH ACADEMY · COMMUNITY MANAGER'); r.bold = True; r.font.size = Pt(13); r.font.color.rgb = NAR
+r = p.add_run('HEIIU ENGLISH ACADEMY + PCG CONSTRUCTORA · COMMUNITY MANAGER DOS MARCAS'); r.bold = True; r.font.size = Pt(13); r.font.color.rgb = NAR
 p = d.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(6)
 r = p.add_run('PRUEBA PRÁCTICA — UN VIDEO DE 20 SEGUNDOS, DESDE TU CASA'); r.bold = True; r.font.size = Pt(11)
 
 sec('1. Qué es la prueba')
-t('Te asignamos un tema (la ficha al final de este documento). Tú escribes el guion de un video de 20 segundos, lo grabas desde tu casa, lo editas y lo entregas junto con el guion escrito. Es el trabajo real del cargo en el contenido orgánico: recibir una idea y convertirla en una pieza que respete el mensaje de la academia. No buscamos producción de agencia: buscamos criterio, mensaje y ejecución limpia.')
-t('La prueba no tiene pago. Si la academia publica tu video en sus redes o en pauta, te paga $100.000 por la pieza, pases o no el proceso. Si no se publica, el video sigue siendo tuyo y puedes usarlo en tu portafolio.', bold=True)
+t('Te asignamos un tema (la ficha al final de este documento). Tú escribes el guion de un video de 20 segundos, lo grabas desde tu casa, lo editas y lo entregas junto con el guion escrito. Es el trabajo real del cargo en el contenido orgánico de las dos marcas, Heiiu y PCG Constructora: recibir una idea y convertirla en una pieza que respete el mensaje de cada marca. Para este ejercicio usaremos la academia. No buscamos producción de agencia: buscamos criterio, mensaje y ejecución limpia.')
+t('La prueba no tiene pago. Si la academia publica tu video en sus redes o en pauta, te paga $100.000 por la pieza, pases o no el proceso. Se publique o no, puedes usar el video en tu portafolio.', bold=True)
 
-sec('2. El mensaje de la academia (lo que no cambia, sea cual sea el tema)')
+sec('2. El mensaje de la academia (lo que no cambia, sea cual sea el tema; la constructora tiene sus propias reglas, que se entregan aparte)')
 bullets([
  'No vendemos que el inglés sea fácil, rápido ni divertido. Vendemos entrenamiento con garantía por escrito: si cumples y no avanzas, te devolvemos el nivel. Quien mira debe sentir que esto es serio y que es para quien se le mide.',
  'Hablamos de lo que la persona va a poder hacer (atender a un paciente, responder en una reunión, tener su hoja de vida en inglés), nunca de lo que le falta. El gancho no le atribuye una carencia a quien mira: nada de "¿No sabes inglés?" ni "¿Te da pena hablar?".',
  'Prohibido en voz, subtítulo o texto en pantalla: precio · "fácil" · "gratis" · "descuento" · "rápido" sin un número · "garantizado en X meses" · "consigue trabajo" · "visa" · "profesores nativos" · nombres de métodos · nombres de otras academias · nombres de programas internos · días de la semana.',
- 'Cierre siempre a WhatsApp: "Escríbenos" o "Pregúntanos", con el logo de Heiiu solo en el último segundo.'])
+ 'Cierre siempre a WhatsApp: "Escríbenos" o "Pregúntanos", con el logo de Heiiu solo en el último segundo.',
+ 'Todos los videos le hablan a personas desde los 17 años. No se hacen piezas dirigidas a menores.'])
 
 sec('3. Reglas de grabación y edición')
 bullets([
@@ -84,9 +85,9 @@ bullets([
 sec('4. Qué entregas y cuándo')
 bullets([
  'El guion escrito, en una tabla de cuatro columnas: segundos · qué se ve · qué dice la persona (tal cual) · texto en pantalla. Se entrega antes de grabar si quieres comentarios, o junto con el video.',
- 'El video terminado, nombrado CMP_[letra de tu ficha]_20s.mp4, enviado al WhatsApp de gerencia como DOCUMENTO, no como video, para que no se comprima.',
+ 'El video terminado, nombrado CMP_[letra de tu ficha]_20s.mp4, enviado por correo electrónico al correo que te indicamos al confirmar, como adjunto o como enlace de Drive o WeTransfer, para que no se comprima. Nunca como video por WhatsApp.',
  'Fecha de entrega: ' + FECHA_ENTREGA + '. Si necesitas otra fecha, la propones al confirmar; lo que se acuerda se cumple.',
- 'Dudas antes de grabar, por WhatsApp a gerencia. Lo que no esté en la ficha se pregunta; preferimos la pregunta a la suposición.'])
+ 'Dudas antes de grabar, por correo. Lo que no esté en la ficha se pregunta; preferimos la pregunta a la suposición.'])
 
 sec('5. Cómo se evalúa (pasa quien cumple los 7)')
 tabla(['Criterio', 'Qué se revisa'], [
@@ -94,32 +95,32 @@ tabla(['Criterio', 'Qué se revisa'], [
  ('2. Mensaje', 'El video dice lo que pide la ficha, con el tono de la sección 2: serio, concreto, para quien se le mide. Nada prohibido en voz, subtítulo ni pantalla.'),
  ('3. Guion', 'Entregado en la tabla de cuatro columnas y ejecutado como se escribió. Se nota que primero se pensó y después se grabó.'),
  ('4. Subtítulos', 'Grandes, palabra por palabra, dentro de la zona segura, sin errores de ortografía.'),
- ('5. Formato y nombre', '9:16, 1080x1920, MP4, 18 a 25 segundos, nombre exacto, enviado como documento.'),
+ ('5. Formato y nombre', '9:16, 1080x1920, MP4, 18 a 25 segundos, nombre exacto, enviado por correo o enlace sin comprimir.'),
  ('6. Audio e imagen', 'Voz limpia sin eco ni ruido; encuadre estable; persona real a cámara; sin aro de luz.'),
  ('7. Entrega', 'En la fecha acordada, con el guion. Las mejoras que propongas al tema se conversan antes de grabar, no se improvisan.'),
 ], [3.4, 13.8])
 
 sec('6. Qué pasa después')
-t('Si pasas, se firma el contrato de prestación de servicios para las dos marcas (Heiiu y PCG Constructora) en las condiciones conversadas: anuncios de pauta desde guiones escritos por gerencia, grabados en la academia con profesores y estudiantes, y contenido orgánico con parrilla mensual e informe de resultados. Publicar hace parte del trabajo.')
+t('Si pasas, se firma el contrato de prestación de servicios para las dos marcas, Heiiu y PCG Constructora, en las condiciones conversadas. En cada marca el trabajo tiene dos partes: los anuncios de pauta desde guiones escritos por gerencia (en la academia, grabados con profesores y estudiantes; en la constructora, en sus proyectos), y el contenido orgánico con parrilla mensual e informe de resultados (Heiiu: Instagram, TikTok y Facebook; PCG Constructora: Instagram y Facebook). Publicar hace parte del trabajo.')
 
 FICHAS = [
  ('A', 'TU HOJA DE VIDA EN INGLÉS, LISTA',
-  'Profesionales de 25 a 40 años que ven vacantes que piden inglés y las pasan de largo.',
+  'Jóvenes y profesionales desde los 17 años que ven vacantes o convocatorias que piden inglés y las pasan de largo.',
   'En Heiiu el estudiante no termina con un certificado: termina con su hoja de vida en inglés, su video de presentación grabado y su entrevista ensayada (es nuestro módulo Pasaporte, pero no digas el nombre). La idea en una frase: "El inglés no te da el puesto; te quita la excusa que hoy te lo cierra."',
   ['"Consigue trabajo", "te contratan", "en X meses". Se vende preparación, jamás empleo.', 'Nombrar LinkedIn como promesa: puede aparecer como contexto ("la vacante que viste ayer"), no como resultado garantizado.'],
   'Una hoja con la palabra "INGLÉS: AVANZADO" escrita a mano, como en una hoja de vida, y la persona diciendo: "Esto no se escribe. Se entrena."'),
  ('B', 'EL PACIENTE QUE ESCRIBE EN INGLÉS',
-  'Recepcionistas, asistentes y coordinadoras de clínicas estéticas, odontológicas y consultorios de Bucaramanga que reciben pacientes del exterior.',
+  'Recepcionistas, asistentes y coordinadoras, desde los 17 años, de clínicas estéticas, odontológicas y consultorios de Bucaramanga que reciben pacientes del exterior.',
   'El paciente extranjero escribe por WhatsApp, llama para confirmar la cita, pregunta por las indicaciones después del procedimiento, y la respuesta se demora o pasa por el doctor. En Heiiu se entrena exactamente eso: cada clase tiene una simulación real (una llamada, una cita, una explicación) con el profesor corrigiendo. La idea en una frase: "La clínica atiende pacientes de afuera. La recepción también debería."',
   ['Prometer que la clínica va a recibir más pacientes o que la persona va a ganar más.', 'Nombrar clínicas o marcas reales.'],
   'La persona con el celular en la mano leyendo un mensaje en inglés (inventado, sin nombres) y levantando la mirada: "¿Y ahora quién le responde?"'),
  ('C', 'ENFERMERÍA EN INGLÉS',
-  'Enfermeras y auxiliares de enfermería de Bucaramanga, de 22 a 40 años.',
+  'Enfermeras, auxiliares y estudiantes de enfermería de Bucaramanga, desde los 17 años.',
   'En un turno llega un paciente que solo habla inglés: hay que entender qué le duele, explicar un procedimiento, tranquilizar. Y las convocatorias que piden inglés existen y pasan de largo. En Heiiu se entrena con simulaciones de ese tipo: paciente, médico, familiar; el profesor como mentor que corrige y pide cuentas. La idea en una frase: "Entender al paciente no es un lujo. Es parte del cuidado."',
   ['"Visa", "trabaja en Estados Unidos", "contrato afuera" o cualquier promesa de migración o empleo.', 'Nombrar hospitales, clínicas o programas de reclutamiento.'],
   'La persona en uniforme (o con una bata sencilla) a cámara, sin escenario de hospital, diciendo la primera frase de una simulación en inglés y luego, en español: "Esto se practica. Aquí, todos los días."'),
  ('D', 'ASÍ SE APRENDE AQUÍ',
-  'Cualquier adulto que ya intentó aprender inglés y no pasó del nivel básico.',
+  'Cualquier persona desde los 17 años que ya intentó aprender inglés y no pasó del nivel básico.',
   'Una clase en Heiiu no es sentarse a copiar: desde el primer día se habla, se practica, uno se equivoca, se frustra, y el profesor, que es un mentor, corrige y lo repite hasta que sale. Todos los días el estudiante graba un video corto en inglés y lo recibe de vuelta con una mejora. Se dice de frente que no es fácil, y por eso hay garantía por escrito. La idea en una frase: "Aquí te vas a frustrar. Y vas a salir hablando."',
   ['Nombres de métodos o de enfoques pedagógicos. Se dice "clases inmersivas, activas y prácticas", nada más.', '"Fácil", "divertido", "sin esfuerzo", "aprende jugando".', 'Mostrar o nombrar estudiantes reales (se graba desde tu casa; la academia no aparece).'],
   'La persona escribe en una hoja "FÁCIL" y lo tacha; debajo escribe "INTENSO". Y a cámara: "Lo primero no te lo vamos a decir. Lo segundo, sí."'),
