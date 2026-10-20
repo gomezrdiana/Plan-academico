@@ -38,6 +38,5 @@ i = s.index('# ---------------------------------------------------------------- 
 s = s[:i] + s[j:]
 s = s.replace(r"out = BASE + r'\KIT_ARRANQUE_RETO_15_DIAS_ALIANZAS.docx'",
               r"out = BASE + r'\LINKEDIN DIANA GOMEZ\Candidatos\John Hinestroza\KIT_ARRANQUE_GERENTE_ALIANZAS.docx'")
-s = s.replace("      '',
-", '')
+s = s.replace("      '',\n", '')  # quita la línea vacía que dejó la rutina en la portada
 exec(compile(s, SRC, 'exec'))
