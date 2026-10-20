@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """KIT DE ARRANQUE del GERENTE DE ALIANZAS EMPRESARIALES (cargo indefinido). Deriva del kit del reto
 (gen_kit_arranque_reto_alianzas.py, única fuente del contenido): misma oferta, precios, documentos, reunión, charla,
-objeciones y reglas; sin meta del reto, sin secciones 12-13, con tablero en vez de planilla y seguimiento 8:45.
+objeciones y reglas; sin meta del reto, sin secciones 12-13, con tablero en vez de planilla y seguimiento 8:30.
 Salida (fuera de git): Candidatos/John Hinestroza/KIT_ARRANQUE_GERENTE_ALIANZAS.docx (+PDF).
 Correr desde la raíz: python generadores/comercial/gen_kit_arranque_gerente_alianzas.py"""
 import os, re
@@ -29,7 +29,7 @@ R = [
  ('Una sola fecha de inicio: martes 3 de noviembre.', 'Una sola fecha de inicio por grupo: la que fija gerencia (el próximo abre el martes 3 de noviembre).'),
  ('van solo en la planilla y en la hoja física', 'van solo en el tablero y en la hoja física'),
  ('Toda empresa queda registrada en el formato antes de la primera reunión.', 'Toda empresa queda registrada en el tablero antes de la primera reunión; la empresa es de quien la registra primero, por 60 días.'),
- ('15 minutos con gerencia todos los días a las 8:30 a. m., sin cancelar. La planilla al día, todos los días, antes de esa llamada.', 'Seguimiento con gerencia todos los días a las 8:45 a. m., sin cancelar. El tablero al día, todos los días, antes de esa hora.'),
+ ('15 minutos con gerencia todos los días a las 8:30 a. m., sin cancelar. La planilla al día, todos los días, antes de esa llamada.', 'Seguimiento con gerencia todos los días a las 8:30 a. m., sin cancelar. El tablero al día, todos los días, antes de esa hora.'),
 ]
 for a, b in R:
     assert a in s, 'NO ENCONTRADO: ' + a[:60]

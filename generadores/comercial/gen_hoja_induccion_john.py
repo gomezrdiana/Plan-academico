@@ -44,7 +44,7 @@ def tabla(filas, anchos):
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(0)
 r = p.add_run('INDUCCIÓN DEL GERENTE DE ALIANZAS — DÍA Y MEDIO'); r.bold = True; r.font.size = Pt(13); r.font.color.rgb = NAR
 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(4)
-r = p.add_run('Martes 20 de octubre (8:00 a 5:30) y miércoles 21 (8:45 a 12:00) · Sede · Hoja de gerencia · Él habla más que tú: en cada bloque él explica y tú corriges'); r.font.size = Pt(8.5); r.font.color.rgb = GRIS
+r = p.add_run('Martes 20 de octubre (8:00 a 5:30) y miércoles 21 (8:30 a 12:00) · Sede · Hoja de gerencia · Él habla más que tú: en cada bloque él explica y tú corriges'); r.font.size = Pt(8.5); r.font.color.rgb = GRIS
 
 sec('Hoy lunes, antes de mañana (checklist)')
 bullets([
@@ -66,19 +66,19 @@ tabla([
  ('2:00', '7. Su mensaje al gerente', 'Lo escribe él para tres empresas de su lista (una clínica, una fundación, una caja). Tú lo lees como gerente con los 6 criterios del kit (no abrir con "academia de inglés" ni con quién paga; un pedido de 15 minutos; sin precios; "sin costo para la empresa"; dos opciones de hora). Se ajusta y se manda en vivo.'),
  ('3:00', '8. Simulaciones', 'Dos reuniones de 10 minutos: tú eres la gerente de una clínica de 80 empleados y luego la directora de una fundación. Él lleva la reunión de 6 pasos con plan empresa primero. Dos correcciones por simulación, no diez. Luego 5 minutos de charla a empleados.'),
  ('4:00', '9. Llamadas reales: los 18 calientes', 'Le entregas los 18 leads del panel de LaHaus (filtro Agendando y Agendado) con el guion de cierre: primero los que asistieron y no cerraron, luego citas pendientes e inasistencias, luego los que empezaron a agendar. Lee la conversación de cada uno antes de llamar. Llamada, no mensaje; sin precios por teléfono; cada resultado anotado en el lead. Objetivo del día: 5 asesorías agendadas para esta semana y toda separación que salga.'),
- ('5:00', '10. Cierre del día', 'Él te presenta el reporte: contactados, reuniones agendadas, qué faltó. Reglas innegociables leídas por él. Mañana 8:45 presencial.'),
+ ('5:00', '10. Cierre del día', 'Él te presenta el reporte: contactados, reuniones agendadas, qué faltó. Reglas innegociables leídas por él. Mañana 8:30 presencial.'),
 ], [1.2, 3.4, 13.6])
 
 sec('Miércoles 21')
 tabla([
- ('8:45', '1. Primer seguimiento', 'Lo presenta él, 15 minutos: resultados de ayer frente al plan y empresas de hoy. Así va a ser todos los días.'),
+ ('8:30', '1. Primer seguimiento', 'Lo presenta él, 15 minutos: resultados de ayer frente al plan y empresas de hoy. Así va a ser todos los días.'),
  ('9:00', '2. Base de la academia', 'Sigue con los 18 que no contestaron ayer (segunda llamada) y con los contactos nuevos que le asignes, con el guion de cierre en cita y las reglas del agente (precio solo con beca, cita por llamada, sin descuentos). Estas ventas cuentan completas para los cortes de la prueba.'),
  ('10:30', '3. Acompañamiento', 'Si ya tiene una reunión agendada, van juntos; si no, llamadas a empresas de su lista hasta tener 2 reuniones más para el jueves y el viernes.'),
- ('12:00', 'A la calle', 'Viernes 24, 8:45, presencial: cierre de la primera semana con el tablero.'),
+ ('12:00', 'A la calle', 'Viernes 24, 8:30, presencial: cierre de la primera semana con el tablero.'),
 ], [1.2, 3.4, 13.6])
 
 sec('Lo que no se hace')
-t('No se le muestra el esquema ni el nombre del otro comercial. No se le dan precios ni condiciones que no estén en el kit y en el anexo. No se alarga la inducción: lo que falte se resuelve en los seguimientos de las 8:45.', size=9)
+t('No se le muestra el esquema ni el nombre del otro comercial. No se le dan precios ni condiciones que no estén en el kit y en el anexo. No se alarga la inducción: lo que falte se resuelve en los seguimientos de las 8:30.', size=9)
 
 out = BASE + r'\HOJA_INDUCCION_JOHN_2026-10-20.docx'
 try: doc.save(out); print('OK', out)
