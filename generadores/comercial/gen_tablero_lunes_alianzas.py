@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-"""Hoja del viernes para el ANALISTA DE INDICADORES (rol): 30 min con el Gerente de Alianzas leyendo el tablero.
+"""Hoja del lunes para el ANALISTA DE INDICADORES (rol): 30 min con el Gerente de Alianzas leyendo el tablero de la semana cerrada.
 5 indicadores por semana contra meta, 3 preguntas, 2 fechas de corte, y el embudo del lunes en 3 líneas.
-Salida (git): recursos/comercial/INDUCCION_COMERCIAL/contratacion comercial/TABLERO_VIERNES_ALIANZAS.docx (+PDF)."""
+Salida (git): recursos/comercial/INDUCCION_COMERCIAL/contratacion comercial/TABLERO_LUNES_ALIANZAS.docx (+PDF)."""
 from docx import Document
 from docx.shared import Pt, RGBColor, Cm
 from docx.enum.text import WD_ALIGN_PARAGRAPH
@@ -9,7 +9,7 @@ from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 
 NAR = RGBColor(0xE5, 0x4C, 0x09); GRIS = RGBColor(0x66, 0x66, 0x66); BLANCO = RGBColor(0xFF, 0xFF, 0xFF)
-OUT = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\TABLERO_VIERNES_ALIANZAS.docx'
+OUT = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\TABLERO_LUNES_ALIANZAS.docx'
 d = Document()
 for s in d.sections:
     s.top_margin = Cm(1.0); s.bottom_margin = Cm(0.8); s.left_margin = Cm(1.5); s.right_margin = Cm(1.5)
@@ -42,12 +42,12 @@ def tabla(hdr, filas, anchos, size=9):
     d.add_paragraph().paragraph_format.space_after = Pt(0)
 
 p = d.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(0)
-r = p.add_run('TABLERO DE LOS VIERNES — ALIANZAS EMPRESARIALES'); r.bold = True; r.font.size = Pt(13); r.font.color.rgb = NAR
+r = p.add_run('TABLERO DE LOS LUNES — ALIANZAS EMPRESARIALES'); r.bold = True; r.font.size = Pt(13); r.font.color.rgb = NAR
 p = d.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(5)
-r = p.add_run('Para el analista de indicadores · Viernes 8:30 a. m., 30 minutos, presencial · El Gerente de Alianzas presenta, el analista lee y anota · Gerencia decide'); r.font.size = Pt(8.5); r.font.color.rgb = GRIS
+r = p.add_run('Para el analista de indicadores · Lunes en la tarde, hora fija, 30 minutos, presencial en la sede · El Gerente de Alianzas presenta la semana cerrada el viernes, el analista lee y anota · Gerencia decide'); r.font.size = Pt(8.5); r.font.color.rgb = GRIS
 
-sec('1. Los cinco indicadores (del tablero de alianzas, semana cerrada el jueves)')
-tabla(['Indicador', 'Meta semanal', 'Meta mes 1', 'Sem 1\n24/10', 'Sem 2\n31/10', 'Sem 3\n7/11', 'Sem 4\n14/11', 'Sem 5\n21/11', 'Sem 6\n28/11'], [
+sec('1. Los cinco indicadores (del tablero de alianzas, semana cerrada el viernes)')
+tabla(['Indicador', 'Meta semanal', 'Meta mes 1', 'Lun\n27/10', 'Mar\n3/11', 'Lun\n9/11', 'Lun\n16/11', 'Lun\n23/11', 'Lun\n30/11'], [
  ('1. Empresas contactadas con quien decide', '10', '40', '', '', '', '', '', ''),
  ('2. Reuniones con decisor hechas', '3', '12', '', '', '', '', '', ''),
  ('3. Alianzas firmadas / activadas', '', '2 firmas', '', '', '', '', '', ''),
@@ -67,9 +67,9 @@ tabla(['Corte', 'Fecha', 'Qué tiene que haber', 'Qué pasa si no'], [
  ('Día 30', 'Miércoles 18 de noviembre', 'Al menos una venta firmada con pago inicial recibido, o una alianza activada', 'El cargo no continúa (periodo de prueba)'),
  ('Día 45', 'Jueves 3 de diciembre', '$30.000.000 recibidos en caja (contado e iniciales), por cualquier canal', 'El cargo no continúa (periodo de prueba)'),
 ], [2.0, 3.6, 6.6, 5.0], size=8.5)
-t('El viernes anterior a cada corte (13 de noviembre y 27 de noviembre) el analista escribe en la hoja, con el número del tablero: "va a cumplir / no va a cumplir". Gerencia decide con ese papel delante.', size=9)
+t('El lunes anterior a cada corte (16 de noviembre y 30 de noviembre) el analista escribe en la hoja, con el número del tablero: "va a cumplir / no va a cumplir". Gerencia decide con ese papel delante. La semana del festivo del 2 de noviembre la reunión es el martes 3.', size=9)
 
-sec('4. El lunes: embudo de la semana en tres líneas (lo manda el analista a gerencia)')
+sec('4. En la misma reunión: embudo de la semana en tres líneas (lo anota el analista y se lo deja a gerencia)')
 bullets([
  'Pauta: gasto de la semana, leads, conversaciones (export de Meta o dato del trafficker).',
  'Citas: agendadas, asistidas, separaciones, matrículas (panel de LaHaus y coordinación).',

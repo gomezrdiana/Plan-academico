@@ -77,7 +77,7 @@ tabla([
  ('9:45', '4. Su mensaje al gerente', 'Lo escribe para tres empresas de su lista (una clínica, una fundación y una más). Tú lo lees como gerente con los 6 criterios del kit. Se ajusta y se manda en vivo.'),
  ('10:15', '5. Simulaciones', 'Con las tarjetas: clínica y fundación, 10 minutos cada una, dos correcciones por simulación. Luego la charla de 5 minutos.'),
  ('11:00', '6. Los 18 calientes', 'Le entregas la hoja de los 18 del panel de LaHaus y el guion de cierre: primero los que asistieron y no cerraron, luego citas pendientes e inasistencias, luego los que empezaron a agendar. Lee la conversación de cada uno antes de llamar. Llamada, no mensaje; sin precios por teléfono; resultado anotado en cada lead. Objetivo: 5 asesorías agendadas para esta semana.'),
- ('12:30', 'A la calle', 'Tarde: reuniones o llamadas a su lista hasta tener 2 reuniones para jueves y viernes. Jueves 8:30 seguimiento. Viernes 24, 8:30, presencial con el analista de indicadores: cierre de la primera semana con el tablero.'),
+ ('12:30', 'A la calle', 'Tarde: reuniones o llamadas a su lista hasta tener 2 reuniones para jueves y viernes. Jueves 8:30 seguimiento. Viernes 24, 8:30, cierre de la primera semana contigo. Lunes 27 en la tarde, presencial, primera lectura del tablero con el analista de indicadores.'),
 ], [1.2, 3.4, 13.6])
 
 sec('Lo que no se hace')
