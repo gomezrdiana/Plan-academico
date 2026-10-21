@@ -56,9 +56,10 @@ tabla(['Grupo', 'Leads', 'Respondieron', 'Citas agendadas', 'Citas asistidas', '
 t('Gana el flujo con más citas ASISTIDAS por lead, no el que más agenda. Separación y matrícula las seguimos nosotros por grupo. Jaider trae en qué paso se cae cada lead desde el 20/10.', size=8.5, color=GRIS)
 
 sec('2. Reactivación de octubre (enviada hoy jueves 9:00 a. m., o viernes si Meta no aprobó)')
-tabla(['Enviados', 'Entregados', 'Botón "quiero mi fecha"', 'Botón "más adelante"', '"Ya no" / BAJA', 'Respondieron por texto', 'Citas'], [('', '', '', '', '', '', '')],
-      [2.3, 2.3, 3.0, 2.8, 2.2, 3.0, 2.0])
-t('Reserva del bot anterior (unos 1.500) sale la primera semana de noviembre con la misma plantilla. "Más adelante" entra a la reactivación de la semana del 23 de noviembre.', size=8.5, color=GRIS)
+tabla(['Plantilla', 'Enviados', 'Entregados', 'Botón "quiero mi fecha"', 'Botón "más adelante"', '"Ya no" / BAJA', 'Por texto', 'Citas'],
+      [('A · perder la oportunidad', '', '', '', '', '', '', ''), ('B · que no te dé miedo hablar', '', '', '', '', '', '', '')],
+      [3.6, 1.8, 1.9, 2.7, 2.4, 2.0, 1.7, 1.7])
+t('Dos plantillas mitad y mitad; la que dé más citas por enviado se queda para la reserva del bot anterior (unos 1.500), que sale la primera semana de noviembre. "Más adelante" entra a la reactivación de la semana del 23 de noviembre.', size=8.5, color=GRIS)
 
 sec('3. Tres reglas del agente que se piden hoy (vienen de un caso real probado en otra empresa)')
 bullets([

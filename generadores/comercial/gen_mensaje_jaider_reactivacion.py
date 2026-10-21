@@ -23,18 +23,24 @@ def h(t):
     r = x.add_run(t); r.bold = True; r.font.size = Pt(11); r.font.color.rgb = NAR
 
 p('MENSAJE A JAIDER (LAHAUS) — REACTIVACIÓN DE OCTUBRE · 21/10/2026', True, 12, NAR, 2)
-p('Interno. Enviar por el grupo de WhatsApp como un solo mensaje, con la pieza PIEZA_REACTIVACION_OCTUBRE_HEIIU.png adjunta. '
+p('Interno. Enviar por el grupo de WhatsApp como un solo mensaje, con las dos piezas PIEZA_REACTIVACION_OCTUBRE_A_HEIIU.png y _B_ adjuntas. '
   'Lo que va entre corchetes lo decide Diana antes de enviar.', False, 9, GRIS, 8, True)
 
 p('Jaider, de acuerdo con la reactivación y con aprovechar la fecha: la montamos ya. Te dejo todo en un solo mensaje para que quede configurada hoy y salga mañana jueves a las 9:00 a. m.')
 
-h('1. Plantilla de saludo (texto exacto, con la imagen adjunta arriba)')
+h('1. Dos plantillas de saludo, mitad y mitad (texto exacto, cada una con su imagen arriba)')
+p('Se reparten alternando en la lista (uno A, uno B), sin importar el último dígito del teléfono, para que la prueba de flujo no se mezcle con esta. Se mide por plantilla: botones, respuestas por texto y citas.', size=9.5, color=GRIS)
+p('PLANTILLA A (imagen A):', True, after=2)
 p('Hola {{cName}}, soy el asistente de Heiiu. Hace un tiempo nos escribiste por el inglés y la conversación se quedó ahí.\n\n'
-  'Te lo decimos de frente, que para eso es octubre: lo que da miedo no es el inglés. Es la próxima entrevista, el viaje o el cliente de afuera que llegan sin él.\n\n'
+  'Te lo decimos de frente, que para eso es octubre: lo que debería darte miedo no es el inglés, es perder la oportunidad. La entrevista, el viaje o el cliente de afuera llegan igual, con o sin él.\n\n'
+  'El último grupo del año arranca en noviembre y todavía hay cupo, con garantía de aprendizaje por escrito. ¿Lo retomamos?', size=10, after=6)
+p('PLANTILLA B (imagen B):', True, after=2)
+p('Hola {{cName}}, soy el asistente de Heiiu. Hace un tiempo nos escribiste por el inglés y la conversación se quedó ahí.\n\n'
+  'Que no te dé miedo hablar inglés: aquí se habla desde la primera clase, en grupos pequeños y con un profesor al lado que te corrige ahí mismo.\n\n'
   'El último grupo del año arranca en noviembre y todavía hay cupo, con garantía de aprendizaje por escrito. ¿Lo retomamos?', size=10, after=4)
 p('Botones: [Sí, quiero mi fecha] · [Más adelante] · [Ya no me interesa]', True)
 p('Línea final de la plantilla: "Si no quieres recibir más mensajes, responde BAJA."', size=9.5, color=GRIS)
-p('Sin nombre de programa, sin precio, sin "descuento" ni "gratis". La imagen va arriba, como en los ejemplos que me mandaste.', size=9.5, color=GRIS, after=6)
+p('Las dos llevan los mismos botones y la misma línea de BAJA. Sin nombre de programa, sin precio, sin "descuento", "gratis" ni "fácil". La imagen va arriba, como en los ejemplos que me mandaste.', size=9.5, color=GRIS, after=6)
 
 h('2. Qué hace el agente con cada botón')
 p('• "Sí, quiero mi fecha": entra al flujo normal desde el paso 1 ("¿para qué necesitas el inglés?"), respeta la prueba A/B por último dígito del teléfono (par = 7 pasos, impar = flujo corto) y agenda la cita. '
@@ -52,7 +58,7 @@ p('• La reserva grande (unos 1.500 del bot anterior) queda para la primera sem
 h('4. Envío y rescate')
 p('• Hora: jueves 22 a las 9:00 a. m., dentro del horario legal. Si Meta no aprueba la plantilla a tiempo, se corre al viernes 23 a las 9:00; no se manda en la tarde.')
 p('• Nuestra asesora hace barridos a las 12:00 y a las 6:00 p. m. en el filtro de contacto humano y en las conversaciones que se quedaron a mitad de flujo. Lo que se cae a mitad de camino lo llama ella el mismo día.')
-p('• Lo que te pido para la reunión de mañana a las 10:00: cuántos se enviaron, cuántos entregados, cuántos respondieron por botón y por texto, y cuántas citas, separado de pauta.', after=6)
+p('• Lo que te pido para la reunión de mañana a las 10:00: cuántos se enviaron, cuántos entregados, cuántos respondieron por botón y por texto, y cuántas citas, separado por plantilla (A y B) y aparte de pauta.', after=6)
 
 h('5. Una regla nueva, que sale de un caso que probé en otra empresa')
 p('Cuando el agente recibe algo que no está en el flujo (dos preguntas a la vez, un cálculo, una petición rara), nunca reinicia la conversación ni vuelve a pedir el nombre. Responde "eso te lo resuelve la asesora, te la paso ahora", manda la notificación y conserva el contexto. '
