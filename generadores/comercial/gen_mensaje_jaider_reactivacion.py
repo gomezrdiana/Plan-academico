@@ -33,21 +33,21 @@ p('Se reparten alternando en la lista (uno A, uno B), sin importar el último d�
 p('PLANTILLA A (imagen A):', True, after=2)
 p('Hola {{cName}}, soy el asistente de Heiiu. Hace un tiempo nos escribiste por el inglés y la conversación se quedó ahí.\n\n'
   'Este Halloween te lo decimos de frente: lo que debería darte miedo no es el inglés, es perder la oportunidad. La entrevista, el viaje o el cliente de afuera llegan igual, con o sin él.\n\n'
-  'El último grupo del año arranca en noviembre y todavía hay cupo, con garantía de aprendizaje por escrito. ¿Lo retomamos?', size=10, after=6)
+  'El último grupo del año arranca en noviembre y todavía hay cupo, con garantía de aprendizaje por escrito. ¿Para qué lo quieres: viajar, trabajar o estudiar?', size=10, after=6)
 p('PLANTILLA B (imagen B):', True, after=2)
 p('Hola {{cName}}, soy el asistente de Heiiu. Hace un tiempo nos escribiste por el inglés y la conversación se quedó ahí.\n\n'
   'Este Halloween, que no te dé miedo hablar inglés: aquí se habla desde la primera clase, en grupos pequeños y con un profesor al lado que te corrige ahí mismo.\n\n'
-  'El último grupo del año arranca en noviembre y todavía hay cupo, con garantía de aprendizaje por escrito. ¿Lo retomamos?', size=10, after=4)
-p('Botones: [Sí, quiero mi fecha] · [Más adelante] · [Ya no me interesa]', True)
-p('Línea final de la plantilla: "Si no quieres recibir más mensajes, responde BAJA."', size=9.5, color=GRIS)
+  'El último grupo del año arranca en noviembre y todavía hay cupo, con garantía de aprendizaje por escrito. ¿Para qué lo quieres: viajar, trabajar o estudiar?', size=10, after=4)
+p('Botones: [Viajar] · [Trabajar] · [Estudiar]', True)
+p('Línea final de la plantilla: "Si es para tu negocio o para otra persona, escríbenos. Si no quieres recibir más mensajes, responde BAJA."', size=9.5, color=GRIS)
 p('Las dos llevan los mismos botones y la misma línea de BAJA. Sin nombre de programa, sin precio, sin "descuento", "gratis" ni "fácil". La imagen va arriba, como en los ejemplos que me mandaste.', size=9.5, color=GRIS, after=6)
 
 h('2. Qué hace el agente con cada botón')
-p('• "Sí, quiero mi fecha": entra al flujo normal desde el paso 1 ("¿para qué necesitas el inglés?"), respeta la prueba A/B por último dígito del teléfono (par = 7 pasos, impar = flujo corto) y agenda la cita. '
+p('• Cualquier botón (Viajar, Trabajar o Estudiar) ES la respuesta al paso 1 ("¿para qué necesitas el inglés?"): el agente no la vuelve a preguntar, sigue con el paso 2, respeta la prueba A/B por último dígito del teléfono (par = 7 pasos, impar = flujo corto) y agenda la cita. '
   'Si el lead pregunta la fecha exacta, el agente responde: "La fecha y la jornada te las confirma la asesora en la cita; por eso la agendamos ya", y sigue al paso pendiente. No inventa fechas.')
-p('• "Más adelante": despedida corta y queda marcado para la reactivación de noviembre (la de la semana del 23). No se le insiste esta semana.')
-p('• "Ya no me interesa" o BAJA: despedida y se excluye de todas las reactivaciones.')
-p('• Si responde con texto en vez de botón, el agente lo trata como respuesta al paso 1 y sigue. Si pregunta precio dos veces o "cuánto mensual", notificación a nuestra asesora, como ya está configurado.', after=6)
+p('• Si escribe "más adelante", "ahora no" o parecido: despedida corta y queda marcado para la reactivación de noviembre (la de la semana del 23). No se le insiste esta semana.')
+p('• "Ya no", "no me interesa" o BAJA: despedida y se excluye de todas las reactivaciones.')
+p('• Si responde con texto en vez de botón (negocio, para un hijo, una pregunta), el agente lo trata como respuesta al paso 1 y sigue. Si pregunta precio dos veces o "cuánto mensual", notificación a nuestra asesora, como ya está configurado.', after=6)
 
 h('3. A quién se le envía (en este orden) y a quién no')
 p('• Sí: todos los leads de la plataforma en estado cerrado o sin respuesta, incluidos los de la reactivación del 6 de octubre que no contestaron y los de pauta de octubre que se enfriaron.')

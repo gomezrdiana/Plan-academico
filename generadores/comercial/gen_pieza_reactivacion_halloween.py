@@ -75,7 +75,7 @@ def pieza(key, cfg):
     d.text((72, 696), 'Presencial en Bucaramanga · única academia con garantía de aprendizaje por escrito', font=font('calibri.ttf', 24), fill=GRIS)
     bx, by, bw, bh = 72, 736, 400, 64
     d.rounded_rectangle([bx, by, bx + bw, by + bh], radius=14, fill=AMAR)
-    d.text((bx + 34, by + 15), 'Quiero mi fecha  →', font=font('calibrib.ttf', 30), fill=BG)
+    d.text((bx + 34, by + 15), 'Dinos para qué  →', font=font('calibrib.ttf', 30), fill=BG)
 
     cards = [('UN TRABAJO', 'la vacante que hoy\npasas de largo'), ('UN VIAJE', 'pasar inmigración con\ntus propias respuestas'),
              ('UN ESTUDIO', 'la beca o el posgrado\nsin ese requisito'), ('UN NEGOCIO', 'clientes de afuera\nsin traductor')]
@@ -91,7 +91,7 @@ def pieza(key, cfg):
         d.rectangle([cx + 22, cy + 22, cx + 70, cy + 26], fill=NAR)
         d.text((cx + 22, cy + 40), tit, font=font('calibrib.ttf', 25), fill=AMAR)
         d.multiline_text((cx + 22, cy + 82), sub, font=font('calibri.ttf', 22), fill=CREMA, spacing=6)
-    d.text((x0, y0 - 40), 'LO QUE NOS DIJISTE QUE QUERÍAS', font=font('calibrib.ttf', 20), fill=GRIS)
+    d.text((x0, y0 - 42), '¿QUIERES VIAJAR, TRABAJAR O ESTUDIAR?', font=font('calibrib.ttf', 22), fill=AMAR)
 
     ix, iy, isz = W - 72 - 300, 784, 30
     d.rounded_rectangle([ix, iy, ix + isz, iy + isz], radius=9, outline=AMAR, width=3)
