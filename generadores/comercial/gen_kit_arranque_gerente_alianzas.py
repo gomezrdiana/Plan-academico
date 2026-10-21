@@ -30,6 +30,10 @@ R = [
  ('van solo en la planilla y en la hoja física', 'van solo en el tablero y en la hoja física'),
  ('Toda empresa queda registrada en el formato antes de la primera reunión.', 'Toda empresa queda registrada en el tablero antes de la primera reunión; la empresa es de quien la registra primero, por 60 días.'),
  ('15 minutos con gerencia todos los días a las 8:30 a. m., sin cancelar. La planilla al día, todos los días, antes de esa llamada.', 'Seguimiento con gerencia todos los días a las 8:30 a. m., sin cancelar. El tablero al día, todos los días, antes de esa hora.'),
+ ("más de 30 cupos, grupo cerrado en la empresa con horario especial, copago con valores distintos, plazos distintos o cualquier condición que no esté escrita en la orden.",
+  "más de 30 cupos, grupo cerrado en la empresa con horario especial, copago con valores distintos, plazos distintos o cualquier condición que no esté escrita en la orden. También el **grupo virtual de empresa**: mínimo 3 y máximo 6 personas de la misma empresa, por videollamada, mismo método, mismo precio por cupo del plan empresa, sin beca del Fondo y sin garantía; profesor y horario los define gerencia. Existe para que nunca digas que no tenemos virtual; no es más barato porque el costo no es el salón, es el profesor en grupo pequeño."),
+ ("'\"En grupo somos presenciales; virtual tenemos las clases personalizadas por videollamada, desde 30 horas, a tu horario, y las arma gerencia contigo.\"'",
+  "'\"En grupo somos presenciales. Virtual tenemos dos cosas: clases personalizadas por videollamada desde 30 horas, y para empresas un grupo virtual de 3 a 6 personas, al mismo precio por cupo. Las dos las cotiza gerencia.\" Si dicen que otros lo dan más barato: \"Más barato existe y es otro producto: muchos en una pantalla. El nuestro es el mismo profesor y el mismo método en grupo de máximo 6; vale lo mismo porque hace lo mismo.\"'"),
 ]
 for a, b in R:
     assert a in s, 'NO ENCONTRADO: ' + a[:60]
