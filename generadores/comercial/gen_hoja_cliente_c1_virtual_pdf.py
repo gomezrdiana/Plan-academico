@@ -74,7 +74,7 @@ y = bullets([
     ('En Heiiu llegas a B2 en 575 horas presenciales, ', 'con garantía por escrito en cada nivel: si cumples y no avanzas, te devolvemos el nivel.'),
     ('Al terminar B2, Refuerzo PRO: ', 'lo que irías a buscar en un C1, en menos tiempo y enfocado en lo que vas a usar: pitch avanzado, negociación real en inglés, entrevistas difíciles y tu video del antes y después. Es para el estudiante que quiere usar el inglés, no coleccionar niveles.'),
     ('Módulo de Graduación al terminar A2: ', 'Emprendedor (tu página web publicada y tu primer mensaje de venta en inglés a un cliente real) o Pasaporte (tu hoja de vida en inglés, tu video de presentación y tu entrevista ensayada).'),
-    ('¿Y qué es C1, entonces? ', 'Leer textos largos y académicos, captar el humor, los dobles sentidos y lo que no se dice. Eso no lo da un salón: lo da usar el inglés todos los días, trabajando o viviendo en él. Primero se habla. Eso es B2, y es lo que te garantizamos.'),
+    ('¿Y qué es C1, entonces? ', 'Leer textos largos y académicos, captar el humor, los dobles sentidos y lo que no se dice. Eso no lo da un salón: lo da usar el inglés todos los días, trabajando o viviendo en él. Primero se habla. Eso es B2, y es lo que te garantizamos. Lo demás es un argumento de venta, no un resultado.'),
 ], m + 10, top - 108, cw - 20)
 
 # ---- Card 2: Virtual
