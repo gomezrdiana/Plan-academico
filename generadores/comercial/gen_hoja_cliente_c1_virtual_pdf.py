@@ -18,6 +18,10 @@ NAR = HexColor('#FF4A00'); NAR2 = HexColor('#E54C09'); AMA = HexColor('#FBC900')
 GRIS = HexColor('#5A5A5A'); NEGRO = HexColor('#222222'); LINEA = HexColor('#F0D9C8')
 
 W, H = letter
+try:
+    open(OUT, 'ab').close()
+except PermissionError:
+    OUT = OUT.replace('.pdf', '_v2.pdf'); print('ABIERTO -> _v2')
 c = canvas.Canvas(OUT, pagesize=letter)
 c.setTitle('Heiiu — Dos cosas que te van a decir en todas partes')
 
@@ -68,7 +72,7 @@ flow([P('Lo que de verdad te piden: B2', 15, NAR2, True, TA_CENTER, 18),
 y = bullets([
     ('"Hasta C1" es un nombre en una lista. ', 'Pregunta en cualquier academia dos cosas: cuántos de sus estudiantes llegaron, y quién lo garantiza por escrito.'),
     ('En Heiiu llegas a B2 en 575 horas presenciales, ', 'con garantía por escrito en cada nivel: si cumples y no avanzas, te devolvemos el nivel.'),
-    ('Al terminar B2, Refuerzo PRO: ', 'pitch avanzado, negociación real en inglés y tu video del antes y después. Sales usando el inglés, no coleccionando niveles.'),
+    ('Al terminar B2, Refuerzo PRO: ', 'lo que irías a buscar en un C1, en menos tiempo y enfocado en lo que vas a usar: pitch avanzado, negociación real en inglés, entrevistas difíciles y tu video del antes y después. Es para el estudiante que quiere usar el inglés, no coleccionar niveles.'),
     ('Módulo de Graduación al terminar A2: ', 'Emprendedor (tu página web y tu primer cliente en inglés) o Pasaporte (tu hoja de vida, tu video y tu entrevista ensayada).'),
     ('Y si un día necesitas C1, ', 'ya vas a hablar inglés. Esa es otra conversación, y la tendrás con ventaja.'),
 ], m + 10, top - 108, cw - 20)
@@ -89,11 +93,12 @@ y2 = bullets([
 ], x2 + 10, top - 108, cw - 20)
 
 # ================= GUARANTEE BAND =================
-gy = bot - 14; gh = 78
+gy = bot - 12; gh = 118
 rbox(m, gy - gh, W - 2 * m, gh, NAR, None, 12)
 flow([P('LA GARANTÍA HEIIU, TAL COMO QUEDA EN TU CONTRATO', 9.5, AMA, True, TA_CENTER),
       P('"Si cumples — asistencia, tareas, evaluaciones — y no avanzas, te devolvemos el 100% del nivel. Por escrito, en el contrato."', 9.6, white, True, TA_CENTER, 12.5),
-      P('Ninguna promesa de C1 ni ninguna clase virtual trae esto. Nosotros ponemos el método, el profesor y el respaldo. Tú pones el trabajo: asistir, hacer las tareas y grabar tu video corto todos los días. No te prometemos que sea fácil. Te prometemos que funciona si haces tu parte.', 8.3, HexColor('#FFE7D6'), False, TA_CENTER, 10.8)],
+      P('<b>¿Por qué nadie más la da?</b> Porque quien vende acceso (horas, plataforma, niveles en una lista) no puede responder por el resultado. Nosotros vendemos el resultado, y por eso respondemos por él.', 8.3, HexColor('#FFE7D6'), False, TA_CENTER, 10.8),
+      P('<b>¿A quién le debería dar miedo?</b> Al que no va a cumplir su parte: asistir (máximo 20% de faltas por nivel), hacer las tareas (90%) y presentar las evaluaciones. A ese no le sirve, y se lo decimos antes de pagar. Al que cumple, le funciona; y si no, le devolvemos el 100% del nivel. No te prometemos que sea fácil. Te prometemos que funciona si haces tu parte.', 8.3, HexColor('#FFE7D6'), False, TA_CENTER, 10.8)],
      m + 14, gy - gh + 6, W - 2 * m - 28, gh - 10)
 
 # ================= FOOTER =================
