@@ -57,7 +57,7 @@ flow([P('Dos cosas que te van a decir<br/>en todas partes', 22, white, True, TA_
 
 # ================= TWO CARDS =================
 m = 30; gap = 12; cw = (W - 2 * m - gap) / 2
-top = H - band_h - 5 - 16; card_h = 300; bot = top - card_h
+top = H - band_h - 5 - 16; card_h = 332; bot = top - card_h
 
 # ---- Card 1: C1
 rbox(m, bot, cw, card_h, CREMA, LINEA, 12)
