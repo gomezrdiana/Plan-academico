@@ -89,7 +89,7 @@ y2 = bullets([
     ('Lo que sí es virtual: tu práctica diaria. ', 'Todos los días grabas un video corto en inglés desde tu casa y tu profesor te lo devuelve con una mejora. Entrenas en el salón y en tu celular.'),
     ('Si necesitas virtual de verdad, lo tenemos: ', 'clases personalizadas, uno a uno por videollamada, desde 30 horas, en tu horario. Se cotizan en la asesoría.'),
     ('Jornadas presenciales: ', 'mañana 8:00 a 12:00, noche 6:30 a 8:30 p. m., y sábados 8:00 a 12:00. Dos horas en tu día, a cambio de hablar.'),
-    ('Lo que pasa con el virtual, de frente: ', 'se arranca con ganas y a la tercera semana ganan el gato, la visita que llegó o el cansancio. La clase se deja, y queda la sensación de haber pagado por nada. No es falta de voluntad: es que nadie te está mirando. Aquí sí.'),
+    ('Lo que pasa con el virtual, de frente: ', 'en los cursos en línea solo 3 de cada 100 inscritos terminan (estudio de MIT y Harvard sobre cursos masivos, revista Science, 2019). Se arranca con ganas y a la tercera semana ganan el gato, la visita o el cansancio; la clase se deja y queda la sensación de haber pagado por nada. No es falta de voluntad: es que nadie te está mirando. Aquí sí.'),
 ], x2 + 10, top - 108, cw - 20)
 
 # ================= GUARANTEE BAND =================
