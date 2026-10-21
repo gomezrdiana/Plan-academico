@@ -44,14 +44,30 @@ def pieza(key, cfg):
     sd.rounded_rectangle([12, 12, sh.width - 12, sh.height - 12], radius=10, fill=(0, 0, 0, 120)); sh = sh.filter(ImageFilter.GaussianBlur(10))
     img.paste(sh, (72 - 12, 56 - 6), sh); img.paste(pad, (72, 56), pad)
 
+    # guiño de temporada: murcielagos dibujados con tiza, sutiles
+    HALF = [(0,-22),(7,-36),(11,-20),(30,-27),(60,-32),(100,-30),(97,-20),(84,2),(72,-7),(58,8),(44,-2),(30,12),(16,4),(8,17),(0,21)]
+    BAT = HALF + [(-x, y) for x, y in reversed(HALF[:-1])]
+    bl = Image.new('RGBA', (W, H), (0, 0, 0, 0)); bd = ImageDraw.Draw(bl)
+    for (bx0, by0, sc, al, rot) in [(640, 130, 0.95, 165, -8), (790, 70, 0.6, 130, 10), (560, 215, 0.42, 110, -14), (1440, 150, 0.7, 140, 12), (1300, 225, 0.4, 100, -6)]:
+        import math
+        cr, sr = math.cos(math.radians(rot)), math.sin(math.radians(rot))
+        pts = [(bx0 + (x * cr - y * sr) * sc, by0 + (x * sr + y * cr) * sc) for x, y in BAT]
+        bd.polygon(pts, fill=(255, 248, 231, al))
+    bl = bl.filter(ImageFilter.GaussianBlur(1.2))
+    img = Image.alpha_composite(img.convert('RGBA'), bl).convert('RGB'); d = ImageDraw.Draw(img)
     d.text((72, 262), 'ESTE HALLOWEEN', font=font('calibrib.ttf', 26), fill=AMAR)
     d.rectangle([72, 302, 182, 307], fill=NAR)
     ts = cfg['tsize']; y = 326
+    def linea(x, y, line, fnt, base, hi):
+        # dibuja la linea y pinta la palabra "ingles" con el color hi
+        for i, w in enumerate(line.split(' ')):
+            col = hi if w.startswith('inglés') else base
+            d.text((x, y), w, font=fnt, fill=col); x += d.textlength(w + ' ', font=fnt)
     for line in cfg['titular']:
-        d.text((72, y), line, font=font('calibrib.ttf', ts), fill=CREMA); y += int(ts * 1.08)
+        linea(72, y, line, font('calibrib.ttf', ts), CREMA, AMAR); y += int(ts * 1.08)
     y += 14
     for line in cfg['bajada']:
-        d.text((72, y), line, font=font('georgiai.ttf', 38), fill=AMAR); y += 46
+        linea(72, y, line, font('georgiai.ttf', 38), AMAR, CREMA); y += 46
     d.text((72, 696), 'Presencial en Bucaramanga · única academia con garantía de aprendizaje por escrito', font=font('calibri.ttf', 24), fill=GRIS)
     bx, by, bw, bh = 72, 736, 400, 64
     d.rounded_rectangle([bx, by, bx + bw, by + bh], radius=14, fill=AMAR)
