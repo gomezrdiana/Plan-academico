@@ -3,7 +3,7 @@
 gen_pieza_reactivacion.py. Prueba A/B de mensaje, mitad y mitad:
   A = "Lo que deberia darte miedo es perder la oportunidad" (consecuencia / destino)
   B = "Que no te de miedo hablar ingles" (angulo propuesto por LaHaus)
-Etiqueta con la urgencia real (ultimo grupo del ano, noviembre). Sin programa ni precio.
+Etiqueta de temporada: ESTE HALLOWEEN. Sin programa ni precio.
 Salida: recursos/comercial/plataforma LaHaus/PIEZA_REACTIVACION_OCTUBRE_A_HEIIU.png y _B_"""
 import os
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
@@ -44,7 +44,7 @@ def pieza(key, cfg):
     sd.rounded_rectangle([12, 12, sh.width - 12, sh.height - 12], radius=10, fill=(0, 0, 0, 120)); sh = sh.filter(ImageFilter.GaussianBlur(10))
     img.paste(sh, (72 - 12, 56 - 6), sh); img.paste(pad, (72, 56), pad)
 
-    d.text((72, 262), 'ÚLTIMO GRUPO DEL AÑO: NOVIEMBRE', font=font('calibrib.ttf', 26), fill=AMAR)
+    d.text((72, 262), 'ESTE HALLOWEEN', font=font('calibrib.ttf', 26), fill=AMAR)
     d.rectangle([72, 302, 182, 307], fill=NAR)
     ts = cfg['tsize']; y = 326
     for line in cfg['titular']:

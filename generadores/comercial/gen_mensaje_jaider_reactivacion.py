@@ -32,11 +32,11 @@ h('1. Dos plantillas de saludo, mitad y mitad (texto exacto, cada una con su ima
 p('Se reparten alternando en la lista (uno A, uno B), sin importar el último dígito del teléfono, para que la prueba de flujo no se mezcle con esta. Se mide por plantilla: botones, respuestas por texto y citas.', size=9.5, color=GRIS)
 p('PLANTILLA A (imagen A):', True, after=2)
 p('Hola {{cName}}, soy el asistente de Heiiu. Hace un tiempo nos escribiste por el inglés y la conversación se quedó ahí.\n\n'
-  'Te lo decimos de frente, que para eso es octubre: lo que debería darte miedo no es el inglés, es perder la oportunidad. La entrevista, el viaje o el cliente de afuera llegan igual, con o sin él.\n\n'
+  'Este Halloween te lo decimos de frente: lo que debería darte miedo no es el inglés, es perder la oportunidad. La entrevista, el viaje o el cliente de afuera llegan igual, con o sin él.\n\n'
   'El último grupo del año arranca en noviembre y todavía hay cupo, con garantía de aprendizaje por escrito. ¿Lo retomamos?', size=10, after=6)
 p('PLANTILLA B (imagen B):', True, after=2)
 p('Hola {{cName}}, soy el asistente de Heiiu. Hace un tiempo nos escribiste por el inglés y la conversación se quedó ahí.\n\n'
-  'Que no te dé miedo hablar inglés: aquí se habla desde la primera clase, en grupos pequeños y con un profesor al lado que te corrige ahí mismo.\n\n'
+  'Este Halloween, que no te dé miedo hablar inglés: aquí se habla desde la primera clase, en grupos pequeños y con un profesor al lado que te corrige ahí mismo.\n\n'
   'El último grupo del año arranca en noviembre y todavía hay cupo, con garantía de aprendizaje por escrito. ¿Lo retomamos?', size=10, after=4)
 p('Botones: [Sí, quiero mi fecha] · [Más adelante] · [Ya no me interesa]', True)
 p('Línea final de la plantilla: "Si no quieres recibir más mensajes, responde BAJA."', size=9.5, color=GRIS)
