@@ -58,16 +58,20 @@ def pieza(key, cfg):
     d.text((72, 262), 'ESTE HALLOWEEN', font=font('calibrib.ttf', 26), fill=AMAR)
     d.rectangle([72, 302, 182, 307], fill=NAR)
     ts = cfg['tsize']; y = 326
-    def linea(x, y, line, fnt, base, hi):
-        # dibuja la linea y pinta la palabra "ingles" con el color hi
-        for i, w in enumerate(line.split(' ')):
-            col = hi if w.startswith('inglés') else base
-            d.text((x, y), w, font=fnt, fill=col); x += d.textlength(w + ' ', font=fnt)
+    def linea(x, y, line, fnt, base, hi_font, hi_size):
+        # dibuja la linea; la palabra "ingles" va en amarillo, mas grande y en otra letra, alineada a la misma base
+        yb = y + fnt.getmetrics()[0]
+        for w in line.split(' '):
+            if w.startswith('inglés'):
+                f2 = font(hi_font, hi_size); d.text((x, yb), w, font=f2, fill=AMAR, anchor='ls'); x += d.textlength(w, font=f2) + d.textlength(' ', font=fnt)
+            else:
+                d.text((x, yb), w, font=fnt, fill=base, anchor='ls'); x += d.textlength(w + ' ', font=fnt)
     for line in cfg['titular']:
-        linea(72, y, line, font('calibrib.ttf', ts), CREMA, AMAR); y += int(ts * 1.08)
+        if 'inglés' in line: y += 10
+        linea(72, y, line, font('calibrib.ttf', ts), CREMA, 'georgiab.ttf', int(ts * 1.22)); y += int(ts * 1.08)
     y += 14
     for line in cfg['bajada']:
-        linea(72, y, line, font('georgiai.ttf', 38), AMAR, CREMA); y += 46
+        linea(72, y, line, font('georgiai.ttf', 38), AMAR, 'calibrib.ttf', 52); y += 46
     d.text((72, 696), 'Presencial en Bucaramanga · única academia con garantía de aprendizaje por escrito', font=font('calibri.ttf', 24), fill=GRIS)
     bx, by, bw, bh = 72, 736, 400, 64
     d.rounded_rectangle([bx, by, bx + bw, by + bh], radius=14, fill=AMAR)
