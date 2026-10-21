@@ -69,12 +69,15 @@ tabla([
  ('5:00', '10. Cierre del día', 'Él te presenta el reporte: contactados, reuniones agendadas, qué faltó. Reglas innegociables leídas por él. Mañana 8:30 presencial.'),
 ], [1.2, 3.4, 13.6])
 
-sec('Miércoles 21')
+sec('Miércoles 21 (lo que el martes no se hizo: el martes fue firma, lectura y visita a cinco academias)')
 tabla([
- ('8:30', '1. Primer seguimiento', 'Lo presenta él, 15 minutos: resultados de ayer frente al plan y empresas de hoy. Así va a ser todos los días.'),
- ('9:00', '2. Base de la academia', 'Sigue con los 18 que no contestaron ayer (segunda llamada) y con los contactos nuevos que le asignes, con el guion de cierre en cita y las reglas del agente (precio solo con beca, cita por llamada, sin descuentos). Estas ventas cuentan completas para los cortes de la prueba.'),
- ('10:30', '3. Acompañamiento', 'Si ya tiene una reunión agendada, van juntos; si no, llamadas a empresas de su lista hasta tener 2 reuniones más para el jueves y el viernes.'),
- ('12:00', 'A la calle', 'Viernes 24, 8:30, presencial: cierre de la primera semana con el tablero.'),
+ ('8:30', '1. Primer seguimiento', 'Lo presenta él, 15 minutos: qué leyó, dudas del kit y del anexo, y las empresas que trajo. Así va a ser todos los días.'),
+ ('8:45', '2. Lo que vio en las cinco academias', 'Él cuenta, por cada una: qué prometen, qué cuesta, cómo cierran. Tú cierras con una sola idea: lo que ellos venden es acceso; lo nuestro es resultado con garantía por escrito y El Pacto. Nada de eso se escribe ni se nombra en material; se usa para saber qué NO decir.'),
+ ('9:15', '3. Su lista al tablero', 'Carga en vivo las empresas que trajo en EMPRESAS: decisor con nombre y cargo, celular, estado. La empresa es de quien la registra primero, 60 días.'),
+ ('9:45', '4. Su mensaje al gerente', 'Lo escribe para tres empresas de su lista (una clínica, una fundación y una más). Tú lo lees como gerente con los 6 criterios del kit. Se ajusta y se manda en vivo.'),
+ ('10:15', '5. Simulaciones', 'Con las tarjetas: clínica y fundación, 10 minutos cada una, dos correcciones por simulación. Luego la charla de 5 minutos.'),
+ ('11:00', '6. Los 18 calientes', 'Le entregas la hoja de los 18 del panel de LaHaus y el guion de cierre: primero los que asistieron y no cerraron, luego citas pendientes e inasistencias, luego los que empezaron a agendar. Lee la conversación de cada uno antes de llamar. Llamada, no mensaje; sin precios por teléfono; resultado anotado en cada lead. Objetivo: 5 asesorías agendadas para esta semana.'),
+ ('12:30', 'A la calle', 'Tarde: reuniones o llamadas a su lista hasta tener 2 reuniones para jueves y viernes. Jueves 8:30 seguimiento. Viernes 24, 8:30, presencial con el analista de indicadores: cierre de la primera semana con el tablero.'),
 ], [1.2, 3.4, 13.6])
 
 sec('Lo que no se hace')
