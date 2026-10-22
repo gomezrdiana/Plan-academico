@@ -45,9 +45,8 @@ p('• Si responde con texto en vez de botón (negocio, para un hijo, una pregun
 
 h('3. A quién se le envía (en este orden) y a quién no')
 p('• Sí: todos los leads de la plataforma en estado cerrado o sin respuesta, incluidos los de la reactivación del 6 de octubre que no contestaron y los de pauta de octubre que se enfriaron.')
-p('• Sí: una base adicional de [N] leads que te subo hoy (los que llegaron a agendar con el bot anterior y no se matricularon; la cruzamos nosotros con la lista de estudiantes). Mismo saludo.')
-p('• No: estudiantes activos, leads con cita agendada o asistida, los que dijeron que no o pidieron BAJA, y cualquier conversación con mensajes en los últimos 7 días (esa la termina el agente, no se pisa).')
-p('• La reserva grande (unos 1.500 del bot anterior) queda para la primera semana de noviembre, cuando reinicie el conteo del mes, con la misma plantilla y la fecha de noviembre.', after=6)
+p('• No: leads con cita agendada o asistida, los que dijeron que no o pidieron BAJA, y cualquier conversación con mensajes en los últimos 7 días (esa la termina el agente, no se pisa).')
+p('• De la reserva del bot anterior (unos 1.500 leads que todavía no están en la plataforma) te subo hoy los 300 más calientes para que salgan en este mismo envío, si caben dentro del tope de 1.000 leads activos del mes sin costo adicional; dime cuántos caben exactamente. El resto sale el 2 o 3 de noviembre, cuando reinicie el conteo del mes, con la misma plantilla.', after=6)
 
 h('4. Envío y rescate')
 p('• Hora: jueves 22 a las 9:00 a. m., dentro del horario legal. Si Meta no aprueba la plantilla a tiempo, se corre al viernes 23 a las 9:00; no se manda en la tarde.')
