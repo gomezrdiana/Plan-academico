@@ -22,17 +22,11 @@ def h(t):
     x = d.add_paragraph(); x.paragraph_format.space_before = Pt(6); x.paragraph_format.space_after = Pt(2)
     r = x.add_run(t); r.bold = True; r.font.size = Pt(11); r.font.color.rgb = NAR
 
-p('MENSAJE A JAIDER (LAHAUS) — REACTIVACIÓN DE OCTUBRE · 21/10/2026', True, 12, NAR, 2)
-p('Interno. Enviar por el grupo de WhatsApp como un solo mensaje, con las dos piezas PIEZA_REACTIVACION_OCTUBRE_A_HEIIU.png y _B_ adjuntas. '
-  'Lo que va entre corchetes lo decide Diana antes de enviar.', False, 9, GRIS, 8, True)
-
-p('Jaider, de acuerdo con la reactivación y con aprovechar la fecha: la montamos ya. Te dejo todo en un solo mensaje para que quede configurada hoy y salga mañana jueves a las 9:00 a. m.')
-
-h('1. Dos plantillas de saludo, mitad y mitad (texto exacto, cada una con su imagen arriba)')
-p('Se reparten alternando en la lista (uno A, uno B), sin importar el último dígito del teléfono, para que la prueba de flujo no se mezcle con esta. Se mide por plantilla: botones, respuestas por texto y citas.', size=9.5, color=GRIS)
+p('Jaider, de acuerdo con la reactivación y con aprovechar la fecha. Te dejo todo en un solo mensaje para que quede configurada. Igual quedo atenta a tus comentarios y sugerencias.\n\n'
+  'Para seguir probando qué nos funciona hice dos imágenes y dos plantillas para repartir alternando en la lista, así la prueba del flujo no se mezcla. Se mide por plantilla: botones, respuesta por texto y citas.')
 p('PLANTILLA A (imagen A):', True, after=2)
 p('Hola {{cName}}, soy Louissiana, la asistente de Heiiu. Hace un tiempo nos escribiste por el inglés y la conversación se quedó ahí.\n\n'
-  'Este Halloween te lo decimos de frente: lo que debería darte miedo no es el inglés, es perder la oportunidad. La entrevista, el viaje o el cliente de afuera llegan igual, con o sin él.\n\n'
+  'Este Halloween, lo que debería darte miedo no es el inglés: es perder la oportunidad. La entrevista, el viaje o el cliente de afuera llegan igual, con o sin él.\n\n'
   'En noviembre abre grupo nuevo y todavía hay cupo, con garantía de aprendizaje por escrito. ¿Para qué lo quieres: viajar, trabajar o estudiar? (Si es para tu negocio o para otra persona, escríbenos.)', size=10, after=6)
 p('PLANTILLA B (imagen B):', True, after=2)
 p('Hola {{cName}}, soy Louissiana, la asistente de Heiiu. Hace un tiempo nos escribiste por el inglés y la conversación se quedó ahí.\n\n'
