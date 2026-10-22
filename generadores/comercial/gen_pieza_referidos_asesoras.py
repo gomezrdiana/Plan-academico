@@ -113,7 +113,7 @@ y = parrafo(d, 60, y, cond, font('calibri.ttf', 19), GRIS, W - 120, lh=24)
 fy = H - 120
 d.rectangle([0, fy, W, H], fill=NAR)
 d.text((60, fy + 26), 'Tu contacto en Heiiu: gerente de alianzas', font=font('calibrib.ttf', 26), fill=CREMA)
-d.text((60, fy + 64), 'ger.alianzas@heiiu.com  ·  [celular del gerente de alianzas]', font=font('calibri.ttf', 24), fill=CREMA)
+d.text((60, fy + 64), 'ger.alianzas@heiiu.com  ·  WhatsApp 317 768 8793', font=font('calibri.ttf', 24), fill=CREMA)
 d.text((W - 60, fy + 26), 'Presencial en Bucaramanga', font=font('calibrib.ttf', 24), fill=AMAR, anchor='ra')
 d.text((W - 60, fy + 64), 'Garantía de aprendizaje por escrito', font=font('calibri.ttf', 22), fill=CREMA, anchor='ra')
 
