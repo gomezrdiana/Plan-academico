@@ -8,7 +8,7 @@ Salida: recursos/comercial/INDUCCION_COMERCIAL/contratacion comercial/PIEZA_REFE
 import os, shutil
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-W, H = 1080, 1730
+W, H = 1080, 1760
 NAR = (229, 76, 9); AMAR = (251, 201, 0); CREMA = (255, 248, 231); OSC = (48, 39, 28); GRIS = (110, 100, 88); BLANCO = (255, 255, 255)
 F = 'C:/Windows/Fonts/'
 ROOT = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu'
@@ -98,10 +98,10 @@ for i, (tit, sub) in enumerate(pasos):
 y += ch + 30
 
 # ---- caja amarilla: premio unico al cierre del piloto (un cupo, costo acotado)
-d.rounded_rectangle([60, y, W - 60, y + 112], radius=20, fill=AMAR)
+d.rounded_rectangle([60, y, W - 60, y + 146], radius=20, fill=AMAR)
 d.text((92, y + 20), 'Y AL CIERRE DEL PILOTO, UN PREMIO ÚNICO', font=font('calibrib.ttf', 25), fill=OSC)
-d.text((92, y + 56), 'quien traiga más matrículas pagadas gana un nivel de inglés para sí o para un familiar.', font=font('georgiai.ttf', 27), fill=OSC)
-y += 112 + 30
+parrafo(d, 92, y + 56, 'quien traiga más matrículas pagadas gana un nivel de inglés para sí o para un familiar.', font('georgiai.ttf', 29), OSC, W - 120 - 64, lh=38)
+y += 146 + 30
 
 # ---- condiciones en letra pequeña
 cond = ('Condiciones: el bono se causa por matrícula pagada de contado (directo o con el crédito de la entidad), con contrato firmado y los cinco días de retracto cumplidos, '
