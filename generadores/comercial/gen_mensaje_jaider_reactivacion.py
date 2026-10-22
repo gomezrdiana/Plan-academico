@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 """Mensaje a Jaider (LaHaus) para montar la reactivacion de octubre: plantilla, botones, a quien, exclusiones,
 que hace el agente con cada boton, fecha de envio. Sin datos de leads. Salida (git):
-recursos/comercial/plataforma LaHaus/MENSAJE_JAIDER_REACTIVACION_2026-10-21.docx"""
+recursos/comercial/plataforma LaHaus/reactivacion 23 oct 2026.docx (nombre puesto por gerencia)"""
 from docx import Document
 from docx.shared import Pt, RGBColor, Cm
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 
-OUT = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\plataforma LaHaus\MENSAJE_JAIDER_REACTIVACION_2026-10-21.docx'
+OUT = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\plataforma LaHaus\reactivacion 23 oct 2026.docx'
 NAR = RGBColor(0xE5, 0x4C, 0x09); GRIS = RGBColor(0x66, 0x66, 0x66)
 d = Document()
 for s in d.sections:
@@ -33,8 +33,8 @@ p('Hola {{cName}}, soy Louissiana, la asistente de Heiiu. Hace un tiempo nos esc
   'Este Halloween, que no te dé miedo hablar inglés: aquí se habla desde la primera clase, en grupos de máximo 16 y con un profesor al lado que te corrige ahí mismo.\n\n'
   'En noviembre abre grupo nuevo y todavía hay cupo, con garantía de aprendizaje por escrito. ¿Para qué lo quieres: viajar, trabajar o estudiar? (Si es para tu negocio o para otra persona, escríbenos.)', size=10, after=4)
 p('Botones: [Viajar] · [Trabajar] · [Estudiar]', True)
-p('Pie de la plantilla (el campo "footer" de Meta admite máximo 60 caracteres): "Responde BAJA para no recibir más mensajes."', size=9.5, color=GRIS)
-p('Las dos llevan los mismos botones y el mismo pie. Sin nombre de programa, sin precio, sin "descuento", "gratis" ni "fácil". La imagen va arriba, como en los ejemplos que me mandaste. Tres cosas de configuración: (a) si el nombre del contacto trae @, números, correo o más de tres palabras, la plantilla sale sin nombre ("Hola, soy Louissiana…"), como quedó pedido el 7/10; (b) si el lead pregunta la fecha exacta, el agente no la inventa: "la fecha y la jornada te las confirma la asesora en la cita"; (c) confírmame que la base pasa por el Registro de Números Excluidos antes del envío, o si eso lo tenemos que hacer nosotros.', size=9.5, color=GRIS, after=6)
+p('"Responde BAJA para no recibir más mensajes."', size=9.5, color=GRIS)
+p('Las dos llevan los mismos botones y el mismo pie. Sin nombre de programa, sin precio, sin "descuento", "gratis" ni "fácil". La imagen va arriba, como en los ejemplos que me mandaste. Tres cosas de configuración: (a) si el nombre del contacto trae @, números, correo o más de tres palabras, la plantilla sale sin nombre ("Hola, soy Louissiana…"), como quedó pedido el 7/10; (b) si el lead pregunta la fecha exacta, el agente no la inventa: "la fecha y la jornada te las confirma la asesora en la cita"; (c) confírmame que la base pasa por el Registro de Números Excluidos antes del envío?', size=9.5, color=GRIS, after=6)
 
 h('2. Qué hace el agente con cada botón')
 p('• Cualquier botón (Viajar, Trabajar o Estudiar) ES la respuesta al paso 1 ("¿para qué necesitas el inglés?"): el agente no la vuelve a preguntar, sigue con el paso 2, respeta la prueba A/B por último dígito del teléfono (par = 7 pasos, impar = flujo corto) y agenda la cita. '
@@ -47,12 +47,12 @@ h('3. A quién se le envía (en este orden) y a quién no')
 p('• Sí: todos los leads de la plataforma en estado cerrado o sin respuesta, incluidos los de la reactivación del 6 de octubre que no contestaron y los de pauta de octubre que se enfriaron.')
 p('• No: leads con cita agendada o asistida, los que dijeron que no o pidieron BAJA, y cualquier conversación con mensajes en los últimos 7 días (esa la termina el agente, no se pisa).')
 p('• Además te adjunto un archivo con 73 teléfonos que se excluyen de este envío: son leads que conversaron y se enfriaron, y los está trabajando por llamada nuestro gerente de alianzas desde hoy.')
-p('• De la reserva del bot anterior (unos 1.500 leads que todavía no están en la plataforma) te subo hoy los 300 más calientes para que salgan en este mismo envío, si caben dentro del tope de 1.000 leads activos del mes sin costo adicional; dime cuántos caben exactamente. El resto sale el 2 o 3 de noviembre, cuando reinicie el conteo del mes, con la misma plantilla.', after=6)
+p('• De la reserva del bot anterior (unos 1.500 leads que todavía no están en la plataforma) te subo hoy los 300 más calientes para que salgan en este mismo envío, si se puede como me dijiste.', after=6)
 
 h('4. Envío y rescate')
 p('• Hora: viernes 23 a las 9:00 a. m. Domingo no: nuestra regla de contacto es la de la ley, lunes a viernes de 7 a. m. a 7 p. m. y sábados hasta las 3 p. m., nunca domingos ni festivos. El fin de semana lo cubre el agente, que agenda él mismo, y nuestro equipo hace barridos el viernes y el sábado; lo que responda y no agende queda en una lista para llamarlo el lunes. Si Meta no aprueba las plantillas a tiempo, se corre al lunes 26 a las 9:00; no se manda en la tarde.')
 p('• Nuestra asesora y nuestro gerente de alianzas hacen barridos el viernes a las 12:00 y a las 6:00 p. m. y el sábado a las 10:00 a. m. y a la 1:00 p. m., en el filtro de contacto humano y en las conversaciones que se quedaron a mitad de flujo. Lo que se cae a mitad de camino lo llama uno de ellos el mismo día.')
-p('• Lo que te pido el viernes en la tarde son solo dos números, los del panel: cuántos salieron y cuántos entregados, para saber ese mismo día que Meta no bloqueó ninguna plantilla y que el domingo no se nos vaya en vano. El lunes en la mañana el resto: cuántos respondieron por botón y por texto y cuántas citas, separado por plantilla (A y B) y aparte de pauta.', after=6)
+p('• El lunes miraríamos a ver cuántos respondieron por botón y por texto y cuántas citas, separado por plantilla (A y B) y aparte de pauta.', after=6)
 
 h('5. Una regla nueva, que sale de un caso que probé en otra empresa')
 p('Esto no nos ha pasado con nuestro asistente; me pasó a mí como cliente con el agente de otra empresa y se me quedó en la cabeza. Cuando el agente recibe algo que no está en el flujo (dos preguntas a la vez, un cálculo, una petición rara), nunca reinicia la conversación ni vuelve a pedir el nombre. Responde "eso te lo resuelve la asesora, te la paso ahora", manda la notificación y conserva el contexto. Un lead que ya dio toda su información y recibe "¿con quién tengo el gusto?" se pierde. Lo revisamos en la próxima reunión con el resto.')
