@@ -58,7 +58,7 @@ x = p.add_run('Gerente de Alianzas Empresariales · uso interno · 21/10/2026 ·
 
 sec('1. Antes de escribir (si falta una, no se escribe)')
 bullets([
- 'Nombre y cargo de quien decide, verificados en la página de la empresa, LinkedIn o el RUES. Nunca "Estimado responsable". Máximo dos personas por empresa: gerencia general y gestión humana.',
+ 'Nombre y cargo de quien decide, verificados en la página de la empresa, LinkedIn o el RUES. Nunca saludos generales. Máximo dos personas por empresa: gerencia general y gestión humana (en clínicas, gerencia o coordinación administrativa).',
  'Un dato concreto de esa empresa para la primera línea (atiende clientes del exterior, abrió vacantes que piden inglés, exporta, tiene turnos fijos).',
  'Si está afiliada a Cajasan (se pregunta en la llamada o lo dice la empresa; no se supone).',
  'La empresa registrada en la pestaña EMPRESAS del tablero antes del primer toque. Cada toque se anota el mismo día.',
@@ -74,6 +74,15 @@ caja([
  '[Nombre] · Gerente de Alianzas Empresariales · Heiiu English Academy · [celular de la línea de alianzas]',
  'Si no es para ustedes, me lo dice y no vuelvo a escribirle.'])
 t('Otros asuntos que sirven: "[Nombre], beneficio para su equipo" · "Afiliados Cajasan en [Empresa]" (solo si está afiliada; nunca que parezca que Cajasan envía el mensaje). En el primer correo se pregunta por el interés; el día y la hora van en el segundo o apenas respondan.', size=8.5, color=GRIS)
+caja([
+ 'Asunto: Pacientes en inglés en [Clínica]',
+ 'Buenos días, [cargo y apellido]:',
+ 'Vi que [dato concreto: la clínica recibe pacientes del exterior / atiende procedimientos a extranjeros / tiene convenio de turismo de salud].',
+ 'En Heiiu English Academy abrimos becas con el nombre de [Clínica] para su personal de recepción, enfermería y atención al paciente, sin costo para la clínica. Entrenan en situaciones reales de clínica, como atender al paciente que llama o escribe en inglés, y usted recibe el reporte de asistencia y cumplimiento de sus becados. Con garantía de aprendizaje por escrito.',
+ '¿Le interesa que le cuente en 15 minutos cómo funciona?',
+ '[Nombre] · Gerente de Alianzas Empresariales · Heiiu English Academy · [celular de la línea de alianzas]',
+ 'Si no es para ustedes, me lo dice y no vuelvo a escribirle.'], titulo='Variante para clínicas (mismo largo, mismo pedido; cambia el dato y lo que gana)')
+t('La misma idea sirve para hoteles, agencias y empresas que exportan: se cambia "paciente" por el cliente que ellos atienden. En clínicas con turnos rotativos, en la reunión se dice de frente que el programa es de horario fijo.', size=8.5, color=GRIS)
 
 sec('3. Toque 2 · día 2 (viernes) · respuesta en el mismo hilo · de 40 a 60 palabras · aquí van las dos franjas')
 caja([
