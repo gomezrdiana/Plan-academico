@@ -46,16 +46,16 @@ p('• Si responde con texto en vez de botón (negocio, para un hijo, una pregun
 h('3. A quién se le envía (en este orden) y a quién no')
 p('• Sí: todos los leads de la plataforma en estado cerrado o sin respuesta, incluidos los de la reactivación del 6 de octubre que no contestaron y los de pauta de octubre que se enfriaron.')
 p('• No: leads con cita agendada o asistida, los que dijeron que no o pidieron BAJA, y cualquier conversación con mensajes en los últimos 7 días (esa la termina el agente, no se pisa).')
+p('• Además te adjunto un archivo con 73 teléfonos que se excluyen de este envío: son leads que conversaron y se enfriaron, y los está trabajando por llamada nuestro gerente de alianzas desde hoy.')
 p('• De la reserva del bot anterior (unos 1.500 leads que todavía no están en la plataforma) te subo hoy los 300 más calientes para que salgan en este mismo envío, si caben dentro del tope de 1.000 leads activos del mes sin costo adicional; dime cuántos caben exactamente. El resto sale el 2 o 3 de noviembre, cuando reinicie el conteo del mes, con la misma plantilla.', after=6)
 
 h('4. Envío y rescate')
-p('• Hora: jueves 22 a las 9:00 a. m., dentro del horario legal. Si Meta no aprueba la plantilla a tiempo, se corre al viernes 23 a las 9:00; no se manda en la tarde.')
-p('• Nuestra asesora hace barridos a las 12:00 y a las 6:00 p. m. en el filtro de contacto humano y en las conversaciones que se quedaron a mitad de flujo. Lo que se cae a mitad de camino lo llama ella el mismo día.')
-p('• Lo que te pido para la reunión de mañana a las 10:00: cuántos se enviaron, cuántos entregados, cuántos respondieron por botón y por texto, y cuántas citas, separado por plantilla (A y B) y aparte de pauta.', after=6)
+p('• Hora: viernes 23 a las 9:00 a. m. Domingo no: nuestra regla de contacto es la de la ley, lunes a viernes de 7 a. m. a 7 p. m. y sábados hasta las 3 p. m., nunca domingos ni festivos. El fin de semana lo cubre el agente, que agenda él mismo, y nuestro equipo hace barridos el viernes y el sábado; lo que responda y no agende queda en una lista para llamarlo el lunes. Si Meta no aprueba las plantillas a tiempo, se corre al lunes 26 a las 9:00; no se manda en la tarde.')
+p('• Nuestra asesora y nuestro gerente de alianzas hacen barridos el viernes a las 12:00 y a las 6:00 p. m. y el sábado a las 10:00 a. m. y a la 1:00 p. m., en el filtro de contacto humano y en las conversaciones que se quedaron a mitad de flujo. Lo que se cae a mitad de camino lo llama uno de ellos el mismo día.')
+p('• Lo que te pido el viernes en la tarde son solo dos números, los del panel: cuántos salieron y cuántos entregados, para saber ese mismo día que Meta no bloqueó ninguna plantilla y que el domingo no se nos vaya en vano. El lunes en la mañana el resto: cuántos respondieron por botón y por texto y cuántas citas, separado por plantilla (A y B) y aparte de pauta.', after=6)
 
 h('5. Una regla nueva, que sale de un caso que probé en otra empresa')
-p('Cuando el agente recibe algo que no está en el flujo (dos preguntas a la vez, un cálculo, una petición rara), nunca reinicia la conversación ni vuelve a pedir el nombre. Responde "eso te lo resuelve la asesora, te la paso ahora", manda la notificación y conserva el contexto. '
-  'Un lead que ya dio toda su información y recibe "¿con quién tengo el gusto?" se pierde. Lo revisamos mañana con el resto.')
+p('Esto no nos ha pasado con nuestro asistente; me pasó a mí como cliente con el agente de otra empresa y se me quedó en la cabeza. Cuando el agente recibe algo que no está en el flujo (dos preguntas a la vez, un cálculo, una petición rara), nunca reinicia la conversación ni vuelve a pedir el nombre. Responde "eso te lo resuelve la asesora, te la paso ahora", manda la notificación y conserva el contexto. Un lead que ya dio toda su información y recibe "¿con quién tengo el gusto?" se pierde. Lo revisamos en la próxima reunión con el resto.')
 p('Gracias. Confírmame cuando quede montada y la hora de salida.', after=0)
 
 try: d.save(OUT); print('OK', OUT)
