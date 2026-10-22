@@ -31,16 +31,16 @@ p('Jaider, de acuerdo con la reactivación y con aprovechar la fecha: la montamo
 h('1. Dos plantillas de saludo, mitad y mitad (texto exacto, cada una con su imagen arriba)')
 p('Se reparten alternando en la lista (uno A, uno B), sin importar el último dígito del teléfono, para que la prueba de flujo no se mezcle con esta. Se mide por plantilla: botones, respuestas por texto y citas.', size=9.5, color=GRIS)
 p('PLANTILLA A (imagen A):', True, after=2)
-p('Hola {{cName}}, soy el asistente de Heiiu. Hace un tiempo nos escribiste por el inglés y la conversación se quedó ahí.\n\n'
+p('Hola {{cName}}, soy Louissiana, la asistente de Heiiu. Hace un tiempo nos escribiste por el inglés y la conversación se quedó ahí.\n\n'
   'Este Halloween te lo decimos de frente: lo que debería darte miedo no es el inglés, es perder la oportunidad. La entrevista, el viaje o el cliente de afuera llegan igual, con o sin él.\n\n'
-  'El último grupo del año arranca en noviembre y todavía hay cupo, con garantía de aprendizaje por escrito. ¿Para qué lo quieres: viajar, trabajar o estudiar?', size=10, after=6)
+  'En noviembre abre grupo nuevo y todavía hay cupo, con garantía de aprendizaje por escrito. ¿Para qué lo quieres: viajar, trabajar o estudiar? (Si es para tu negocio o para otra persona, escríbenos.)', size=10, after=6)
 p('PLANTILLA B (imagen B):', True, after=2)
-p('Hola {{cName}}, soy el asistente de Heiiu. Hace un tiempo nos escribiste por el inglés y la conversación se quedó ahí.\n\n'
-  'Este Halloween, que no te dé miedo hablar inglés: aquí se habla desde la primera clase, en grupos pequeños y con un profesor al lado que te corrige ahí mismo.\n\n'
-  'El último grupo del año arranca en noviembre y todavía hay cupo, con garantía de aprendizaje por escrito. ¿Para qué lo quieres: viajar, trabajar o estudiar?', size=10, after=4)
+p('Hola {{cName}}, soy Louissiana, la asistente de Heiiu. Hace un tiempo nos escribiste por el inglés y la conversación se quedó ahí.\n\n'
+  'Este Halloween, que no te dé miedo hablar inglés: aquí se habla desde la primera clase, en grupos de máximo 16 y con un profesor al lado que te corrige ahí mismo.\n\n'
+  'En noviembre abre grupo nuevo y todavía hay cupo, con garantía de aprendizaje por escrito. ¿Para qué lo quieres: viajar, trabajar o estudiar? (Si es para tu negocio o para otra persona, escríbenos.)', size=10, after=4)
 p('Botones: [Viajar] · [Trabajar] · [Estudiar]', True)
-p('Línea final de la plantilla: "Si es para tu negocio o para otra persona, escríbenos. Si no quieres recibir más mensajes, responde BAJA."', size=9.5, color=GRIS)
-p('Las dos llevan los mismos botones y la misma línea de BAJA. Sin nombre de programa, sin precio, sin "descuento", "gratis" ni "fácil". La imagen va arriba, como en los ejemplos que me mandaste.', size=9.5, color=GRIS, after=6)
+p('Pie de la plantilla (el campo "footer" de Meta admite máximo 60 caracteres): "Responde BAJA para no recibir más mensajes."', size=9.5, color=GRIS)
+p('Las dos llevan los mismos botones y el mismo pie. Sin nombre de programa, sin precio, sin "descuento", "gratis" ni "fácil". La imagen va arriba, como en los ejemplos que me mandaste. Tres cosas de configuración: (a) si el nombre del contacto trae @, números, correo o más de tres palabras, la plantilla sale sin nombre ("Hola, soy Louissiana…"), como quedó pedido el 7/10; (b) si el lead pregunta la fecha exacta, el agente no la inventa: "la fecha y la jornada te las confirma la asesora en la cita"; (c) confírmame que la base pasa por el Registro de Números Excluidos antes del envío, o si eso lo tenemos que hacer nosotros.', size=9.5, color=GRIS, after=6)
 
 h('2. Qué hace el agente con cada botón')
 p('• Cualquier botón (Viajar, Trabajar o Estudiar) ES la respuesta al paso 1 ("¿para qué necesitas el inglés?"): el agente no la vuelve a preguntar, sigue con el paso 2, respeta la prueba A/B por último dígito del teléfono (par = 7 pasos, impar = flujo corto) y agenda la cita. '
