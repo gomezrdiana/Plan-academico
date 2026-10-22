@@ -59,21 +59,21 @@ tabla(['Cómo lo hacemos', 'Qué encontramos'], [
  ('La primera línea habla de su empresa; la segunda, de lo que gana: becas con el nombre de su empresa, sin costo para la empresa, y reporte de asistencia.',
   'Lo centrado en el producto baja la respuesta (Gong, 2026). Y en Colombia el 75% de las empresas no da ningún beneficio extrasalarial y la mitad no mide los que da (ACRIP 2024; elempleo). Lo que abre la puerta no es el inglés: es un beneficio que no cuesta y que se puede mostrar.'),
  ('No se listan competencias ni virtudes en el correo.',
-  'Eso es la pedagogía de adentro, y por escrito suena a promesa de resultado, que no hacemos. En la reunión sí se cuenta, con la causa, en un minuto.'),
+  'Eso es la pedagogía de adentro. Y hay una diferencia con la garantía: la garantía compromete lo que hacemos nosotros si la persona cumple y no avanza, con condiciones y por escrito. Decir que el programa desarrolla liderazgo u orientación al logro es prometer un resultado que no medimos ni garantizamos. En la reunión sí se cuenta, con la causa, en un minuto.'),
  ('Un solo pedido: 15 minutos. En el primer correo se pregunta "¿le interesa?"; el día y la hora van en el segundo o cuando respondan.',
-  'En 304.174 correos, en frío ganó la pregunta de interés; con la conversación ya abierta ganó proponer día y hora. "¿Podríamos agendar una breve conversación?" no ganó en ninguna etapa (Gong Labs, 2020). Por eso el kit se ajusta: dos fechas, sí, pero desde el segundo toque.'),
+  'En 304.174 correos, en frío ganó la pregunta de interés; con la conversación ya abierta ganó proponer día y hora. "¿Podríamos agendar una breve conversación?" no ganó en ninguna etapa (Gong Labs, 2020). Por eso el kit se ajusta: dos fechas, sí, pero desde el segundo toque. Si le interesa y no contesta, lo recogen los seguimientos: el segundo correo trae las dos fechas y el tercero es la llamada; por eso la secuencia no para hasta el cuarto toque.'),
  ('Cuatro toques: correo, correo en el mismo hilo, llamada o LinkedIn, cierre. Cada uno trae algo nuevo.',
   'Entre el 42% y el 59% de las respuestas llega en los seguimientos (Instantly y Belkins, 2026). Un seguimiento sube las respuestas 66% (Backlinko). Más de cuatro toques solo suben las quejas.'),
  ('Sin adjuntos ni enlaces en el primer correo, y desde el correo de la academia.',
-  'El dominio propio responde el doble que un correo gratuito (Hunter, 2025, 31 millones de correos). Los adjuntos afectan la entrega.'),
+  'El dominio propio responde el doble que un correo gratuito (Hunter, 2025, 31 millones de correos). Los adjuntos afectan la entrega. Por eso el cargo escribe desde una cuenta del dominio de la academia (alianzas@heiiu.com), nunca desde un correo personal.'),
  ('WhatsApp solo cuando la persona dio su número o un referido lo autorizó.',
   'La política de WhatsApp (Meta, septiembre de 2026) exige número y permiso; sin eso se arriesga la línea. Además, el celular personal de un gerente es dato personal (Ley 1581).'),
  ('Horario legal, un contacto al día, un canal por semana y una salida en cada mensaje.',
-  'Ley 2300 y Registro de Números Excluidos. Si aplican a un gerente contactado para un convenio está pendiente de abogado; mientras tanto cumplimos como si aplicaran.'),
+  'La Ley 2300 limita el horario y la frecuencia del contacto comercial a consumidores, y el Registro de Números Excluidos es la lista donde la gente se inscribe para que no la llamen a vender; hay que consultarlo antes de contactar. Si un gerente, contactado en su oficina por un convenio para su empresa, cuenta como "consumidor" no está resuelto (pendiente de abogado). Mientras tanto cumplimos como si sí: horarios, un contacto al día, un canal por semana, y el registro solo para celulares personales. Llamar al teléfono publicado de la empresa sí se puede.'),
 ], [6.4, 11.4])
 
 sec('Lo que no sabemos todavía, y lo vamos a saber con el tablero')
-t('Cuántas empresas de Bucaramanga responden a un correo así, cuántas a una llamada y cuántas a una visita. La meta de arranque es entre 5% y 10% de respuesta y una reunión por cada 8 a 12 empresas que completen los cuatro toques; es un supuesto, y en cuatro semanas el tablero dice si es verdad. Por eso cada toque se anota el mismo día: sin registro no hay forma de aprender.')
+t('Cuántas empresas de Bucaramanga responden a un correo así, cuántas a una llamada al teléfono publicado de la empresa y cuántas a una visita. La meta de arranque es entre 5% y 10% de respuesta y una reunión por cada 8 a 12 empresas que completen los cuatro toques; es un supuesto, y en cuatro semanas el tablero dice si es verdad. Por eso cada toque se anota el mismo día: sin registro no hay forma de aprender.')
 caja('Si en la calle algo contradice esta hoja (un gerente que respondió a un correo largo, una empresa que pidió la propuesta por WhatsApp), se anota en el tablero y se trae al seguimiento. Las reglas salieron de datos; con datos nuestros se cambian.')
 t('Fuente completa: INVESTIGACION_CONTACTO_FRIO_EMPRESAS_2026-10-21 (en gerencia).', size=8.5, color=GRIS, after=0)
 
