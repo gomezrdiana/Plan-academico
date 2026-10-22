@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Bosquejo de la pieza del programa de referidos para asesores de cajas de compensacion y cooperativas aliadas
+"""Bosquejo de la pieza del programa de referidos para asesores de entidades aliadas (sin nombrar cajas: solo hay una)
 (bono recargable de $200.000 por matricula). Reemplaza la propuesta en azul del gerente de alianzas:
 marca Heiiu (naranja + amarillo + crema), sin logos de terceros, sin "en efectivo", con codigo, con el paso
 de la matricula pagada y con la vigencia del piloto. Vertical 1080x1620 (WhatsApp / impresion media carta).
@@ -42,7 +42,7 @@ d.rectangle([0, 0, W, BAND], fill=band_col)
 lh_ = 150; lw_ = int(logo.width * lh_ / logo.height); logo = logo.resize((lw_, lh_), Image.LANCZOS)
 img.paste(logo, (60, 26))
 # etiqueta del programa, a la derecha del logo
-tag = 'PROGRAMA DE REFERIDOS · CAJAS Y COOPERATIVAS ALIADAS'
+tag = 'PROGRAMA DE REFERIDOS · ENTIDADES ALIADAS'
 ft = font('calibrib.ttf', 22)
 d.text((60, 182), tag, font=ft, fill=CREMA)
 
@@ -53,7 +53,7 @@ f_t = font('calibrib.ttf', 74)
 d.text((60, y), 'Tu recomendación', font=f_t, fill=OSC); y += 76
 d.text((60, y), 'también cuenta.', font=f_t, fill=OSC); y += 92
 f_b = font('georgiai.ttf', 33)
-y = parrafo(d, 60, y, 'Si eres asesor o asesora de una caja de compensación o cooperativa aliada de Heiiu, '
+y = parrafo(d, 60, y, 'Si eres asesor o asesora de una entidad aliada de Heiiu, '
             'recibes un bono por cada afiliado que se matricule con tu código.', f_b, GRIS, W - 120, lh=44)
 
 # ---- panel oscuro con el bono
