@@ -97,10 +97,10 @@ for i, (tit, sub) in enumerate(pasos):
     parrafo(d, cx0 + 20, yy, sub, font('calibri.ttf', 22), OSC, cw - 40, lh=27)
 y += ch + 30
 
-# ---- caja amarilla: programa de cupos (opcional, si se aprueba)
+# ---- caja amarilla: premio unico al cierre del piloto (un cupo, costo acotado)
 d.rounded_rectangle([60, y, W - 60, y + 112], radius=20, fill=AMAR)
-d.text((92, y + 20), 'Y SI LLEGAS A DOS MATRÍCULAS EN EL TRIMESTRE', font=font('calibrib.ttf', 25), fill=OSC)
-d.text((92, y + 56), 'un nivel de inglés en Heiiu para ti o para un familiar, además del bono.', font=font('georgiai.ttf', 29), fill=OSC)
+d.text((92, y + 20), 'Y AL CIERRE DEL PILOTO, UN PREMIO ÚNICO', font=font('calibrib.ttf', 25), fill=OSC)
+d.text((92, y + 56), 'quien traiga más matrículas pagadas gana un nivel de inglés para sí o para un familiar.', font=font('georgiai.ttf', 27), fill=OSC)
 y += 112 + 30
 
 # ---- condiciones en letra pequeña
