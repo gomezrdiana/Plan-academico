@@ -75,7 +75,7 @@ def pieza(key, cfg):
     d.text((72, 696), 'Presencial en Bucaramanga · única academia con garantía de aprendizaje por escrito', font=font('calibri.ttf', 24), fill=GRIS)
     bx, by, bw, bh = 72, 736, 400, 64
     d.rounded_rectangle([bx, by, bx + bw, by + bh], radius=14, fill=AMAR)
-    d.text((bx + 34, by + 15), 'Dinos para qué  →', font=font('calibrib.ttf', 30), fill=BG)
+    d.text((bx + 34, by + 15), 'Mi meta es…  →', font=font('calibrib.ttf', 30), fill=BG)
 
     cards = [('UN TRABAJO', 'la vacante que hoy\npasas de largo'), ('UN VIAJE', 'pasar inmigración con\ntus propias respuestas'),
              ('UN ESTUDIO', 'la beca o el posgrado\nsin ese requisito'), ('UN NEGOCIO', 'clientes de afuera\nsin traductor')]
