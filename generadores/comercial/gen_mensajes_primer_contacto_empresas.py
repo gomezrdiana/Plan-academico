@@ -62,32 +62,30 @@ bullets([
  'Un dato concreto de esa empresa para la primera línea (atiende clientes del exterior, abrió vacantes que piden inglés, exporta, tiene turnos fijos).',
  'Si está afiliada a Cajasan (se pregunta en la llamada o lo dice la empresa; no se supone).',
  'La empresa registrada en la pestaña EMPRESAS del tablero antes del primer toque. Cada toque se anota el mismo día.',
- 'Se envía desde el correo de la academia, de martes a jueves entre 7:00 y 9:00 a. m., sin adjuntos ni enlaces. Nunca desde un correo personal ni con copia oculta a varias empresas.'])
+ 'Se envía desde el correo de la academia, de martes a jueves, dentro del horario legal (7:00 a. m. a 7:00 p. m.). Según los estudios la hora exacta no cambia la respuesta; lo que importa es estar arriba en la bandeja cuando el gerente la abre: si los gerentes leen en la noche, se programa el envío para las 6:30 p. m.; si leen temprano, para las 7:00 a. m. Sin adjuntos ni enlaces. Nunca desde un correo personal ni con copia oculta a varias empresas.'])
 
 sec('2. Toque 1 · día 0 (miércoles) · correo al decisor · de 60 a 90 palabras')
 caja([
  'Asunto: Becas para [Empresa]',
  'Buenos días, [cargo y apellido]:',
  'Vi que [dato concreto: atienden clientes del exterior / abrieron vacantes que piden inglés].',
- 'En Heiiu English Academy abrimos becas con el nombre de [Empresa] para sus colaboradores, sin costo para la empresa, y usted recibe un reporte de la asistencia y el cumplimiento de sus becados. Cada uno estudia con garantía de aprendizaje por escrito.',
+ 'En Heiiu English Academy abrimos becas con el nombre de [Empresa] para sus colaboradores, sin costo para la empresa: un beneficio que usted le entrega a su gente sin tocar presupuesto, y con el que puede premiar a quien quiere retener. Cada becado estudia con garantía de aprendizaje por escrito.',
  '¿Le interesa que le cuente en 15 minutos cómo funciona?',
- '[Nombre] · Gerente de Alianzas Empresariales · Heiiu English Academy · [celular de la línea de alianzas]',
- 'Si no es para ustedes, me lo dice y no vuelvo a escribirle.'])
+ '[Nombre] · Gerente de Alianzas Empresariales · Heiiu English Academy · [celular de la línea de alianzas]'])
 t('Otros asuntos que sirven: "[Nombre], beneficio para su equipo" · "Afiliados Cajasan en [Empresa]" (solo si está afiliada; nunca que parezca que Cajasan envía el mensaje). En el primer correo se pregunta por el interés; el día y la hora van en el segundo o apenas respondan.', size=8.5, color=GRIS)
 caja([
- 'Asunto: Pacientes en inglés en [Clínica]',
+ 'Asunto: Pacientes que hablan inglés en [Clínica]',
  'Buenos días, [cargo y apellido]:',
  'Vi que [dato concreto: la clínica recibe pacientes del exterior / atiende procedimientos a extranjeros / tiene convenio de turismo de salud].',
- 'En Heiiu English Academy abrimos becas con el nombre de [Clínica] para su personal de recepción, enfermería y atención al paciente, sin costo para la clínica. Entrenan en situaciones reales de clínica, como atender al paciente que llama o escribe en inglés, y usted recibe el reporte de asistencia y cumplimiento de sus becados. Con garantía de aprendizaje por escrito.',
+ 'En Heiiu English Academy abrimos becas con el nombre de [Clínica] para su personal de recepción, enfermería y atención al paciente, sin costo para la clínica: un beneficio para su gente sin tocar presupuesto. Entrenan en situaciones reales de clínica, como atender al paciente que llama o escribe en inglés, con garantía de aprendizaje por escrito.',
  '¿Le interesa que le cuente en 15 minutos cómo funciona?',
- '[Nombre] · Gerente de Alianzas Empresariales · Heiiu English Academy · [celular de la línea de alianzas]',
- 'Si no es para ustedes, me lo dice y no vuelvo a escribirle.'], titulo='Variante para clínicas (mismo largo, mismo pedido; cambia el dato y lo que gana)')
+ '[Nombre] · Gerente de Alianzas Empresariales · Heiiu English Academy · [celular de la línea de alianzas]'], titulo='Variante para clínicas (mismo largo, mismo pedido; cambia el dato y lo que gana)')
 t('La misma idea sirve para hoteles, agencias y empresas que exportan: se cambia "paciente" por el cliente que ellos atienden. En clínicas con turnos rotativos, en la reunión se dice de frente que el programa es de horario fijo.', size=8.5, color=GRIS)
 
 sec('3. Toque 2 · día 2 (viernes) · respuesta en el mismo hilo · de 40 a 60 palabras · aquí van las dos franjas')
 caja([
  'Buenos días, [cargo y apellido]. Le sumo un solo dato:',
- 'Si está afiliada: "sus colaboradores afiliados a Cajasan ya acceden a la beca más alta de nuestro Fondo; la alianza les suma las becas con el nombre de [Empresa] y el reporte de asistencia."',
+ 'Si está afiliada: "sus colaboradores afiliados a Cajasan ya tienen la beca más alta de nuestro Fondo por su cuenta; lo que la alianza agrega es para la empresa: tres becas por trimestre con el nombre de [Empresa], que suben a cinco si todos sus becados cumplen, con certificado a su nombre, y la charla en su sede."',
  'Si no: "cada becado estudia con garantía de aprendizaje por escrito: si cumple y no avanza, la academia le devuelve el nivel."',
  '¿Le queda bien el martes a las 7:30 a. m. o el jueves a las 2:00 p. m.? Son 15 minutos, por llamada o en su oficina.'])
 
@@ -105,7 +103,7 @@ caja([
 t('Se marca en el tablero como "sin respuesta" y se vuelve a intentar a los 90 días con un motivo nuevo. Respondió "no": se agradece y se cierra; no se discute. Respondió "sí" en cualquier toque: se para la secuencia y se agenda.', size=8.5, color=GRIS)
 
 sec('6. WhatsApp: solo con permiso')
-t('La política de WhatsApp exige que la persona haya dado su número y aceptado recibir mensajes. Sin eso no se escribe, y nunca desde la línea principal de la academia. Sirve cuando hay tarjeta entregada, referido que autorizó o línea de atención publicada por la empresa.', size=9)
+t('La política de WhatsApp exige que la persona haya dado su número y aceptado recibir mensajes. Sin eso no se escribe. Sí se puede cuando la persona le dio el número antes: un contacto de un trabajo anterior, una reunión, una tarjeta entregada, un referido que autorizó o la línea de atención publicada por la empresa. Se escribe desde el celular del cargo (por ahora, el propio), nunca desde la línea principal de la academia.', size=9)
 caja([
  '"Buenos días, [nombre]. Soy [Nombre], de Heiiu English Academy; [referido] me dio su número y me dijo que usted lleva el bienestar en [Empresa]. ¿Le puedo escribir por aquí sobre unas becas para su equipo, sin costo para la empresa?"',
  '"Buenos días. Soy [Nombre], Gerente de Alianzas de Heiiu English Academy. ¿Con quién hablo sobre beneficios de formación para los colaboradores de [Empresa]? Es una alianza sin costo para la empresa; con 15 minutos basta."'])
@@ -121,16 +119,16 @@ tabla(['Regla', 'Por qué'], [
  ('Cada seguimiento trae algo nuevo; al tercer toque se cambia de canal', 'Entre el 42% y el 59% de las respuestas llega en los seguimientos; "¿vio mi correo?" no trae nada.'),
  ('Sin adjuntos ni enlaces en el primer contacto; desde el correo de la academia', 'Los adjuntos y enlaces afectan la entrega; el dominio propio responde el doble que un correo gratuito.'),
  ('Palabras que no se escriben: gratis, descuento, fácil, rápido, nómina, patrocinio', 'Se dice "sin costo para la empresa" y "beca del Fondo". No se nombran otras academias ni se promete empleo o resultado.'),
- ('Horario legal, un contacto al día, un canal por semana, salida en cada mensaje', 'Lunes a viernes 7 a. m. a 7 p. m., sábados 8 a. m. a 3 p. m.; nunca domingos ni festivos.'),
+ ('Horario legal, un contacto al día, un canal por semana; la línea de salida solo en el cierre', 'Lunes a viernes 7 a. m. a 7 p. m., sábados 8 a. m. a 3 p. m.; nunca domingos ni festivos.'),
 ], [7.6, 10.2])
 
 sec('8. Lo que hace que no respondan (y que el correo se borre)')
 bullets([
  '"Estimado responsable de Recursos Humanos" sin nombre: se lee como correo masivo.',
  'Hablar de "nuestro programa", "queremos presentarle", y listas de competencias o virtudes: eso es pedagogía interna, no es lo que gana el gerente.',
- 'Hablar de "la inversión de la organización" antes de que sepa que hay opción sin costo para la empresa.',
+ 'Empezar por lo que la empresa tendría que pagar ("la inversión de la organización"). Nosotros decimos primero que la alianza no le cuesta; el plan empresa pagado se ofrece en la reunión, si quiere formar.',
  '"¿Podríamos agendar una breve conversación?": pregunta abierta sin interés ni fecha. No ganó en ninguna etapa.',
- 'Más de 100 palabras, párrafos largos, adjuntos, varias peticiones, cargo o firma incompletos, sin celular de contacto.'], size=9)
+ 'Más de 100 palabras, párrafos largos, adjuntos, varias peticiones, firma sin cargo completo ni número de celular para que el gerente pueda llamar o escribir.'], size=9)
 t('Lo que no está en esta hoja (clase de prueba, cupos sin costo, precios especiales) no se ofrece: se agenda con gerencia. Fuente completa: INVESTIGACION_CONTACTO_FRIO_EMPRESAS_2026-10-21.', size=8.5, color=GRIS, after=0)
 
 try: d.save(OUT); print('OK', OUT)
