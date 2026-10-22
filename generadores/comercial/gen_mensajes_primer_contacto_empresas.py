@@ -69,7 +69,7 @@ caja([
  'Asunto: Becas para [Empresa]',
  'Buenos días, [cargo y apellido]:',
  'Vi que [dato concreto: atienden clientes del exterior / abrieron vacantes que piden inglés].',
- 'En Heiiu English Academy abrimos becas con el nombre de [Empresa] para sus colaboradores, sin costo para la empresa: un beneficio que usted le entrega a su gente sin tocar presupuesto, y con el que puede premiar a quien quiere retener. Cada becado estudia con garantía de aprendizaje por escrito.',
+ 'En Heiiu English Academy abrimos becas con el nombre de [Empresa] para sus colaboradores [en una fundación: para su equipo y sus beneficiarios], sin costo para la empresa: un beneficio que usted le entrega a su gente sin tocar presupuesto, y con el que puede premiar a quien quiere retener. Cada becado estudia con garantía de aprendizaje por escrito.',
  '¿Le interesa que le cuente en 15 minutos cómo funciona?',
  '[Nombre] · Gerente de Alianzas Empresariales · Heiiu English Academy · [celular de la línea de alianzas]'])
 t('Otros asuntos que sirven: "[Nombre], beneficio para su equipo" · "Afiliados Cajasan en [Empresa]" (solo si está afiliada; nunca que parezca que Cajasan envía el mensaje). En el primer correo se pregunta por el interés; el día y la hora van en el segundo o apenas respondan.', size=8.5, color=GRIS)
@@ -115,7 +115,7 @@ tabla(['Regla', 'Por qué'], [
  ('La primera línea habla de su empresa, no de la academia', 'Lo centrado en el producto y las listas de métodos o virtudes bajan la respuesta.'),
  ('Un solo pedido: 15 minutos', 'Dos pedidos en 9 segundos de lectura son ninguno.'),
  ('Toque 1 pregunta por el interés; las dos franjas van en el toque 2 o cuando respondan', 'En frío ganó "¿le interesa?"; con la conversación abierta ganó proponer día y hora.'),
- ('Una sola frase de respaldo, verificable', 'Licencia desde 2012, ICONTEC o garantía por escrito. Una, no las tres.'),
+ ('Una sola frase de respaldo, verificable', 'En los correos modelo esa frase es la garantía por escrito ("cada becado estudia con garantía de aprendizaje por escrito"). Licencia desde 2012 e ICONTEC se guardan para la reunión; no se apilan las tres.'),
  ('Cada seguimiento trae algo nuevo; al tercer toque se cambia de canal', 'Entre el 42% y el 59% de las respuestas llega en los seguimientos; "¿vio mi correo?" no trae nada.'),
  ('Sin adjuntos ni enlaces en el primer contacto; desde el correo de la academia', 'Los adjuntos y enlaces afectan la entrega; el dominio propio responde el doble que un correo gratuito.'),
  ('Palabras que no se escriben: gratis, descuento, fácil, rápido, nómina, patrocinio', 'Se dice "sin costo para la empresa" y "beca del Fondo". No se nombran otras academias ni se promete empleo o resultado.'),
