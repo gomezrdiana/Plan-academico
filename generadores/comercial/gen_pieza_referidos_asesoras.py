@@ -78,8 +78,8 @@ y = py1 + 48
 # ---- como funciona: 4 pasos
 d.text((60, y), '¿Cómo funciona?', font=font('calibrib.ttf', 44), fill=OSC); y += 70
 pasos = [
-    ('Comparte', 'Le cuentas a tu afiliado que puede estudiar inglés en Heiiu y le das tu código de asesor.'),
-    ('Se matricula', 'Firma el contrato, paga el programa de contado y entrega tu código en la matrícula.'),
+    ('Comparte', 'Le muestras tu QR al afiliado o le reenvías tu enlace. El mensaje ya lleva tu código.'),
+    ('Se matricula', 'Escribe a Heiiu con tu código, firma el contrato y paga el programa de contado.'),
     ('Entra el pago', 'Pasan los cinco días de retracto y Heiiu recibe el pago completo del programa.'),
     ('Recargamos tu bono', 'Ese mes cargamos $200.000 a tu tarjeta. Sin cuentas de cobro ni papeles.'),
 ]
@@ -105,7 +105,7 @@ y += 146 + 30
 
 # ---- condiciones en letra pequeña
 cond = ('Condiciones: el bono se causa por matrícula pagada de contado (directo o con el crédito de la entidad), con contrato firmado y los cinco días de retracto cumplidos, '
-        'una vez Heiiu recibe el pago. No aplica para matrículas financiadas por cuotas con Heiiu. Un código por asesor; sin código no hay bono. Bono nominativo, entregado en tarjeta recargable; '
+        'una vez Heiiu recibe el pago, y dentro de los 30 días siguientes al primer mensaje del afiliado. No aplica para matrículas financiadas por cuotas con Heiiu. Un código por asesor; sin código no hay bono. Bono nominativo, entregado en tarjeta recargable; '
         'no se paga en efectivo. Programa piloto vigente hasta el 31 de enero de 2027 e informado a la dirección de cada oficina.')
 y = parrafo(d, 60, y, cond, font('calibri.ttf', 19), GRIS, W - 120, lh=24)
 
