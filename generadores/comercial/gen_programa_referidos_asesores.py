@@ -77,7 +77,7 @@ sec('3. Quién hace qué')
 tabla(['Paso', 'Responsable', 'Qué hace'], [
  ('1', 'Asesora de la entidad', 'Le cuenta al afiliado y le muestra su QR o le reenvía su enlace.'),
  ('2', 'Afiliado', 'Escanea el QR o toca el enlace y envía el mensaje con el código a la línea de alianzas.'),
- ('3', 'Gerente de alianzas', 'Responde en menos de un día hábil, confirma el código contra la lista de códigos y agenda la cita. Cierra él o la pasa a la asesora comercial: durante el piloto él también vende.'),
+ ('3', 'Gerente de alianzas', 'Responde en menos de un día hábil, confirma el código contra la lista de códigos y agenda la cita. Cierra él o la pasa a la asesora comercial.'),
  ('4', 'Quien cierre', 'Cita, cierre y matrícula. El código de la asesora de la entidad queda escrito en el contrato o en el formulario de matrícula.'),
  ('5', 'Coordinación', 'Anota en la hoja de cálculo cada mensaje con código y marca: contactado · cita · matrícula pagada · bono recargado, con fecha. Verifica base previa y los 30 días.'),
  ('6', 'Financiero', 'Revisa el cierre contable del mes, confirma pago recibido y retracto cumplido, y autoriza la recarga.'),
