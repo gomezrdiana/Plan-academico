@@ -97,7 +97,7 @@ tabla(['Pendiente', 'Responsable'], [
  ('Dos cotizaciones del proveedor de tarjeta: emisión, comisión por recarga, compra mínima, y su carta de condiciones.', 'Gerente de alianzas'),
  ('Concepto de la contadora: registro del gasto, retención si aplica, soporte de cada recarga.', 'Gerencia'),
  ('Autorización firmada del descuento de $100.000 por bono en la comisión del gerente de alianzas.', 'Gerente de alianzas y gerencia'),
- ('Lista de códigos por asesora (sin nombres en la lista que circula) y un QR por código, impreso y por WhatsApp.', 'Gerente de alianzas la lista; gerencia los QR'),
+ ('Los códigos y sus QR ya existen (C-01 a C-10). Cada código se asigna a una asesora al inscribirla en la hoja ASESORAS del Excel de registro, con su autorización de datos firmada; se le entrega su QR impreso y por WhatsApp. Más códigos cuando se agoten.', 'Gerente de alianzas'),
  ('Aval de la dirección de cada oficina donde se presente el programa, antes de la primera asesora.', 'Gerente de alianzas'),
 ], [13.6, 4.8])
 
