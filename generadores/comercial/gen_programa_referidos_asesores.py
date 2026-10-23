@@ -54,17 +54,17 @@ t('Qué es: un bono para el asesor o asesora de una entidad aliada (caja, cooper
 
 sec('1. El bono')
 tabla(['Punto', 'Regla'], [
- ('Monto', '$200.000 por matrícula. Fijo, igual para todas las entidades y todas las asesoras. Ni un peso más sin pasar por gerencia.'),
+ ('Monto', '$200.000 por matrícula. Fijo, igual para todas las entidades y todas las asesoras.'),
  ('Medio', 'Tarjeta recargable a nombre de la asesora, comprada por Heiiu a un proveedor que factura. Nunca efectivo, nunca transferencia personal, nunca "detalles".'),
  ('Cuándo se causa', 'Matrícula con contrato firmado, pagada de contado (directo o con el crédito de la entidad), con los cinco días de retracto cumplidos y el pago recibido por Heiiu. En las entidades que pagan a 30 días, cuando pagan.'),
- ('Cuándo se recarga', 'En el cierre del mes en que entra el pago. La recarga la autoriza el financiero después de revisar el cierre contable del mes. El gerente de alianzas no autoriza recargas: es parte interesada.'),
+ ('Cuándo se recarga', 'En el cierre del mes en que entra el pago. La recarga la autoriza el financiero después de revisar el cierre contable del mes.'),
  ('No aplica', 'Matrículas financiadas por cuotas con Heiiu; afiliados con gestión humana de nuestro equipo en los 30 días previos a su mensaje; referidos sin código; retiros dentro del retracto.'),
  ('Financiación del piloto', 'De cada bono, $100.000 los pone Heiiu y $100.000 se descuentan de la comisión del gerente de alianzas por esa misma matrícula, con su autorización firmada. Se revisa al cierre del piloto; si cambia, se aumenta el bono o se deja igual.'),
 ], [3.2, 15.2])
 
 sec('2. Código y QR de cada asesora (no hay formulario)')
 t('Cada asesora tiene un código propio (por ejemplo C-07) y un QR con ese código, impreso y por WhatsApp. El QR abre WhatsApp en la línea de alianzas (316 768 8793) con el mensaje ya escrito: '
-  '"Hola, quiero información para estudiar inglés en Heiiu. Código de asesor: C-07". El mismo enlace se reenvía por WhatsApp. La asesora no digita datos de nadie.', after=2)
+  '"Hola, quiero información para estudiar inglés en Heiiu. Código de asesor: C-07". El mismo enlace (uno por código, en el archivo ENLACES_CODIGOS.txt junto a los QR) se reenvía por WhatsApp. La asesora no digita datos de nadie.', after=2)
 t('El primer mensaje lo manda el afiliado, no nosotros: escanea el QR o toca el enlace y pulsa enviar. Su número, el código y la hora quedan en la línea; ese es el registro. Heiiu no llama a nadie que no haya escrito. '
   'Coordinación lleva en una hoja de cálculo cada mensaje con código: fecha, código, celular, contactado, cita, matrícula pagada, bono recargado.', after=2)
 tabla(['Regla', 'Para qué'], [
