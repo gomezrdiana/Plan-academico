@@ -66,7 +66,7 @@ sec('2. Registro del referido (formulario)')
 t('Formulario creado desde la cuenta institucional, nunca desde un correo personal. Respuestas en una hoja de cálculo que ve gerencia. Campos: código de asesor · entidad y oficina · nombre del afiliado · celular del afiliado · para qué quiere el inglés (opcional) · '
   'casilla obligatoria "el afiliado sabe que lo registro y está de acuerdo en que Heiiu le escriba". Fecha y hora las pone el formulario.', after=2)
 t('El primer mensaje a Heiiu lo manda el afiliado, no nosotros. Al enviar el formulario, la asesora recibe un texto listo para reenviarle: '
-  '"Hola, para estudiar inglés en Heiiu escribe al 317 768 8793 y da el código [código]. Te atienden en menos de un día hábil." Heiiu no llama a nadie que no haya escrito.', after=2)
+  '"Hola, para estudiar inglés en Heiiu escribe al 316 768 8793 y da el código [código]. Te atienden en menos de un día hábil." Heiiu no llama a nadie que no haya escrito.', after=2)
 tabla(['Regla', 'Para qué'], [
  ('Primer registro gana', 'Si dos asesoras registran el mismo celular, el bono es de la que registró primero. La hora del formulario decide.'),
  ('Vale 90 días', 'Si el afiliado se matricula después de tres meses del registro, no hay bono.'),
