@@ -57,7 +57,7 @@ tabla(['Punto', 'Regla'], [
  ('Monto', '$200.000 por matrícula. Fijo, igual para todas las entidades y todas las asesoras. Ni un peso más sin pasar por gerencia.'),
  ('Medio', 'Tarjeta recargable a nombre de la asesora, comprada por Heiiu a un proveedor que factura. Nunca efectivo, nunca transferencia personal, nunca "detalles".'),
  ('Cuándo se causa', 'Matrícula con contrato firmado, pagada de contado (directo o con el crédito de la entidad), con los cinco días de retracto cumplidos y el pago recibido por Heiiu. En las entidades que pagan a 30 días, cuando pagan.'),
- ('Cuándo se recarga', 'En el cierre del mes en que entra el pago. La recarga la autoriza gerencia con el visto bueno de la contadora. El gerente de alianzas no autoriza recargas: es parte interesada.'),
+ ('Cuándo se recarga', 'En el cierre del mes en que entra el pago. La recarga la autoriza el financiero después de revisar el cierre contable del mes. El gerente de alianzas no autoriza recargas: es parte interesada.'),
  ('No aplica', 'Matrículas financiadas por cuotas con Heiiu; afiliados que ya estaban en nuestra base antes del registro; referidos sin código; retiros dentro del retracto.'),
  ('Financiación del piloto', 'De cada bono, $100.000 los pone Heiiu y $100.000 se descuentan de la comisión del gerente de alianzas por esa misma matrícula, con su autorización firmada. Se revisa al cierre del piloto; si cambia, cambia hacia arriba o se cierra el programa, nunca se baja un bono ya anunciado.'),
 ], [3.2, 15.2])
@@ -80,7 +80,7 @@ tabla(['Paso', 'Responsable', 'Qué hace'], [
  ('3', 'Gerente de alianzas', 'Responde en menos de un día hábil, confirma el código contra la hoja y pasa el contacto a la asesora comercial para la cita. No vende él.'),
  ('4', 'Asesora comercial', 'Cita, cierre y matrícula. El código de la asesora de la entidad queda escrito en el contrato o en el formulario de matrícula.'),
  ('5', 'Coordinación', 'En la hoja de respuestas marca: contactado · cita · matrícula pagada · bono recargado, con fecha. Verifica base previa y los 90 días.'),
- ('6', 'Contadora y gerencia', 'Confirman pago recibido y retracto cumplido; gerencia autoriza la recarga en el cierre del mes.'),
+ ('6', 'Financiero', 'Revisa el cierre contable del mes, confirma pago recibido y retracto cumplido, y autoriza la recarga.'),
  ('7', 'Gerente de alianzas', 'Reporta el lunes en el tablero de alianzas: registros, citas, matrículas y bonos del piloto, por entidad y por asesora.'),
 ], [1.0, 3.6, 13.8])
 
