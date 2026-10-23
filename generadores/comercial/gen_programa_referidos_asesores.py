@@ -69,7 +69,7 @@ t('El primer mensaje lo manda el afiliado, no nosotros: escanea el QR o toca el 
   'Coordinación lleva en una hoja de cálculo cada mensaje con código: fecha, código, celular, contactado, cita, matrícula pagada, bono recargado.', after=2)
 tabla(['Regla', 'Para qué'], [
  ('Primer mensaje gana', 'Si un mismo celular llega con dos códigos, el bono es del código del primer mensaje. La hora de WhatsApp decide.'),
- ('Vale 30 días', 'Si la matrícula no se paga dentro de los 30 días siguientes al primer mensaje, no hay bono: la asesora lo ayuda a matricularse rápido.'),
+ ('Vale 30 días', 'Si la matrícula no se paga dentro de los 30 días siguientes al primer mensaje, no hay bono. La intención es que la asesora ayude a gestionar una matrícula rápida.'),
  ('Base previa', 'Que el celular ya esté en nuestra base (pauta, plataforma, reactivaciones) no quita el bono. Lo quita que en los 30 días previos al mensaje alguien del equipo lo haya llamado o gestionado; los mensajes automáticos del bot no cuentan como gestión. Coordinación lo verifica antes de marcar la matrícula como referida.'),
 ], [3.2, 15.2])
 
