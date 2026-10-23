@@ -43,11 +43,7 @@ os.makedirs(OUTDIR, exist_ok=True)
 lineas = []
 for c in codigos:
     out = os.path.join(OUTDIR, 'QR_%s.png' % c)
-    tarjeta(c).save(out); print('OK', c); lineas.append('%s	%s' % (c, enlace(c)))
+    tarjeta(c).save(out); print('OK', c); lineas.append(c + '   ' + enlace(c))
 with open(os.path.join(OUTDIR, 'ENLACES_CODIGOS.txt'), 'w', encoding='utf-8') as f:
-    f.write('Enlace de WhatsApp por codigo (es el mismo que abre el QR). La asesora lo reenvia al afiliado tal cual.
-
-' + '
-'.join(lineas) + '
-')
+    f.write('Enlace de WhatsApp por codigo (es el mismo que abre el QR). La asesora lo reenvia al afiliado tal cual.' + chr(10) * 2 + chr(10).join(lineas) + chr(10))
 print('ENLACES_CODIGOS.txt ok')
