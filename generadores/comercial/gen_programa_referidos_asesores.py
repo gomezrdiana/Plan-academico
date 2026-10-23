@@ -59,7 +59,7 @@ tabla(['Punto', 'Regla'], [
  ('Cuándo se causa', 'Matrícula con contrato firmado, pagada de contado (directo o con el crédito de la entidad), con los cinco días de retracto cumplidos y el pago recibido por Heiiu. En las entidades que pagan a 30 días, cuando pagan.'),
  ('Cuándo se recarga', 'En el cierre del mes en que entra el pago. La recarga la autoriza el financiero después de revisar el cierre contable del mes. El gerente de alianzas no autoriza recargas: es parte interesada.'),
  ('No aplica', 'Matrículas financiadas por cuotas con Heiiu; afiliados que ya estaban en nuestra base antes del registro; referidos sin código; retiros dentro del retracto.'),
- ('Financiación del piloto', 'De cada bono, $100.000 los pone Heiiu y $100.000 se descuentan de la comisión del gerente de alianzas por esa misma matrícula, con su autorización firmada. Se revisa al cierre del piloto; si cambia, cambia hacia arriba o se cierra el programa, nunca se baja un bono ya anunciado.'),
+ ('Financiación del piloto', 'De cada bono, $100.000 los pone Heiiu y $100.000 se descuentan de la comisión del gerente de alianzas por esa misma matrícula, con su autorización firmada. Se revisa al cierre del piloto; si cambia, se aumenta el bono o se deja igual.'),
 ], [3.2, 15.2])
 
 sec('2. Registro del referido (formulario)')
