@@ -8,7 +8,7 @@ Salida: recursos/comercial/INDUCCION_COMERCIAL/contratacion comercial/PIEZA_REFE
 import os, shutil
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-W, H = 1080, 1760
+W, H = 1080, 1820
 NAR = (229, 76, 9); AMAR = (251, 201, 0); CREMA = (255, 248, 231); OSC = (48, 39, 28); GRIS = (110, 100, 88); BLANCO = (255, 255, 255)
 F = 'C:/Windows/Fonts/'
 ROOT = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu'
@@ -58,17 +58,18 @@ y = parrafo(d, 60, y, 'Si eres asesor o asesora de una entidad aliada de Heiiu, 
 
 # ---- panel oscuro con el bono
 y += 28
-px0, py0, px1, py1 = 60, y, W - 60, y + 280
+px0, py0, px1, py1 = 60, y, W - 60, y + 316
 sh = Image.new('RGBA', (W, H), (0, 0, 0, 0)); sd = ImageDraw.Draw(sh)
 sd.rounded_rectangle([px0 + 6, py0 + 14, px1 + 6, py1 + 14], radius=28, fill=(0, 0, 0, 70)); sh = sh.filter(ImageFilter.GaussianBlur(12))
 img = Image.alpha_composite(img.convert('RGBA'), sh).convert('RGB'); d = ImageDraw.Draw(img)
 d.rounded_rectangle([px0, py0, px1, py1], radius=28, fill=OSC)
-d.text((px0 + 48, py0 + 40), 'POR CADA MATRÍCULA, RECARGAMOS TU BONO CON', font=font('calibrib.ttf', 26), fill=CREMA)
+d.text((px0 + 48, py0 + 36), 'POR CADA MATRÍCULA DE CONTADO, RECARGAMOS TU BONO CON', font=font('calibrib.ttf', 26), fill=CREMA)
 f_n = font('georgiab.ttf', 118)
-d.text((px0 + 44, py0 + 86), '$200.000', font=f_n, fill=AMAR)
-d.text((px0 + 48, py0 + 218), 'en tu tarjeta recargable, a tu nombre', font=font('calibri.ttf', 30), fill=CREMA)
+d.text((px0 + 44, py0 + 80), '$200.000', font=f_n, fill=AMAR)
+d.text((px0 + 48, py0 + 212), 'en tu tarjeta recargable, a tu nombre', font=font('calibri.ttf', 30), fill=CREMA)
+d.text((px0 + 48, py0 + 254), 'Matrícula a cuotas: $50.000 cuando el afiliado pague la mitad.', font=font('calibrib.ttf', 27), fill=AMAR)
 # sello lateral
-cx, cy, r = px1 - 120, py0 + 140, 84
+cx, cy, r = px1 - 120, py0 + 124, 84
 d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=NAR)
 d.text((cx, cy - 28), 'PILOTO', font=font('calibrib.ttf', 26), fill=CREMA, anchor='mm')
 d.text((cx, cy + 2), 'hasta el', font=font('calibri.ttf', 22), fill=CREMA, anchor='mm')
@@ -79,12 +80,12 @@ y = py1 + 48
 d.text((60, y), '¿Cómo funciona?', font=font('calibrib.ttf', 44), fill=OSC); y += 70
 pasos = [
     ('Comparte', 'Le muestras tu QR al afiliado o le reenvías tu enlace. El mensaje ya lleva tu código.'),
-    ('Se matricula', 'Escribe a Heiiu con tu código, firma el contrato y paga el programa de contado.'),
-    ('Entra el pago', 'Pasan los cinco días de retracto y Heiiu recibe el pago completo del programa.'),
-    ('Recargamos tu bono', 'Ese mes cargamos $200.000 a tu tarjeta. Sin cuentas de cobro ni papeles.'),
+    ('Se matricula', 'Escribe a Heiiu con tu código, firma el contrato y paga el programa.'),
+    ('Entra el pago', 'Cinco días de retracto y entra el pago: todo de contado, o la mitad si es a cuotas.'),
+    ('Recargamos tu bono', 'Ese mes cargamos tu bono: $200.000 de contado, $50.000 a cuotas. Sin papeles.'),
 ]
 cw, gap = (W - 120 - 3 * 18) // 4, 18
-ch = 272
+ch = 296
 for i, (tit, sub) in enumerate(pasos):
     cx0 = 60 + i * (cw + gap)
     d.rounded_rectangle([cx0, y, cx0 + cw, y + ch], radius=20, fill=BLANCO, outline=(232, 220, 200), width=2)
@@ -100,12 +101,12 @@ y += ch + 30
 # ---- caja amarilla: premio unico al cierre del piloto (un cupo, costo acotado)
 d.rounded_rectangle([60, y, W - 60, y + 146], radius=20, fill=AMAR)
 d.text((92, y + 20), 'Y AL CIERRE DEL PILOTO, UN PREMIO ÚNICO', font=font('calibrib.ttf', 25), fill=OSC)
-parrafo(d, 92, y + 56, 'quien traiga más matrículas pagadas gana un nivel de inglés para sí o para un familiar.', font('georgiai.ttf', 29), OSC, W - 120 - 64, lh=38)
+parrafo(d, 92, y + 56, 'quien traiga más matrículas con bono gana un nivel de inglés para sí o para un familiar.', font('georgiai.ttf', 29), OSC, W - 120 - 64, lh=38)
 y += 146 + 30
 
 # ---- condiciones en letra pequeña
-cond = ('Condiciones: el bono se causa por matrícula pagada de contado (directo o con el crédito de la entidad), con contrato firmado y los cinco días de retracto cumplidos, '
-        'una vez Heiiu recibe el pago, y dentro de los 30 días siguientes al primer mensaje del afiliado. No aplica para matrículas financiadas por cuotas con Heiiu. Un código por asesor; sin código no hay bono. Bono nominativo, entregado en tarjeta recargable; '
+cond = ('Condiciones: $200.000 por matrícula pagada de contado (directo o con el crédito de la entidad) y $50.000 por matrícula a cuotas con Heiiu, cuando el afiliado haya pagado la mitad del programa al día. '
+        'En ambos casos: contrato firmado, cinco días de retracto cumplidos, pago recibido por Heiiu y matrícula dentro de los 30 días siguientes al primer mensaje del afiliado. Un código por asesor; sin código no hay bono. Bono nominativo, entregado en tarjeta recargable; '
         'no se paga en efectivo. Programa piloto vigente hasta el 31 de enero de 2027 e informado a la dirección de cada oficina.')
 y = parrafo(d, 60, y, cond, font('calibri.ttf', 19), GRIS, W - 120, lh=24)
 
