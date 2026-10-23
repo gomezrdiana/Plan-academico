@@ -63,10 +63,10 @@ tabla(['Punto', 'Regla'], [
 ], [3.2, 15.2])
 
 sec('2. Código y QR de cada asesora (no hay formulario)')
-t('Cada asesora tiene un código propio (por ejemplo C-07) y un QR con ese código, impreso y por WhatsApp. El QR abre WhatsApp en la línea de alianzas (316 768 8793) con el mensaje ya escrito: '
-  '"Hola, quiero información para estudiar inglés en Heiiu. Código de asesor: C-07". El mismo enlace (uno por código, en el archivo ENLACES_CODIGOS.txt junto a los QR) se reenvía por WhatsApp. La asesora no digita datos de nadie.', after=2)
+t('Cada asesora tiene un código propio (por ejemplo C-07), un QR y un enlace con ese código. Los dos abren WhatsApp en la línea de alianzas (316 768 8793) con el mensaje ya escrito: '
+  '"Hola, quiero información para estudiar inglés en Heiiu. Código de asesor: C-07". La asesora muestra el QR o reenvía el enlace; no digita datos de nadie.', after=2)
 t('El primer mensaje lo manda el afiliado, no nosotros: escanea el QR o toca el enlace y pulsa enviar. Su número, el código y la hora quedan en la línea; ese es el registro. Heiiu no llama a nadie que no haya escrito. '
-  'Coordinación lleva en una hoja de cálculo cada mensaje con código: fecha, código, celular, contactado, cita, matrícula pagada, bono recargado.', after=2)
+  'Cada mensaje con código se anota el mismo día en el Excel de registro (REGISTRO_REFERIDOS_ASESORAS), que vive en Google Drive compartido con gerencia y con coordinación, para que las dos vean la actividad sin pedir el archivo.', after=2)
 tabla(['Regla', 'Para qué'], [
  ('Primer mensaje gana', 'Si un mismo celular llega con dos códigos, el bono es del código del primer mensaje. La hora de WhatsApp decide.'),
  ('Vale 30 días', 'Si la matrícula no se paga dentro de los 30 días siguientes al primer mensaje, no hay bono. La intención es que la asesora ayude a gestionar una matrícula rápida.'),
@@ -77,9 +77,9 @@ sec('3. Quién hace qué')
 tabla(['Paso', 'Responsable', 'Qué hace'], [
  ('1', 'Asesora de la entidad', 'Le cuenta al afiliado y le muestra su QR o le reenvía su enlace.'),
  ('2', 'Afiliado', 'Escanea el QR o toca el enlace y envía el mensaje con el código a la línea de alianzas.'),
- ('3', 'Gerente de alianzas', 'Responde en menos de un día hábil, confirma el código contra la lista de códigos y agenda la cita. Cierra él o la pasa a la asesora comercial.'),
+ ('3', 'Gerente de alianzas', 'Responde en menos de un día hábil, anota el mensaje en el Excel de registro y agenda la cita. Cierra él o la pasa a la asesora comercial.'),
  ('4', 'Quien cierre', 'Cita, cierre y matrícula. El código de la asesora de la entidad queda escrito en el contrato o en el formulario de matrícula.'),
- ('5', 'Coordinación', 'Anota en la hoja de cálculo cada mensaje con código y marca: contactado · cita · matrícula pagada · bono recargado, con fecha. Verifica base previa y los 30 días.'),
+ ('5', 'Coordinación', 'En el Excel verifica gestión previa y los 30 días, y marca con fecha: matrícula pagada · pago recibido · retracto cumplido · bono recargado.'),
  ('6', 'Financiero', 'Revisa el cierre contable del mes, confirma pago recibido y retracto cumplido, y autoriza la recarga.'),
  ('7', 'Gerente de alianzas', 'Reporta el lunes en el tablero de alianzas: registros, citas, matrículas y bonos del piloto, por entidad y por asesora.'),
 ], [1.0, 3.6, 13.8])
@@ -94,7 +94,8 @@ caja('• Efectivo, transferencias o cualquier pago fuera de la tarjeta.  • M�
 
 sec('6. Antes de arrancar (sin esto no se entrega la primera tarjeta)')
 tabla(['Pendiente', 'Responsable'], [
- ('Dos cotizaciones del proveedor de tarjeta: emisión, comisión por recarga, compra mínima, y su carta de condiciones.', 'Gerente de alianzas'),
+ ('Condiciones del proveedor de tarjeta por escrito: permanencia, saldos, entrega, factura y contrato a nombre de la razón social.', 'Gerente de alianzas'),
+ ('Excel de registro en Google Drive, compartido con gerencia y coordinación.', 'Gerente de alianzas'),
  ('Concepto de la contadora: registro del gasto, retención si aplica, soporte de cada recarga.', 'Gerencia'),
  ('Autorización firmada del descuento de $100.000 por bono en la comisión del gerente de alianzas.', 'Gerente de alianzas y gerencia'),
  ('Los códigos y sus QR ya existen (C-01 a C-10). Cada código se asigna a una asesora al inscribirla en la hoja ASESORAS del Excel de registro, con su autorización de datos firmada; se le entrega su QR impreso y por WhatsApp. Más códigos cuando se agoten.', 'Gerente de alianzas'),
