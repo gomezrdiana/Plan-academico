@@ -87,10 +87,10 @@ tabla(['Paso', 'Responsable', 'Qué hace'], [
 sec('4. Premio único al cierre del piloto')
 t('La asesora que más matrículas pagadas traiga hasta el 31 de enero de 2027 recibe un nivel de inglés en Heiiu para ella o para un familiar, en un grupo con cupo disponible. Un solo premio; en empate, gana quien llegó primero al número. No hay metas por mes ni por trimestre.')
 
-sec('5. Lo que el gerente de alianzas no puede ofrecer ni hacer')
+sec('5. Lo que no ofrecemos ni hacemos')
 caja('• Efectivo, transferencias o cualquier pago fuera de la tarjeta.  • Más de $200.000 o cualquier escalera de montos.  • Metas por mes o por trimestre.  '
      '• Piezas con logos de las entidades, o piezas distintas a la aprobada por gerencia.  • Entrar a una oficina con el programa sin que la dirección de esa oficina lo sepa; si una entidad dice que sus asesoras no pueden recibirlo, en esa entidad el programa se cae y queda solo el premio.  '
-     '• Contactar a un afiliado antes de que escriba.  • Aportar él mismo dinero, bonos o regalos a una asesora.')
+     '• Contactar a un afiliado antes de que escriba.  • Dinero, bonos o regalos a una asesora por fuera del programa.')
 
 sec('6. Antes de arrancar (sin esto no se entrega la primera tarjeta)')
 tabla(['Pendiente', 'Responsable'], [
