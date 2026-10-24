@@ -72,6 +72,6 @@ t('Diana Marcela Gómez Rangel', bold=True, after=0)
 t('Gerente · Heiiu English Academy · Global Teacher S.A.S.', size=8, color=GRIS, after=4)
 t('Acepto los términos de esta oferta:  _________________________________   Fecha: ____ / ____ / 2026', size=8.5)
 
-out = BASE + r'\CARTA_OFERTA_JOHN_2026-10.docx'
+out = BASE + r'\contrato\CARTA_OFERTA_JOHN_2026-10.docx'
 try: d.save(out); print('OK', out)
 except PermissionError: d.save(out.replace('.docx', '_v2.docx')); print('ABIERTO -> _v2')

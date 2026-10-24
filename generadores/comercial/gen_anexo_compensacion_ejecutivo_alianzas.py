@@ -81,6 +81,6 @@ p('_______________________________                    __________________________
 p('EL EMPLEADOR                                                         EL TRABAJADOR', after=0)
 
 out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\ANEXO_COMPENSACION_EJECUTIVO_ALIANZAS_BORRADOR.docx'
-if FIRMA: out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\LINKEDIN DIANA GOMEZ\Candidatos\John Hinestroza\ANEXO_1_COMPENSACION_JOHN_PARA_FIRMA.docx'
+if FIRMA: out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\LINKEDIN DIANA GOMEZ\Candidatos\John Hinestroza\contrato\ANEXO_1_COMPENSACION_JOHN_PARA_FIRMA.docx'
 try: d.save(out); print('OK', out)
 except PermissionError: d.save(out.replace('.docx', '_v2.docx')); print('ABIERTO -> _v2')

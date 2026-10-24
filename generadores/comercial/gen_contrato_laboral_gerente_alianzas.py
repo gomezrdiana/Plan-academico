@@ -7,7 +7,7 @@ from docx.shared import Pt, RGBColor, Cm
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 GRIS = RGBColor(0x66, 0x66, 0x66)
-OUT = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\LINKEDIN DIANA GOMEZ\Candidatos\John Hinestroza\CONTRATO_LABORAL_JOHN_PARA_FIRMA.docx'
+OUT = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\LINKEDIN DIANA GOMEZ\Candidatos\John Hinestroza\contrato\CONTRATO_LABORAL_JOHN_PARA_FIRMA.docx'
 TRABAJADOR = 'JOHN HINESTROZA'
 d = Document()
 for s in d.sections:
