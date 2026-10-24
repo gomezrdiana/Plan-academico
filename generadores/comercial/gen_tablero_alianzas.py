@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """TABLERO DE ALIANZAS — Ejecutivo(a) de Alianzas Empresariales.
-Hojas: INICIO · TABLERO (semáforo del mes) · ACTIVIDAD_DIARIA · EMPRESAS · LIQUIDACION · METAS · PRIMERA_SEMANA.
+Hojas: INICIO · TABLERO (semáforo del mes) · ACTIVIDAD_DIARIA (reporte diario) · PLAN_SEMANAL (jornada, para coordinación) · EMPRESAS · LIQUIDACION · METAS · PRIMERA_SEMANA.
 Salida: recursos/comercial/INDUCCION_COMERCIAL/contratacion comercial/TABLERO_ALIANZAS.xlsx"""
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
@@ -35,7 +35,8 @@ ws['A6'] = 'al'; ws['A6'].font = B; ws['B6'] = '=IF(B3="","",EDATE(B3,B4)-1)'; w
 ws['A8'] = 'CÓMO SE USA'; ws['A8'].font = T
 for i, t in enumerate([
     '1. EMPRESAS: cada empresa, fundación o colegio se registra el MISMO DÍA del primer contacto con quien decide. Quien registra primero, es dueño (atribución).',
-    '2. ACTIVIDAD_DIARIA: al cierre de cada día, una fila: contactos nuevos con decisor, reuniones, activaciones, firmas, ventas firmadas, plan de mañana y bloqueos. Es lo que se presenta en la reunión diaria de 15 minutos.',
+    '2. ACTIVIDAD_DIARIA: al cierre de cada día, antes de las 6:00 p. m., una fila: contactos y reuniones con empresas, personas contactadas, citas, inscritos pagados, caja, lo más importante, mañana hago y bloqueos. Es el reporte diario; gerencia lo lee en Drive.',
+    '2b. PLAN_SEMANAL: el lunes antes de las 8:30 a. m. se llena la semana (franjas, lugar, qué) y se comparte con coordinación. Es el registro de la jornada: 42 horas.',
     '3. TABLERO: se calcula solo. Muestra el mes contra los mínimos, el semáforo y las fechas de decisión. Gerencia lo revisa a diario.',
     '4. LIQUIDACION: contaduría o gerencia registra lo RECAUDADO en el mes por cada empresa y cada estudiante atribuido; la comisión se calcula sola. Se liquida el día 5 de cada mes y se paga con la nómina.',
     '5. METAS: tabla pactada en el anexo del contrato (no se cambia sin otrosí).',
@@ -69,12 +70,51 @@ we.conditional_formatting.add(f'U2:U{N+1}', FormulaRule(formula=[f'AND($U2<>"",$
 
 # ---------------- ACTIVIDAD_DIARIA ----------------
 wa = wb.create_sheet('ACTIVIDAD_DIARIA')
-header(wa, 1, ['Fecha', 'Contactos nuevos con decisor', 'Reuniones hechas', 'Activaciones', 'Firmas (convenio u orden pagada)', 'Ventas firmadas del día ($)', 'Lo más importante de hoy', 'Plan de mañana (empresas / reuniones)', 'Bloqueos / ayuda que necesito'],
-       [12, 12, 11, 11, 13, 16, 34, 34, 30])
+# Las columnas B-F las lee la hoja TABLERO (SUMIFS): no moverlas. Las de personas (G-J) se sumaron el 24/10/2026 porque la meta
+# del gerente de alianzas cuenta personas inscritas y caja, no solo empresas.
+header(wa, 1, ['Fecha', 'Contactos nuevos con decisor', 'Reuniones hechas', 'Activaciones', 'Firmas (convenio u orden pagada)', 'Ventas firmadas del día ($)',
+               'Personas contactadas (referidos, conocidos, afiliados)', 'Citas con personas hechas', 'Inscritos pagados hoy (personas)', 'Caja recibida hoy ($)',
+               'Lo más importante de hoy', 'Mañana hago (empresas / reuniones / citas)', 'Bloqueos / lo que necesito de gerencia'],
+       [12, 12, 11, 11, 13, 16, 14, 11, 11, 15, 34, 34, 30])
 for r in range(2, 302):
-    wa[f'A{r}'].number_format = 'DD/MM/YYYY'; wa[f'F{r}'].number_format = PESOS
-    for col in 'GHI': wa[f'{col}{r}'].alignment = WRAP
-wa.freeze_panes = 'A2'
+    wa[f'A{r}'].number_format = 'DD/MM/YYYY'; wa[f'F{r}'].number_format = PESOS; wa[f'J{r}'].number_format = PESOS
+    for col in 'KLM': wa[f'{col}{r}'].alignment = WRAP
+wa.freeze_panes = 'B2'
+wa['O1'] = 'Se llena al cierre de cada día, antes de las 6:00 p. m., una fila por día (también los días sin resultados: se escribe 0). Gerencia la lee en Drive sin pedirla.'; wa['O1'].font = S
+wa.column_dimensions['O'].width = 60
+
+# ---------------- PLAN_SEMANAL ----------------
+# Plan de organización del tiempo: el gerente de alianzas lo llena el lunes antes de las 8:30 a. m. y lo comparte con coordinación.
+# Es el registro de la jornada (calidad y SST) cuando parte del trabajo se hace fuera de la sede. 42 horas a la semana.
+wsem = wb.create_sheet('PLAN_SEMANAL')
+wsem['A1'] = 'PLAN DE ORGANIZACIÓN DEL TIEMPO — semana a semana'; wsem['A1'].font = T
+wsem['A2'] = ('Se llena el lunes antes de las 8:30 a. m. y se comparte con coordinación: es el registro de la jornada (calidad y seguridad en el trabajo). '
+              '42 horas a la semana, en franjas concretas con lugar. Si la semana cambia, se corrige aquí el mismo día. '
+              'Contacto con clientes solo de lunes a viernes de 7:00 a. m. a 7:00 p. m. y sábados de 8:00 a. m. a 3:00 p. m.; nunca domingos ni festivos.'); wsem['A2'].alignment = WRAP
+wsem.merge_cells('A2:K2'); wsem.row_dimensions[2].height = 48
+for j, w in enumerate([11, 9, 9, 15, 30, 9, 9, 15, 30, 10, 26], 1): wsem.column_dimensions[get_column_letter(j)].width = w
+lugar = DataValidation(type='list', formula1='"Sede,Casa,Calle / empresa,Virtual"', allow_blank=True); wsem.add_data_validation(lugar)
+row = 4
+for sem in range(1, 9):
+    wsem.cell(row=row, column=1, value='Semana %d · del' % sem).font = B
+    c = wsem.cell(row=row, column=2); c.number_format = 'DD/MM/YYYY'; c.fill = FC
+    wsem.cell(row=row, column=3, value='Enviado a coordinación:').font = S
+    c = wsem.cell(row=row, column=4); c.number_format = 'DD/MM/YYYY HH:MM'; c.fill = FC
+    header(wsem, row + 1, ['Día', 'Mañana de', 'a', 'Dónde', 'Qué (empresas, reuniones, citas, oficina)', 'Tarde de', 'a', 'Dónde', 'Qué', 'Horas', 'Observaciones / cambios'])
+    first = row + 2
+    for i, dia in enumerate(['Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado']):
+        r = first + i
+        wsem.cell(row=r, column=1, value=dia).font = B
+        for col in 'BCFG': wsem[f'{col}{r}'].number_format = 'HH:MM'
+        for col in 'EIK': wsem[f'{col}{r}'].alignment = WRAP
+        wsem[f'J{r}'] = f'=(IF(AND(B{r}<>"",C{r}<>""),C{r}-B{r},0)+IF(AND(F{r}<>"",G{r}<>""),G{r}-F{r},0))*24'; wsem[f'J{r}'].number_format = '0.0'; wsem[f'J{r}'].fill = FC
+        for col in range(1, 12): wsem.cell(row=r, column=col).border = BOX
+        lugar.add(f'D{r}'); lugar.add(f'H{r}')
+    last = first + 5
+    wsem.cell(row=last + 1, column=9, value='Total de la semana').font = B
+    wsem[f'J{last + 1}'] = f'=SUM(J{first}:J{last})'; wsem[f'J{last + 1}'].number_format = '0.0'; wsem[f'J{last + 1}'].font = B
+    wsem[f'K{last + 1}'] = f'=IF(J{last + 1}=0,"",IF(J{last + 1}<42,"Faltan "&TEXT(42-J{last + 1},"0.0")&" horas para las 42",IF(J{last + 1}>42,"Pasa de 42: ajustar","Cumple 42 horas")))'; wsem[f'K{last + 1}'].font = S
+    row = last + 3
 
 # ---------------- METAS ----------------
 wm = wb.create_sheet('METAS')
