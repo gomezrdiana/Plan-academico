@@ -61,7 +61,7 @@ VOLANTES = {
         puntos=[('Las frases de tu trabajo', 'Cada clase es una situación de tu puesto: el huésped que llega, el paciente que llama, la mesa que pide la cuenta.'),
                 ('Hablas desde el primer día', 'Con un profesor al lado que te corrige ahí mismo. Nada de llenar cuadernos sin abrir la boca.'),
                 ('Para tu empresa', 'Becas con el nombre de la empresa para su equipo, sin costo para la empresa. Pregunta por el programa de alianzas.')],
-        cta='Pregunta por el horario de tu turno', nota='Garantía de aprendizaje por escrito.'),
+        cta='Escríbenos y agenda tu asesoría', nota=''),
     '4_PADRES': dict(
         tag='PROGRAMAS PARA JÓVENES · PADRES DE FAMILIA',
         titular=['El inglés que su hijo', 'va a necesitar.'],
@@ -70,7 +70,7 @@ VOLANTES = {
         puntos=[('Se habla, no solo se escribe', 'Clases donde su hijo habla desde la primera sesión, con simulaciones de lo que va a vivir: el aeropuerto, la entrevista, la clase afuera.'),
                 ('Usted ve el avance', 'Reporte periódico a los padres con asistencia, puntualidad y progreso, y grabaciones de entrada y de salida del nivel.'),
                 ('Hábitos que se quedan', 'Junto con el inglés se entrenan puntualidad, constancia y disciplina. Eso también se reporta.')],
-        cta='Agende una asesoría para conocer la ruta de su hijo', nota='Garantía de aprendizaje por escrito.'),
+        cta='Agende una asesoría para conocer la ruta de su hijo', nota=''),
 }
 
 def volante(key, c):
