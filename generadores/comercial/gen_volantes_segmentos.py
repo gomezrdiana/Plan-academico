@@ -5,7 +5,7 @@
   3 ATENCION       recepcion, salud, odontologia, hoteleria, turismo, restaurantes
   4 PADRES         padres de familia: programas para sus hijos con enfoque (viaje, intercambio, universidad)
 Reglas: sin precio, sin "facil/rapido", sin empleo/visa/nativos, sin nombres de metodologias ni de competidores.
-Contacto: la linea de la academia va como [LINEA] hasta que gerencia defina el numero (la linea principal es de la plataforma).
+Contacto: linea de alianzas 316 768 8793. Sin modalidad (presencial/en linea) ni horarios: decision de gerencia 24/10/2026.
 Salida: recursos/comercial/campanas/volantes/VOLANTE_{n}_{SEG}_BOSQUEJO.png  (1080x1620, 2:3, imprime en 10x15 o media carta)"""
 import os
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
@@ -16,7 +16,7 @@ F = 'C:/Windows/Fonts/'
 ROOT = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu'
 LOGO = ROOT + r'\recursos\marca heiiu\logo_heiiu_sobre_naranja.png'
 OUTDIR = ROOT + r'\recursos\comercial\campanas\volantes'
-LINEA = '[línea de WhatsApp de la academia]'
+LINEA = '316 768 8793'   # linea de alianzas (el gerente de alianzas reparte los volantes); nunca la linea principal
 def font(name, size): return ImageFont.truetype(F + name, size)
 
 def wrap(d, txt, fnt, maxw):
@@ -48,7 +48,7 @@ VOLANTES = {
         tag='PREPARACIÓN INDIVIDUAL · ESTUDIANTES E INTERNOS DE MEDICINA',
         titular=['La entrevista que decide', 'tu programa, en inglés.'],
         bajada='Preparación uno a uno para entrevistas de admisión a residencias, rotaciones y programas: tu historia, tus casos y las preguntas que te van a hacer.',
-        panel=('POR HORAS', 'según la fecha de tu entrevista · presencial o en línea'),
+        panel=('POR HORAS', 'según la fecha de tu entrevista'),
         puntos=[('Simulacros grabados', 'Respondes las preguntas típicas una y otra vez, te grabas, y corregimos pronunciación, estructura y tiempo de respuesta.'),
                 ('Presentar un caso', 'Vocabulario clínico y la forma de contar un caso, tu investigación o tu experiencia en orden y sin rodeos.'),
                 ('Tu presentación personal', 'Quién eres, por qué ese programa y qué aportas, dicho en un minuto y con seguridad.')],
@@ -61,7 +61,7 @@ VOLANTES = {
         puntos=[('Las frases de tu trabajo', 'Cada clase es una situación de tu puesto: el huésped que llega, el paciente que llama, la mesa que pide la cuenta.'),
                 ('Hablas desde el primer día', 'Con un profesor al lado que te corrige ahí mismo. Nada de llenar cuadernos sin abrir la boca.'),
                 ('Para tu empresa', 'Becas con el nombre de la empresa para su equipo, sin costo para la empresa. Pregunta por el programa de alianzas.')],
-        cta='Pregunta por el horario de tu turno', nota='Horarios de mañana, noche y sábados. Garantía de aprendizaje por escrito.'),
+        cta='Pregunta por el horario de tu turno', nota='Garantía de aprendizaje por escrito.'),
     '4_PADRES': dict(
         tag='PROGRAMAS PARA JÓVENES · PADRES DE FAMILIA',
         titular=['El inglés que su hijo', 'va a necesitar.'],
@@ -70,7 +70,7 @@ VOLANTES = {
         puntos=[('Se habla, no solo se escribe', 'Clases donde su hijo habla desde la primera sesión, con simulaciones de lo que va a vivir: el aeropuerto, la entrevista, la clase afuera.'),
                 ('Usted ve el avance', 'Reporte periódico a los padres con asistencia, puntualidad y progreso, y grabaciones de entrada y de salida del nivel.'),
                 ('Hábitos que se quedan', 'Junto con el inglés se entrenan puntualidad, constancia y disciplina. Eso también se reporta.')],
-        cta='Agende una asesoría para conocer la ruta de su hijo', nota='Horarios entre semana y sábados. Garantía de aprendizaje por escrito.'),
+        cta='Agende una asesoría para conocer la ruta de su hijo', nota='Garantía de aprendizaje por escrito.'),
 }
 
 def volante(key, c):
@@ -123,9 +123,9 @@ def volante(key, c):
     fy = H - 120
     d.rectangle([0, fy, W, H], fill=NAR)
     d.text((60, fy + 26), 'Escríbenos: ' + LINEA, font=font('calibrib.ttf', 26), fill=CREMA)
-    d.text((60, fy + 64), '@heiiu_english  ·  Presencial en Bucaramanga', font=font('calibri.ttf', 24), fill=CREMA)
-    d.text((W - 60, fy + 26), 'Única academia con', font=font('calibri.ttf', 22), fill=CREMA, anchor='ra')
-    d.text((W - 60, fy + 58), 'garantía de aprendizaje por escrito', font=font('calibrib.ttf', 24), fill=AMAR, anchor='ra')
+    d.text((60, fy + 64), '@heiiu_english  ·  Bucaramanga', font=font('calibri.ttf', 24), fill=CREMA)
+    d.text((W - 60, fy + 26), 'Garantía de aprendizaje', font=font('calibri.ttf', 22), fill=CREMA, anchor='ra')
+    d.text((W - 60, fy + 58), 'por escrito, sin letra pequeña', font=font('calibrib.ttf', 24), fill=AMAR, anchor='ra')
 
     os.makedirs(OUTDIR, exist_ok=True)
     out = os.path.join(OUTDIR, 'VOLANTE_%s_BOSQUEJO.png' % key)
