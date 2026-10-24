@@ -95,8 +95,8 @@ PIEZAS = {
             ('<b>Sobre su trabajo.</b> Armamos el plan a su medida, para que la clase se enfoque en los temas de los que usted ya estaría hablando si hablara inglés.'),
             ('<b>Avance medido.</b> Prueba de nivel al inicio y al final, y reporte mensual de su progreso.')],
         lead='Sin inglés no se pierde un título. Se pierden conversaciones:',
-        big='el networking, los resultados que vale la pena contar, lo que otros quieren transmitir.',
-        big2='En un puesto directivo o médico, eso es parte del trabajo.',
+        big='el networking, los resultados que vale la pena contar, entender lo que otros quieren transmitir.',
+        big2='En un puesto directivo o médico, eso es gran parte de la experiencia, del avance y de los resultados.',
         band='Programa individual para médicos, profesionales y directivos. <b>Cupos limitados por disponibilidad de profesor.</b> Agende una asesoría de 15 minutos.',
         band_px=320),
     '2_MEDICINA': dict(
