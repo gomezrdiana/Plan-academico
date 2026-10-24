@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Hoja de gerencia para la inducción de día y medio del Gerente de Alianzas (John): martes 20/10 completo y miércoles 21
 en la mañana. Base: kit de arranque (secciones 1-11), anexo de compensación, tablero de alianzas y su lista de prospectos.
-Salida (fuera de git): Candidatos/John Hinestroza/HOJA_INDUCCION_JOHN_2026-10-20.docx (+PDF)."""
+Salida (fuera de git): Candidatos/John Hinestroza/induccion/HOJA_INDUCCION_JOHN_2026-10-20.docx (+PDF)."""
 from docx import Document
 from docx.shared import Pt, RGBColor, Cm
 from docx.enum.text import WD_ALIGN_PARAGRAPH
@@ -83,6 +83,6 @@ tabla([
 sec('Lo que no se hace')
 t('No se le muestra el esquema ni el nombre del otro comercial. No se le dan precios ni condiciones que no estén en el kit y en el anexo. No se alarga la inducción: lo que falte se resuelve en los seguimientos de las 8:30.', size=9)
 
-out = BASE + r'\HOJA_INDUCCION_JOHN_2026-10-20.docx'
+out = BASE + r'\induccion\HOJA_INDUCCION_JOHN_2026-10-20.docx'
 try: doc.save(out); print('OK', out)
 except PermissionError: doc.save(out.replace('.docx', '_v2.docx')); print('ABIERTO -> _v2')

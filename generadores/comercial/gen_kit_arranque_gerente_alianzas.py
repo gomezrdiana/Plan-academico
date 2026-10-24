@@ -2,7 +2,7 @@
 """KIT DE ARRANQUE del GERENTE DE ALIANZAS EMPRESARIALES (cargo indefinido). Deriva del kit del reto
 (gen_kit_arranque_reto_alianzas.py, única fuente del contenido): misma oferta, precios, documentos, reunión, charla,
 objeciones y reglas; sin meta del reto, sin secciones 12-13, con tablero en vez de planilla y seguimiento 8:30.
-Salida (fuera de git): Candidatos/John Hinestroza/KIT_ARRANQUE_GERENTE_ALIANZAS.docx (+PDF).
+Salida (fuera de git): Candidatos/John Hinestroza/induccion/KIT_ARRANQUE_GERENTE_ALIANZAS.docx (+PDF).
 Correr desde la raíz: python generadores/comercial/gen_kit_arranque_gerente_alianzas.py"""
 import os, re
 SRC = os.path.join(os.path.dirname(__file__), 'gen_kit_arranque_reto_alianzas.py')
@@ -41,6 +41,6 @@ for a, b in R:
 i = s.index('# ---------------------------------------------------------------- 12'); j = s.index('out = BASE')
 s = s[:i] + s[j:]
 s = s.replace(r"out = BASE + r'\KIT_ARRANQUE_RETO_15_DIAS_ALIANZAS.docx'",
-              r"out = BASE + r'\LINKEDIN DIANA GOMEZ\Candidatos\John Hinestroza\KIT_ARRANQUE_GERENTE_ALIANZAS.docx'")
+              r"out = BASE + r'\LINKEDIN DIANA GOMEZ\Candidatos\John Hinestroza\induccion\KIT_ARRANQUE_GERENTE_ALIANZAS.docx'")
 s = s.replace("      '',\n", '')  # quita la línea vacía que dejó la rutina en la portada
 exec(compile(s, SRC, 'exec'))
