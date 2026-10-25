@@ -62,6 +62,14 @@ ol.st p b { color: #FFF8E7; font-weight: 600 }
 .pivot .lead { font-family: Georgia, Constantia, serif; font-style: italic; font-size: 40px; color: #FBC900; line-height: 1.2 }
 .pivot .big { font-family: Constantia, Georgia, serif; font-weight: 700; font-size: 68px; line-height: 1.06; letter-spacing: -.01em; margin-top: 18px; color: #FFF8E7 }
 .pivot .big2 { font-family: Constantia, Georgia, serif; font-size: 40px; line-height: 1.2; margin-top: 26px; color: rgba(255,248,231,.88) }
+.why { margin-top: 46px }
+.why h2 { font-family: Constantia, Georgia, serif; font-size: 44px; font-weight: 700; color: #FBC900; margin-bottom: 20px }
+.why .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px }
+.why .card { background: rgba(255,248,231,.055); border: 1px solid rgba(255,248,231,.16); border-radius: 18px; padding: 22px 24px 24px 24px }
+.why .card.full { grid-column: 1 / span 2; background: rgba(251,201,0,.10); border-color: rgba(251,201,0,.45) }
+.why .k { font-family: Bahnschrift, sans-serif; font-size: 19px; letter-spacing: .14em; color: #FBC900; font-weight: 600; margin-bottom: 8px }
+.why p { font-size: 25px; line-height: 1.3; color: rgba(255,248,231,.86) }
+.why p b { color: #FFF8E7; font-weight: 600 }
 .band { position: absolute; left: 0; right: 0; bottom: 0; height: %(BAND)dpx; background: #FF4A00; padding: 44px 72px 0 72px;
         display: grid; grid-template-columns: 1fr 300px; gap: 0 40px; align-items: start }
 .band::before { content: ''; position: absolute; left: 0; right: 0; top: 0; height: 8px; background: #FBC900 }
@@ -88,6 +96,22 @@ PIEZAS = {
         big2='Y los hábitos que hacen que de verdad lo logres.',
         band='En Heiiu entrenamos las dos cosas: <b>el inglés</b> y <b>los hábitos que lo sostienen</b>: puntualidad, constancia y disciplina. Con garantía de aprendizaje por escrito.',
         band_px=340),
+    'GENERAL_ASESORAS': dict(   # la muestra o reenvia la asesora de la entidad aliada; 1080x1920 (pantalla completa de WhatsApp)
+        H=1920, compact=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
+        h1='¿Por qué inglés, <em>y por qué ahora?</em>',
+        st=[('La tecnología cambió la forma de aprender. Lo que vale ya no es el certificado, sino lo que puedes hacer con lo que sabes.'),
+            ('La inteligencia artificial traduce, pero no conversa por ti. En la entrevista, en la reunión y en el viaje, hablas tú.'),
+            ('Hoy, desde Bucaramanga, puedes estudiar, trabajar o vender con gente de todo el mundo. El idioma en común es el inglés.')],
+        lead='Poder comunicarte con cualquier persona del mundo sube de valor cada día.',
+        big='Y no se aprende con suerte: se aprende con hábitos.',
+        big2='',
+        why=[('HABLAS DESDE LA PRIMERA CLASE', 'Grupos de máximo 16 personas y un profesor al lado que te corrige ahí mismo. Nada de llenar cuadernos sin abrir la boca.', False),
+             ('HÁBITOS QUE SE QUEDAN', 'Junto con el inglés se entrenan <b>puntualidad, constancia y disciplina</b>. Se practican en clase y se reportan.', False),
+             ('VES TU AVANCE', 'Grabación al entrar y al salir del nivel, prueba de nivel y reporte de progreso. Lo que avanzas, se ve.', False),
+             ('GARANTÍA POR ESCRITO', 'La garantía de aprendizaje va firmada en tu contrato, sin letra pequeña.', False),
+             ('BECA POR TU ENTIDAD ALIADA', 'Si llegas por una entidad aliada, tienes una <b>beca</b> con su nombre. Pregúntale a tu asesora y escríbenos desde su enlace o su QR: <b>tu código ya va en el mensaje</b>.', True)],
+        band='Una academia que firma lo que promete y que te enseña a cumplir lo que te propones. <b>Escríbenos y agenda tu asesoría.</b>',
+        band_px=300),
     '1_PROFESIONALES': dict(
         label='PROGRAMA INDIVIDUAL', sub='MÉDICOS · PROFESIONALES · DIRECTIVOS',
         h1='Su inglés, <em>en su agenda.</em>',
@@ -135,16 +159,29 @@ PIEZAS = {
 }
 
 
+COMPACT = """
+.top { padding-top: 56px } h1 { font-size: 76px; margin-top: 28px } .rule { margin: 30px 0 26px 0 }
+ol.st li { padding: 21px 0 19px 0 } ol.st p { font-size: 28px; line-height: 1.32 }
+.pivot { padding-top: 30px } .pivot .lead { font-size: 36px } .pivot .big { font-size: 58px; margin-top: 14px }
+.why { margin-top: 28px } .why h2 { font-size: 38px; margin-bottom: 14px } .why .grid { gap: 14px }
+.why .card { padding: 16px 20px 18px 20px; border-radius: 14px } .why .k { font-size: 17px; margin-bottom: 6px } .why p { font-size: 22px; line-height: 1.28 }
+"""
+
+
 def html(c):
     st = ''.join('<li><span class="n">0%d</span><p>%s</p></li>' % (i + 1, t) for i, t in enumerate(c['st']))
     big2 = '<p class="big2">%s</p>' % c['big2'] if c['big2'] else ''
     logo = pathlib.Path(LOGO_NAR).as_uri()
-    return ('<!doctype html><html><head><meta charset="utf-8"><style>%s</style></head><body><div class="page">'
+    why = ''
+    if c.get('why'):
+        cards = ''.join('<div class="card%s"><div class="k">%s</div><p>%s</p></div>' % (' full' if full else '', k, t) for k, t, full in c['why'])
+        why = '<div class="why"><h2>%s</h2><div class="grid">%s</div></div>' % (c.get('why_h2', '¿Por qué con Heiiu?'), cards)
+    return ('<!doctype html><html><head><meta charset="utf-8"><style>%s%s</style></head><body><div class="page">'
             '<div class="top"><div class="label">%s<span>%s</span></div><h1>%s</h1><div class="rule"></div>'
-            '<ol class="st">%s</ol><div class="pivot"><p class="lead">%s</p><p class="big">%s</p>%s</div></div>'
+            '<ol class="st">%s</ol><div class="pivot"><p class="lead">%s</p><p class="big">%s</p>%s</div>%s</div>'
             '<div class="band"><p>%s</p><img class="logo" src="%s">'
             '<div class="cta"><div class="tel"><small>Escríbenos</small>%s</div><div class="ig">%s<b>Bucaramanga</b></div></div></div>'
-            '</div></body></html>') % (CSS % dict(W=W, H=H, BAND=c['band_px']), c['label'], c['sub'], c['h1'], st, c['lead'], c['big'], big2,
+            '</div></body></html>') % (CSS % dict(W=W, H=c.get('H', H), BAND=c['band_px']), COMPACT if c.get('compact') else '', c['label'], c['sub'], c['h1'], st, c['lead'], c['big'], big2, why,
                                        c['band'], logo, LINEA, IG)
 
 
@@ -153,7 +190,7 @@ def render(nombre, c):
     open(hp, 'w', encoding='utf-8').write(html(c))
     if os.path.exists(png): os.remove(png)
     subprocess.run([EDGE, '--headless=new', '--disable-gpu', '--hide-scrollbars', '--no-first-run', '--force-device-scale-factor=1',
-                    '--user-data-dir=' + os.path.join(WORK, 'profile'), '--window-size=%d,%d' % (W, H),
+                    '--user-data-dir=' + os.path.join(WORK, 'profile'), '--window-size=%d,%d' % (W, c.get('H', H)),
                     '--screenshot=' + png, pathlib.Path(hp).as_uri()], capture_output=True, timeout=90)
     assert os.path.exists(png), 'Edge no generó ' + png
     out = os.path.join(OUTDIR, 'PIEZA_%s.png' % nombre)
