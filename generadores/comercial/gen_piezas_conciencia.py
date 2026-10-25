@@ -7,7 +7,8 @@ Se escriben en HTML/CSS (Constantia + Segoe UI + Bahnschrift, fuentes del sistem
 Microsoft Edge sin ventana. Reglas: sin precio, sin modalidad ni horarios, sin "fácil/rápido", sin empleo/visa/nativos,
 sin nombres de competidores, sin "únicos", garantía por escrito. Contacto: línea de alianzas 316 768 8793 (el gerente de
 alianzas reparte las piezas), nunca la línea principal.
-Salida (git): recursos/comercial/campanas/volantes/PIEZA_*.png + copia en la carpeta del gerente de alianzas / volantes.
+Salida (git): recursos/comercial/campanas/volantes/PIEZA_*.png (digitales) + copia en la carpeta del gerente de alianzas / volantes.
+La hoja de asesoras (GENERAL_ASESORAS_FRENTE + un RESPALDO por codigo, con QR) solo se imprime: va unicamente a volantes/imprenta/ con sangrado de 3 mm.
 Uso: python generadores/comercial/gen_piezas_conciencia.py"""
 import os, shutil, subprocess, pathlib, tempfile
 from urllib.parse import quote
@@ -315,6 +316,8 @@ def render(nombre, c):
                     '--user-data-dir=' + os.path.join(WORK, 'profile'), '--window-size=%d,%d' % (W, c.get('H', H)),
                     '--screenshot=' + png, pathlib.Path(hp).as_uri()], capture_output=True, timeout=90)
     assert os.path.exists(png), 'Edge no generó ' + png
+    if nombre.startswith('GENERAL_ASESORAS'):   # la hoja de asesoras solo se imprime: va unicamente a imprenta/, con sangrado
+        sangrado(nombre, png); return
     out = os.path.join(OUTDIR, 'PIEZA_%s.png' % nombre)
     os.makedirs(OUTDIR, exist_ok=True); os.makedirs(COPIA, exist_ok=True)
     for p in (out, os.path.join(COPIA, os.path.basename(out))):
@@ -322,16 +325,10 @@ def render(nombre, c):
         except PermissionError: p2 = p.replace('.png', '_v2.png'); shutil.copy(png, p2); print('ABIERTA ->', p2)
 
 
-if __name__ == '__main__':
-    import sys
-    logo_transparente()
-    for k in (sys.argv[1:] or PIEZAS): render(k, PIEZAS[k])
-
-
-def sangrado(nombre, mm=3, ppp=274):
+def sangrado(nombre, src, mm=3, ppp=274):
     """Version para imprenta 10x15: extiende los bordes `mm` milimetros replicando el borde (sangrado para el corte).
-    1080 px / 10 cm = 274 ppp -> 3 mm = 32 px por lado. Salida: PIEZA_{nombre}_IMPRENTA_10x15_sangrado3mm.png"""
-    src = os.path.join(OUTDIR, 'PIEZA_%s.png' % nombre); im = Image.open(src).convert('RGB')
+    1080 px / 10 cm = 274 ppp -> 3 mm = 32 px por lado. Salida: volantes/imprenta/PIEZA_{nombre}_IMPRENTA_10x15_sangrado3mm.png (git + carpeta del gerente)."""
+    im = Image.open(src).convert('RGB')
     b = round(mm / 25.4 * ppp); w, h = im.size
     out = Image.new('RGB', (w + 2 * b, h + 2 * b)); out.paste(im, (b, b))
     out.paste(im.crop((0, 0, w, 1)).resize((w, b)), (b, 0)); out.paste(im.crop((0, h - 1, w, h)).resize((w, b)), (b, h + b))
@@ -342,6 +339,7 @@ def sangrado(nombre, mm=3, ppp=274):
         os.makedirs(d, exist_ok=True); p = os.path.join(d, 'PIEZA_%s_IMPRENTA_10x15_sangrado3mm.png' % nombre); out.save(p, dpi=(ppp, ppp)); print('IMPRENTA', p)
 
 
-if __name__ == '__main__' and os.environ.get('SANGRADO'):
-    caras = [k for k in PIEZAS if (k.endswith('_FRENTE') or k.endswith('_RESPALDO')) and not PIEZAS[k].get('por_codigo')]
-    for k in caras + ['GENERAL_ASESORAS_RESPALDO_' + c for c in codigos()]: sangrado(k)
+if __name__ == '__main__':
+    import sys
+    logo_transparente()
+    for k in (sys.argv[1:] or PIEZAS): render(k, PIEZAS[k])
