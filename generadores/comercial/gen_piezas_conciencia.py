@@ -79,7 +79,7 @@ blockquote b { font-weight: 700 } blockquote cite { display: block; font-style: 
 .band { position: absolute; left: 0; right: 0; bottom: 0; height: %(BAND)dpx; background: #FF4A00; padding: 44px 72px 0 72px;
         display: grid; grid-template-columns: 1fr 215px; gap: 0 40px; align-items: start }
 .band::before { content: ''; position: absolute; left: 0; right: 0; top: 0; height: 8px; background: #FBC900 }
-.band p { font-size: 26px; line-height: 1.34; color: #FFF8E7 }
+.band p { font-size: 25px; line-height: 1.34; color: #FFF8E7 }
 .band p b { font-weight: 700 }
 .band .logo { width: 215px; margin-top: -12px; justify-self: end }
 .cta { position: absolute; left: 72px; right: 72px; bottom: 40px; display: flex; justify-content: space-between; align-items: baseline;
@@ -129,9 +129,10 @@ PIEZAS = {
         st=[], lead='', big='', big2='',
         why=[('SI FALTAS, TE LLAMAMOS', 'Aprender inglés no es fácil ni siempre divertido, digan lo que digan las redes. Habrá días de no querer. Ese día te llamamos: <b>aquí no te dejamos rendirte</b>.', False),
              ('TU AVANCE SE ESCUCHA', 'Te grabamos al entrar y al salir del nivel, y recibes reporte de tu progreso. Lo que avanzas no es una sensación: se oye.', False),
-             ('ALGUIEN YA APOSTÓ POR TI', 'Por ser afiliado de una entidad aliada tienes una <b>beca con su nombre</b>. Escríbenos desde el enlace o el QR de tu asesora: <b>tu código ya va en el mensaje</b>.', True)],
-        band='Una academia que firma lo que promete. <b>Escríbenos y agenda tu asesoría.</b>',
-        band_px=250),
+             ('PUERTAS AFUERA, PERO SEGURAS', 'Cuando tu inglés dé, te conectamos con operadores verificados de programas en el exterior: au pair, trabajo de temporada, campamentos. Solo abrimos puertas seguras.', False),
+             ('LO QUE ESTAMOS CONSTRUYENDO', 'El paso siguiente al idioma: tu perfil profesional en inglés (hoja de vida, LinkedIn, entrevista). Aún no lo prometemos; cuando esté, lo estrenan los estudiantes activos.', False)],
+        band='<b>Alguien ya apostó por ti.</b> Por tu entidad aliada tienes una beca con su nombre. Escríbenos desde el QR o el enlace de tu asesora: tu código ya va en el mensaje.',
+        band_px=290),
     '1_PROFESIONALES': dict(
         label='PROGRAMA INDIVIDUAL', sub='MÉDICOS · PROFESIONALES · DIRECTIVOS',
         h1='Su inglés, <em>en su agenda.</em>',
@@ -197,9 +198,9 @@ COMPACT = """
 .top { padding-top: 56px; padding-bottom: 44px } h1 { font-size: 70px; margin-top: 26px } .rule { margin: 30px 0 26px 0 }
 ol.st li { padding: 19px 0 17px 0 } ol.st p { font-size: 28px; line-height: 1.32 }
 .pivot { padding-top: 26px } .pivot .lead { font-size: 33px } .pivot .big { font-size: 48px; margin-top: 10px } .pivot .big2 { font-size: 36px; margin-top: 18px } .fn { margin-top: 14px }
-.why { margin-top: 26px } .why h2 { font-size: 38px; margin-bottom: 14px } .why .grid { gap: 14px }
-.why .card { padding: 18px 22px 20px 22px; border-radius: 14px } .why .k { font-size: 18px; margin-bottom: 6px } .why p { font-size: 23px; line-height: 1.3 }
-.intro { font-size: 26px; line-height: 1.36; margin-bottom: 20px } blockquote { font-size: 26px; line-height: 1.36; padding: 20px 26px 20px 28px } blockquote cite { margin-top: 10px }
+.why { margin-top: 18px } .why h2 { font-size: 38px; margin-bottom: 14px } .why .grid { gap: 12px }
+.why .card { padding: 15px 19px 17px 19px; border-radius: 14px } .why .k { font-size: 17px; margin-bottom: 5px } .why p { font-size: 21.5px; line-height: 1.27 }
+.intro { font-size: 25px; line-height: 1.33; margin-bottom: 18px } blockquote { font-size: 25px; line-height: 1.33; padding: 18px 24px 18px 26px } blockquote cite { margin-top: 8px }
 """
 
 
