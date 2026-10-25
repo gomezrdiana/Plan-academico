@@ -129,7 +129,7 @@ PIEZAS = {
         st=[], lead='', big='', big2='',
         why=[('AQUÍ NADIE DESAPARECE', 'Faltaste y no avisaste: te llamamos ese mismo día. Si eres menor, en tu casa también se enteran. No es persecución: es la parte menos chévere del coach, <b>la que esperamos no tener que hacer</b>.', False),
              ('SE NOTA, Y SE PUEDE MOSTRAR', 'Te grabamos el primer día y el último del nivel. Pon los dos videos juntos y no vas a necesitar que nadie te diga que avanzaste. <b>En casa tampoco tendrán que creerte: lo oyen.</b>', False),
-             ('PUERTAS AFUERA, PERO SEGURAS', 'Cuando tu inglés dé, te conectamos con operadores verificados de programas en el exterior: au pair, trabajo de temporada, campamentos. Solo puertas seguras.', False),
+             ('PUERTAS AFUERA, PERO SEGURAS', 'Cuando veas a dónde te puede llevar tu inglés, te contactamos con operadores verificados de programas en el exterior: au pair, trabajo de temporada, campamentos. Solo puertas seguras.', False),
              ('NO ES PARA TODOS', 'Los médicos son pocos y se reconocen por el amor a aprender. Aquí la contraseña es otra: <b>el amor por salir adelante</b>. Sin excusas, con dolor y con la meta al frente. Si entrenas así, estás entre los tuyos.', False)],
         band='<b>Alguien ya apostó por ti.</b> Por tu entidad aliada tienes una beca con su nombre. Escríbenos desde el QR o el enlace de tu asesora: tu código ya va en el mensaje.',
         band_px=290),
