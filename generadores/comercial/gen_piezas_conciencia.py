@@ -102,8 +102,8 @@ PIEZAS = {
         band_px=340),
     'GENERAL_ASESORAS_FRENTE': dict(   # hoja que la asesora de la entidad aliada entrega o reenvia; cara 1: conciencia con cifras verificadas (fuentes al pie)
         compact=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
-        h1='Hoy ya ni sabemos cuál es el camino. <em>Pero los mejores son para los que hablan inglés.</em>',
-        st=[('<b>Ya ni la universidad asegura nada.</b> Hay carreras que cambian antes de terminarlas y títulos que las empresas ya no piden. El viaje, el ascenso, el trabajo afuera o tu negocio sí tienen algo en común: el inglés.'),
+        h1='Hoy ya no sabemos cuál es el camino. <em>Pero los mejores son para los que hablan inglés.</em>',
+        st=[('<b>Ya ni la universidad asegura nada.</b> Hay carreras que cambian antes de terminarlas y títulos que las empresas ya no piden. <b>El que habla inglés abarca más</b>: más vacantes a las que aplicar, más clientes a los que vender, más países a los que ir.'),
             ('<b>De cada 8 jóvenes que terminan el colegio en Colombia, solo 1 sale con un inglés que le sirva</b> para estudiar o trabajar. Los otros 7 lo tienen pendiente de adultos.¹'),
             ('<b>Quien certifica su inglés gana cerca de un 26% más</b> que quien hace el mismo trabajo sin él.²'),
             ('<b>La inteligencia artificial traduce, pero no conversa por ti.</b> En la entrevista, con el cliente y en el aeropuerto, el que habla eres tú.')],
@@ -192,7 +192,7 @@ blockquote { border-left-color: #E54C09; background: rgba(229,76,9,.06); color: 
 COMPACT = """
 .top { padding-top: 56px; padding-bottom: 44px } h1 { font-size: 70px; margin-top: 26px } .rule { margin: 30px 0 26px 0 }
 ol.st li { padding: 19px 0 17px 0 } ol.st p { font-size: 28px; line-height: 1.32 }
-.pivot { padding-top: 30px } .pivot .lead { font-size: 34px } .pivot .big { font-size: 52px; margin-top: 12px }
+.pivot { padding-top: 26px } .pivot .lead { font-size: 33px } .pivot .big { font-size: 48px; margin-top: 10px } .pivot .big2 { font-size: 36px; margin-top: 18px } .fn { margin-top: 14px }
 .why { margin-top: 28px } .why h2 { font-size: 38px; margin-bottom: 14px } .why .grid { gap: 14px }
 .why .card { padding: 16px 20px 18px 20px; border-radius: 14px } .why .k { font-size: 17px; margin-bottom: 6px } .why p { font-size: 22px; line-height: 1.28 }
 """
