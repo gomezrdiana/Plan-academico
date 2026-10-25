@@ -121,7 +121,7 @@ PIEZAS = {
         intro=('A muchas academias les sale el negocio cuando pagas y dejas de ir. Nadie te llama, nadie te extraña, y a los tres meses la matrícula se volvió culpa. '
                '<b>En Heiiu queremos la parte difícil: que vengas, que te sueltes a hablar y que no te rindas.</b> Por eso te lo decimos antes de que pagues:'),
         quote=('Nuestro objetivo es que salgas hablando inglés. Si no se logra, algo está mal: o tú dejaste de entrenar, o nosotros no estamos cumpliendo. '
-               'Esto es un entrenamiento en equipo, como un gimnasio o aprender a nadar: desde el primer día hablas, tu profesor ve dónde puedes mejorar y lo repetimos hasta que sale. '
+               'Esto es un entrenamiento en equipo, como prepararse para una maratón: desde el primer día hablas, tu profesor ve dónde puedes mejorar y lo repetimos hasta que sale. '
                'Por eso grabas un video corto todos los días y tu profesor te lo devuelve con una mejora. A cambio, la garantía por escrito: '
                '<b>si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.</b> ¿Te le mides a ese ritmo?'),
         cite='GERENCIA · HEIIU ENGLISH ACADEMY',
