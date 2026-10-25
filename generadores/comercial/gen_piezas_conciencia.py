@@ -127,7 +127,7 @@ PIEZAS = {
         cite='GERENCIA · HEIIU ENGLISH ACADEMY',
         after='¿Suena duro? Míralo al revés: <b>la única forma de perder la plata es dejar de entrenar.</b> Si entrenas, sales hablando inglés. Y si entrenas y no avanzas, te la devolvemos.',
         st=[], lead='', big='', big2='',
-        why=[('AQUÍ NADIE DESAPARECE', 'Faltaste y no avisaste: te llamamos ese mismo día. Si eres menor, en tu casa también se enteran. No es persecución: <b>el cupo que ocupas lo querían otros</b>, y se sostiene viniendo.', False),
+        why=[('AQUÍ NADIE DESAPARECE', 'Faltaste y no avisaste: te llamamos ese mismo día. Si eres menor, en tu casa también se enteran. No es persecución: es la parte menos chévere del coach, <b>la que esperamos no tener que hacer</b>.', False),
              ('SE NOTA, Y SE PUEDE MOSTRAR', 'Te grabamos el primer día y el último del nivel. Pon los dos videos juntos y no vas a necesitar que nadie te diga que avanzaste. <b>En casa tampoco tendrán que creerte: lo oyen.</b>', False),
              ('PUERTAS AFUERA, PERO SEGURAS', 'Cuando tu inglés dé, te conectamos con operadores verificados de programas en el exterior: au pair, trabajo de temporada, campamentos. Solo puertas seguras.', False),
              ('NO ES PARA TODOS', 'Los médicos son pocos y se reconocen por el amor a aprender. Aquí la contraseña es otra: <b>el amor por salir adelante</b>. Sin excusas, con dolor y con la meta al frente. Si entrenas así, estás entre los tuyos.', False)],
