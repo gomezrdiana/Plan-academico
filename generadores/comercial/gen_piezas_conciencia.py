@@ -71,7 +71,7 @@ ol.st p b { color: #FFF8E7; font-weight: 600 }
 .why p { font-size: 25px; line-height: 1.3; color: rgba(255,248,231,.86) }
 .why p b { color: #FFF8E7; font-weight: 600 }
 .intro { font-family: Constantia, Georgia, serif; font-size: 27px; line-height: 1.36; color: rgba(255,248,231,.88); margin: 0 0 22px 0 } .intro b { color: #FBC900 }
-.intro.after { margin: 12px 0 0 0 }
+.intro.after { margin: 10px 0 0 0 }
 blockquote { margin-top: 10px; padding: 22px 28px 22px 30px; border-left: 6px solid #FBC900; background: rgba(255,248,231,.06); border-radius: 0 16px 16px 0;
              font-family: Constantia, Georgia, serif; font-size: 27px; line-height: 1.36; color: #FFF8E7 }
 blockquote b { font-weight: 700 } blockquote cite { display: block; font-style: normal; font-family: Bahnschrift, sans-serif; font-size: 18px; letter-spacing: .14em; color: #FBC900; margin-top: 12px }
@@ -127,9 +127,9 @@ PIEZAS = {
         cite='GERENCIA · HEIIU ENGLISH ACADEMY',
         after='¿Suena duro? Míralo al revés: <b>la única forma de perder la plata es dejar de entrenar.</b> Si entrenas, sales hablando inglés. Y si entrenas y no avanzas, te la devolvemos.',
         st=[], lead='', big='', big2='',
-        why=[('SI FALTAS, TE LLAMAMOS', 'Aprender inglés no es fácil ni siempre divertido, digan lo que digan las redes. Habrá días de no querer. Ese día te llamamos: <b>aquí no te dejamos rendirte</b>.', False),
-             ('TU AVANCE SE ESCUCHA', 'Te grabamos al entrar y al salir del nivel, y recibes reporte de tu progreso. Lo que avanzas no es una sensación: se oye.', False),
-             ('PUERTAS AFUERA, PERO SEGURAS', 'Cuando tu inglés dé, te conectamos con operadores verificados de programas en el exterior: au pair, trabajo de temporada, campamentos. Solo abrimos puertas seguras.', False),
+        why=[('AQUÍ NADIE DESAPARECE', 'Faltaste y no avisaste: te llamamos ese mismo día. Si eres menor, en tu casa también se enteran. No es persecución: <b>el cupo que ocupas lo querían otros</b>, y se sostiene viniendo.', False),
+             ('SE NOTA, Y SE PUEDE MOSTRAR', 'Te grabamos el primer día y el último del nivel. Pon los dos videos juntos y no vas a necesitar que nadie te diga que avanzaste. <b>En casa tampoco tendrán que creerte: lo oyen.</b>', False),
+             ('PUERTAS AFUERA, PERO SEGURAS', 'Cuando tu inglés dé, te conectamos con operadores verificados de programas en el exterior: au pair, trabajo de temporada, campamentos. Solo puertas seguras.', False),
              ('LO QUE ESTAMOS CONSTRUYENDO', 'El paso siguiente al idioma: tu perfil profesional en inglés (hoja de vida, LinkedIn, entrevista). Aún no lo prometemos; cuando esté, lo estrenan los estudiantes activos.', False)],
         band='<b>Alguien ya apostó por ti.</b> Por tu entidad aliada tienes una beca con su nombre. Escríbenos desde el QR o el enlace de tu asesora: tu código ya va en el mensaje.',
         band_px=290),
@@ -199,7 +199,7 @@ COMPACT = """
 ol.st li { padding: 19px 0 17px 0 } ol.st p { font-size: 28px; line-height: 1.32 }
 .pivot { padding-top: 26px } .pivot .lead { font-size: 33px } .pivot .big { font-size: 48px; margin-top: 10px } .pivot .big2 { font-size: 36px; margin-top: 18px } .fn { margin-top: 14px }
 .why { margin-top: 18px } .why h2 { font-size: 38px; margin-bottom: 14px } .why .grid { gap: 12px }
-.why .card { padding: 15px 19px 17px 19px; border-radius: 14px } .why .k { font-size: 17px; margin-bottom: 5px } .why p { font-size: 21.5px; line-height: 1.27 }
+.why .card { padding: 14px 19px 15px 19px; border-radius: 14px } .why .k { font-size: 17px; margin-bottom: 4px } .why p { font-size: 21.5px; line-height: 1.25 }
 .intro { font-size: 25px; line-height: 1.33; margin-bottom: 18px } blockquote { font-size: 25px; line-height: 1.33; padding: 18px 24px 18px 26px } blockquote cite { margin-top: 8px }
 """
 
