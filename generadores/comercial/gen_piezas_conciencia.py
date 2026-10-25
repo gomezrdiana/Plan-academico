@@ -82,6 +82,10 @@ blockquote b { font-weight: 700 } blockquote cite { display: block; font-style: 
 .band p { font-size: 25px; line-height: 1.34; color: #FFF8E7 }
 .band p b { font-weight: 700 }
 .band .logo { width: 215px; margin-top: -12px; justify-self: end }
+.band .codigo { justify-self: end; width: 215px; border: 3px dashed rgba(255,248,231,.85); border-radius: 12px; padding: 10px 12px 8px 12px; text-align: center; margin-top: -8px }
+.band .codigo .k { font-family: Bahnschrift, sans-serif; font-size: 15px; letter-spacing: .12em; color: #FFF8E7; display: block; margin-bottom: 4px }
+.band .codigo .v { font-family: Bahnschrift, sans-serif; font-size: 34px; font-weight: 700; color: #FFF8E7; display: block; line-height: 1 }
+.band .codigo .v span { display: inline-block; width: 92px; border-bottom: 3px solid #FBC900; height: 30px; vertical-align: bottom; margin-left: 6px }
 .cta { position: absolute; left: 72px; right: 72px; bottom: 40px; display: flex; justify-content: space-between; align-items: baseline;
        border-top: 1px solid rgba(255,248,231,.45); padding-top: 22px }
 .cta .tel { font-family: Bahnschrift, sans-serif; font-size: 40px; font-weight: 700; letter-spacing: .02em; color: #FFF8E7 }
@@ -131,8 +135,8 @@ PIEZAS = {
              ('SE NOTA, Y SE PUEDE MOSTRAR', 'Te grabamos el primer día y el último del nivel. Pon los dos videos juntos y no vas a necesitar que nadie te diga que avanzaste. <b>En casa tampoco tendrán que creerte: lo oyen.</b>', False),
              ('PUERTAS AFUERA, PERO SEGURAS', 'Cuando veas a dónde te puede llevar tu inglés, te contactamos con operadores verificados de programas en el exterior: au pair, trabajo de temporada, campamentos. Solo puertas seguras.', False),
              ('LA CONTRASEÑA', 'Los médicos se reconocen por el amor a aprender. Aquí la contraseña es otra y con ella entra cualquiera: <b>el amor por salir adelante</b>. Sin excusas, con dolor y con la meta al frente. Así, estás entre los tuyos.', False)],
-        band='<b>Alguien ya apostó por ti.</b> Por tu entidad aliada tienes una beca con su nombre. Escríbenos desde el QR o el enlace de tu asesora: tu código ya va en el mensaje.',
-        band_px=290),
+        band='<b>Alguien ya apostó por ti:</b> por tu entidad aliada tienes beca. Escanea el QR de tu asesora o escríbenos con su código en el primer mensaje. <b>Sin código no hay beca.</b>',
+        codigo=True, band_px=290),
     '1_PROFESIONALES': dict(
         label='PROGRAMA INDIVIDUAL', sub='MÉDICOS · PROFESIONALES · DIRECTIVOS',
         h1='Su inglés, <em>en su agenda.</em>',
@@ -220,10 +224,10 @@ def html(c):
     return ('<!doctype html><html><head><meta charset="utf-8"><style>%s%s%s</style></head><body><div class="page">'
             '<div class="top"><div class="label">%s<span>%s</span></div><h1>%s</h1><div class="rule"></div>%s'
             '%s<div class="pivot"><p class="lead">%s</p><p class="big">%s</p>%s</div>%s%s</div>'
-            '<div class="band"><p>%s</p><img class="logo" src="%s">'
+            '<div class="band"><p>%s</p>%s'
             '<div class="cta"><div class="tel"><small>Escríbenos</small>%s</div><div class="ig">%s<b>Bucaramanga</b></div></div></div>'
             '</div></body></html>') % (CSS % dict(W=W, H=c.get('H', H), BAND=c['band_px']), COMPACT if c.get('compact') else '', LIGHT if c.get('theme') == 'light' else '', c['label'], c['sub'], c['h1'], quote, st, c['lead'], c['big'], big2, why, fn,
-                                       c['band'], logo, LINEA, IG)
+                                       c['band'], ('<div class="codigo"><span class="k">CÓDIGO DE TU ASESORA</span><span class="v">C-<span></span></span></div>' if c.get('codigo') else '<img class="logo" src="%s">' % logo), LINEA, IG)
 
 
 def render(nombre, c):
