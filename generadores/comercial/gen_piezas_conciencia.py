@@ -102,8 +102,9 @@ PIEZAS = {
         band_px=340),
     'GENERAL_ASESORAS_FRENTE': dict(   # hoja que la asesora de la entidad aliada entrega o reenvia; cara 1: conciencia con cifras verificadas (fuentes al pie)
         compact=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
-        h1='El viaje, el ascenso, el trabajo afuera o tu negocio: <em>casi siempre hablan inglés.</em>',
-        st=[('<b>De cada 8 jóvenes que terminan el colegio en Colombia, solo 1 sale con un inglés que le sirva</b> para estudiar o trabajar. Los otros 7 lo tienen pendiente de adultos.¹'),
+        h1='Hoy ya ni sabemos cuál es el camino. <em>Pero todos hablan inglés.</em>',
+        st=[('<b>Ya ni la universidad asegura nada.</b> Hay carreras que cambian antes de terminarlas y títulos que las empresas ya no piden. El viaje, el ascenso, el trabajo afuera o tu negocio sí tienen algo en común: el inglés.'),
+            ('<b>De cada 8 jóvenes que terminan el colegio en Colombia, solo 1 sale con un inglés que le sirva</b> para estudiar o trabajar. Los otros 7 lo tienen pendiente de adultos.¹'),
             ('<b>Quien certifica su inglés gana cerca de un 26% más</b> que quien hace el mismo trabajo sin él.²'),
             ('<b>La inteligencia artificial traduce, pero no conversa por ti.</b> En la entrevista, con el cliente y en el aeropuerto, el que habla eres tú.')],
         lead='Y no es falta de ganas: es que nadie aprende un idioma solo.',
