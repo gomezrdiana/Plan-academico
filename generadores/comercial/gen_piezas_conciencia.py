@@ -70,12 +70,16 @@ ol.st p b { color: #FFF8E7; font-weight: 600 }
 .why .k { font-family: Bahnschrift, sans-serif; font-size: 19px; letter-spacing: .14em; color: #FBC900; font-weight: 600; margin-bottom: 8px }
 .why p { font-size: 25px; line-height: 1.3; color: rgba(255,248,231,.86) }
 .why p b { color: #FFF8E7; font-weight: 600 }
+blockquote { margin-top: 10px; padding: 22px 28px 22px 30px; border-left: 6px solid #FBC900; background: rgba(255,248,231,.06); border-radius: 0 16px 16px 0;
+             font-family: Constantia, Georgia, serif; font-size: 27px; line-height: 1.36; color: #FFF8E7 }
+blockquote b { font-weight: 700 } blockquote cite { display: block; font-style: normal; font-family: Bahnschrift, sans-serif; font-size: 18px; letter-spacing: .14em; color: #FBC900; margin-top: 12px }
+.fn { margin-top: 22px; padding-top: 12px; border-top: 1px solid rgba(255,248,231,.14); font-size: 16px; line-height: 1.35; color: rgba(255,248,231,.5) }
 .band { position: absolute; left: 0; right: 0; bottom: 0; height: %(BAND)dpx; background: #FF4A00; padding: 44px 72px 0 72px;
-        display: grid; grid-template-columns: 1fr 300px; gap: 0 40px; align-items: start }
+        display: grid; grid-template-columns: 1fr 215px; gap: 0 40px; align-items: start }
 .band::before { content: ''; position: absolute; left: 0; right: 0; top: 0; height: 8px; background: #FBC900 }
 .band p { font-size: 26px; line-height: 1.34; color: #FFF8E7 }
 .band p b { font-weight: 700 }
-.band .logo { width: 300px; margin-top: -8px; justify-self: end }
+.band .logo { width: 215px; margin-top: -12px; justify-self: end }
 .cta { position: absolute; left: 72px; right: 72px; bottom: 40px; display: flex; justify-content: space-between; align-items: baseline;
        border-top: 1px solid rgba(255,248,231,.45); padding-top: 22px }
 .cta .tel { font-family: Bahnschrift, sans-serif; font-size: 40px; font-weight: 700; letter-spacing: .02em; color: #FFF8E7 }
@@ -96,22 +100,34 @@ PIEZAS = {
         big2='Y los hábitos que hacen que de verdad lo logres.',
         band='En Heiiu entrenamos las dos cosas: <b>el inglés</b> y <b>los hábitos que lo sostienen</b>: puntualidad, constancia y disciplina. Con garantía de aprendizaje por escrito.',
         band_px=340),
-    'GENERAL_ASESORAS': dict(   # la muestra o reenvia la asesora de la entidad aliada; 1080x1920 (pantalla completa de WhatsApp)
-        H=1920, compact=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
-        h1='¿Por qué inglés, <em>y por qué ahora?</em>',
-        st=[('La tecnología cambió la forma de aprender. Lo que vale ya no es el certificado, sino lo que puedes hacer con lo que sabes.'),
-            ('La inteligencia artificial traduce, pero no conversa por ti. En la entrevista, en la reunión y en el viaje, hablas tú.'),
-            ('Hoy, desde Bucaramanga, puedes estudiar, trabajar o vender con gente de todo el mundo. El idioma en común es el inglés.')],
-        lead='Poder comunicarte con cualquier persona del mundo sube de valor cada día.',
-        big='Y no se aprende con suerte: se aprende en equipo, con alguien que cree en ti y sabe que eres capaz.',
-        big2='',
-        why=[('HABLAS DESDE EL PRIMER DÍA', 'Un profesor al lado que te corrige ahí mismo. Nada de llenar cuadernos sin abrir la boca.', False),
-             ('EL PRIMER PASO HACIA LO QUE QUIERES', 'Hoy nadie busca solo un cargo: busca una vida que le guste. El viaje, el ascenso, el trabajo afuera o tu emprendimiento. Te ayudamos a dar el <b>primer paso</b> hacia eso que te haría feliz.', False),
-             ('UN COACH QUE NO TE SUELTA', 'Aprender inglés no es fácil ni siempre divertido, digan lo que digan las redes. Por eso tienes un coach: si faltas, te atrasas o te desanimas, <b>aquí no te dejamos rendirte</b>.', False),
-             ('VES TU AVANCE O TE DEVOLVEMOS EL DINERO', 'Si asistes, haces tus tareas y presentas tus evaluaciones, y aun así no avanzas, te devolvemos el <b>100% del nivel</b>. Está firmado en tu contrato.', False),
-             ('BECA POR TU ENTIDAD ALIADA', 'Si llegas por una entidad aliada, tienes una <b>beca</b> con su nombre. Pregúntale a tu asesora y escríbenos desde su enlace o su QR: <b>tu código ya va en el mensaje</b>.', True)],
-        band='Una academia que firma lo que promete y no te deja solo en el camino. <b>Escríbenos y agenda tu asesoría.</b>',
-        band_px=300),
+    'GENERAL_ASESORAS_FRENTE': dict(   # hoja que la asesora de la entidad aliada entrega o reenvia; cara 1: conciencia con cifras verificadas (fuentes al pie)
+        compact=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
+        h1='El viaje, el ascenso, el trabajo afuera o tu negocio: <em>casi siempre hablan inglés.</em>',
+        st=[('<b>De cada 8 jóvenes que terminan el colegio en Colombia, solo 1 sale con un inglés que le sirva</b> para estudiar o trabajar. Los otros 7 lo tienen pendiente de adultos.¹'),
+            ('<b>Quien certifica su inglés gana cerca de un 26% más</b> que quien hace el mismo trabajo sin él.²'),
+            ('<b>La inteligencia artificial traduce, pero no conversa por ti.</b> En la entrevista, con el cliente y en el aeropuerto, el que habla eres tú.')],
+        lead='Y no es falta de ganas: es que nadie aprende un idioma solo.',
+        big='De cada 100 personas que bajan una app de inglés, 88 la dejan antes del mes.³',
+        big2='Un idioma se entrena en equipo: con un profesor que te corrige y gente que quiere lo mismo que tú.',
+        fn='¹ Pruebas Saber 11 de 2025, análisis del Observatorio de Realidades Educativas de la Universidad Icesi. ² DNP, Archivos de Economía, <i>Bilingüismo laboral en Colombia</i>. ³ Retención a 30 días de la app de idiomas más descargada, estadísticas públicas 2026.',
+        band='Dale la vuelta a la hoja: así entrenamos en Heiiu y <b>la beca que tienes por tu entidad aliada</b>.',
+        band_px=250),
+    'GENERAL_ASESORAS_RESPALDO': dict(   # cara 2: el Pacto con las palabras de gerencia (texto vigente 15/10/2026), por que Heiiu, beca y como escribir
+        compact=True, theme='light', label='ASÍ ES HEIIU', sub='LEE ESTO ANTES DE DECIDIR',
+        h1='Esto se entrena <em>como un deporte.</em>',
+        quote=('Nuestro objetivo es que salgas hablando inglés. Si no se logra, algo está mal: o tú dejaste de entrenar, o nosotros no estamos cumpliendo. '
+               'Esto es un entrenamiento en equipo, como un gimnasio o aprender a nadar: desde el primer día hablas, tu profesor ve dónde puedes mejorar y lo repetimos hasta que sale. '
+               'Por eso grabas un video corto todos los días y tu profesor te lo devuelve con una mejora. A cambio, la garantía por escrito: '
+               '<b>si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.</b> ¿Te le mides a ese ritmo?'),
+        cite='GERENCIA · HEIIU ENGLISH ACADEMY',
+        st=[], lead='', big='', big2='',
+        why=[('HABLAS DESDE EL PRIMER DÍA', 'De pie y hablando, con un profesor que te corrige ahí mismo. Nada de años copiando del tablero con miedo a abrir la boca.', False),
+             ('GENTE QUE QUIERE LO MISMO QUE TÚ', 'Aquí no estudias solo. Estás en un grupo de personas que también quieren más, y eso se nota en cómo se avanza.', False),
+             ('SI FALTAS, TE LLAMAMOS', 'Aprender inglés no es fácil ni siempre divertido, digan lo que digan las redes. Habrá días de no querer. Ese día te llamamos: <b>aquí no te dejamos rendirte</b>.', False),
+             ('TU AVANCE SE ESCUCHA', 'Te grabamos al entrar y al salir del nivel, y recibes reporte de tu progreso. Lo que avanzas no es una sensación: se oye.', False),
+             ('ALGUIEN YA APOSTÓ POR TI', 'Por ser afiliado de una entidad aliada tienes una <b>beca con su nombre</b>. Escríbenos desde el enlace o el QR de tu asesora: <b>tu código ya va en el mensaje</b>, y en la asesoría te decimos qué cubre.', True)],
+        band='Una academia que firma lo que promete. <b>Escríbenos y agenda tu asesoría.</b>',
+        band_px=250),
     '1_PROFESIONALES': dict(
         label='PROGRAMA INDIVIDUAL', sub='MÉDICOS · PROFESIONALES · DIRECTIVOS',
         h1='Su inglés, <em>en su agenda.</em>',
@@ -159,6 +175,19 @@ PIEZAS = {
 }
 
 
+LIGHT = """
+body { background: #FFF8E7; color: #1C1714 }
+.page { background: radial-gradient(900px 700px at 100% -10%, rgba(229,76,9,.16), rgba(229,76,9,0) 60%), #FFF8E7 }
+.label { color: #E54C09 } .label span { color: rgba(28,23,20,.55) }
+h1 { color: #1C1714 } h1 em { color: #E54C09 }
+ol.st li { border-color: rgba(28,23,20,.14) } ol.st .n { color: #E54C09 } ol.st p { color: rgba(28,23,20,.78) } ol.st p b { color: #1C1714 }
+.pivot .lead { color: #E54C09 } .pivot .big { color: #1C1714 } .pivot .big2 { color: rgba(28,23,20,.85) }
+.why h2 { color: #E54C09 } .why .card { background: #FFFFFF; border-color: #E8DCC8 } .why .card.full { background: rgba(251,201,0,.22); border-color: #E6B800 }
+.why .k { color: #E54C09 } .why p { color: rgba(28,23,20,.85) } .why p b { color: #1C1714 }
+blockquote { border-left-color: #E54C09; background: rgba(229,76,9,.06); color: #1C1714 } blockquote cite { color: #E54C09 }
+.fn { color: rgba(28,23,20,.55); border-color: rgba(28,23,20,.14) }
+"""
+
 COMPACT = """
 .top { padding-top: 56px; padding-bottom: 44px } h1 { font-size: 76px; margin-top: 28px } .rule { margin: 30px 0 26px 0 }
 ol.st li { padding: 19px 0 17px 0 } ol.st p { font-size: 28px; line-height: 1.32 }
@@ -170,18 +199,21 @@ ol.st li { padding: 19px 0 17px 0 } ol.st p { font-size: 28px; line-height: 1.32
 
 def html(c):
     st = ''.join('<li><span class="n">0%d</span><p>%s</p></li>' % (i + 1, t) for i, t in enumerate(c['st']))
+    st = ('<ol class="st">%s</ol>' % st) if st else ''
     big2 = '<p class="big2">%s</p>' % c['big2'] if c['big2'] else ''
     logo = pathlib.Path(LOGO_NAR).as_uri()
     why = ''
+    quote = ('<blockquote>%s<cite>%s</cite></blockquote>' % (c['quote'], c.get('cite', ''))) if c.get('quote') else ''
+    fn = ('<div class="fn">%s</div>' % c['fn']) if c.get('fn') else ''
     if c.get('why'):
         cards = ''.join('<div class="card%s"><div class="k">%s</div><p>%s</p></div>' % (' full' if full else '', k, t) for k, t, full in c['why'])
-        why = '<div class="why"><h2>%s</h2><div class="grid">%s</div></div>' % (c.get('why_h2', '¿Por qué con Heiiu?'), cards)
-    return ('<!doctype html><html><head><meta charset="utf-8"><style>%s%s</style></head><body><div class="page">'
-            '<div class="top"><div class="label">%s<span>%s</span></div><h1>%s</h1><div class="rule"></div>'
-            '<ol class="st">%s</ol><div class="pivot"><p class="lead">%s</p><p class="big">%s</p>%s</div>%s</div>'
+        why = '<div class="why">%s<div class="grid">%s</div></div>' % (('<h2>%s</h2>' % c['why_h2']) if c.get('why_h2') else '', cards)
+    return ('<!doctype html><html><head><meta charset="utf-8"><style>%s%s%s</style></head><body><div class="page">'
+            '<div class="top"><div class="label">%s<span>%s</span></div><h1>%s</h1><div class="rule"></div>%s'
+            '%s<div class="pivot"><p class="lead">%s</p><p class="big">%s</p>%s</div>%s%s</div>'
             '<div class="band"><p>%s</p><img class="logo" src="%s">'
             '<div class="cta"><div class="tel"><small>Escríbenos</small>%s</div><div class="ig">%s<b>Bucaramanga</b></div></div></div>'
-            '</div></body></html>') % (CSS % dict(W=W, H=c.get('H', H), BAND=c['band_px']), COMPACT if c.get('compact') else '', c['label'], c['sub'], c['h1'], st, c['lead'], c['big'], big2, why,
+            '</div></body></html>') % (CSS % dict(W=W, H=c.get('H', H), BAND=c['band_px']), COMPACT if c.get('compact') else '', LIGHT if c.get('theme') == 'light' else '', c['label'], c['sub'], c['h1'], quote, st, c['lead'], c['big'], big2, why, fn,
                                        c['band'], logo, LINEA, IG)
 
 
