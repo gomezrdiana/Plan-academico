@@ -118,7 +118,7 @@ PIEZAS = {
     'GENERAL_ASESORAS_RESPALDO': dict(   # cara 2: el Pacto con las palabras de gerencia (texto vigente 15/10/2026), por que Heiiu, beca y como escribir
         compact=True, theme='light', label='ASÍ ES HEIIU', sub='LEE ESTO ANTES DE DECIDIR',
         h1='Vender inglés es fácil. <em>Lo difícil es que aprendas.</em>',
-        intro=('Muchas academias funcionan como un gimnasio: el negocio sale cuando pagas y dejas de ir. Nadie te llama, nadie te extraña, y a los tres meses la matrícula se volvió culpa. '
+        intro=('A muchas academias les sale el negocio cuando pagas y dejas de ir. Nadie te llama, nadie te extraña, y a los tres meses la matrícula se volvió culpa. '
                '<b>En Heiiu queremos la parte difícil: que vengas, que te sueltes a hablar y que no te rindas.</b> Por eso te lo decimos antes de que pagues:'),
         quote=('Nuestro objetivo es que salgas hablando inglés. Si no se logra, algo está mal: o tú dejaste de entrenar, o nosotros no estamos cumpliendo. '
                'Esto es un entrenamiento en equipo, como un gimnasio o aprender a nadar: desde el primer día hablas, tu profesor ve dónde puedes mejorar y lo repetimos hasta que sale. '
