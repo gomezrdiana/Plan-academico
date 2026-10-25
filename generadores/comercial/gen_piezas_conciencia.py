@@ -111,7 +111,7 @@ PIEZAS = {
             ('<b>La inteligencia artificial traduce, pero no conversa por ti.</b> En la entrevista, con el cliente y en el aeropuerto, el que habla eres tú.')],
         lead='Y no es falta de ganas: es que nadie aprende un idioma solo.',
         big='De cada 100 personas que bajan una app de inglés, 88 la dejan antes del mes.³',
-        big2='Un idioma se entrena en equipo: con un profesor que te corrige y gente que quiere lo mismo que tú.',
+        big2='Un idioma se entrena en equipo, con gente que no busca excusas ni culpables: busca lograr el objetivo.',
         fn='¹ Pruebas Saber 11 de 2025, análisis del Observatorio de Realidades Educativas de la Universidad Icesi. ² DNP, Archivos de Economía, <i>Bilingüismo laboral en Colombia</i>. ³ Retención a 30 días de la app de idiomas más descargada, estadísticas públicas 2026.',
         band='Dale la vuelta a la hoja: así entrenamos en Heiiu y <b>la beca que tienes por tu entidad aliada</b>.',
         band_px=250),
