@@ -71,6 +71,7 @@ ol.st p b { color: #FFF8E7; font-weight: 600 }
 .why p { font-size: 25px; line-height: 1.3; color: rgba(255,248,231,.86) }
 .why p b { color: #FFF8E7; font-weight: 600 }
 .intro { font-family: Constantia, Georgia, serif; font-size: 27px; line-height: 1.36; color: rgba(255,248,231,.88); margin: 0 0 22px 0 } .intro b { color: #FBC900 }
+.intro.after { margin: 12px 0 0 0 }
 blockquote { margin-top: 10px; padding: 22px 28px 22px 30px; border-left: 6px solid #FBC900; background: rgba(255,248,231,.06); border-radius: 0 16px 16px 0;
              font-family: Constantia, Georgia, serif; font-size: 27px; line-height: 1.36; color: #FFF8E7 }
 blockquote b { font-weight: 700 } blockquote cite { display: block; font-style: normal; font-family: Bahnschrift, sans-serif; font-size: 18px; letter-spacing: .14em; color: #FBC900; margin-top: 12px }
@@ -124,12 +125,11 @@ PIEZAS = {
                'Por eso grabas un video corto todos los días y tu profesor te lo devuelve con una mejora. A cambio, la garantía por escrito: '
                '<b>si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.</b> ¿Te le mides a ese ritmo?'),
         cite='GERENCIA · HEIIU ENGLISH ACADEMY',
+        after='¿Suena duro? Míralo al revés: <b>la única forma de perder la plata es dejar de entrenar.</b> Si entrenas, sales hablando inglés. Y si entrenas y no avanzas, te la devolvemos.',
         st=[], lead='', big='', big2='',
-        why=[('HABLAS DESDE EL PRIMER DÍA', 'De pie y hablando, con un profesor que te corrige ahí mismo. Nada de años copiando del tablero con miedo a abrir la boca.', False),
-             ('GENTE QUE QUIERE LO MISMO QUE TÚ', 'Aquí no estudias solo. Estás en un grupo de personas que también quieren más, y eso se nota en cómo se avanza.', False),
-             ('SI FALTAS, TE LLAMAMOS', 'Aprender inglés no es fácil ni siempre divertido, digan lo que digan las redes. Habrá días de no querer. Ese día te llamamos: <b>aquí no te dejamos rendirte</b>.', False),
+        why=[('SI FALTAS, TE LLAMAMOS', 'Aprender inglés no es fácil ni siempre divertido, digan lo que digan las redes. Habrá días de no querer. Ese día te llamamos: <b>aquí no te dejamos rendirte</b>.', False),
              ('TU AVANCE SE ESCUCHA', 'Te grabamos al entrar y al salir del nivel, y recibes reporte de tu progreso. Lo que avanzas no es una sensación: se oye.', False),
-             ('ALGUIEN YA APOSTÓ POR TI', 'Por ser afiliado de una entidad aliada tienes una <b>beca con su nombre</b>. Escríbenos desde el enlace o el QR de tu asesora: <b>tu código ya va en el mensaje</b>, y en la asesoría te decimos qué cubre.', True)],
+             ('ALGUIEN YA APOSTÓ POR TI', 'Por ser afiliado de una entidad aliada tienes una <b>beca con su nombre</b>. Escríbenos desde el enlace o el QR de tu asesora: <b>tu código ya va en el mensaje</b>.', True)],
         band='Una academia que firma lo que promete. <b>Escríbenos y agenda tu asesoría.</b>',
         band_px=250),
     '1_PROFESIONALES': dict(
@@ -197,9 +197,9 @@ COMPACT = """
 .top { padding-top: 56px; padding-bottom: 44px } h1 { font-size: 70px; margin-top: 26px } .rule { margin: 30px 0 26px 0 }
 ol.st li { padding: 19px 0 17px 0 } ol.st p { font-size: 28px; line-height: 1.32 }
 .pivot { padding-top: 26px } .pivot .lead { font-size: 33px } .pivot .big { font-size: 48px; margin-top: 10px } .pivot .big2 { font-size: 36px; margin-top: 18px } .fn { margin-top: 14px }
-.why { margin-top: 28px } .why h2 { font-size: 38px; margin-bottom: 14px } .why .grid { gap: 14px }
-.why .card { padding: 14px 18px 16px 18px; border-radius: 14px } .why .k { font-size: 17px; margin-bottom: 5px } .why p { font-size: 21.5px; line-height: 1.27 }
-.intro { font-size: 25px; line-height: 1.33; margin-bottom: 18px } blockquote { font-size: 25px; line-height: 1.33; padding: 18px 24px 18px 26px } blockquote cite { margin-top: 8px }
+.why { margin-top: 26px } .why h2 { font-size: 38px; margin-bottom: 14px } .why .grid { gap: 14px }
+.why .card { padding: 18px 22px 20px 22px; border-radius: 14px } .why .k { font-size: 18px; margin-bottom: 6px } .why p { font-size: 23px; line-height: 1.3 }
+.intro { font-size: 26px; line-height: 1.36; margin-bottom: 20px } blockquote { font-size: 26px; line-height: 1.36; padding: 20px 26px 20px 28px } blockquote cite { margin-top: 10px }
 """
 
 
@@ -211,6 +211,7 @@ def html(c):
     why = ''
     quote = ('<blockquote>%s<cite>%s</cite></blockquote>' % (c['quote'], c.get('cite', ''))) if c.get('quote') else ''
     if c.get('intro'): quote = '<p class="intro">%s</p>' % c['intro'] + quote
+    if c.get('after'): quote += '<p class="intro after">%s</p>' % c['after']
     fn = ('<div class="fn">%s</div>' % c['fn']) if c.get('fn') else ''
     if c.get('why'):
         cards = ''.join('<div class="card%s"><div class="k">%s</div><p>%s</p></div>' % (' full' if full else '', k, t) for k, t, full in c['why'])
