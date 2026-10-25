@@ -70,6 +70,7 @@ ol.st p b { color: #FFF8E7; font-weight: 600 }
 .why .k { font-family: Bahnschrift, sans-serif; font-size: 19px; letter-spacing: .14em; color: #FBC900; font-weight: 600; margin-bottom: 8px }
 .why p { font-size: 25px; line-height: 1.3; color: rgba(255,248,231,.86) }
 .why p b { color: #FFF8E7; font-weight: 600 }
+.intro { font-family: Constantia, Georgia, serif; font-size: 27px; line-height: 1.36; color: rgba(255,248,231,.88); margin: 0 0 22px 0 } .intro b { color: #FBC900 }
 blockquote { margin-top: 10px; padding: 22px 28px 22px 30px; border-left: 6px solid #FBC900; background: rgba(255,248,231,.06); border-radius: 0 16px 16px 0;
              font-family: Constantia, Georgia, serif; font-size: 27px; line-height: 1.36; color: #FFF8E7 }
 blockquote b { font-weight: 700 } blockquote cite { display: block; font-style: normal; font-family: Bahnschrift, sans-serif; font-size: 18px; letter-spacing: .14em; color: #FBC900; margin-top: 12px }
@@ -102,7 +103,7 @@ PIEZAS = {
         band_px=340),
     'GENERAL_ASESORAS_FRENTE': dict(   # hoja que la asesora de la entidad aliada entrega o reenvia; cara 1: conciencia con cifras verificadas (fuentes al pie)
         compact=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
-        h1='Hoy ya no sabemos cuál es el camino. <em>Pero los mejores son para los que hablan inglés.</em>',
+        h1='Hoy ya no sabemos cuál es el camino. <em>Pero los mejores caminos son para los que hablan inglés.</em>',
         st=[('<b>Ya ni la universidad asegura nada.</b> Hay carreras que cambian antes de terminarlas y títulos que las empresas ya no piden. <b>El que habla inglés abarca más</b>: más vacantes a las que aplicar, más clientes a los que vender, más países a los que ir.'),
             ('<b>De cada 8 jóvenes que terminan el colegio en Colombia, solo 1 sale con un inglés que le sirva</b> para estudiar o trabajar. Los otros 7 lo tienen pendiente de adultos.¹'),
             ('<b>Quien certifica su inglés gana cerca de un 26% más</b> que quien hace el mismo trabajo sin él.²'),
@@ -115,7 +116,9 @@ PIEZAS = {
         band_px=250),
     'GENERAL_ASESORAS_RESPALDO': dict(   # cara 2: el Pacto con las palabras de gerencia (texto vigente 15/10/2026), por que Heiiu, beca y como escribir
         compact=True, theme='light', label='ASÍ ES HEIIU', sub='LEE ESTO ANTES DE DECIDIR',
-        h1='Esto se entrena <em>como un deporte.</em>',
+        h1='Vender inglés es fácil. <em>Lo difícil es que aprendas.</em>',
+        intro=('Muchas academias funcionan como un gimnasio: el negocio sale cuando pagas y dejas de ir. Nadie te llama, nadie te extraña, y a los tres meses la matrícula se volvió culpa. '
+               '<b>En Heiiu queremos la parte difícil: que vengas, que hables y que no te sueltes.</b> Por eso te lo decimos antes de que pagues:'),
         quote=('Nuestro objetivo es que salgas hablando inglés. Si no se logra, algo está mal: o tú dejaste de entrenar, o nosotros no estamos cumpliendo. '
                'Esto es un entrenamiento en equipo, como un gimnasio o aprender a nadar: desde el primer día hablas, tu profesor ve dónde puedes mejorar y lo repetimos hasta que sale. '
                'Por eso grabas un video corto todos los días y tu profesor te lo devuelve con una mejora. A cambio, la garantía por escrito: '
@@ -186,6 +189,7 @@ ol.st li { border-color: rgba(28,23,20,.14) } ol.st .n { color: #E54C09 } ol.st 
 .why h2 { color: #E54C09 } .why .card { background: #FFFFFF; border-color: #E8DCC8 } .why .card.full { background: rgba(251,201,0,.22); border-color: #E6B800 }
 .why .k { color: #E54C09 } .why p { color: rgba(28,23,20,.85) } .why p b { color: #1C1714 }
 blockquote { border-left-color: #E54C09; background: rgba(229,76,9,.06); color: #1C1714 } blockquote cite { color: #E54C09 }
+.intro { color: rgba(28,23,20,.88) } .intro b { color: #E54C09 }
 .fn { color: rgba(28,23,20,.55); border-color: rgba(28,23,20,.14) }
 """
 
@@ -194,7 +198,8 @@ COMPACT = """
 ol.st li { padding: 19px 0 17px 0 } ol.st p { font-size: 28px; line-height: 1.32 }
 .pivot { padding-top: 26px } .pivot .lead { font-size: 33px } .pivot .big { font-size: 48px; margin-top: 10px } .pivot .big2 { font-size: 36px; margin-top: 18px } .fn { margin-top: 14px }
 .why { margin-top: 28px } .why h2 { font-size: 38px; margin-bottom: 14px } .why .grid { gap: 14px }
-.why .card { padding: 16px 20px 18px 20px; border-radius: 14px } .why .k { font-size: 17px; margin-bottom: 6px } .why p { font-size: 22px; line-height: 1.28 }
+.why .card { padding: 14px 18px 16px 18px; border-radius: 14px } .why .k { font-size: 17px; margin-bottom: 5px } .why p { font-size: 21.5px; line-height: 1.27 }
+.intro { font-size: 25px; line-height: 1.33; margin-bottom: 18px } blockquote { font-size: 25px; line-height: 1.33; padding: 18px 24px 18px 26px } blockquote cite { margin-top: 8px }
 """
 
 
@@ -205,6 +210,7 @@ def html(c):
     logo = pathlib.Path(LOGO_NAR).as_uri()
     why = ''
     quote = ('<blockquote>%s<cite>%s</cite></blockquote>' % (c['quote'], c.get('cite', ''))) if c.get('quote') else ''
+    if c.get('intro'): quote = '<p class="intro">%s</p>' % c['intro'] + quote
     fn = ('<div class="fn">%s</div>' % c['fn']) if c.get('fn') else ''
     if c.get('why'):
         cards = ''.join('<div class="card%s"><div class="k">%s</div><p>%s</p></div>' % (' full' if full else '', k, t) for k, t, full in c['why'])
