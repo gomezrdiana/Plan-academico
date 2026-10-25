@@ -103,11 +103,11 @@ PIEZAS = {
             ('La inteligencia artificial traduce, pero no conversa por ti. En la entrevista, en la reunión y en el viaje, hablas tú.'),
             ('Hoy, desde Bucaramanga, puedes estudiar, trabajar o vender con gente de todo el mundo. El idioma en común es el inglés.')],
         lead='Poder comunicarte con cualquier persona del mundo sube de valor cada día.',
-        big='Y no se aprende con suerte ni con una app: se aprende con constancia y con alguien al lado.',
+        big='Y no se aprende con suerte: se aprende en equipo, con alguien que cree en ti y sabe que eres capaz.',
         big2='',
-        why=[('HABLAS DESDE LA PRIMERA CLASE', 'Grupos de máximo 16 personas y un profesor al lado que te corrige ahí mismo. Nada de llenar cuadernos sin abrir la boca.', False),
-             ('EL PRIMER PASO HACIA LO QUE QUIERES', 'Hoy nadie busca solo un cargo: busca una vida que le guste. El viaje, el ascenso, el trabajo afuera. Te ayudamos a dar el <b>primer paso</b> hacia eso que te haría feliz.', False),
-             ('UN COACH QUE NO TE SUELTA', 'Aprender inglés no es fácil ni siempre divertido, digan lo que digan las redes. Por eso tienes un coach: si faltas, te atrasas o te desanimas, <b>aquí no te dejamos desvanecer</b>.', False),
+        why=[('HABLAS DESDE EL PRIMER DÍA', 'Un profesor al lado que te corrige ahí mismo. Nada de llenar cuadernos sin abrir la boca.', False),
+             ('EL PRIMER PASO HACIA LO QUE QUIERES', 'Hoy nadie busca solo un cargo: busca una vida que le guste. El viaje, el ascenso, el trabajo afuera o tu emprendimiento. Te ayudamos a dar el <b>primer paso</b> hacia eso que te haría feliz.', False),
+             ('UN COACH QUE NO TE SUELTA', 'Aprender inglés no es fácil ni siempre divertido, digan lo que digan las redes. Por eso tienes un coach: si faltas, te atrasas o te desanimas, <b>aquí no te dejamos rendirte</b>.', False),
              ('VES TU AVANCE O TE DEVOLVEMOS EL DINERO', 'Si asistes, haces tus tareas y presentas tus evaluaciones, y aun así no avanzas, te devolvemos el <b>100% del nivel</b>. Está firmado en tu contrato.', False),
              ('BECA POR TU ENTIDAD ALIADA', 'Si llegas por una entidad aliada, tienes una <b>beca</b> con su nombre. Pregúntale a tu asesora y escríbenos desde su enlace o su QR: <b>tu código ya va en el mensaje</b>.', True)],
         band='Una academia que firma lo que promete y no te deja solo en el camino. <b>Escríbenos y agenda tu asesoría.</b>',
@@ -160,9 +160,9 @@ PIEZAS = {
 
 
 COMPACT = """
-.top { padding-top: 56px } h1 { font-size: 76px; margin-top: 28px } .rule { margin: 30px 0 26px 0 }
-ol.st li { padding: 21px 0 19px 0 } ol.st p { font-size: 28px; line-height: 1.32 }
-.pivot { padding-top: 30px } .pivot .lead { font-size: 36px } .pivot .big { font-size: 58px; margin-top: 14px }
+.top { padding-top: 56px; padding-bottom: 44px } h1 { font-size: 76px; margin-top: 28px } .rule { margin: 30px 0 26px 0 }
+ol.st li { padding: 19px 0 17px 0 } ol.st p { font-size: 28px; line-height: 1.32 }
+.pivot { padding-top: 30px } .pivot .lead { font-size: 34px } .pivot .big { font-size: 52px; margin-top: 12px }
 .why { margin-top: 28px } .why h2 { font-size: 38px; margin-bottom: 14px } .why .grid { gap: 14px }
 .why .card { padding: 16px 20px 18px 20px; border-radius: 14px } .why .k { font-size: 17px; margin-bottom: 6px } .why p { font-size: 22px; line-height: 1.28 }
 """
