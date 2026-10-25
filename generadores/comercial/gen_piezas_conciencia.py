@@ -10,7 +10,9 @@ alianzas reparte las piezas), nunca la línea principal.
 Salida (git): recursos/comercial/campanas/volantes/PIEZA_*.png + copia en la carpeta del gerente de alianzas / volantes.
 Uso: python generadores/comercial/gen_piezas_conciencia.py"""
 import os, shutil, subprocess, pathlib, tempfile
+from urllib.parse import quote
 from PIL import Image
+import qrcode
 
 ROOT = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu'
 LOGO_NAR = os.path.join(ROOT, r'recursos\marca heiiu\logo_heiiu_sobre_naranja.png')
@@ -20,6 +22,19 @@ COPIA = os.path.join(ROOT, r'recursos\comercial\INDUCCION_COMERCIAL\contratacion
 EDGE = r'C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe'
 WORK = os.path.join(tempfile.gettempdir(), 'heiiu_piezas'); os.makedirs(WORK, exist_ok=True)
 LINEA = '316 768 8793'; IG = '@heiiu_english'
+QR_LINEA = '573167688793'; QR_MENSAJE = 'Hola, quiero información para estudiar inglés en Heiiu. Código de asesor: {codigo}'
+CODIGOS_TXT = os.path.join(ROOT, r'recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\LINKEDIN DIANA GOMEZ\Candidatos\John Hinestroza\plan referidos\codigos_asesoras.txt')
+
+
+def codigos():
+    if os.path.exists(CODIGOS_TXT): return [l.strip() for l in open(CODIGOS_TXT, encoding='utf-8') if l.strip() and not l.startswith('#')]
+    return ['C-%02d' % i for i in range(1, 11)]
+
+
+def qr_png(codigo):
+    enlace = 'https://wa.me/%s?text=%s' % (QR_LINEA, quote(QR_MENSAJE.format(codigo=codigo)))
+    q = qrcode.QRCode(error_correction=qrcode.constants.ERROR_CORRECT_L, box_size=10, border=1); q.add_data(enlace); q.make(fit=True)
+    out = os.path.join(WORK, 'qr_%s.png' % codigo); q.make_image(fill_color=(28, 23, 20), back_color='white').save(out); return out
 W, H = 1080, 1620
 
 
@@ -82,6 +97,10 @@ blockquote b { font-weight: 700 } blockquote cite { display: block; font-style: 
 .band p { font-size: 25px; line-height: 1.34; color: #FFF8E7 }
 .band p b { font-weight: 700 }
 .band .logo { width: 215px; margin-top: -12px; justify-self: end }
+.band .qrbox { position: absolute; right: 60px; top: 22px; width: 240px; background: #FFF8E7; border-radius: 14px; padding: 9px 9px 6px 9px; text-align: center }
+.band .qrbox img { width: 206px; display: block; margin: 0 auto }
+.band .qrbox span { font-family: Bahnschrift, sans-serif; font-weight: 700; font-size: 26px; color: #E54C09; display: block; margin-top: 2px; letter-spacing: .04em }
+.band.qr .cta { right: 330px } .band.qr .cta .tel { font-size: 26px; font-weight: 400 }
 .band .codigo { justify-self: end; width: 215px; border: 3px dashed rgba(255,248,231,.85); border-radius: 12px; padding: 10px 12px 8px 12px; text-align: center; margin-top: -8px }
 .band .codigo .k { font-family: Bahnschrift, sans-serif; font-size: 15px; letter-spacing: .12em; color: #FFF8E7; display: block; margin-bottom: 4px }
 .band .codigo .v { font-family: Bahnschrift, sans-serif; font-size: 34px; font-weight: 700; color: #FFF8E7; display: block; line-height: 1 }
@@ -117,8 +136,8 @@ PIEZAS = {
         big='De cada 100 personas que bajan una app de inglés, 88 la dejan antes del mes.³',
         big2='Un idioma se entrena en equipo, con gente que no busca excusas ni culpables: busca lograr el objetivo.',
         fn='¹ Pruebas Saber 11 de 2025, análisis del Observatorio de Realidades Educativas de la Universidad Icesi. ² DNP, Archivos de Economía, <i>Bilingüismo laboral en Colombia</i>. ³ Retención a 30 días de la app de idiomas más descargada, estadísticas públicas 2026.',
-        band='Dale la vuelta a la hoja: así entrenamos en Heiiu y <b>la beca que tienes por tu entidad aliada</b>.',
-        band_px=250),
+        band='Dale la vuelta a la hoja: así entrenamos en Heiiu, <b>la beca que tienes por tu entidad aliada</b> y el código para escribirnos.',
+        tel='Cómo escribirnos: <b>al respaldo</b>', band_px=250),
     'GENERAL_ASESORAS_RESPALDO': dict(   # cara 2: el Pacto con las palabras de gerencia (texto vigente 15/10/2026), por que Heiiu, beca y como escribir
         compact=True, theme='light', label='ASÍ ES HEIIU', sub='LEE ESTO ANTES DE DECIDIR',
         h1='Vender inglés es fácil. <em>Lo difícil es que aprendas.</em>',
@@ -135,8 +154,8 @@ PIEZAS = {
              ('SE NOTA, Y SE PUEDE MOSTRAR', 'Te grabamos el primer día y el último del nivel. Pon los dos videos juntos y no vas a necesitar que nadie te diga que avanzaste. <b>En casa tampoco tendrán que creerte: lo oyen.</b>', False),
              ('PUERTAS AFUERA, PERO SEGURAS', 'Cuando veas a dónde te puede llevar tu inglés, te contactamos con operadores verificados de programas en el exterior: au pair, trabajo de temporada, campamentos. Solo puertas seguras.', False),
              ('LA CONTRASEÑA', 'Los médicos se reconocen por el amor a aprender. Aquí la contraseña es otra y con ella entra cualquiera: <b>el amor por salir adelante</b>. Sin excusas, con dolor y con la meta al frente. Así, estás entre los tuyos.', False)],
-        band='<b>Alguien ya apostó por ti:</b> por tu entidad aliada tienes beca. Escanea el QR de tu asesora o escríbenos con su código en el primer mensaje. <b>Sin código no hay beca.</b>',
-        codigo=True, band_px=290),
+        band='<b>Alguien ya apostó por ti:</b> por tu entidad aliada tienes beca. Escanea el código de tu asesora: el mensaje ya sale listo con su código. <b>Sin código no hay beca.</b>',
+        por_codigo=True, band_px=290),
     '1_PROFESIONALES': dict(
         label='PROGRAMA INDIVIDUAL', sub='MÉDICOS · PROFESIONALES · DIRECTIVOS',
         h1='Su inglés, <em>en su agenda.</em>',
@@ -213,6 +232,14 @@ def html(c):
     st = ('<ol class="st">%s</ol>' % st) if st else ''
     big2 = '<p class="big2">%s</p>' % c['big2'] if c['big2'] else ''
     logo = pathlib.Path(LOGO_NAR).as_uri()
+    if c.get('qr'):
+        derecha = '<div class="qrbox"><img src="%s"><span>%s</span></div>' % (pathlib.Path(qr_png(c['qr'])).as_uri(), c['qr'])
+        tel = 'Escanea el código de tu asesora: <b>%s</b>' % c['qr']
+    elif c.get('codigo'):
+        derecha = '<div class="codigo"><span class="k">CÓDIGO DE TU ASESORA</span><span class="v">C-<span></span></span></div>'; tel = '<small>Escríbenos</small>' + LINEA
+    else:
+        derecha = '<img class="logo" src="%s">' % logo
+        tel = c['tel'] if c.get('tel') else '<small>Escríbenos</small>' + LINEA
     why = ''
     quote = ('<blockquote>%s<cite>%s</cite></blockquote>' % (c['quote'], c.get('cite', ''))) if c.get('quote') else ''
     if c.get('intro'): quote = '<p class="intro">%s</p>' % c['intro'] + quote
@@ -224,13 +251,16 @@ def html(c):
     return ('<!doctype html><html><head><meta charset="utf-8"><style>%s%s%s</style></head><body><div class="page">'
             '<div class="top"><div class="label">%s<span>%s</span></div><h1>%s</h1><div class="rule"></div>%s'
             '%s<div class="pivot"><p class="lead">%s</p><p class="big">%s</p>%s</div>%s%s</div>'
-            '<div class="band"><p>%s</p>%s'
-            '<div class="cta"><div class="tel"><small>Escríbenos</small>%s</div><div class="ig">%s<b>Bucaramanga</b></div></div></div>'
+            '<div class="band%s"><p>%s</p>%s'
+            '<div class="cta"><div class="tel">%s</div><div class="ig">%s<b>Bucaramanga</b></div></div></div>'
             '</div></body></html>') % (CSS % dict(W=W, H=c.get('H', H), BAND=c['band_px']), COMPACT if c.get('compact') else '', LIGHT if c.get('theme') == 'light' else '', c['label'], c['sub'], c['h1'], quote, st, c['lead'], c['big'], big2, why, fn,
-                                       c['band'], ('<div class="codigo"><span class="k">CÓDIGO DE TU ASESORA</span><span class="v">C-<span></span></span></div>' if c.get('codigo') else '<img class="logo" src="%s">' % logo), LINEA, IG)
+                                       (' qr' if c.get('qr') else ''), c['band'], derecha, tel, IG)
 
 
 def render(nombre, c):
+    if c.get('por_codigo') and not c.get('qr'):
+        for cod in codigos(): render('%s_%s' % (nombre, cod), dict(c, qr=cod, por_codigo=False))
+        return
     hp = os.path.join(WORK, nombre + '.html'); png = os.path.join(WORK, nombre + '.png')
     open(hp, 'w', encoding='utf-8').write(html(c))
     if os.path.exists(png): os.remove(png)
@@ -261,9 +291,9 @@ def sangrado(nombre, mm=3, ppp=274):
     out.paste(im.crop((0, 0, 1, h)).resize((b, h)), (0, b)); out.paste(im.crop((w - 1, 0, w, h)).resize((b, h)), (w + b, b))
     for (x, y, px, py) in ((0, 0, 0, 0), (w + b, 0, w - 1, 0), (0, h + b, 0, h - 1), (w + b, h + b, w - 1, h - 1)):
         out.paste(Image.new('RGB', (b, b), im.getpixel((px, py))), (x, y))
-    for d in (OUTDIR, COPIA):
-        p = os.path.join(d, 'PIEZA_%s_IMPRENTA_10x15_sangrado3mm.png' % nombre); out.save(p, dpi=(ppp, ppp)); print('IMPRENTA', p)
+    for d in (os.path.join(OUTDIR, 'imprenta'), os.path.join(COPIA, 'imprenta')):
+        os.makedirs(d, exist_ok=True); p = os.path.join(d, 'PIEZA_%s_IMPRENTA_10x15_sangrado3mm.png' % nombre); out.save(p, dpi=(ppp, ppp)); print('IMPRENTA', p)
 
 
 if __name__ == '__main__' and os.environ.get('SANGRADO'):
-    for k in ('GENERAL_ASESORAS_FRENTE', 'GENERAL_ASESORAS_RESPALDO'): sangrado(k)
+    for k in ['GENERAL_ASESORAS_FRENTE'] + ['GENERAL_ASESORAS_RESPALDO_' + c for c in codigos()]: sangrado(k)
