@@ -245,3 +245,21 @@ if __name__ == '__main__':
     import sys
     logo_transparente()
     for k in (sys.argv[1:] or PIEZAS): render(k, PIEZAS[k])
+
+
+def sangrado(nombre, mm=3, ppp=274):
+    """Version para imprenta 10x15: extiende los bordes `mm` milimetros replicando el borde (sangrado para el corte).
+    1080 px / 10 cm = 274 ppp -> 3 mm = 32 px por lado. Salida: PIEZA_{nombre}_IMPRENTA_10x15_sangrado3mm.png"""
+    src = os.path.join(OUTDIR, 'PIEZA_%s.png' % nombre); im = Image.open(src).convert('RGB')
+    b = round(mm / 25.4 * ppp); w, h = im.size
+    out = Image.new('RGB', (w + 2 * b, h + 2 * b)); out.paste(im, (b, b))
+    out.paste(im.crop((0, 0, w, 1)).resize((w, b)), (b, 0)); out.paste(im.crop((0, h - 1, w, h)).resize((w, b)), (b, h + b))
+    out.paste(im.crop((0, 0, 1, h)).resize((b, h)), (0, b)); out.paste(im.crop((w - 1, 0, w, h)).resize((b, h)), (w + b, b))
+    for (x, y, px, py) in ((0, 0, 0, 0), (w + b, 0, w - 1, 0), (0, h + b, 0, h - 1), (w + b, h + b, w - 1, h - 1)):
+        out.paste(Image.new('RGB', (b, b), im.getpixel((px, py))), (x, y))
+    for d in (OUTDIR, COPIA):
+        p = os.path.join(d, 'PIEZA_%s_IMPRENTA_10x15_sangrado3mm.png' % nombre); out.save(p, dpi=(ppp, ppp)); print('IMPRENTA', p)
+
+
+if __name__ == '__main__' and os.environ.get('SANGRADO'):
+    for k in ('GENERAL_ASESORAS_FRENTE', 'GENERAL_ASESORAS_RESPALDO'): sangrado(k)
