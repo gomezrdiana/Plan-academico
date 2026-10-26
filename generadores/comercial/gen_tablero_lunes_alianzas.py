@@ -69,11 +69,11 @@ tabla(['Corte', 'Fecha', 'Qué tiene que haber', 'Qué pasa si no'], [
 ], [2.0, 3.6, 6.6, 5.0], size=8.5)
 t('El lunes anterior a cada corte (16 de noviembre y 30 de noviembre) el analista escribe en la hoja, con el número del tablero: "va a cumplir / no va a cumplir". Gerencia decide con ese papel delante. La semana del festivo del 2 de noviembre la reunión es el martes 3.', size=9)
 
-sec('4. En la misma reunión: embudo de la semana en tres líneas (lo anota el analista y se lo deja a gerencia)')
+sec('4. En la misma reunión: embudo de la semana en tres líneas (lo anota el analista con datos que le llegan antes del lunes; el gerente de alianzas solo responde por la tercera)')
 bullets([
- 'Pauta: gasto de la semana, leads, conversaciones (export de Meta o dato del trafficker).',
- 'Citas: agendadas, asistidas, separaciones, matrículas (panel de LaHaus y coordinación).',
- 'Alianzas: los cinco indicadores de arriba en una línea.'])
+ 'Pauta: gasto de la semana, leads, conversaciones. Lo entrega el trafficker el viernes (export de Meta). No es del gerente de alianzas.',
+ 'Citas: agendadas, asistidas, separaciones, matrículas. Lo entrega coordinación con el panel de la plataforma. No es del gerente de alianzas.',
+ 'Alianzas: los cinco indicadores de arriba en una línea. Esta sí la presenta el gerente de alianzas.'])
 t('Regla: dato que no llegó se escribe "SIN DATO"; nunca se estima.', size=8.5, color=GRIS, after=0)
 
 try: d.save(OUT); print('OK', OUT)
