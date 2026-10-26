@@ -365,6 +365,21 @@ PIEZAS = {
         big2='', fn='¹ DANE, Gran Encuesta Integrada de Hogares, jóvenes de 15 a 28 años, septiembre a noviembre de 2025. ² Pruebas Saber 11 de 2025, análisis del Observatorio de Realidades Educativas de la Universidad Icesi.',
         band='Escríbanos desde el enlace que le mandó su asesora: <b>el código ya va en el mensaje. Sin código no hay beca.</b>',
         tel='Escríbanos por el enlace de su asesora', tel_small=True, band_px=290),
+    # ---------------- CALLE (volanteo: una idea, tres lineas, el numero; sin datos ni precios) ----------------
+    'CALLE_A': dict(
+        calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
+        h1='Si cumples y no aprendes, <em>te devolvemos la plata.</em>',
+        st=[('Hablas desde el primer día.'), ('Si faltas, te llamamos.'), ('Te grabamos al entrar y al salir: el avance se oye.')],
+        lead='Garantía por escrito, en tu contrato. Sin letra pequeña.', big='', big2='',
+        band='Grupos, programa individual y becas para empresas. <b>Escríbenos y agenda tu asesoría.</b>',
+        band_px=300),
+    'CALLE_B': dict(
+        calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
+        h1='Hoy nadie sabe cuál es el camino. <em>Los mejores son para los que hablan inglés.</em>',
+        st=[('Hablas desde el primer día.'), ('Si faltas, te llamamos.'), ('Si cumples y no avanzas, te devolvemos la plata.')],
+        lead='Entrenamiento, no promesas. Garantía por escrito.', big='', big2='',
+        band='Grupos, programa individual y becas para empresas. <b>Escríbenos y agenda tu asesoría.</b>',
+        band_px=300),
 }
 
 
@@ -380,6 +395,17 @@ ol.st li { border-color: rgba(28,23,20,.14) } ol.st .n { color: #E54C09 } ol.st 
 blockquote { border-left-color: #E54C09; background: rgba(229,76,9,.06); color: #1C1714 } blockquote cite { color: #E54C09 }
 .intro { color: rgba(28,23,20,.88) } .intro b { color: #E54C09 }
 .fn { color: rgba(28,23,20,.55); border-color: rgba(28,23,20,.14) }
+"""
+
+CALLE = """
+h1 { font-size: 108px; line-height: 1.02; margin-top: 40px }
+.rule { margin: 44px 0 30px 0 }
+ol.st li { padding: 24px 0 22px 0; grid-template-columns: 70px 1fr }
+ol.st .n { font-size: 30px; padding-top: 10px }
+ol.st p { font-size: 40px; line-height: 1.22; color: #FFF8E7; font-weight: 400 }
+.pivot .lead { font-size: 40px; line-height: 1.25 }
+.band p { font-size: 30px; line-height: 1.3 }
+.cta .tel { font-size: 56px } .cta .tel small { font-size: 26px }
 """
 
 COMPACT = """
@@ -413,12 +439,12 @@ def html(c):
     if c.get('why'):
         cards = ''.join('<div class="card%s"><div class="k">%s</div><p>%s</p></div>' % (' full' if full else '', k, t) for k, t, full in c['why'])
         why = '<div class="why">%s<div class="grid">%s</div></div>' % (('<h2>%s</h2>' % c['why_h2']) if c.get('why_h2') else '', cards)
-    return ('<!doctype html><html><head><meta charset="utf-8"><style>%s%s%s</style></head><body><div class="page">'
+    return ('<!doctype html><html><head><meta charset="utf-8"><style>%s%s%s%s</style></head><body><div class="page">'
             '<div class="top"><div class="label">%s<span>%s</span></div><h1>%s</h1><div class="rule"></div>%s'
             '%s<div class="pivot"><p class="lead">%s</p><p class="big">%s</p>%s</div>%s%s</div>'
             '<div class="band%s"><p>%s</p>%s'
             '<div class="cta"><div class="tel">%s</div><div class="ig">%s<b>Bucaramanga</b></div></div></div>'
-            '</div></body></html>') % (CSS % dict(W=W, H=c.get('H', H), BAND=c['band_px']), COMPACT if c.get('compact') else '', LIGHT if c.get('theme') == 'light' else '', c['label'], c['sub'], c['h1'], quote, st, c['lead'], c['big'], big2, why, fn,
+            '</div></body></html>') % (CSS % dict(W=W, H=c.get('H', H), BAND=c['band_px']), COMPACT if c.get('compact') else '', LIGHT if c.get('theme') == 'light' else '', CALLE if c.get('calle') else '', c['label'], c['sub'], c['h1'], quote, st, c['lead'], c['big'], big2, why, fn,
                                        (' qr' if c.get('qr') else '') + (' tels' if c.get('tel_small') else ''), c['band'], derecha, tel, IG)
 
 
