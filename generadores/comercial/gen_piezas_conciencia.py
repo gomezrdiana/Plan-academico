@@ -368,9 +368,11 @@ PIEZAS = {
     # ---------------- CALLE (volanteo: una idea, tres lineas, el numero; sin datos ni precios) ----------------
     'CALLE_A': dict(
         calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
-        h1='Si cumples y no aprendes inglés, <em>te devolvemos la plata.</em>',
-        st=[('Hablas inglés desde el primer día.'), ('Si faltas, te llamamos.'), ('Te grabamos al entrar y al salir: el avance se oye.')],
-        lead='Garantía por escrito, en tu contrato. Sin letra pequeña.', big='', big2='',
+        h1='El que habla inglés abarca más: <em>más vacantes, más clientes, más países.</em>',
+        st=[('Hablas inglés desde el primer día, con un profesor que te corrige ahí mismo.'),
+            ('Si faltas, te llamamos. Aquí nadie se rinde solo.'),
+            ('Te empujamos a pensar una idea de negocio y a contarla en inglés.')],
+        lead='Y lo firmamos: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.', big='', big2='',
         band='Grupos, programa individual y becas para empresas. <b>Escríbenos y agenda tu asesoría.</b>',
         band_px=300),
     'CALLE_B': dict(
