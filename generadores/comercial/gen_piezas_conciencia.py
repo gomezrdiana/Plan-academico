@@ -322,17 +322,49 @@ PIEZAS = {
         fn='¹ Pruebas Saber 11 de 2025, análisis de la Universidad Icesi. ² DNP, Archivos de Economía, <i>Bilingüismo laboral en Colombia</i>. ³ DANE, Gran Encuesta Integrada de Hogares, jóvenes de 15 a 28 años, septiembre a noviembre de 2025.',
         band='Escríbenos desde el enlace que te mandó tu asesora: <b>tu código ya va en el mensaje. Sin código no hay beca.</b>',
         tel='Escríbenos por el enlace de tu asesora', tel_small=True, band_px=290),
-    '4_PADRES': dict(
-        compact=True, label='PROGRAMAS PARA JÓVENES', sub='PADRES DE FAMILIA',
-        h1='El inglés que su hijo <em>va a necesitar.</em>',
-        st=[('<b>Se habla, no solo se escribe.</b> Su hijo habla desde la primera sesión, con simulaciones de lo que va a vivir: el aeropuerto, la entrevista, la clase afuera.'),
-            ('<b>Usted ve el avance.</b> Reporte periódico a los padres con asistencia, puntualidad y progreso, y grabaciones de entrada y de salida del nivel.'),
-            ('<b>Hábitos que se quedan.</b> Junto con el inglés se entrenan puntualidad, constancia y disciplina. Eso también se reporta.')],
-        lead='Un enfoque claro desde el primer día:',
-        big='el viaje, el intercambio, la universidad o la beca que viene.',
-        big2='Y lo empujamos a pensar en una idea de negocio propia y a contarla en inglés.',
-        band='Programas para jóvenes con meta definida y <b>garantía de aprendizaje por escrito</b>. Agende una asesoría para conocer la ruta de su hijo.',
-        band_px=320),
+    # ---------------- PADRES (la asesora de la entidad aliada le habla al papa del que sale del colegio o del que aun no arranca) ----------------
+    'PADRES_FRENTE': dict(   # misma tesis que la de empresas, volteada al papa: le devolvemos un mejor hijo; solo imprenta (10x15), de usted
+        compact=True, imprenta=True, label='PARA PADRES', sub='DEL QUE SALE DEL COLEGIO · DEL QUE AÚN NO ARRANCA',
+        h1='Las otras academias le prometen inglés. <em>Nosotros le devolvemos un mejor hijo.</em>',
+        st=[('<b>1 de cada 5 jóvenes en Colombia ni estudia ni trabaja.</b>¹ No es falta de capacidad: es falta de una meta con fecha y de alguien que le exija. Eso es lo que entrenamos.'),
+            ('<b>Si acaba de salir del colegio, no se apresure a elegir universidad.</b> Hay carreras que cambian antes de terminarlas y títulos que las empresas ya no piden. Un año aprendiendo inglés con disciplina no se pierde: abre la beca, el intercambio y la carrera que sí es.'),
+            ('<b>De cada 8 jóvenes que terminan el colegio, solo 1 sale con un inglés que le sirva.</b>² Los otros 7 llegan a la universidad y al primer empleo con eso pendiente.'),
+            ('<b>Lo que medimos para que aprenda inglés es lo que usted quiere ver en casa:</b> llegar a tiempo, cumplir la tarea diaria, no rendirse, ir por una meta con fecha. Y usted recibe el reporte.')],
+        lead='Y lo empujamos a pensar una idea de negocio propia y a contarla en inglés.',
+        big='Garantía por escrito: si cumple su parte y no avanza, le devolvemos el 100% del nivel.',
+        big2='', fn='¹ DANE, Gran Encuesta Integrada de Hogares, jóvenes de 15 a 28 años, septiembre a noviembre de 2025. ² Pruebas Saber 11 de 2025, análisis del Observatorio de Realidades Educativas de la Universidad Icesi.',
+        band='Dele la vuelta a la hoja: cómo entrenamos y <b>la beca que tiene por su entidad aliada</b>.',
+        tel='Cómo escribirnos: <b>al respaldo</b>', band_px=250),
+    'PADRES_RESPALDO': dict(   # un respaldo por codigo de asesora, con su QR; solo imprenta
+        compact=True, imprenta=True, theme='light', label='ASÍ ES HEIIU', sub='LEA ESTO ANTES DE DECIDIR',
+        h1='Vender inglés es fácil. <em>Lo difícil es que su hijo aprenda.</em>',
+        intro=('A muchas academias les sale el negocio cuando usted paga y su hijo deja de ir. Nadie lo llama, nadie lo extraña, y a los tres meses la matrícula se volvió una pelea en la casa. '
+               '<b>En Heiiu queremos la parte difícil: que venga, que se suelte a hablar y que no se rinda.</b> Por eso se lo decimos antes de que pague:'),
+        quote=('Nuestro objetivo es que su hijo salga hablando inglés. Si no se logra, algo está mal: o él dejó de entrenar, o nosotros no estamos cumpliendo. '
+               'Esto es un entrenamiento en equipo, como prepararse para una maratón: desde el primer día habla, su profesor ve dónde puede mejorar y lo repetimos hasta que sale. '
+               'Por eso graba un video corto todos los días y su profesor se lo devuelve con una mejora. A cambio, la garantía por escrito: '
+               '<b>si cumple su parte y no avanza, le devolvemos el 100% del nivel.</b> ¿Se le mide él a ese ritmo?'),
+        cite='GERENCIA · HEIIU ENGLISH ACADEMY',
+        after='¿Suena duro? Mírelo al revés: <b>la única forma de perder la plata es que deje de entrenar.</b> Y usted se entera antes que nadie: el reporte llega a la casa.',
+        st=[], lead='', big='', big2='',
+        why=[('AQUÍ NADIE DESAPARECE', 'Faltó y no avisó: lo llamamos ese mismo día, y usted también se entera. No es persecución: es la parte menos chévere del coach, <b>la que esperamos no tener que hacer</b>.', False),
+             ('SE NOTA, Y SE PUEDE MOSTRAR', 'Lo grabamos el primer día y el último del nivel. Ponga los dos videos juntos: <b>no va a necesitar que nadie le diga que avanzó.</b>', False),
+             ('PUERTAS AFUERA, PERO SEGURAS', 'Cuando su inglés dé, lo conectamos con operadores verificados de programas en el exterior: au pair, campamentos, trabajo de temporada. Solo puertas seguras.', False),
+             ('LA CONTRASEÑA', 'Aquí entra cualquiera que traiga una sola cosa: <b>el amor por salir adelante</b>. Sin excusas, con la meta al frente, rodeado de gente que quiere lo mismo.', False)],
+        band='<b>Alguien ya apostó por su hijo:</b> por su entidad aliada tiene beca. Escanee el código de su asesora: el mensaje sale listo con su código. <b>Sin código no hay beca.</b>',
+        tel_qr='Escanee el código de su asesora: <b>%s</b>', por_codigo=True, band_px=290),
+    'PADRES_CORTA': dict(   # digital, la reenvia la asesora con SU enlace; sin numero
+        compact=True, label='PARA PADRES', sub='DEL QUE SALE DEL COLEGIO · DEL QUE AÚN NO ARRANCA',
+        h1='Las otras academias le prometen inglés. <em>Nosotros le devolvemos un mejor hijo.</em>',
+        st=[('<b>1 de cada 5 jóvenes en Colombia ni estudia ni trabaja.</b>¹ No es falta de capacidad: es falta de una meta con fecha y de alguien que le exija.'),
+            ('<b>Si acaba de salir del colegio, no se apresure a elegir universidad.</b> Un año aprendiendo inglés con disciplina no se pierde: abre la beca, el intercambio y la carrera que sí es.'),
+            ('<b>Lo que medimos es lo que usted quiere ver en casa:</b> llegar a tiempo, cumplir la tarea diaria, no rendirse, ir por una meta con fecha. Y usted recibe el reporte.'),
+            ('<b>Si falta, lo llamamos ese mismo día</b> y usted también se entera. Lo grabamos el primer día y el último del nivel: el avance se oye.')],
+        lead='Alguien ya apostó por su hijo: por su entidad aliada tiene beca. Y lo empujamos a pensar una idea de negocio propia y a contarla en inglés.',
+        big='Garantía por escrito: si cumple su parte y no avanza, le devolvemos el 100% del nivel.',
+        big2='', fn='¹ DANE, Gran Encuesta Integrada de Hogares, jóvenes de 15 a 28 años, septiembre a noviembre de 2025. ² Pruebas Saber 11 de 2025, análisis del Observatorio de Realidades Educativas de la Universidad Icesi.',
+        band='Escríbanos desde el enlace que le mandó su asesora: <b>el código ya va en el mensaje. Sin código no hay beca.</b>',
+        tel='Escríbanos por el enlace de su asesora', tel_small=True, band_px=290),
 }
 
 
@@ -367,7 +399,7 @@ def html(c):
     logo = pathlib.Path(LOGO_NAR).as_uri()
     if c.get('qr'):
         derecha = '<div class="qrbox"><img src="%s"><span>%s</span></div>' % (pathlib.Path(qr_png(c['qr'])).as_uri(), c['qr'])
-        tel = 'Escanea el código de tu asesora: <b>%s</b>' % c['qr']
+        tel = (c.get('tel_qr') or 'Escanea el código de tu asesora: <b>%s</b>') % c['qr']
     elif c.get('codigo'):
         derecha = '<div class="codigo"><span class="k">CÓDIGO DE TU ASESORA</span><span class="v">C-<span></span></span></div>'; tel = '<small>Escríbenos</small>' + LINEA
     else:
@@ -401,7 +433,7 @@ def render(nombre, c):
                     '--user-data-dir=' + os.path.join(WORK, 'profile'), '--window-size=%d,%d' % (W, c.get('H', H)),
                     '--screenshot=' + png, pathlib.Path(hp).as_uri()], capture_output=True, timeout=90)
     assert os.path.exists(png), 'Edge no generó ' + png
-    if nombre.startswith('GENERAL_ASESORAS'):   # la hoja de asesoras solo se imprime: va unicamente a imprenta/, con sangrado
+    if nombre.startswith('GENERAL_ASESORAS') or c.get('imprenta'):   # hojas que solo se imprimen: van unicamente a imprenta/, con sangrado
         sangrado(nombre, png); return
     out = os.path.join(OUTDIR, 'PIEZA_%s.png' % nombre)
     os.makedirs(OUTDIR, exist_ok=True); os.makedirs(COPIA, exist_ok=True)
