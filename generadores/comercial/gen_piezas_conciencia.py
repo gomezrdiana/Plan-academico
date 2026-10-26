@@ -244,10 +244,10 @@ PIEZAS = {
             ('<b>En Colombia hay 2,3 millones de jóvenes que ni estudian ni trabajan: 1 de cada 5.</b>² Un hijo de su empleado en un programa que exige asistencia, tareas y video diario está ocupado en algo que lo saca adelante, y lejos de lo que a su empleado le quita el sueño.'),
             ('<b>Un empleado preocupado por su casa no rinde.</b> El 34% de los trabajadores colombianos se ha ausentado por ansiedad o depresión.³ La tranquilidad de la familia también es productividad.'),
             ('<b>Y lo que se mide para aprender inglés es lo mismo que usted mide en un buen empleado:</b> puntualidad, cumplimiento, constancia y una meta con fecha.')],
-        lead='Por eso en Heiiu el inglés viene con evidencia.',
-        big='Becas con el nombre de su empresa para su gente y sus hijos, sin costo para la empresa. Y el reporte de cada uno: asistencia, puntualidad, tareas y avance.',
+        lead='Un trabajador agradece lo que la empresa hace por su desarrollo. Y lo que hace por su hijo no lo olvida: la educación de los hijos está entre lo que más anhela.⁴',
+        big='Becas con el nombre de su empresa para su gente y sus hijos, sin costo para la empresa. Y el reporte de cada uno.',
         big2='',
-        fn='¹ W3Techs, octubre de 2026, sitios web por idioma principal. ² DANE, Gran Encuesta Integrada de Hogares, jóvenes de 15 a 28 años, septiembre a noviembre de 2025. ³ Estudio de Seguros Sura sobre salud mental laboral, 2025.',
+        fn='¹ W3Techs, octubre de 2026, sitios web por idioma principal. ² DANE, Gran Encuesta Integrada de Hogares, jóvenes de 15 a 28 años, septiembre a noviembre de 2025. ³ Estudio de Seguros Sura sobre salud mental laboral, 2025. ⁴ Encuesta Provokers y Apprecio a trabajadores de Colombia, México, Chile y Perú.',
         band='Dale la vuelta a la hoja: cómo funciona para su empresa y <b>las becas con su nombre, sin costo para la empresa</b>.',
         band_px=250),
     'EMPRESAS_RESPALDO': dict(
