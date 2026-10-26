@@ -1,9 +1,27 @@
 # -*- coding: utf-8 -*-
-"""Convenio Heiiu Business Partner (1 pagina, formato estandar que cierra el docente habilitado y firma gerencia).
-Salida: recursos/comercial/B2B/CONVENIO_HEIIU_BUSINESS_PARTNER_v1.docx"""
+"""Convenio Heiiu Business Partner (1 pagina, formato estandar que cierra el gerente de alianzas y firma gerencia).
+Dos variantes con el mismo texto: EMPRESA (colaboradores) y ENTIDAD (fondos de empleados, cooperativas, asociaciones: afiliados).
+Salida: recursos/comercial/B2B/CONVENIO_HEIIU_BUSINESS_PARTNER_v1.docx y CONVENIO_HEIIU_ENTIDAD_ALIADA_v1.docx (se corre sin argumentos y genera los dos)."""
 from docx import Document
 from docx.shared import Pt, RGBColor, Cm
 from docx.enum.text import WD_ALIGN_PARAGRAPH
+import sys
+
+VARIANTE = sys.argv[1] if len(sys.argv) > 1 else 'empresa'
+REP_ENTIDAD = [   # orden importa: primero las frases largas
+    ('CONVENIO DE ALIANZA — HEIIU BUSINESS PARTNER', 'CONVENIO DE ALIANZA — HEIIU BUSINESS PARTNER · ENTIDADES (FONDOS DE EMPLEADOS, COOPERATIVAS, ASOCIACIONES)'),
+    ('y la empresa ______', 'y la entidad (fondo de empleados, cooperativa o asociación) ______'),
+    ('Contacto de recursos humanos designado', 'Contacto designado por la entidad'),
+    ('contacto de recursos humanos', 'contacto designado'),
+    ('(en la empresa o en la sede)', '(en la entidad o en la sede)'),
+    ('para su equipo', 'para sus afiliados'),
+    ('LA EMPRESA ALIADA', 'LA ENTIDAD ALIADA'), ('Becas [Empresa]', 'Becas [Entidad]'), ('BECA [EMPRESA]', 'BECA [ENTIDAD]'),
+    ('COLABORADORES', 'AFILIADOS'), ('colaboradores', 'afiliados'), ('colaborador', 'afiliado'),
+]
+def R(txt):
+    if VARIANTE == 'entidad':
+        for a, b in REP_ENTIDAD: txt = txt.replace(a, b)
+    return txt
 
 GRIS = RGBColor(0x77, 0x77, 0x77)
 d = Document()
@@ -14,13 +32,13 @@ d.styles['Normal'].font.name = 'Calibri'; d.styles['Normal'].font.size = Pt(9.5)
 def t(txt, bold=False, after=3, size=9.5, align=None, color=None):
     p = d.add_paragraph(); p.paragraph_format.space_after = Pt(after)
     if align: p.alignment = align
-    r = p.add_run(txt); r.bold = bold; r.font.size = Pt(size)
+    r = p.add_run(R(txt)); r.bold = bold; r.font.size = Pt(size)
     if color: r.font.color.rgb = color
 
 def cl(n, tit, txt):
     p = d.add_paragraph(); p.paragraph_format.space_after = Pt(3)
-    r = p.add_run(f'{n}. {tit}. '); r.bold = True; r.font.size = Pt(9.5)
-    r2 = p.add_run(txt); r2.font.size = Pt(9.5)
+    r = p.add_run(f'{n}. {R(tit)}. '); r.bold = True; r.font.size = Pt(9.5)
+    r2 = p.add_run(R(txt)); r2.font.size = Pt(9.5)
 
 t('CONVENIO DE ALIANZA — HEIIU BUSINESS PARTNER', bold=True, size=12.5, align=WD_ALIGN_PARAGRAPH.CENTER, after=1)
 t('Iniciativa Go Above and Beyond · Heiiu English Academy — Global Teacher S.A.S., NIT 900.422.478-2 · Formato estándar v1 · octubre de 2026', size=8.5, color=GRIS, align=WD_ALIGN_PARAGRAPH.CENTER, after=8)
@@ -43,5 +61,7 @@ t('Nombre: ________________________                                        DIANA
 t('C.C. ______________________________                                       Representante Legal', after=4)
 t('Presentado por: ______________________________ (representante comercial Heiiu) · Fecha de presentación: ____ / ____ / 2026', size=8.5, color=GRIS)
 
-out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\B2B\CONVENIO_HEIIU_BUSINESS_PARTNER_v1.docx'
+out = r'C:\Users\pedro\Downloads\diana gt\heiiu\estrategia global Heiiu\recursos\comercial\B2B' + '\\' + ('CONVENIO_HEIIU_ENTIDAD_ALIADA_v1.docx' if VARIANTE == 'entidad' else 'CONVENIO_HEIIU_BUSINESS_PARTNER_v1.docx')
 d.save(out); print('OK', out)
+if VARIANTE == 'empresa':   # sin argumentos genera tambien la variante de entidad
+    import subprocess; subprocess.run([sys.executable, __file__, 'entidad'], check=True)

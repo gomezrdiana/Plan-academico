@@ -211,7 +211,7 @@ bullets(sl, Inches(0.55), Inches(2.55), Inches(6.0), Inches(4.3), [
 rect(sl, Inches(6.8), Inches(2.0), Inches(6.0), Inches(0.45), OSCURO)
 text(sl, Inches(6.95), Inches(2.0), Inches(5.8), Inches(0.45), 'EL AFILIADO Y SU FAMILIA', size=13, bold=True, color=AMA, anchor=MSO_ANCHOR.MIDDLE)
 bullets(sl, Inches(6.8), Inches(2.55), Inches(6.0), Inches(4.3), [
-    ('Paga la mitad por ser afiliado: ', 'beca del 45% sobre el programa completo, para él y para sus hijos.'),
+    ('Paga la mitad por ser afiliado: ', 'beca del 45% sobre el programa completo, para él, su cónyuge y sus hijos desde los 12 años.'),
     ('Quien certifica su inglés gana cerca de un 26% más ', 'que quien hace el mismo trabajo sin él.¹'),
     ('Garantía por escrito: ', 'si cumple su parte y no avanza, recibe el 100% del nivel de vuelta.'),
     ('No entrena solo: ', 'un profesor que corrige ahí mismo y un coach que no lo deja rendirse.'),
@@ -228,7 +228,7 @@ text(sl, Inches(0.55), Inches(2.05), Inches(12.2), Inches(0.9),
      '20 minutos con sus afiliados para contarles el programa y el Pacto antes de que decidan.', size=16, color=CREMA, spacing=1.2)
 for i, (t1, t2) in enumerate([
         ('3 BECAS CON SU NOMBRE', 'Este trimestre, para los afiliados que el fondo elija. Si todos cumplen, suben a 5.'),
-        ('GRUPOS DE MÁXIMO 16', 'El cupo se asigna por orden de matrícula con la inicial pagada. Próximo inicio: martes 3 de noviembre de 2026.'),
+        ('INICIO 3 DE NOVIEMBRE','Grupos de máximo 16; el cupo se asigna por orden de matrícula con la inicial pagada. El grupo no para en diciembre: sigue hasta terminar el nivel, solo descansa los festivos.'),
         ('10 PRUEBAS DE NIVEL', 'Diagnóstico sin costo para hasta 10 afiliados, en su sede o en la nuestra, la semana siguiente a la firma.')]):
     x = Inches(0.55) + i * Inches(4.12)
     rect(sl, x, Inches(3.25), Inches(3.95), Inches(2.3), NAR2)
