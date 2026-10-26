@@ -379,9 +379,11 @@ PIEZAS = {
     'CALLE_B': dict(
         calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
         h1='Hoy nadie sabe cuál es el camino. <em>Los mejores son para los que hablan inglés.</em>',
-        st=[('Hablas inglés desde el primer día.'), ('Un coach que no te deja rendirte.'), ('Si cumples y no avanzas, te devolvemos la plata.')],
-        lead='Entrenamiento, no promesas. Garantía por escrito.', big='', big2='',
-        band='Grupos, programa individual y becas para empresas. <b>Escríbenos y agenda tu asesoría.</b>',
+        st=[('Hablas inglés desde el primer día, con un profesor que te corrige ahí mismo.'),
+            ('Un coach que no te deja rendirte, y una idea de negocio propia contada en inglés.'),
+            ('Becas, convenios, programas en el exterior. Carácter y liderazgo: <b>te preparamos para la vida, no para un examen.</b>')],
+        lead='Y lo firmamos: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.', big='', big2='',
+        band='Grupos y programa individual, en Bucaramanga. <b>Escríbenos y agenda tu asesoría.</b>',
         band_px=300),
 }
 
