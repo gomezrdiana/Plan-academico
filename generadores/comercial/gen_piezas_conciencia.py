@@ -337,7 +337,7 @@ PIEZAS = {
         tel='Cómo escribirnos: <b>al respaldo</b>', band_px=250),
     'PADRES_RESPALDO': dict(   # un respaldo por codigo de asesora, con su QR; solo imprenta
         compact=True, imprenta=True, theme='light', label='ASÍ ES HEIIU', sub='LEA ESTO ANTES DE DECIDIR',
-        h1='Vender inglés es fácil. <em>Lo difícil es que su hijo aprenda.</em>',
+        h1='Vender inglés es fácil. <em>Lo difícil es que su hijo no se rinda.</em>',
         intro=('A muchas academias les sale el negocio cuando usted paga y su hijo deja de ir. Nadie lo llama, nadie lo extraña, y a los tres meses la matrícula se volvió una pelea en la casa. '
                '<b>En Heiiu queremos la parte difícil: que venga, que se suelte a hablar y que no se rinda.</b> Por eso se lo decimos antes de que pague:'),
         quote=('Nuestro objetivo es que su hijo salga hablando inglés. Si no se logra, algo está mal: o él dejó de entrenar, o nosotros no estamos cumpliendo. '
