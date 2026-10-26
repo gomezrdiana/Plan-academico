@@ -372,7 +372,7 @@ PIEZAS = {
         st=[('Hablas inglés desde el primer día, con un profesor que te corrige ahí mismo.'),
             ('Un coach que no te deja rendirte. Aquí nadie entrena solo.'),
             ('Te empujamos a pensar una idea de negocio y a contarla en inglés.'),
-            ('Y lo que no cabe en un volante: becas por tu empresa o tu entidad, puertas afuera seguras. <b>Escribe y pregunta.</b>')],
+            ('Y lo que no cabe en un volante: becas, convenios con entidades, programas en el exterior verificados, enfoque de carácter y liderazgo. <b>Escribe y pregunta.</b>')],
         lead='Y lo firmamos: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.', big='', big2='',
         band='Grupos y programa individual, en Bucaramanga. <b>Escríbenos y agenda tu asesoría.</b>',
         band_px=300),
