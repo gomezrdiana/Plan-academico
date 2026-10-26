@@ -47,10 +47,10 @@ p = d.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_form
 r = p.add_run('El Gerente de Alianzas presenta la semana cerrada el viernes')  # subtitulo editado a mano por gerencia 26/10/2026; no regenerar encima del Word; r.font.size = Pt(8.5); r.font.color.rgb = GRIS
 
 sec('1. Los cinco indicadores (del tablero de alianzas, semana cerrada el viernes)')
-tabla(['Indicador', 'Meta semanal', 'Meta mes 1', 'Lun\n26/10', 'Mar\n3/11', 'Lun\n9/11', 'Lun\n16/11', 'Lun\n23/11', 'Lun\n30/11'], [
+tabla(['Indicador', 'Meta semanal', 'Meta del mes (1 / 2 / 3)', 'Lun\n26/10', 'Mar\n3/11', 'Lun\n9/11', 'Lun\n16/11', 'Lun\n23/11', 'Lun\n30/11'], [
  ('1. Empresas contactadas con quien decide', '10', '40', '', '', '', '', '', ''),
  ('2. Reuniones con decisor hechas', '3', '12', '', '', '', '', '', ''),
- ('3. Alianzas firmadas / activadas', '', '2 firmas', '', '', '', '', '', ''),
+ ('3. Alianzas firmadas / activadas', '', '2 / 4 / 6 firmas acum. · 0 / 2 / 3 activaciones', '', '', '', '', '', ''),
  ('4. Inscritos con inicial pagada y caja ($) por canal', '', '', '', '', '', '', '', ''),
  ('5. Base de la academia: llamados / agendados / asistidos / separados', '', '', '', '', '', '', '', ''),
 ], [5.4, 1.7, 1.6, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5], size=8.5)
