@@ -44,10 +44,10 @@ def tabla(hdr, filas, anchos, size=9):
 p = d.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(0)
 r = p.add_run('TABLERO DE LOS LUNES — ALIANZAS EMPRESARIALES'); r.bold = True; r.font.size = Pt(13); r.font.color.rgb = NAR
 p = d.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.space_after = Pt(5)
-r = p.add_run('Para el analista de indicadores · Lunes en la tarde, hora fija, 30 minutos, presencial en la sede · El Gerente de Alianzas presenta la semana cerrada el viernes, el analista lee y anota · Gerencia decide'); r.font.size = Pt(8.5); r.font.color.rgb = GRIS
+r = p.add_run('El Gerente de Alianzas presenta la semana cerrada el viernes')  # subtitulo editado a mano por gerencia 26/10/2026; no regenerar encima del Word; r.font.size = Pt(8.5); r.font.color.rgb = GRIS
 
 sec('1. Los cinco indicadores (del tablero de alianzas, semana cerrada el viernes)')
-tabla(['Indicador', 'Meta semanal', 'Meta mes 1', 'Lun\n27/10', 'Mar\n3/11', 'Lun\n9/11', 'Lun\n16/11', 'Lun\n23/11', 'Lun\n30/11'], [
+tabla(['Indicador', 'Meta semanal', 'Meta mes 1', 'Lun\n26/10', 'Mar\n3/11', 'Lun\n9/11', 'Lun\n16/11', 'Lun\n23/11', 'Lun\n30/11'], [
  ('1. Empresas contactadas con quien decide', '10', '40', '', '', '', '', '', ''),
  ('2. Reuniones con decisor hechas', '3', '12', '', '', '', '', '', ''),
  ('3. Alianzas firmadas / activadas', '', '2 firmas', '', '', '', '', '', ''),
