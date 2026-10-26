@@ -370,7 +370,7 @@ PIEZAS = {
         calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
         h1='El que habla inglés abarca más: <em>más vacantes, más clientes, más países.</em>',
         st=[('Hablas inglés desde el primer día, con un profesor que te corrige ahí mismo.'),
-            ('Si faltas, te llamamos. Aquí nadie se rinde solo.'),
+            ('Un coach que no te deja rendirte. Aquí nadie entrena solo.'),
             ('Te empujamos a pensar una idea de negocio y a contarla en inglés.')],
         lead='Y lo firmamos: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.', big='', big2='',
         band='Grupos, programa individual y becas para empresas. <b>Escríbenos y agenda tu asesoría.</b>',
@@ -378,7 +378,7 @@ PIEZAS = {
     'CALLE_B': dict(
         calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
         h1='Hoy nadie sabe cuál es el camino. <em>Los mejores son para los que hablan inglés.</em>',
-        st=[('Hablas inglés desde el primer día.'), ('Si faltas, te llamamos.'), ('Si cumples y no avanzas, te devolvemos la plata.')],
+        st=[('Hablas inglés desde el primer día.'), ('Un coach que no te deja rendirte.'), ('Si cumples y no avanzas, te devolvemos la plata.')],
         lead='Entrenamiento, no promesas. Garantía por escrito.', big='', big2='',
         band='Grupos, programa individual y becas para empresas. <b>Escríbenos y agenda tu asesoría.</b>',
         band_px=300),
