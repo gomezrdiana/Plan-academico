@@ -129,7 +129,7 @@ PIEZAS = {
         band_px=340),
     'GENERAL_ASESORAS_FRENTE': dict(   # hoja que la asesora de la entidad aliada entrega o reenvia; cara 1: conciencia con cifras verificadas (fuentes al pie)
         compact=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
-        h1='Hoy ya no sabemos cuál es el camino. <em>Pero los mejores caminos son para los que hablan inglés.</em>',
+        h1='¿No sabes cuál es tu camino? <em>El inglés abre los mejores.</em>',
         st=[('<b>Ya ni la universidad asegura nada.</b> Hay carreras que cambian antes de terminarlas y títulos que las empresas ya no piden. <b>El que habla inglés abarca más</b>: más vacantes, más clientes, más países, y una idea de negocio propia que aquí te empujamos a pensar.'),
             ('<b>De cada 8 jóvenes que terminan el colegio en Colombia, solo 1 sale con un inglés que le sirva</b> para estudiar o trabajar. Los otros 7 lo tienen pendiente de adultos.¹'),
             ('<b>Quien certifica su inglés gana cerca de un 26% más</b> que quien hace el mismo trabajo sin él.²'),
@@ -161,7 +161,7 @@ PIEZAS = {
     # ---------------- INDUSTRIAS (frente oscuro + respaldo claro, 10x15 a doble cara; las reparte el gerente de alianzas) ----------------
     'HOTELERIA_FRENTE': dict(
         compact=True, label='INGLÉS PARA HOTELERÍA Y TURISMO', sub='HOTELES · RESTAURANTES · AGENCIAS · GUÍAS',
-        h1='El turista que llega habla inglés. <em>¿Y quien lo recibe?</em>',
+        h1='El turista habla inglés. <em>¿Lo recibes tú o llamas a otro?</em>',
         st=[('<b>En 2025 Colombia recibió más extranjeros que nunca:</b> 3,5 millones entre enero y septiembre, 4,5% más que el año anterior.¹'),
             ('<b>El visitante número uno viene de Estados Unidos:</b> 1 de cada 5 extranjeros.¹ Pide, reclama y agradece en inglés.'),
             ('<b>Quien certifica su inglés gana cerca de un 26% más</b> que quien hace el mismo trabajo sin él.²'),
@@ -216,7 +216,7 @@ PIEZAS = {
 
     'RECEPCION_FRENTE': dict(
         compact=True, label='INGLÉS PARA RECEPCIÓN', sub='CLÍNICAS · CONSULTORIOS · HOTELES · EMPRESAS',
-        h1='La primera voz que oye el cliente <em>eres tú.</em>',
+        h1='La primera voz que oye el cliente eres tú. <em>¿También en inglés?</em>',
         st=[('<b>Cuando un extranjero llama o llega, no pregunta por el gerente: te pregunta a ti.</b> Y lo que pase en ese minuto decide si se queda.'),
             ('<b>En 2025 Colombia recibió más extranjeros que nunca, y 1 de cada 5 viene de Estados Unidos.</b>¹ Llegan a la clínica, al hotel y a la oficina con el mismo idioma.'),
             ('<b>Quien certifica su inglés gana cerca de un 26% más</b> que quien hace el mismo trabajo sin él.² Las vacantes que dicen "recepcionista bilingüe" son para quien pueda demostrarlo.'),
@@ -281,7 +281,7 @@ PIEZAS = {
     # ---------------- VERSIONES CORTAS (una sola cara, digitales, para WhatsApp) ----------------
     'HOTELERIA_CORTA': dict(
         compact=True, label='INGLÉS PARA HOTELERÍA Y TURISMO', sub='HOTELES · RESTAURANTES · AGENCIAS · GUÍAS',
-        h1='El turista que llega habla inglés. <em>¿Y quien lo recibe?</em>',
+        h1='El turista habla inglés. <em>¿Lo recibes tú o llamas a otro?</em>',
         st=[('<b>En 2025 Colombia recibió más extranjeros que nunca,</b> y 1 de cada 5 viene de Estados Unidos.¹ Pide, reclama y agradece en inglés.'),
             ('<b>Quien certifica su inglés gana cerca de un 26% más</b> que quien hace el mismo trabajo sin él.²'),
             ('<b>Las escenas de tu puesto, en inglés:</b> el check-in, la reserva por teléfono, la mesa que pide la cuenta, la queja por el aire. Se repite hasta que sale sin pensar.'),
@@ -302,7 +302,7 @@ PIEZAS = {
         band_px=290),
     'RECEPCION_CORTA': dict(
         compact=True, label='INGLÉS PARA RECEPCIÓN', sub='CLÍNICAS · CONSULTORIOS · HOTELES · EMPRESAS',
-        h1='La primera voz que oye el cliente <em>eres tú.</em>',
+        h1='La primera voz que oye el cliente eres tú. <em>¿También en inglés?</em>',
         st=[('<b>Cuando un extranjero llama o llega, no pregunta por el gerente: te pregunta a ti.</b> Y en 2025 llegaron más que nunca; 1 de cada 5, de Estados Unidos.¹'),
             ('<b>Quien certifica su inglés gana cerca de un 26% más.</b>² Las vacantes que dicen "recepcionista bilingüe" son para quien pueda demostrarlo.'),
             ('<b>Las frases de tu puesto, en inglés:</b> tomar los datos, dar una cita, explicar un procedimiento, pedir que espere sin que se moleste. Se repite hasta que sale sin pensar.'),
@@ -312,7 +312,7 @@ PIEZAS = {
         band_px=290),
     'ASESORAS_CORTA': dict(   # digital, la reenvia la asesora de la entidad aliada junto con SU enlace; por eso no lleva numero
         compact=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
-        h1='Hoy ya no sabemos cuál es el camino. <em>Pero los mejores caminos son para los que hablan inglés.</em>',
+        h1='¿No sabes cuál es tu camino? <em>El inglés abre los mejores.</em>',
         st=[('<b>De cada 8 jóvenes que terminan el colegio en Colombia, solo 1 sale con un inglés que le sirva.</b>¹ Los otros 7 lo tienen pendiente de adultos.'),
             ('<b>Quien certifica su inglés gana cerca de un 26% más.</b>² ¿Por qué? Porque abarca más: más vacantes a las que aplicar, más clientes a los que vender, más países a los que ir.'),
             ('<b>1 de cada 5 jóvenes en Colombia ni estudia ni trabaja.</b>³ No es falta de capacidad: con inglés y disciplina ese mismo joven puede trabajar remoto, vender afuera, estudiar becado o montar algo propio.'),
@@ -378,7 +378,7 @@ PIEZAS = {
         band_px=300),
     'CALLE_B': dict(
         calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
-        h1='Hoy nadie sabe cuál es el camino. <em>Los mejores son para los que hablan inglés.</em>',
+        h1='¿Nadie sabe cuál es el camino? <em>Los mejores piden inglés.</em>',
         st=[('Hablas inglés desde el primer día, con un profesor que te corrige ahí mismo.'),
             ('Un coach que no te deja rendirte, y una idea de negocio propia contada en inglés.'),
             ('Becas, convenios, programas en el exterior. Carácter y liderazgo: <b>te preparamos para la vida, no para un examen.</b>')],
