@@ -265,6 +265,18 @@ PIEZAS = {
         fn='¹ W3Techs, octubre de 2026, sitios web por idioma principal. ² DANE, Gran Encuesta Integrada de Hogares, jóvenes de 15 a 28 años, septiembre a noviembre de 2025. ³ Estudio de Seguros Sura sobre salud mental laboral, 2025. ⁴ Encuesta Provokers y Apprecio a trabajadores de Colombia, México, Chile y Perú.',
         band='Becas con el nombre de su empresa para su gente y sus hijos, <b>sin costo para la empresa</b>. Agende una reunión de 20 minutos.',
         band_px=290),
+    'EMPRESAS_CORTA': dict(   # version corta de una sola cara (decision de gerencia 25/10/2026): tesis del gerente de alianzas + competencias medibles + hijos/region + garantia + beca sin costo; de usted
+        compact=True, label='PROGRAMA PARA EMPRESAS', sub='TALENTO HUMANO · GERENCIA',
+        h1='Las otras academias le prometen inglés. <em>Nosotros le devolvemos un mejor empleado.</em>',
+        st=[('<b>Presenta y sustenta.</b> Simulaciones de trabajo real, en inglés: un informe, una reunión, un cliente, una entrevista. Se graba y se corrige hasta que sale.'),
+            ('<b>Cumple.</b> Tarea diaria con video enviado el mismo día. El porcentaje de entrega va en el reporte: usted ve quién cumple y quién no.'),
+            ('<b>Llega a tiempo y no se cae.</b> Cada clase registra la hora de llegada; tres llegadas tarde cuentan como una falta. Asistencia mínima del 80%.'),
+            ('<b>Va por una meta con fecha.</b> Prueba de entrada y de salida, y evaluador externo al cierre del nivel. Lo que avanza queda por escrito.')],
+        lead='Un trabajador agradece lo que la empresa hace por él, y lo que hace por su hijo no lo olvida. Con la beca para los hijos de sus empleados, su empresa le aporta a la región jóvenes estudiando.',
+        big='Todo con garantía por escrito: si cumple su parte y no avanza, le devolvemos el 100% del nivel.',
+        big2='',
+        band='Becas con el nombre de su empresa para su gente y sus hijos, <b>sin costo para la empresa</b>. La empresa postula y recibe el reporte de cada uno. Agende una reunión de 20 minutos.',
+        band_px=290),
     '4_PADRES': dict(
         label='PROGRAMAS PARA JÓVENES', sub='PADRES DE FAMILIA',
         h1='El inglés que su hijo <em>va a necesitar.</em>',
