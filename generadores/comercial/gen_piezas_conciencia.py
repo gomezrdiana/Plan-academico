@@ -245,7 +245,7 @@ PIEZAS = {
             ('<b>Un empleado preocupado por su casa no rinde.</b> El 34% de los trabajadores colombianos se ha ausentado por ansiedad o depresión.³ La tranquilidad de la familia también es productividad.'),
             ('<b>Y lo que se mide para aprender inglés es lo mismo que usted mide en un buen empleado:</b> puntualidad, cumplimiento, constancia y una meta con fecha.')],
         lead='Por eso en Heiiu el inglés viene con evidencia.',
-        big='Becas con el nombre de su empresa para su gente, sin costo para la empresa. Y el reporte de cada uno: asistencia, puntualidad, tareas y avance.',
+        big='Becas con el nombre de su empresa para su gente y sus hijos, sin costo para la empresa. Y el reporte de cada uno: asistencia, puntualidad, tareas y avance.',
         big2='',
         fn='¹ W3Techs, octubre de 2026, sitios web por idioma principal. ² DANE, Gran Encuesta Integrada de Hogares, jóvenes de 15 a 28 años, septiembre a noviembre de 2025. ³ Estudio de Seguros Sura sobre salud mental laboral, 2025.',
         band='Dale la vuelta a la hoja: cómo funciona para su empresa y <b>las becas con su nombre, sin costo para la empresa</b>.',
@@ -253,18 +253,18 @@ PIEZAS = {
     'EMPRESAS_RESPALDO': dict(
         compact=True, theme='light', label='ASÍ FUNCIONA PARA SU EMPRESA', sub='BECAS CON SU NOMBRE · SIN COSTO PARA LA EMPRESA',
         h1='Inglés con hábitos de trabajo. <em>Y con reporte.</em>',
-        intro=('Casi todas las academias prometen lo mismo: inglés rápido, salones bonitos, una metodología. Nosotros entrenamos, y se lo mostramos: cada colaborador entra con un video, graba uno corto cada día y sale con otro. '
+        intro=('Casi todas las academias prometen lo mismo: inglés rápido, salones bonitos, una metodología. Nosotros entrenamos, y se lo mostramos: cada colaborador, o el hijo que él postule, entra con un video, graba uno corto cada día y sale con otro. '
                'Entre uno y otro hay asistencia registrada, puntualidad anotada y tareas entregadas. <b>Eso es lo que su empresa recibe en el reporte.</b> El trato, en una frase:'),
-        quote=('El colaborador firma su contrato y asume sus condiciones; la empresa no asume ninguna obligación económica. La empresa postula, recibe el reporte periódico y entrega los certificados de beca con su nombre. '
-               'Y a cada colaborador le firmamos lo mismo que a todos: <b>si cumple su parte y no avanza, le devolvemos el 100% del nivel.</b>'),
+        quote=('El colaborador firma su contrato y asume sus condiciones, para él o para su hijo; la empresa no asume ninguna obligación económica. La empresa postula, recibe el reporte periódico y entrega los certificados de beca con su nombre. '
+               'Y a cada estudiante le firmamos lo mismo que a todos: <b>si cumple su parte y no avanza, le devolvemos el 100% del nivel.</b>'),
         cite='GERENCIA · HEIIU ENGLISH ACADEMY',
         after='¿Y si un colaborador no cumple? Usted también se entera: el reporte lo dice. Y cuando su empresa busque gente, <b>le referimos estudiantes con ese mismo historial de cumplimiento</b>: videos entregados, puntualidad y tareas, con su autorización.',
         st=[], lead='', big='', big2='',
         why=[('PRESENTAR Y SUSTENTAR', 'Simulaciones de trabajo real, en inglés: presentar un informe, llevar una reunión, atender a un cliente, pasar una entrevista. Se graba y se corrige.', False),
-             ('CUMPLIMIENTO MEDIDO', 'Tarea diaria con video enviado el mismo día. El porcentaje de entrega va en el reporte: <b>usted ve quién cumple y quién no</b>.', False),
+             ('CUMPLIMIENTO MEDIDO', 'Tarea diaria con video enviado el mismo día. El porcentaje de entrega va en el reporte: <b>usted ve quién cumple y quién no</b>. Si el estudiante es un hijo, el reporte también llega a la casa.', False),
              ('PUNTUALIDAD Y CONSTANCIA', 'Cada clase registra la hora de llegada; tres llegadas tarde cuentan como una falta. Asistencia mínima del 80% para la garantía. <b>Los mismos hábitos que usted pide en su empresa.</b>', False),
              ('ORIENTACIÓN AL LOGRO', 'Meta por nivel con prueba de entrada y de salida, y evaluador externo al final. Lo que avanza cada colaborador <b>queda por escrito</b>, no en una sensación.', False)],
-        band='Becas con el nombre de su empresa para su equipo, <b>sin costo para la empresa</b>. Agende una reunión de 20 minutos.',
+        band='Becas con el nombre de su empresa para su gente y sus hijos, <b>sin costo para la empresa</b>. Agende una reunión de 20 minutos.',
         band_px=290),
     '4_PADRES': dict(
         label='PROGRAMAS PARA JÓVENES', sub='PADRES DE FAMILIA',
