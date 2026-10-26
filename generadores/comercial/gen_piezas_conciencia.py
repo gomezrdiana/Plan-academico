@@ -101,6 +101,7 @@ blockquote b { font-weight: 700 } blockquote cite { display: block; font-style: 
 .band .qrbox { position: absolute; right: 60px; top: 22px; width: 240px; background: #FFF8E7; border-radius: 14px; padding: 9px 9px 6px 9px; text-align: center }
 .band .qrbox img { width: 206px; display: block; margin: 0 auto }
 .band .qrbox span { font-family: Bahnschrift, sans-serif; font-weight: 700; font-size: 26px; color: #E54C09; display: block; margin-top: 2px; letter-spacing: .04em }
+.band.tels .cta .tel { font-size: 28px; font-weight: 600; letter-spacing: 0 }
 .band.qr .cta { right: 330px } .band.qr .cta .tel { font-size: 26px; font-weight: 400 }
 .band .codigo { justify-self: end; width: 215px; border: 3px dashed rgba(255,248,231,.85); border-radius: 12px; padding: 10px 12px 8px 12px; text-align: center; margin-top: -8px }
 .band .codigo .k { font-family: Bahnschrift, sans-serif; font-size: 15px; letter-spacing: .12em; color: #FFF8E7; display: block; margin-bottom: 4px }
@@ -277,6 +278,51 @@ PIEZAS = {
         big2='',
         band='Becas con el nombre de su empresa para su gente y sus hijos, <b>sin costo para la empresa</b>. La empresa postula y recibe el reporte de cada uno. Agende una reunión de 20 minutos.',
         band_px=290),
+    # ---------------- VERSIONES CORTAS (una sola cara, digitales, para WhatsApp) ----------------
+    'HOTELERIA_CORTA': dict(
+        compact=True, label='INGLÉS PARA HOTELERÍA Y TURISMO', sub='HOTELES · RESTAURANTES · AGENCIAS · GUÍAS',
+        h1='El turista que llega habla inglés. <em>¿Y quien lo recibe?</em>',
+        st=[('<b>En 2025 Colombia recibió más extranjeros que nunca,</b> y 1 de cada 5 viene de Estados Unidos.¹ Pide, reclama y agradece en inglés.'),
+            ('<b>Quien certifica su inglés gana cerca de un 26% más</b> que quien hace el mismo trabajo sin él.²'),
+            ('<b>Las escenas de tu puesto, en inglés:</b> el check-in, la reserva por teléfono, la mesa que pide la cuenta, la queja por el aire. Se repite hasta que sale sin pensar.'),
+            ('<b>Se nota, y se puede mostrar:</b> te grabamos el primer día y el último del nivel. Tu jefe no tendrá que creerte: lo oye.')],
+        lead='Aprender inglés no es fácil ni siempre divertido, digan lo que digan las redes. Pero aquí nadie desaparece: si faltas, te llamamos ese mismo día.', big='Garantía por escrito: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.', big2='', fn='¹ Ministerio de Comercio, Industria y Turismo y Migración Colombia, enero a septiembre de 2025. ² DNP, Archivos de Economía, <i>Bilingüismo laboral en Colombia</i>.',
+        band='Grupos para equipos o programa individual. Becas con el nombre de tu hotel, restaurante o agencia, <b>sin costo para la empresa</b>. Escríbenos y agenda tu asesoría.',
+        band_px=290),
+    'MEDICOS_DIRECTIVOS_CORTA': dict(
+        compact=True, label='PROGRAMA INDIVIDUAL', sub='MÉDICOS · ESPECIALIZACIONES · ALTA DIRECCIÓN',
+        h1='Los títulos ya están en la pared. <em>Lo que falta se dice en inglés.</em>',
+        st=[('<b>El 92% de los artículos de ciencias de la salud está en inglés.</b>¹ El congreso, el protocolo nuevo y la convocatoria llegan primero en ese idioma.'),
+            ('<b>Quien certifica su inglés gana cerca de un 26% más</b> que quien hace el mismo trabajo sin él.²'),
+            ('<b>Entrenamos conversaciones avanzadas en su área laboral:</b> la junta, el congreso, el paciente o el cliente de afuera, la entrevista de la especialización. Plan a su medida; usted fija los días y las horas.'),
+            ('<b>Audio corto cada día</b> que su profesor devuelve con una mejora. Prueba de nivel al inicio y al final, y reporte mensual de su avance.')],
+        lead='Sin inglés no se pierde un título. Se pierden conversaciones: el networking, los resultados que vale la pena contar, entender lo que otros quieren transmitir.',
+        big='100 horas, uno a uno. No prometemos la admisión ni el ascenso: entrenamos la entrevista y la junta.',
+        big2='', fn='¹ Elsevier, con datos de PubMed. ² DNP, Archivos de Economía, <i>Bilingüismo laboral en Colombia</i>.',
+        band='Programa individual para médicos, profesionales y directivos. <b>Cupos limitados por disponibilidad de profesor.</b> Agende una asesoría de 15 minutos.',
+        band_px=290),
+    'RECEPCION_CORTA': dict(
+        compact=True, label='INGLÉS PARA RECEPCIÓN', sub='CLÍNICAS · CONSULTORIOS · HOTELES · EMPRESAS',
+        h1='La primera voz que oye el cliente <em>eres tú.</em>',
+        st=[('<b>Cuando un extranjero llama o llega, no pregunta por el gerente: te pregunta a ti.</b> Y en 2025 llegaron más que nunca; 1 de cada 5, de Estados Unidos.¹'),
+            ('<b>Quien certifica su inglés gana cerca de un 26% más.</b>² Las vacantes que dicen "recepcionista bilingüe" son para quien pueda demostrarlo.'),
+            ('<b>Las frases de tu puesto, en inglés:</b> tomar los datos, dar una cita, explicar un procedimiento, pedir que espere sin que se moleste. Se repite hasta que sale sin pensar.'),
+            ('<b>Se nota, y se puede mostrar:</b> te grabamos el primer día y el último del nivel. Tu jefe no tendrá que creerte: lo oye.')],
+        lead='Aprender inglés no es fácil ni siempre divertido, digan lo que digan las redes. Pero aquí nadie desaparece: si faltas, te llamamos ese mismo día.', big='Garantía por escrito: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.', big2='', fn='¹ Ministerio de Comercio, Industria y Turismo y Migración Colombia, enero a septiembre de 2025. ² DNP, Archivos de Economía, <i>Bilingüismo laboral en Colombia</i>.',
+        band='Grupos para equipos o programa individual. Becas con el nombre de tu clínica, consultorio o empresa, <b>sin costo para la empresa</b>. Escríbenos y agenda tu asesoría.',
+        band_px=290),
+    'ASESORAS_CORTA': dict(   # digital, la reenvia la asesora de la entidad aliada junto con SU enlace; por eso no lleva numero
+        compact=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
+        h1='Hoy ya no sabemos cuál es el camino. <em>Pero los mejores caminos son para los que hablan inglés.</em>',
+        st=[('<b>De cada 8 jóvenes que terminan el colegio en Colombia, solo 1 sale con un inglés que le sirva.</b>¹ Los otros 7 lo tienen pendiente de adultos.'),
+            ('<b>Quien certifica su inglés gana cerca de un 26% más</b> que quien hace el mismo trabajo sin él.²'),
+            ('<b>De cada 100 personas que bajan una app de inglés, 88 la dejan antes del mes.</b>³ Nadie aprende un idioma solo: se aprende en equipo, con alguien que cree en ti.'),
+            ('<b>Vender inglés es fácil; lo difícil es que aprendas.</b> Por eso aquí entrenas como para una maratón: hablas desde el primer día, grabas un video corto cada día, y si faltas te llamamos.')],
+        lead='Alguien ya apostó por ti: por tu entidad aliada tienes una beca con su nombre.',
+        big='Garantía por escrito: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.', big2='',
+        fn='¹ Pruebas Saber 11 de 2025, análisis de la Universidad Icesi. ² DNP, Archivos de Economía, <i>Bilingüismo laboral en Colombia</i>. ³ Retención a 30 días de la app de idiomas más descargada, 2026.',
+        band='Escríbenos desde el enlace que te mandó tu asesora: <b>tu código ya va en el mensaje. Sin código no hay beca.</b>',
+        tel='Escríbenos por el enlace de tu asesora', tel_small=True, band_px=290),
     '4_PADRES': dict(
         label='PROGRAMAS PARA JÓVENES', sub='PADRES DE FAMILIA',
         h1='El inglés que su hijo <em>va a necesitar.</em>',
@@ -342,7 +388,7 @@ def html(c):
             '<div class="band%s"><p>%s</p>%s'
             '<div class="cta"><div class="tel">%s</div><div class="ig">%s<b>Bucaramanga</b></div></div></div>'
             '</div></body></html>') % (CSS % dict(W=W, H=c.get('H', H), BAND=c['band_px']), COMPACT if c.get('compact') else '', LIGHT if c.get('theme') == 'light' else '', c['label'], c['sub'], c['h1'], quote, st, c['lead'], c['big'], big2, why, fn,
-                                       (' qr' if c.get('qr') else ''), c['band'], derecha, tel, IG)
+                                       (' qr' if c.get('qr') else '') + (' tels' if c.get('tel_small') else ''), c['band'], derecha, tel, IG)
 
 
 def render(nombre, c):
