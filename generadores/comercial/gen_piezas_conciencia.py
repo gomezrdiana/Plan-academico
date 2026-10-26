@@ -368,15 +368,15 @@ PIEZAS = {
     # ---------------- CALLE (volanteo: una idea, tres lineas, el numero; sin datos ni precios) ----------------
     'CALLE_A': dict(
         calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
-        h1='Si cumples y no aprendes, <em>te devolvemos la plata.</em>',
-        st=[('Hablas desde el primer día.'), ('Si faltas, te llamamos.'), ('Te grabamos al entrar y al salir: el avance se oye.')],
+        h1='Si cumples y no aprendes inglés, <em>te devolvemos la plata.</em>',
+        st=[('Hablas inglés desde el primer día.'), ('Si faltas, te llamamos.'), ('Te grabamos al entrar y al salir: el avance se oye.')],
         lead='Garantía por escrito, en tu contrato. Sin letra pequeña.', big='', big2='',
         band='Grupos, programa individual y becas para empresas. <b>Escríbenos y agenda tu asesoría.</b>',
         band_px=300),
     'CALLE_B': dict(
         calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
         h1='Hoy nadie sabe cuál es el camino. <em>Los mejores son para los que hablan inglés.</em>',
-        st=[('Hablas desde el primer día.'), ('Si faltas, te llamamos.'), ('Si cumples y no avanzas, te devolvemos la plata.')],
+        st=[('Hablas inglés desde el primer día.'), ('Si faltas, te llamamos.'), ('Si cumples y no avanzas, te devolvemos la plata.')],
         lead='Entrenamiento, no promesas. Garantía por escrito.', big='', big2='',
         band='Grupos, programa individual y becas para empresas. <b>Escríbenos y agenda tu asesoría.</b>',
         band_px=300),
