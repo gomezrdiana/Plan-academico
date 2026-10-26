@@ -240,7 +240,7 @@ PIEZAS = {
     'EMPRESAS_FRENTE': dict(   # pedido del gerente de alianzas 25/10/2026: lo que la empresa recibe ademas del ingles (habitos medidos y reporte), para presentar en empresas; de usted
         compact=True, label='PROGRAMA PARA EMPRESAS', sub='TALENTO HUMANO · GERENCIA',
         h1='Un empleado que aprende inglés con nosotros <em>le entrega algo más que inglés.</em>',
-        st=[('<b>Quien certifica su inglés gana cerca de un 26% más</b> y tiene más probabilidad de estar en un empleo formal.² Un equipo bilingüe se nota en el cliente, en el proveedor y en la casa matriz.'),
+        st=[('<b>Un empleado bilingüe cuesta cerca de un 26% más en el mercado.</b>² Formarlo adentro, con una beca que lleva el nombre de su empresa, sale más barato que contratarlo afuera. Y el que recibe la beca sabe quién apostó por él.'),
             ('<b>De cada 8 jóvenes que terminan el colegio, solo 1 sale con un inglés que le sirva.</b>¹ El resto llega a su empresa con el inglés pendiente.'),
             ('<b>El inglés no se aprende en un curso que se paga y se abandona.</b> De cada 100 personas que bajan una app, 88 la dejan antes del mes.³ Se aprende con asistencia, tareas y alguien que mide.'),
             ('<b>Y lo que se mide para aprender inglés es lo mismo que usted mide en un buen empleado:</b> puntualidad, cumplimiento, constancia y una meta con fecha.')],
