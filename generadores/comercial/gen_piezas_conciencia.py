@@ -197,10 +197,10 @@ PIEZAS = {
         band='Dale la vuelta a la hoja: así es el programa individual y <b>cómo se arma sobre su agenda</b>.',
         band_px=250),
     'MEDICOS_DIRECTIVOS_RESPALDO': dict(
-        compact=True, theme='light', label='ASÍ ES EL PROGRAMA INDIVIDUAL', sub='100 HORAS · UNO A UNO',
+        compact=True, theme='light', label='ASÍ ES EL PROGRAMA INDIVIDUAL', sub='100 HORAS · UNO A UNO · CONVERSACIONES AVANZADAS EN SU ÁREA',
         h1='Su inglés, <em>en su agenda.</em>',
-        intro=('Armamos el plan a su medida, para que la clase se enfoque en los temas de los que usted ya estaría hablando si hablara inglés: la junta, el congreso, el paciente o el cliente de afuera, '
-               'la entrevista de la especialización. <b>Usted fija los días y las horas cada semana.</b> Antes de hablar de precios, le decimos cómo es:'),
+        intro=('<b>Entrenamos conversaciones avanzadas en su área laboral.</b> Armamos el plan a su medida, para que la clase se enfoque en los temas de los que usted ya estaría hablando si hablara inglés: la junta, el congreso, el paciente o el cliente de afuera, '
+               'la entrevista de la especialización. Usted fija los días y las horas cada semana. Antes de hablar de precios, le decimos cómo es:'),
         quote=('Nuestro objetivo es que salga hablando inglés en lo suyo. Esto es un entrenamiento, como prepararse para una maratón: desde el primer día habla, su profesor ve dónde puede mejorar y lo repetimos hasta que sale. '
                'Por eso graba un audio corto cada día y su profesor se lo devuelve con una mejora. A cambio: <b>prueba de nivel al inicio y al final, y reporte mensual de su avance.</b> ¿Se le mide a ese ritmo?'),
         cite='GERENCIA · HEIIU ENGLISH ACADEMY',
