@@ -240,14 +240,14 @@ PIEZAS = {
     'EMPRESAS_FRENTE': dict(   # pedido del gerente de alianzas 25/10/2026: lo que la empresa recibe ademas del ingles (habitos medidos y reporte), para presentar en empresas; de usted
         compact=True, label='PROGRAMA PARA EMPRESAS', sub='TALENTO HUMANO · GERENCIA',
         h1='Un empleado que aprende inglés con nosotros <em>le entrega algo más que inglés.</em>',
-        st=[('<b>Un empleado bilingüe cuesta cerca de un 26% más en el mercado.</b>² Formarlo adentro, con una beca que lleva el nombre de su empresa, sale más barato que contratarlo afuera. Y el que recibe la beca sabe quién apostó por él.'),
-            ('<b>De cada 8 jóvenes que terminan el colegio, solo 1 sale con un inglés que le sirva.</b>¹ El resto llega a su empresa con el inglés pendiente.'),
-            ('<b>El inglés no se aprende en un curso que se paga y se abandona.</b> De cada 100 personas que bajan una app, 88 la dejan antes del mes.³ Se aprende con asistencia, tareas y alguien que mide.'),
+        st=[('<b>Puede que su empresa no necesite inglés. Su gente sí lo quiere:</b> para un hijo, para un viaje, para lo que venga. Una beca con el nombre de su empresa, sin costo para la empresa, es un beneficio que se nota y que casi nadie les está dando.'),
+            ('<b>De cada 8 jóvenes que terminan el colegio, solo 1 sale con un inglés que le sirva.</b>¹ El resto lo tiene pendiente de adulto, y cuando alguien se lo facilita, lo recuerda.'),
+            ('<b>El inglés no se aprende en un curso que se paga y se abandona.</b> De cada 100 personas que bajan una app, 88 la dejan antes del mes.² Se aprende con asistencia, tareas y alguien que mide.'),
             ('<b>Y lo que se mide para aprender inglés es lo mismo que usted mide en un buen empleado:</b> puntualidad, cumplimiento, constancia y una meta con fecha.')],
         lead='Por eso en Heiiu el inglés viene con evidencia.',
         big='Su empresa recibe el reporte: asistencia, puntualidad, tareas entregadas y avance de cada colaborador.',
         big2='',
-        fn='¹ Pruebas Saber 11 de 2025, análisis del Observatorio de Realidades Educativas de la Universidad Icesi. ² DNP, Archivos de Economía, <i>Bilingüismo laboral en Colombia</i>. ³ Retención a 30 días de la app de idiomas más descargada, estadísticas públicas 2026.',
+        fn='¹ Pruebas Saber 11 de 2025, análisis del Observatorio de Realidades Educativas de la Universidad Icesi. ² Retención a 30 días de la app de idiomas más descargada, estadísticas públicas 2026.',
         band='Dale la vuelta a la hoja: cómo funciona para su empresa y <b>las becas con su nombre, sin costo para la empresa</b>.',
         band_px=250),
     'EMPRESAS_RESPALDO': dict(
