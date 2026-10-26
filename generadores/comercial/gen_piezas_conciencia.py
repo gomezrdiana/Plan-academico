@@ -237,33 +237,32 @@ PIEZAS = {
              ('PARA TU EMPRESA', 'Becas con el nombre de la clínica, el consultorio o la empresa para su equipo, <b>sin costo para la empresa</b>. Pregunta por el programa de alianzas.', False)],
         band='Grupos para equipos o programa individual. <b>Escríbenos y agenda tu asesoría.</b>',
         band_px=290),
-    'EMPRESAS_FRENTE': dict(   # pedido del gerente de alianzas 25/10/2026; angulo de gerencia: bienestar del empleado y su familia, que vuelve a la empresa; de usted
+    'EMPRESAS_FRENTE': dict(   # tesis del gerente de alianzas (25/10/2026): le devolvemos un mejor empleado, y se lo demostramos; de usted
         compact=True, label='PROGRAMA PARA EMPRESAS', sub='TALENTO HUMANO · GERENCIA',
-        h1='Puede que su empresa no necesite inglés. <em>Su gente sí.</em>',
-        st=[('<b>La mitad de internet está en inglés: el 49,5% de los sitios web.</b>¹ En español, el 6%. El que lee inglés piensa con el doble de información: para su trabajo, para un negocio, para ayudarle a un hijo con una tarea.'),
-            ('<b>En Colombia hay 2,3 millones de jóvenes que ni estudian ni trabajan: 1 de cada 5.</b>² Un hijo de su empleado en un programa que exige asistencia, tareas y video diario está ocupado en algo que lo saca adelante, y lejos de lo que a su empleado le quita el sueño.'),
-            ('<b>Un empleado preocupado por su casa no rinde.</b> El 34% de los trabajadores colombianos se ha ausentado por ansiedad o depresión.³ La tranquilidad de la familia también es productividad.'),
-            ('<b>Y lo que se mide para aprender inglés es lo mismo que usted mide en un buen empleado:</b> puntualidad, cumplimiento, constancia y una meta con fecha.')],
-        lead='Un trabajador agradece lo que la empresa hace por su desarrollo. Y lo que hace por su hijo no lo olvida: la educación de los hijos está entre lo que más anhela.⁴',
-        big='Becas con el nombre de su empresa para su gente y sus hijos, sin costo para la empresa. Y el reporte de cada uno.',
+        h1='Las otras academias le prometen inglés. <em>Nosotros le devolvemos un mejor empleado.</em>',
+        st=[('<b>Presenta y sustenta.</b> Simulaciones de trabajo real, en inglés: un informe, una reunión, un cliente, una entrevista. Se graba y se corrige hasta que sale.'),
+            ('<b>Cumple.</b> Tarea diaria con video enviado el mismo día. El porcentaje de entrega va en el reporte: usted ve quién cumple y quién no.'),
+            ('<b>Llega a tiempo y no se cae.</b> Cada clase registra la hora de llegada; tres llegadas tarde cuentan como una falta. Asistencia mínima del 80%.'),
+            ('<b>Va por una meta con fecha.</b> Prueba de entrada y de salida, y evaluador externo al cierre del nivel. Lo que avanza queda por escrito, no en una sensación.')],
+        lead='Y con la beca para los hijos de sus empleados, su empresa le aporta a la región lo que más le falta: jóvenes estudiando.',
+        big='Todo con garantía por escrito: si el estudiante cumple su parte y no avanza, le devolvemos el 100% del nivel.',
         big2='',
-        fn='¹ W3Techs, octubre de 2026, sitios web por idioma principal. ² DANE, Gran Encuesta Integrada de Hogares, jóvenes de 15 a 28 años, septiembre a noviembre de 2025. ³ Estudio de Seguros Sura sobre salud mental laboral, 2025. ⁴ Encuesta Provokers y Apprecio a trabajadores de Colombia, México, Chile y Perú.',
-        band='Dale la vuelta a la hoja: cómo funciona para su empresa y <b>las becas con su nombre, sin costo para la empresa</b>.',
+        band='Dale la vuelta a la hoja: por qué le conviene aunque su empresa no necesite inglés, y <b>las becas con su nombre, sin costo para la empresa</b>.',
         band_px=250),
-    'EMPRESAS_RESPALDO': dict(
-        compact=True, theme='light', label='ASÍ FUNCIONA PARA SU EMPRESA', sub='BECAS CON SU NOMBRE · SIN COSTO PARA LA EMPRESA',
-        h1='Inglés con hábitos de trabajo. <em>Y con reporte.</em>',
-        intro=('Casi todas las academias prometen lo mismo: inglés rápido, salones bonitos, una metodología. Nosotros entrenamos, y se lo mostramos: cada colaborador, o el hijo que él postule, entra con un video, graba uno corto cada día y sale con otro. '
-               'Entre uno y otro hay asistencia registrada, puntualidad anotada y tareas entregadas. <b>Eso es lo que su empresa recibe en el reporte.</b> El trato, en una frase:'),
+    'EMPRESAS_RESPALDO': dict(   # por que le conviene aunque no necesite ingles: bienestar del empleado y su familia (datos con fuente), gratitud, el trato
+        compact=True, theme='light', label='AUNQUE SU EMPRESA NO NECESITE INGLÉS', sub='BECAS CON SU NOMBRE · SIN COSTO PARA LA EMPRESA',
+        h1='Puede que su empresa no necesite inglés. <em>Su gente sí.</em>',
+        intro='Un trabajador agradece lo que la empresa hace por su desarrollo. Y lo que hace por su hijo no lo olvida: <b>la educación de los hijos está entre lo que más anhela.</b>⁴ El trato, en una frase:',
         quote=('El colaborador firma su contrato y asume sus condiciones, para él o para su hijo; la empresa no asume ninguna obligación económica. La empresa postula, recibe el reporte periódico y entrega los certificados de beca con su nombre. '
                'Y a cada estudiante le firmamos lo mismo que a todos: <b>si cumple su parte y no avanza, le devolvemos el 100% del nivel.</b>'),
         cite='GERENCIA · HEIIU ENGLISH ACADEMY',
-        after='¿Y si un colaborador no cumple? Usted también se entera: el reporte lo dice. Y cuando su empresa busque gente, <b>le referimos estudiantes con ese mismo historial de cumplimiento</b>: videos entregados, puntualidad y tareas, con su autorización.',
-        st=[], lead='', big='', big2='',
-        why=[('PRESENTAR Y SUSTENTAR', 'Simulaciones de trabajo real, en inglés: presentar un informe, llevar una reunión, atender a un cliente, pasar una entrevista. Se graba y se corrige.', False),
-             ('CUMPLIMIENTO MEDIDO', 'Tarea diaria con video enviado el mismo día. El porcentaje de entrega va en el reporte: <b>usted ve quién cumple y quién no</b>. Si el estudiante es un hijo, el reporte también llega a la casa.', False),
-             ('PUNTUALIDAD Y CONSTANCIA', 'Cada clase registra la hora de llegada; tres llegadas tarde cuentan como una falta. Asistencia mínima del 80% para la garantía. <b>Los mismos hábitos que usted pide en su empresa.</b>', False),
-             ('ORIENTACIÓN AL LOGRO', 'Meta por nivel con prueba de entrada y de salida, y evaluador externo al final. Lo que avanza cada colaborador <b>queda por escrito</b>, no en una sensación.', False)],
+        st=[('<b>La mitad de internet está en inglés: el 49,5% de los sitios web.</b>¹ En español, el 6%. El que lee inglés piensa con el doble de información.'),
+            ('<b>1 de cada 5 jóvenes en Colombia ni estudia ni trabaja: 2,3 millones.</b>² Un hijo de su empleado en un programa que exige asistencia y video diario está ocupado en algo que lo saca adelante.'),
+            ('<b>Un empleado preocupado por su casa no rinde.</b> El 34% de los trabajadores colombianos se ha ausentado por ansiedad o depresión.³')],
+        lead='¿Y si un colaborador no cumple? Usted también se entera: el reporte lo dice. Y cuando busque gente, le referimos estudiantes con ese historial, con su autorización.',
+        big='',
+        big2='',
+        fn='¹ W3Techs, octubre de 2026, sitios web por idioma principal. ² DANE, Gran Encuesta Integrada de Hogares, jóvenes de 15 a 28 años, septiembre a noviembre de 2025. ³ Estudio de Seguros Sura sobre salud mental laboral, 2025. ⁴ Encuesta Provokers y Apprecio a trabajadores de Colombia, México, Chile y Perú.',
         band='Becas con el nombre de su empresa para su gente y sus hijos, <b>sin costo para la empresa</b>. Agende una reunión de 20 minutos.',
         band_px=290),
     '4_PADRES': dict(
@@ -351,7 +350,7 @@ def render(nombre, c):
     os.makedirs(OUTDIR, exist_ok=True); os.makedirs(COPIA, exist_ok=True)
     for p in (out, os.path.join(COPIA, os.path.basename(out))):
         try: shutil.copy(png, p); print('OK', p)
-        except PermissionError: p2 = p.replace('.png', '_v2.png'); shutil.copy(png, p2); print('ABIERTA ->', p2)
+        except OSError: p2 = p.replace('.png', '_v2.png'); shutil.copy(png, p2); print('ABIERTA ->', p2)   # abierta en el visor: PermissionError o errno 22
 
 
 def sangrado(nombre, src, mm=3, ppp=274):
