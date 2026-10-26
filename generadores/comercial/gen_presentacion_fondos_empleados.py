@@ -4,7 +4,7 @@
 7 cierre con pregunta) con lo que respalda la evidencia: una idea por diapositiva, titular como afirmación, POCAS PALABRAS
 (máximo tres líneas cortas por diapositiva; el detalle va en la hoja que se deja al final: gen_hoja_fondos_empleados.py),
 "sin costo" en la portada y un solo pedido con fecha y hora. Guion de lo que se dice en las NOTAS de cada diapositiva.
-Diseño v4: azul medio (no tinta) + crema + naranja de marca como acento; tipografías Lato y Oswald (instaladas aquí;
+Diseño v4: naranja claro + crema + café oscuro, con el naranja de marca como acento; tipografías Lato y Oswald (instaladas aquí;
 el PDF las lleva incrustadas: exportar siempre con topdf_fondos.ps1 y presentar desde el PDF en otro equipo).
 Salida: recursos/comercial/B2B/PRESENTACION_FONDOS_EMPLEADOS_HEIIU.pptx"""
 from pptx import Presentation
@@ -24,18 +24,18 @@ except Exception as e:
     print('miniatura no regenerada:', e)
 
 # paleta v4 (más clara que la v3)
-AZUL = RGBColor(0x2B, 0x5A, 0x8C)      # azul medio: fondos de portada, llamado a la acción, cierre y panel de cifra
-AZUL2 = RGBColor(0x3D, 0x6F, 0xA6)     # tarjetas sobre azul
-AZULT = RGBColor(0x1E, 0x3A, 0x5F)     # titulares sobre crema
-CELESTE = RGBColor(0xE6, 0xEE, 0xF7)   # tarjetas sobre crema
-CREMA = RGBColor(0xF7, 0xF3, 0xEC)
+AZUL = RGBColor(0xF3, 0x9A, 0x55)      # NARANJA CLARO (decisión de gerencia 26/10): fondos de portada, llamado a la acción y cierre
+AZUL2 = RGBColor(0xFF, 0xFF, 0xFF)     # tarjetas sobre naranja claro: blancas
+AZULT = RGBColor(0x3B, 0x2A, 0x20)     # café oscuro: titulares sobre crema y sobre naranja claro
+CELESTE = RGBColor(0xFD, 0xE9, 0xD8)   # tarjetas suaves sobre crema
+CREMA = RGBColor(0xFB, 0xF5, 0xEE)
 BLANCO = RGBColor(0xFF, 0xFF, 0xFF)
 NAR = RGBColor(0xE5, 0x4C, 0x09)       # naranja de marca: acento
 ORO = RGBColor(0xFB, 0xC9, 0x00)       # amarillo de marca: cifras sobre azul
 TEXTO = RGBColor(0x2B, 0x34, 0x45)
 SUAVE = RGBColor(0x7A, 0x82, 0x8F)
-CLARO = RGBColor(0xD6, 0xE2, 0xF0)     # texto secundario sobre azul
-BORDE = RGBColor(0xDD, 0xE4, 0xEE)
+CLARO = RGBColor(0x6B, 0x4A, 0x33)     # café suave: texto secundario sobre naranja claro
+BORDE = RGBColor(0xF0, 0xDC, 0xC8)
 HB = 'Lato Black'; NUM = 'Oswald'; B = 'Lato'
 W, HH = Inches(13.333), Inches(7.5)
 
@@ -75,8 +75,8 @@ def text(sl, x, y, w, h, parts, size=16, color=TEXTO, font=B, bold=False, align=
 def notas(sl, txt): sl.notes_slide.notes_text_frame.text = txt
 
 
-def logo_pill(sl, x, y, h=Inches(0.62), fill=AZUL):
-    w = Inches(1.55)
+def logo_pill(sl, x, y, h=Inches(0.62), fill=NAR):
+    w = int((h - Inches(0.16)) * 1.78 + Inches(0.4))   # ancho del logo (proporción 2454x1380) más márgenes
     rect(sl, x, y, w, h, fill, radius=0.5)
     sl.shapes.add_picture(LOGO_T, x + Inches(0.2), y + Inches(0.08), height=h - Inches(0.16))
 
@@ -84,12 +84,12 @@ def logo_pill(sl, x, y, h=Inches(0.62), fill=AZUL):
 def marco(n, overline, titulo, dark=False, title_w=Inches(11.5)):
     sl = prs.slides.add_slide(BLANK)
     rect(sl, 0, 0, W, HH, AZUL if dark else CREMA)
-    logo_pill(sl, Inches(0.6), Inches(0.42), fill=AZUL2 if dark else AZUL)
+    logo_pill(sl, Inches(0.6), Inches(0.42))
     text(sl, Inches(10.3), Inches(0.42), Inches(2.5), Inches(0.62), f'{n} / 7', size=12, color=CLARO if dark else SUAVE,
          align=PP_ALIGN.RIGHT, anchor=MSO_ANCHOR.MIDDLE, font=NUM)
-    text(sl, Inches(0.6), Inches(1.4), Inches(8), Inches(0.35), overline.upper(), size=11, color=ORO if dark else NAR, bold=True, spc=250)
+    text(sl, Inches(0.6), Inches(1.4), Inches(8), Inches(0.35), overline.upper(), size=11, color=AZULT if dark else NAR, bold=True, spc=250)
     text(sl, Inches(0.6), Inches(1.75), title_w, Inches(1.8), titulo, size=36, font=HB, bold=True,
-         color=BLANCO if dark else AZULT, anchor=MSO_ANCHOR.TOP, spacing=1.08)
+         color=AZULT, anchor=MSO_ANCHOR.TOP, spacing=1.08)
     text(sl, Inches(0.6), Inches(7.0), Inches(12.2), Inches(0.35), 'Heiiu English Academy · Línea de alianzas 316 768 8793 · Carrera 27 # 48-49, Sotomayor, Bucaramanga',
          size=9.5, color=CLARO if dark else SUAVE, anchor=MSO_ANCHOR.MIDDLE)
     return sl
@@ -105,20 +105,20 @@ sl = prs.slides.add_slide(BLANK)
 rect(sl, 0, 0, W, HH, AZUL)
 rect(sl, Inches(9.6), 0, Inches(3.733), HH, AZUL2)
 rect(sl, Inches(9.6), 0, Emu(60000), HH, NAR)
-sl.shapes.add_picture(LOGO_T, Inches(0.6), Inches(0.55), height=Inches(1.25))
-text(sl, Inches(0.6), Inches(2.35), Inches(8.6), Inches(0.35), 'PROGRAMA DE INGLÉS PARA FONDOS DE EMPLEADOS', size=11, color=ORO, bold=True, spc=250)
+logo_pill(sl, Inches(0.6), Inches(0.55), h=Inches(1.0))
+text(sl, Inches(0.6), Inches(2.35), Inches(8.6), Inches(0.35), 'PROGRAMA DE INGLÉS PARA FONDOS DE EMPLEADOS', size=11, color=AZULT, bold=True, spc=250)
 text(sl, Inches(0.6), Inches(2.75), Inches(8.7), Inches(2.6),
-     [[('Beca del 45% en inglés para sus afiliados y sus familias, ', dict(color=BLANCO)), ('sin costo para el fondo.', dict(color=ORO))]],
+     [[('Beca del 45% en inglés para sus afiliados y sus familias, ', dict(color=AZULT)), ('sin costo para el fondo.', dict(color=BLANCO))]],
      size=42, font=HB, bold=True, spacing=1.06)
 text(sl, Inches(0.6), Inches(5.45), Inches(8.4), Inches(0.8), 'Presencial, en Bucaramanga. Con garantía de aprendizaje por escrito.',
      size=18, color=CLARO, spacing=1.2)
 text(sl, Inches(0.6), Inches(6.45), Inches(8.4), Inches(0.6),
      [[('Presentación para  ', dict(color=CLARO)), ('_______________________________', dict(color=CLARO)),
        ('     Bucaramanga, octubre de 2026', dict(color=CLARO))]], size=13)
-text(sl, Inches(9.95), Inches(2.3), Inches(3.1), Inches(1.2), '45%', size=96, font=NUM, color=ORO, anchor=MSO_ANCHOR.MIDDLE)
-text(sl, Inches(9.95), Inches(3.55), Inches(3.1), Inches(0.9), 'de beca, a nombre del fondo', size=15, color=BLANCO, spacing=1.2)
-text(sl, Inches(9.95), Inches(4.75), Inches(3.1), Inches(1.0), '$0', size=72, font=NUM, color=BLANCO, anchor=MSO_ANCHOR.MIDDLE)
-text(sl, Inches(9.95), Inches(5.8), Inches(3.1), Inches(0.9), 'para el fondo. Una hoja, 12 meses.', size=15, color=BLANCO, spacing=1.2)
+text(sl, Inches(9.95), Inches(2.3), Inches(3.1), Inches(1.2), '45%', size=96, font=NUM, color=NAR, anchor=MSO_ANCHOR.MIDDLE)
+text(sl, Inches(9.95), Inches(3.55), Inches(3.1), Inches(0.9), 'de beca, a nombre del fondo', size=15, color=AZULT, spacing=1.2)
+text(sl, Inches(9.95), Inches(4.75), Inches(3.1), Inches(1.0), '$0', size=72, font=NUM, color=NAR, anchor=MSO_ANCHOR.MIDDLE)
+text(sl, Inches(9.95), Inches(5.8), Inches(3.1), Inches(0.9), 'para el fondo. Una hoja, 12 meses.', size=15, color=AZULT, spacing=1.2)
 notas(sl, 'ANTES DE EMPEZAR (una pregunta): "¿Un convenio así lo firma usted o lo lleva a junta? ¿Cuándo se reúne la junta?" '
           'Con esa respuesta sabes si hoy sales con firma o con fecha de junta.\n'
           'QUÉ DECIR (20 segundos): "Vengo a proponerle un beneficio nuevo para sus afiliados que al fondo no le cuesta nada: beca del 45% '
@@ -160,9 +160,9 @@ lineas(sl, Inches(0.6), Inches(3.8), Inches(7.8), Inches(3.0), [
     '3 becas por trimestre con el nombre del fondo.'], size=20)
 x, y, w, h = Inches(8.9), Inches(1.4), Inches(3.85), Inches(5.25)
 rect(sl, x, y, w, h, AZUL, radius=0.06)
-rect(sl, x + Inches(0.35), y + Inches(0.35), Inches(0.6), Emu(30000), ORO)
-text(sl, x + Inches(0.25), y + Inches(0.7), w - Inches(0.5), Inches(2.4), '$3.913.200', size=48, font=NUM, color=ORO, anchor=MSO_ANCHOR.MIDDLE)
-text(sl, x + Inches(0.35), y + Inches(3.2), w - Inches(0.7), Inches(1.9), 'menos por afiliado. Beca, no descuento: misma tarifa y misma garantía para todos.', size=15, color=BLANCO, spacing=1.25)
+rect(sl, x + Inches(0.35), y + Inches(0.35), Inches(0.6), Emu(30000), AZULT)
+text(sl, x + Inches(0.25), y + Inches(0.7), w - Inches(0.5), Inches(2.4), '$3.913.200', size=48, font=NUM, color=AZULT, anchor=MSO_ANCHOR.MIDDLE)
+text(sl, x + Inches(0.35), y + Inches(3.2), w - Inches(0.7), Inches(1.9), 'menos por afiliado. Beca, no descuento: misma tarifa y misma garantía para todos.', size=15, color=AZULT, spacing=1.25)
 notas(sl, 'QUÉ DECIR: "El afiliado paga $4.782.800 por el programa que vale $8.696.000. Si el fondo le presta o paga con cesantías, es contado y recibe la beca mayor. '
           'Y tres afiliados por trimestre, los que el fondo elija, reciben la beca con el nombre del fondo aunque paguen a cuotas."\n'
           'A cuotas con la academia: $5.565.440 (36%); ejemplo $1.113.088 hoy y 11 cuotas de $452.348. Plan Empresa si el fondo paga los cupos: '
@@ -174,8 +174,8 @@ for i, (hdr, lst) in enumerate([('EL FONDO', ['Sin costo ni presupuesto', 'Becas
                                 ('EL AFILIADO Y SU FAMILIA', ['Paga la mitad, también cónyuge e hijos', 'Garantía: si cumple y no avanza, 100% de vuelta', 'Nadie entrena solo: coach y video diario'])]):
     x = Inches(0.6) + i * Inches(6.2)
     rect(sl, x, Inches(3.7), Inches(5.9), Inches(2.95), BLANCO if i == 0 else AZUL, BORDE if i == 0 else None, radius=0.05)
-    text(sl, x + Inches(0.35), Inches(3.9), Inches(5.2), Inches(0.35), hdr, size=11, color=NAR if i == 0 else ORO, bold=True, spc=200)
-    lineas(sl, x + Inches(0.3), Inches(4.35), Inches(5.3), Inches(2.3), lst, size=18, color=TEXTO if i == 0 else BLANCO, dot=NAR if i == 0 else ORO, gap=8)
+    text(sl, x + Inches(0.35), Inches(3.9), Inches(5.2), Inches(0.35), hdr, size=11, color=NAR if i == 0 else AZULT, bold=True, spc=200)
+    lineas(sl, x + Inches(0.3), Inches(4.35), Inches(5.3), Inches(2.3), lst, size=18, color=TEXTO if i == 0 else AZULT, dot=NAR if i == 0 else BLANCO, gap=8)
 notas(sl, 'QUÉ DECIR: "Para el fondo es un beneficio más en su portafolio, con su nombre y sin tocar presupuesto: usted postula con una carta y nosotros hacemos el resto. '
           'Para el afiliado es pagar la mitad, con garantía, y que lo acompañen hasta que hable." UN dato si hace falta: quien certifica su inglés gana cerca de un 26% más (DNP). '
           'Diagnóstico de nivel para 10 afiliados sin costo la semana siguiente a la firma.\n'
@@ -188,9 +188,9 @@ for i, (num, lab, body) in enumerate([('3 NOV', 'INICIO', 'Y no para en diciembr
                                       ('3', 'BECAS CON SU NOMBRE', 'Este trimestre. Suben a 5.')]):
     x = Inches(0.6) + i * Inches(4.1)
     rect(sl, x, Inches(3.7), Inches(3.85), Inches(2.8), AZUL2, radius=0.06)
-    text(sl, x + Inches(0.3), Inches(3.8), Inches(3.3), Inches(1.0), num, size=54, font=NUM, color=ORO, anchor=MSO_ANCHOR.MIDDLE)
-    text(sl, x + Inches(0.3), Inches(4.85), Inches(3.3), Inches(0.3), lab, size=10.5, color=ORO, bold=True, spc=200)
-    text(sl, x + Inches(0.3), Inches(5.2), Inches(3.3), Inches(1.1), body, size=17, color=BLANCO, spacing=1.2)
+    text(sl, x + Inches(0.3), Inches(3.8), Inches(3.3), Inches(1.0), num, size=54, font=NUM, color=NAR, anchor=MSO_ANCHOR.MIDDLE)
+    text(sl, x + Inches(0.3), Inches(4.85), Inches(3.3), Inches(0.3), lab, size=10.5, color=AZULT, bold=True, spc=200)
+    text(sl, x + Inches(0.3), Inches(5.2), Inches(3.3), Inches(1.1), body, size=17, color=TEXTO, spacing=1.2)
 notas(sl, 'QUÉ DECIR: "Le hablo hoy y no el mes entrante por una razón: el grupo arranca el martes 3 de noviembre y no para en diciembre; solo descansa los festivos. '
           'Si firmamos esta semana, sus afiliados alcanzan a entrar. El convenio no tiene costo ni obligaciones, se firma en una hoja, dura 12 meses '
           'y se termina con aviso de 30 días. Lo único que le pido es 20 minutos con sus afiliados."\n'
@@ -199,11 +199,11 @@ notas(sl, 'QUÉ DECIR: "Le hablo hoy y no el mes entrante por una razón: el gru
 # ================================================================ 7. CIERRE CON PREGUNTA
 sl = prs.slides.add_slide(BLANK)
 rect(sl, 0, 0, W, HH, AZUL)
-sl.shapes.add_picture(LOGO_T, Inches(0.6), Inches(0.5), height=Inches(1.0))
-text(sl, Inches(10.3), Inches(0.5), Inches(2.5), Inches(1.0), '7 / 7', size=12, color=CLARO, align=PP_ALIGN.RIGHT, anchor=MSO_ANCHOR.MIDDLE, font=NUM)
-text(sl, Inches(0.6), Inches(1.9), Inches(8.3), Inches(0.35), 'UN SOLO PASO', size=11, color=ORO, bold=True, spc=250)
+logo_pill(sl, Inches(0.6), Inches(0.5), h=Inches(0.8))
+text(sl, Inches(10.3), Inches(0.5), Inches(2.5), Inches(0.8), '7 / 7', size=12, color=CLARO, align=PP_ALIGN.RIGHT, anchor=MSO_ANCHOR.MIDDLE, font=NUM)
+text(sl, Inches(0.6), Inches(1.9), Inches(8.3), Inches(0.35), 'UN SOLO PASO', size=11, color=AZULT, bold=True, spc=250)
 text(sl, Inches(0.6), Inches(2.3), Inches(8.3), Inches(2.2),
-     [[('¿Cuántos de sus afiliados quiere ver hablando inglés ', dict(color=BLANCO)), ('el próximo año?', dict(color=ORO))]],
+     [[('¿Cuántos de sus afiliados quiere ver hablando inglés ', dict(color=AZULT)), ('el próximo año?', dict(color=BLANCO))]],
      size=38, font=HB, bold=True, spacing=1.06)
 rect(sl, Inches(0.6), Inches(4.65), Inches(8.3), Inches(1.15), NAR, radius=0.3)
 text(sl, Inches(0.85), Inches(4.65), Inches(7.9), Inches(1.15),
@@ -211,7 +211,7 @@ text(sl, Inches(0.85), Inches(4.65), Inches(7.9), Inches(1.15),
        (' o el ', {}), ('_______', dict(color=ORO)), (' a las ', {}), ('_____', dict(color=ORO)), ('?', {})]],
      size=19, color=BLANCO, bold=True, anchor=MSO_ANCHOR.MIDDLE, spacing=1.2)
 text(sl, Inches(0.6), Inches(5.95), Inches(8.3), Inches(0.9),
-     [[('Si va a junta: ', dict(bold=True, color=ORO)), ('¿cuándo se reúne? Le dejo el convenio listo.', dict(color=BLANCO))],
+     [[('Si va a junta: ', dict(bold=True, color=AZULT)), ('¿cuándo se reúne? Le dejo el convenio listo.', dict(color=AZULT))],
       [('Una hoja · sin costo · 12 meses · se termina con aviso de 30 días.', dict(color=CLARO, size=13))]], size=16, spacing=1.25, after=4)
 rect(sl, Inches(9.55), Inches(1.75), Inches(3.3), Inches(4.45), BLANCO, radius=0.02)
 sl.shapes.add_picture(MINI, Inches(9.62), Inches(1.82), height=Inches(4.31))
