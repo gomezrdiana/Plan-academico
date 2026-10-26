@@ -258,7 +258,7 @@ PIEZAS = {
         quote=('El colaborador firma su contrato y asume sus condiciones; la empresa no asume ninguna obligación económica. La empresa postula, recibe el reporte periódico y entrega los certificados de beca con su nombre. '
                'Y a cada colaborador le firmamos lo mismo que a todos: <b>si cumple su parte y no avanza, le devolvemos el 100% del nivel.</b>'),
         cite='GERENCIA · HEIIU ENGLISH ACADEMY',
-        after='¿Y si un colaborador no cumple? Usted también se entera: el reporte lo dice. <b>Preferimos eso a un certificado de asistencia que no dice nada.</b>',
+        after='¿Y si un colaborador no cumple? Usted también se entera: el reporte lo dice. Y cuando su empresa busque gente, <b>le referimos estudiantes con ese mismo historial de cumplimiento</b>: videos entregados, puntualidad y tareas, con su autorización.',
         st=[], lead='', big='', big2='',
         why=[('PRESENTAR Y SUSTENTAR', 'Simulaciones de trabajo real, en inglés: presentar un informe, llevar una reunión, atender a un cliente, pasar una entrevista. Se graba y se corrige.', False),
              ('CUMPLIMIENTO MEDIDO', 'Tarea diaria con video enviado el mismo día. El porcentaje de entrega va en el reporte: <b>usted ve quién cumple y quién no</b>.', False),
