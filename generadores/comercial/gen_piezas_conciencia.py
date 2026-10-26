@@ -371,9 +371,10 @@ PIEZAS = {
         h1='El que habla inglés abarca más: <em>más vacantes, más clientes, más países.</em>',
         st=[('Hablas inglés desde el primer día, con un profesor que te corrige ahí mismo.'),
             ('Un coach que no te deja rendirte. Aquí nadie entrena solo.'),
-            ('Te empujamos a pensar una idea de negocio y a contarla en inglés.')],
+            ('Te empujamos a pensar una idea de negocio y a contarla en inglés.'),
+            ('Y lo que no cabe en un volante: becas por tu empresa o tu entidad, puertas afuera seguras. <b>Escribe y pregunta.</b>')],
         lead='Y lo firmamos: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.', big='', big2='',
-        band='Grupos, programa individual y becas para empresas. <b>Escríbenos y agenda tu asesoría.</b>',
+        band='Grupos y programa individual, en Bucaramanga. <b>Escríbenos y agenda tu asesoría.</b>',
         band_px=300),
     'CALLE_B': dict(
         calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
@@ -400,12 +401,12 @@ blockquote { border-left-color: #E54C09; background: rgba(229,76,9,.06); color: 
 """
 
 CALLE = """
-h1 { font-size: 108px; line-height: 1.02; margin-top: 40px }
-.rule { margin: 44px 0 30px 0 }
-ol.st li { padding: 24px 0 22px 0; grid-template-columns: 70px 1fr }
-ol.st .n { font-size: 30px; padding-top: 10px }
-ol.st p { font-size: 40px; line-height: 1.22; color: #FFF8E7; font-weight: 400 }
-.pivot .lead { font-size: 40px; line-height: 1.25 }
+h1 { font-size: 98px; line-height: 1.02; margin-top: 36px }
+.rule { margin: 36px 0 22px 0 }
+ol.st li { padding: 18px 0 16px 0; grid-template-columns: 70px 1fr }
+ol.st .n { font-size: 28px; padding-top: 8px }
+ol.st p { font-size: 36px; line-height: 1.22; color: #FFF8E7; font-weight: 400 }
+.pivot { padding-top: 30px } .pivot .lead { font-size: 38px; line-height: 1.25 }
 .band p { font-size: 30px; line-height: 1.3 }
 .cta .tel { font-size: 56px } .cta .tel small { font-size: 26px }
 """
