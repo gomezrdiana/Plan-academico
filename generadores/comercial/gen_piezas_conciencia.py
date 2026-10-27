@@ -510,14 +510,14 @@ PIEZAS = {
     'CALLE_C': dict(   # calle, version agresiva y corta (decision de gerencia 27/10/2026): una idea, dos lineas, garantia, QR
         calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
         h1='¿Otro año sin inglés? <em>Otro año ganando lo mismo.</em>',
-        xl=True, st=[('Quien certifica su inglés gana cerca de un 26% más.¹'), ('Aquí hablas desde el primer día, con un coach que no te deja rendirte. Si faltas, te llamamos.')],
+        xl=True, st=[('Quien certifica su inglés gana cerca de un 26% más.¹'), ('Entras con tu meta (un viaje, un ascenso, un negocio propio) y la trabajamos como proyecto en inglés, con pasos y fecha.')],
         lead='Y lo firmamos: si cumples tu parte y no avanzas, <b>te devolvemos el 100% del nivel.</b>', big='', big2='', fn='¹ DNP, <i>Bilingüismo laboral en Colombia</i>.',
         band='Grupos y programa individual, en Bucaramanga. <b>Escanea o escríbenos y agenda tu asesoría.</b>',
         qr='CALLE-C', tel_qr='<small>Escríbenos</small>' + LINEA, band_px=300),
     'CALLE_D': dict(
         calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
         h1='Las mejores vacantes piden inglés. <em>¿Sigues aplicando a las otras?</em>',
-        xl=True, st=[('Aquí hablas desde el primer día, con un coach que no te deja rendirte.'), ('Si faltas, te llamamos.')],
+        xl=True, st=[('Hablas desde el primer día, con un coach que no te deja rendirte.'), ('Tu meta como proyecto en inglés: la entrevista, el viaje, el negocio propio.')],
         lead='Y lo firmamos: si cumples tu parte y no avanzas, <b>te devolvemos el 100% del nivel.</b>', big='', big2='',
         band='Grupos y programa individual, en Bucaramanga. <b>Escanea o escríbenos y agenda tu asesoría.</b>',
         qr='CALLE-D', tel_qr='<small>Escríbenos</small>' + LINEA, band_px=300),
