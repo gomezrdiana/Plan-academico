@@ -214,6 +214,35 @@ PIEZAS = {
              ('LO QUE NO HACEMOS', 'No prometemos el ascenso ni la visa. No usamos diálogos de libro ni horarios fijos que no caben en un turno. <b>Cupos limitados por disponibilidad de profesor.</b>', False)],
         band='Programa individual para médicos, profesionales y directivos. <b>Agende una asesoría de 15 minutos.</b>',
         band_px=290),
+    'PROFESIONALES_FRENTE': dict(   # programa individual, version general (decision de gerencia 27/10/2026): directivos, ejecutivos, ingenieros, abogados; misma estructura que medicos, sin el nicho
+        compact=True, label='PROGRAMA INDIVIDUAL', sub='DIRECTIVOS · EJECUTIVOS · INGENIEROS · ABOGADOS',
+        h1='El cliente de afuera ya llegó. <em>¿Le firma el contrato a usted o al que sí habla inglés?</em>',
+        st=[('<b>Quien certifica su inglés gana cerca de un 26% más.</b>¹ Porque abarca más: más clientes, más proyectos, más mesas donde se decide.'),
+            ('<b>En 2025 llegaron a Colombia más extranjeros que nunca, y 1 de cada 5 viene de Estados Unidos.</b>² El cliente, el socio o el inversionista de afuera no trae intérprete: pregunta, negocia y decide en inglés.'),
+            ('<b>Sin inglés no se pierde el cargo. Se pierden conversaciones:</b> la negociación, el contacto que abre la puerta, el proyecto que se define en una llamada.'),
+            ('<b>La inteligencia artificial traduce el contrato, pero no negocia por usted.</b> En la junta, en la reunión con el cliente y en la entrevista, el que habla es usted.')],
+        lead='En un cargo directivo o profesional, eso es gran parte del avance y de los resultados.',
+        big='A este nivel nadie aprende con una app: se aprende con un plan a su medida.',
+        big2='Y si tiene una idea de negocio, la trabajamos con usted y la presenta en inglés.',
+        fn='¹ DNP, <i>Bilingüismo laboral en Colombia</i>. ² MinCIT y Migración Colombia, enero a septiembre de 2025.',
+        band='Dale la vuelta a la hoja: así es el programa individual y <b>cómo se arma sobre su agenda</b>.',
+        band_px=250),
+    'PROFESIONALES_RESPALDO': dict(
+        compact=True, theme='light', label='ASÍ ES EL PROGRAMA INDIVIDUAL', sub='100 HORAS · UNO A UNO · CONVERSACIONES AVANZADAS EN SU ÁREA',
+        h1='Su inglés, <em>en su agenda.</em>',
+        intro=('<b>Entrenamos conversaciones avanzadas en su área laboral.</b> Armamos el plan a su medida, para que la clase se enfoque en los temas de los que usted ya estaría hablando si hablara inglés: la junta, la negociación, el cliente o el socio de afuera, '
+               'la presentación de resultados, la entrevista. Usted fija los días y las horas cada semana. Antes de hablar de precios, le decimos cómo es:'),
+        quote=('Nuestro objetivo es que salga hablando inglés en lo suyo. Esto es un entrenamiento, como prepararse para una maratón: desde el primer día habla, su profesor ve dónde puede mejorar y lo repetimos hasta que sale. '
+               'Entre una sesión y otra, un audio corto que su profesor le devuelve con una mejora; usted elige cuándo. Empezamos con una prueba de nivel; <b>el avance lo va a notar usted en la reunión, no en un papel.</b> ¿Se le mide?'),
+        cite='GERENCIA · HEIIU ENGLISH ACADEMY',
+        after='¿Suena exigente? Lo es, a propósito. <b>Las 100 horas tienen 12 meses de vigencia desde la primera sesión; las que no use en ese plazo se pierden.</b> Dentro del plazo usted decide el ritmo, no el calendario de un grupo: con tres horas a la semana termina en unos ocho meses; con más, antes.',
+        st=[], lead='', big='', big2='',
+        why=[('SOBRE SU TRABAJO', 'El contenido sale de su día: el contrato que revisa, la junta del jueves, la propuesta que presenta, el correo que hay que contestar hoy. Nada de diálogos de libro.', False),
+             ('PARA NEGOCIAR Y PRESENTARSE', 'Defender una cifra, presentar su propuesta, contar su historia profesional en un minuto. Se graba, se corrige y se repite hasta que suene seguro. <b>No prometemos el contrato ni el cargo: entrenamos la conversación.</b>', False),
+             ('AVANCE QUE SE NOTA', 'Prueba de nivel al inicio para armar el plan, y cuenta clara de las horas usadas y las que le quedan. El avance lo nota usted donde importa: en la conversación.', False),
+             ('LO QUE NO HACEMOS', 'No prometemos el ascenso ni la visa. No usamos diálogos de libro ni horarios fijos que no caben en una agenda llena. <b>Cupos limitados por disponibilidad de profesor.</b>', False)],
+        band='Programa individual para directivos, ejecutivos y profesionales. <b>Agende una asesoría de 15 minutos.</b>',
+        band_px=290),
 
     'RECEPCION_FRENTE': dict(
         compact=True, label='INGLÉS PARA RECEPCIÓN', sub='CLÍNICAS · CONSULTORIOS · HOTELES · EMPRESAS',
@@ -300,6 +329,17 @@ PIEZAS = {
         big='100 horas, uno a uno. Entrenamos lo que importa: la conversación que abre pacientes, negocios y contactos.',
         big2='Y si tiene una idea de negocio, la trabajamos con usted y la presenta en inglés.', fn='¹ Elsevier, con datos de PubMed. ² Ministerio de Comercio, Industria y Turismo y Migración Colombia, enero a septiembre de 2025.',
         band='Programa individual para médicos, profesionales y directivos. <b>Cupos limitados por disponibilidad de profesor.</b> Agende una asesoría de 15 minutos.',
+        band_px=290),
+    'PROFESIONALES_CORTA': dict(
+        compact=True, label='PROGRAMA INDIVIDUAL', sub='DIRECTIVOS · EJECUTIVOS · INGENIEROS · ABOGADOS',
+        h1='El cliente de afuera ya llegó. <em>¿Le firma el contrato a usted o al que sí habla inglés?</em>',
+        st=[('<b>Quien certifica su inglés gana cerca de un 26% más.</b>¹ Porque abarca más: más clientes, más proyectos, más mesas donde se decide.'),
+            ('<b>En 2025 llegaron a Colombia más extranjeros que nunca, y 1 de cada 5 viene de Estados Unidos.</b>² El cliente, el socio o el inversionista de afuera no trae intérprete: pregunta, negocia y decide en inglés.'),
+            ('<b>Entrenamos conversaciones avanzadas en su área laboral:</b> la junta, la negociación, el cliente o el socio de afuera, la entrevista. Plan a su medida y en su agenda, con audios entre sesiones que su profesor devuelve con una mejora.')],
+        lead='Sin inglés no se pierde el cargo. Se pierden conversaciones: la negociación, el contacto que abre la puerta, el proyecto que se define en una llamada.',
+        big='100 horas, uno a uno. Entrenamos lo que importa: la conversación que abre clientes, negocios y contactos.',
+        big2='Y si tiene una idea de negocio, la trabajamos con usted y la presenta en inglés.', fn='¹ DNP, <i>Bilingüismo laboral en Colombia</i>. ² MinCIT y Migración Colombia, enero a septiembre de 2025.',
+        band='Programa individual para directivos, ejecutivos y profesionales. <b>Cupos limitados por disponibilidad de profesor.</b> Agende una asesoría de 15 minutos.',
         band_px=290),
     'RECEPCION_CORTA': dict(
         compact=True, label='INGLÉS PARA RECEPCIÓN', sub='CLÍNICAS · CONSULTORIOS · HOTELES · EMPRESAS',
