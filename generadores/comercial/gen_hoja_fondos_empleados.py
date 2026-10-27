@@ -75,7 +75,7 @@ t('Beca del 45% para afiliados y sus familias, sin costo para el fondo · Garant
 
 sec('1. Quiénes somos')
 t('Academia presencial de Bucaramanga, **con licencia de la Secretaría de Educación desde 2012** (educación para el trabajo y el desarrollo humano) y **certificación de calidad ISO 9001 e ICONTEC**. Sede propia en Sotomayor, Carrera 27 # 48-49. Un solo programa, completo: **de A1 a B2 en 575 horas presenciales certificadas**, en grupos de máximo 16. B2 es el nivel que piden las vacantes, las universidades y los programas en el exterior. Convenios vigentes con entidades y empresas de la región, con becas a nombre de cada una.', after=2)
-t('Hay muchas academias de inglés; pregunte en cualquiera quién le firma el resultado. En Heiiu lo firmamos por escrito, y queremos la parte difícil: que venga, que se suelte a hablar y que no se rinda. Por eso cada clase tiene una simulación real con un profesor que corrige ahí mismo; por eso hay un video corto en inglés todos los días desde la casa; y por eso, si un estudiante falta y no avisa, lo llamamos ese mismo día.', size=9, color=GRIS, after=2)
+t('Hay muchas academias de inglés; Heiiu le firma el resultado por escrito. Y queremos la parte difícil: que venga, que se suelte a hablar y que no se rinda. Por eso cada clase tiene una simulación real con un profesor que corrige ahí mismo; por eso hay un video corto en inglés todos los días desde la casa; y por eso, si un estudiante falta y no avisa, lo llamamos ese mismo día.', size=9, color=GRIS, after=2)
 
 sec('2. El programa')
 tabla(['Horarios', 'Intensidad', 'Docentes'], [
