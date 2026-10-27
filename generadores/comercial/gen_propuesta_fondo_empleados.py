@@ -82,7 +82,7 @@ t('Cordial saludo. Les proponemos un convenio para que sus afiliados y sus famil
 
 sec('1. Quiénes somos')
 bullets(['Academia presencial de Bucaramanga, **con licencia de la Secretaría de Educación desde 2012** y certificación de calidad ISO 9001 e ICONTEC. Sede en Sotomayor, Carrera 27 # 48-49.',
-         'Un solo programa, completo: **de A1 a B2 en 575 horas presenciales certificadas**, en grupos de máximo 16.',
+         'Un solo programa, completo: **de A1 a B2 en 575 horas presenciales certificadas**.',
          'Entrenamiento en equipo: el estudiante habla desde el primer día, con un profesor que corrige en el momento y un video corto diario desde la casa.'])
 
 sec('2. El programa y su valor')

@@ -128,7 +128,7 @@ notas(sl, 'ANTES DE EMPEZAR (una pregunta): "¿Un convenio así lo firma usted o
 # ================================================================ 2. SOMOS HEIIU
 sl = marco(2, 'Somos Heiiu', 'Una academia de Bucaramanga que responde por el resultado.')
 for i, (num, lab) in enumerate([('2012', 'Licencia de la Secretaría de Educación'), ('ISO 9001', 'Certificación ISO e ICONTEC'),
-                                ('575 h', 'De A1 a B2, presencial, grupos de 16'), ('100%', 'Garantía por escrito: devolvemos el nivel')]):
+                                ('575 h', 'De A1 a B2, presencial y certificado'), ('100%', 'Garantía por escrito: devolvemos el nivel')]):
     x = Inches(0.6) + i * Inches(3.1); y = Inches(3.75)
     rect(sl, x, y, Inches(2.9), Inches(2.6), BLANCO, BORDE, radius=0.06)
     rect(sl, x + Inches(0.3), y + Inches(0.3), Inches(0.5), Emu(30000), NAR)
@@ -141,7 +141,7 @@ notas(sl, 'QUÉ DECIR (máximo 20 segundos): "Somos una academia de Bucaramanga 
 # ================================================================ 3. OFERTA EDUCATIVA (PLAN A)
 sl = marco(3, 'Oferta educativa · Plan A', 'Programa completo de A1 a B2: 575 horas presenciales.')
 for i, (tt, body) in enumerate([('HORARIOS', 'Mañana, noche o sábados'), ('INTENSIDAD', '20 h o 10 h por semana, más un video diario'),
-                                ('DOCENTES', 'Bilingües, uno por grupo de máximo 16'), ('EVALUACIÓN', 'Entrada, por nivel y evaluador externo'),
+                                ('DOCENTES', 'Bilingües, trabajan como coach'), ('EVALUACIÓN', 'Entrada, por nivel y evaluador externo'),
                                 ('CERTIFICACIÓN', 'Por nivel y por programa completo'), ('GARANTÍA', 'Cumple y no avanza: devolvemos el 100%')]):
     col, row = i % 3, i // 3
     x = Inches(0.6) + col * Inches(4.1); y = Inches(3.7) + row * Inches(1.55)
@@ -149,7 +149,7 @@ for i, (tt, body) in enumerate([('HORARIOS', 'Mañana, noche o sábados'), ('INT
     text(sl, x, y + Inches(0.12), Inches(3.8), Inches(0.35), tt, size=11, color=AZULT, bold=True, spc=200)
     text(sl, x, y + Inches(0.47), Inches(3.8), Inches(0.9), body, size=17, color=TEXTO, spacing=1.15)
 notas(sl, 'QUÉ DECIR: "Programa completo, presencial, en la mañana o en la noche; con 8 afiliados o más, el horario lo pone el fondo. '
-          'Un profesor por grupo de máximo 16 y evaluador externo al cierre de cada nivel. Y lo firmamos: si cumple y no avanza, devolvemos el nivel."\n'
+          'Profesores que trabajan como coach y evaluador externo al cierre de cada nivel. Y lo firmamos: si cumple y no avanza, devolvemos el nivel."\n'
           'Horarios exactos: mañana 8:00 a 12:00, noche 6:30 a 8:30 p. m., sábados 8:00 a 12:00. Todo está en la hoja; no leer las seis casillas.')
 
 # ================================================================ 4. VALOR ECONÓMICO
@@ -194,7 +194,7 @@ for i, (num, lab, body) in enumerate([('3 NOV', 'INICIO', 'Y no para en diciembr
 notas(sl, 'QUÉ DECIR: "Le hablo hoy y no el mes entrante por una razón: el grupo arranca el martes 3 de noviembre y no para en diciembre; solo descansa los festivos. '
           'Si firmamos esta semana, sus afiliados alcanzan a entrar. El convenio no tiene costo ni obligaciones, se firma en una hoja, dura 12 meses '
           'y se termina con aviso de 30 días. Lo único que le pido es 20 minutos con sus afiliados."\n'
-          'Decir solo cupos reales (grupos de 16, 3 becas con nombre). Nunca "últimos cupos" si no es cierto.')
+          'Decir solo cupos reales (3 becas con nombre). Nunca "últimos cupos" si no es cierto.')
 
 # ================================================================ 7. CIERRE CON PREGUNTA
 sl = prs.slides.add_slide(BLANK)

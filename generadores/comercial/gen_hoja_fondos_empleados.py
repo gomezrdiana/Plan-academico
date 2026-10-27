@@ -74,14 +74,14 @@ r = p.add_run('PROGRAMA DE INGLÉS PARA FONDOS DE EMPLEADOS — HOJA DE DETALLE'
 t('Beca del 45% para afiliados y sus familias, sin costo para el fondo · Garantía de aprendizaje por escrito · Heiiu English Academy — Global Teacher S.A.S., NIT 900.422.478-2', size=8.5, color=GRIS, after=4)
 
 sec('1. Quiénes somos')
-t('Academia presencial de Bucaramanga, **con licencia de la Secretaría de Educación desde 2012** (educación para el trabajo y el desarrollo humano) y **certificación de calidad ISO 9001 e ICONTEC**. Sede propia en Sotomayor, Carrera 27 # 48-49. Un solo programa, completo: **de A1 a B2 en 575 horas presenciales certificadas**, en grupos de máximo 16. B2 es el nivel que piden las vacantes, las universidades y los programas en el exterior. Convenios vigentes con entidades y empresas de la región, con becas a nombre de cada una.', after=2)
+t('Academia presencial de Bucaramanga, **con licencia de la Secretaría de Educación desde 2012** (educación para el trabajo y el desarrollo humano) y **certificación de calidad ISO 9001 e ICONTEC**. Sede propia en Sotomayor, Carrera 27 # 48-49. Un solo programa, completo: **de A1 a B2 en 575 horas presenciales certificadas**. B2 es el nivel que piden las vacantes, las universidades y los programas en el exterior. Convenios vigentes con entidades y empresas de la región, con becas a nombre de cada una.', after=2)
 t('Hay muchas academias de inglés; Heiiu le firma el resultado por escrito. Y queremos la parte difícil: que venga, que se suelte a hablar y que no se rinda. Por eso cada clase tiene una simulación real con un profesor que corrige ahí mismo; por eso hay un video corto en inglés todos los días desde la casa; y por eso, si un estudiante falta y no avisa, lo llamamos ese mismo día.', size=9, color=GRIS, after=2)
 
 sec('2. El programa')
 tabla(['Horarios', 'Intensidad', 'Docentes'], [
     ('Mañana: lunes a viernes, 8:00 a 12:00.\nNoche: lunes a viernes, 6:30 a 8:30 p. m.\nSábados: 8:00 a 12:00 (taller).\nCon 8 o más afiliados en un grupo, el horario lo define el fondo.',
      'Súper intensivo: 20 h por semana, programa completo en unos 7 meses.\nIntensivo: 10 h por semana, en unos 14 meses.\nMás un video corto en inglés todos los días, devuelto con una mejora.',
-     'Profesores bilingües colombianos, uno por grupo de máximo 16. Trabajan como coach: dirigen la simulación, corrigen en el momento y revisan el video de cada día. Coordinación académica sigue asistencia, tareas y evaluaciones.'),
+     'Profesores bilingües colombianos que trabajan como coach: dirigen la simulación, corrigen en el momento y revisan el video de cada día. Coordinación académica sigue asistencia, tareas y evaluaciones.'),
 ], [6.0, 6.0, 6.0], size=8.5, bold_first=False)
 tabla(['Evaluación', 'Certificación', 'Garantía (texto del contrato)'], [
     ('Prueba de entrada el primer día. Evaluaciones durante el nivel y evaluación final con evaluador externo al cierre de cada nivel. Reporte al fondo: asistencia y cumplimiento de cada becado. Nunca notas: esas son del estudiante.',

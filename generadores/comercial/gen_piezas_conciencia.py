@@ -272,7 +272,7 @@ PIEZAS = {
         why=[('TU META, COMO PROYECTO', 'Entras con lo que quieres lograr (una entrevista, un viaje, un negocio, el siguiente paso en tu trabajo) y desde el primer día lo trabajamos como un proyecto en inglés, con pasos y fecha.', False),
              ('AQUÍ NADIE DESAPARECE', 'Faltaste y no avisaste: te llamamos ese mismo día. No es persecución: es la parte menos chévere del coach, <b>la que esperamos no tener que hacer</b>.', False),
              ('SE NOTA, Y SE PUEDE MOSTRAR', 'Te grabamos el primer día y el último del nivel. Pon los dos videos juntos y no vas a necesitar que nadie te diga que avanzaste.', False),
-             ('EL FINAL NO LO PONE TU PROFESOR', 'El examen de cierre del nivel lo aplica un evaluador externo. Grupos de máximo 16, en una academia con licencia desde 2012 y certificación ISO 9001.', False)],
+             ('EL FINAL NO LO PONE TU PROFESOR', 'El examen de cierre del nivel lo aplica un evaluador externo, en una academia con licencia desde 2012 y certificación ISO 9001.', False)],
         band='Escríbenos y agenda tu asesoría. <b>Te decimos cómo es antes de hablar de precios.</b>',
         band_px=290),
 
@@ -382,7 +382,7 @@ PIEZAS = {
         lead='Ya tomaste la decisión difícil. Para escoger dónde, basta una pregunta: ¿quién responde si no aprendes?',
         big='Garantía por escrito: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.',
         big2='', fn='* Garantía por escrito, anexo al contrato de matrícula; aplican términos y condiciones. ¹ Retención a 30 días de la app de idiomas más descargada, estadísticas públicas 2026. ² DNP, <i>Bilingüismo laboral en Colombia</i>.',
-        band='Grupos de máximo 16. <b>Escríbenos y agenda tu asesoría:</b> te decimos cómo es antes de hablar de precios.',
+        band='<b>Escríbenos y agenda tu asesoría:</b> te decimos cómo es antes de hablar de precios.',
         band_px=290),
     'RECEPCION_CORTA': dict(
         compact=True, label='INGLÉS PARA RECEPCIÓN', sub='CLÍNICAS · CONSULTORIOS · HOTELES · EMPRESAS',
