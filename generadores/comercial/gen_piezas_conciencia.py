@@ -243,6 +243,37 @@ PIEZAS = {
              ('LO QUE NO HACEMOS', 'No prometemos el ascenso ni la visa. No usamos diálogos de libro ni horarios fijos que no caben en una agenda llena. <b>Cupos limitados por disponibilidad de profesor.</b>', False)],
         band='Programa individual para directivos, ejecutivos y profesionales. <b>Agende una asesoría de 15 minutos.</b>',
         band_px=290),
+    'DECIDIDO_FRENTE': dict(   # para el que YA decidio aprender ingles y esta escogiendo donde (decision de gerencia 27/10/2026); trato de tu
+        compact=True, label='PARA EL QUE YA DECIDIÓ', sub='APRENDER INGLÉS ESTE AÑO',
+        h1='Ya decidiste aprender inglés. <em>¿Vas a pagar donde te lo prometen o donde te lo firman?</em>',
+        st=[('<b>De cada 100 personas que bajan una app de inglés, 88 la dejan antes del mes.</b>¹ No es falta de ganas: es que nadie aprende un idioma solo.'),
+            ('<b>Quien certifica su inglés gana cerca de un 26% más.</b>² La diferencia no la hace empezar: la hace terminar con un nivel que se pueda demostrar.'),
+            ('<b>Aquí hablas desde el primer día,</b> grabas un video corto cada día y tu profesor te lo devuelve con una mejora. Si faltas, te llamamos ese mismo día.'),
+            ('<b>Prueba de entrada, prueba de salida y evaluador externo al cierre del nivel.</b> Lo que avanzas no es una sensación: queda por escrito.')],
+        lead='Ya tomaste la decisión difícil. Escoger dónde se decide con una sola pregunta: ¿quién responde si no aprendes?',
+        big='Garantía por escrito: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.',
+        big2='',
+        fn='¹ Retención a 30 días de la app de idiomas más descargada, estadísticas públicas 2026. ² DNP, <i>Bilingüismo laboral en Colombia</i>.',
+        band='Dale la vuelta a la hoja: así entrenamos en Heiiu y <b>por qué podemos firmarlo</b>.',
+        band_px=250),
+    'DECIDIDO_RESPALDO': dict(
+        compact=True, theme='light', label='ASÍ ES HEIIU', sub='LEE ESTO ANTES DE PAGAR EN CUALQUIER PARTE',
+        h1='Academias hay muchas. <em>Esta te firma el resultado.</em>',
+        intro=('A muchas academias les sale el negocio cuando pagas y dejas de ir. Nadie te llama, nadie te extraña, y a los tres meses la matrícula se volvió culpa. '
+               '<b>En Heiiu queremos la parte difícil: que vengas, que te sueltes a hablar y que no te rindas.</b> Por eso te lo decimos antes de que pagues:'),
+        quote=('Nuestro objetivo es que salgas hablando inglés. Si no se logra, algo está mal: o tú dejaste de entrenar, o nosotros no estamos cumpliendo. '
+               'Esto es un entrenamiento en equipo, como prepararse para una maratón: desde el primer día hablas, tu profesor ve dónde puedes mejorar y lo repetimos hasta que sale. '
+               'Por eso grabas un video corto todos los días y tu profesor te lo devuelve con una mejora. A cambio, la garantía por escrito: '
+               '<b>si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.</b> ¿Te le mides a ese ritmo?'),
+        cite='GERENCIA · HEIIU ENGLISH ACADEMY',
+        after='¿Suena duro? Míralo al revés: <b>la única forma de perder la plata es dejar de entrenar.</b> Si entrenas, sales hablando inglés. Y si entrenas y no avanzas, te la devolvemos.',
+        st=[], lead='', big='', big2='',
+        why=[('TU META, COMO PROYECTO', 'Entras con lo que quieres lograr (una entrevista, un viaje, un negocio, el siguiente paso en tu trabajo) y desde el primer día lo trabajamos como un proyecto en inglés, con pasos y fecha.', False),
+             ('AQUÍ NADIE DESAPARECE', 'Faltaste y no avisaste: te llamamos ese mismo día. No es persecución: es la parte menos chévere del coach, <b>la que esperamos no tener que hacer</b>.', False),
+             ('SE NOTA, Y SE PUEDE MOSTRAR', 'Te grabamos el primer día y el último del nivel. Pon los dos videos juntos y no vas a necesitar que nadie te diga que avanzaste.', False),
+             ('EL FINAL NO LO PONE TU PROFESOR', 'El examen de cierre del nivel lo aplica un evaluador externo. Grupos de máximo 16, en una academia con licencia desde 2012 y certificación ISO 9001.', False)],
+        band='Escríbenos y agenda tu asesoría. <b>Te decimos cómo es antes de hablar de precios.</b>',
+        band_px=290),
 
     'RECEPCION_FRENTE': dict(
         compact=True, label='INGLÉS PARA RECEPCIÓN', sub='CLÍNICAS · CONSULTORIOS · HOTELES · EMPRESAS',
@@ -340,6 +371,17 @@ PIEZAS = {
         big='100 horas, uno a uno. Entrenamos lo que importa: la conversación que abre clientes, negocios y contactos.',
         big2='Y si tiene una idea de negocio, la trabajamos con usted y la presenta en inglés.', fn='¹ DNP, <i>Bilingüismo laboral en Colombia</i>. ² MinCIT y Migración Colombia, enero a septiembre de 2025.',
         band='Programa individual para directivos, ejecutivos y profesionales. <b>Cupos limitados por disponibilidad de profesor.</b> Agende una asesoría de 15 minutos.',
+        band_px=290),
+    'DECIDIDO_CORTA': dict(
+        compact=True, label='PARA EL QUE YA DECIDIÓ', sub='APRENDER INGLÉS ESTE AÑO',
+        h1='Ya decidiste aprender inglés. <em>¿Vas a pagar donde te lo prometen o donde te lo firman?</em>',
+        st=[('<b>De cada 100 personas que bajan una app de inglés, 88 la dejan antes del mes.</b>¹ No es falta de ganas: es que nadie aprende un idioma solo.'),
+            ('<b>Quien certifica su inglés gana cerca de un 26% más.</b>² La diferencia no la hace empezar: la hace terminar con un nivel que se pueda demostrar.'),
+            ('<b>Aquí hablas desde el primer día,</b> grabas un video corto cada día y tu profesor te lo devuelve con una mejora. Si faltas, te llamamos. El final del nivel lo aplica un evaluador externo.')],
+        lead='Ya tomaste la decisión difícil. Escoger dónde se decide con una sola pregunta: ¿quién responde si no aprendes?',
+        big='Garantía por escrito: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.',
+        big2='', fn='¹ Retención a 30 días de la app de idiomas más descargada, estadísticas públicas 2026. ² DNP, <i>Bilingüismo laboral en Colombia</i>.',
+        band='Grupos de máximo 16. <b>Escríbenos y agenda tu asesoría:</b> te decimos cómo es antes de hablar de precios.',
         band_px=290),
     'RECEPCION_CORTA': dict(
         compact=True, label='INGLÉS PARA RECEPCIÓN', sub='CLÍNICAS · CONSULTORIOS · HOTELES · EMPRESAS',
