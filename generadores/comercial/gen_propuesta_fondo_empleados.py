@@ -97,7 +97,7 @@ bullets(['**Garantía por escrito:** si el estudiante cumple su parte (asistenci
          '**Práctica diaria con retroalimentación:** un video corto cada día, devuelto por su profesor con una mejora concreta.',
          '**Aquí nadie desaparece:** si falta sin avisar, lo llamamos ese mismo día; cada clase registra la hora de llegada.',
          '**Progreso demostrable:** lo grabamos el primer día y el último del nivel, y el reporte de avance llega a la familia.',
-         '**Idea de negocio propia:** a cada estudiante lo empujamos a pensar una y a contarla en inglés.'])
+         '**Una meta propia, con fecha:** cada estudiante entra con lo que quiere lograr (una entrevista, un viaje, un negocio propio, el siguiente paso en su trabajo) y lo acompañamos para contarlo y sostenerlo en inglés.'])
 
 sec('4. Beneficios para los afiliados de ' + FONDO)
 bullets(['**Beca del 45% con carta de postulación del fondo:** $4.782.800 de contado por el programa completo (lista $8.696.000). A cuotas con crédito directo de la academia: $5.565.440 (beca del 36%; por ejemplo, inicial de $1.113.088 y 11 cuotas de $452.348). Es beca del Fondo de Becas Heiiu, no un descuento: misma tarifa y misma garantía para todos los que entran con carta.',

@@ -88,7 +88,7 @@ tabla(['Evaluación', 'Certificación', 'Garantía (texto del contrato)'], [
      'Certificado Heiiu por cada nivel terminado (A1, A2, B1, B2) y por el programa completo, según los estándares de la Secretaría de Educación. Certificado de beca a nombre del fondo para cada becado.',
      '**Si el estudiante cumple su parte (asistencia del 80%, 90% de las tareas con video diario, todas las evaluaciones) y no avanza, le devolvemos el 100% del nivel.** No prometemos que sea fácil ni rápido. Prometemos que funciona si hace su parte, y lo firmamos.'),
 ], [6.0, 6.0, 6.0], size=8.5, bold_first=False)
-t('Y a cada estudiante lo empujamos a pensar una idea de negocio propia y a contarla en inglés. Próximo grupo: **martes 3 de noviembre de 2026**; no para en diciembre, solo descansa los festivos.', size=9, after=2)
+t('Cada estudiante entra con una meta propia (una entrevista, un viaje, un negocio propio, el siguiente paso en su trabajo) y lo acompañamos para contarla y sostenerla en inglés. Próximo grupo: **martes 3 de noviembre de 2026**; no para en diciembre, solo descansa los festivos.', size=9, after=2)
 
 sec('3. Valor económico para el afiliado con carta del fondo')
 tabla(['Programa completo A1 a B2 (575 h)', 'Valor de lista', 'Con carta del fondo'], [
