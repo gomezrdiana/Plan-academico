@@ -206,7 +206,7 @@ PIEZAS = {
         quote=('Nuestro objetivo es que salga hablando inglés en lo suyo. Esto es un entrenamiento, como prepararse para una maratón: desde el primer día habla, su profesor ve dónde puede mejorar y lo repetimos hasta que sale. '
                'Entre una sesión y otra, un audio corto que su profesor le devuelve con una mejora; usted elige cuándo. Empezamos con una prueba de nivel; <b>el avance lo va a notar usted en la junta, no en un papel.</b> ¿Se le mide?'),
         cite='GERENCIA · HEIIU ENGLISH ACADEMY',
-        after='¿Suena exigente? Lo es, a propósito. <b>Las 100 horas tienen una fecha límite para usarlas; las que no use dentro de ella se pierden.</b> Hasta esa fecha usted decide el ritmo, no el calendario de un grupo: con tres horas a la semana termina en unos ocho meses; con más, antes.',
+        after='¿Suena exigente? Lo es, a propósito. <b>Las 100 horas tienen 12 meses de vigencia desde la primera sesión; las que no use en ese plazo se pierden.</b> Dentro del plazo usted decide el ritmo, no el calendario de un grupo: con tres horas a la semana termina en unos ocho meses; con más, antes.',
         st=[], lead='', big='', big2='',
         why=[('SOBRE SU TRABAJO', 'El contenido sale de su día: el caso que presenta, la junta del jueves, el correo que hay que contestar hoy. Nada de diálogos de libro.', False),
              ('PARA LA ESPECIALIZACIÓN', 'Entrevista de admisión, presentación de un caso, su historia profesional en un minuto. Se graba, se corrige y se repite hasta que suene seguro. <b>No prometemos la admisión: entrenamos la entrevista.</b>', False),
