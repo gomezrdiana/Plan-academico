@@ -178,7 +178,7 @@ PIEZAS = {
     # ---------------- INDUSTRIAS (frente oscuro + respaldo claro, 10x15 a doble cara; las reparte el gerente de alianzas) ----------------
     'HOTELERIA_FRENTE': dict(
         compact=True, label='INGLÉS PARA HOTELERÍA Y TURISMO', sub='HOTELES · RESTAURANTES · AGENCIAS · GUÍAS',
-        h1='El turista habla inglés. <em>¿Lo recibes tú o llamas a otro?</em>',
+        h1='¿Te ha tocado sonreír sin entender al huésped? <em>Él se va molesto y tú te quedas con la pena.</em>',
         st=[('<b>En 2025 Colombia recibió más extranjeros que nunca:</b> 3,5 millones entre enero y septiembre, 4,5% más que el año anterior.¹'),
             ('<b>El visitante número uno viene de Estados Unidos:</b> 1 de cada 5 extranjeros.¹ Pide, reclama y agradece en inglés.'),
             ('<b>Quien certifica su inglés gana cerca de un 26% más</b> que quien hace el mismo trabajo sin él.²'),
@@ -358,12 +358,12 @@ PIEZAS = {
     # ---------------- VERSIONES CORTAS (una sola cara, digitales, para WhatsApp) ----------------
     'HOTELERIA_CORTA': dict(
         compact=True, label='INGLÉS PARA HOTELERÍA Y TURISMO', sub='HOTELES · RESTAURANTES · AGENCIAS · GUÍAS',
-        h1='El turista habla inglés. <em>¿Lo recibes tú o llamas a otro?</em>',
+        h1='¿Te ha tocado sonreír sin entender al huésped? <em>Él se va molesto y tú te quedas con la pena.</em>',
         st=[('<b>En 2025 Colombia recibió más extranjeros que nunca,</b> y 1 de cada 5 viene de Estados Unidos.¹ Pide, reclama y agradece en inglés.'),
             ('<b>Quien certifica su inglés gana cerca de un 26% más</b> que quien hace el mismo trabajo sin él.²'),
             ('<b>Las escenas de tu puesto, en inglés:</b> el check-in, la reserva por teléfono, la mesa que pide la cuenta, la queja por el aire. Se repite hasta que sale sin pensar.'),
             ('<b>Se nota, y se puede mostrar:</b> te grabamos el primer día y el último del nivel. Tu jefe no tendrá que creerte: lo oye.')],
-        lead='Aprender inglés no es fácil ni siempre divertido. Pero aquí nadie desaparece: si faltas, te llamamos. Y aquí te empujamos a pensar una idea de negocio propia y a contarla en inglés.', big='Garantía por escrito: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.', big2='', fn='¹ Ministerio de Comercio, Industria y Turismo y Migración Colombia, enero a septiembre de 2025. ² DNP, Archivos de Economía, <i>Bilingüismo laboral en Colombia</i>.',
+        lead='Aprender inglés no es fácil ni siempre divertido. Pero aquí nadie desaparece: si faltas, te llamamos. Y aquí te empujamos a pensar una idea de negocio propia y a contarla en inglés.', big='Garantía por escrito: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.', big2='', fn='¹ MinCIT y Migración Colombia, enero a septiembre de 2025. ² DNP, <i>Bilingüismo laboral en Colombia</i>.',
         band='Grupos para equipos o programa individual. Becas con el nombre de tu hotel, restaurante o agencia, <b>sin costo para la empresa</b>. Escríbenos y agenda tu asesoría.',
         band_px=290),
     'MEDICOS_DIRECTIVOS_CORTA': dict(
