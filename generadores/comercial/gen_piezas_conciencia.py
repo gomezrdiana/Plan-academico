@@ -11,7 +11,7 @@ Salida (git): recursos/comercial/campanas/volantes/{publico}/PIEZA_*.png (digita
 hoteleria, recepcion, medicos, profesionales, ya_decidio, calle, manifiesto) + copia en la carpeta del gerente de alianzas / volantes.
 La hoja de asesoras (GENERAL_ASESORAS_FRENTE + un RESPALDO por codigo, con QR) solo se imprime: va unicamente a volantes/{publico}/imprenta/ con sangrado de 3 mm.
 ASESORAS_CORTA_QR = la corta de jovenes con QR, una por codigo, digital: la asesora la abre en su celular y el joven la escanea (sin imprenta).
-Uso: python generadores/comercial/gen_piezas_conciencia.py"""
+Uso: python generadores/comercial/gen_piezas_conciencia.py [PIEZA ...]  (sin argumentos: todas + carpeta codigos_qr; 'CODIGOS': solo la carpeta de QR y enlaces)"""
 import os, shutil, subprocess, pathlib, tempfile
 from urllib.parse import quote
 from PIL import Image
@@ -635,8 +635,41 @@ def limpiar_v2():
                     except OSError: print('SIGUE ABIERTA', orig)
 
 
+def exportar_codigos():
+    """Carpeta volantes/codigos_qr (repo + carpeta del gerente): un PNG por codigo con el QR y el codigo debajo, y la lista de enlaces
+    (ENLACES_CODIGOS.txt y .xlsx: codigo, WhatsApp al que abre, enlace). Sirve para pegar el QR en otro material o reenviar el enlace."""
+    from PIL import ImageDraw, ImageFont
+    try: fuente = ImageFont.truetype('C:/Windows/Fonts/Lato-Bold.ttf', 64); fuente2 = ImageFont.truetype('C:/Windows/Fonts/Lato-Regular.ttf', 28)
+    except OSError: fuente = fuente2 = ImageFont.load_default()
+    filas = []
+    for cod, num in _lineas_codigos():
+        enlace = 'https://wa.me/%s?text=%s' % (num, quote(QR_MENSAJE.format(codigo=cod)))
+        filas.append((cod, '+%s %s %s %s' % (num[:2], num[2:5], num[5:8], num[8:]), enlace))
+        q = Image.open(qr_png(cod)).convert('RGB').resize((640, 640), Image.NEAREST)
+        im = Image.new('RGB', (760, 860), 'white'); im.paste(q, (60, 50)); d = ImageDraw.Draw(im)
+        d.text((380, 735), cod, fill=(229, 76, 9), font=fuente, anchor='mm')
+        d.text((380, 805), 'Heiiu English Academy · código de asesora', fill=(107, 74, 51), font=fuente2, anchor='mm')
+        for base in (OUTDIR, COPIA):
+            dd = os.path.join(base, 'codigos_qr'); os.makedirs(lp(dd), exist_ok=True); im.save(lp(os.path.join(dd, 'QR_%s.png' % cod)))
+    NL = chr(10)
+    txt = 'CODIGOS DE ASESORA - QR Y ENLACES (Heiiu)' + NL + 'Cada codigo abre WhatsApp con el mensaje ya escrito; la asesora muestra su QR o reenvia su enlace. Sin codigo no hay beca.' + NL + NL
+    txt += NL.join('%s  |  WhatsApp %s' % (c, n) + NL + e + NL for c, n, e in filas)
+    import openpyxl
+    wb = openpyxl.Workbook(); ws = wb.active; ws.title = 'CODIGOS'; ws.append(['Codigo', 'WhatsApp al que abre', 'Enlace'])
+    for f in filas: ws.append(list(f))
+    ws.column_dimensions['A'].width = 10; ws.column_dimensions['B'].width = 22; ws.column_dimensions['C'].width = 120
+    for base in (OUTDIR, COPIA):
+        dd = os.path.join(base, 'codigos_qr')
+        open(lp(os.path.join(dd, 'ENLACES_CODIGOS.txt')), 'w', encoding='utf-8').write(txt)
+        try: wb.save(lp(os.path.join(dd, 'ENLACES_CODIGOS.xlsx')))
+        except OSError: print('ABIERTO:', os.path.join(dd, 'ENLACES_CODIGOS.xlsx'))
+    print('CODIGOS', len(filas), 'QR + enlaces en codigos_qr/')
+
+
 if __name__ == '__main__':
     import sys
     logo_transparente()
+    if sys.argv[1:] == ['CODIGOS']: exportar_codigos(); sys.exit()
     for k in (sys.argv[1:] or PIEZAS): render(k, PIEZAS[k])
     limpiar_v2()
+    if not sys.argv[1:]: exportar_codigos()
