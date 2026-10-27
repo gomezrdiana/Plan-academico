@@ -204,7 +204,7 @@ PIEZAS = {
         intro=('<b>Entrenamos conversaciones avanzadas en su área laboral.</b> Armamos el plan a su medida, para que la clase se enfoque en los temas de los que usted ya estaría hablando si hablara inglés: la junta, el congreso, el paciente o el cliente de afuera, '
                'la entrevista de la especialización. Usted fija los días y las horas cada semana. Antes de hablar de precios, le decimos cómo es:'),
         quote=('Nuestro objetivo es que salga hablando inglés en lo suyo. Esto es un entrenamiento, como prepararse para una maratón: desde el primer día habla, su profesor ve dónde puede mejorar y lo repetimos hasta que sale. '
-               'Por eso graba un audio corto cada día y su profesor se lo devuelve con una mejora. A cambio: <b>prueba de nivel al inicio y al final, y reporte mensual de su avance.</b> ¿Se le mide a ese ritmo?'),
+               'Entre una sesión y otra, un audio corto que su profesor le devuelve con una mejora; usted elige cuándo. A cambio: <b>prueba de nivel al inicio y al final, y reporte mensual de su avance.</b> ¿Se le mide?'),
         cite='GERENCIA · HEIIU ENGLISH ACADEMY',
         after='¿Suena exigente? Lo es, a propósito. <b>Con tres horas a la semana, el programa termina en unos ocho meses;</b> con más horas, antes. Usted decide el ritmo, no el calendario de un grupo.',
         st=[], lead='', big='', big2='',
@@ -295,7 +295,7 @@ PIEZAS = {
         h1='El paciente de afuera ya llegó. <em>¿Le paga la consulta a usted o al que sí habla inglés?</em>',
         st=[('<b>El 92% de los artículos de ciencias de la salud está en inglés.</b>¹ El congreso, el protocolo y la convocatoria llegan primero en ese idioma.'),
             ('<b>En 2025 llegaron a Colombia más extranjeros que nunca, y 1 de cada 5 viene de Estados Unidos.</b>² El paciente de afuera no trae intérprete: pregunta, entiende y decide en inglés.'),
-            ('<b>Entrenamos conversaciones avanzadas en su área laboral:</b> la junta, el congreso, el paciente o el cliente de afuera, la entrevista de la especialización. Plan a su medida, audio corto cada día que su profesor devuelve con una mejora, y reporte mensual de su avance.')],
+            ('<b>Entrenamos conversaciones avanzadas en su área laboral:</b> la junta, el congreso, el paciente o el cliente de afuera, la entrevista de la especialización. Plan a su medida y en su agenda, audios entre sesiones que su profesor devuelve con una mejora, y reporte mensual.')],
         lead='Sin inglés no se pierde un título. Se pierden conversaciones: el networking, los resultados que vale la pena contar, entender lo que otros quieren transmitir.',
         big='100 horas, uno a uno. No prometemos la admisión ni el ascenso: entrenamos la entrevista y la junta.',
         big2='Y si tiene una idea de negocio, la trabajamos con usted y la presenta en inglés.', fn='¹ Elsevier, con datos de PubMed. ² Ministerio de Comercio, Industria y Turismo y Migración Colombia, enero a septiembre de 2025.',
