@@ -204,13 +204,13 @@ PIEZAS = {
         intro=('<b>Entrenamos conversaciones avanzadas en su área laboral.</b> Armamos el plan a su medida, para que la clase se enfoque en los temas de los que usted ya estaría hablando si hablara inglés: la junta, el congreso, el paciente o el cliente de afuera, '
                'la entrevista de la especialización. Usted fija los días y las horas cada semana. Antes de hablar de precios, le decimos cómo es:'),
         quote=('Nuestro objetivo es que salga hablando inglés en lo suyo. Esto es un entrenamiento, como prepararse para una maratón: desde el primer día habla, su profesor ve dónde puede mejorar y lo repetimos hasta que sale. '
-               'Entre una sesión y otra, un audio corto que su profesor le devuelve con una mejora; usted elige cuándo. A cambio: <b>prueba de nivel al inicio y al final.</b> ¿Se le mide?'),
+               'Entre una sesión y otra, un audio corto que su profesor le devuelve con una mejora; usted elige cuándo. Empezamos con una prueba de nivel; <b>el avance lo va a notar usted en la junta, no en un papel.</b> ¿Se le mide?'),
         cite='GERENCIA · HEIIU ENGLISH ACADEMY',
         after='¿Suena exigente? Lo es, a propósito. <b>Las 100 horas tienen una fecha límite para usarlas; las que no use dentro de ella se pierden.</b> Hasta esa fecha usted decide el ritmo, no el calendario de un grupo: con tres horas a la semana termina en unos ocho meses; con más, antes.',
         st=[], lead='', big='', big2='',
         why=[('SOBRE SU TRABAJO', 'El contenido sale de su día: el caso que presenta, la junta del jueves, el correo que hay que contestar hoy. Nada de diálogos de libro.', False),
              ('PARA LA ESPECIALIZACIÓN', 'Entrevista de admisión, presentación de un caso, su historia profesional en un minuto. Se graba, se corrige y se repite hasta que suene seguro. <b>No prometemos la admisión: entrenamos la entrevista.</b>', False),
-             ('AVANCE MEDIDO', 'Prueba de nivel al inicio y al final, y cuenta clara de las horas usadas y las que le quedan. Lo que avanza no es una sensación: queda por escrito.', False),
+             ('AVANCE QUE SE NOTA', 'Prueba de nivel al inicio para armar el plan, y cuenta clara de las horas usadas y las que le quedan. El avance lo nota usted donde importa: en la conversación.', False),
              ('LO QUE NO HACEMOS', 'No prometemos el ascenso ni la visa. No usamos diálogos de libro ni horarios fijos que no caben en un turno. <b>Cupos limitados por disponibilidad de profesor.</b>', False)],
         band='Programa individual para médicos, profesionales y directivos. <b>Agende una asesoría de 15 minutos.</b>',
         band_px=290),
