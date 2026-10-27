@@ -9,6 +9,7 @@ sin nombres de competidores, sin "únicos", garantía por escrito. Contacto: lí
 alianzas reparte las piezas), nunca la línea principal.
 Salida (git): recursos/comercial/campanas/volantes/PIEZA_*.png (digitales) + copia en la carpeta del gerente de alianzas / volantes.
 La hoja de asesoras (GENERAL_ASESORAS_FRENTE + un RESPALDO por codigo, con QR) solo se imprime: va unicamente a volantes/imprenta/ con sangrado de 3 mm.
+ASESORAS_CORTA_QR = la corta de jovenes con QR, una por codigo, digital: la asesora la abre en su celular y el joven la escanea (sin imprenta).
 Uso: python generadores/comercial/gen_piezas_conciencia.py"""
 import os, shutil, subprocess, pathlib, tempfile
 from urllib.parse import quote
@@ -322,6 +323,18 @@ PIEZAS = {
         fn='¹ Pruebas Saber 11 de 2025, análisis de la Universidad Icesi. ² DNP, Archivos de Economía, <i>Bilingüismo laboral en Colombia</i>. ³ DANE, Gran Encuesta Integrada de Hogares, jóvenes de 15 a 28 años, septiembre a noviembre de 2025.',
         band='Escríbenos desde el enlace que te mandó tu asesora: <b>tu código ya va en el mensaje. Sin código no hay beca.</b>',
         tel='Escríbenos por el enlace de tu asesora', tel_small=True, band_px=290),
+    'ASESORAS_CORTA_QR': dict(   # digital con QR, una por codigo (decision de gerencia 27/10/2026): la asesora la abre en SU celular y el joven la escanea; reemplaza la hoja impresa mientras no haya imprenta
+        compact=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
+        h1='¿No sabes cuál es tu camino? <em>El inglés abre los mejores.</em>',
+        st=[('<b>De cada 8 jóvenes que terminan el colegio en Colombia, solo 1 sale con un inglés que le sirva.</b>¹ Los otros 7 lo tienen pendiente de adultos.'),
+            ('<b>Quien certifica su inglés gana cerca de un 26% más.</b>² ¿Por qué? Porque abarca más: más vacantes a las que aplicar, más clientes a los que vender, más países a los que ir.'),
+            ('<b>1 de cada 5 jóvenes en Colombia ni estudia ni trabaja.</b>³ No es falta de capacidad: con inglés y disciplina ese mismo joven puede trabajar remoto, vender afuera, estudiar becado o montar algo propio.'),
+            ('<b>Vender inglés es fácil; lo difícil es que aprendas.</b> Por eso aquí entrenas como para una maratón: hablas desde el primer día, grabas un video corto cada día, y si faltas te llamamos.')],
+        lead='Alguien ya apostó por ti: por tu entidad aliada tienes una beca con su nombre. Y aquí te empujamos a pensar una idea de negocio propia y a contarla en inglés.',
+        big='Garantía por escrito: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.', big2='',
+        fn='¹ Pruebas Saber 11 de 2025, análisis de la Universidad Icesi. ² DNP, Archivos de Economía, <i>Bilingüismo laboral en Colombia</i>. ³ DANE, Gran Encuesta Integrada de Hogares, jóvenes de 15 a 28 años, septiembre a noviembre de 2025.',
+        band='<b>Alguien ya apostó por ti:</b> por tu entidad aliada tienes beca. Escanea este código en el celular de tu asesora: <b>el mensaje sale listo. Sin código no hay beca.</b>',
+        por_codigo=True, band_px=290),
     # ---------------- PADRES (la asesora de la entidad aliada le habla al papa del que sale del colegio o del que aun no arranca) ----------------
     'PADRES_FRENTE': dict(   # misma tesis que la de empresas, volteada al papa: le devolvemos un mejor hijo; solo imprenta (10x15), de usted
         compact=True, imprenta=True, label='PARA PADRES', sub='DEL QUE SALE DEL COLEGIO · DEL QUE AÚN NO ARRANCA',
