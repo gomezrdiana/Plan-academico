@@ -245,7 +245,7 @@ PIEZAS = {
         band_px=290),
     'DECIDIDO_FRENTE': dict(   # para el que YA decidio aprender ingles y esta escogiendo donde (decision de gerencia 27/10/2026); trato de tu
         compact=True, label='PARA EL QUE YA DECIDIÓ', sub='APRENDER INGLÉS ESTE AÑO',
-        h1='Ya decidiste aprender inglés. <em>¿Vas a pagar donde te lo prometen o donde te lo firman?</em>',
+        h1='Ya decidiste aprender inglés. <em>¿Vas a pagar donde te lo prometen o donde te lo garantizan?*</em>',
         st=[('<b>De cada 100 personas que bajan una app de inglés, 88 la dejan antes del mes.</b>¹ No es falta de ganas: es que nadie aprende un idioma solo.'),
             ('<b>Quien certifica su inglés gana cerca de un 26% más.</b>² La diferencia no la hace empezar: la hace terminar con un nivel que se pueda demostrar.'),
             ('<b>Aquí hablas desde el primer día,</b> grabas un video corto cada día y tu profesor te lo devuelve con una mejora. Si faltas, te llamamos ese mismo día.'),
@@ -253,7 +253,7 @@ PIEZAS = {
         lead='Ya tomaste la decisión difícil. Escoger dónde se decide con una sola pregunta: ¿quién responde si no aprendes?',
         big='Garantía por escrito: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.',
         big2='',
-        fn='¹ Retención a 30 días de la app de idiomas más descargada, estadísticas públicas 2026. ² DNP, <i>Bilingüismo laboral en Colombia</i>.',
+        fn='* Garantía por escrito, anexo al contrato de matrícula; aplican términos y condiciones. ¹ Retención a 30 días de la app de idiomas más descargada, estadísticas públicas 2026. ² DNP, <i>Bilingüismo laboral en Colombia</i>.',
         band='Dale la vuelta a la hoja: así entrenamos en Heiiu y <b>por qué podemos firmarlo</b>.',
         band_px=250),
     'DECIDIDO_RESPALDO': dict(
@@ -374,13 +374,13 @@ PIEZAS = {
         band_px=290),
     'DECIDIDO_CORTA': dict(
         compact=True, label='PARA EL QUE YA DECIDIÓ', sub='APRENDER INGLÉS ESTE AÑO',
-        h1='Ya decidiste aprender inglés. <em>¿Vas a pagar donde te lo prometen o donde te lo firman?</em>',
+        h1='Ya decidiste aprender inglés. <em>¿Vas a pagar donde te lo prometen o donde te lo garantizan?*</em>',
         st=[('<b>De cada 100 personas que bajan una app de inglés, 88 la dejan antes del mes.</b>¹ No es falta de ganas: es que nadie aprende un idioma solo.'),
             ('<b>Quien certifica su inglés gana cerca de un 26% más.</b>² La diferencia no la hace empezar: la hace terminar con un nivel que se pueda demostrar.'),
             ('<b>Aquí hablas desde el primer día,</b> grabas un video corto cada día y tu profesor te lo devuelve con una mejora. Si faltas, te llamamos. El final del nivel lo aplica un evaluador externo.')],
         lead='Ya tomaste la decisión difícil. Escoger dónde se decide con una sola pregunta: ¿quién responde si no aprendes?',
         big='Garantía por escrito: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.',
-        big2='', fn='¹ Retención a 30 días de la app de idiomas más descargada, estadísticas públicas 2026. ² DNP, <i>Bilingüismo laboral en Colombia</i>.',
+        big2='', fn='* Garantía por escrito, anexo al contrato de matrícula; aplican términos y condiciones. ¹ Retención a 30 días de la app de idiomas más descargada, estadísticas públicas 2026. ² DNP, <i>Bilingüismo laboral en Colombia</i>.',
         band='Grupos de máximo 16. <b>Escríbenos y agenda tu asesoría:</b> te decimos cómo es antes de hablar de precios.',
         band_px=290),
     'RECEPCION_CORTA': dict(
