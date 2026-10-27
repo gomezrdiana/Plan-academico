@@ -7,8 +7,9 @@ Se escriben en HTML/CSS (Constantia + Segoe UI + Bahnschrift, fuentes del sistem
 Microsoft Edge sin ventana. Reglas: sin precio, sin modalidad ni horarios, sin "fácil/rápido", sin empleo/visa/nativos,
 sin nombres de competidores, sin "únicos", garantía por escrito. Contacto: línea de alianzas 316 768 8793 (el gerente de
 alianzas reparte las piezas), nunca la línea principal.
-Salida (git): recursos/comercial/campanas/volantes/PIEZA_*.png (digitales) + copia en la carpeta del gerente de alianzas / volantes.
-La hoja de asesoras (GENERAL_ASESORAS_FRENTE + un RESPALDO por codigo, con QR) solo se imprime: va unicamente a volantes/imprenta/ con sangrado de 3 mm.
+Salida (git): recursos/comercial/campanas/volantes/{publico}/PIEZA_*.png (digitales; una subcarpeta por publico: jovenes, padres, empresas,
+hoteleria, recepcion, medicos, profesionales, ya_decidio, calle, manifiesto) + copia en la carpeta del gerente de alianzas / volantes.
+La hoja de asesoras (GENERAL_ASESORAS_FRENTE + un RESPALDO por codigo, con QR) solo se imprime: va unicamente a volantes/{publico}/imprenta/ con sangrado de 3 mm.
 ASESORAS_CORTA_QR = la corta de jovenes con QR, una por codigo, digital: la asesora la abre en su celular y el joven la escanea (sin imprenta).
 Uso: python generadores/comercial/gen_piezas_conciencia.py"""
 import os, shutil, subprocess, pathlib, tempfile
@@ -548,6 +549,17 @@ def html(c):
                                        (' qr' if c.get('qr') else '') + (' tels' if c.get('tel_small') else ''), c['band'], derecha, tel, IG)
 
 
+CARPETAS = (('GENERAL_ASESORAS', 'jovenes'), ('ASESORAS', 'jovenes'), ('PADRES', 'padres'), ('EMPRESAS', 'empresas'), ('HOTELERIA', 'hoteleria'),
+            ('RECEPCION', 'recepcion'), ('MEDICOS', 'medicos'), ('PROFESIONALES', 'profesionales'), ('DECIDIDO', 'ya_decidio'), ('CALLE', 'calle'), ('MANIFIESTO', 'manifiesto'))
+
+
+def carpeta(nombre):
+    """Subcarpeta por publico (decision de gerencia 27/10/2026): volantes/{jovenes,padres,empresas,...}/PIEZA_*.png, y su imprenta/ adentro."""
+    for pref, c in CARPETAS:
+        if nombre.startswith(pref): return c
+    return 'otros'
+
+
 def render(nombre, c):
     if c.get('por_codigo') and not c.get('qr'):
         for cod in codigos(): render('%s_%s' % (nombre, cod), dict(c, qr=cod, por_codigo=False))
@@ -561,16 +573,23 @@ def render(nombre, c):
     assert os.path.exists(png), 'Edge no generó ' + png
     if nombre.startswith('GENERAL_ASESORAS') or c.get('imprenta'):   # hojas que solo se imprimen: van unicamente a imprenta/, con sangrado
         sangrado(nombre, png); return
-    out = os.path.join(OUTDIR, 'PIEZA_%s.png' % nombre)
-    os.makedirs(OUTDIR, exist_ok=True); os.makedirs(COPIA, exist_ok=True)
-    for p in (out, os.path.join(COPIA, os.path.basename(out))):
-        try: shutil.copy(png, p); print('OK', p)
-        except OSError: p2 = p.replace('.png', '_v2.png'); shutil.copy(png, p2); print('ABIERTA ->', p2)   # abierta en el visor: PermissionError o errno 22
+    out = os.path.join(OUTDIR, carpeta(nombre), 'PIEZA_%s.png' % nombre)
+    os.makedirs(lp(os.path.dirname(out)), exist_ok=True); os.makedirs(lp(os.path.join(COPIA, carpeta(nombre))), exist_ok=True)
+    for p in (out, os.path.join(COPIA, carpeta(nombre), os.path.basename(out))):
+        try: shutil.copy(png, lp(p)); print('OK', p)
+        except OSError: p2 = p.replace('.png', '_v2.png'); shutil.copy(png, lp(p2)); print('ABIERTA ->', p2)   # abierta en el visor: PermissionError o errno 22
+
+
+def lp(path):
+    """Ruta larga de Windows (la carpeta del gerente supera los 260 caracteres con las hojas de imprenta)."""
+    path = os.path.abspath(path)
+    pref = chr(92) * 2 + '?' + chr(92)
+    return path if path.startswith(pref) else pref + path
 
 
 def sangrado(nombre, src, mm=3, ppp=274):
     """Version para imprenta 10x15: extiende los bordes `mm` milimetros replicando el borde (sangrado para el corte).
-    1080 px / 10 cm = 274 ppp -> 3 mm = 32 px por lado. Salida: volantes/imprenta/PIEZA_{nombre}_IMPRENTA_10x15_sangrado3mm.png (git + carpeta del gerente)."""
+    1080 px / 10 cm = 274 ppp -> 3 mm = 32 px por lado. Salida: volantes/{publico}/imprenta/PIEZA_{nombre}_10x15_s3mm.png (git + carpeta del gerente; nombre corto por el limite de ruta de Windows)."""
     im = Image.open(src).convert('RGB')
     b = round(mm / 25.4 * ppp); w, h = im.size
     out = Image.new('RGB', (w + 2 * b, h + 2 * b)); out.paste(im, (b, b))
@@ -578,8 +597,8 @@ def sangrado(nombre, src, mm=3, ppp=274):
     out.paste(im.crop((0, 0, 1, h)).resize((b, h)), (0, b)); out.paste(im.crop((w - 1, 0, w, h)).resize((b, h)), (w + b, b))
     for (x, y, px, py) in ((0, 0, 0, 0), (w + b, 0, w - 1, 0), (0, h + b, 0, h - 1), (w + b, h + b, w - 1, h - 1)):
         out.paste(Image.new('RGB', (b, b), im.getpixel((px, py))), (x, y))
-    for d in (os.path.join(OUTDIR, 'imprenta'), os.path.join(COPIA, 'imprenta')):
-        os.makedirs(d, exist_ok=True); p = os.path.join(d, 'PIEZA_%s_IMPRENTA_10x15_sangrado3mm.png' % nombre); out.save(p, dpi=(ppp, ppp)); print('IMPRENTA', p)
+    for d in (os.path.join(OUTDIR, carpeta(nombre), 'imprenta'), os.path.join(COPIA, carpeta(nombre), 'imprenta')):
+        os.makedirs(lp(d), exist_ok=True); p = os.path.join(d, 'PIEZA_%s_10x15_s3mm.png' % nombre); out.save(lp(p), dpi=(ppp, ppp)); print('IMPRENTA', p)
 
 
 if __name__ == '__main__':
