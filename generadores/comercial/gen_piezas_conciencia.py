@@ -139,7 +139,7 @@ PIEZAS = {
         big='De cada 100 personas que bajan una app de inglés, 88 la dejan antes del mes.³',
         big2='Un idioma se entrena en equipo, con gente que no busca excusas ni culpables: busca lograr el objetivo.',
         fn='¹ Pruebas Saber 11 de 2025, análisis del Observatorio de Realidades Educativas de la Universidad Icesi. ² DNP, Archivos de Economía, <i>Bilingüismo laboral en Colombia</i>. ³ Retención a 30 días de la app de idiomas más descargada, estadísticas públicas 2026.',
-        band='Dale la vuelta a la hoja: así entrenamos en Heiiu, <b>la beca que tienes por tu entidad aliada</b> y el código para escribirnos.',
+        band='Dale la vuelta a la hoja: así entrenamos en Heiiu, <b>la beca a la que aplicas con el código de tu asesora</b> y cómo escribirnos.',
         tel='Cómo escribirnos: <b>al respaldo</b>', band_px=250),
     'GENERAL_ASESORAS_RESPALDO': dict(   # cara 2: el Pacto con las palabras de gerencia (texto vigente 15/10/2026), por que Heiiu, beca y como escribir
         compact=True, theme='light', label='ASÍ ES HEIIU', sub='LEE ESTO ANTES DE DECIDIR',
@@ -157,7 +157,7 @@ PIEZAS = {
              ('SE NOTA, Y SE PUEDE MOSTRAR', 'Te grabamos el primer día y el último del nivel. Pon los dos videos juntos y no vas a necesitar que nadie te diga que avanzaste. <b>En casa tampoco tendrán que creerte: lo oyen.</b>', False),
              ('PUERTAS AFUERA, PERO SEGURAS', 'Cuando veas a dónde te puede llevar tu inglés, te contactamos con operadores verificados de programas en el exterior: au pair, trabajo de temporada, campamentos. Solo puertas seguras.', False),
              ('LA CONTRASEÑA', 'Los médicos se reconocen por el amor a aprender. Aquí la contraseña es otra y con ella entra cualquiera: <b>el amor por salir adelante</b>. Sin excusas, con dolor y con la meta al frente. Así, estás entre los tuyos.', False)],
-        band='<b>Alguien ya apostó por ti:</b> por tu entidad aliada tienes beca. Escanea el código de tu asesora: el mensaje ya sale listo con su código. <b>Sin código no hay beca.</b>',
+        band='Escanea el código de tu asesora: el mensaje ya sale listo con su código. <b>Con él aplicas a la beca; sin código no hay beca.</b>',
         por_codigo=True, band_px=290),
     # ---------------- INDUSTRIAS (frente oscuro + respaldo claro, 10x15 a doble cara; las reparte el gerente de alianzas) ----------------
     'HOTELERIA_FRENTE': dict(
@@ -400,7 +400,7 @@ PIEZAS = {
             ('<b>Quien certifica su inglés gana cerca de un 26% más.</b>² ¿Por qué? Porque abarca más: más vacantes a las que aplicar, más clientes a los que vender, más países a los que ir.'),
             ('<b>1 de cada 5 jóvenes en Colombia ni estudia ni trabaja.</b>³ No es falta de capacidad: con inglés y disciplina ese mismo joven puede trabajar remoto, vender afuera, estudiar becado o montar algo propio.'),
             ('<b>Hay muchas academias de inglés. Esta te firma el resultado por escrito.</b> Hablas desde el primer día, grabas un video corto cada día, y si faltas te llamamos.')],
-        lead='Alguien ya apostó por ti: por tu entidad aliada tienes una beca con su nombre, y tu proyecto lo trabajamos contigo en inglés.',
+        lead='Con el código de tu asesora puedes aplicar a una beca, y tu proyecto lo trabajamos contigo en inglés.',
         big='Garantía por escrito: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.', big2='',
         fn='¹ Saber 11 de 2025, análisis de la Universidad Icesi. ² DNP, <i>Bilingüismo laboral en Colombia</i>. ³ DANE, GEIH 2025, 15 a 28 años.',
         band='Escríbenos desde el enlace que te mandó tu asesora: <b>tu código ya va en el mensaje. Sin código no hay beca.</b>',
@@ -412,10 +412,10 @@ PIEZAS = {
             ('<b>Quien certifica su inglés gana cerca de un 26% más.</b>² ¿Por qué? Porque abarca más: más vacantes a las que aplicar, más clientes a los que vender, más países a los que ir.'),
             ('<b>1 de cada 5 jóvenes en Colombia ni estudia ni trabaja.</b>³ No es falta de capacidad: con inglés y disciplina ese mismo joven puede trabajar remoto, vender afuera, estudiar becado o montar algo propio.'),
             ('<b>Hay muchas academias de inglés. Esta te firma el resultado por escrito.</b> Hablas desde el primer día, grabas un video corto cada día, y si faltas te llamamos.')],
-        lead='Alguien ya apostó por ti: por tu entidad aliada tienes una beca con su nombre, y tu proyecto lo trabajamos contigo en inglés.',
+        lead='Con el código de tu asesora puedes aplicar a una beca, y tu proyecto lo trabajamos contigo en inglés.',
         big='Garantía por escrito: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.', big2='',
         fn='¹ Saber 11 de 2025, análisis de la Universidad Icesi. ² DNP, <i>Bilingüismo laboral en Colombia</i>. ³ DANE, GEIH 2025, 15 a 28 años.',
-        band='<b>Alguien ya apostó por ti:</b> por tu entidad aliada tienes beca. Escanea este código en el celular de tu asesora: <b>el mensaje sale listo. Sin código no hay beca.</b>',
+        band='Escanea este código en el celular de tu asesora: el mensaje sale listo. <b>Con su código aplicas a la beca; sin código no hay beca.</b>',
         por_codigo=True, band_px=290),
     # ---------------- PADRES (la asesora de la entidad aliada le habla al papa del que sale del colegio o del que aun no arranca) ----------------
     'PADRES_FRENTE': dict(   # misma tesis que la de empresas, volteada al papa: le devolvemos un mejor hijo; solo imprenta (10x15), de usted
@@ -428,7 +428,7 @@ PIEZAS = {
         lead='Y lo empujamos a pensar una idea de negocio propia y a contarla en inglés.',
         big='Garantía por escrito: si cumple su parte y no avanza, le devolvemos el 100% del nivel.',
         big2='', fn='¹ DANE, Gran Encuesta Integrada de Hogares, jóvenes de 15 a 28 años, septiembre a noviembre de 2025. ² Pruebas Saber 11 de 2025, análisis del Observatorio de Realidades Educativas de la Universidad Icesi.',
-        band='Dele la vuelta a la hoja: cómo entrenamos y <b>la beca que tiene por su entidad aliada</b>.',
+        band='Dele la vuelta a la hoja: cómo entrenamos y <b>la beca a la que su hijo aplica con el código de su asesora</b>.',
         tel='Cómo escribirnos: <b>al respaldo</b>', band_px=250),
     'PADRES_RESPALDO': dict(   # un respaldo por codigo de asesora, con su QR; solo imprenta
         compact=True, imprenta=True, theme='light', label='ASÍ ES HEIIU', sub='LEA ESTO ANTES DE DECIDIR',
@@ -446,7 +446,7 @@ PIEZAS = {
              ('SE NOTA, Y SE PUEDE MOSTRAR', 'Lo grabamos el primer día y el último del nivel. Ponga los dos videos juntos: <b>no va a necesitar que nadie le diga que avanzó.</b>', False),
              ('PUERTAS AFUERA, PERO SEGURAS', 'Cuando su inglés dé, lo conectamos con operadores verificados de programas en el exterior: au pair, campamentos, trabajo de temporada. Solo puertas seguras.', False),
              ('LA CONTRASEÑA', 'Aquí entra cualquiera que traiga una sola cosa: <b>el amor por salir adelante</b>. Sin excusas, con la meta al frente, rodeado de gente que quiere lo mismo.', False)],
-        band='<b>Alguien ya apostó por su hijo:</b> por su entidad aliada tiene beca. Escanee el código de su asesora: el mensaje sale listo con su código. <b>Sin código no hay beca.</b>',
+        band='Escanee el código de su asesora: el mensaje sale listo con su código. <b>Con él su hijo aplica a la beca; sin código no hay beca.</b>',
         tel_qr='Escanee el código de su asesora: <b>%s</b>', por_codigo=True, band_px=290),
     'PADRES_CORTA': dict(   # digital, la reenvia la asesora con SU enlace; sin numero
         compact=True, label='PARA PADRES', sub='DEL QUE SALE DEL COLEGIO · DEL QUE AÚN NO ARRANCA',
@@ -455,7 +455,7 @@ PIEZAS = {
             ('<b>Si acaba de salir del colegio, no se apresure a elegir universidad.</b> Un año aprendiendo inglés con disciplina no se pierde: abre la beca, el intercambio y la carrera que sí es.'),
             ('<b>Lo que medimos es lo que usted quiere ver en casa:</b> llegar a tiempo, cumplir la tarea diaria, no rendirse, ir por una meta con fecha. Y usted recibe el reporte.'),
             ('<b>Si falta, lo llamamos ese mismo día</b> y usted también se entera. Lo grabamos el primer día y el último del nivel: el avance se oye.')],
-        lead='Alguien ya apostó por su hijo: por su entidad aliada tiene beca. Y lo empujamos a pensar una idea de negocio propia y a contarla en inglés.',
+        lead='Con el código de su asesora, su hijo puede aplicar a una beca. Y lo empujamos a pensar una idea de negocio propia y a contarla en inglés.',
         big='Garantía por escrito: si cumple su parte y no avanza, le devolvemos el 100% del nivel.',
         big2='', fn='¹ DANE, Gran Encuesta Integrada de Hogares, jóvenes de 15 a 28 años, septiembre a noviembre de 2025. ² Pruebas Saber 11 de 2025, análisis del Observatorio de Realidades Educativas de la Universidad Icesi.',
         band='Escríbanos desde el enlace que le mandó su asesora: <b>el código ya va en el mensaje. Sin código no hay beca.</b>',
