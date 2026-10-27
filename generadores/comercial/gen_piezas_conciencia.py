@@ -612,7 +612,19 @@ def sangrado(nombre, src, mm=3, ppp=274):
         os.makedirs(lp(d), exist_ok=True); p = os.path.join(d, 'PIEZA_%s_10x15_s3mm.png' % nombre); out.save(lp(p), dpi=(ppp, ppp)); print('IMPRENTA', p)
 
 
+def limpiar_v2():
+    """Si una pieza estaba abierta en el visor al regenerar, quedo una copia _v2; al terminar se reintenta sobre la original y se borra la copia."""
+    for base in (OUTDIR, COPIA):
+        for root, _, files in os.walk(base):
+            for f in files:
+                if f.endswith('_v2.png'):
+                    v2 = os.path.join(root, f); orig = os.path.join(root, f[:-7] + '.png')
+                    try: shutil.copy(lp(v2), lp(orig)); os.remove(lp(v2)); print('LIMPIA', orig)
+                    except OSError: print('SIGUE ABIERTA', orig)
+
+
 if __name__ == '__main__':
     import sys
     logo_transparente()
     for k in (sys.argv[1:] or PIEZAS): render(k, PIEZAS[k])
+    limpiar_v2()
