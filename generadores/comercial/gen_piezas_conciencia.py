@@ -516,7 +516,7 @@ PIEZAS = {
         qr='CALLE-C', tel_qr='<small>Escríbenos</small>' + LINEA, band_px=300),
     'CALLE_D': dict(
         calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
-        h1='Las mejores vacantes piden inglés. <em>¿Sigues aplicando a las otras?</em>',
+        h1='Las mejores opciones piden inglés. <em>¿Sigues aplicando a las otras?</em>',
         xl=True, h1px=96, st=[('Hablas desde el primer día, con un coach que no te deja rendirte.'), ('Tu meta como proyecto en inglés: entrevista, viaje, negocio propio.')],
         lead='Lo firmamos: si cumples y no avanzas en inglés, <b>te devolvemos el 100% del nivel.</b>', big='', big2='',
         band='Grupos y programa individual, en Bucaramanga. <b>Escanea o escríbenos y agenda tu asesoría.</b>',
