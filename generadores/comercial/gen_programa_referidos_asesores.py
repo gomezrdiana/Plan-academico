@@ -98,7 +98,7 @@ tabla(['Pendiente', 'Responsable'], [
  ('Excel de registro en Google Drive, compartido con gerencia y coordinación.', 'Gerente de alianzas'),
  ('Concepto de la contadora: registro del gasto, retención si aplica, soporte de cada recarga.', 'Gerencia'),
  ('Autorización firmada del descuento de la mitad de cada bono ($100.000 contado, $25.000 cuotas) en la comisión del gerente de alianzas.', 'Gerente de alianzas y gerencia'),
- ('Los códigos y sus QR ya existen (C-01 a C-10). Cada código se asigna a una asesora al inscribirla en la hoja ASESORAS del Excel, con su autorización de datos firmada; recibe su QR impreso y por WhatsApp.', 'Gerente de alianzas'),
+ ('Los códigos y sus QR ya existen (C-01 a C-20). Cada código se asigna a una asesora al inscribirla en la hoja ASESORAS del Excel, con su autorización de datos firmada; recibe su QR impreso y por WhatsApp.', 'Gerente de alianzas'),
  ('Aval de la dirección de cada oficina donde se presente el programa, antes de la primera asesora.', 'Gerente de alianzas'),
 ], [14.2, 4.8])
 

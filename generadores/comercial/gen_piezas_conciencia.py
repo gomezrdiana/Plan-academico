@@ -29,13 +29,25 @@ QR_LINEA = '573167688793'; QR_MENSAJE = 'Hola, quiero información para estudiar
 CODIGOS_TXT = os.path.join(ROOT, r'recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\LINKEDIN DIANA GOMEZ\Candidatos\John Hinestroza\plan referidos\codigos_asesoras.txt')
 
 
-def codigos():
-    if os.path.exists(CODIGOS_TXT): return [l.strip() for l in open(CODIGOS_TXT, encoding='utf-8') if l.strip() and not l.startswith('#')]
-    return ['C-%02d' % i for i in range(1, 11)]
+def _lineas_codigos():
+    """Lee codigos_asesoras.txt: 'C-07' o 'C-11 573177173641' (codigo y, opcional, el WhatsApp al que abre su QR)."""
+    if not os.path.exists(CODIGOS_TXT): return [('C-%02d' % i, QR_LINEA) for i in range(1, 21)]
+    out = []
+    for l in open(CODIGOS_TXT, encoding='utf-8'):
+        l = l.strip()
+        if not l or l.startswith('#'): continue
+        partes = l.split(); out.append((partes[0], partes[1] if len(partes) > 1 else QR_LINEA))
+    return out
+
+
+def codigos(): return [c for c, _ in _lineas_codigos()]
+
+
+def linea_de(codigo): return dict(_lineas_codigos()).get(codigo, QR_LINEA)
 
 
 def qr_png(codigo):
-    enlace = 'https://wa.me/%s?text=%s' % (QR_LINEA, quote(QR_MENSAJE.format(codigo=codigo)))
+    enlace = 'https://wa.me/%s?text=%s' % (linea_de(codigo), quote(QR_MENSAJE.format(codigo=codigo)))
     q = qrcode.QRCode(error_correction=qrcode.constants.ERROR_CORRECT_L, box_size=10, border=1); q.add_data(enlace); q.make(fit=True)
     out = os.path.join(WORK, 'qr_%s.png' % codigo); q.make_image(fill_color=(28, 23, 20), back_color='white').save(out); return out
 W, H = 1080, 1620
