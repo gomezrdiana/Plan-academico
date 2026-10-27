@@ -130,7 +130,7 @@ PIEZAS = {
         band_px=340),
     'GENERAL_ASESORAS_FRENTE': dict(   # hoja que la asesora de la entidad aliada entrega o reenvia; cara 1: conciencia con cifras verificadas (fuentes al pie)
         compact=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
-        h1='¿Dudas qué camino tomar? <em>Aquí alguien cree en ti y te ayuda a sacar tu proyecto adelante.</em>',
+        h1='¿Otro año sin plata y sin rumbo? <em>Aquí alguien cree en ti y empuja tu proyecto.</em>',
         st=[('<b>Ya ni la universidad asegura nada.</b> Hay carreras que cambian antes de terminarlas y títulos que las empresas ya no piden. <b>El que habla inglés abarca más</b>: más vacantes, más clientes, más países, y una idea de negocio propia que aquí te empujamos a pensar.'),
             ('<b>De cada 8 jóvenes que terminan el colegio en Colombia, solo 1 sale con un inglés que le sirva</b> para estudiar o trabajar. Los otros 7 lo tienen pendiente de adultos.¹'),
             ('<b>Quien certifica su inglés gana cerca de un 26% más</b> que quien hace el mismo trabajo sin él.²'),
@@ -353,7 +353,7 @@ PIEZAS = {
         band_px=290),
     'ASESORAS_CORTA': dict(   # digital, la reenvia la asesora de la entidad aliada junto con SU enlace; por eso no lleva numero
         compact=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
-        h1='¿Dudas qué camino tomar? <em>Aquí alguien cree en ti y te ayuda a sacar tu proyecto adelante.</em>',
+        h1='¿Otro año sin plata y sin rumbo? <em>Aquí alguien cree en ti y empuja tu proyecto.</em>',
         st=[('<b>De cada 8 jóvenes que terminan el colegio en Colombia, solo 1 sale con un inglés que le sirva.</b>¹ Los otros 7 lo tienen pendiente de adultos.'),
             ('<b>Quien certifica su inglés gana cerca de un 26% más.</b>² ¿Por qué? Porque abarca más: más vacantes a las que aplicar, más clientes a los que vender, más países a los que ir.'),
             ('<b>1 de cada 5 jóvenes en Colombia ni estudia ni trabaja.</b>³ No es falta de capacidad: con inglés y disciplina ese mismo joven puede trabajar remoto, vender afuera, estudiar becado o montar algo propio.'),
@@ -365,7 +365,7 @@ PIEZAS = {
         tel='Escríbenos por el enlace de tu asesora', tel_small=True, band_px=290),
     'ASESORAS_CORTA_QR': dict(   # digital con QR, una por codigo (decision de gerencia 27/10/2026): la asesora la abre en SU celular y el joven la escanea; reemplaza la hoja impresa mientras no haya imprenta
         compact=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
-        h1='¿Dudas qué camino tomar? <em>Aquí alguien cree en ti y te ayuda a sacar tu proyecto adelante.</em>',
+        h1='¿Otro año sin plata y sin rumbo? <em>Aquí alguien cree en ti y empuja tu proyecto.</em>',
         st=[('<b>De cada 8 jóvenes que terminan el colegio en Colombia, solo 1 sale con un inglés que le sirva.</b>¹ Los otros 7 lo tienen pendiente de adultos.'),
             ('<b>Quien certifica su inglés gana cerca de un 26% más.</b>² ¿Por qué? Porque abarca más: más vacantes a las que aplicar, más clientes a los que vender, más países a los que ir.'),
             ('<b>1 de cada 5 jóvenes en Colombia ni estudia ni trabaja.</b>³ No es falta de capacidad: con inglés y disciplina ese mismo joven puede trabajar remoto, vender afuera, estudiar becado o montar algo propio.'),
