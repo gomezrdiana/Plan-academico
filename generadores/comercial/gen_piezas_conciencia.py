@@ -507,9 +507,23 @@ PIEZAS = {
         lead='Y lo firmamos: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.', big='', big2='',
         band='Grupos y programa individual, en Bucaramanga. <b>Escanea o escríbenos y agenda tu asesoría.</b>',
         qr='CALLE-B', tel_qr='<small>Escríbenos</small>' + LINEA, band_px=300),
+    'CALLE_C': dict(   # calle, version agresiva y corta (decision de gerencia 27/10/2026): una idea, dos lineas, garantia, QR
+        calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
+        h1='¿Otro año sin inglés? <em>Otro año ganando lo mismo.</em>',
+        xl=True, st=[('Quien certifica su inglés gana cerca de un 26% más.¹'), ('Aquí hablas desde el primer día, con un coach que no te deja rendirte. Si faltas, te llamamos.')],
+        lead='Y lo firmamos: si cumples tu parte y no avanzas, <b>te devolvemos el 100% del nivel.</b>', big='', big2='', fn='¹ DNP, <i>Bilingüismo laboral en Colombia</i>.',
+        band='Grupos y programa individual, en Bucaramanga. <b>Escanea o escríbenos y agenda tu asesoría.</b>',
+        qr='CALLE-C', tel_qr='<small>Escríbenos</small>' + LINEA, band_px=300),
+    'CALLE_D': dict(
+        calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
+        h1='Las mejores vacantes piden inglés. <em>¿Sigues aplicando a las otras?</em>',
+        xl=True, st=[('Aquí hablas desde el primer día, con un coach que no te deja rendirte.'), ('Si faltas, te llamamos.')],
+        lead='Y lo firmamos: si cumples tu parte y no avanzas, <b>te devolvemos el 100% del nivel.</b>', big='', big2='',
+        band='Grupos y programa individual, en Bucaramanga. <b>Escanea o escríbenos y agenda tu asesoría.</b>',
+        qr='CALLE-D', tel_qr='<small>Escríbenos</small>' + LINEA, band_px=300),
 }
 # Juego de calle de la academia (decision de gerencia 27/10/2026): mismas piezas A y B con la linea de la academia (317 717 3641); el de John va a la linea de alianzas.
-for _k, _cod in (('CALLE_A', 'CALLE-A'), ('CALLE_B', 'CALLE-B')):
+for _k, _cod in (('CALLE_A', 'CALLE-A'), ('CALLE_B', 'CALLE-B'), ('CALLE_C', 'CALLE-C'), ('CALLE_D', 'CALLE-D')):
     PIEZAS[_k + '_ACADEMIA'] = dict(PIEZAS[_k], qr=_cod, qr_linea=QR_LINEA_ACADEMIA, tel_qr='<small>Escríbenos</small>' + LINEA_ACADEMIA)
 
 
@@ -537,6 +551,15 @@ ol.st p { font-size: 36px; line-height: 1.22; color: #FFF8E7; font-weight: 400 }
 .pivot { padding-top: 30px } .pivot .lead { font-size: 38px; line-height: 1.25 }
 .band p { font-size: 30px; line-height: 1.3 }
 .cta .tel { font-size: 56px } .cta .tel small { font-size: 26px }
+"""
+
+CALLE_XL = """
+h1 { font-size: 112px; line-height: 1.04 }
+.rule { margin: 44px 0 30px 0 }
+ol.st li { padding: 30px 0 26px 0; grid-template-columns: 80px 1fr }
+ol.st .n { font-size: 32px; padding-top: 12px }
+ol.st p { font-size: 46px; line-height: 1.24 }
+.pivot { padding-top: 48px } .pivot .lead { font-size: 50px; line-height: 1.22 }
 """
 
 COMPACT = """
@@ -576,7 +599,7 @@ def html(c):
             '%s<div class="pivot"><p class="lead">%s</p><p class="big">%s</p>%s</div>%s%s</div>'
             '<div class="band%s"><p>%s</p>%s'
             '<div class="cta"><div class="tel">%s</div><div class="ig">%s<b>Bucaramanga</b></div></div></div>'
-            '</div></body></html>') % (CSS % dict(W=W, H=c.get('H', H), BAND=c['band_px']), COMPACT if c.get('compact') else '', LIGHT if c.get('theme') == 'light' else '', CALLE if c.get('calle') else '', c['label'], c['sub'], c['h1'], quote, st, c['lead'], c['big'], big2, why, fn,
+            '</div></body></html>') % (CSS % dict(W=W, H=c.get('H', H), BAND=c['band_px']), COMPACT if c.get('compact') else '', LIGHT if c.get('theme') == 'light' else '', (CALLE + (CALLE_XL if c.get('xl') else '')) if c.get('calle') else '', c['label'], c['sub'], c['h1'], quote, st, c['lead'], c['big'], big2, why, fn,
                                        (' qr' if c.get('qr') else '') + (' tels' if c.get('tel_small') else ''), c['band'], derecha, tel, IG)
 
 
