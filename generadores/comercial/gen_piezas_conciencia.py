@@ -297,7 +297,7 @@ PIEZAS = {
             ('<b>En 2025 llegaron a Colombia más extranjeros que nunca, y 1 de cada 5 viene de Estados Unidos.</b>² El paciente de afuera no trae intérprete: pregunta, entiende y decide en inglés.'),
             ('<b>Entrenamos conversaciones avanzadas en su área laboral:</b> la junta, el congreso, el paciente o el cliente de afuera, la entrevista de la especialización. Plan a su medida y en su agenda, con audios entre sesiones que su profesor devuelve con una mejora.')],
         lead='Sin inglés no se pierde un título. Se pierden conversaciones: el networking, los resultados que vale la pena contar, entender lo que otros quieren transmitir.',
-        big='100 horas, uno a uno. No prometemos la admisión ni el ascenso: entrenamos la entrevista y la junta.',
+        big='100 horas, uno a uno. No prometemos la admisión ni el ascenso. Entrenamos lo que importa: la entrevista y la junta.',
         big2='Y si tiene una idea de negocio, la trabajamos con usted y la presenta en inglés.', fn='¹ Elsevier, con datos de PubMed. ² Ministerio de Comercio, Industria y Turismo y Migración Colombia, enero a septiembre de 2025.',
         band='Programa individual para médicos, profesionales y directivos. <b>Cupos limitados por disponibilidad de profesor.</b> Agende una asesoría de 15 minutos.',
         band_px=290),
