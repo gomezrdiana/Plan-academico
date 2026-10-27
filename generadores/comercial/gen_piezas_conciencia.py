@@ -26,6 +26,7 @@ EDGE = r'C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe'
 WORK = os.path.join(tempfile.gettempdir(), 'heiiu_piezas'); os.makedirs(WORK, exist_ok=True)
 LINEA = '316 768 8793'; IG = '@heiiu_english'
 QR_LINEA = '573167688793'; QR_MENSAJE = 'Hola, quiero información para estudiar inglés en Heiiu. Código de asesor: {codigo}'
+QR_MENSAJE_PIEZA = 'Hola, quiero información para estudiar inglés en Heiiu. Código: {codigo}'   # QR de piezas sin asesora (calle A/B): mide de cuál volante llegan
 CODIGOS_TXT = os.path.join(ROOT, r'recursos\comercial\INDUCCION_COMERCIAL\contratacion comercial\LINKEDIN DIANA GOMEZ\Candidatos\John Hinestroza\plan referidos\codigos_asesoras.txt')
 
 
@@ -47,7 +48,8 @@ def linea_de(codigo): return dict(_lineas_codigos()).get(codigo, QR_LINEA)
 
 
 def qr_png(codigo):
-    enlace = 'https://wa.me/%s?text=%s' % (linea_de(codigo), quote(QR_MENSAJE.format(codigo=codigo)))
+    msg = QR_MENSAJE if codigo.startswith('C-') else QR_MENSAJE_PIEZA
+    enlace = 'https://wa.me/%s?text=%s' % (linea_de(codigo), quote(msg.format(codigo=codigo)))
     q = qrcode.QRCode(error_correction=qrcode.constants.ERROR_CORRECT_L, box_size=10, border=1); q.add_data(enlace); q.make(fit=True)
     out = os.path.join(WORK, 'qr_%s.png' % codigo); q.make_image(fill_color=(28, 23, 20), back_color='white').save(out); return out
 W, H = 1080, 1620
@@ -493,8 +495,8 @@ PIEZAS = {
             ('Te empujamos a pensar una idea de negocio y a contarla en inglés.'),
             ('Y lo que no cabe aquí: becas, convenios, programas en el exterior. Y un enfoque de carácter y liderazgo: <b>te preparamos para la vida, no para un examen.</b> Escribe y pregunta.')],
         lead='Y lo firmamos: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.', big='', big2='',
-        band='Grupos y programa individual, en Bucaramanga. <b>Escríbenos y agenda tu asesoría.</b>',
-        band_px=300),
+        band='Grupos y programa individual, en Bucaramanga. <b>Escanea o escríbenos y agenda tu asesoría.</b>',
+        qr='CALLE-A', tel_qr='<small>Escríbenos</small>' + LINEA, band_px=300),
     'CALLE_B': dict(
         calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
         h1='¿Nadie sabe cuál es el camino? <em>Los mejores piden inglés.</em>',
@@ -502,8 +504,8 @@ PIEZAS = {
             ('Un coach que no te deja rendirte, y una idea de negocio propia contada en inglés.'),
             ('Becas, convenios, programas en el exterior. Carácter y liderazgo: <b>te preparamos para la vida, no para un examen.</b>')],
         lead='Y lo firmamos: si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.', big='', big2='',
-        band='Grupos y programa individual, en Bucaramanga. <b>Escríbenos y agenda tu asesoría.</b>',
-        band_px=300),
+        band='Grupos y programa individual, en Bucaramanga. <b>Escanea o escríbenos y agenda tu asesoría.</b>',
+        qr='CALLE-B', tel_qr='<small>Escríbenos</small>' + LINEA, band_px=300),
 }
 
 
@@ -549,7 +551,8 @@ def html(c):
     logo = pathlib.Path(LOGO_NAR).as_uri()
     if c.get('qr'):
         derecha = '<div class="qrbox"><img src="%s"><span>%s</span></div>' % (pathlib.Path(qr_png(c['qr'])).as_uri(), c['qr'])
-        tel = (c.get('tel_qr') or 'Escanea el código de tu asesora: <b>%s</b>') % c['qr']
+        tel = c.get('tel_qr') or 'Escanea el código de tu asesora: <b>%s</b>'
+        if '%s' in tel: tel = tel % c['qr']
     elif c.get('codigo'):
         derecha = '<div class="codigo"><span class="k">CÓDIGO DE TU ASESORA</span><span class="v">C-<span></span></span></div>'; tel = '<small>Escríbenos</small>' + LINEA
     else:
