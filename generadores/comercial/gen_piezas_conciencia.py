@@ -187,7 +187,7 @@ PIEZAS = {
 
     'MEDICOS_DIRECTIVOS_FRENTE': dict(   # programa individual de 100 horas: sin garantia (decision de gerencia 24/10/2026), trato de usted
         compact=True, label='PROGRAMA INDIVIDUAL', sub='MÉDICOS · ESPECIALIZACIONES · ALTA DIRECCIÓN',
-        h1='El paciente de afuera ya llegó a la ciudad. <em>¿Llega a su consulta o a la de al lado?</em>',
+        h1='El paciente de afuera ya llegó. <em>¿Le paga la consulta a usted o al que sí habla inglés?</em>',
         st=[('<b>El 92% de los artículos de ciencias de la salud está en inglés.</b>¹ El congreso, el protocolo y la convocatoria llegan primero en ese idioma.'),
             ('<b>En 2025 llegaron a Colombia más extranjeros que nunca, y 1 de cada 5 viene de Estados Unidos.</b>² El paciente de afuera no trae intérprete: pregunta, entiende y decide en inglés.'),
             ('<b>Sin inglés no se pierde un título. Se pierden conversaciones:</b> el networking, los resultados que vale la pena contar, entender lo que otros quieren transmitir.'),
@@ -292,8 +292,8 @@ PIEZAS = {
         band_px=290),
     'MEDICOS_DIRECTIVOS_CORTA': dict(
         compact=True, label='PROGRAMA INDIVIDUAL', sub='MÉDICOS · ESPECIALIZACIONES · ALTA DIRECCIÓN',
-        h1='El paciente de afuera ya llegó a la ciudad. <em>¿Llega a su consulta o a la de al lado?</em>',
-        st=[('<b>El 92% de los artículos de ciencias de la salud está en inglés.</b>¹ El congreso, el protocolo nuevo y la convocatoria llegan primero en ese idioma.'),
+        h1='El paciente de afuera ya llegó. <em>¿Le paga la consulta a usted o al que sí habla inglés?</em>',
+        st=[('<b>El 92% de los artículos de ciencias de la salud está en inglés.</b>¹ El congreso, el protocolo y la convocatoria llegan primero en ese idioma.'),
             ('<b>En 2025 llegaron a Colombia más extranjeros que nunca, y 1 de cada 5 viene de Estados Unidos.</b>² El paciente de afuera no trae intérprete: pregunta, entiende y decide en inglés.'),
             ('<b>Entrenamos conversaciones avanzadas en su área laboral:</b> la junta, el congreso, el paciente o el cliente de afuera, la entrevista de la especialización. Plan a su medida, audio corto cada día que su profesor devuelve con una mejora, y reporte mensual de su avance.')],
         lead='Sin inglés no se pierde un título. Se pierden conversaciones: el networking, los resultados que vale la pena contar, entender lo que otros quieren transmitir.',
