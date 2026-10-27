@@ -241,7 +241,7 @@ PIEZAS = {
         band_px=290),
     'EMPRESAS_FRENTE': dict(   # tesis del gerente de alianzas (25/10/2026): le devolvemos un mejor empleado, y se lo demostramos; de usted
         compact=True, label='PROGRAMA PARA EMPRESAS', sub='TALENTO HUMANO · GERENCIA',
-        h1='¿Qué le devuelve a su empresa un curso de inglés? <em>Nosotros, un mejor empleado.</em>',
+        h1='¿Cuántos clientes de afuera ha perdido por el inglés? <em>No lo sabe: esos se van callados.</em>',
         st=[('<b>Presenta y sustenta.</b> Simulaciones de trabajo real, en inglés: un informe, una reunión, un cliente, una entrevista. Se graba y se corrige hasta que sale.'),
             ('<b>Cumple.</b> Tarea diaria con video enviado el mismo día. El porcentaje de entrega va en el reporte: usted ve quién cumple y quién no.'),
             ('<b>Llega a tiempo y no abandona.</b> Cada clase registra la hora de llegada; tres llegadas tarde cuentan como una falta. Asistencia mínima del 80%.'),
@@ -269,7 +269,7 @@ PIEZAS = {
         band_px=290),
     'EMPRESAS_CORTA': dict(   # version corta de una sola cara (decision de gerencia 25/10/2026): tesis del gerente de alianzas + competencias medibles + hijos/region + garantia + beca sin costo; de usted
         compact=True, label='PROGRAMA PARA EMPRESAS', sub='TALENTO HUMANO · GERENCIA',
-        h1='¿Qué le devuelve a su empresa un curso de inglés? <em>Nosotros, un mejor empleado.</em>',
+        h1='¿Cuántos clientes de afuera ha perdido por el inglés? <em>No lo sabe: esos se van callados.</em>',
         st=[('<b>Presenta y sustenta.</b> Simulaciones de trabajo real, en inglés: un informe, una reunión, un cliente, una entrevista. Se graba y se corrige hasta que sale.'),
             ('<b>Cumple.</b> Tarea diaria con video enviado el mismo día. El porcentaje de entrega va en el reporte: usted ve quién cumple y quién no.'),
             ('<b>Llega a tiempo y no abandona.</b> Cada clase registra la hora de llegada; tres llegadas tarde cuentan como una falta. Asistencia mínima del 80%.'),
