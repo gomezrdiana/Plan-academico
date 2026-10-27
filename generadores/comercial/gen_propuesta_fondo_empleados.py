@@ -78,7 +78,7 @@ runs(p3, 'Heiiu English Academy — Global Teacher S.A.S., NIT 900.422.478-2 · 
 d.add_paragraph().paragraph_format.space_after = Pt(2)
 
 t('Señores **' + FONDO + '**', after=6)
-t('Cordial saludo. Les proponemos un convenio para que sus afiliados y sus familias accedan a nuestro programa completo de inglés con beca del 45%, con el nombre de ' + FONDO + ' y sin costo ni obligaciones económicas para el fondo. Nuestro propósito lo decimos desde el primer día: **que el estudiante salga hablando inglés**. Y lo respaldamos por escrito: si cumple su parte y no avanza, le devolvemos el 100% del nivel.', after=4)
+t('Cordial saludo. Les proponemos un convenio para que sus afiliados y sus familias accedan a nuestro programa completo de inglés con beca del 45%, con el nombre de ' + FONDO + ' y sin costo ni obligaciones económicas para el fondo. Nuestro propósito lo decimos desde el primer día: **que el estudiante salga hablando inglés**. Y lo respaldamos por escrito: si cumple su parte y no avanza en inglés, le devolvemos el 100% del nivel.', after=4)
 
 sec('1. Quiénes somos')
 bullets(['Academia presencial de Bucaramanga, **con licencia de la Secretaría de Educación desde 2012** y certificación de calidad ISO 9001 e ICONTEC. Sede en Sotomayor, Carrera 27 # 48-49.',
@@ -93,7 +93,7 @@ tabla(['Nivel', 'Horas', 'Valor de lista por nivel'], [
 t('**Modalidades del convenio:** mañana (lunes a viernes, 8:00 a 12:00; 20 h por semana, unos 7 meses) o noche (lunes a viernes, 6:30 a 8:30 p. m.; 10 h por semana, unos 14 meses). Con 8 o más afiliados en un mismo grupo, el horario lo define el fondo. Prueba de entrada, evaluaciones por nivel y evaluador externo al cierre de cada nivel. Certificado Heiiu por nivel y por programa completo.', after=3)
 
 sec('3. Lo que nos diferencia: seguimiento y garantía')
-bullets(['**Garantía por escrito:** si el estudiante cumple su parte (asistencia del 80%, 90% de las tareas con video diario, todas las evaluaciones) y no avanza, le devolvemos el 100% del valor del nivel.',
+bullets(['**Garantía por escrito:** si el estudiante cumple su parte (asistencia del 80%, 90% de las tareas con video diario, todas las evaluaciones) y no avanza en inglés, le devolvemos el 100% del valor del nivel.',
          '**Práctica diaria con retroalimentación:** un video corto cada día, devuelto por su profesor con una mejora concreta.',
          '**Aquí nadie desaparece:** si falta sin avisar, lo llamamos ese mismo día; cada clase registra la hora de llegada.',
          '**Progreso demostrable:** lo grabamos el primer día y el último del nivel, y el reporte de avance llega a la familia.',

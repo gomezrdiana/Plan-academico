@@ -86,7 +86,7 @@ tabla(['Horarios', 'Intensidad', 'Docentes'], [
 tabla(['Evaluación', 'Certificación', 'Garantía (texto del contrato)'], [
     ('Prueba de entrada el primer día. Evaluaciones durante el nivel y evaluación final con evaluador externo al cierre de cada nivel. Reporte al fondo: asistencia y cumplimiento de cada becado. Nunca notas: esas son del estudiante.',
      'Certificado Heiiu por cada nivel terminado (A1, A2, B1, B2) y por el programa completo, según los estándares de la Secretaría de Educación. Certificado de beca a nombre del fondo para cada becado.',
-     '**Si el estudiante cumple su parte (asistencia del 80%, 90% de las tareas con video diario, todas las evaluaciones) y no avanza, le devolvemos el 100% del nivel.** No prometemos que sea fácil ni rápido. Prometemos que funciona si hace su parte, y lo firmamos.'),
+     '**Si el estudiante cumple su parte (asistencia del 80%, 90% de las tareas con video diario, todas las evaluaciones) y no avanza en inglés, le devolvemos el 100% del nivel.** No prometemos que sea fácil ni rápido. Prometemos que funciona si hace su parte, y lo firmamos.'),
 ], [6.0, 6.0, 6.0], size=8.5, bold_first=False)
 t('Cada estudiante entra con una meta propia (una entrevista, un viaje, un negocio propio, el siguiente paso en su trabajo) y desde el primer día la trabajamos como un proyecto en inglés, con pasos y fecha. Próximo grupo: **martes 3 de noviembre de 2026**; no para en diciembre, solo descansa los festivos.', size=9, after=2)
 
@@ -112,7 +112,7 @@ sec('5. Qué gana el afiliado y su familia')
 bullets([
     '**Paga la mitad por ser afiliado:** beca del 45% sobre el programa completo, para él, su cónyuge y sus hijos desde los 12 años.',
     '**Quien certifica su inglés gana cerca de un 26% más** que quien hace el mismo trabajo sin él, y tiene más empleo formal.¹',
-    '**Garantía por escrito:** si cumple su parte y no avanza, recibe el 100% del nivel de vuelta.',
+    '**Garantía por escrito:** si cumple su parte y no avanza en inglés, recibe el 100% del nivel de vuelta.',
     '**No entrena solo:** un profesor que corrige ahí mismo, un coach que no lo deja rendirse y una llamada el mismo día si falta.',
     '**Sale con algo que mostrar:** el video del primer día junto al del último, y una idea de negocio propia contada en inglés.',
     '**Para sus hijos que salen del colegio:** solo 1 de cada 8 termina el colegio con un inglés que le sirva;² y 1 de cada 5 jóvenes del país ni estudia ni trabaja.³ Un año de inglés con disciplina abre la beca, el intercambio y la carrera que sí es.',

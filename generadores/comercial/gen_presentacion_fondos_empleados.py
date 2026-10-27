@@ -142,14 +142,14 @@ notas(sl, 'QUÉ DECIR (máximo 20 segundos): "Somos una academia de Bucaramanga 
 sl = marco(3, 'Oferta educativa · Plan A', 'Programa completo de A1 a B2: 575 horas presenciales.')
 for i, (tt, body) in enumerate([('HORARIOS', 'Mañana, noche o sábados'), ('INTENSIDAD', '20 h o 10 h por semana, más un video diario'),
                                 ('DOCENTES', 'Bilingües, trabajan como coach'), ('EVALUACIÓN', 'Entrada, por nivel y evaluador externo'),
-                                ('CERTIFICACIÓN', 'Por nivel y por programa completo'), ('GARANTÍA', 'Cumple y no avanza: devolvemos el 100%')]):
+                                ('CERTIFICACIÓN', 'Por nivel y por programa completo'), ('GARANTÍA', 'Cumple y no avanza en inglés: devolvemos el 100%')]):
     col, row = i % 3, i // 3
     x = Inches(0.6) + col * Inches(4.1); y = Inches(3.7) + row * Inches(1.55)
     rect(sl, x, y, Inches(0.5), Emu(30000), NAR)
     text(sl, x, y + Inches(0.12), Inches(3.8), Inches(0.35), tt, size=11, color=AZULT, bold=True, spc=200)
     text(sl, x, y + Inches(0.47), Inches(3.8), Inches(0.9), body, size=17, color=TEXTO, spacing=1.15)
 notas(sl, 'QUÉ DECIR: "Programa completo, presencial, en la mañana o en la noche; con 8 afiliados o más, el horario lo pone el fondo. '
-          'Profesores que trabajan como coach y evaluador externo al cierre de cada nivel. Y lo firmamos: si cumple y no avanza, devolvemos el nivel."\n'
+          'Profesores que trabajan como coach y evaluador externo al cierre de cada nivel. Y lo firmamos: si cumple y no avanza en inglés, devolvemos el nivel."\n'
           'Horarios exactos: mañana 8:00 a 12:00, noche 6:30 a 8:30 p. m., sábados 8:00 a 12:00. Todo está en la hoja; no leer las seis casillas.')
 
 # ================================================================ 4. VALOR ECONÓMICO
@@ -171,7 +171,7 @@ notas(sl, 'QUÉ DECIR: "El afiliado paga $4.782.800 por el programa que vale $8.
 # ================================================================ 5. BENEFICIOS
 sl = marco(5, 'Beneficios · ¿Qué gano yo?', 'El fondo gana un beneficio con su nombre. El afiliado, un inglés que le sirve.')
 for i, (hdr, lst) in enumerate([('EL FONDO', ['Sin costo ni presupuesto', 'Becas y certificados con su nombre', 'Reporte: ve quién cumple']),
-                                ('EL AFILIADO Y SU FAMILIA', ['Paga la mitad, también cónyuge e hijos', 'Garantía: si cumple y no avanza, 100% de vuelta', 'Nadie entrena solo: coach y video diario'])]):
+                                ('EL AFILIADO Y SU FAMILIA', ['Paga la mitad, también cónyuge e hijos', 'Garantía: si cumple y no avanza en inglés, 100% de vuelta', 'Nadie entrena solo: coach y video diario'])]):
     x = Inches(0.6) + i * Inches(6.2)
     rect(sl, x, Inches(3.7), Inches(5.9), Inches(2.95), BLANCO if i == 0 else AZUL, BORDE if i == 0 else None, radius=0.05)
     text(sl, x + Inches(0.35), Inches(3.9), Inches(5.2), Inches(0.35), hdr, size=11, color=NAR if i == 0 else AZULT, bold=True, spc=200)
