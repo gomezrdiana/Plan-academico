@@ -517,7 +517,7 @@ PIEZAS = {
     'CALLE_D': dict(
         calle=True, label='HEIIU ENGLISH ACADEMY', sub='BUCARAMANGA',
         h1='Las mejores vacantes piden inglés. <em>¿Sigues aplicando a las otras?</em>',
-        xl=True, st=[('Hablas desde el primer día, con un coach.'), ('Tu meta como proyecto en inglés: entrevista, viaje, negocio propio.')],
+        xl=True, h1px=96, st=[('Hablas desde el primer día, con un coach que no te deja rendirte.'), ('Tu meta como proyecto en inglés: entrevista, viaje, negocio propio.')],
         lead='Lo firmamos: si cumples y no avanzas en inglés, <b>te devolvemos el 100% del nivel.</b>', big='', big2='',
         band='Grupos y programa individual, en Bucaramanga. <b>Escanea o escríbenos y agenda tu asesoría.</b>',
         qr='CALLE-D', tel_qr='<small>Escríbenos</small>' + LINEA, band_px=300),
@@ -599,7 +599,7 @@ def html(c):
             '%s<div class="pivot"><p class="lead">%s</p><p class="big">%s</p>%s</div>%s%s</div>'
             '<div class="band%s"><p>%s</p>%s'
             '<div class="cta"><div class="tel">%s</div><div class="ig">%s<b>Bucaramanga</b></div></div></div>'
-            '</div></body></html>') % (CSS % dict(W=W, H=c.get('H', H), BAND=c['band_px']), COMPACT if c.get('compact') else '', LIGHT if c.get('theme') == 'light' else '', (CALLE + (CALLE_XL if c.get('xl') else '')) if c.get('calle') else '', c['label'], c['sub'], c['h1'], quote, st, c['lead'], c['big'], big2, why, fn,
+            '</div></body></html>') % (CSS % dict(W=W, H=c.get('H', H), BAND=c['band_px']), COMPACT if c.get('compact') else '', LIGHT if c.get('theme') == 'light' else '', ((CALLE + (CALLE_XL if c.get('xl') else '')) if c.get('calle') else '') + (('h1 { font-size: %dpx }' % c['h1px']) if c.get('h1px') else ''), c['label'], c['sub'], c['h1'], quote, st, c['lead'], c['big'], big2, why, fn,
                                        (' qr' if c.get('qr') else '') + (' tels' if c.get('tel_small') else ''), c['band'], derecha, tel, IG)
 
 
