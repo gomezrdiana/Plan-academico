@@ -25,6 +25,8 @@ COPIA = os.path.join(ROOT, r'recursos\comercial\INDUCCION_COMERCIAL\contratacion
 EDGE = r'C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe'
 WORK = os.path.join(tempfile.gettempdir(), 'heiiu_piezas'); os.makedirs(WORK, exist_ok=True)
 LINEA = '316 768 8793'; IG = '@heiiu_english'
+QR_LINEA_LAHAUS = '5715521390'   # agente de la plataforma (WhatsApp +57 1 552 1390): solo dentro del QR, nunca impreso como numero de marca
+QR_MENSAJE_LAHAUS = 'Hola, recibí el volante {codigo} y quiero información para estudiar inglés en Heiiu.'
 LINEA_ACADEMIA = '317 717 3641'; QR_LINEA_ACADEMIA = '573177173641'   # linea de la academia para referidos (codigos C-11 a C-20) y para las piezas de calle que reparte la academia
 QR_LINEA = '573167688793'; QR_MENSAJE = 'Hola, quiero información para estudiar inglés en Heiiu. Código de asesor: {codigo}'
 QR_MENSAJE_PIEZA = 'Hola, quiero información para estudiar inglés en Heiiu. Código: {codigo}'   # QR de piezas sin asesora (calle A/B): mide de cuál volante llegan
@@ -48,8 +50,8 @@ def codigos(): return [c for c, _ in _lineas_codigos()]
 def linea_de(codigo): return dict(_lineas_codigos()).get(codigo, QR_LINEA)
 
 
-def qr_png(codigo, linea=None):
-    msg = QR_MENSAJE if codigo.startswith('C-') else QR_MENSAJE_PIEZA
+def qr_png(codigo, linea=None, msg=None):
+    msg = msg or (QR_MENSAJE if codigo.startswith('C-') else QR_MENSAJE_PIEZA)
     enlace = 'https://wa.me/%s?text=%s' % (linea or linea_de(codigo), quote(msg.format(codigo=codigo)))
     q = qrcode.QRCode(error_correction=qrcode.constants.ERROR_CORRECT_L, box_size=10, border=1); q.add_data(enlace); q.make(fit=True)
     out = os.path.join(WORK, 'qr_%s.png' % codigo); q.make_image(fill_color=(28, 23, 20), back_color='white').save(out); return out
@@ -525,6 +527,9 @@ PIEZAS = {
 # Juego de calle de la academia (decision de gerencia 27/10/2026): mismas piezas A y B con la linea de la academia (317 717 3641); el de John va a la linea de alianzas.
 for _k, _cod in (('CALLE_A', 'CALLE-A'), ('CALLE_B', 'CALLE-B'), ('CALLE_C', 'CALLE-C'), ('CALLE_D', 'CALLE-D')):
     PIEZAS[_k + '_ACADEMIA'] = dict(PIEZAS[_k], qr=_cod, qr_linea=QR_LINEA_ACADEMIA, tel_qr='<small>Escríbenos</small>' + LINEA_ACADEMIA)
+    # Juego para el agente de la plataforma (27/10/2026): el QR abre su WhatsApp con un mensaje generico ('recibi el volante A'); sin numero impreso.
+    PIEZAS[_k + '_LAHAUS'] = dict(PIEZAS[_k], qr=_cod[-1], qr_label='HEIIU', qr_linea=QR_LINEA_LAHAUS, qr_msg=QR_MENSAJE_LAHAUS,
+                                  tel_qr='<small>Escanea el código y escríbenos</small>', band=PIEZAS[_k]['band'].replace('Escanea o escríbenos', 'Escanea'))
 
 
 
@@ -578,7 +583,7 @@ def html(c):
     big2 = '<p class="big2">%s</p>' % c['big2'] if c['big2'] else ''
     logo = pathlib.Path(LOGO_NAR).as_uri()
     if c.get('qr'):
-        derecha = '<div class="qrbox"><img src="%s"><span>%s</span></div>' % (pathlib.Path(qr_png(c['qr'], c.get('qr_linea'))).as_uri(), c['qr'])
+        derecha = '<div class="qrbox"><img src="%s"><span>%s</span></div>' % (pathlib.Path(qr_png(c['qr'], c.get('qr_linea'), c.get('qr_msg'))).as_uri(), c.get('qr_label', c['qr']))
         tel = c.get('tel_qr') or 'Escanea el código de tu asesora: <b>%s</b>'
         if '%s' in tel: tel = tel % c['qr']
     elif c.get('codigo'):
