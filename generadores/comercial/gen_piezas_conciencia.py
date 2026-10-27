@@ -143,7 +143,7 @@ PIEZAS = {
         tel='Cómo escribirnos: <b>al respaldo</b>', band_px=250),
     'GENERAL_ASESORAS_RESPALDO': dict(   # cara 2: el Pacto con las palabras de gerencia (texto vigente 15/10/2026), por que Heiiu, beca y como escribir
         compact=True, theme='light', label='ASÍ ES HEIIU', sub='LEE ESTO ANTES DE DECIDIR',
-        h1='Vender inglés es fácil. <em>Lo difícil es que aprendas.</em>',
+        h1='Academias hay muchas. <em>¿Cuál te firma el resultado?</em>',
         intro=('A muchas academias les sale el negocio cuando pagas y dejas de ir. Nadie te llama, nadie te extraña, y a los tres meses la matrícula se volvió culpa. '
                '<b>En Heiiu queremos la parte difícil: que vengas, que te sueltes a hablar y que no te rindas.</b> Por eso te lo decimos antes de que pagues:'),
         quote=('Nuestro objetivo es que salgas hablando inglés. Si no se logra, algo está mal: o tú dejaste de entrenar, o nosotros no estamos cumpliendo. '
@@ -175,7 +175,7 @@ PIEZAS = {
         band_px=250),
     'HOTELERIA_RESPALDO': dict(
         compact=True, theme='light', label='ASÍ ES HEIIU', sub='INGLÉS PARA HOTELERÍA Y TURISMO',
-        h1='Vender inglés es fácil. <em>Lo difícil es que atiendas en inglés.</em>',
+        h1='Academias hay muchas. <em>¿Cuál te firma el resultado?</em>',
         intro='A muchas academias les sale el negocio cuando pagas y dejas de ir. Nadie te llama, nadie te extraña, y a los tres meses la matrícula se volvió culpa. <b>En Heiiu queremos la parte difícil: que vengas, que te sueltes a hablar y que no te rindas.</b> Por eso te lo decimos antes de que pagues:', quote='Nuestro objetivo es que salgas hablando inglés. Si no se logra, algo está mal: o tú dejaste de entrenar, o nosotros no estamos cumpliendo. Esto es un entrenamiento en equipo, como prepararse para una maratón: desde el primer día hablas, tu profesor ve dónde puedes mejorar y lo repetimos hasta que sale. Por eso grabas un video corto todos los días y tu profesor te lo devuelve con una mejora. A cambio, la garantía por escrito: <b>si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.</b> ¿Te le mides a ese ritmo?', cite='GERENCIA · HEIIU ENGLISH ACADEMY', after='¿Suena duro? Míralo al revés: <b>la única forma de perder la plata es dejar de entrenar.</b> Si entrenas, sales hablando inglés. Y si entrenas y no avanzas, te la devolvemos.',
         st=[], lead='', big='', big2='',
         why=[('LAS ESCENAS DE TU PUESTO', 'Cada clase es una situación real: el check-in, la reserva por teléfono, la mesa que pide la cuenta, la queja por el aire acondicionado. Se repite hasta que sale sin pensar.', False),
@@ -187,7 +187,7 @@ PIEZAS = {
 
     'MEDICOS_DIRECTIVOS_FRENTE': dict(   # programa individual de 100 horas: sin garantia (decision de gerencia 24/10/2026), trato de usted
         compact=True, label='PROGRAMA INDIVIDUAL', sub='MÉDICOS · ESPECIALIZACIONES · ALTA DIRECCIÓN',
-        h1='Los títulos ya están en la pared. <em>Lo que falta se dice en inglés.</em>',
+        h1='Los títulos ya están en la pared. <em>¿El inglés también?</em>',
         st=[('<b>El 92% de los artículos de ciencias de la salud está en inglés.</b>¹ El congreso, el protocolo y la convocatoria llegan primero en ese idioma.'),
             ('<b>En 2025 llegaron a Colombia más extranjeros que nunca, y 1 de cada 5 viene de Estados Unidos.</b>² El paciente de afuera no trae intérprete: pregunta, entiende y decide en inglés.'),
             ('<b>Sin inglés no se pierde un título. Se pierden conversaciones:</b> el networking, los resultados que vale la pena contar, entender lo que otros quieren transmitir.'),
@@ -230,7 +230,7 @@ PIEZAS = {
         band_px=250),
     'RECEPCION_RESPALDO': dict(
         compact=True, theme='light', label='ASÍ ES HEIIU', sub='INGLÉS PARA RECEPCIÓN',
-        h1='Vender inglés es fácil. <em>Lo difícil es contestar en inglés.</em>',
+        h1='Academias hay muchas. <em>¿Cuál te firma el resultado?</em>',
         intro='A muchas academias les sale el negocio cuando pagas y dejas de ir. Nadie te llama, nadie te extraña, y a los tres meses la matrícula se volvió culpa. <b>En Heiiu queremos la parte difícil: que vengas, que te sueltes a hablar y que no te rindas.</b> Por eso te lo decimos antes de que pagues:', quote='Nuestro objetivo es que salgas hablando inglés. Si no se logra, algo está mal: o tú dejaste de entrenar, o nosotros no estamos cumpliendo. Esto es un entrenamiento en equipo, como prepararse para una maratón: desde el primer día hablas, tu profesor ve dónde puedes mejorar y lo repetimos hasta que sale. Por eso grabas un video corto todos los días y tu profesor te lo devuelve con una mejora. A cambio, la garantía por escrito: <b>si cumples tu parte y no avanzas, te devolvemos el 100% del nivel.</b> ¿Te le mides a ese ritmo?', cite='GERENCIA · HEIIU ENGLISH ACADEMY', after='¿Suena duro? Míralo al revés: <b>la única forma de perder la plata es dejar de entrenar.</b> Si entrenas, sales hablando inglés. Y si entrenas y no avanzas, te la devolvemos.',
         st=[], lead='', big='', big2='',
         why=[('LAS FRASES DE TU PUESTO', 'Cada clase es una llamada o una llegada real: tomar los datos, dar una cita, explicar un procedimiento, pedir que espere sin que se moleste. Se repite hasta que sale sin pensar.', False),
@@ -241,7 +241,7 @@ PIEZAS = {
         band_px=290),
     'EMPRESAS_FRENTE': dict(   # tesis del gerente de alianzas (25/10/2026): le devolvemos un mejor empleado, y se lo demostramos; de usted
         compact=True, label='PROGRAMA PARA EMPRESAS', sub='TALENTO HUMANO · GERENCIA',
-        h1='Las otras academias le prometen inglés. <em>Nosotros le devolvemos un mejor empleado.</em>',
+        h1='¿Qué le devuelve a su empresa un curso de inglés? <em>Nosotros, un mejor empleado.</em>',
         st=[('<b>Presenta y sustenta.</b> Simulaciones de trabajo real, en inglés: un informe, una reunión, un cliente, una entrevista. Se graba y se corrige hasta que sale.'),
             ('<b>Cumple.</b> Tarea diaria con video enviado el mismo día. El porcentaje de entrega va en el reporte: usted ve quién cumple y quién no.'),
             ('<b>Llega a tiempo y no abandona.</b> Cada clase registra la hora de llegada; tres llegadas tarde cuentan como una falta. Asistencia mínima del 80%.'),
@@ -269,7 +269,7 @@ PIEZAS = {
         band_px=290),
     'EMPRESAS_CORTA': dict(   # version corta de una sola cara (decision de gerencia 25/10/2026): tesis del gerente de alianzas + competencias medibles + hijos/region + garantia + beca sin costo; de usted
         compact=True, label='PROGRAMA PARA EMPRESAS', sub='TALENTO HUMANO · GERENCIA',
-        h1='Las otras academias le prometen inglés. <em>Nosotros le devolvemos un mejor empleado.</em>',
+        h1='¿Qué le devuelve a su empresa un curso de inglés? <em>Nosotros, un mejor empleado.</em>',
         st=[('<b>Presenta y sustenta.</b> Simulaciones de trabajo real, en inglés: un informe, una reunión, un cliente, una entrevista. Se graba y se corrige hasta que sale.'),
             ('<b>Cumple.</b> Tarea diaria con video enviado el mismo día. El porcentaje de entrega va en el reporte: usted ve quién cumple y quién no.'),
             ('<b>Llega a tiempo y no abandona.</b> Cada clase registra la hora de llegada; tres llegadas tarde cuentan como una falta. Asistencia mínima del 80%.'),
@@ -292,7 +292,7 @@ PIEZAS = {
         band_px=290),
     'MEDICOS_DIRECTIVOS_CORTA': dict(
         compact=True, label='PROGRAMA INDIVIDUAL', sub='MÉDICOS · ESPECIALIZACIONES · ALTA DIRECCIÓN',
-        h1='Los títulos ya están en la pared. <em>Lo que falta se dice en inglés.</em>',
+        h1='Los títulos ya están en la pared. <em>¿El inglés también?</em>',
         st=[('<b>El 92% de los artículos de ciencias de la salud está en inglés.</b>¹ El congreso, el protocolo nuevo y la convocatoria llegan primero en ese idioma.'),
             ('<b>En 2025 llegaron a Colombia más extranjeros que nunca, y 1 de cada 5 viene de Estados Unidos.</b>² El paciente de afuera no trae intérprete: pregunta, entiende y decide en inglés.'),
             ('<b>Entrenamos conversaciones avanzadas en su área laboral:</b> la junta, el congreso, el paciente o el cliente de afuera, la entrevista de la especialización. Plan a su medida, audio corto cada día que su profesor devuelve con una mejora, y reporte mensual de su avance.')],
@@ -338,7 +338,7 @@ PIEZAS = {
     # ---------------- PADRES (la asesora de la entidad aliada le habla al papa del que sale del colegio o del que aun no arranca) ----------------
     'PADRES_FRENTE': dict(   # misma tesis que la de empresas, volteada al papa: le devolvemos un mejor hijo; solo imprenta (10x15), de usted
         compact=True, imprenta=True, label='PARA PADRES', sub='DEL QUE SALE DEL COLEGIO · DEL QUE AÚN NO ARRANCA',
-        h1='Las otras academias le prometen inglés. <em>Nosotros le devolvemos un mejor hijo.</em>',
+        h1='¿Su hijo todavía no sabe qué quiere? <em>Nosotros le devolvemos un mejor hijo.</em>',
         st=[('<b>1 de cada 5 jóvenes en Colombia ni estudia ni trabaja.</b>¹ No es falta de capacidad: es falta de una meta con fecha y de alguien que le exija. Eso es lo que entrenamos.'),
             ('<b>Si acaba de salir del colegio, no se apresure a elegir universidad.</b> Hay carreras que cambian antes de terminarlas y títulos que las empresas ya no piden. Un año aprendiendo inglés con disciplina no se pierde: abre la beca, el intercambio y la carrera que sí es.'),
             ('<b>De cada 8 jóvenes que terminan el colegio, solo 1 sale con un inglés que le sirva.</b>² Los otros 7 llegan a la universidad y al primer empleo con eso pendiente.'),
@@ -350,7 +350,7 @@ PIEZAS = {
         tel='Cómo escribirnos: <b>al respaldo</b>', band_px=250),
     'PADRES_RESPALDO': dict(   # un respaldo por codigo de asesora, con su QR; solo imprenta
         compact=True, imprenta=True, theme='light', label='ASÍ ES HEIIU', sub='LEA ESTO ANTES DE DECIDIR',
-        h1='Vender inglés es fácil. <em>Lo difícil es que su hijo no se rinda.</em>',
+        h1='Academias hay muchas. <em>¿Cuál le firma el resultado?</em>',
         intro=('A muchas academias les sale el negocio cuando usted paga y su hijo deja de ir. Nadie lo llama, nadie lo extraña, y a los tres meses la matrícula se volvió una pelea en la casa. '
                '<b>En Heiiu queremos la parte difícil: que venga, que se suelte a hablar y que no se rinda.</b> Por eso se lo decimos antes de que pague:'),
         quote=('Nuestro objetivo es que su hijo salga hablando inglés. Si no se logra, algo está mal: o él dejó de entrenar, o nosotros no estamos cumpliendo. '
@@ -368,7 +368,7 @@ PIEZAS = {
         tel_qr='Escanee el código de su asesora: <b>%s</b>', por_codigo=True, band_px=290),
     'PADRES_CORTA': dict(   # digital, la reenvia la asesora con SU enlace; sin numero
         compact=True, label='PARA PADRES', sub='DEL QUE SALE DEL COLEGIO · DEL QUE AÚN NO ARRANCA',
-        h1='Las otras academias le prometen inglés. <em>Nosotros le devolvemos un mejor hijo.</em>',
+        h1='¿Su hijo todavía no sabe qué quiere? <em>Nosotros le devolvemos un mejor hijo.</em>',
         st=[('<b>1 de cada 5 jóvenes en Colombia ni estudia ni trabaja.</b>¹ No es falta de capacidad: es falta de una meta con fecha y de alguien que le exija.'),
             ('<b>Si acaba de salir del colegio, no se apresure a elegir universidad.</b> Un año aprendiendo inglés con disciplina no se pierde: abre la beca, el intercambio y la carrera que sí es.'),
             ('<b>Lo que medimos es lo que usted quiere ver en casa:</b> llegar a tiempo, cumplir la tarea diaria, no rendirse, ir por una meta con fecha. Y usted recibe el reporte.'),
