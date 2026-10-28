@@ -32,7 +32,7 @@ RUTAS = {
                nota='Ultimo nivel de la ruta: aplica beca del Fondo.'),
     # Plan de liderazgo (joven que ya habla ingles, entra a B2): sin garantia, sin video diario, sin libros, sin Cajasan (Diana 28/10)
     'B2_LIDERAZGO': dict(titulo='PLAN DE LIDERAZGO B2 · A CUOTAS', nombre='Plan de liderazgo B2', incluidos=('B2',),
-               horas=200, full=2343000, bq=(11.3, 8), bc=(14.4, 20.3), n2=4, n4=2, dur2='~5 meses', dur4='~2,5 meses',
+               horas=200, full=2343000, bq=(8, 8), bc=(14.4, 14.4), n2=4, n4=2, dur2='~5 meses', dur4='~2,5 meses',  # solo su celda: General
                nota='Ultimo nivel de la ruta: aplica beca del Fondo.',
                sub='Plan de liderazgo en inglés · 200 horas presenciales en B2 · un rol en cada simulación',
                incluye=['Clases presenciales en grupo, en inglés', 'Énfasis en liderazgo', 'Rol en cada simulación: presentador,', 'mediador o coach',
@@ -89,7 +89,8 @@ def pieza(clave):
     pT = r['full'] * (1 - r['bq'][0] / 100); pG = r['full'] * (1 - r['bq'][1] / 100)
     py = base_y + 70
     d.text((x0, py), 'TU PLAN A CUOTAS', font=font('calibrib.ttf', 26), fill=NAR)
-    d.text((x0 + 250, py + 3), 'beca del Fondo a cuotas del %s al %s · inicial del 20%% · el resto mensual' % (pct(r['bq'][1]), pct(r['bq'][0])),
+    rango = lambda a, b: ('del %s al %s' % (pct(a), pct(b))) if a != b else ('del %s' % pct(a))
+    d.text((x0 + 250, py + 3), 'beca del Fondo a cuotas %s · inicial del 20%% · el resto mensual' % rango(r['bq'][1], r['bq'][0]),
            font=font('calibri.ttf', 21), fill=GRIS)
     for j, (nombre, n, dur) in enumerate((('Intensivo 2 h · L-V 6:30 a 8:30 pm', r['n2'], r['dur2']), ('Súper intensivo 4 h · L-V 8:00 a 12:00', r['n4'], r['dur4']))):
         bx = x0 + j * 475; by = py + 40
@@ -97,8 +98,9 @@ def pieza(clave):
         d.text((bx + 18, by + 12), nombre, font=font('calibrib.ttf', 22), fill=NAR)
         d.text((bx + 18, by + 42), '%s · hasta %d cuotas' % (dur, n), font=font('calibri.ttf', 20), fill=GRIS)
         cT = cuota(pT * (1 - INICIAL), n); cG = cuota(pG * (1 - INICIAL), n)
-        d.text((bx + 18, by + 70), '%d cuotas de %s a %s' % (n, peso(cT), peso(cG)), font=font('calibrib.ttf', 26), fill=CAFE)
-    d.text((x0, py + 176), 'Inicial del 20%%: de %s a %s · Separas hoy con $300.000 y se cruza con la inicial · Pagas antes de terminar el programa' % (peso(pT * INICIAL), peso(pG * INICIAL)),
+        d.text((bx + 18, by + 70), ('%d cuotas de %s a %s' % (n, peso(cT), peso(cG))) if cT != cG else ('%d cuotas de %s' % (n, peso(cT))), font=font('calibrib.ttf', 26), fill=CAFE)
+    ini = ('de %s a %s' % (peso(pT * INICIAL), peso(pG * INICIAL))) if pT != pG else peso(pT * INICIAL)
+    d.text((x0, py + 176), 'Inicial del 20%%: %s · Separas hoy con $300.000 y se cruza con la inicial · Pagas antes de terminar el programa' % ini,
            font=font('calibri.ttf', 20), fill=CAFE)
     d.text((x0, py + 204), 'Las cuotas incluyen el costo de financiación. Menos cuotas, menor valor total. Tu plan queda por escrito el día que firmas.',
            font=font('calibri.ttf', 20), fill=GRIS)
@@ -108,9 +110,9 @@ def pieza(clave):
     d.rounded_rectangle([cx, cy, cx + cw, cy + ch], radius=20, fill=NAR)
     d.text((cx + cw // 2, cy + 22), 'DE CONTADO, LA BECA SUBE', font=font('calibrib.ttf', 28), fill=AMAR, anchor='mt')
     d.text((cx + cw // 2, cy + 62), 'según el perfil del estudiante', font=font('calibri.ttf', 22), fill=BLANCO, anchor='mt')
-    d.text((cx + cw // 2, cy + 104), 'del %s al %s' % (pct(r['bc'][0]), pct(r['bc'][1])), font=font('calibrib.ttf', 46), fill=BLANCO, anchor='mt')
+    d.text((cx + cw // 2, cy + 104), rango(r['bc'][0], r['bc'][1]) if r['bc'][0] != r['bc'][1] else pct(r['bc'][0]), font=font('calibrib.ttf', 46), fill=BLANCO, anchor='mt')
     d.text((cx + cw // 2, cy + 168), r['nombre'] + ', de contado', font=font('calibri.ttf', 21), fill=(255, 230, 210), anchor='mt')
-    d.text((cx + cw // 2, cy + 196), 'desde ' + peso(r['full'] * (1 - r['bc'][1] / 100)), font=font('calibrib.ttf', 34), fill=AMAR, anchor='mt')
+    d.text((cx + cw // 2, cy + 196), ('desde ' if r['bc'][0] != r['bc'][1] else '') + peso(r['full'] * (1 - r['bc'][1] / 100)), font=font('calibrib.ttf', 34), fill=AMAR, anchor='mt')
     # tarjeta de credito no se escribe (Diana 28/10): se trata en la cita
     d.text((cx + cw // 2, cy + 246), 'Cesantías y crédito con tu banco', font=font('calibri.ttf', 18), fill=(255, 230, 210), anchor='mt')
     d.text((cx + cw // 2, cy + 270), 'o cooperativa cuentan como contado.', font=font('calibri.ttf', 18), fill=(255, 230, 210), anchor='mt')
