@@ -331,8 +331,11 @@ COHORTES = [
                                    'preguntas del público, en Cl 53. Se construye una pieza por clase — la pieza del día es la '
                                    'ronda oral de cierre del Bloque 3 y el video del portafolio de ese día. El instructivo con los '
                                    'guiones exactos lo entrega coordinación con la guia; el docente no agrega actividades.'],
-            ['Módulo de Graduación', 'Aplica a los cohortes del ARRANQUE A1+A2. Si este cohorte lo tiene o no, lo define '
-                                              'coordinación; el docente no lo explica ni lo ofrece.'],
+            ['Módulo de Graduación', 'Al terminar A2 cada estudiante del Arranque elige uno, incluido: EMPRENDEDOR (página web, '
+                                              'video de pitch, revisión de su idea de negocio) o PASAPORTE (video de presentación, hoja de vida y '
+                                              'carta, entrevista ensayada). El docente no lo vende ni lo explica: en Cl 30 toma la encuesta de elección '
+                                              '(módulo + lo que más necesita cada uno) y la envía a coordinación esa noche; en Cl 46 la confirma. '
+                                              'Los talleres los organiza coordinación.'],
         ],
         sec1_anchos=[3.8, 13.2],
         sec1_cierre=None,

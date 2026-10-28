@@ -4,7 +4,7 @@
 **Frase del Dia:** *"A prudent speaker plans the talk before speaking; a brave one stands up and shares it — today we build the skeleton of our real story."*
 
 > **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
-> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, que ABRE con sus 3 frases de LISTEN FIRST (antes de grabar oye 2 minutos a un hablante con otro acento y repite 3 frases imitandolo; video que no abre con sus 3 frases = incompleto), y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
 > 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
 > 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
 > 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
@@ -59,12 +59,15 @@ HOMEWORK CL 51 — DUE: Cl 52 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 (2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English, EVERY day.
     Today's topic: record PART 2 of your talk — "The experiences I have
     had" (present perfect).
+    LISTEN FIRST (5 min, BEFORE you record): listen 2 min to a speaker whose accent is NOT your
+    teacher's (YouTube or a podcast, today's topic). Repeat 3 sentences out loud. OPEN your video
+    with those 3 sentences, then do today's topic.
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion.
 - **VATS (1 pregunta, 2 respuestas max):** *"When do you need PRUDENCE and COURAGE together?"* (SINTESIS) — **Anuncio:** *"Next class: full rehearsal with your classmates as your audience."*
 
-____ Reporte firmado  ____ Error papers  ____ Tickets de salida  ____ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  ____ Fotos/videos
 
 [PAGEBREAK]
 

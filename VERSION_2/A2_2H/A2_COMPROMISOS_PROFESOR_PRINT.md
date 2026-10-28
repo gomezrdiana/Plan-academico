@@ -5,6 +5,7 @@
 ## 1. VIDEO DIARIO (contrato cl. 8 · anexo de garantia 1.b)
 
 - Cada estudiante graba en casa UN VIDEO en ingles, **minimo 2 minutos en A2**, de corrido y sin leer, y lo envia **el mismo dia** al grupo de WhatsApp del cohorte. Audio solo por excepcion, maximo 2 por semana.
+- El video ABRE con LISTEN FIRST: antes de grabar, el estudiante oye 2 minutos a un hablante con otro acento y repite 3 frases imitandolo; esas 3 frases son el arranque del video. Video que no abre con sus 3 frases = incompleto. Si alguien se queja del acento: *"Accents are the world. Your ear trains at home, two minutes a day."*
 - **Tu VES cada video antes de la clase siguiente** y, al abrir la clase, le dices a cada estudiante UNA mejora en una frase. Sin nota, sin comentario de calidad.
 - Anotas quien envio y quien no, cada clase. Ese registro va en el reporte: es la prueba del 90% de tareas que exige la garantia.
 

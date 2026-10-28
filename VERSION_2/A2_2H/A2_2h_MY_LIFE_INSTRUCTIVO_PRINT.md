@@ -79,3 +79,11 @@ Al matricularse se le dijo: *"entras con tu meta (una entrevista, un viaje, un n
 - **Cada clase:** la pieza del dia se nombra como paso hacia la meta cuando el tema lo permite, en una frase (*"Piece [N] — one more step to your goal."*). Nada mas.
 - **Cl 53 (presentacion final):** cada presentacion cierra con un minuto fijo: *"My goal was ___. My steps were ___. My date is ___."* Se graba completa: es la GRABACION DE SALIDA del nivel y se envia ese dia a la auxiliar administrativa con el nombre.
 - **Lo que NO se promete:** el resultado de la meta (el viaje, el ascenso, la entrevista ganada). Se promete el entrenamiento y que avance en ingles; la garantia por escrito cubre el ingles, no la meta.
+
+## MODULO DE GRADUACION — LA ENCUESTA (Cl 30) Y LA CONFIRMACION (Cl 46)
+
+Al terminar el A2, cada estudiante del Arranque elige UN modulo de graduacion, incluido en su precio: **EMPRENDEDOR** (su negocio en ingles: pagina web, video de pitch, revision de su idea de negocio) o **PASAPORTE** (irse afuera: video de presentacion, hoja de vida y carta, entrevista ensayada). Los talleres los organiza coordinacion; tu no los explicas, no los vendes y no prometes fechas ni resultados.
+
+- **Cl 30 (3 min, Bloque 4):** haces la encuesta con el guion de la guia. Anotas por estudiante: nombre · modulo · lo que mas necesita (pagina web / video de pitch / revision de idea de negocio · video de presentacion / hoja de vida y carta / entrevista). Se envia HOY a coordinacion con el reporte. Quien no sabe: *undecided*.
+- **Cl 46 (1 min):** coordinacion te manda la lista; la lees en voz alta y preguntas *"Still the same?"*. Cambios y *undecided* se reportan HOY.
+- Si preguntan detalles en cualquier otra clase: *"Coordination will tell you."* Nunca "facil", "rapido", ni promesas de clientes, visa o empleo.

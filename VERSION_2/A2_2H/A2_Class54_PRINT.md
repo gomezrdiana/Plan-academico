@@ -4,7 +4,7 @@
 **Frase del Dia:** *"Prudence to plan, temperance to stay calm, courage to speak, justice to help each other — today we bring the whole level together."*
 
 > **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
-> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, que ABRE con sus 3 frases de LISTEN FIRST (antes de grabar oye 2 minutos a un hablante con otro acento y repite 3 frases imitandolo; video que no abre con sus 3 frases = incompleto), y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
 > 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
 > 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
 > 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
@@ -50,7 +50,7 @@
 - **Sin tarea nueva.** El contenido del nivel esta completo. Manten tu portafolio si quieres, pero NO se asigna tarea nueva.
 - **VATS (1 pregunta, 2 respuestas max):** *"Which virtue did you work most this level — and which one do you still need? (the 4 together)"* (SINTESIS) — **Anuncio (exacto):** *"Next class: closing session."* (NADA sobre el examen — coordinacion ya habra citado al grupo.)
 
-____ Reporte firmado  ____ Error papers  ____ Tickets de salida  ____ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  ____ Fotos/videos
 
 [PAGEBREAK]
 

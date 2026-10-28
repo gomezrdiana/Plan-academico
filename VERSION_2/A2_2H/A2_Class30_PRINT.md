@@ -4,7 +4,7 @@
 **Frase del Dia:** *"The best things don't cost much — self-control is free, but worth a lot."*
 
 > **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
-> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, que ABRE con sus 3 frases de LISTEN FIRST (antes de grabar oye 2 minutos a un hablante con otro acento y repite 3 frases imitandolo; video que no abre con sus 3 frases = incompleto), y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
 > 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
 > 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
 > 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
@@ -55,7 +55,8 @@
 
 ## BLOQUE 4 (18') — Cierre
 
-- **Ticket de salida (5'):** cada estudiante escribe 3-5 frases de precio, mezclando *be* y *cost* (minimo 1 con *each*). Se recogen TODOS (no evaluas ni comentas).
+- **Ticket de salida (4'):** cada estudiante escribe 3-5 frases de precio, mezclando *be* y *cost* (minimo 1 con *each*). Se recogen TODOS (no evaluas ni comentas).
+- **Modulo de graduacion — encuesta (3', en ingles simple, tu anotas):** di exactamente: *"At the end of A2 you choose your graduation module. Two options: ENTREPRENEUR — your own business in English: a web page, your pitch video, a review of your business idea — or PASSPORT — going abroad: your presentation video, your CV and letter, interview practice. Tell me two things: which one, and what you need most."* Cada estudiante responde en una linea (*"Entrepreneur — I need a web page."* / *"Passport — I need interview practice."*). Anotas nombre + modulo + lo que mas necesita y lo envias HOY a coordinacion con el reporte. No expliques mas, no prometas fechas ni resultados: *"Coordination designs the workshops with your answers."* Quien no sabe aun: anotas *"undecided"* y se le vuelve a preguntar en Cl 46.
 - **Tarea (tablero):**
 
 ```
@@ -66,12 +67,15 @@ HOMEWORK CL 30 — DUE: Cl 31 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     "How much is the coffee? — It's $2.50." Hand in next class.
 (2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English, EVERY day. (= VIDEO DE HITO Cl 30: it goes to your file.)
     Today's topic: "Three things I bought this week and how much they cost."
+    LISTEN FIRST (5 min, BEFORE you record): listen 2 min to a speaker whose accent is NOT your
+    teacher's (YouTube or a podcast, today's topic). Repeat 3 sentences out loud. OPEN your video
+    with those 3 sentences, then do today's topic.
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion.
 - **VATS (1 pregunta, 2 respuestas max):** *"What is something valuable that costs nothing?"* — **Anuncio:** *"Next class: Module 36 — the next module in the book."*
 
-□ VIDEO DE HITO Cl 30: esta noche reenvias a la auxiliar administrativa el video de CADA estudiante, con su nombre (se guarda en el computador de la academia)  □ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ VIDEO DE HITO Cl 30: esta noche reenvias a la auxiliar administrativa el video de CADA estudiante, con su nombre (se guarda en el computador de la academia)  □ Encuesta del modulo de graduacion (nombre + modulo + lo que mas necesita) enviada HOY a coordinacion  □ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 
