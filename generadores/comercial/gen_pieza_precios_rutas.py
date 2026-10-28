@@ -2,7 +2,7 @@
 """Piezas 'Precios 2026' por RUTA parcial (mismo diseño que PRECIOS_2026_HEIIU.png): A2 → B2 y B1 → B2.
 Precios full y becas = matriz del kit (gen_kit_bonito.py / MOTOR_CUOTAS_FONDO_2026.xlsx). Los niveles que el
 estudiante ya tiene se dibujan en contorno gris ("YA LO TIENES"), así la lámina conserva las 4 barras.
-Salida: recursos/comercial/INDUCCION_COMERCIAL/PRECIOS_2026_A2_B2.png y PRECIOS_2026_B1_B2.png
+Salida: recursos/comercial/INDUCCION_COMERCIAL/PRECIOS_2026_A2_B2.png, PRECIOS_2026_B1_B2.png y PRECIOS_2026_B2.png
 Uso: python -X utf8 generadores/comercial/gen_pieza_precios_rutas.py"""
 import os
 from PIL import Image, ImageDraw, ImageFont
@@ -24,6 +24,8 @@ RUTAS = {
                   dur4='~6 meses', dur2='~12 meses', nombre='Programa A2 → B2'),
     'B1_B2': dict(titulo='DE B1 A B2', incluidos=('B1', 'B2'), horas=375, full=5185000, beca_min='17,6%', beca_max=24.8,
                   dur4='~4 meses', dur2='~9 meses', nombre='Programa B1 → B2'),
+    'B2': dict(titulo='SOLO B2', incluidos=('B2',), horas=200, full=2343000, beca_min='14,4%', beca_max=20.3,
+               dur4='~2,5 meses', dur2='~5 meses', nombre='Programa B2', nota='Último nivel de la ruta: aplica beca del Fondo.'),
 }
 def peso(x): return '$' + format(int(round(x)), ',').replace(',', '.')
 
@@ -64,9 +66,10 @@ def pieza(clave):
             d.text((x + bw // 2, top + 96), hrs, font=font('calibri.ttf', 28), fill=GRIS_CLARO, anchor='mt')
             d.text((x + bw // 2, base_y - 44), 'YA LO TIENES', font=font('calibrib.ttf', 24), fill=GRIS, anchor='mt')
     d.line([(x0, base_y + 2), (x0 + 4 * bw + 3 * gap, base_y + 2)], fill=CAFE, width=3)
-    d.text((x0, base_y + 14), 'Nivel suelto: sin beca.', font=font('calibri.ttf', 26), fill=GRIS)
-    d.text((x0 + 300, base_y + 14), r['nombre'] + ' de lista:', font=font('calibri.ttf', 26), fill=GRIS)
-    d.text((x0 + 300 + d.textlength(r['nombre'] + ' de lista:  ', font=font('calibri.ttf', 26)), base_y + 9),
+    nota = r.get('nota', 'Nivel suelto: sin beca.'); off = 300 if 'nota' not in r else 560
+    d.text((x0, base_y + 14), nota, font=font('calibri.ttf', 26), fill=GRIS)
+    d.text((x0 + off, base_y + 14), r['nombre'] + ' de lista:', font=font('calibri.ttf', 26), fill=GRIS)
+    d.text((x0 + off + d.textlength(r['nombre'] + ' de lista:  ', font=font('calibri.ttf', 26)), base_y + 9),
            peso(r['full']), font=font('calibrib.ttf', 34), fill=CAFE)
 
     cx, cy, cw, ch = 1150, 190, 380, 300
@@ -93,6 +96,7 @@ def pieza(clave):
     d.text((x0, py), 'PROGRAMAS', font=font('calibrib.ttf', 26), fill=NAR)
     progs = ['Súper intensivo 4 h · L-V 8:00 a 12:00 · ' + r['dur4'], 'Intensivo 2 h · L-V 6:30 a 8:30 pm · ' + r['dur2'],
              'Tarde entre semana · en apertura', 'Sabatino 4 h · 8:00 a 12:00 · un nivel a la vez', 'Clases personalizadas · desde 30 h']
+    if clave == 'B2': progs = [t for t in progs if not t.startswith('Sabatino')]  # B2 no tiene sabatino
     for i, t in enumerate(progs):
         cxp = x0 + (i % 2) * 560; cyp = py + 38 + (i // 2) * 32
         d.ellipse([cxp, cyp + 9, cxp + 10, cyp + 19], fill=AMAR, outline=NAR)

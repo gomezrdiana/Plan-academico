@@ -3,7 +3,7 @@
 Sin matriz por perfil (es interna): cada jornada muestra el RANGO de cuota, del perfil Transformación al General
 (Ejecutivo no se muestra: paga su empresa). Números = motor de cuotas del kit (beca de cuotas, inicial 20%,
 cuota fija con el interés del crédito directo, máximo de cuotas por jornada).
-Salida: recursos/comercial/INDUCCION_COMERCIAL/CUOTAS_2026_A1_B2.png, CUOTAS_2026_A2_B2.png, CUOTAS_2026_B1_B2.png
+Salida: recursos/comercial/INDUCCION_COMERCIAL/CUOTAS_2026_A1_B2.png, CUOTAS_2026_A2_B2.png, CUOTAS_2026_B1_B2.png, CUOTAS_2026_B2.png
 Uso: python -X utf8 generadores/comercial/gen_pieza_financiado_cliente.py"""
 import os
 from PIL import Image, ImageDraw, ImageFont
@@ -26,6 +26,10 @@ RUTAS = {
                   horas=485, full=7100000, bq=(27, 19.2), bc=(25.6, 36), n2=11, n4=5, dur2='~12 meses', dur4='~6 meses'),
     'B1_B2': dict(titulo='DE B1 A B2 · A CUOTAS CON HEIIU', nombre='Programa B1 → B2', incluidos=('B1', 'B2'),
                   horas=375, full=5185000, bq=(15.8, 11.2), bc=(17.6, 24.8), n2=8, n4=3, dur2='~9 meses', dur4='~4 meses'),
+    # Solo B2 = fila de la matriz del kit (no es nivel suelto): T 20,3/11,3 · G 14,4/8. Maximo 4 cuotas (2 h, ~5 meses); 4 h ~2,5 meses -> 2 cuotas.
+    'B2': dict(titulo='NIVEL B2 · A CUOTAS CON HEIIU', nombre='Programa B2', incluidos=('B2',),
+               horas=200, full=2343000, bq=(11.3, 8), bc=(14.4, 20.3), n2=4, n4=2, dur2='~5 meses', dur4='~2,5 meses',
+               nota='Ultimo nivel de la ruta: aplica beca del Fondo.'),
 }
 INICIAL = 0.20; TASA = 0.019
 def peso(x): return '$' + format(int(round(x)), ',').replace(',', '.')
@@ -67,10 +71,10 @@ def pieza(clave):
             d.text((x + bw // 2, top + 82), hrs, font=font('calibri.ttf', 26), fill=GRIS_CLARO, anchor='mt')
             d.text((x + bw // 2, base_y - 40), 'YA LO TIENES', font=font('calibrib.ttf', 22), fill=GRIS, anchor='mt')
     d.line([(x0, base_y + 2), (x0 + 4 * bw + 3 * gap, base_y + 2)], fill=CAFE, width=3)
-    d.text((x0, base_y + 12), 'Nivel suelto: sin beca.', font=font('calibri.ttf', 24), fill=GRIS)
-    lab = r['nombre'] + ' de lista:  '
-    d.text((x0 + 280, base_y + 12), lab, font=font('calibri.ttf', 24), fill=GRIS)
-    d.text((x0 + 280 + d.textlength(lab, font=font('calibri.ttf', 24)), base_y + 8), peso(r['full']), font=font('calibrib.ttf', 32), fill=CAFE)
+    d.text((x0, base_y + 12), r.get('nota', 'Nivel suelto: sin beca.').replace('Ultimo', 'Último'), font=font('calibri.ttf', 24), fill=GRIS)
+    lab = r['nombre'] + ' de lista:  '; off = 280 if 'nota' not in r else 560
+    d.text((x0 + off, base_y + 12), lab, font=font('calibri.ttf', 24), fill=GRIS)
+    d.text((x0 + off + d.textlength(lab, font=font('calibri.ttf', 24)), base_y + 8), peso(r['full']), font=font('calibrib.ttf', 32), fill=CAFE)
 
     # plan a cuotas (rango Transformación → General)
     pT = r['full'] * (1 - r['bq'][0] / 100); pG = r['full'] * (1 - r['bq'][1] / 100)
