@@ -30,6 +30,15 @@ RUTAS = {
     'B2': dict(titulo='NIVEL B2 · A CUOTAS CON HEIIU', nombre='Programa B2', incluidos=('B2',),
                horas=200, full=2343000, bq=(11.3, 8), bc=(14.4, 20.3), n2=4, n4=2, dur2='~5 meses', dur4='~2,5 meses',
                nota='Ultimo nivel de la ruta: aplica beca del Fondo.'),
+    # Plan de liderazgo (joven que ya habla ingles, entra a B2): sin garantia, sin video diario, sin libros, sin Cajasan (Diana 28/10)
+    'B2_LIDERAZGO': dict(titulo='PLAN DE LIDERAZGO B2 · A CUOTAS', nombre='Plan de liderazgo B2', incluidos=('B2',),
+               horas=200, full=2343000, bq=(11.3, 8), bc=(14.4, 20.3), n2=4, n4=2, dur2='~5 meses', dur4='~2,5 meses',
+               nota='Ultimo nivel de la ruta: aplica beca del Fondo.',
+               sub='Plan de liderazgo en inglés · 200 horas presenciales en B2 · un rol en cada simulación',
+               incluye=['Clases presenciales en grupo, en inglés', 'Rol en cada simulación: presentador,', 'mediador o coach', 'Video de hito cada 10 clases',
+                        'Reporte de asistencia y avance', 'Proyecto final en vivo con preguntas', 'Certificado B2 con evaluador externo'],
+               pie='Separa el cupo con $300.000 y congela el precio · Plan de liderazgo en inglés · 200 horas presenciales en Bucaramanga',
+               outdir=os.path.join(BASE, 'recursos', 'personalizados', 'JOVEN_BILINGUE')),
 }
 INICIAL = 0.20; TASA = 0.019
 def peso(x): return '$' + format(int(round(x)), ',').replace(',', '.')
@@ -53,7 +62,7 @@ def pieza(clave):
     except Exception:
         d.text((150, 50), 'heiiu', font=font('calibrib.ttf', 60), fill=NAR)
     d.text((W // 2 + 40, 60), r['titulo'], font=font('calibrib.ttf', 50), fill=CAFE, anchor='mt')
-    d.text((W // 2 + 40, 120), '%s · %d horas presenciales · garantía por escrito' % (r['nombre'], r['horas']),
+    d.text((W // 2 + 40, 120), r.get('sub', '%s · %d horas presenciales · garantía por escrito' % (r['nombre'], r['horas'])),
            font=font('calibri.ttf', 24), fill=GRIS, anchor='mt')
 
     # escalera (más baja para dejar sitio al plan)
@@ -72,7 +81,7 @@ def pieza(clave):
             d.text((x + bw // 2, base_y - 40), 'YA LO TIENES', font=font('calibrib.ttf', 22), fill=GRIS, anchor='mt')
     d.line([(x0, base_y + 2), (x0 + 4 * bw + 3 * gap, base_y + 2)], fill=CAFE, width=3)
     d.text((x0, base_y + 12), r.get('nota', 'Nivel suelto: sin beca.').replace('Ultimo', 'Último'), font=font('calibri.ttf', 24), fill=GRIS)
-    lab = r['nombre'] + ' de lista:  '; off = 280 if 'nota' not in r else 560
+    lab = r['nombre'] + ' de lista:  '; off = 280 if 'nota' not in r else 480
     d.text((x0 + off, base_y + 12), lab, font=font('calibri.ttf', 24), fill=GRIS)
     d.text((x0 + off + d.textlength(lab, font=font('calibri.ttf', 24)), base_y + 8), peso(r['full']), font=font('calibrib.ttf', 32), fill=CAFE)
 
@@ -109,14 +118,15 @@ def pieza(clave):
     cy2 = cy + ch + 24; ch2 = 236
     d.rounded_rectangle([cx, cy2, cx + cw, cy2 + ch2], radius=20, fill=BLANCO, outline=NAR, width=3)
     d.text((cx + 22, cy2 + 18), 'QUÉ INCLUYE', font=font('calibrib.ttf', 26), fill=NAR)
-    for i, t in enumerate(['Garantía de aprendizaje por escrito', 'Clases presenciales en grupo', 'Video diario revisado por tu profesor',
-                           'Reporte de asistencia y avance', 'Libros incluidos si separas hoy', 'Afiliados a Cajasan: condiciones', 'especiales con carné o certificado vigente']):
-        d.text((cx + 22, cy2 + 54 + i * 26), t, font=font('calibri.ttf', 20), fill=CAFE if i < 5 else GRIS)
+    incl = r.get('incluye', ['Garantía de aprendizaje por escrito', 'Clases presenciales en grupo', 'Video diario revisado por tu profesor',
+                           'Reporte de asistencia y avance', 'Libros incluidos si separas hoy', 'Afiliados a Cajasan: condiciones', 'especiales con carné o certificado vigente'])
+    for i, t in enumerate(incl):
+        d.text((cx + 22, cy2 + 54 + i * 26), t, font=font('calibri.ttf', 20), fill=CAFE if ('incluye' in r or i < 5) else GRIS)
 
-    d.text((x0, H - 46), 'Separa tu cupo con $300.000 y congela el precio · Única academia presencial de Bucaramanga con garantía de aprendizaje por escrito',
+    d.text((x0, H - 46), r.get('pie', 'Separa tu cupo con $300.000 y congela el precio · Única academia presencial de Bucaramanga con garantía de aprendizaje por escrito'),
            font=font('calibri.ttf', 21), fill=GRIS)
 
-    out = os.path.join(OUTDIR, 'CUOTAS_2026_%s.png' % clave)
+    out = os.path.join(r.get('outdir', OUTDIR), 'CUOTAS_2026_%s.png' % clave)
     try: img.save(out, optimize=True); print('OK', out)
     except OSError: img.save(out.replace('.png', '_v2.png'), optimize=True); print('ABIERTA -> _v2', out)
     for n in (r['n2'], r['n4']):
