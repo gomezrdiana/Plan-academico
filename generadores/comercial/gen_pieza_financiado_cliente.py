@@ -35,8 +35,8 @@ RUTAS = {
                horas=200, full=2343000, bq=(11.3, 8), bc=(14.4, 20.3), n2=4, n4=2, dur2='~5 meses', dur4='~2,5 meses',
                nota='Ultimo nivel de la ruta: aplica beca del Fondo.',
                sub='Plan de liderazgo en inglés · 200 horas presenciales en B2 · un rol en cada simulación',
-               incluye=['Clases presenciales en grupo, en inglés', 'Rol en cada simulación: presentador,', 'mediador o coach', 'Video de hito cada 10 clases',
-                        'Reporte de asistencia y avance', 'Proyecto final en vivo con preguntas', 'Certificado B2 con evaluador externo'],
+               incluye=['Clases presenciales en grupo, en inglés', 'Énfasis en liderazgo', 'Rol en cada simulación: presentador,', 'mediador o coach',
+                        'Reporte de asistencia y avance'],
                pie='Separa el cupo con $300.000 y congela el precio · Plan de liderazgo en inglés · 200 horas presenciales en Bucaramanga',
                outdir=os.path.join(BASE, 'recursos', 'personalizados', 'JOVEN_BILINGUE')),
 }

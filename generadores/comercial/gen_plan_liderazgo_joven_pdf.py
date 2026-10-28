@@ -95,7 +95,7 @@ bullets([
     ('Entra directo a B2: ', 'la prueba de ubicación (examen en línea y entrevista oral) confirma el nivel. No repite nada.'),
     ('Clases presenciales en inglés, de pie, ', 'con simulaciones de la vida real y del mundo profesional. Nada de pantalla.'),
     ('Un rol en cada simulación: ', 'presentador, mediador o coach. Como coach observa a sus compañeros, anota y les da retroalimentación en inglés.'),
-    ('Reto que sube: ', 'cada 10 clases un hito grabado, con más público y menos tiempo de preparación.'),
+    ('Énfasis en liderazgo: ', 'en cada clase se le pide dirigir algo: una presentación, un debate o una decisión del grupo.'),
     ('Tarea: ', 'preparar sus intervenciones (la presentación, el debate, el pitch) para llegar a defenderlas.'),
 ], m + 10, top - 144, cw - 20)
 
@@ -122,12 +122,10 @@ flow([P('CARÁCTER, NO SOLO IDIOMA', 8.8, NAR2, True, TA_CENTER),
 py_top = bot - 14; p_h = 166; py = py_top - p_h
 rbox(m, py, cw, p_h, white, LINEA, 10)
 rbox(x2, py, cw, p_h, white, LINEA, 10)
-flow([P('LO QUE USTED VE COMO ACUDIENTE', 9.6, NAR2, True)], m + 12, py_top - 18, cw - 24, 16)
-bullets([('Grabación de entrada el primer día, ', 'archivada en la academia como punto de partida.'),
-         ('Video de hito cada 10 clases: ', 'el avance se ve, no se cuenta.'),
-         ('Reporte de asistencia y avance: ', 'puntualidad, participación y roles cumplidos. Las evaluaciones las comunica coordinación.'),
-         ('Proyecto final en vivo ', 'con preguntas del público, grabación de salida y su video del antes y el después.'),
-         ('Certificado oficial B2 ', 'con examen final aplicado por un evaluador externo.')],
+flow([P('LO QUE USTED RECIBE COMO ACUDIENTE', 9.6, NAR2, True)], m + 12, py_top - 18, cw - 24, 16)
+bullets([('Reporte de asistencia y avance: ', 'puntualidad, participación y roles cumplidos en clase.'),
+         ('Las evaluaciones las comunica coordinación, ', 'nunca el profesor en el pasillo.'),
+         ('Un plan con énfasis en liderazgo: ', 'el inglés es el medio; lo que se le exige es dirigir, presentar, mediar y decidir.')],
         m + 10, py_top - 24, cw - 20, gap=2.2, size=8.6)
 flow([P('CÓMO EMPEZAR', 9.6, NAR2, True)], x2 + 12, py_top - 18, cw - 24, 16)
 bullets([('1. Prueba de ubicación ', 'que confirme el nivel B2 (examen en línea desde casa y entrevista oral corta).'),
@@ -142,7 +140,7 @@ c.showPage()
 
 # ======================= PÁGINA 2: LAS 200 HORAS =======================
 band2 = 84
-header('Su plan: 200 horas en B2', 'Dos fases y un proyecto final · cada simulación con un rol para él · hito grabado en las clases 10, 20, 30 y 40', band2)
+header('Su plan: 200 horas en B2', 'Dos fases · cada simulación con un rol para él · énfasis en liderazgo', band2)
 
 fases = [
  ('FASE 1', 'LA VIDA REAL EN INGLÉS', 'primera mitad',
@@ -172,22 +170,13 @@ for i, (fase, nom, cuando, que, rol) in enumerate(fases):
          m2 + 90, yb + 7, cw2 - 100, card_h2 - 12)
     yt = yb - gap2
 
-# proyecto final
-ph = 96; yb = yt - ph
-rbox(m2, yb, cw2, ph, NAR, None, 12)
-flow([P('PROYECTO FINAL EN VIVO', 12, AMA, True, TA_LEFT),
-      P('Un proyecto propio, presentado frente al grupo y a los invitados, con preguntas del público al final. Ese día se graba su salida y queda su video del antes y el después: '
-        'la grabación del primer día al lado de la última. Después, el examen final de B2 con un evaluador externo y su certificado oficial.', 9.4, white, False, TA_LEFT, 12.2)],
-     m2 + 16, yb + 8, cw2 - 32, ph - 14)
-yt = yb - gap2
-
 # nota final
 nh = 84; ny = yt - nh
 rbox(m2, ny, cw2, nh, CREMA, None, 10)
 c.setFillColor(AMA); c.roundRect(m2, ny, 6, nh, 3, fill=1, stroke=0)
 flow([P('Lo que no vendemos: ', 9.2, NAR2, True),
       P('no es un curso de inglés para él: el inglés ya lo trae. Es un entrenamiento de liderazgo exigente, en inglés y en un grupo de adultos, donde se le pide más de lo que está acostumbrado a dar. '
-        'No prometemos que sea fácil ni cómodo. Prometemos un reto a su medida, un rol en cada clase y pruebas en video de dónde empezó y dónde terminó.', 8.8, NEGRO, False, TA_LEFT, 11.4)],
+        'No prometemos que sea fácil ni cómodo. Prometemos un reto a su medida y un rol en cada clase.', 8.8, NEGRO, False, TA_LEFT, 11.4)],
      m2 + 16, ny + 5, cw2 - 28, nh - 10)
 
 footer('Heiiu English Academy, Bucaramanga · Instagram @Heiiu_english')
