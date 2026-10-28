@@ -87,7 +87,7 @@ def pieza(clave):
         d.text((bx + 18, by + 70), '%d cuotas de %s a %s' % (n, peso(cT), peso(cG)), font=font('calibrib.ttf', 26), fill=CAFE)
     d.text((x0, py + 176), 'Inicial del 20%%: de %s a %s · Separas hoy con $300.000 y se cruza con la inicial · Pagas antes de terminar el programa' % (peso(pT * INICIAL), peso(pG * INICIAL)),
            font=font('calibri.ttf', 20), fill=CAFE)
-    d.text((x0, py + 204), 'Las cuotas incluyen el costo de financiación. Menos cuotas, menor valor total. Tu plan exacto te lo entrega la asesora por escrito.',
+    d.text((x0, py + 204), 'Las cuotas incluyen el costo de financiación. Menos cuotas, menor valor total. Tu plan queda por escrito el día que firmas.',
            font=font('calibri.ttf', 20), fill=GRIS)
 
     # tarjeta contado
@@ -106,7 +106,7 @@ def pieza(clave):
     d.rounded_rectangle([cx, cy2, cx + cw, cy2 + ch2], radius=20, fill=BLANCO, outline=NAR, width=3)
     d.text((cx + 22, cy2 + 18), 'QUÉ INCLUYE', font=font('calibrib.ttf', 26), fill=NAR)
     for i, t in enumerate(['Garantía de aprendizaje por escrito', 'Clases presenciales en grupo', 'Video diario revisado por tu profesor',
-                           'Reporte de asistencia y avance', 'Libros incluidos si separas hoy', 'Afiliados a Cajasan: condiciones', 'especiales (se confirman en la asesoría)']):
+                           'Reporte de asistencia y avance', 'Libros incluidos si separas hoy', 'Afiliados a Cajasan: condiciones', 'especiales con carné o certificado vigente']):
         d.text((cx + 22, cy2 + 54 + i * 26), t, font=font('calibri.ttf', 20), fill=CAFE if i < 5 else GRIS)
 
     d.text((x0, H - 46), 'Separa tu cupo con $300.000 y congela el precio · Única academia presencial de Bucaramanga con garantía de aprendizaje por escrito',
