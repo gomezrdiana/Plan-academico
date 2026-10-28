@@ -111,8 +111,9 @@ def pieza(clave):
     d.text((cx + cw // 2, cy + 104), 'del %s al %s' % (pct(r['bc'][0]), pct(r['bc'][1])), font=font('calibrib.ttf', 46), fill=BLANCO, anchor='mt')
     d.text((cx + cw // 2, cy + 168), r['nombre'] + ', de contado', font=font('calibri.ttf', 21), fill=(255, 230, 210), anchor='mt')
     d.text((cx + cw // 2, cy + 196), 'desde ' + peso(r['full'] * (1 - r['bc'][1] / 100)), font=font('calibrib.ttf', 34), fill=AMAR, anchor='mt')
-    d.text((cx + cw // 2, cy + 246), 'Cesantías, crédito con tu banco o cooperativa', font=font('calibri.ttf', 18), fill=(255, 230, 210), anchor='mt')
-    d.text((cx + cw // 2, cy + 270), 'y tarjeta de crédito cuentan como contado.', font=font('calibri.ttf', 18), fill=(255, 230, 210), anchor='mt')
+    # tarjeta de credito no se escribe (Diana 28/10): se trata en la cita
+    d.text((cx + cw // 2, cy + 246), 'Cesantías y crédito con tu banco', font=font('calibri.ttf', 18), fill=(255, 230, 210), anchor='mt')
+    d.text((cx + cw // 2, cy + 270), 'o cooperativa cuentan como contado.', font=font('calibri.ttf', 18), fill=(255, 230, 210), anchor='mt')
 
     # tarjeta qué incluye
     cy2 = cy + ch + 24; ch2 = 236
