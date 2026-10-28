@@ -124,7 +124,7 @@ bullets([('1. Prueba de ubicación: ', 'examen en línea desde casa y una entrev
          ('Tiene 5 días hábiles ', 'para cambiar de opinión con devolución total, por ley.')],
         m + 10, py_top - 24, cw - 20, gap=2.4, size=8.6)
 flow([P('JORNADAS Y VALOR', 9.6, NAR2, True)], x2 + 12, py_top - 18, cw - 24, 16)
-bullets([('Desde los 12 años en cualquier jornada: ', 'mañana 8:00 a 12:00, noche 6:30 a 8:30 PM, sabatino 8:00 a 12:00 (hasta B1) o tarde entre semana, en apertura.'),
+bullets([('Jornadas: ', 'mañana 8:00 a 12:00, noche 6:30 a 8:30 PM, sabatino 8:00 a 12:00 (hasta B1) o tarde entre semana, en apertura. Su cupo ya está aceptado por coordinación.'),
          ('Se escoge la que cuadre con el colegio ', 'y se sostiene: la asistencia es parte de la garantía.'),
          ('El valor depende del nivel de entrada ', 'y de la forma de pago. Queda por escrito el día de la asesoría, antes de firmar.'),
          ('Afiliados a Cajasan: ', 'condiciones especiales con carné o certificado vigente.')],
