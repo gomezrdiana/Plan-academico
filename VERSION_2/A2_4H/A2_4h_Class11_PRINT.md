@@ -3,6 +3,15 @@
 **Virtud:** JUSTICIA (v1, dia 1 de 5 — se ABRE virtud nueva) · **Modulo:** M24 I'll Pick You Up at 8:00 — Separable Phrasal Verbs (Libro A2 p.233-240) + M26 I'm as Big as My Dad — Equal Comparatives (p.241-246)
 **Frase del Dia:** *"A fair boss picks you up on time and is as good as her word."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (35') — Apertura
 
 - **Recuperacion (12'), oral y DE PIE, en cadena, sin cuaderno:**
@@ -10,7 +19,7 @@
   - De Cl 4 (N-7: relativo *that* + first conditional): tu das medio enunciado y la cadena lo cierra — *"I think that..."* → *"...I will arrive early."*; luego *"If it rains tomorrow, ..."* → *"...I will take a taxi."* 4-5 estudiantes.
   - Errores oidos → tablero, anonimos → 1 min de re-produccion correcta en coro.
 - **Apertura de virtud JUSTICIA (5'):** escribe **JUSTICE / JUSTICIA** en el tablero y la definicion operativa en 1 linea: *"Justice = giving each person what is fair, and keeping my word."* Ronda rapida: cada estudiante dice en ingles UNA accion justa concreta de esta semana (*"I paid my part." / "I told the truth to my team."*) — 1 frase, sin traducir, sin discurso. Cierra: *"This is our virtue for the next five classes."*
-- **Chequeo publico de portafolio (4'):** *"Who did their daily audio/video?"* — pregunta uno por uno y ANOTA en tu libreta quien SI y quien NO. No revisas contenido. Al anotar, di: *"That was piece 10 of your MY YEAR."*
+- **Chequeo publico de portafolio (4'):** *"Who sent their daily video?"* — pregunta uno por uno y ANOTA en tu libreta quien SI y quien NO. Ya VISTE cada video antes de clase: dile a cada uno su UNA mejora en una frase, sin nota ni comentario de calidad. Al anotar, di: *"That was piece 10 of your MY YEAR."*
 - **Frase del Dia en tablero (4')** — escrita ANTES de que entren. 2 lecturas + coro 2x. Insertala natural 3+ veces durante el dia (al abrir Bloque 2, en el drill, al cerrar la simulacion). Al cierre: 1 estudiante la dice de memoria, otro la usa en oracion nueva.
 - **Revision de tarea Cl 10 (10'):** recoge los papeles (8-10 frases con gerundios de doble verbo + phrasal verbs). 3 estudiantes leen 1 frase cada uno EN VOZ ALTA; corriges solo la forma. Anota en la libreta quien NO entrego.
 
@@ -92,7 +101,7 @@ HOMEWORK CL 11 — DUE: Cl 12 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     + 4-5 EQUAL COMPARATIVES "as ... as"
         (2 affirmative + 1 negative "isn't as ... as" + 1 with "almost as ... as")
     Hand it in next class. No excuses, no half work.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), EVERY day.
     Today's topic: "My real morning: what I turn on, what I put on, who I pick up
     — and one thing that is as good as another." (= MY YEAR piece 11)
 ```
@@ -100,7 +109,7 @@ HOMEWORK CL 11 — DUE: Cl 12 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - **Error paper:** version anonima en clase (los errores del dia al tablero, sin nombres); libreta privada con nombres + citas literales viaja a coordinacion con los tickets.
 - **Anuncio:** *"Next class: comparatives — I'm smarter than Steve — and superlatives — you're the best!"*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

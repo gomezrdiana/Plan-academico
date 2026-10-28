@@ -3,13 +3,22 @@
 **Virtud:** TEMPLANZA (v3, dia 3 de 5) · **Modulo:** REPASO 2.6 — Superlativo + Grados/Intensificadores (M28 You're the Best!, p.253-260 · M29 How Tall Are You?, p.261-266)
 **Frase del Dia:** *"The calmest person is the strongest — self-control is not very loud, but it is really powerful."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**
   - De Cl 45 (repaso de gerundios — sujeto / tras preposicion / doble verbo): *"One TRUE sentence with -ing as the subject and one double-verb goal: 'Studying at night is hard. I decided to stop eating late.'"* — 4-5 estudiantes en cadena; el grupo caza *verbo-ING como sujeto* y *want/decide/stop + forma correcta*.
   - De Cl 41 (repaso de condicionales, first & second): *"Complete for real: 'If I finish early today, I will ___.' / 'If I had more time, I would ___.'"* — 3-4 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro. NO lo conviertas en explicacion.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta y ANOTA (no revisas contenido).
+- **Chequeo publico de portafolio (3'):** *"Who sent their daily video?"* — pregunta y ANOTA (ya VISTE cada video antes de clase: dile a cada uno su UNA mejora en una frase, sin nota ni comentario de calidad).
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy.
 - **Revision de tarea Cl 47** (8 frases mezclando comparativos iguales y desiguales): recoge papeles; 2 estudiantes leen 1 comparacion. Anota en libreta quien NO entrego.
 
@@ -57,16 +66,16 @@ HOMEWORK CL 48 — DUE: Cl 49 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     worked / studied...) + 4 COMPARATIVES (as...as / more...than /
     better-worse) about your real life. Ex: "I have visited more cities
     than my brother." / "This year has been busier than last year."
-(2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English, EVERY day.
     Today's topic: "The best decision I have made this year, and why it
     was better than the easy option."
-    >> This audio is your MY LIFE piece 5 of 7. Keep it for Cl 53.
+    >> This video is your MY LIFE piece 5 of 7. Keep it for Cl 53.
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion.
 - **VATS (1 pregunta, 2 respuestas max):** *"Is it better to say much or to say little?"* — **Anuncio:** *"Next class: our last review block (Module 30 and up) — and soon we start preparing the final presentation."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 
@@ -102,4 +111,4 @@ HOMEWORK CL 48 — DUE: Cl 49 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - Virtud: TEMPLANZA v3 (Cl 46-50), hoy dia 3. La Frase del Dia une superlativo + intensificador (calmest / strongest / not very loud / really powerful) con templanza (autocontrol silencioso pero poderoso).
 - El libro NO trae seccion de "errores tipicos"; los errores tachados en el Bloque 2 son ayudas de correccion inferidas del uso real del cohorte, no contenido citado del libro.
 - NO comunicar nada de presentaciones/midterm/final; coordinacion maneja.
-- PROYECTO MY LIFE (confirmado por Diana 28/08/2026): anunciado en Cl 44; pieza 5 de 7 hoy = el audio del portafolio. Ensamble Cl 51-52, presentaciones Cl 53. Ver A2_2h_MY_LIFE_INSTRUCTIVO.
+- PROYECTO MY LIFE (confirmado por Diana 28/08/2026): anunciado en Cl 44; pieza 5 de 7 hoy = el video del portafolio. Ensamble Cl 51-52, presentaciones Cl 53. Ver A2_2h_MY_LIFE_INSTRUCTIVO.

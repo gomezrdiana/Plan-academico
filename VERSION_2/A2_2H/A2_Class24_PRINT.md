@@ -3,6 +3,15 @@
 **Virtud:** PRUDENCIA (v2, dia 4 de 5) · **Modulo:** M28 You're the Best! — The Superlative, Libro A2 p.253-260
 **Frase del Dia:** *"The wisest choice is not always the newest or the richest — a prudent person names the best reason before deciding."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 > **HOY SOLO: M28 — el SUPERLATIVO (the -est / the -iest / the most / the best - the worst). NO TOCAR AÚN: las preguntas *How + adjetivo?* y los intensificadores very / really / kinda / pretty / not very — eso es de Cl 25.**
 
 ## BLOQUE 1 (22') — Apertura
@@ -11,7 +20,7 @@
   - De Cl 21 (M24 phrasal verbs separables): *"One real sentence with a separable phrasal verb + a pronoun IN THE MIDDLE: 'I turn it off. I pick her up.'"* — 4-5 estudiantes; el grupo caza que el pronombre quede EN MEDIO.
   - De Cl 17 (M20 gerundio como sujeto): *"One opinion with -ing as the subject: 'Studying English is important.'"* — 3-4 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro. NO lo conviertas en explicacion.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta y ANOTA (no revisas contenido).
+- **Chequeo publico de portafolio (3'):** *"Who sent their daily video?"* — pregunta y ANOTA (ya VISTE cada video antes de clase: dile a cada uno su UNA mejora en una frase, sin nota ni comentario de calidad).
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy.
 - **Revision de tarea Cl 23** (A vs B: The Better Choice, comparativos desiguales): recoge papeles; 2 estudiantes leen 1 comparacion. Anota en libreta, no corrijas aqui.
 
@@ -58,14 +67,14 @@ HOMEWORK CL 24 — DUE: Cl 25 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     about real groups you know (your team, your family, three places):
     3 with THE -EST + 2 with THE -IEST + 2 with THE MOST... + 1 with THE
     BEST or THE WORST. Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English, EVERY day.
     Today's topic: "The best decision I have made this year — and why."
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion.
 - **VATS (1 pregunta, 2 respuestas max):** *"What is the wisest choice you have made this year?"* — **Anuncio:** *"Next class: M29 — our next module in the book."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

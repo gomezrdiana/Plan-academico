@@ -3,6 +3,15 @@
 **Virtud:** TEMPLANZA (v2, dia 1 de 3 — APERTURA del bloque) · **Modulo:** ARCO DE REPASO A2→B1 — cluster PREPOSICIONES + ARTICULOS + CANTIDADES (libro A2 agotado en M44; hoy se corrige, no se avanza)
 **Frase del Dia:** *"I don't need much — I need the right word, at the right time and in the right place."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (35') — Apertura
 
 - **Apertura de virtud — TEMPLANZA (5'):** escribes la palabra en el tablero y das UNA definicion operativa, no filosofica: *"Temperance is the right amount: not too much, not too little. Today it is also grammar — the right preposition, the right article, the right quantity."* Cada estudiante dice en voz alta, en una frase, una cosa suya donde le sobra y una donde le falta (*"I drink too much coffee and I don't sleep enough."*). Ronda rapida, 1 frase por persona, sin comentario del profe. Cierras: *"Three classes with this word. It starts today."*
@@ -10,7 +19,7 @@
   - De Cl 23 (N-3: comparativos + gerundio/infinitivo): escribes 3 pares en el tablero (*my job / my old job · this month / last month · English / Spanish*) y el estudiante compara (*"This month is busier than last month."*) y el siguiente engancha un gerundio o infinitivo (*"I enjoy working here, but I want to change my schedule."*). 4-5 estudiantes.
   - De Cl 19 (N-7: *get* + adjetivo = cambio de estado): lanzas un adjetivo (*tired · better · angry · dark · ready*) y la cadena lo produce como cambio (*"I get tired after lunch." / "It got dark very early."*). 3-4 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (4'):** *"Who did their daily audio/video?"* — pregunta y ANOTA. Agrega UNA linea: *"That was your rehearsal of MY YEAR pieces 16 and 17."*
+- **Chequeo publico de portafolio (4'):** *"Who sent their daily video?"* — pregunta y ANOTA. Agrega UNA linea: *"That was your rehearsal of MY YEAR pieces 16 and 17."*
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces: cada vez que oigas *much* mal usado o una preposicion cambiada. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 25 (8'):** recoge papeles (8-10 frases mala → buena del cluster de preguntas y negativos); 2 estudiantes leen 1 correccion en voz alta. Anota en libreta quien NO entrego.
 
@@ -86,14 +95,14 @@ HOMEWORK CL 26 — DUE: Cl 27 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
                                    There is many people. -> There ARE many people.)
 (2) PREPARE your final MY YEAR presentation (3-5 min): assemble your 19 pieces.
     Notes allowed, reading NOT allowed.
-(3) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day.
+(3) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), EVERY day.
     Today: record your MY YEAR pieces 18 and 19.
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Cl 27: PRESENTACION FINAL de MY YEAR + ultimo cluster."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

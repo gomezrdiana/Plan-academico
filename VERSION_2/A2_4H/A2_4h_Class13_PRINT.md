@@ -3,6 +3,15 @@
 **Virtud:** JUSTICIA (v1, dia 3 de 5) · **Modulo:** M29 "How Tall Are You?" — Degrees of Adjectives (Libro A2 p.261-266). MODULO UNICO: los 4 bloques giran alrededor de M29.
 **Frase del Dia:** *"How fair is a good boss? He's really fair, and not very strict."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (35') — Apertura
 
 - **Recuperacion (14'), oral y DE PIE, en cadena, sin cuaderno:**
@@ -10,7 +19,7 @@
   - De Cl 10 (N-3, parte 2 — phrasal verbs NO separables): tu das el phrasal, el estudiante lo usa entero en una frase real y el siguiente lo vuelve pregunta (*"I look for my keys every morning." → "What do you look for?"*). 4-5 estudiantes.
   - De Cl 6 (N-7 — *already / still / until* + *while / during*): tu lanzas 3 mini-situaciones (*"You arrive at the office at 6:00 AM." · "The meeting starts at 9:00." · "The client calls in the middle of your lunch."*) y la cadena responde 1 frase con la palabra que le toca (*"I already finished the report." · "I have to wait until nine." · "The client called during my lunch." · "I was reading while she was talking."*). 4-5 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (5'):** *"Who did their daily audio/video?"* — pregunta uno por uno y ANOTA en tu libreta (si/no). No comentes nada de evaluaciones. Al anotar, di: *"That was piece 12 of your MY YEAR."*
+- **Chequeo publico de portafolio (5'):** *"Who sent their daily video?"* — pregunta uno por uno y ANOTA en tu libreta (si/no). No comentes nada de evaluaciones. Al anotar, di: *"That was piece 12 of your MY YEAR."*
 - **Frase del Dia en tablero (6')** (escrita ANTES de que entren). 2 lecturas + coro 2x; subraya *How fair* y los dos intensificadores (*really* / *not very*). Insertala natural 3+ veces durante el dia. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 12 (10'):** recoge los papeles (8-10 frases con comparativos + superlativos). 3 estudiantes leen 1 frase cada uno en voz alta. Anota en tu libreta quien NO entrego. No califiques ni comentes nota.
 
@@ -69,7 +78,7 @@ HOMEWORK CL 13 - DUE: Cl 14 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
        really / very / kinda / sorta / pretty / not very.
     At least 1 answer must be the polite opposite with "not very".
     Hand in next class. "No time" is not accepted.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day.
+(2) DAILY PORTFOLIO - VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), EVERY day.
     Today's topic: "How hard is my job? How early is my day?"
       (= MY YEAR piece 13)
 (3) PREPARE your MIDTERM mini-talk for next class (about 5 min):
@@ -82,7 +91,7 @@ HOMEWORK CL 13 - DUE: Cl 14 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - **Error paper:** el anonimo se trabaja en clase (tablero, sin nombres); tu libreta privada con nombres + citas literales va a coordinacion con la guia firmada.
 - **Cierre de Frase del Dia + anuncio (10'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Luego, anuncio literal y sin agregar nada: *"Next class: midterm mini-talks + too much or just enough."* NO comentes formato, duracion de la evaluacion, criterios ni notas: eso es de coordinacion.
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

@@ -3,6 +3,15 @@
 **Virtud:** PRUDENCIA (v1, dia 4 de 5) · **Modulo:** M5 The Future in Triplicate — The Three Basic Future Forms, Libro A2 p.31-40 (M4 no existe en el libro; se salta)
 **Frase del Dia:** *"Prudence chooses the right future for each thought: I will help now, I am going to plan today, I am meeting the team on Friday."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 > **HOY SOLO: M5 — las tres formas de futuro (WILL / GOING TO / present continuous). NO TOCAR AÚN: el presente simple para horarios fijos (*The train leaves at 7*) con arrive at / get to — eso es de Cl 5.**
 
 ## BLOQUE 1 (22') — Apertura
@@ -10,7 +19,7 @@
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:** (primera N-3 real del curso — Cl 4 trae Cl 1; N-7 aun no existe)
   - De Cl 1 (WILL + dia + ON): lanza a 5-6 estudiantes, uno por uno: *"One TRUE future plan: 'I will ___ on ___day.'"* -> *"Now a negative: 'I won't ___ on ___day.'"* -> *"Now ask your classmate: 'Will you ___ on ___day?' + short answer (Yes, I will / No, I won't)."*
   - Errores que oigas van al tablero anonimos -> 1 min de re-produccion correcta en coro. NO lo conviertas en explicacion.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta uno por uno y ANOTA (NO revisas contenido).
+- **Chequeo publico de portafolio (3'):** *"Who sent their daily video?"* — pregunta uno por uno y ANOTA (ya VISTE cada video antes de clase: dile a cada uno su UNA mejora en una frase, sin nota ni comentario de calidad).
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Nota que la frase YA usa los 3 futuros: hoy entenderan cual es cual.
 - **Revision de tarea Cl 3** (My Month of Dates): recoge papeles; 2 estudiantes leen 1 fecha. Anota en libreta.
 
@@ -70,7 +79,7 @@ HOMEWORK CL 4 — DUE: Cl 5 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     month: 3 with WILL (prediction / decision in the moment / offer) +
     3 with GOING TO (a plan you already have) + 3 with PRESENT
     CONTINUOUS (something already scheduled). Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English, EVERY day.
     Today's topic: "What I will do, what I am going to do, and what I am
     doing next week."
 ```
@@ -78,7 +87,7 @@ HOMEWORK CL 4 — DUE: Cl 5 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - **Error paper:** anonimo en clase (los del tablero); en tu libreta privada, errores literales CON nombre para coordinacion.
 - **VATS (1 pregunta, 2 respuestas max):** *"Which choice did you think through today instead of rushing?"* — **Anuncio:** *"Next class: Right on Time! — how English talks about trains, flights and fixed schedules."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

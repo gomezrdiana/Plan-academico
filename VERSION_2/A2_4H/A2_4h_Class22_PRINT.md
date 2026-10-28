@@ -3,6 +3,15 @@
 **Virtud:** PRUDENCIA (v2, dia 2 de 5) · **Modulo:** ARCO DE REPASO A2→B1, clase 2 de 8 — CLUSTER TIEMPOS VERBALES: presente simple vs continuo · pasado simple vs continuo · presente perfecto vs pasado simple (libro A2 agotado en M44; sin modulo nuevo)
 **Frase del Dia:** *"Prudence is thinking before you speak: I work here, I am working now, and I have worked hard to be here."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (35') — Apertura
 
 - **Recuperacion (12'), oral y DE PIE, en cadena, sin cuaderno:**
@@ -10,7 +19,7 @@
   - De Cl 15 (N-7: *how much* + precios): escribes 3 cosas en el tablero (*a coffee · a taxi ride · a phone*) → un estudiante pregunta *"How much does it cost?"*, el siguiente responde con precio (*"It costs five thousand pesos."*) y un tercero pregunta *"How much money do you spend on transport every week?"*. 3-4 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
 - **Virtud PRUDENCIA, dia 2 (5'):** una linea y una ronda corta. *"Yesterday we said prudence is thinking first. Today prudence is grammar: before you speak, decide WHEN it happened."* Cadena de 4-5 estudiantes: cada uno dice una decision que tomo despacio y como le fue (*"I thought about it for a week, and it worked."*). Sin evaluacion, sin comentarios de calidad.
-- **Chequeo publico de portafolio (5'):** *"Who did their daily audio/video?"* — pregunta y ANOTA. Agrega UNA linea: *"Your audio was your MY YEAR rehearsal — pieces 1 to 5."*
+- **Chequeo publico de portafolio (5'):** *"Who sent their daily video?"* — pregunta y ANOTA. Agrega UNA linea: *"Your video was your MY YEAR rehearsal — pieces 1 to 5."*
 - **Frase del Dia en tablero (5')** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces: cada vez que alguien elija mal el tiempo verbal, la repites y el estudiante corrige. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 21 (8'):** recoge papeles (6 correcciones + 4 frases nuevas, causativo + adverbios); 2 estudiantes leen 1 correccion en voz alta. Anota en libreta privada quien NO entrego.
 
@@ -105,15 +114,15 @@ HOMEWORK CL 22 — DUE: Cl 23 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
         2 present perfect vs past simple contrasts
         ("I have ... ; I ... last year")
     All about your real work, study or week. Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), EVERY day.
     Today's topic: rehearse MY YEAR pieces 6, 7 and 8, one after the other.
-      (Your audio IS your rehearsal. Keep it.)
+      (Your video IS your rehearsal. Keep it.)
 ```
 
 - **Error paper:** anonimo en clase (papel fisico); libreta privada aparte con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: comparativos y gerundio vs infinitivo."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

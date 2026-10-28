@@ -3,6 +3,15 @@
 **Virtud:** PRUDENCIA (v1, dia 1 de 5 — ABRE el bloque) · **Modulo:** M1 I Will Play on Monday — The Future and Days of the Week, Libro A2 p.1-12
 **Frase del Dia:** *"A prudent person names the week before living it: I will decide on Monday what a wiser me will do."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 > **Cl 1 es la clase de apertura del nivel.** Trae reloj, 2-3 marcadores y tu cuaderno personal (errores + nombres). NADA impreso. El cronograma, los rituales y la Carta se explican EN ESPANOL solo hoy (contrato pedagogico); desde el Bloque 2 y el resto del nivel, todo lo que dices a la clase es en INGLES.
 
 > **HOY SOLO: M1 — el futuro con WILL (afirmativa, negativa won't, pregunta, short answers) + los 7 dias + la preposicion ON. NO TOCAR AÚN: GOING TO y el present continuous con valor de futuro — eso es de Cl 4.**
@@ -47,13 +56,16 @@
 - Rotacion cada 4-5 min (nuevo planner + nuevo companero) hasta que todos pasen al frente al menos 1 vez.
 - Debrief (4'): observers reportan lo anotado (anonimo); correcciones al tablero, coro 2x.
 
+> **EN PARALELO A LA SIMULACION — EVALUACION ORAL DE ENTRADA GRABADA (obligatoria hoy; contrato y anexo de garantia).** Llamas de a UNO a los OBSERVERS (nunca a quien esta en turno al frente) a la puerta: el estudiante en el pasillo, tu en la puerta con TU celular, viendo el salon (la simulacion no se detiene). **60-90 seg por estudiante, en video, una sola toma.** Antes de grabar, en espanol: *"Esta es tu foto de partida. Al final del nivel la pones junto a la de salida. Habla, no leas."* Preguntas en ingles simple: *"What is your name? What do you do? What will you do this year? Why English?"* Si no puede en ingles, responde en espanol y se graba igual. NO corriges, NO repites la toma, NO comentas. Etiqueta `A2-2H-ENTRADA-CL1-[nombre]`. Si no alcanzas a todos, sigues durante la Carta del Bloque 4. Nadie sale hoy sin grabar. **Se ENVIAN HOY a la auxiliar administrativa por WhatsApp, uno por uno, con el nombre completo.** A quien no quede grabado hoy se le graba en Cl 2.
+
 ## BLOQUE 4 (30') — Cierre + rituales permanentes + Carta al Yo del Futuro
 
 - **Presentacion de los 3 rituales restantes (3', di esto tal cual):**
-  - Portafolio diario: *"Starting today: every day you record 1-3 minutes of audio or video in English on your phone. That is your daily portfolio — our mutual commitment and your daily progress. I will ask every class who did it."*
+  - Portafolio diario: *"Starting today: every day you record ONE VIDEO in English on your phone: minimum 2 minutes, one take, no reading, and you send it the SAME day to the class WhatsApp group. Audio only by exception, max 2 per week. I watch every video and every class I tell each of you ONE thing to fix. That is your daily portfolio — our mutual commitment and your daily progress. I will ask every class who did it."*
   - Ticket de salida: *"In the last 5 minutes of every class you write 3-5 sentences with today's structure and hand them in. I don't grade them — they show your real progress."*
   - Error paper: *"When I hear common mistakes, they go on the board with NO names — we fix them together. Mistakes are how we learn."*
 - **Ticket de salida (5'):** cada estudiante escribe 3-5 frases con WILL + dia + ON (minimo 1 negativa y 1 pregunta). Se recogen TODOS. NO los evaluas ni comentas — solo recoges y entregas a coordinacion.
+- **META CON FECHA (6', hoy puede ser en espanol) — es la espina del proyecto del nivel (MY LIFE):** cada estudiante dice al grupo, en una linea, para que quiere el ingles y para cuando (*"My goal: a job interview in English. My date: June 2027."* / un viaje, un ascenso, un negocio propio, el siguiente paso en su trabajo). TU la escribes en tu libreta con nombre y fecha, tal cual la dijo, y la envias HOY a coordinacion con las Cartas (va a la ficha del estudiante). Desde hoy, cada pieza del proyecto es un paso hacia esa meta; en Cl 26 (mid term) la nombra en una frase y en Cl 53 cada uno la cuenta en ingles con sus pasos y su fecha. No prometes el resultado de la meta (ni el viaje ni el ascenso): prometes el entrenamiento.
 - **Carta al Yo del Futuro (12', OBLIGATORIA hoy, in-class, NO tarea):** cada estudiante saca UNA hoja de su cuaderno. Di lento: *"You write a letter to yourself, in English. You open it the last day, Cl 55. Include: (1) what you commit to do this level, (2) what you want to be able to do at Cl 55 that you can't today, (3) one promise to yourself. About 150 words."* Escriben en silencio 9-10 min (TU te sientas, no lees el contenido). Al final: cada uno dobla la hoja, escribe **nombre + fecha** afuera, la sella con doblez o cinta. **Recoges TODAS** en una pila dentro de tu cuaderno (pila = estudiantes presentes) y la entregas a coordinacion HOY en mano. Se abre el dia del Final.
 - **Tarea (escribela en tablero):**
 
@@ -63,14 +75,14 @@ HOMEWORK CL 1 — DUE: Cl 2 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     5 affirmative "I will ___ on ___day" + 3 negative "I won't ___ on
     ___day" + 2 questions "Will you ___ on ___day?". Use ON before the
     day. No TO, no -S. Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video on your phone, in English,
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week) on your phone, in English,
     EVERY day. Today's topic: "My perfect Saturday" (with WILL).
 ```
 
 - **Error paper:** anonimo en clase (los del tablero); en tu libreta privada, errores literales CON nombre para coordinacion.
 - **VATS (1 pregunta, 2 respuestas max):** *"In what moment today did you apply prudence — deciding before acting?"* — **Anuncio:** *"Next class: Months and Years — the small word IN and the calendar of your life."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Cartas selladas  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Cartas selladas  □ Fotos/videos
 
 [PAGEBREAK]
 

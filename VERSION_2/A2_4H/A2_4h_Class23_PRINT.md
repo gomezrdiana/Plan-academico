@@ -3,13 +3,22 @@
 **Virtud:** PRUDENCIA (v2, dia 3 de 5) · **Modulo:** ARCO DE REPASO A2→B1 — CLUSTER COMPARATIVOS/SUPERLATIVOS + GERUNDIO vs INFINITIVO (repaso; el libro A2 cerro en M44 — hoy NO hay modulo nuevo)
 **Frase del Dia:** *"Prudent people weigh it before they choose: this way is better than that one — and I enjoy comparing before deciding."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (35') — Apertura
 
 - **Recuperacion (12'), oral y DE PIE, en cadena, sin cuaderno:**
   - De Cl 20 (N-3: adverbios de manera + causativo): tu das un verbo (*work · answer · drive · send*) → el estudiante lo usa con un adverbio DESPUES del verbo u objeto (*"He answers the phone carefully."*) y el siguiente lo convierte en causativo (*"I want you to answer the phone carefully."*). 4-5 estudiantes.
   - De Cl 16 (N-7: ropa + descripcion fisica): tu senalas una prenda que alguien lleve puesta hoy y lanzas *"Describe what a person at your work wears"* → la cadena produce 2 frases: 1 de ropa (*"He wears a blue uniform and black shoes."*) + 1 de descripcion fisica (*"She is tall and has short dark hair."*). 3-4 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (5'):** *"Who did their daily audio/video?"* — pregunta y ANOTA. Agrega UNA linea: *"Your pieces are your MY YEAR — today we start polishing them for the final presentation."*
+- **Chequeo publico de portafolio (5'):** *"Who sent their daily video?"* — pregunta y ANOTA. Agrega UNA linea: *"Your pieces are your MY YEAR — today we start polishing them for the final presentation."*
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces: cada vez que oigas *"more better"*, *"the most tallest"*, *"I enjoy to read"* o *"before to start"*, dices la frase y el estudiante corrige. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 22 (8'):** recoge papeles (correcciones de tiempos verbales); 2 estudiantes leen 1 frase corregida en voz alta. Anota en libreta privada quien NO entrego.
 
@@ -120,7 +129,7 @@ HOMEWORK CL 23 — DUE: Cl 24 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
         helping / good at solving) · want-need-decide + TO + verb ·
         finish-stop-enjoy + verb -ing · verb as subject (Work is -> WORKING is)
     All about your real work, study or home. Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), EVERY day.
     Today: rehearse MY YEAR pieces 9-12 as ONE continuous piece, with at
     least one comparison and one verb+verb inside.
 ```
@@ -128,7 +137,7 @@ HOMEWORK CL 23 — DUE: Cl 24 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - **Error paper:** anonimo en clase; libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class (Cl 24): phrasal verbs y voz pasiva."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 
@@ -174,7 +183,7 @@ B) GERUNDIO vs INFINITIVO
 - Si el gerundio tras preposicion no entra: quedate en TRES preposiciones (*before · after · for*) y repite 10 frases. El resto (*without / at / about*) se recupera en el drill de Cl 25.
 - Si "el primer verbo decide" se enreda: divide el tablero en dos columnas (TO / -ING) con 4 verbos cada una y prohibe usar cualquier verbo fuera de esas 8 durante el resto del bloque.
 - Si la simulacion se congela: reduce a UNA comparacion obligatoria por turno (*"which one is the best and why"*) y suelta el resto de requisitos; se recuperan en el debrief.
-- Si el ensayo MY YEAR no da tiempo: pasan 2 estudiantes en vez de 3 y el resto ensaya completo en el audio de la tarea. NUNCA se recorta el ticket de salida.
+- Si el ensayo MY YEAR no da tiempo: pasan 2 estudiantes en vez de 3 y el resto ensaya completo en el video de la tarea. NUNCA se recorta el ticket de salida.
 - Si sobra tiempo: ronda "defend the worst option" — un estudiante debe recomendar la peor opcion del tablero usando comparativos correctos; el grupo lo refuta con superlativos.
 
 **NOTA INTERNA:**

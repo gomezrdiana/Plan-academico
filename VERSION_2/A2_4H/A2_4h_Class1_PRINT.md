@@ -3,12 +3,21 @@
 **Virtud:** PRUDENCIA (v1, dia 1 de 5) · **Modulos:** M1 "I Will Play on Monday — The Future and Days of the Week" (Libro A2 p.1-12) + M2 "Months and Years — Describing Months and Years" (p.13-20)
 **Frase del Dia:** *"On Monday I will plan my week."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (35') — Apertura y bienvenida
 
 - **Warm-up (7'), DE PIE, en cadena** (no hay recuperacion hoy — es la primera clase del nivel): saludas a cada estudiante *"Hello! Welcome to A2!"*; cada uno responde y dice su nombre + 1 frase corta con lo que ya trae de A1 (*"I can play soccer." / "I should study."*). Cero explicaciones, energia alta.
 - **Presentacion de los rituales permanentes (8')** — 2-3 lineas en ingles simple cada uno, con gesto (di y muestra, no expliques gramatica):
   - **Frase del Dia:** *"Every class: one phrase on the board. We say it. We use it."*
-  - **Portafolio diario:** *"Every day: one audio or video. One to three minutes. With your phone. Every day."*
+  - **Portafolio diario:** *"Every day: ONE VIDEO of you speaking English. Minimum TWO minutes, one take, no reading. You send it TODAY to the class WhatsApp group. I watch every video. Every class: ONE thing to fix."* (Audio solo por excepcion, maximo 2 por semana.)
   - **Error paper:** *"I write errors on a paper. No names. Errors are good — they help us."*
   - **Ticket de salida:** *"At the end of class: you write 3 to 5 phrases on paper. You give the paper to me."*
 - **Frase del Dia en tablero** (escrita ANTES de clase, 5'): 2 lecturas tuyas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
@@ -17,11 +26,12 @@
 
 ```
 "This level has one project: MY YEAR.
-At the end, you present YOUR year in English: 3 to 5 minutes.
+At the end, you present YOUR year in English: your goal, your steps, your date. 3 to 5 minutes.
 We build it piece by piece — one piece every class.
-Your daily audio IS your piece. Keep them all."
+Your daily video IS your piece. Keep them all."
 ```
 
+- **META CON FECHA (6', hoy puede ser en espanol) — es la espina del proyecto MY YEAR:** cada estudiante dice al grupo, en una linea, para que quiere el ingles y para cuando (*"My goal: a job interview in English. My date: June 2027."* / un viaje, un ascenso, un negocio propio, el siguiente paso en su trabajo). TU la escribes en tu libreta con nombre y fecha, tal cual la dijo, y la envias HOY a coordinacion con las Cartas (va a la ficha del estudiante). Desde hoy, cada pieza de MY YEAR es un paso hacia esa meta; en Cl 27 cada uno la cuenta en ingles con sus pasos y su fecha. No prometes el resultado de la meta (ni el viaje ni el ascenso): prometes el entrenamiento.
 - **Carta a Mi Yo del Futuro / Capsula de 30 dias (10'):** pregunta al grupo *"Who is new at Heiiu today?"*
   - Nuevos en Heiiu → **Carta a Mi Yo del Futuro** (para el final del nivel).
   - Quienes ya escribieron su Carta en un nivel anterior → **Capsula de 30 dias**.
@@ -71,7 +81,9 @@ Dia especifico -> preposicion "on":  "I will play ON Monday."
   - TU eres COACH desde afuera: NUNCA juegas cliente ni agente. Congelados 15+ segundos → UN prompt (*"When will you travel?"*) y te retiras.
   - Minimos por ronda: 4 preguntas con *will* + 3 respuestas con *in + month* + 1 con *in + year* + 1 con *on + day*.
   - Rotacion cada 4-5 min hasta que todos pasen al menos 1 vez. Debrief (5'): observers reportan (anonimo); correccion clave *"on January"* → *"IN January"*, coro 2x.
-- **MY YEAR — pieza 1 (10'):** al abrir, di *"This is your MY YEAR piece 1: My week and my year."* y sigue: cada estudiante dice al grupo 2 frases con *will + on + day* y 2 con *will + in + month/year*, sobre sus planes reales. Esa pieza es el audio de la tarea de hoy.
+- **MY YEAR — pieza 1 (10'):** al abrir, di *"This is your MY YEAR piece 1: My week and my year."* y sigue: cada estudiante dice al grupo 2 frases con *will + on + day* y 2 con *will + in + month/year*, sobre sus planes reales. Esa pieza es el video de la tarea de hoy.
+
+> **EN PARALELO A LA SIMULACION — EVALUACION ORAL DE ENTRADA GRABADA (obligatoria hoy; contrato y anexo de garantia).** Llamas de a UNO a los OBSERVERS (nunca al cliente ni al agente en turno) a la puerta: el estudiante en el pasillo, tu en la puerta con TU celular, viendo el salon (la simulacion no se detiene). **60-90 seg por estudiante, en video, una sola toma.** Antes de grabar, en espanol: *"Esta es tu foto de partida. Al final del nivel la pones junto a la de salida. Habla, no leas."* Preguntas en ingles simple: *"What is your name? What do you do? What will you do this year? Why English?"* Si no puede en ingles, responde en espanol y se graba igual. NO corriges, NO repites la toma, NO comentas. Etiqueta `A2-4H-ENTRADA-CL1-[nombre]`. Si no alcanzas a todos, sigues durante la Carta del Bloque 1 o el ticket de salida. Nadie sale hoy sin grabar. **Se ENVIAN HOY a la auxiliar administrativa por WhatsApp, uno por uno, con el nombre completo.** A quien no quede grabado hoy se le graba en Cl 2.
 
 ## BLOQUE 4 (30') — Cierre
 
@@ -86,14 +98,14 @@ HOMEWORK CL 1 — DUE: Cl 2 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     2 negatives with WON'T
     1 question "Will you ... ?"
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), EVERY day, with your phone.
     Today's topic: "My week and my year." (= MY YEAR piece 1)
 ```
 
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: Days of the month — the ordinal numbers, and the three future forms."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Cartas/Capsulas cerradas  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Cartas/Capsulas cerradas  □ Fotos/videos
 
 [PAGEBREAK]
 

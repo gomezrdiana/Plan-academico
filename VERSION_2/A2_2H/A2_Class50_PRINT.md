@@ -3,13 +3,22 @@
 **Virtud:** TEMPLANZA (v3, dia 5 de 5) · **Contenido:** REPASO parte 3 — FAMILIA FINAL DEL LIBRO: describir personas y cosas (M36 clothing p.301 · M37 people p.307 · M38 order of adj. p.313 · M39 whose p.318 · M41 participle adj. p.326 · M42 get p.333 · M43 adverbs p.340 · M44 causative p.347). NO se re-ensena: produccion intensiva + simulacion integradora.
 **Frase del Dia:** *"A steady mind describes clearly: what she is wearing, what he looks like, how they behave — calm words, in the right order."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno** (de las clases de repaso recientes — familias acumuladas):
   - De ayer (cantidades/precios, M30/M32/M33/M34): *"Ask and answer one real price: 'How much does ___ cost? — It's $__ each.'"* — 4-5 estudiantes; el grupo caza *how many* vs *how much*.
   - De repaso anterior (comparativos/superlativos): *"One superlative about a real group: 'My ___ is the best/the most ___.'"* — 3-4 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta y ANOTA.
+- **Chequeo publico de portafolio (3'):** *"Who sent their daily video?"* — pregunta y ANOTA.
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy.
 - **Revision de tarea Cl 49** ("My Shopping Plan", cantidades/precios): recoge papeles; 2 estudiantes leen 1 frase. Anota quien NO entrego.
 
@@ -57,10 +66,10 @@ HOMEWORK CL 50 — DUE: Cl 51 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     a participle adjective (-ing / -ed), 1 with an adverb of manner
     (-ly), 1 with GET (got tired/angry), and 1 causative (I want him
     to ___). Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English, EVERY day. (= VIDEO DE HITO Cl 50: it goes to your file.)
     Today's topic: "Describe a person you admire — how they look and how
     they act calmly under pressure."
-    >> This audio is your MY LIFE piece 7 of 7. Keep it for Cl 53.
+    >> This video is your MY LIFE piece 7 of 7. Keep it for Cl 53.
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion.
@@ -92,4 +101,4 @@ ____ Reporte firmado  ____ Error papers  ____ Tickets de salida  ____ Fotos/vide
 - (SUPUESTO DE PLANEACION — verificar) Recuperacion N-3 (Cl 47) / N-7 (Cl 43): clases de repaso; temas exactos no documentados bajo el plan vigente → recuperacion apunta a familias acumuladas (cantidades/precios de ayer, comparativos/superlativos). Confirmar con coordinacion.
 - Virtud: TEMPLANZA v3 (Cl 46-50), hoy dia 5 (ultimo). Cierra el bloque: la Frase del Dia y el VATS unen "describir con calma, en orden, sin exagerar" con templanza. Cl 51 abre SINTESIS (Cl 51-55, integracion de las 4 virtudes — calendario canonico A2 noche).
 - NO comunicar nada de presentaciones/midterm/final; coordinacion maneja.
-- PROYECTO MY LIFE (confirmado por Diana 28/08/2026): anunciado en Cl 44; pieza 7 de 7 hoy = el audio del portafolio. Ensamble Cl 51-52, presentaciones Cl 53. Ver A2_2h_MY_LIFE_INSTRUCTIVO.
+- PROYECTO MY LIFE (confirmado por Diana 28/08/2026): anunciado en Cl 44; pieza 7 de 7 hoy = el video del portafolio. Ensamble Cl 51-52, presentaciones Cl 53. Ver A2_2h_MY_LIFE_INSTRUCTIVO.

@@ -3,13 +3,22 @@
 **Virtud:** FORTALEZA (v2, dia 3 de 5) · **Modulo:** M44 I Want You to Go — The Active Causative (want / need / would like + otra persona + to + verbo; ULTIMO modulo del libro A2), Libro A2 p.347-350
 **Frase del Dia:** *"I want you to keep going — strong people help others get stronger too."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**
   - De Cl 35 (M41, participle adjectives): *"Say one -ING and one -ED adjective about something real: 'This class is interesting.' — 'I'm interested in music.' / 'The trip was tiring.' — 'I was tired.'"* — 4-5 estudiantes.
   - De Cl 31 (M36, describing clothing): *"Describe what one person here is wearing: 'She's wearing a dark blue jacket and black shoes.'"* — 3-4 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta y ANOTA.
+- **Chequeo publico de portafolio (3'):** *"Who sent their daily video?"* — pregunta y ANOTA.
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy.
 - **Revision de tarea Cl 37** (8 frases con adverbios de manera): recoge papeles; 2 estudiantes leen 1 frase. Anota en libreta quien NO entrego.
 
@@ -59,7 +68,7 @@ HOMEWORK CL 38 — DUE: Cl 39 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     questions and 2 negatives.
     Ex: "I want my sister to call me." / "Do you want me to help you?" /
     "I don't want you to worry." Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English, EVERY day.
     Today's topic: "Three things I want other people to do this week."
 ```
 
@@ -67,7 +76,7 @@ HOMEWORK CL 38 — DUE: Cl 39 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion.
 - **VATS (1 pregunta, 2 respuestas max):** *"What is something you finished because you didn't give up?"* — **Anuncio:** *"Next class: we start a consolidation stage — we review to make everything strong."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

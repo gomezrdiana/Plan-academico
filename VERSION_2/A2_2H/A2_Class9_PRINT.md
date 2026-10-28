@@ -3,13 +3,22 @@
 **Virtud:** TEMPLANZA (v1, dia 4 de 5) · **Modulo:** M11 I'd Eat a Cookie — The Second Conditional, Libro A2 p.87-98
 **Frase del Dia:** *"If I had everything, I would still need self-control — a calm mind rules the wish instead of obeying it."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**
   - De Cl 6 (M7 might): lanza a 4-5 estudiantes: *"Answer with MIGHT: 'What will you do this weekend?'"* → *"Now a negative: 'I might not ___.'"* → *"A short answer: 'Will you help? — I might.'"* — verbo base, sin 'to', sin '-s'.
   - De Cl 2 (M2 months and years, preposicion IN): *"One real date with IN: 'My birthday is in ___.' 'I started in twenty twenty-___.'"* — 3-4 estudiantes; que se oiga IN + mes/año.
   - Errores que OIGAS van al tablero anonimos → 1 min de re-produccion correcta en coro. NO lo conviertas en explicacion.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta uno por uno y ANOTA (NO revisas contenido).
+- **Chequeo publico de portafolio (3'):** *"Who sent their daily video?"* — pregunta uno por uno y ANOTA (ya VISTE cada video antes de clase: dile a cada uno su UNA mejora en una frase, sin nota ni comentario de calidad).
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Nota que la frase YA es un second conditional (*If I had..., I would...*): hoy entenderan que es lo IMAGINADO.
 - **Revision de tarea Cl 8** (My Real Plans, first conditional): recoge papeles; 2 estudiantes leen 1 first conditional. Anota en libreta, no corrijas aqui.
 
@@ -71,14 +80,14 @@ HOMEWORK CL 9 — DUE: Cl 10 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     past, result + would): 5 affirmative + 2 negative ("If I didn't...,
     I wouldn't...") + 1 question ("If you were rich, what would you
     do?"). Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English, EVERY day.
     Today's topic: "If I had a different life, what would I do?"
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion.
 - **VATS (1 pregunta, 2 respuestas max):** *"What activity CONTROLS you? What activity do YOU control?"* — **Anuncio:** *"Next class: Module 12 — one long action interrupted by a short one."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

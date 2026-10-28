@@ -3,6 +3,15 @@
 **Virtud:** JUSTICIA (v1, dia 3 de 5) · **Modulo:** M15 I Have Visited London — The Present Perfect (Regular Verbs), Libro A2 p.133-146
 **Frase del Dia:** *"I have worked, I have shared, and I have helped without asking who deserves it — a fair person can name what they have done."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 > **HOY SOLO: M15 — present perfect con participios REGULARES (-ed): have/has + participio, negativa, pregunta y short answer. NO TOCAR AÚN: los participios irregulares (been / gone / eaten / taken / driven), eso es de Cl 14; ni el contraste past simple vs present perfect — eso es de Cl 15.**
 
 ## BLOQUE 1 (22') — Apertura
@@ -11,7 +20,7 @@
   - De Cl 10 (past simple vs past continuous): *"One TRUE sentence about an interruption: 'I was ___ when ___.'"* — 4-5 estudiantes en cadena.
   - De Cl 6 (modal "might"): *"One real, uncertain plan with MIGHT: 'Tonight I might ___.' / 'This weekend I might ___.'"* — 3-4 estudiantes.
   - Errores que OIGAS → tablero anonimos → 1 min de re-produccion correcta en coro. NO lo conviertas en explicacion.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta uno por uno y ANOTA (NO revisas contenido).
+- **Chequeo publico de portafolio (3'):** *"Who sent their daily video?"* — pregunta uno por uno y ANOTA (ya VISTE cada video antes de clase: dile a cada uno su UNA mejora en una frase, sin nota ni comentario de calidad).
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Nota que ya es el tiempo del dia: I HAVE worked / shared / helped.
 - **Revision de tarea Cl 12** (A Busy Team Day): recoge papeles; 2 estudiantes leen 1 frase. Anota en libreta, no corrijas aqui.
 
@@ -68,14 +77,14 @@ HOMEWORK CL 13 — DUE: Cl 14 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     present perfect with REGULAR verbs (worked/studied/lived/visited/
     helped/shared): 6 affirmative or negative + 2 questions "Have you...?".
     Include one fair thing you have done for others. Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video on your phone, in English,
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week) on your phone, in English,
     EVERY day. Today's topic: "What I have done that is useful at work."
 ```
 
 - **Error paper:** anonimo en clase (los del tablero); en tu libreta privada, errores literales CON nombre para coordinacion.
 - **VATS (1 pregunta, 2 respuestas max) — JUSTICIA:** *"How do you treat someone who has LESS than you?"* — **Anuncio:** *"Next class: 'I have gone to Paris!' — the present perfect with IRREGULAR verbs: been, gone, eaten, taken, driven."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

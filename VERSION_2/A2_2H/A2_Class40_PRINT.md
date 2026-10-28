@@ -3,6 +3,15 @@
 **Virtud:** FORTALEZA (v2, dia 5 de 5) · **Repaso:** WAYS TO TALK ABOUT THE FUTURE — M5 The 3 Future Forms (p.31-40) · M6 Scheduled Events / present simple (p.41-50) · M7 The Modal "might" (p.51-60)
 **Frase del Dia:** *"I'm going to keep trying — I might fall, but I'll get back up."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 > No se RE-ENSENA: se produce en masa sobre errores tipicos. Todo ejemplo sale del libro (modulo + pagina citados).
 
 ## BLOQUE 1 (22') — Apertura
@@ -11,7 +20,7 @@
   - De Cl 37 (M43, adverbs of manner): *"Say how you do two real actions: 'I drive carefully.' / 'I speak English well.'"* (minimo 1 irregular: well/fast/hard) — 4-5 estudiantes.
   - De Cl 33 (M38, order of adjectives): *"Describe one real thing with 2 adjectives in order: 'a big red car' / 'a beautiful old house.'"* — 3-4 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta y ANOTA.
+- **Chequeo publico de portafolio (3'):** *"Who sent their daily video?"* — pregunta y ANOTA.
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy.
 - **Revision de tarea Cl 39** (8 frases future & dates): recoge papeles; 2 estudiantes leen 1 frase. Anota quien NO entrego.
 
@@ -52,14 +61,14 @@ HOMEWORK CL 40 — DUE: Cl 41 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     simple (bus/class/flight times, using arrive at / get to / leave),
     2 with MIGHT. Ex: "The bus leaves at 6:15." / "I might visit my aunt."
     Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English, EVERY day. (= VIDEO DE HITO Cl 40: it goes to your file.)
     Today's topic: "My plan for tomorrow, one fixed time, and one thing I might do."
 ```
 
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion. *(Estos errores alimentan la construccion desde el error de Cl 41.)*
 - **VATS (1 pregunta, 2 respuestas max):** *"When something is uncertain, what helps you stay strong?"* — **Anuncio:** *"Next class: we keep consolidating — connecting ideas and conditions."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ VIDEO DE HITO Cl 40: esta noche reenvias a la auxiliar administrativa el video de CADA estudiante, con su nombre (se guarda en el computador de la academia)  □ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

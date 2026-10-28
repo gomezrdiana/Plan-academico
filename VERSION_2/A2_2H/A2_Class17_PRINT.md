@@ -3,6 +3,15 @@
 **Virtud:** FORTALEZA (v1, dia 2 de 5) · **Modulo:** M20 Playing is Fun! — Gerunds as Subjects, Libro A2 p.181-196
 **Frase del Dia:** *"Quitting is easy and trying is difficult — but never giving up is important."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 > **HOY SOLO: M20 — el gerundio como SUJETO (*Working is important*) con los 6 descriptores del modulo. NO TOCAR AÚN: el gerundio despues de preposicion (before / after / without / about + -ing), eso es de Cl 18; ni los dos verbos juntos (*want to* / *like -ing*) — eso es de Cl 19.**
 
 ## BLOQUE 1 (22') — Apertura
@@ -11,7 +20,7 @@
   - De Cl 14 (present perfect irregular): *"One TRUE sentence with BEEN, GONE, EATEN, TAKEN or DRIVEN: 'I have been...'"* → *"Ask your classmate 'Have you ever...?' — short answer + one extra sentence."* — 4-5 estudiantes en cadena.
   - De Cl 10 (past simple vs past continuous): *"Tell me one interruption from your week: 'I was ___ when ___.'"* — 3-4 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta y ANOTA (no revisas contenido).
+- **Chequeo publico de portafolio (3'):** *"Who sent their daily video?"* — pregunta y ANOTA (ya VISTE cada video antes de clase: dile a cada uno su UNA mejora en una frase, sin nota ni comentario de calidad).
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy.
 - **Revision de tarea Cl 16** (How My World Works): recoge papeles; 2 estudiantes leen 1 pasiva. Anota en libreta.
 
@@ -57,7 +66,7 @@ HOMEWORK CL 17 — DUE: Cl 18 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     your studies and your city, with a gerund as the subject and the
     module words (fun, boring, important, expensive, difficult, easy):
     5 affirmative + 2 negative + 1 question. Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English, EVERY day.
     Today's topic: "Three things that are difficult for me — and why
     doing them is important."
 ```
@@ -65,7 +74,7 @@ HOMEWORK CL 17 — DUE: Cl 18 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion.
 - **VATS (1 pregunta, 2 respuestas max):** *"When was the last time you wanted to quit — and didn't?"* — **Anuncio:** *"Next class: We shouldn't swim after eating — what happens to a verb after BEFORE, AFTER, WITHOUT and ABOUT."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

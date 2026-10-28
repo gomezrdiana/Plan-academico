@@ -3,19 +3,28 @@
 **Virtud:** SINTESIS (integracion de las 4 virtudes — dia 1 de 4 del bloque final) · **Contenido:** PREP PROYECTO 1 — se anuncia y se estructura la PRESENTACION FINAL (7-10 min + preguntas por estudiante). Hoy: armar el esqueleto oral (apertura + 3 partes + cierre) y primer ensayo corto en parejas. Tema: la vida real del estudiante. SOLO estructuras del libro A2.
 **Frase del Dia:** *"A prudent speaker plans the talk before speaking; a brave one stands up and shares it — today we build the skeleton of our real story."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**
   - De Cl 48 (present perfect + comparativos): *"One TRUE experience with present perfect + one comparison: 'I have worked here for ___ years. This year is harder than last year.'"* — 4-5 estudiantes; el grupo caza el participio y el comparativo.
   - De repaso reciente (familias del nivel): *"One sentence about your plans: 'I want to ___ / I'm going to ___.'"* — 3-4 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta y ANOTA.
+- **Chequeo publico de portafolio (3'):** *"Who sent their daily video?"* — pregunta y ANOTA.
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy.
 - **Revision de tarea Cl 50** ("Someone I Know", descripcion de una persona): recoge papeles; 2 estudiantes leen 1 frase. Anota quien NO entrego.
 
 ## BLOQUE 2 (43') — Construir el ESQUELETO de la presentacion
 
-- **Encuadre (5'):** recuerda el proyecto MY LIFE (anunciado en Cl 46; hoy se ENSAMBLAN las piezas 1-7 = los audios de Cl 44-50). *"Your final presentation: 7-10 minutes about YOUR real life, plus 2-3 questions from the audience. Today we build the skeleton — five parts — using only the structures of the level."* (NO comunicas notas ni criterios de evaluacion — solo el formato; coordinacion evalua.)
+- **Encuadre (5'):** recuerda el proyecto MY LIFE (anunciado en Cl 46; hoy se ENSAMBLAN las piezas 1-7 = los videos de Cl 44-50). *"Your final presentation: 7-10 minutes about YOUR real life, plus 2-3 questions from the audience. Today we build the skeleton — five parts — using only the structures of the level."* (NO comunicas notas ni criterios de evaluacion — solo el formato; coordinacion evalua.)
 - **Esqueleto en tablero (5 puntos, con las estructuras del nivel):**
   1. **OPENING (30 seg):** saludo + nombre + *"Today I'm going to tell you about my life."*
   2. **PART 1 — MY ROUTINE & WORK/STUDY:** presente simple + gerundios + adverbios de manera. *"I work as a ___. Every day I ___. I do it carefully / quickly."*
@@ -23,7 +32,7 @@
   4. **PART 3 — COMPARISONS & PLANS:** comparativos/superlativos + *want to / going to*. *"My city is bigger than ___. The best part of my job is ___. Next year I want to ___."*
   5. **CLOSING (30 seg):** agradecer al publico + 1 frase de futuro. *"Thank you for listening. I'm going to keep learning English."*
 - **Actividad (meta P7 en 1 linea):** *"By the end of this block, each of you will have your 5-point skeleton on paper — as NOTES, not a full script to memorize."*
-  - Trabajo individual (12'): cada estudiante RE-ESCUCHA mentalmente sus 7 piezas (audios Cl 44-50) y escribe su esqueleto en vinetas (2-3 palabras por punto, NO frases completas — evita la memorizacion). Tu circulas y verificas que cada parte use la estructura correcta del nivel.
+  - Trabajo individual (12'): cada estudiante RE-ESCUCHA mentalmente sus 7 piezas (videos Cl 44-50) y escribe su esqueleto en vinetas (2-3 palabras por punto, NO frases completas — evita la memorizacion). Tu circulas y verificas que cada parte use la estructura correcta del nivel.
   - Control de justicia: al terminar, cada estudiante le muestra su esqueleto a un/a companero/a y le da 1 idea util (*"You can add one comparison here."*).
 
 ## BLOQUE 3 (37') — Primer ensayo corto en parejas
@@ -47,7 +56,7 @@ HOMEWORK CL 51 — DUE: Cl 52 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     NOTES, do not read a full script. Prepare to answer 2-3 questions
     about your life. Use only level structures (present perfect,
     comparatives, gerunds, quantities, plans).
-(2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English, EVERY day.
     Today's topic: record PART 2 of your talk — "The experiences I have
     had" (present perfect).
 ```

@@ -3,6 +3,15 @@
 **Virtud:** TEMPLANZA (v2, dia 4 de 5) · **Modulo:** M33 How Much Money Do You Have? — Specifying Uncountable Quantities (how much / a bit of / a lot of), Libro A2 p.283-292
 **Frase del Dia:** *"How much is enough? Templanza is taking just a bit, not a lot."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 > **HOY SOLO: M33 — cantidades INCONTABLES: how much, unidades (kilo / liter / gallon / glass / bottle), a bit of, a lot of. NO TOCAR AÚN: preguntar y dar PRECIOS con cost / be / each (*How much does it cost?*) — eso es de Cl 30.**
 
 ## BLOQUE 1 (22') — Apertura
@@ -11,7 +20,7 @@
   - De Cl 27 (M30, so/too/enough): *"One TRUE sentence with SO (something good) and one with TOO (a problem): 'My weekend was so short.' / 'The bus was too full.'"* — 4-5 estudiantes en cadena. *(Sustituye a Cl 26, que fue el dia de presentaciones sin modulo nuevo.)*
   - De Cl 22 (M26, comparativos de igualdad "as ___ as"): *"Compare two real things: 'My job is as busy as ___.'"* — 3-4 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta y ANOTA (no revisas contenido).
+- **Chequeo publico de portafolio (3'):** *"Who sent their daily video?"* — pregunta y ANOTA (ya VISTE cada video antes de clase: dile a cada uno su UNA mejora en una frase, sin nota ni comentario de calidad).
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy.
 - **Revision de tarea Cl 28** (8 frases con how many / a few / a lot of): recoge papeles; 2 estudiantes leen 1 frase. Anota en libreta quien NO entrego.
 
@@ -58,7 +67,7 @@ HOMEWORK CL 29 — DUE: Cl 30 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     answers, using A BIT OF in 2 answers and A LOT OF / a unit (kilo,
     liter, glass) in 2 answers. Ex: "How much water do you drink? — A lot
     of water." Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English, EVERY day.
     Today's topic: "How much time and money I spend in a week — and where
     a bit is enough."
 ```
@@ -66,7 +75,7 @@ HOMEWORK CL 29 — DUE: Cl 30 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - **Error paper:** anonimo en clase; libreta privada con nombres para coordinacion.
 - **VATS (1 pregunta, 2 respuestas max):** *"How much of your time goes to what really matters?"* — **Anuncio:** *"Next class: How much does it cost? — asking and giving prices in a store."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

@@ -3,12 +3,21 @@
 **Virtud:** TEMPLANZA (v1, dia 2 de 5) · **Modulo:** M15 "I Have Visited London" — The Present Perfect, Regular Verbs (Libro A2 p.133-146) + M16 "I Have Gone to Paris" — The Present Perfect, Irregular (p.147-162)
 **Frase del Dia:** *"I have eaten less, and I have practiced more."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (35') — Apertura
 
 - **Recuperacion (12'), oral y DE PIE, en cadena, sin cuaderno.** Instruccion exacta: *"Everybody stand up. No notebook. One sentence each, no repeating."*
   - De Cl 4 (N-3: *that* + first conditional): cada estudiante une 2 ideas con *that* (*"The office THAT we visited is closed." · "The bus THAT I take is late."*) — 4-5 estudiantes. Luego cadena de condicional: tu das la condicion (*"If it rains tomorrow..."*) y el primero cierra (*"...I will take a taxi."*); ese mismo abre la siguiente condicion para el companero de al lado. 4-5 estudiantes.
   - Errores oidos → tablero, anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (5'):** *"Who did their daily audio/video?"* — pregunta, cuenta manos y ANOTA en tu libreta quien NO. No comentes nada mas. Al anotar, di: *"That was piece 6 of your MY YEAR."*
+- **Chequeo publico de portafolio (5'):** *"Who sent their daily video?"* — pregunta, cuenta manos y ANOTA en tu libreta quien NO. No comentes nada mas. Al anotar, di: *"That was piece 6 of your MY YEAR."*
 - **Frase del Dia en tablero (8'),** escrita ANTES de que entren. 2 lecturas + coro 2x. Preguntales que participios ven (*eaten* irregular / *practiced* regular). Insertala natural 3+ veces durante el dia. Al cierre del bloque: 1 estudiante la dice de memoria, otro la usa en oracion nueva.
 - **Revision de tarea Cl 6 (10'):** recoge los papeles (8-10 frases con *already / still / until / while / during*). 3 estudiantes leen 1 frase cada uno en voz alta; el grupo confirma si *while* va con verbo y *during* con sustantivo. Anota en libreta quien NO entrego. NO devuelvas los papeles.
 
@@ -57,7 +66,7 @@ find           found           found     (encontrar)
   - TU eres COACH desde afuera: NUNCA juegas candidato ni panel. Si se congelan 15+ seg, UN prompt (*"Have you...?"*) y te retiras.
   - Minimos por ronda: el candidato responde 5 preguntas en present perfect (minimo 2 con participio irregular: *gone, taken, driven, been, eaten*) + 2 respuestas cortas (*"Yes, I have." / "No, I haven't."*) + 1 negativa (*"I haven't managed a team, but I have helped my team."*).
   - Rotacion cada 5-6 min (nuevo candidato, nuevo panel). Debrief final (6'): los observers reportan sus errores en voz alta, ANONIMOS. Correccion clave al tablero: *"I have go" → "I have GONE"* · *"She have visited" → "She HAS visited"* · *"I have ate" → "I have EATEN"*, coro 2x cada una.
-  - **MY YEAR — pieza 7 (dentro del debrief, SIN tiempo extra):** al cerrar el debrief di *"This is your MY YEAR piece 7: Five things I have done this year."* y cada estudiante remata con 2-4 frases propias en present perfect sobre lo que ha hecho este ano. Esa pieza es el audio de hoy.
+  - **MY YEAR — pieza 7 (dentro del debrief, SIN tiempo extra):** al cerrar el debrief di *"This is your MY YEAR piece 7: Five things I have done this year."* y cada estudiante remata con 2-4 frases propias en present perfect sobre lo que ha hecho este ano. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (30') — Cierre
 
@@ -71,14 +80,14 @@ HOMEWORK CL 7 — DUE: Cl 8 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     + 4-5 with irregular participles (gone, eaten, taken, been, driven, told, found)
     Include 2 questions "Have you ...?" and 1 negative "I haven't ...".
     Hand it in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), EVERY day.
     Today's topic: "Five things I have done this year." (= MY YEAR piece 7)
 ```
 
 - **Error paper (15'):** el fisico anonimo se trabaja en clase — escribe en el tablero 4-6 errores REALES oidos hoy, sin nombres; el grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 frase nueva propia con la forma corregida. Aparte, tu libreta privada con nombres y citas literales va a coordinacion.
 - **Anuncio (5'):** *"Next class: 'You didn't, or you haven't?' — past simple versus present perfect. And: 'You are loved!'"* Nada mas: no menciones notas, examenes ni resultados.
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

@@ -3,13 +3,22 @@
 **Virtud:** TEMPLANZA (v1, dia 5 de 5 — cierra el bloque) · **Modulo:** M12 I Was Playing when My Mom Called — Past Simple vs Past Continuous, Libro A2 p.99-106
 **Frase del Dia:** *"I was working calmly when the trouble arrived — temperance is what keeps me steady while the day interrupts me."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (22') — Apertura
 
 - **Recuperacion espaciada (10'), oral y DE PIE, en cadena, sin cuaderno:**
   - De Cl 7 (relative "that"): *"Complete with a real opinion: 'I think that...' / 'I believe that...'"* — 4-5 estudiantes en cadena.
   - De Cl 3 (dates / ordinal numbers): *"Say a real date out loud — your birthday or an important day: 'It is on the first / the third / the twenty-fifth of ___.'"* — 3-4 estudiantes.
   - Errores que OIGAS → tablero anonimos → 1 min de re-produccion correcta en coro. NO lo conviertas en explicacion.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta uno por uno y ANOTA quien si / quien no (NO revisas contenido). Recuerda: 1-3 min diarios, cada dia.
+- **Chequeo publico de portafolio (3'):** *"Who sent their daily video?"* — pregunta uno por uno y ANOTA quien si / quien no (ya VISTE cada video antes de clase: dile a cada uno su UNA mejora en una frase, sin nota ni comentario de calidad). Recuerda: video diario de 2 min, cada dia.
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy.
 - **Revision de tarea Cl 9** (8 second conditionals): recoge papeles; 2 estudiantes leen 1 frase. Anota en libreta, no corrijas aqui.
 
@@ -58,14 +67,14 @@ HOMEWORK CL 10 — DUE: Cl 11 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     a day that got interrupted. Past continuous for the LONG actions +
     past simple for the SHORT interruptions, joined with when/while.
     Underline the long action in each pair. Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English, EVERY day. (= VIDEO DE HITO Cl 10: it goes to your file.)
     Today's topic: "A day that did not go as planned."
 ```
 
 - **Error paper:** anonimo en clase (los del tablero); en tu libreta privada, errores literales CON nombre para coordinacion.
 - **VATS (1 pregunta, 2 respuestas max) — cierra TEMPLANZA:** *"How do you stay calm when something suddenly interrupts your day?"* — **Anuncio:** *"Next class: 'I already knew that!' — ALREADY, STILL and UNTIL — and a new virtue block opens: justice."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ VIDEO DE HITO Cl 10: esta noche reenvias a la auxiliar administrativa el video de CADA estudiante, con su nombre (se guarda en el computador de la academia)  □ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

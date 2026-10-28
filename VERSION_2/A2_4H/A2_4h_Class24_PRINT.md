@@ -3,6 +3,15 @@
 **Virtud:** PRUDENCIA (v2, dia 4 de 5) · **Modulo:** ARCO DE REPASO A2→B1 — CLUSTER PHRASAL VERBS + VOZ PASIVA (repaso; el libro A2 cerro en M44 — hoy NO hay modulo nuevo)
 **Frase del Dia:** *"Prudent people plan it out before the shift ends: the forms were filled out, and nothing was left behind."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 > **HOY SOLO: phrasal verbs separables y no separables (M23-M24) + voz pasiva en PRESENTE SIMPLE y PASADO SIMPLE (M18), repaso de modulos ya vistos. NO TOCAR AUN: pasiva perfecta (has been done), continua (is being done) ni con modales (must be done) — eso es de nivel B1.**
 
 ## BLOQUE 1 (35') — Apertura
@@ -11,7 +20,7 @@
   - De Cl 21 (N-3: consolidacion de adverbios de manera + causativo): tu das una tarea de trabajo (*send the report · clean the room · answer the client · close the store*) → el estudiante la pide con causativo + adverbio (*"I need you to answer the client immediately."*) y el siguiente confirma repitiendo la estructura (*"So you want me to answer the client immediately."*). 4-5 estudiantes.
   - De Cl 17 (N-7: orden de adjetivos + posesivos): tu escribes 3 sustantivos en el tablero (*bag · phone · uniform*) → cada estudiante lo describe con 2-3 adjetivos en el orden correcto (*"a small new black bag"*) y lo cierra en posesivo (*"That bag is hers." / "Is it yours?"*). 3-4 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (5'):** *"Who did their daily audio/video?"* — pregunta y ANOTA. Agrega UNA linea: *"Yesterday you assembled MY YEAR pieces 9 to 12 — today we assemble 13 to 15."*
+- **Chequeo publico de portafolio (5'):** *"Who sent their daily video?"* — pregunta y ANOTA. Agrega UNA linea: *"Yesterday you assembled MY YEAR pieces 9 to 12 — today we assemble 13 to 15."*
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces: cada vez que oigas *"turn off it"*, *"pick up her"*, *"look her after"* o *"the report finished by..."*, dices la frase y el estudiante corrige. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 23 (8'):** recoge papeles (8-10 pares error→reescritura de comparacion + verbo+verbo); 2 estudiantes leen 1 par en voz alta (primero la mala, despues la buena). Anota en libreta privada quien NO entrego.
 
@@ -128,7 +137,7 @@ HOMEWORK CL 24 — DUE: Cl 25 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
         "for" (made for us -> made BY us) · active left as if passive
         (the cars make -> the cars ARE MADE)
     All about your real work, study or home. Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), EVERY day.
     Today: rehearse MY YEAR pieces 13-15 as ONE continuous piece, with at
     least one phrasal verb with a pronoun and one passive sentence inside.
 ```
@@ -136,7 +145,7 @@ HOMEWORK CL 24 — DUE: Cl 25 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - **Error paper:** anonimo en clase; libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class (Cl 25): preguntas y negativos — el orden que B1 exige."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 
@@ -184,7 +193,7 @@ B) VOZ PASIVA
 - Si la pasiva sale sin *be*: escribe en el tablero solo *WAS / WERE* en letra grande y hazlos leer 10 frases con el dedo puesto en esa palabra antes de decirla.
 - Si el participio irregular bloquea (*broken · written · taken · made · done · given*): quedate SOLO en participios regulares (*prepared · cleaned · finished · filled · called · studied · played · watched · helped*), que es exactamente lo que cubre M18 del libro. Los irregulares se retoman en Cl 28.
 - Si la simulacion se congela: reduce a DOS obligaciones por turno (1 pasiva + 1 phrasal con pronombre) y suelta el resto; se recuperan en el debrief.
-- Si el ensayo MY YEAR no da tiempo: pasan 2 estudiantes en vez de 3 y el resto ensaya completo en el audio de la tarea. NUNCA se recorta el ticket de salida.
+- Si el ensayo MY YEAR no da tiempo: pasan 2 estudiantes en vez de 3 y el resto ensaya completo en el video de la tarea. NUNCA se recorta el ticket de salida.
 - Si sobra tiempo: ronda "who did it?" — un estudiante da una pasiva sin agente y el grupo pregunta *"Who was it done by?"*; el estudiante decide si el agente importa o no y justifica en una frase.
 
 **NOTA INTERNA:**

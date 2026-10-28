@@ -3,6 +3,15 @@
 **Virtud:** TEMPLANZA (v2, dia 3 de 3 — el nivel termina hoy) · **Sesion:** primeras 2h = mastery integrado de los 7 clusters del arco + cierre del nivel · ultimas 2h = FINAL del nivel, aplicado por **EVALUADOR EXTERNO** (sin guia pedagogica). NO hay modulo nuevo (libro agotado en M44).
 **Frase del Dia:** *"There are many things I can say today that I could not say before — I want you to say them calmly, and say them right."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 > **CRITICO:** el profe NO evalua, NO da nota, NO comenta criterios, contenido ni resultados — hoy menos que nunca. Si preguntan por el final: *"Coordination handles the exam — content, criteria and results."* En el Bloque 4 el profe NO aplica ni evalua: entrega el aula lista y se retira, o asiste como logistica segun indique coordinacion.
 
 > **HOY SOLO: en E7, concordancia 3a persona + there is/are, y en E1 el causativo con want / need / would like + persona + TO + verbo (alcance de M44). NO TOCAR AUN: make / let sin TO ni have / get + participio — eso es de nivel B1.**
@@ -13,7 +22,7 @@
   - De Cl 25 (N-3 — preguntas y negativos): tu das una afirmacion (*"He works on Saturdays." · "They finished the report."*) y el estudiante la vuelve pregunta con el orden correcto (auxiliar + sujeto + verbo base); el siguiente la vuelve negativa. 3-4 estudiantes.
   - De Cl 21 (N-7 — adverbios de manera + causativo): tu das un verbo y la cadena produce una frase con el adverbio DESPUES del verbo u objeto, y el siguiente la convierte en deseo sobre otra persona (*"I want you to send it immediately."*). 3-4 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo de portafolio FINAL (5'):** *"Who has all their audios? Who recorded the full MY YEAR presentation?"* — pregunta uno por uno y ANOTA (cierre del registro del nivel). Recoge la tarea de Cl 27 (10 frases mixtas del arco) y anota quien NO entrego. Sin comentarios de calidad.
+- **Chequeo de portafolio FINAL (5'):** *"Who has all their videos? Who recorded the full MY YEAR presentation?"* — pregunta uno por uno y ANOTA (cierre del registro del nivel). Recoge la tarea de Cl 27 (10 frases mixtas del arco) y anota quien NO entrego. Sin comentarios de calidad.
 - **Frase del Dia en tablero (5')** (escrita ANTES de que entren). 2 lecturas + coro 2x. Insertala natural 3+ veces durante la mañana: cada vez que oigas un error de cualquier cluster, la dices y el estudiante corrige.
 - **Encuadre del dia (5'), en ingles simple — dilo tal cual y sigue:**
 
@@ -80,7 +89,7 @@ E7  CONCORDANCIA + THERE IS/ARE  he GOES · she DOESN'T · there IS one / there 
 
 **SIN TAREA.** El nivel termina hoy. No se asigna nada nuevo.
 
-□ Reporte firmado  □ Error papers  □ Tickets finales  □ Tareas Cl 27  □ Aula entregada lista
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets finales  □ Tareas Cl 27  □ Aula entregada lista
 
 [PAGEBREAK]
 
@@ -116,7 +125,7 @@ E7  CONCORDANCIA + THERE IS/ARE  he GOES · she DOESN'T · there IS one / there 
 
 **NOTA INTERNA:**
 - **NIVEL COMPLETO — 28/28 clases.** El cohorte pasa a B1. Con esta sesion queda cerrado el lado pedagogico del A2 4h.
-- **El portafolio final que respalda la promocion** son los audios/videos diarios del nivel + la grabacion de la presentacion MY YEAR completa (Cl 27, mas la re-grabacion que era la tarea de Cl 27). Coordinacion los consolida; el profe solo confirma en el chequeo del Bloque 1 quien los tiene.
+- **El portafolio final que respalda la promocion** son los videos diarios del nivel + la grabacion de la presentacion MY YEAR completa (Cl 27, mas la re-grabacion que era la tarea de Cl 27). Coordinacion los consolida; el profe solo confirma en el chequeo del Bloque 1 quien los tiene.
 - **Orden de bloques:** el ticket de salida y el error paper corren en el **Bloque 3** (no en el 4) porque el Bloque 4 es el marcador del Final externo y no tiene contenido pedagogico. Es el cierre real de la clase.
 - Virtud: **TEMPLANZA v2, hoy dia 3 de 3.** El bloque de virtud queda de 3 dias (Cl 26-28) y no de 5 porque el nivel termina hoy — calendario absoluto por numero de clase, no se desplaza. La Frase del Dia une el ticket final (*what I can say today*), el causativo (*I want you to*) y la virtud (*calmly, and right*).
 - Continuidad/recuperacion: **N-3 = Cl 25** (preguntas y negativos), **N-7 = Cl 21** (consolidacion M43+M44). Revision de tarea = la de Cl 27 (10 frases mixtas de todos los clusters del arco) — ultima tarea del nivel.

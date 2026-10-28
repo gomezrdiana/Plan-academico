@@ -3,13 +3,23 @@
 **Virtud:** SINTESIS (integracion de las 4 virtudes — dia 3 de 4 del bloque final) · **Contenido:** PRESENTACIONES FINALES — cada estudiante presenta 7-10 min sobre su vida real + 2-3 preguntas del publico (dia completo de protocolo). El profe conduce y cronometra; NO evalua NI comunica resultados.
 **Frase del Dia:** *"It takes courage to tell your story, and justice to listen to others with gratitude — today every voice is heard with respect."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 > **HOY NO HAY MODULO NUEVO.** Es el dia de presentaciones finales. TU CONDUCES y CRONOMETRAS; NO evaluas en voz alta, NO das notas, NO comunicas resultados. Tus notas van a tu libreta privada para coordinacion — coordinacion evalua y comunica. Tono de justicia: honramos cada historia escuchando bien.
 
 ## BLOQUE 1 (~15') — Apertura y encuadre
 
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Usala para fijar el tono: escuchamos con respeto.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta y ANOTA.
+- **Chequeo publico de portafolio (3'):** *"Who sent their daily video?"* — pregunta y ANOTA.
 - **Encuadre (4'):** explica el orden del dia: cada estudiante habla **7-10 min** sobre su vida real (rutina, trabajo/estudio, experiencias, comparaciones, planes) + responde **2-3 preguntas** del publico. Recuerda las herramientas del nivel en el tablero como apoyo visual: *present perfect · comparatives / superlatives · quantities · describing · plans (want to / going to)*.
+- **GRABACION DE SALIDA del nivel (contrato y anexo de garantia):** cada presentacion se graba completa (celular del estudiante o de un companero) y **se envia HOY a la auxiliar administrativa con el nombre completo**: es la foto de llegada que va junto a la de entrada de Cl 1. Cada presentacion cierra con la meta anotada en Cl 1: *"My goal was ___. My steps were ___. My date is ___."* (1 minuto; no se evalua, se graba).
 - **Reframe de grabacion (2'):** *"We record today because it takes courage, and because your video helps the student who comes next. That is fortaleza and service."* (Las grabaciones/fotos del dia son entregable estandar.)
 - **Orden ALEATORIO:** saca el orden al azar (numeros / nombres en papelitos). Anuncialo. Respiracion breve en grupo (inhalar 4, exhalar 4, 3 veces).
 
@@ -36,7 +46,7 @@
 
 ```
 HOMEWORK CL 53 — DUE: Cl 54 before 7:00 PM · TIME: 15-20 min. NOT fragmented.
-(1) PORTFOLIO REFLECTION — 2-3 min audio/video, in English:
+(1) PORTFOLIO REFLECTION — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English:
     "How I felt presenting today, what I am proud of, and one thing I
     want to keep improving." (No written homework today.)
 ```

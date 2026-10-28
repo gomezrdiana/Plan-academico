@@ -3,6 +3,15 @@
 **Virtud:** PRUDENCIA (v1, dia 2 de 5) · **Modulos:** M3 "Days of the Month — The Ordinal Numbers" (Libro A2 p.21-30) + M5 "The Future in Triplicate — The Three Basic Future Forms" (p.31-40)
 **Frase del Dia:** *"On September first I am going to plan my month."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (35') — Apertura
 
 - **Recuperacion (14'), oral y DE PIE, en cadena, sin cuaderno** — todo de Cl 1 (unica clase previa del nivel):
@@ -10,9 +19,11 @@
   - Contracciones: tu dices la forma larga (*"She will study" · "They will not come"*), la cadena responde la abreviada (*"She'll study" · "They won't come"*). 4 rapidas.
   - Meses y years: escribes 3 years en el tablero (*1998 · 2008 · 2026*) y la cadena los dice en voz alta; luego tu dices una palabra (*January · Monday · 2024 · Friday*) y gritan *IN* u *ON* + frase completa. 4-5 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (4'):** *"Who did their daily audio/video?"* — pregunta y ANOTA en tu libreta. No revisas el contenido, no comentas. Al anotar, di: *"That was piece 1 of your MY YEAR."*
+- **Chequeo publico de portafolio (4'):** *"Who sent their daily video?"* — pregunta y ANOTA en tu libreta. Ya VISTE cada video antes de clase: dile a cada uno su UNA mejora en una frase, sin nota ni comentario de calidad. Al anotar, di: *"That was piece 1 of your MY YEAR."*
 - **Frase del Dia en tablero** (escrita ANTES, 5'): 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva. Conectala con PRUDENCIA (dia 2 de 5): planear el mes antes de que llegue.
 - **Revision de tarea Cl 1 (12'):** recoge los papeles (10 frases con *will/won't* + *on + day* + *in + month/year*). 3 estudiantes leen 1 frase cada uno en voz alta. Anota en tu libreta quien NO entrego. No se acepta "no me dio tiempo": queda registrado y va a coordinacion.
+
+> **RESCATE DE Cl 1 (obligatorio si quedo pendiente):** a quien no quedo grabado en la evaluacion oral de entrada en Cl 1, o si Cl 1 se dicto sin ese bloque, se graba HOY en paralelo a la simulacion (60-90 seg, video, una toma, etiqueta `A2-ENTRADA-CL2-[nombre]`, se envia HOY a la auxiliar administrativa con nombre). Y si en Cl 1 no se anotaron las METAS CON FECHA, se toman hoy en el chequeo de portafolio: una linea por estudiante (*"My goal: ___. My date: ___."*), en tu libreta con nombre, a coordinacion HOY.
 
 ## BLOQUE 2 (85') — M3 Los dias del mes: numeros ordinales
 
@@ -68,7 +79,7 @@ Nota del libro: las formas 2 y 3 se usan casi de manera intercambiable.
   - TU eres COACH desde afuera: NUNCA juegas cliente ni recepcionista. Congelados 15+ segundos → UN prompt (*"When are you going to come?"*) y te retiras.
   - Minimos por ronda: 3 fechas completas con ordinal + 1 frase con *will* + 1 con *going to* + 1 con presente continuo.
   - Rotacion cada 4-5 min hasta que todos pasen al menos 1 vez. Debrief (5'): observers reportan (anonimo); correccion clave *"I go to come on May ten"* → *"I'm going to come on May tenth"*, coro 2x.
-- **MY YEAR — pieza 2 (10'):** al abrir, di *"This is your MY YEAR piece 2: My dates."* y sigue: cada estudiante dice al grupo 4 frases: 2 fechas reales del pasado con dia+mes+year y 2 planes futuros con fecha, usando al menos 2 de las 3 formas del futuro. Esa pieza es el audio de hoy.
+- **MY YEAR — pieza 2 (10'):** al abrir, di *"This is your MY YEAR piece 2: My dates."* y sigue: cada estudiante dice al grupo 4 frases: 2 fechas reales del pasado con dia+mes+year y 2 planes futuros con fecha, usando al menos 2 de las 3 formas del futuro. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (30') — Cierre
 
@@ -83,14 +94,14 @@ HOMEWORK CL 2 — DUE: Cl 3 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     2 with GOING TO           ("I'm going to study next weekend.")
     2 with PRESENT CONTINUOUS ("I'm working tomorrow night.")
     Write the years in words, not in numbers. Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day, with your phone.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), EVERY day, with your phone.
     Today's topic: "My dates." (= MY YEAR piece 2)
 ```
 
 - **Error paper:** anonimo en clase (papel fisico, sin nombres); libreta privada con nombres + citas literales para coordinacion.
 - **Anuncio:** *"Next class: Right on Time! — scheduled events, and the auxiliary 'might'."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

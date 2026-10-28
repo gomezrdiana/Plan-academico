@@ -4,7 +4,7 @@
 
 ## QUE ES
 
-MY YEAR es el proyecto del nivel: al final, cada estudiante presenta **su año en ingles, 3 a 5 minutos** — su semana, sus fechas, sus planes, su trabajo, su gente, sus cambios. NO se prepara al final: se construye **una pieza por clase**. La pieza de cada dia YA esta dentro de la guia — es la **ronda oral de cierre del Bloque 3** y el **audio del portafolio de ese dia**. Tu no agregas actividades nuevas: solo le pones nombre y hilo a lo que ya haces.
+MY YEAR es el proyecto del nivel: al final, cada estudiante presenta **su año en ingles, 3 a 5 minutos** — su semana, sus fechas, sus planes, su trabajo, su gente, sus cambios. NO se prepara al final: se construye **una pieza por clase**. La pieza de cada dia YA esta dentro de la guia — es la **ronda oral de cierre del Bloque 3** y el **video del portafolio de ese dia**. Tu no agregas actividades nuevas: solo le pones nombre y hilo a lo que ya haces.
 
 ## CUANDO LO DICES — LOS 4 MOMENTOS
 
@@ -12,9 +12,9 @@ MY YEAR es el proyecto del nivel: al final, cada estudiante presenta **su año e
 
 ```
 "This level has one project: MY YEAR.
-At the end, you present YOUR year in English: 3 to 5 minutes.
+At the end, you present YOUR year in English: your goal, your steps, your date. 3 to 5 minutes.
 We build it piece by piece — one piece every class.
-Your daily audio IS your piece. Keep them all."
+Your daily video IS your piece. Keep them all."
 ```
 
 No expliques mas. No hables de notas, criterios ni formato de evaluacion (eso es de coordinacion).
@@ -25,9 +25,9 @@ No expliques mas. No hables de notas, criterios ni formato de evaluacion (eso es
 "This is your MY YEAR piece [N]: [tema del dia]."
 ```
 
-**3. Al asignar la tarea (CADA clase):** senala el tema del portafolio en el tablero y di: *"That audio is your piece [N]. Keep it."*
+**3. Al asignar la tarea (CADA clase):** senala el tema del portafolio en el tablero y di: *"That video is your piece [N]. Keep it."*
 
-**4. Al abrir la clase siguiente (en el chequeo de portafolio):** cuando preguntes *"Who did their daily audio/video?"*, agrega UNA linea: *"That was piece [N] of your MY YEAR."* Nada mas.
+**4. Al abrir la clase siguiente (en el chequeo de portafolio):** cuando preguntes *"Who sent their daily video?"*, agrega UNA linea: *"That was piece [N] of your MY YEAR."* Nada mas.
 
 Total de tiempo extra por clase: **0 minutos** — son 3 frases sobre actividades que ya existen.
 
@@ -65,14 +65,22 @@ Total de tiempo extra por clase: **0 minutos** — son 3 frases sobre actividade
 ## REGLAS DURAS
 
 1. **Nunca evaluas ni comentas** notas, calidad o resultados del proyecto. Si preguntan por criterios: *"Coordination will tell you."*
-2. **Cero material fisico:** el proyecto vive en la voz y en los audios del celular del estudiante. Nada impreso, nada de carteleras.
-3. **Si un estudiante falto o perdio piezas:** las recupera con los audios del portafolio de esos dias (estan en su telefono). No se repite clase por eso.
-4. La pieza se dice EN CLASE (ronda oral) y se graba EN CASA (audio del dia). Las dos cosas, siempre.
+2. **Cero material fisico:** el proyecto vive en la voz y en los videos del celular del estudiante. Nada impreso, nada de carteleras.
+3. **Si un estudiante falto o perdio piezas:** las recupera con los videos del portafolio de esos dias (estan en su telefono). No se repite clase por eso.
+4. La pieza se dice EN CLASE (ronda oral) y se graba EN CASA (video del dia). Las dos cosas, siempre.
 5. No cambies temas ni numeros de pieza: el calendario de arriba es fijo y coordinacion lo audita contra los reportes.
 
 ## QUE NO HACER
 
 - No convertir la pieza en presentacion larga: son 2-4 frases por estudiante en la ronda de cierre.
-- No pedir que "traigan el proyecto escrito": es ORAL + audios.
+- No pedir que "traigan el proyecto escrito": es ORAL + videos.
 - No anunciar fechas distintas a las del cronograma de Cl 1.
 - No usar nombres de estudiantes en tableros o fotos del proyecto.
+
+## LA META CON FECHA (lo que se le prometio al estudiante al matricularse)
+
+Al matricularse se le dijo: *"entras con tu meta (una entrevista, un viaje, un negocio propio, el siguiente paso en tu trabajo) y desde el primer dia la trabajamos como un proyecto en ingles, con pasos y fecha"*. MY YEAR es ese proyecto. Como se cumple, sin agregar minutos:
+- **Cl 1:** cada estudiante dice su meta y su fecha en una linea; tu la anotas con nombre y la envias a coordinacion ese dia (ficha del estudiante). Si un estudiante entra despues, se le toma en su primera clase.
+- **Cada clase:** la pieza del dia se nombra como paso hacia la meta cuando el tema lo permite, en una frase (*"Piece [N] — one more step to your goal."*). Nada mas.
+- **Cl 27 (presentacion final):** cada presentacion cierra con un minuto fijo: *"My goal was ___. My steps were ___. My date is ___."* Se graba completa: es la GRABACION DE SALIDA del nivel y se envia ese dia a la auxiliar administrativa con el nombre.
+- **Lo que NO se promete:** el resultado de la meta (el viaje, el ascenso, la entrevista ganada). Se promete el entrenamiento y que avance en ingles; la garantia por escrito cubre el ingles, no la meta.

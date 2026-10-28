@@ -3,13 +3,22 @@
 **Virtud:** TEMPLANZA (v1, dia 3 de 5) · **Modulo:** M17 "You Didn't, or You Haven't?" — The Present Perfect vs The Simple Past (Libro A2 p.163-172) + M18 "You Are Loved!" — The Passive Voice for Regular Participles (p.173-180)
 **Frase del Dia:** *"Patience is needed here — I haven't rushed today."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (35') — Apertura
 
 - **Recuperacion (14'), oral y DE PIE, en cadena, sin cuaderno.** Instruccion exacta: *"Everybody stand up. No notebook. One sentence each, no repeating."*
   - De Cl 5 (N-3: second conditional + past continuous): tu abres la hipotesis (*"If I had more time..."*) y el primero cierra (*"...I would study every night."*); ese mismo abre la siguiente para el companero de al lado — 4-5 estudiantes. Luego cadena de pasado continuo: cada uno dice que estaba haciendo ayer a una hora que TU dictas (*"At 8:00 last night I was cooking dinner."*) — 4-5 estudiantes.
   - De Cl 1 (N-7: *will* + dias de la semana / meses y anos): tu escribes en el tablero 1 mes y 1 ano (*March · 1998*) → la cadena los dice en voz alta correctamente → 3 estudiantes dicen 1 plan real con *will* + dia (*"I will work on Saturday."*).
   - Errores oidos → tablero, anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (5'):** *"Who did their daily audio/video?"* — pregunta, cuenta manos y ANOTA en tu libreta quien NO. No comentes nada mas. Al anotar, di: *"That was piece 7 of your MY YEAR."*
+- **Chequeo publico de portafolio (5'):** *"Who sent their daily video?"* — pregunta, cuenta manos y ANOTA en tu libreta quien NO. No comentes nada mas. Al anotar, di: *"That was piece 7 of your MY YEAR."*
 - **Frase del Dia en tablero (8'),** escrita ANTES de que entren. 2 lecturas + coro 2x. Preguntales por que *today* pide *haven't* y no *didn't* (periodo abierto) — es exactamente el modulo de hoy. Insertala natural 3+ veces durante el dia. Al cierre del bloque: 1 estudiante la dice de memoria, otro la usa en oracion nueva.
 - **Revision de tarea Cl 7 (8'):** recoge los papeles (8-10 frases en present perfect). 3 estudiantes leen 1 frase cada uno; el grupo confirma participio y *have/has*. Anota en libreta quien NO entrego. NO devuelvas los papeles.
 
@@ -70,7 +79,7 @@ HOMEWORK CL 8 — DUE: Cl 9 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     + 4-5 in the PASSIVE VOICE (2 with "by + agent", 2 without an agent)
         ("The report is finished by my boss." / "Coffee is grown in Colombia.")
     Hand it in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), EVERY day.
     Today's topic: "How things are done where I work or study."
       (= MY YEAR piece 8)
 ```
@@ -78,7 +87,7 @@ HOMEWORK CL 8 — DUE: Cl 9 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - **Error paper (15'):** el fisico anonimo se trabaja en clase — escribe en el tablero 4-6 errores REALES oidos hoy, sin nombres; el grupo diagnostica que esta mal y por que; reconstruccion colectiva; cada estudiante produce 1 frase nueva propia con la forma corregida. Aparte, tu libreta privada con nombres y citas literales va a coordinacion.
 - **Anuncio (5'):** *"Next class: 'Playing is fun!' — gerunds as subjects."* Nada mas: no menciones notas, examenes ni resultados.
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

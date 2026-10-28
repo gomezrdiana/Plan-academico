@@ -3,15 +3,26 @@
 **Virtud:** PRUDENCIA (v1, dia 2 de 5) · **Modulo:** M2 Months and Years — Describing Months and Years, Libro A2 p.13-20
 **Frase del Dia:** *"Prudence measures the calendar before it speaks: I will grow in this year, in every month I choose."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 > **HOY SOLO: M2 — meses, anios leidos en dos grupos de dos y la preposicion IN. NO TOCAR AÚN: los numeros ordinales, la fecha completa (mes + ordinal + anio) y la preposicion ON para el dia del mes — eso es de Cl 3.**
 
 ## BLOQUE 1 (22') — Apertura
 
 - **Warm-up ligero DE PIE, en cadena, sin cuaderno (8'):** (curso nuevo: aun no hay recuperacion N-3/N-7)
   - De Cl 1 (WILL + dia + ON): lanza a 5-6 estudiantes, uno por uno: *"One TRUE sentence: something you will do next week — with a DAY."* Escucha si cae WILL + verbo base + ON + dia. Errores que oigas van al tablero anonimos -> 1 min de re-produccion correcta en coro. NO lo conviertas en explicacion.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta uno por uno y ANOTA quien si / quien no (NO revisas contenido). Recuerda: 1-3 min diarios, cada dia. Hoy es el primer chequeo — el portafolio se presento y arranco en Cl 1.
+- **Chequeo publico de portafolio (3'):** *"Who sent their daily video?"* — pregunta uno por uno y ANOTA quien si / quien no (ya VISTE cada video antes de clase: dile a cada uno su UNA mejora en una frase, sin nota ni comentario de calidad). Recuerda: video diario de 2 min, cada dia. Hoy es el primer chequeo — el portafolio se presento y arranco en Cl 1.
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy.
 - **Revision de tarea Cl 1** (My Next Week, WILL + dias): recoge papeles; 2 estudiantes leen 1 frase cada uno. No corrijas aqui; anota en tu libreta.
+
+> **RESCATE DE Cl 1 (obligatorio si quedo pendiente):** a quien no quedo grabado en la evaluacion oral de entrada en Cl 1, o si Cl 1 se dicto sin ese bloque, se graba HOY en paralelo a la simulacion (60-90 seg, video, una toma, etiqueta `A2-ENTRADA-CL2-[nombre]`, se envia HOY a la auxiliar administrativa con nombre). Y si en Cl 1 no se anotaron las METAS CON FECHA, se toman hoy en el chequeo de portafolio: una linea por estudiante (*"My goal: ___. My date: ___."*), en tu libreta con nombre, a coordinacion HOY.
 
 ## BLOQUE 2 (43') — M2: Meses, anios y la preposicion IN
 
@@ -60,14 +71,14 @@ HOMEWORK CL 2 — DUE: Cl 3 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     5 with WILL + IN + year about your future ("I will travel in 2027").
     ALL months capitalized. Preposition always IN. Read each year in two
     groups. Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English, EVERY day.
     Today's topic: "The important months and years of my life."
 ```
 
 - **Error paper:** anonimo en clase (los del tablero); en tu libreta privada, errores literales CON nombre para coordinacion.
 - **VATS (1 pregunta, 2 respuestas max):** *"What did you measure twice today before you spoke?"* — **Anuncio:** *"Next class: Days of the Month — the ordinal numbers, and the exact day a plan happens."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

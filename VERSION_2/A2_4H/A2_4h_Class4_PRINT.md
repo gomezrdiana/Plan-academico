@@ -3,13 +3,22 @@
 **Virtud:** PRUDENCIA (v1, dia 4 de 5) · **Modulo:** M8 I Think that I'm Learning! — The Relative Pronoun "That" (Libro A2 p.61-74) + M10 I'll Buy Lunch! — The First Conditional (p.75-84)
 **Frase del Dia:** *"I think that if I plan today, I will not worry tomorrow."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (35') — Apertura
 
 - **Recuperacion (12'), oral y DE PIE, en cadena, sin cuaderno:**
   - De Cl 1 (N-3: *will* + dias de la semana): tu dices un dia (*"Thursday" · "Sunday" · "Monday"*) → el estudiante responde 1 plan real con *will* (*"On Thursday I will work until six."*) y el siguiente lo vuelve negativa o pregunta (*"Will you work until six on Thursday?"*). 5-6 estudiantes.
   - De Cl 1 (meses y años): escribes 3 fechas en cifras (*February 2, 2029 · August 30, 1994 · December 11, 2031*) → la cadena las dice completas en voz alta; luego *"What month comes after September?"* / *"What day comes before Friday?"* a 3 estudiantes. 4-5 estudiantes.
   - Errores oidos → tablero, anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (5'):** *"Who did their daily audio/video?"* — pregunta uno por uno y ANOTA en tu libreta quien SI y quien NO. Es el cuarto chequeo: nombra en voz alta cuantos van completos, sin señalar a nadie. Al anotar, di: *"That was piece 3 of your MY YEAR."*
+- **Chequeo publico de portafolio (5'):** *"Who sent their daily video?"* — pregunta uno por uno y ANOTA en tu libreta quien SI y quien NO. Es el cuarto chequeo: nombra en voz alta cuantos van completos, sin señalar a nadie. Al anotar, di: *"That was piece 3 of your MY YEAR."*
 - **Frase del Dia en tablero (5')** — escrita ANTES de que entren. 2 lecturas + coro 2x. Insertala natural 3+ veces durante el dia (al abrir Bloque 2, en el drill del condicional, al cerrar la simulacion). Al cierre: 1 estudiante la dice de memoria, otro la usa en oracion nueva.
 - **Revision de tarea Cl 3 (13'):** recoge los papeles (8-10 frases con eventos programados + *might*). 3 estudiantes leen 1 frase cada uno EN VOZ ALTA — pide que lean UNA de horario y UNA con *might*; esa lectura hace de mezcla rapida con lo mas reciente. Corriges solo la forma. Anota en la libreta quien NO entrego.
 
@@ -68,7 +77,7 @@ If I have money...              ...I will buy a car.
   - TU eres COACH desde afuera: NUNCA juegas cliente ni agente. Si se congelan 15+ seg, das UN prompt y te retiras.
   - Minimos por ronda: 3 frases del cliente con *that* (al menos 1 en pasado con backshift) + 4 respuestas del agente en primer condicional (al menos 1 negativa con *won't*) + 1 pregunta del cliente en condicional (*"If the order doesn't arrive tomorrow, what will you do?"*).
   - Rotacion cada 5 min (nueva pareja cliente/agente). Debrief final (7'): observers reportan en anonimo; correcciones clave al tablero — *"If I will have money..."* → *"If I have money, I will..."*, *"I thought that you are sick"* → *"I thought that you were sick"*, coro 2x cada una.
-  - **MY YEAR — pieza 4 (dentro del debrief, SIN tiempo extra):** al cerrar el debrief di *"This is your MY YEAR piece 4: What I think about my week, and what I will do if it rains."* y cada estudiante remata con 2-4 frases propias: 1-2 con *that* sobre su semana real + 1-2 en primer condicional. Esa pieza es el audio de hoy.
+  - **MY YEAR — pieza 4 (dentro del debrief, SIN tiempo extra):** al cerrar el debrief di *"This is your MY YEAR piece 4: What I think about my week, and what I will do if it rains."* y cada estudiante remata con 2-4 frases propias: 1-2 con *that* sobre su semana real + 1-2 en primer condicional. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (30') — Cierre
 
@@ -86,7 +95,7 @@ HOMEWORK CL 4 — DUE: Cl 5 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
         (2 affirmative "If + present, ... will ..."
          + 1 negative with "won't" + 1 question "If ..., what/who/where will ...?")
     Hand it in next class. No excuses, no half work.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), EVERY day.
     Today's topic: "What I think about my week, and what I will do if it rains."
     (= MY YEAR piece 4)
 ```
@@ -94,7 +103,7 @@ HOMEWORK CL 4 — DUE: Cl 5 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - **Error paper:** version anonima en clase (los errores del dia al tablero, sin nombres); libreta privada con nombres + citas literales viaja a coordinacion con los tickets.
 - **Anuncio:** *"Next class: the second conditional + the past continuous."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

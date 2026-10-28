@@ -3,13 +3,22 @@
 **Virtud:** FORTALEZA (v1, dia 3 de 5) · **Modulo:** M41 This Is Interesting! — Participle Adjectives (Libro A2 p.326-332) — MODULO UNICO, sesion dedicada al par -ing / -ed
 **Frase del Dia:** *"Practicing is tiring, but I am excited, not tired."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (35') — Apertura
 
 - **Recuperacion (12'), oral y DE PIE, en cadena, sin cuaderno:**
   - De Cl 15 (N-3: M33 cantidades no contables + precios): escribe en el tablero dos anclas — *how much money* · *$18.500* — y pregunta en cadena *"How much money do you have?" / "How much does it cost?"*; cada estudiante responde con una cantidad real dicha en voz alta (*"It costs eighteen thousand five hundred pesos."*). Suma 2 frases con *a lot of / a little / not much*. 4-5 estudiantes.
   - De Cl 11 (N-7: M24 phrasal verbs SEPARABLES + M26 comparativo de igualdad *as...as*): cada estudiante dice 1 frase con phrasal separable partido por el objeto (*"I'll pick you up at 8:00." · "Turn it off, please."*) y el siguiente responde con 1 comparacion de igualdad real (*"My brother is as tall as me."*). 3-4 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (5'):** *"Who did their daily audio/video?"* — pregunta y ANOTA en tu libreta. Agrega UNA linea: *"That was piece 16 of your MY YEAR."*
+- **Chequeo publico de portafolio (5'):** *"Who sent their daily video?"* — pregunta y ANOTA en tu libreta. Agrega UNA linea: *"That was piece 16 of your MY YEAR."*
 - **Frase del Dia en tablero** (escrita ANTES de que entren). 2 lecturas + coro 2x. Insertala natural 3+ veces durante la clase (cuando alguien diga que esta cansado, al corregir, antes de la simulacion). Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 17 (8'):** recoge los papeles (8-10 frases con orden de adjetivos + posesivos); 2 estudiantes leen 1 frase cada uno en voz alta. Anota en libreta quien NO entrego. Sin negociar: *"This is what your level requires."*
 
@@ -67,7 +76,7 @@ HOMEWORK CL 18 - DUE: Cl 19 before 7:00 PM - TIME: 20-30 min. NOT fragmented.
     Use at least 6 DIFFERENT pairs from the module, and include
       1 question, 1 negative and 1 sentence in the past.
     Hand it in next class.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day.
+(2) DAILY PORTFOLIO - VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), EVERY day.
     Today's topic: "What was interesting, tiring or surprising in my week
     - and how I felt about it."  (= MY YEAR piece 17)
 ```
@@ -75,7 +84,7 @@ HOMEWORK CL 18 - DUE: Cl 19 before 7:00 PM - TIME: 20-30 min. NOT fragmented.
 - **Error paper:** anonimo en clase; en tu libreta privada los mismos errores CON nombre y cita literal, para coordinacion.
 - **Anuncio:** *"Next class: Getting crazy! — changes of state with the verb 'get'."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

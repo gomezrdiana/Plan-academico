@@ -3,13 +3,22 @@
 **Virtud:** JUSTICIA (v1, dia 4 de 5) · **Modulo:** MIDTERM — mini-charlas individuales (media sesion, integrado) + M30 "Too Much or Just Enough?" — Required Levels (Libro A2 p.267-272) + M32 "How Many People Are There?" — Specifying Countable Quantities (p.273-282), en version compacta
 **Frase del Dia:** *"A fair leader is patient enough to listen to many people, and never too proud."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (35') — Apertura y montaje del midterm
 
 - **Recuperacion (11'), oral y DE PIE, en cadena, sin cuaderno — version corta (hoy hay midterm):**
   - De Cl 11 (N-3 — phrasal SEPARABLES + *as...as*): tu das el phrasal y un objeto (*turn off / the light · pick up / the box*) y el estudiante dice las dos posiciones + con pronombre (*"Turn it off."*); luego nombras dos cosas de la sala y otro compara con *as ... as* en afirmativo y negativo. 3-4 estudiantes por parte.
   - De Cl 7 (N-7 — present perfect): cada estudiante dice 1 experiencia real con *have/has + participio* y el siguiente la vuelve pregunta (*"Have you worked here for two years?"*). 4 estudiantes.
   - Errores oidos → tablero anonimos → re-produccion correcta en coro.
-- **Chequeo publico de portafolio (4'):** *"Who did their daily audio/video?"* — pregunta uno por uno y ANOTA en tu libreta (si/no). No comentes nada de evaluaciones. Al anotar, di: *"That was piece 13 of your MY YEAR."*
+- **Chequeo publico de portafolio (4'):** *"Who sent their daily video?"* — pregunta uno por uno y ANOTA en tu libreta (si/no). No comentes nada de evaluaciones. Al anotar, di: *"That was piece 13 of your MY YEAR."*
 - **Frase del Dia en tablero (5')** (escrita ANTES de que entren). 2 lecturas + coro 2x; subraya *patient enough* (enough DESPUES), *many people* y *too proud*. Insertala natural 3+ veces durante el dia. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 13 (10'):** recoge los papeles (10 frases con *how + adjetivo* + los 6 intensificadores; la preparacion de la mini-charla era el componente 3). 3 estudiantes leen 1 pregunta y su respuesta en voz alta. Anota en tu libreta quien NO entrego. No califiques ni comentes nota.
 - **Montaje del midterm (5'), guionado en ingles simple:** *"Today: each of you gives your MIDTERM mini-talk. About five minutes. You speak, I keep the time. The others listen and write."* Escribe un cronometro visible en el tablero (orden de turnos + 5:00). NO comentes notas, criterios, calidad ni resultados en ningun momento.
@@ -86,14 +95,14 @@ HOMEWORK CL 14 - DUE: Cl 15 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
        + 1 answer with "many / a lot of / lots of"
        + 1 answer with "a few"
     Hand in next class. "No time" is not accepted.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day.
+(2) DAILY PORTFOLIO - VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), EVERY day.
     Today's topic: "How many people work with me, and what is not enough at my job."
 ```
 
 - **Error paper:** el anonimo se trabaja en clase (tablero, sin nombres); tu libreta privada con nombres + citas literales va a coordinacion con la guia firmada.
 - **Cierre de Frase del Dia + anuncio (10'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Luego: *"Next class: How much money do you have? — uncountable quantities; and How much does it cost? — prices."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Observer notes (midterm)  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Observer notes (midterm)  □ Fotos/videos
 
 [PAGEBREAK]
 

@@ -3,6 +3,15 @@
 **Virtud:** TEMPLANZA (v2, dia 2 de 3) · **Sesion:** PRESENTACION FINAL MY YEAR (media sesion, evento integrado) + arco de repaso, cluster CONCORDANCIA 3a persona + THERE IS/ARE + CAUSATIVO (media sesion). NO hay modulo nuevo (libro agotado en M44).
 **Frase del Dia:** *"She works, they work — there is one plan and there are many steps: I want you to take them one at a time."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 > **CRITICO:** en el Bloque 2 tu CONDUCES y CRONOMETRAS. NO evaluas, NO das nota, NO comentas calidad, criterios ni resultados — eso es de coordinacion. Los errores van a tu LIBRETA PRIVADA con nombres; nunca se comentan al estudiante ni al grupo.
 
 > **HOY SOLO: concordancia 3a persona + there is/are + causativo con want / need / would like + persona + TO + verbo (alcance de M44). NO TOCAR AUN: make / let sin TO ni have / get + participio — eso es de nivel B1.**
@@ -13,7 +22,7 @@
   - De Cl 24 (N-3 — phrasal verbs + pasiva): tu das un phrasal con objeto (*pick up / the box · turn off / the light · look after / my niece*) y el estudiante lo dice con pronombre en la posicion correcta (*"Pick it up." · "I look after her."*); el siguiente vuelve pasiva una frase que tu dices en activa (*"They clean the office every night." → "The office is cleaned every night."*). 3-4 estudiantes por parte.
   - De Cl 20 (N-7 — adverbios de manera + causativo): tu das un adjetivo (*careful · slow · easy*), el estudiante produce el adverbio y una frase con el adverbio DESPUES del verbo u objeto; el siguiente convierte esa frase en deseo sobre otra persona (*"I want you to answer the email carefully."*). 3-4 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (5'):** *"Who did their daily audio/video?"* — pregunta uno por uno y ANOTA. Agrega UNA linea: *"Those are your MY YEAR pieces — today you use all of them."*
+- **Chequeo publico de portafolio (5'):** *"Who sent their daily video?"* — pregunta uno por uno y ANOTA. Agrega UNA linea: *"Those are your MY YEAR pieces — today you use all of them."*
 - **Frase del Dia en tablero (5')** (escrita ANTES de que entren). 2 lecturas + coro 2x; subraya *works / work*, *there is / there are* y *I want you to*. Insertala natural 3+ veces durante el dia. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 26 (5'):** recoge los papeles (frases del cluster de preposiciones + articulos + cantidades). 2 estudiantes leen 1 frase en voz alta. Anota en tu libreta quien NO entrego. No califiques ni comentes nada.
 - **Montaje de la presentacion (5'), guionado en ingles simple — dilo tal cual:**
@@ -33,6 +42,7 @@
 - **Formato por estudiante (3-5'):** cada uno presenta su **MY YEAR completo**, ensamblando las 19 piezas construidas en Cl 1-20 y pulidas en el arco: quien soy · mi semana y mi año · mis fechas · mi trabajo o estudio · mis rutinas · lo que he hecho este año · lo que comparo · lo que quiero empezar y dejar de hacer · mis planes · lo que quiero que la gente a mi alrededor haga. Notas permitidas, LEER no permitido.
 - **TU CONDUCES y CRONOMETRAS.** Aviso a los 3 min y a los 5. Si alguien se congela 15+ seg, UN solo prompt (*"and what about your work?"*) y te retiras. No evaluas en voz alta, no corriges durante la presentacion, no das resultados. Solo *"Thank you. Next, please."* Los errores los anotas en tu **LIBRETA PRIVADA con nombre** — NUNCA se comentan al estudiante ni al grupo.
 - **Los demas son OBSERVERS con tarea escrita:** por cada presentacion anotan **1 acierto + 1 error (anonimo, sin nombre del que hablo)**. Se recogen TODOS al final del bloque y viajan con los tickets a coordinacion — no se leen ni se evaluan en aula.
+- **GRABACION DE SALIDA del nivel (entregable del dia; contrato y anexo de garantia):** la presentacion de cada estudiante se graba completa con su celular o el de un companero y **se envia HOY a la auxiliar administrativa con el nombre completo**: es la foto de llegada que se pone junto a la de entrada de Cl 1. Cada presentacion cierra con la meta: *"My goal was ___. My steps were ___. My date is ___."* (1 minuto; no se evalua, se graba).
 - **Fotos y video del hito (entregable del dia):** graba/fotografia cada presentacion. Discurso de reframe al abrir, 10 segundos: *"You record because it takes courage, and your video helps the next student."* **Sin nombres en tableros ni en las fotos.** (Las autorizaciones se firmaron en matricula; si alguien pregunta por permisos: *"Coordination handles that."*)
 - **Si sobra tiempo del bloque:** despues de cada presentacion, 2 estudiantes hacen 1 pregunta al presentador con estructuras del nivel (*"How many people work with you?" · "What are you going to do next year?" · "Do you want your team to change something?"*).
 - **Nadie se queda sin pasar.** Si el grupo es grande, protege que TODOS presenten aunque bajes a 3 min por persona.
@@ -107,15 +117,15 @@ HOMEWORK CL 27 — DUE: Cl 28 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
       9. a quantity (many / much / a lot of / a few)
      10. 3rd person -s OR there is/are OR "want someone TO do"
     All about your real work, study or home. Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), EVERY day.
     Today: record your COMPLETE MY YEAR presentation one more time.
-    This is your final audio of the level. Keep it.
+    This is your final video of the level. Keep it.
 ```
 
 - **Error paper:** el anonimo se trabaja en clase (tablero, sin nombres); tu libreta privada con nombres + citas literales va a coordinacion con la guia firmada y con los observer notes.
 - **Cierre de Frase del Dia + anuncio (5'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Luego, en 8 segundos y sin detalles: *"Next class: last class — mastery and closing. The last two hours: the final exam of the level."* Nada mas. Si preguntan por contenido, criterios o resultados: *"Coordination handles that."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Observer notes (presentacion)  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Observer notes (presentacion)  □ Fotos/videos
 
 [PAGEBREAK]
 
@@ -138,7 +148,7 @@ HOMEWORK CL 27 — DUE: Cl 28 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 
 **Plan B:**
 - Si el grupo es grande y el Bloque 2 se pasa de 85': recorta a 3 min por presentacion y elimina las preguntas del publico. Protege que TODOS pasen. Lo que se sacrifica despues es la Ronda 4 del drill del Bloque 3, nunca el ticket.
-- Si un estudiante se bloquea de nervios: bajalo a "5 piezas clave" (quien soy + mi trabajo + mi rutina + 1 cosa que he hecho este año + 1 plan) y rota. Puede completar el resto en el audio del portafolio. Nadie se queda sin pasar.
+- Si un estudiante se bloquea de nervios: bajalo a "5 piezas clave" (quien soy + mi trabajo + mi rutina + 1 cosa que he hecho este año + 1 plan) y rota. Puede completar el resto en el video del portafolio. Nadie se queda sin pasar.
 - Si alguien intenta LEER: *"Notes are OK, reading is not. Look at us."* Una sola vez, sin discutir.
 - Si falla la grabacion (telefono): otro estudiante graba con el suyo. Cero material del profe/academia.
 - Si aparece *"I want that you go"* (calco del espanol): regla fisica unica — al decir la persona senalas a alguien, al decir *to* empujas la mano al frente. Coro 2x. No expliques la subordinada.
@@ -153,7 +163,7 @@ HOMEWORK CL 27 — DUE: Cl 28 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - **Hoy NO hay simulacion larga:** la presentacion fue el evento de produccion del dia. El Bloque 3 corre como bateria de error → drill de pie → mini-produccion en cadena. No se agrega escenario nuevo.
 - **Alcance del causativo — no ampliar.** Se ensena SOLO lo que trae M44: *want / need / would like + persona + TO + verbo*. Las familias *make / let* (sin *to*) y *have / get + participio* son contenido de B1 — el propio libro dice "se tratara mas de este tema en el nivel B1" (p.348). Material de cohortes anteriores las mezclaba aqui: no se replica. Si un estudiante las produce, se acepta oralmente pero tablero, ticket y tarea van con el alcance del libro.
 - Continuidad/recuperacion: **N-3 = Cl 24** (phrasal verbs + pasiva), **N-7 = Cl 20** (adverbios de manera + causativo). Revision de tarea = la de Cl 26 (preposiciones + articulos + cantidades + preparacion de la presentacion).
-- **Proyecto MY YEAR:** 19 piezas construidas en Cl 1-20 (Cl 14 no sumo pieza numerada) y pulidas en Cl 21-26. **Hoy se presenta completo (Cl 27)** e integra todas las piezas. El audio final del nivel es la tarea de hoy. El examen final de Cl 28 lo aplica un evaluador externo y es aparte del proyecto.
+- **Proyecto MY YEAR:** 19 piezas construidas en Cl 1-20 (Cl 14 no sumo pieza numerada) y pulidas en Cl 21-26. **Hoy se presenta completo (Cl 27)** e integra todas las piezas. El video final del nivel es la tarea de hoy. El examen final de Cl 28 lo aplica un evaluador externo y es aparte del proyecto.
 - Virtud: **TEMPLANZA v2, hoy dia 2 de 3** (bloque Cl 26-28; el nivel termina en Cl 28, por eso el bloque de virtud queda de 3 dias y no de 5 — calendario absoluto por numero de clase). La Frase del Dia une concordancia (*she works / they work*), existencia (*there is / there are*), causativo (*I want you to*) y la virtud (*one at a time*).
 - Cero material fisico: los cuatro tableros (A-B-C-D), la bateria de errores y el orden de turnos los escribe el profe. Las notas de la presentacion son del estudiante; los observer notes van en su propio cuaderno. No se pide ningun objeto.
 - Los errores de la bateria son los tipicos del paso A2→B1 en hispanohablantes; **no corresponden a ningun estudiante ni a tickets procesados de este cohorte** — no se presentan como "lo que ustedes hicieron".

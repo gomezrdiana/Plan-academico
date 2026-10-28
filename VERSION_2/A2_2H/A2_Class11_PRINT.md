@@ -3,6 +3,15 @@
 **Virtud:** JUSTICIA (v1, dia 1 de 5 — abre el bloque) · **Modulo:** M13 I already knew that! — Already, Still, and Until, Libro A2 p.107-120
 **Frase del Dia:** *"I have already thanked my team, I am still doing my fair part, and I will stay until the shared work is done."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 > **HOY SOLO: M13 — already / still / until en los tiempos que usa el libro (pasado, presente y futuro simple). NO TOCAR AÚN: while / during / again (eso es de Cl 12) ni el present perfect (*I have already studied*) — eso es de Cl 13.**
 
 ## BLOQUE 1 (22') — Apertura
@@ -11,7 +20,7 @@
   - De Cl 8 (first conditional): *"Complete for real: 'If I finish early today, I will ___.'"* — 4-5 estudiantes en cadena.
   - De Cl 4 (the three futures): *"One real plan for tomorrow with GOING TO ('I'm going to ___'), and one prediction with WILL ('I think it will ___')."* — 3-4 estudiantes.
   - Errores que OIGAS → tablero anonimos → 1 min de re-produccion correcta en coro. NO lo conviertas en explicacion.
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta uno por uno y ANOTA (NO revisas contenido).
+- **Chequeo publico de portafolio (3'):** *"Who sent their daily video?"* — pregunta uno por uno y ANOTA (ya VISTE cada video antes de clase: dile a cada uno su UNA mejora en una frase, sin nota ni comentario de calidad).
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Insertala natural 3+ veces hoy. Nota que ya usa las tres palabras del dia: already / still / until.
 - **Revision de tarea Cl 10** (An Interrupted Day): recoge papeles; 2 estudiantes leen 1 frase. Anota en libreta, no corrijas aqui.
 
@@ -55,7 +64,7 @@ HOMEWORK CL 11 — DUE: Cl 12 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     imagined project: 3 with ALREADY (done), 2 with STILL (pending),
     3 with UNTIL (a stop / deadline). Thank one teammate by name in one
     sentence. Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English, EVERY day.
     Today's topic: "My week so far: what I have already done, what I am
     still doing, and until when."
 ```
@@ -63,7 +72,7 @@ HOMEWORK CL 11 — DUE: Cl 12 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - **Error paper:** anonimo en clase (los del tablero); en tu libreta privada, errores literales CON nombre para coordinacion.
 - **VATS (1 pregunta, 2 respuestas max) — abre JUSTICIA:** *"Who in your life deserves a 'thank you' you have not given yet?"* — **Anuncio:** *"Next class: 'We studied during the game again!' — WHILE, DURING and AGAIN — more time words for a fair team."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

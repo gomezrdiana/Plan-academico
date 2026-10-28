@@ -3,15 +3,26 @@
 **Virtud:** TEMPLANZA (v2, dia 1 de 5) · **Modulo:** MID TERM — presentaciones orales de 5 min por estudiante (dia completo de protocolo)
 **Frase del Dia:** *"A calm mind speaks better than a fast one: breathe, slow down, trust your practice."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 > **HOY NO HAY MODULO NUEVO.** Es el dia de presentaciones. TU CONDUCES y CRONOMETRAS; NO evaluas en voz alta, NO das notas, NO comunicas resultados. Tus notas van a tu libreta privada para coordinacion — coordinacion evalua y comunica. Manten el tono tranquilo: hoy se practica templanza (calma bajo presion).
 
 ## BLOQUE 1 (15') — Apertura y encuadre
 
 - **Frase del Dia en tablero** (escrita ANTES). 2 lecturas + coro 2x. Usala para bajar los nervios ("breathe, slow down").
-- **Chequeo publico de portafolio (3'):** *"Who did their daily audio/video?"* — pregunta y ANOTA.
+- **Chequeo publico de portafolio (3'):** *"Who sent their daily video?"* — pregunta y ANOTA.
 - **Encuadre (5'):** explica el orden del dia: cada estudiante habla 5 min sobre si mismo (rutina, trabajo/estudios, ciudad, opiniones) usando las estructuras del nivel. Recuerda las herramientas en el tablero como apoyo visual: *present perfect · gerunds (-ing) · comparatives (as ___ as / -er than) · intensifiers (very / pretty / not very)*.
 - **Calma (2'):** respiracion en grupo (inhalar 4, exhalar 4, 3 veces). Recuerda: *"If you get stuck, pause, breathe, and continue — that is templanza."*
 - Fija el ORDEN de turnos (voluntarios primero baja la tension del grupo).
+
+> **META CON FECHA (promesa del nivel):** cada presentacion termina con UNA frase sobre la meta que el estudiante anoto en Cl 1 (*"My goal: ___. My date: ___."*). Si alguno no la tiene, la dice hoy y tu la anotas con nombre para coordinacion.
 
 ## BLOQUE 2 (45') — Presentaciones (primera mitad)
 
@@ -39,13 +50,13 @@ HOMEWORK CL 26 — DUE: Cl 27 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     about your day, using SO, TOO or ENOUGH:
     2 with "so ___", 2 with "too ___", 2 with "___ enough / not ___ enough".
     Ex: "My coffee was too hot." / "I wasn't fast enough." Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, in English, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), in English, EVERY day.
     Today's topic: "How I felt in my presentation and what I want to improve."
 ```
 
 - **VATS (1 pregunta, 2 respuestas max):** *"When you feel pressure, what keeps you calm?"* — **Anuncio:** *"Next class: Too much or just enough? — so, too and enough."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Notas privadas de presentaciones (coordinacion)  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Notas privadas de presentaciones (coordinacion)  □ Fotos/videos
 
 [PAGEBREAK]
 

@@ -3,6 +3,15 @@
 **Virtud:** JUSTICIA (v1, dia 4 de 5) · **Modulo:** M16 I Have Gone to Paris — The Present Perfect (Irregular), Libro A2 p.147-162
 **Frase del Dia:** *"We have been a team: I have told the truth and I have shared what I have found."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto en los primeros 20 minutos: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10, 20, 30, 40 y 50 y grabacion de salida en Cl 53 (presentaciones finales). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY LIFE = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 > **HOY SOLO: M16 — present perfect con los participios IRREGULARES de la tabla del libro (been, driven, eaten, told, taken, woken up, gone, found). NO TOCAR AÚN: el contraste past simple vs present perfect y los marcadores de periodo abierto/cerrado (*last week* vs *this week*) — eso es de Cl 15.**
 
 ## BLOQUE 1 (22') — Apertura
@@ -11,7 +20,7 @@
   - De Cl 11 (already / still / until): lanza a 4-5 estudiantes, uno por uno: *"One TRUE sentence: something you ALREADY did today."* → *"Something you STILL do every week."* → *"Something you do UNTIL 10 PM."*
   - De Cl 7 (relative "that"): *"Complete with a real opinion: 'I think that...'"* — 3-4 estudiantes en cadena.
   - Errores que OIGAS van al tablero anonimos → 1 min de re-produccion correcta en coro. NO lo conviertas en explicacion.
-- **Chequeo publico de portafolio (2'):** *"Who sent their daily audio or video since last class?"* Anota numeros (cuantos si / cuantos no) en tu cuaderno. NO revisas contenido — eso es coordinacion.
+- **Chequeo publico de portafolio (2'):** *"Who sent their daily video since last class?"* Anota numeros (cuantos si / cuantos no) en tu cuaderno. Ya VISTE cada video antes de clase: dile a cada uno su UNA mejora en una frase, sin nota ni comentario de calidad. Las notas son de coordinacion.
 - **Frase del Dia en tablero** (escrita ANTES de empezar). Leela 2 veces, coro 2 veces. Usala natural 3+ veces durante la clase.
 - **Revision de tarea Cl 13** (perfil de experiencia, present perfect regular): recoge los papeles. 2 estudiantes leen 1 frase cada uno. No corrijas aqui; anota en tu libreta.
 
@@ -62,14 +71,14 @@ HOMEWORK CL 14 — DUE: Cl 15 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 (1) WRITING "MY EXPERIENCE MAP" — 8 sentences on paper, present perfect
     IRREGULAR: 5 affirmative + 1 negative (been/gone/eaten/taken/driven/
     told/found/woken up) + 2 questions "Have you...?". Hand in next class.
-(2) DAILY PORTFOLIO — 1-3 min audio/video on your phone, in English,
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week) on your phone, in English,
     EVERY day. Today's topic: "3 things I have done in my life."
 ```
 
 - **Error paper:** anonimo en clase (los del tablero); en tu libreta privada, errores literales CON nombre para coordinacion.
 - **VATS (1 pregunta, 2 respuestas max):** *"What is the fairest thing you have done?"* — **Anuncio:** *"Next class: You didn't, or you haven't? — when to use the past and when to use the perfect."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

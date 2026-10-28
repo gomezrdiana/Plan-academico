@@ -3,14 +3,23 @@
 **Virtud:** TEMPLANZA (v1, dia 1 de 5 — apertura de virtud) · **Modulo:** M13 "I already knew that!" — Already, Still, Until (Libro A2 p.107-120) + M14 "We Studied During the Game Again!" — While, During, Again (p.121-132)
 **Frase del Dia:** *"I already started, and I am still working until I finish."*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (35') — Apertura
 
-- **Mini-ritual de virtud nueva (5') — TEMPLANZA / SELF-CONTROL:** escribe la palabra en el tablero en los dos idiomas antes de que entren. Dila una vez y da la definicion operativa en 1 linea: *"Temperance = I finish what I started, even when I don't feel like it."* Cada estudiante dice EN VOZ ALTA, en cadena y en ingles, 1 compromiso concreto para estas 5 clases (*"I will study 20 minutes every day." · "I will record my audio before 9:00 PM."*). Tu no comentas ni evaluas: solo lo anotas en tu libreta. Esta virtud manda hasta Cl 10.
+- **Mini-ritual de virtud nueva (5') — TEMPLANZA / SELF-CONTROL:** escribe la palabra en el tablero en los dos idiomas antes de que entren. Dila una vez y da la definicion operativa en 1 linea: *"Temperance = I finish what I started, even when I don't feel like it."* Cada estudiante dice EN VOZ ALTA, en cadena y en ingles, 1 compromiso concreto para estas 5 clases (*"I will study 20 minutes every day." · "I will record my video before 9:00 PM."*). Tu no comentas ni evaluas: solo lo anotas en tu libreta. Esta virtud manda hasta Cl 10.
 - **Recuperacion (12'), oral y DE PIE, en cadena, sin cuaderno:**
   - De Cl 3 (N-3, parte 1 — scheduled events): escribe en el tablero **the flight 6:20 · the bus 7:15 · the train 9:40** → la cadena produce la frase en presente simple porque es horario fijo (*"The flight leaves at six twenty." · "The bus arrives at seven fifteen."*) y el siguiente la vuelve pregunta (*"What time does your train arrive?"*). 5-6 estudiantes.
   - De Cl 3 (N-3, parte 2 — *might*): tu preguntas en futuro y el estudiante responde con posibilidad. *"What are you going to do tomorrow?" — "I might go to Piedecuesta."* · *"Are you waking up early tomorrow?" — "I might not."* 4-5 estudiantes. Recuerda la regla: *might* no tiene forma abreviada.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (4'):** *"Who did their daily audio/video?"* — pregunta y ANOTA en tu libreta (si/no por estudiante). Al anotar, di: *"That was piece 5 of your MY YEAR."*
+- **Chequeo publico de portafolio (4'):** *"Who sent their daily video?"* — pregunta y ANOTA en tu libreta (si/no por estudiante). Al anotar, di: *"That was piece 5 of your MY YEAR."*
 - **Frase del Dia en tablero (5')** (escrita ANTES de que entren). 2 lecturas + coro 2x; encierra *already*, *still* y *until* en el tablero: son los 3 marcadores de hoy. Insertala natural 3+ veces durante el dia. Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 5 (9'):** recoge los papeles (10 frases: segundo condicional + pasado continuo interrumpido). 3 estudiantes leen 1 frase cada uno. Anota en tu libreta quien NO entrego. No califiques ni comentes nota.
 
@@ -63,7 +72,7 @@ OJO (nota del libro p.127): en futuro, despues de WHILE va PRESENTE, no futuro.
   - TU eres COACH desde afuera: NUNCA juegas recepcionista. Si se congelan 15+ seg → UN prompt corto (*"And during the afternoon?"*) y te retiras.
   - Minimos por ronda: 2 frases con *already* + 2 con *still* + 1 con *until* + 2 con *while/during* + 1 con *again*.
   - Rotacion cada 5-6 min (3-4 rondas). Debrief (8'): observers reportan en anonimo; correccion clave al tablero — *"During I was working…"* → *"WHILE I was working…"* (during + evento, while + frase), coro 2x.
-  - **MY YEAR — pieza 6 (dentro del debrief, SIN tiempo extra):** al cerrar el debrief di *"This is your MY YEAR piece 6: What I already finished, what I am still doing, and what I will do again this week."* y cada estudiante remata con 2-4 frases propias usando *already / still / again* sobre su semana real. Esa pieza es el audio de hoy.
+  - **MY YEAR — pieza 6 (dentro del debrief, SIN tiempo extra):** al cerrar el debrief di *"This is your MY YEAR piece 6: What I already finished, what I am still doing, and what I will do again this week."* y cada estudiante remata con 2-4 frases propias usando *already / still / again* sobre su semana real. Esa pieza es el video de hoy.
 
 ## BLOQUE 4 (30') — Cierre
 
@@ -79,7 +88,7 @@ HOMEWORK CL 6 — DUE: Cl 7 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
     + 2 with WHILE or DURING (at least 1 of each)
     + 1 with AGAIN.
     All about YOUR real week. Hand in next class. "No time" is not accepted.
-(2) DAILY PORTFOLIO — 1-3 min audio/video, EVERY day.
+(2) DAILY PORTFOLIO — VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), EVERY day.
     Today's topic: "What I already finished, what I am still doing,
     and what I will do again this week." (= MY YEAR piece 6)
 ```
@@ -87,7 +96,7 @@ HOMEWORK CL 6 — DUE: Cl 7 before 7:00 PM · TIME: 20-30 min. NOT fragmented.
 - **Error paper:** el anonimo se trabaja en clase (tablero, sin nombres); tu libreta privada con nombres + citas literales va a coordinacion con la guia firmada.
 - **Cierre de Frase del Dia + anuncio (7'):** 1 estudiante dice la Frase del Dia, otro la usa en oracion nueva. Luego: *"Next class: the present perfect — I have visited / I have gone."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 

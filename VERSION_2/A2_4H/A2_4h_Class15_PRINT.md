@@ -3,13 +3,22 @@
 **Virtud:** JUSTICIA (v1, dia 5 de 5) · **Modulo:** M33 How Much Money Do You Have? — Specifying Uncountable Quantities (Libro A2 p.283-292) + M34 How Much Does It Cost? — Describing Prices (p.293-300)
 **Frase del Dia:** *"A fair price is the same for everyone: how much does it cost?"*
 
+> **LO QUE LA ACADEMIA FIRMO CON CADA ESTUDIANTE (contrato de matricula + anexo de garantia + lo que se le prometio al matricularse). Si no se hace, la academia incumple y pierde la garantia; es tan obligatorio como el video diario.**
+> 1. **Video diario:** cada estudiante graba en casa UN VIDEO en ingles de minimo 2 minutos, de corrido y sin leer, y lo envia HOY al grupo de WhatsApp del cohorte (audio solo por excepcion, maximo 2 por semana). Tu VES cada video antes de la clase siguiente y, al abrir, le dices a cada uno UNA mejora en una frase. Anotas quien envio y quien no: va en el reporte.
+> 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada despues del minuto 15 = LLEGADA TARDE (tres = una falta). Avisas a coordinacion por WhatsApp quien falto ANTES del primer descanso: la academia lo llama ese mismo dia.
+> 3. **Grabaciones del expediente:** evaluacion oral de entrada en video en Cl 1 (a quien no quedo, en la clase siguiente), video de hito en Cl 10 y Cl 20 y grabacion de salida en Cl 27 (presentacion MY YEAR). Todo se envia a la auxiliar administrativa el mismo dia, con el nombre de cada estudiante.
+> 4. **Clase hablada en ingles desde el primer dia:** tu hablas en ingles y cada estudiante habla HOY en la simulacion, con correccion en el momento. Nadie termina la clase sin haber hablado.
+> 5. **Proyecto MY YEAR = la meta con fecha de cada estudiante:** la meta se anota en Cl 1 y viaja a coordinacion; cada clase nombra su pieza; en la presentacion final cada uno cuenta en ingles su meta, sus pasos y su fecha.
+> 6. **Ticket de salida y error paper** fisicos a coordinacion al terminar; **Frase del Dia** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluacion como tuyos:** eso es de coordinacion; el final lo aplica un evaluador externo.
+
+
 ## BLOQUE 1 (35') — Apertura
 
 - **Recuperacion (14'), oral y DE PIE, en cadena, sin cuaderno:**
   - De Cl 12 (N-3: comparativos y superlativos): escribe en el tablero 3 parejas (*a bus / a taxi · the market / the mall · coffee / juice*) → cada estudiante produce 1 comparativo (*"A taxi is more expensive than a bus."*) y el siguiente el superlativo del mismo grupo (*"The taxi is the most expensive."*). 4-5 estudiantes.
   - De Cl 8 (N-7: past simple vs present perfect + pasiva): cada estudiante dice 1 frase en pasado con marcador de tiempo (*"I paid the bill yesterday."*) y la vuelve present perfect sin marcador (*"I have already paid the bill."*); luego 2 estudiantes convierten 1 activa en pasiva (*"They sell bread here." → "Bread is sold here."*). 3-4 estudiantes.
   - Errores oidos → tablero anonimos → 1 min de re-produccion correcta en coro.
-- **Chequeo publico de portafolio (4'):** *"Who did their daily audio/video?"* — pregunta y ANOTA en tu libreta. Al anotar, di: *"Your mini-talk was your MY YEAR so far — today we keep building."*
+- **Chequeo publico de portafolio (4'):** *"Who sent their daily video?"* — pregunta y ANOTA en tu libreta. Al anotar, di: *"Your mini-talk was your MY YEAR so far — today we keep building."*
 - **Frase del Dia en tablero (6')** (escrita ANTES de que entren). 2 lecturas + coro 2x. Insertala natural 3+ veces (al abrir, antes del drill, antes de la simulacion). Al cierre: 1 estudiante la dice, otro la usa en oracion nueva.
 - **Revision de tarea Cl 14 (11'):** recoge los papeles (8-10 frases con las estructuras de M30 + M32); 2 estudiantes leen 1 frase cada uno. Anota en libreta quien NO entrego. No se acepta "no me dio tiempo".
 
@@ -95,7 +104,7 @@ HOMEWORK CL 15 - DUE: Cl 16 before 7:00 PM - TIME: 20-30 min. NOT fragmented.
       2 prices with decimals in WORDS ("It costs three fifty.").
     Include at least 1 question in the plural ("How much do the shoes cost?").
     Hand it in next class.
-(2) DAILY PORTFOLIO - 1-3 min audio/video, EVERY day.
+(2) DAILY PORTFOLIO - VIDEO, minimum 2 minutes, one take, no reading, sent TODAY (audio only by exception, max 2 per week), EVERY day.
     Today's topic: "How much does it cost? - prices and quantities in my week."
       (= MY YEAR piece 14)
 ```
@@ -103,7 +112,7 @@ HOMEWORK CL 15 - DUE: Cl 16 before 7:00 PM - TIME: 20-30 min. NOT fragmented.
 - **Error paper:** anonimo en clase; en tu libreta privada los mismos errores CON nombre y cita literal, para coordinacion.
 - **Anuncio:** *"Next class: ropa y descripcion fisica — what are you wearing / what do you look like."*
 
-□ Reporte firmado  □ Error papers  □ Tickets de salida  □ Fotos/videos
+□ Reporte firmado (asistencia + llegadas tarde · videos recibidos + mejora dicha a cada uno)  □ Ausentes avisados a coordinacion HOY  □ Error papers  □ Tickets de salida  □ Fotos/videos
 
 [PAGEBREAK]
 
