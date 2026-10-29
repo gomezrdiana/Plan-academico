@@ -12,7 +12,7 @@
 > 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada después de 6:45 = LLEGADA TARDE (tres = una falta). Avisas a coordinación por WhatsApp quién faltó en los primeros 20 minutos: la academia lo llama esa misma noche.
 > 3. **Grabaciones del expediente:** grabación de entrada en Cl 1 (quien no quedó o entró después, en su primera clase); video de hito en Cl 60 y Cl 70 (el video grabado en clase esa noche, reenviado a la auxiliar administrativa con el nombre de cada estudiante); grabación de salida en las presentaciones finales (Cl 98-99).
 > 4. **Clase hablada en inglés:** tú hablas en inglés y cada estudiante habla HOY en la simulación y en su exposición, con corrección en el momento. Nadie termina la noche sin haber hablado.
-> 5. **La meta con fecha de cada estudiante** (la dejó registrada al matricularse; coordinación la tiene) y su carrera (lista de Cl 52): la simulación de hoy se nombra en una frase como un paso hacia esa meta, y el video de cada noche se graba sobre su carrera. El proyecto del nivel se arma en Cl 81-97.
+> 5. **La meta con fecha de cada estudiante** (la dejó registrada al matricularse; coordinación la tiene) y su carrera (lista de Cl 1): la simulación de hoy se nombra en una frase como un paso hacia esa meta, y el video de cada noche se graba sobre su carrera. El proyecto del nivel se arma en Cl 81-97.
 > 6. **Ticket de salida y error paper** físicos a coordinación al terminar; **Frase del Día** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluación como tuyos:** eso es de coordinación; el Final lo aplica un evaluador externo.
 
 ---
@@ -53,7 +53,7 @@
 
 ## BLOQUE 3 — ESCRITURA A MANO: YOUR PROFILE (20') + RECORD & STAND: MILESTONE VIDEO (25') — SENTADOS LA ESCRITURA, DE PIE LA GRABACIÓN
 
-**Profesiones del grupo (lista de Cl 52) en el tablero antes de empezar el Bloque 3.**
+**Profesiones del grupo (lista de Cl 1) en el tablero antes de empezar el Bloque 3.**
 
 **Objective: write your professional profile alone, by hand, in English — and then record it in five minutes without the paper: that video is your milestone video.**
 
@@ -61,7 +61,7 @@
 
 ### RECORD & STAND (25') — TU VIDEO DE 5 MINUTOS, GRABADO AQUÍ, SOBRE TU CARRERA = VIDEO DE HITO Cl 60
 
-2. **Prompt en tablero (1'):** la profesora escribe el prompt de la noche: *"Your professional profile, said aloud — in YOUR job: headline, summary, three achievements — and why each one matters for your goal."* Debajo, las profesiones del grupo (lista de Cl 52, sin nombres). Regla en tablero: *"5 minutes, one take, no reading, no stopping. Open with your 3 LISTEN FIRST sentences. Use the structure of tonight (3 noun/adjective pairs) + 2 expressions from the bank + 1 tongue twister."* La hoja ya está recogida: nadie lee.
+2. **Prompt en tablero (1'):** la profesora escribe el prompt de la noche: *"Your professional profile, said aloud — in YOUR job: headline, summary, three achievements — and why each one matters for your goal."* Debajo, las profesiones del grupo (lista de Cl 1, sin nombres). Regla en tablero: *"5 minutes, one take, no reading, no stopping. Open with your 3 LISTEN FIRST sentences. Use the structure of tonight (3 noun/adjective pairs) + 2 expressions from the bank + 1 tongue twister."* La hoja ya está recogida: nadie lee.
 3. **Grabación (5', todos a la vez):** *"Phones out — only to record."* Cada estudiante, de pie, en su esquina o en el pasillo, graba con SU PROPIO celular 5 minutos de corrido. La profesora cronometra y no interrumpe; quien se queda sin palabras sigue hablando (*"Keep going. Silence is also English."*).
 4. **Exposición (2' por persona, hasta 8 personas; si son más, 90 seg):** cada uno se para frente al grupo y da la versión corta de su perfil, sin celular. **Observers** con tareas en tablero — A: anota los pares sustantivo/adjetivo bien o mal usados · B: anota qué expresión del banco usó · C: anota un error para el error paper. Al terminar cada exposición, la profesora le dice **UNA mejora en una frase**, con el error real (5 seg; sin nota, sin comparar, **sin mencionar la hoja escrita**). Nadie termina la noche sin exponer.
 5. **Envío (1'):** *"Tonight, before you sleep: send your video to the class group. This is your milestone video."* El video grabado hoy se envía HOY al grupo de WhatsApp del cohorte; el grupo ES el archivo. **La profesora lo reenvía a la auxiliar administrativa, uno por uno, con el nombre completo de cada estudiante, esa noche o antes de la clase siguiente.** Quien faltó graba en casa, antes de la clase siguiente, los 5 minutos con el prompt de la noche que perdió (su hoja escrita se hace en la siguiente clase a la que asista, en el aula, a mano: lo coordina coordinación).

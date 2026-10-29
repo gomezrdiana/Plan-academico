@@ -457,8 +457,8 @@ COHORTES = [
         sec1_titulo='1. CÓMO FUNCIONA EL COHORTE',
         sec1_intro=('B2 no tiene libro nuevo: las estructuras ya se aprendieron en B1 y aquí se vuelven reflejo. El nivel es '
                     'netamente conversacional — el docente modela, corrige al vuelo y exige en la simulación, y jamás explica '
-                    'gramática en tablero como lección. El reparto de los cuatro bloques es B1 20-25\' · B2 40-45\' · '
-                    'B3 35-40\' · B4 15-20\'.'),
+                    'gramática en tablero como lección. El reparto de los cuatro bloques es B1 20\' · B2 35\' · '
+                    'B3 45\' (fase de velocidad 15\' + RECORD & STAND 30\') · B4 20\'.'),
         sec1_tabla=[
             ['Dato', 'Cómo es en este cohorte'],
             ['Formato y horario', '2 horas diarias, lunes a viernes, 6:30 a 8:30 PM. 100 clases, 200 horas.'],
@@ -482,15 +482,32 @@ COHORTES = [
             ('Enseguida, el error paper de la noche anterior: ',
              '4 a 6 errores REALES del grupo, anónimos, en el tablero; el grupo diagnostica y reconstruye, y cada estudiante '
              'produce un ejemplo nuevo propio. Errores reales o no se usan.'),
-            ('Y el chequeo de portafolio: ',
-             'con la lista en mano, quién envió el video y la mejora anotada de cada uno. En la Clase 1 el ritual solo se '
-             'presenta; el primer chequeo público es en la Clase 2.'),
+            ('Y el chequeo de portafolio (2 minutos): ',
+             'con la lista en mano, quién envió anoche al grupo el video que grabó en clase. Sin mejoras aquí: la mejora se '
+             'dijo en vivo en la exposición de anoche. En la Clase 1 el ritual solo se presenta; el primer chequeo público es en la Clase 2.'),
             ('El registro acumulado: ',
              'el banco de vocabulario es acumulativo — el set de cada noche es distinto de todos los anteriores, y el set del '
              'día reaparece obligatorio en la simulación o en la tarea de esa misma noche.'),
         ],
         grabador='el docente',
         video_min='5 minutos',
+        portafolio=('Portafolio = VIDEO de 5 minutos GRABADO EN CLASE y expuesto: ',
+                    'en el Bloque 3 de cada clase (RECORD & STAND, 30 minutos) cada estudiante graba con su propio celular 5 minutos en '
+                    'inglés, de corrido y sin leer, sobre el contexto de la noche aplicado a SU CARRERA (la lista de carreras se toma '
+                    'en la Clase 1 y se envía a coordinación esa noche). Todos graban al mismo tiempo, de pie, cada uno en su esquina; '
+                    'el celular entra al aula solo para eso. El video abre con las 3 frases de LISTEN FIRST que el estudiante preparó '
+                    'en casa (2 minutos oyendo a un hablante con otro acento). Después cada uno se para y expone la versión corta '
+                    '(2 minutos) frente al grupo, sin celular, y el docente le dice UNA mejora en una frase, con el error real. '
+                    'El estudiante envía su video esa misma noche al grupo de WhatsApp del cohorte (donde están el docente y la '
+                    'auxiliar administrativa). El grupo ES el archivo del portafolio: los videos no se descargan; solo se guardan '
+                    'en el computador de la academia la grabación de entrada, un video de hito cada 10 clases (Cl 10, 20, 30, 40, '
+                    '60, 70, 80, 90 y el midterm de Cl 50: el docente reenvía a la auxiliar administrativa, con el nombre, el video '
+                    'grabado en clase esa noche por cada estudiante) y la grabación de salida del nivel. Quien faltó graba en casa, '
+                    'antes de la clase siguiente, los 5 minutos con el prompt de la noche que perdió. El docente no graba ni revisa '
+                    'videos en casa; quién grabó, quién expuso, quién envió y la mejora dicha a cada uno van al reporte de la noche. '
+                    'Festivos: no hay clase, la siguiente clase se dicta el siguiente día hábil y las clases perdidas se recuperan '
+                    'al final del nivel hasta completar las horas.'),
+        garantia_tareas='90% de tareas incluido el video grabado en clase y enviado',
         hora_inicio='6:30',
         hora_tarde='6:45',
         ingles=('100% inglés desde el Bloque 2 de la Clase 1 — en B2, en la práctica, desde el primer minuto. El español '
@@ -547,7 +564,10 @@ def build(cfg):
         '%s graba a cada estudiante 1 a 2 minutos hablando, mientras el resto trabaja. Es la foto de partida del nivel para la '
         'garantía. Esa misma noche se las envía a la auxiliar administrativa por WhatsApp, una por una con el nombre, y ella '
         'las guarda en el computador de la academia. Al que no quede grabado en la Clase 1 (llegó tarde, se fue antes) o entre después como estudiante nuevo, se le graba en la primera clase a la que asista, ese mismo día: ningún estudiante queda sin grabación de entrada.' % cfg['grabador'])
-    d.b('Portafolio = VIDEO diario, enviado: ',
+    if cfg.get('portafolio'):
+        d.b(*cfg['portafolio'])
+    else:
+      d.b('Portafolio = VIDEO diario, enviado: ',
         'cada estudiante graba un video de mínimo %s, hablado de corrido y sin leer, y lo envía el mismo día al grupo de '
         'WhatsApp del cohorte (donde están el docente y la auxiliar administrativa). El grupo ES el archivo del portafolio: los videos diarios no se descargan; solo se guardan en el computador de la academia la grabación de entrada, un video de hito cada 10 clases (Cl 10, 20, 30...: el docente reenvía a la auxiliar administrativa, con el nombre, el video de esa clase de cada estudiante) y la grabación de salida del nivel. Festivos: no hay clase, la siguiente clase se dicta el siguiente día hábil y las clases perdidas se recuperan al final del nivel hasta completar las horas. '
         'Ya no es audio y ya no se queda en el celular: audio solo por excepción, máximo 2 por semana. EL DOCENTE VE los '
@@ -560,11 +580,11 @@ def build(cfg):
         'cuentan como una inasistencia para el contrato y la garantía. Se dice en la Clase 1 como parte de la formación: '
         'llegar a tiempo es lo que estamos entrenando, no un castigo.' % (cfg['hora_inicio'], cfg['hora_tarde']))
     d.b('Las condiciones de la garantía se dicen UNA vez, en Clase 1: ',
-        'asistencia mínima 80%, 90% de tareas incluido el video diario, todas las evaluaciones. Después no se vuelven a '
+        'asistencia mínima 80%, ' + cfg.get('garantia_tareas', '90% de tareas incluido el video diario') + ', todas las evaluaciones. Después no se vuelven a '
         'explicar: se cumplen.')
     d.b('Inglés: ', cfg['ingles'])
     d.b('Feedback sí, notas no: ',
-        'el docente da feedback TODOS los días y de frente: la mejora de cada video, el error paper, la corrección en la '
+        'el docente da feedback TODOS los días y de frente: la mejora dicha a cada uno sobre su video, el error paper, la corrección en la '
         'simulación, "esto te salió, esto te falta". Eso es lo que el estudiante más valora y es suyo. Lo único que el '
         'docente NO comunica son NOTAS y RESULTADOS de las evaluaciones (midterm, final, aprobó o no, garantía): eso lo '
         'comunica coordinación, para que nadie negocie una nota con su profesor. Si preguntan "¿cómo voy?", se responde con '
@@ -594,7 +614,7 @@ def build(cfg):
     d.t('Las cuatro, por calendario absoluto (bloques de 5 clases; Cl 1-5 Prudencia; la guía del día dice cuál sigue, y no se desplaza por festivos):', bold=True)
     d.b('PRUDENCIA: ', 'pensar antes de actuar, planear, decidir. En inglés: preparar lo que vas a decir antes de decirlo; elegir el tiempo verbal antes de abrir la boca.')
     d.b('FORTALEZA: ', 'coraje para hablar con miedo, iniciativa, no rendirse. En inglés: pedir la palabra, ser el guest en la simulación, grabar el video aunque salga mal.')
-    d.b('TEMPLANZA: ', 'disciplina, manejo del tiempo, paciencia con la repetición. En inglés: el video diario, llegar a tiempo, hacer el drill completo sin atajos.')
+    d.b('TEMPLANZA: ', 'disciplina, manejo del tiempo, paciencia con la repetición. En inglés: el video de cada noche, llegar a tiempo, hacer el drill completo sin atajos.')
     d.b('JUSTICIA: ', 'trabajo en equipo, liderazgo ético, empatía. En inglés: escuchar al compañero en la simulación, corregir sin humillar, ayudar al que va más lento.')
     d.t('Cómo se hace bien, en 5 a 7 minutos (el ritual VATS, al inicio de la clase):', bold=True)
     d.b('V, Virtud (1 min): ', 'el docente nombra la virtud del bloque y la conecta con lo de HOY en una frase: "Esta semana es fortaleza. Hoy la simulación es una entrevista: la fortaleza es contestar aunque no tengas la palabra perfecta."')

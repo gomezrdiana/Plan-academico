@@ -12,7 +12,7 @@
 > 2. **Asistencia y puntualidad:** lista en los primeros 15 minutos. Llegada después de 6:45 = LLEGADA TARDE (tres = una falta). Avisas a coordinación por WhatsApp quién faltó en los primeros 20 minutos: la academia lo llama esa misma noche.
 > 3. **Grabaciones del expediente:** grabación de entrada en Cl 1 (quien no quedó o entró después, en su primera clase); video de hito en Cl 60 y Cl 70 (el video grabado en clase esa noche, reenviado a la auxiliar administrativa con el nombre de cada estudiante); grabación de salida en las presentaciones finales (Cl 98-99).
 > 4. **Clase hablada en inglés:** tú hablas en inglés y cada estudiante habla HOY en la simulación y en su exposición, con corrección en el momento. Nadie termina la noche sin haber hablado.
-> 5. **La meta con fecha de cada estudiante** (la dejó registrada al matricularse; coordinación la tiene) y su carrera (lista de Cl 52): la simulación de hoy se nombra en una frase como un paso hacia esa meta, y el video de cada noche se graba sobre su carrera. El proyecto del nivel se arma en Cl 81-97.
+> 5. **La meta con fecha de cada estudiante** (la dejó registrada al matricularse; coordinación la tiene) y su carrera (lista de Cl 1): la simulación de hoy se nombra en una frase como un paso hacia esa meta, y el video de cada noche se graba sobre su carrera. El proyecto del nivel se arma en Cl 81-97.
 > 6. **Ticket de salida y error paper** físicos a coordinación al terminar; **Frase del Día** en el tablero antes de empezar. **Nunca comunicas notas, resultados ni fechas de evaluación como tuyos:** eso es de coordinación; el Final lo aplica un evaluador externo.
 
 ---
@@ -51,7 +51,7 @@
 
 ## BLOQUE 3 — FASE: COULD HAVE, SHOULD HAVE, WOULD HAVE (15') + RECORD & STAND (30') — DE PIE
 
-**Profesiones del grupo (lista de Cl 52) en el tablero antes de empezar el Bloque 3.**
+**Profesiones del grupo (lista de Cl 1) en el tablero antes de empezar el Bloque 3.**
 
 **Objective: name the lost option on reflex and move on, say the same change twice — once to the client, once to your team — and then record five minutes about YOUR job and stand up to present it.**
 
@@ -64,7 +64,7 @@
 
 ### RECORD & STAND (30') — TU VIDEO DE 5 MINUTOS, GRABADO AQUÍ, SOBRE TU CARRERA
 
-1. **Prompt en tablero (1'):** la profesora escribe el prompt de la noche: *"The last-minute change — in YOUR job. Your usual explanation of what you do — and then the brief changes: say it for a different audience. Who is the new audience? What could you have told the old one?"* Debajo, las profesiones del grupo (lista de Cl 52, sin nombres). Regla en tablero: *"5 minutes, one take, no reading, no stopping. Open with your 3 LISTEN FIRST sentences. Use the structure of tonight + 2 expressions from the bank + 1 tongue twister."* (Estructura de hoy: *could / should / would have* + participio.)
+1. **Prompt en tablero (1'):** la profesora escribe el prompt de la noche: *"The last-minute change — in YOUR job. Your usual explanation of what you do — and then the brief changes: say it for a different audience. Who is the new audience? What could you have told the old one?"* Debajo, las profesiones del grupo (lista de Cl 1, sin nombres). Regla en tablero: *"5 minutes, one take, no reading, no stopping. Open with your 3 LISTEN FIRST sentences. Use the structure of tonight + 2 expressions from the bank + 1 tongue twister."* (Estructura de hoy: *could / should / would have* + participio.)
 2. **Grabación (5', todos a la vez):** cada estudiante, de pie, en su esquina o en el pasillo, graba con SU PROPIO celular 5 minutos de corrido. El celular entra al aula solo para esto. La profesora cronometra y no interrumpe; quien se queda sin palabras sigue hablando (*"Keep going. Silence is also English."*).
 3. **Exposición (2' por persona, hasta 8 personas; si son más, 90 seg):** cada uno se para frente al grupo y da la versión corta de su video, sin celular. **Observers** con tareas en tablero — A: anota cada *could / should / would have* bien o mal usado (con participio o sin él) · B: anota qué expresión del banco usó · C: anota un error para el error paper. Al terminar cada exposición, la profesora le dice **UNA mejora en una frase**, con el error real (5 seg; sin nota, sin comparar). Nadie termina la noche sin exponer.
 4. **Envío (1'):** *"Tonight, before you sleep: send your video to the class group."* El video grabado hoy se envía HOY al grupo de WhatsApp del cohorte; el grupo ES el archivo. Quien faltó graba en casa, antes de la clase siguiente, los 5 minutos con el prompt de la noche que perdió.
