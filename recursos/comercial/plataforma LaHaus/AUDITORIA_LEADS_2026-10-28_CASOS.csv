@@ -1,0 +1,147 @@
+﻿fila;bloque;fecha_creacion;etapa;hallazgo
+23;A;2026-10-28 14:57;NEW;Transcripcion vacia, creado 23 min antes del export: solo verificar
+477;A;2026-10-26 11:21;NEW;Lead de entrada por WhatsApp con transcripcion vacia (varios en etapa SUCCESSFUL_CONTACT): pedir la conversacion y la hora del primer mensaje
+485;A;2026-10-26 10:36;SUCCESSFUL_CONTACT;Lead de entrada por WhatsApp con transcripcion vacia (varios en etapa SUCCESSFUL_CONTACT): pedir la conversacion y la hora del primer mensaje
+505;A;2026-10-21 04:58;SUCCESSFUL_CONTACT;Lead de entrada por WhatsApp con transcripcion vacia (varios en etapa SUCCESSFUL_CONTACT): pedir la conversacion y la hora del primer mensaje
+507;A;2026-10-18 19:52;SUCCESSFUL_CONTACT;Lead de entrada por WhatsApp con transcripcion vacia (varios en etapa SUCCESSFUL_CONTACT): pedir la conversacion y la hora del primer mensaje
+508;A;2026-10-19 04:33;SUCCESSFUL_CONTACT;Lead de entrada por WhatsApp con transcripcion vacia (varios en etapa SUCCESSFUL_CONTACT): pedir la conversacion y la hora del primer mensaje
+510;A;2026-10-17 19:09;SUCCESSFUL_CONTACT;Lead de entrada por WhatsApp con transcripcion vacia (varios en etapa SUCCESSFUL_CONTACT): pedir la conversacion y la hora del primer mensaje
+511;A;2026-10-18 02:54;SUCCESSFUL_CONTACT;Lead de entrada por WhatsApp con transcripcion vacia (varios en etapa SUCCESSFUL_CONTACT): pedir la conversacion y la hora del primer mensaje
+512;A;2026-10-18 04:40;NEW;Lead de entrada por WhatsApp con transcripcion vacia (varios en etapa SUCCESSFUL_CONTACT): pedir la conversacion y la hora del primer mensaje
+513;A;2026-10-18 07:36;SUCCESSFUL_CONTACT;Lead de entrada por WhatsApp con transcripcion vacia (varios en etapa SUCCESSFUL_CONTACT): pedir la conversacion y la hora del primer mensaje
+515;A;2026-10-06 08:28;NEW;Lead de entrada por WhatsApp con transcripcion vacia (varios en etapa SUCCESSFUL_CONTACT): pedir la conversacion y la hora del primer mensaje
+546;A;2026-10-09 20:15;SUCCESSFUL_CONTACT;Lead de entrada por WhatsApp con transcripcion vacia (varios en etapa SUCCESSFUL_CONTACT): pedir la conversacion y la hora del primer mensaje
+557;A;2026-10-08 18:26;UNCONTACTED;Lead de formulario sin ningun mensaje en la transcripcion (pedir hora de entrada y codigo de error de entrega)
+560;A;2026-10-08 10:34;NEW;Lead de formulario sin ningun mensaje en la transcripcion (pedir hora de entrada y codigo de error de entrega)
+562;A;2026-10-08 08:22;NEW;Lead de formulario sin ningun mensaje en la transcripcion (pedir hora de entrada y codigo de error de entrega)
+565;A;2026-10-08 07:09;NEW;Lead de formulario sin ningun mensaje en la transcripcion (pedir hora de entrada y codigo de error de entrega)
+566;A;2026-10-07 23:51;NEW;"Unico retraso medible: primer mensaje del agente 34 min despues de crear el lead; despues ningun toque mas"
+569;A;2026-10-07 20:56;NEW;Lead de formulario sin ningun mensaje en la transcripcion (pedir hora de entrada y codigo de error de entrega)
+570;A;2026-10-07 15:13;UNCONTACTED;Lead de formulario sin ningun mensaje en la transcripcion (pedir hora de entrada y codigo de error de entrega)
+571;A;2026-10-07 13:07;NEW;Lead de formulario sin ningun mensaje en la transcripcion (pedir hora de entrada y codigo de error de entrega)
+575;A;2026-10-07 11:56;NEW;Lead de formulario sin ningun mensaje en la transcripcion (pedir hora de entrada y codigo de error de entrega)
+577;A;2026-10-06 19:22;SUCCESSFUL_CONTACT;Lead de entrada por WhatsApp con transcripcion vacia (varios en etapa SUCCESSFUL_CONTACT): pedir la conversacion y la hora del primer mensaje
+578;A;2026-10-07 10:46;UNCONTACTED;Lead de formulario sin ningun mensaje en la transcripcion (pedir hora de entrada y codigo de error de entrega)
+585;A;2026-10-07 06:56;NEW;Lead de formulario sin ningun mensaje en la transcripcion (pedir hora de entrada y codigo de error de entrega)
+586;A;2026-10-06 22:53;NEW;Lead de formulario sin ningun mensaje en la transcripcion (pedir hora de entrada y codigo de error de entrega)
+588;A;2026-10-06 20:34;NEW;Lead de formulario sin ningun mensaje en la transcripcion (pedir hora de entrada y codigo de error de entrega)
+589;A;2026-10-06 20:22;UNCONTACTED;Lead de formulario sin ningun mensaje en la transcripcion (pedir hora de entrada y codigo de error de entrega)
+644;A;2026-10-06 09:41;SUCCESSFUL_CONTACT;Lead de entrada por WhatsApp con transcripcion vacia (varios en etapa SUCCESSFUL_CONTACT): pedir la conversacion y la hora del primer mensaje
+4;B;2026-10-06 23:06;SUCCESSFUL_CONTACT;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+26;B;2026-10-18 23:29;CONFIRMED_VISIT;Lead de pauta de 15-18/10 incluido en el blast de Halloween del 26/10 (pedido de exclusion 07/10 punto 6 y 13/10) - verificar quien armo la lista
+30;B;2026-10-28 07:29;NEW;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+33;B;2026-10-27 17:38;SUCCESSFUL_CONTACT;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+369;B;2026-10-06 11:41;UNQUALIFIED;"Lead silencioso: 4 contactos (3 mensajes + 1 llamada IA); no llega a 5 toques"
+376;B;2026-10-08 01:21;UNQUALIFIED;"Lead silencioso: 4 contactos (3 mensajes + 1 llamada IA); no llega a 5 toques"
+377;B;2026-10-07 00:34;UNQUALIFIED;Lead silencioso: 3 contactos en total (menos de los 5 toques en 24 h aceptados el 07/10)
+380;B;2026-10-06 09:52;UNQUALIFIED;"Lead silencioso: 4 contactos (3 mensajes + 1 llamada IA); no llega a 5 toques"
+388;B;2026-10-06 21:47;UNQUALIFIED;"Lead silencioso: 4 contactos (3 mensajes + 1 llamada IA); no llega a 5 toques"
+389;B;2026-10-06 08:16;UNQUALIFIED;Lead silencioso: 3 contactos en total (menos de los 5 toques en 24 h aceptados el 07/10)
+392;B;2026-10-15 21:44;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+392;B;2026-10-15 21:44;UNQUALIFIED;Llamada de voz IA en frio en lead creado despues del pedido de apagarlas (13/10, 7a) - verificar si LaHaus lo acepto en su informe del 17/10
+392;B;2026-10-15 21:44;UNQUALIFIED;Lead de pauta de 15-18/10 incluido en el blast de Halloween del 26/10 (pedido de exclusion 07/10 punto 6 y 13/10) - verificar quien armo la lista
+393;B;2026-10-07 21:24;UNQUALIFIED;"Lead silencioso: 4 contactos (3 mensajes + 1 llamada IA); no llega a 5 toques"
+394;B;2026-10-07 21:16;UNQUALIFIED;Lead silencioso: 3 contactos en total (menos de los 5 toques en 24 h aceptados el 07/10)
+396;B;2026-10-17 22:29;UNQUALIFIED;Llamada de voz IA en frio en lead creado despues del pedido de apagarlas (13/10, 7a) - verificar si LaHaus lo acepto en su informe del 17/10
+396;B;2026-10-17 22:29;UNQUALIFIED;Lead de pauta de 15-18/10 incluido en el blast de Halloween del 26/10 (pedido de exclusion 07/10 punto 6 y 13/10) - verificar quien armo la lista
+400;B;2026-10-16 19:05;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+400;B;2026-10-16 19:05;UNQUALIFIED;Llamada de voz IA en frio en lead creado despues del pedido de apagarlas (13/10, 7a) - verificar si LaHaus lo acepto en su informe del 17/10
+400;B;2026-10-16 19:05;UNQUALIFIED;Lead de pauta de 15-18/10 incluido en el blast de Halloween del 26/10 (pedido de exclusion 07/10 punto 6 y 13/10) - verificar quien armo la lista
+402;B;2026-10-18 12:30;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+402;B;2026-10-18 12:30;UNQUALIFIED;Lead de pauta de 15-18/10 incluido en el blast de Halloween del 26/10 (pedido de exclusion 07/10 punto 6 y 13/10) - verificar quien armo la lista
+406;B;2026-10-06 09:47;UNQUALIFIED;Lead silencioso: 3 contactos en total (menos de los 5 toques en 24 h aceptados el 07/10)
+411;B;2026-10-18 15:07;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+411;B;2026-10-18 15:07;UNQUALIFIED;Lead de pauta de 15-18/10 incluido en el blast de Halloween del 26/10 (pedido de exclusion 07/10 punto 6 y 13/10) - verificar quien armo la lista
+412;B;2026-10-06 08:30;UNQUALIFIED;"Lead silencioso: 4 contactos (3 mensajes + 1 llamada IA); no llega a 5 toques"
+415;B;2026-10-08 19:11;UNQUALIFIED;Lead silencioso: 3 contactos en total (menos de los 5 toques en 24 h aceptados el 07/10)
+416;B;2026-10-08 20:23;UNQUALIFIED;"Lead silencioso: 4 contactos (3 mensajes + 1 llamada IA); no llega a 5 toques"
+417;B;2026-10-09 15:50;UNQUALIFIED;Lead silencioso: 3 contactos en total (menos de los 5 toques en 24 h aceptados el 07/10)
+422;B;2026-10-15 20:37;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+422;B;2026-10-15 20:37;UNQUALIFIED;Lead de pauta de 15-18/10 incluido en el blast de Halloween del 26/10 (pedido de exclusion 07/10 punto 6 y 13/10) - verificar quien armo la lista
+426;B;2026-10-17 23:41;UNQUALIFIED;Lead de pauta de 15-18/10 incluido en el blast de Halloween del 26/10 (pedido de exclusion 07/10 punto 6 y 13/10) - verificar quien armo la lista
+440;B;2026-10-16 06:39;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+440;B;2026-10-16 06:39;UNQUALIFIED;Llamada de voz IA en frio en lead creado despues del pedido de apagarlas (13/10, 7a) - verificar si LaHaus lo acepto en su informe del 17/10
+440;B;2026-10-16 06:39;UNQUALIFIED;Lead de pauta de 15-18/10 incluido en el blast de Halloween del 26/10 (pedido de exclusion 07/10 punto 6 y 13/10) - verificar quien armo la lista
+441;B;2026-10-18 10:38;UNQUALIFIED;Lead de pauta de 15-18/10 incluido en el blast de Halloween del 26/10 (pedido de exclusion 07/10 punto 6 y 13/10) - verificar quien armo la lista
+444;B;2026-10-07 09:54;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+445;B;2026-10-08 18:43;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+489;B;2026-10-17 18:15;SCHEDULED_VISIT;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+489;B;2026-10-17 18:15;SCHEDULED_VISIT;Llamada de voz IA en frio en lead creado despues del pedido de apagarlas (13/10, 7a) - verificar si LaHaus lo acepto en su informe del 17/10
+494;B;2026-10-18 10:06;UNQUALIFIED;Llamada de voz IA en frio en lead creado despues del pedido de apagarlas (13/10, 7a) - verificar si LaHaus lo acepto en su informe del 17/10
+495;B;2026-10-18 20:04;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+495;B;2026-10-18 20:04;UNQUALIFIED;Llamada de voz IA en frio en lead creado despues del pedido de apagarlas (13/10, 7a) - verificar si LaHaus lo acepto en su informe del 17/10
+497;B;2026-10-17 19:00;UNQUALIFIED;Llamada de voz IA en frio en lead creado despues del pedido de apagarlas (13/10, 7a) - verificar si LaHaus lo acepto en su informe del 17/10
+498;B;2026-10-17 13:35;UNQUALIFIED;Llamada de voz IA en frio en lead creado despues del pedido de apagarlas (13/10, 7a) - verificar si LaHaus lo acepto en su informe del 17/10
+499;B;2026-10-17 21:53;UNQUALIFIED;Llamada de voz IA en frio en lead creado despues del pedido de apagarlas (13/10, 7a) - verificar si LaHaus lo acepto en su informe del 17/10
+500;B;2026-10-18 06:28;UNQUALIFIED;Llamada de voz IA en frio en lead creado despues del pedido de apagarlas (13/10, 7a) - verificar si LaHaus lo acepto en su informe del 17/10
+501;B;2026-10-16 11:35;UNQUALIFIED;Llamada de voz IA en frio en lead creado despues del pedido de apagarlas (13/10, 7a) - verificar si LaHaus lo acepto en su informe del 17/10
+503;B;2026-10-18 10:42;UNQUALIFIED;Llamada de voz IA en frio en lead creado despues del pedido de apagarlas (13/10, 7a) - verificar si LaHaus lo acepto en su informe del 17/10
+504;B;2026-10-16 07:20;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+504;B;2026-10-16 07:20;UNQUALIFIED;Llamada de voz IA en frio en lead creado despues del pedido de apagarlas (13/10, 7a) - verificar si LaHaus lo acepto en su informe del 17/10
+516;B;2026-10-07 10:58;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+517;B;2026-10-07 00:19;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+518;B;2026-10-06 19:46;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+519;B;2026-10-07 13:50;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+520;B;2026-10-07 19:49;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+521;B;2026-10-08 12:53;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+529;B;2026-10-07 13:45;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+533;B;2026-10-09 19:03;SUCCESSFUL_CONTACT;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+540;B;2026-10-06 10:24;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+544;B;2026-10-06 09:00;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+545;B;2026-10-06 08:30;UNQUALIFIED;Reintentos que avanzan el flujo con 2 o mas preguntas nuevas en vez de repetir la pendiente (pedido 07/10 punto 4)
+551;B;2026-10-06 10:59;UNQUALIFIED;Lead silencioso: 3 contactos en total (menos de los 5 toques en 24 h aceptados el 07/10)
+552;B;2026-10-08 08:23;UNQUALIFIED;Lead silencioso: 2 mensajes en 52 min y el agente se detiene (pactado 5 toques en 24 h, 07/10)
+564;B;2026-10-08 06:47;STARTED_SCHEDULE;"""Dejame ya te aviso"" -> el agente cierra; la regla del 07/10 pedia aviso a la asesora y no cerrar (aviso no verificable en el archivo)"
+566;B;2026-10-07 23:51;NEW;Lead silencioso: 1 solo mensaje en total
+572;B;2026-10-07 13:08;SUCCESSFUL_CONTACT;"Lead queda callado a mitad de perfilacion; el agente manda 1 mensaje y no vuelve a escribir"
+590;B;2026-10-06 19:23;SUCCESSFUL_CONTACT;"""Gracias"" -> el agente cierra; regla del 07/10 pedia aviso a la asesora (no verificable)"
+62;C;2026-10-06 14:42;SCHEDULED_VISIT;"Contexto (base): ""Tu cita ya esta lista para el jueves 29/10 3:00 pm"" sin que el lead eligiera hora; verificar si la agendo la asesora. Cita 29/10"
+188;C;2026-10-27 13:46;SUCCESSFUL_CONTACT;"Cita acordada (jueves 29/10 4:15 pm, llamada) y ""Fecha visita agendada"" vacia; el agente dice que un asesor confirmara. LLAMAR 29/10 4:15 pm"
+489;C;2026-10-17 18:15;SCHEDULED_VISIT;"Cita registrada 20/10 12:30; el lead dice que NO hablo con la asesora; etapa sigue SCHEDULED y el agente no reagenda. Verificar con la asesora antes de alegar"
+550;C;2026-10-07 17:08;CONFIRMED_VISIT;"El lead confirma que si atendio la llamada; etapa queda CONFIRMED_VISIT, no COMPLETED"
+567;C;2026-10-06 08:29;COMPLETED_VISIT;Fecha de registro de la cita posterior a la hora de la cita (registro tardio o fecha de actualizacion: preguntar a LaHaus)
+574;C;2026-10-07 11:12;STARTED_SCHEDULE;"07/10: el lead elige las 12:00 y el agente responde que ""ya se ocupo"" dos veces; sin cita"
+587;C;2026-10-06 08:24;SCHEDULED_VISIT;Fecha de registro de la cita posterior a la hora de la cita (registro tardio o fecha de actualizacion: preguntar a LaHaus)
+594;C;2026-10-02 14:48;COMPLETED_VISIT;Fecha de registro de la cita posterior a la hora de la cita (registro tardio o fecha de actualizacion: preguntar a LaHaus)
+595;C;2026-10-02 15:27;SCHEDULED_VISIT;Fecha de registro de la cita posterior a la hora de la cita (registro tardio o fecha de actualizacion: preguntar a LaHaus)
+635;C;2026-10-02 07:15;CONFIRMED_VISIT;Fecha de registro de la cita posterior a la hora de la cita (registro tardio o fecha de actualizacion: preguntar a LaHaus)
+685;C;2026-10-02 09:10;SUCCESSFUL_CONTACT;"02/10: ""te marquen hoy a las 4:00 pm"" acordado, sin cita en el calendario (antes de la muestra; prueba reiteracion)"
+26;D;2026-10-18 23:29;CONFIRMED_VISIT;Nino de 11 anos: el agente dice que no se inscribe pero agenda asesoria (regla 19/10: menores de 12 no se agenda)
+28;D;2026-10-27 22:25;NEW;Responde en ingles a lead que escribe en espanol (anuncio V8): verificar si es lo pedido
+30;D;2026-10-28 07:29;NEW;Responde en ingles a lead que escribe en espanol (anuncio V8): verificar si es lo pedido
+377;D;2026-10-07 00:34;UNQUALIFIED;"Saludo ""Arranque de octubre"" en leads creados despues del pedido urgente del 06/10 y del 07/10 punto 7"
+417;D;2026-10-09 15:50;UNQUALIFIED;"Saludo ""Arranque de octubre"" en leads creados despues del pedido urgente del 06/10 y del 07/10 punto 7"
+444;D;2026-10-07 09:54;UNQUALIFIED;"Promesa sobre Au Pair: ""te dejamos lista / para que te ganes la plaza"""
+445;D;2026-10-08 18:43;UNQUALIFIED;"""con buen nivel puedes aplicar a otras opciones para viajar por trabajo"" (promesa de empleo)"
+489;D;2026-10-17 18:15;SCHEDULED_VISIT;"""ya actualizo tu correo"" sin que el lead diera correo"
+493;D;2026-10-18 16:13;UNQUALIFIED;Reinicia el saludo cuando el lead reenvia el mensaje del anuncio (regla 22/10: no reiniciar)
+494;D;2026-10-18 10:06;UNQUALIFIED;"Nina de 10 anos: sigue perfilando y pregunta ""que paso esa vez, por que lo dejaste"" a quien dijo ""desde 0"""
+495;D;2026-10-18 20:04;UNQUALIFIED;Reinicia el saludo cuando el lead reenvia el mensaje del anuncio (regla 22/10: no reiniciar)
+498;D;2026-10-17 13:35;UNQUALIFIED;Reinicia el saludo cuando el lead reenvia el mensaje del anuncio (regla 22/10: no reiniciar)
+501;D;2026-10-16 11:35;UNQUALIFIED;Franjas de cita en domingo (verificar el calendario configurado)
+516;D;2026-10-07 10:58;UNQUALIFIED;"Promesa sobre Au Pair: ""te dejamos lista / para que te ganes la plaza"""
+516;D;2026-10-07 10:58;UNQUALIFIED;"Beneficios de un programa de terceros como promesa (""pago semanal"", ""casa y comida cubiertas"", ""ahorros en dolares"")"
+517;D;2026-10-07 00:19;UNQUALIFIED;"Promesa sobre Au Pair: ""te dejamos lista / para que te ganes la plaza"""
+521;D;2026-10-08 12:53;UNQUALIFIED;"Saludo ""Arranque de octubre"" en leads creados despues del pedido urgente del 06/10 y del 07/10 punto 7"
+523;D;2026-10-09 13:15;UNQUALIFIED;"Saludo ""Arranque de octubre"" en leads creados despues del pedido urgente del 06/10 y del 07/10 punto 7"
+524;D;2026-10-09 12:16;UNQUALIFIED;"Promesa de rapidez (""avanzas mas rapido"", ""ganes confianza rapido"")"
+524;D;2026-10-09 12:16;UNQUALIFIED;"Saludo ""Arranque de octubre"" en leads creados despues del pedido urgente del 06/10 y del 07/10 punto 7"
+524;D;2026-10-09 12:16;UNQUALIFIED;Franjas de cita en domingo (verificar el calendario configurado)
+526;D;2026-10-08 23:55;UNQUALIFIED;"Saludo ""Arranque de octubre"" en leads creados despues del pedido urgente del 06/10 y del 07/10 punto 7"
+526;D;2026-10-08 23:55;UNQUALIFIED;"""entre semana en la tarde estamos abriendo grupo"" + 5 pares de franjas distintos + domingo"
+526;D;2026-10-08 23:55;UNQUALIFIED;Franjas de cita en domingo (verificar el calendario configurado)
+527;D;2026-10-07 00:11;UNQUALIFIED;"Beneficios de un programa de terceros como promesa (""pago semanal"", ""casa y comida cubiertas"", ""ahorros en dolares"")"
+527;D;2026-10-07 00:11;UNQUALIFIED;"Promesa de rapidez (""avanzas mas rapido"", ""ganes confianza rapido"")"
+527;D;2026-10-07 00:11;UNQUALIFIED;Franjas de cita en domingo (verificar el calendario configurado)
+529;D;2026-10-07 13:45;UNQUALIFIED;"Saludo ""Arranque de octubre"" en leads creados despues del pedido urgente del 06/10 y del 07/10 punto 7"
+532;D;2026-10-07 09:25;UNQUALIFIED;"Saludo ""Arranque de octubre"" en leads creados despues del pedido urgente del 06/10 y del 07/10 punto 7"
+532;D;2026-10-07 09:25;UNQUALIFIED;"Hija de 16 anos: ""puede entrar sin problema a la jornada de la noche entre semana"" (fuera de la regla)"
+533;D;2026-10-09 19:03;SUCCESSFUL_CONTACT;"Saludo ""Arranque de octubre"" en leads creados despues del pedido urgente del 06/10 y del 07/10 punto 7"
+538;D;2026-10-06 11:46;UNQUALIFIED;"""para que inicies el 12 de octubre"" + asesoria en sede (06/10, mismo dia del pedido)"
+544;D;2026-10-06 09:00;UNQUALIFIED;"Promesa sobre Au Pair: ""te dejamos lista / para que te ganes la plaza"""
+544;D;2026-10-06 09:00;UNQUALIFIED;"Beneficios de un programa de terceros como promesa (""pago semanal"", ""casa y comida cubiertas"", ""ahorros en dolares"")"
+550;D;2026-10-07 17:08;CONFIRMED_VISIT;"Saludo ""Arranque de octubre"" en leads creados despues del pedido urgente del 06/10 y del 07/10 punto 7"
+555;D;2026-10-07 14:26;SCHEDULED_VISIT;"Beneficios de un programa de terceros como promesa (""pago semanal"", ""casa y comida cubiertas"", ""ahorros en dolares"")"
+564;D;2026-10-08 06:47;STARTED_SCHEDULE;"Beneficios de un programa de terceros como promesa (""pago semanal"", ""casa y comida cubiertas"", ""ahorros en dolares"")"
+572;D;2026-10-07 13:08;SUCCESSFUL_CONTACT;"Beneficios de un programa de terceros como promesa (""pago semanal"", ""casa y comida cubiertas"", ""ahorros en dolares"")"
+590;D;2026-10-06 19:23;SUCCESSFUL_CONTACT;"Precios inexistentes $9.560.000 y $3.150.000 (reportado 07/10; causa prometida para 21/10)"
