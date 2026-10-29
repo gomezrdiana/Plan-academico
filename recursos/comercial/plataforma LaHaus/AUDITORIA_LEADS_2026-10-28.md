@@ -1,6 +1,6 @@
 # AUDITORÍA DE LEADS LAHAUS — 29/09 AL 28/10/2026
 
-Interno de gerencia · para decidir el 2/11 (seguir, salida de mutuo acuerdo o Garantía de Funcionamiento) · fuente: export del panel `leads_20261028_152059.xlsx` (689 filas, corte 28/10 15:20). Cada caso se identifica por **fila del Excel**; no hay nombres, teléfonos ni correos. Lista completa de casos: `lahaus_casos_28oct.csv` (fila · bloque · hallazgo).
+Interno de gerencia · para decidir el 2/11 (seguir, salida de mutuo acuerdo o Garantía de Funcionamiento) · fuente: export del panel `leads_20261028_152059.xlsx` (689 filas, corte 28/10 15:20). Cada caso se identifica por **fila del Excel**; no hay nombres, teléfonos ni correos. Lista completa de casos: `AUDITORIA_LEADS_2026-10-28_CASOS.csv` (fila · bloque · hallazgo). **Actualizada el 29/10** con el export del CRM anterior `heiiu-leads-funnelup-2026-10-19-al-27.csv` (67 leads; ver §8).
 
 ## 0. Dos advertencias de método (antes de leer los números)
 
@@ -22,7 +22,8 @@ Interno de gerencia · para decidir el 2/11 (seguir, salida de mutuo acuerdo o G
 - **Etapas de la muestra:** UNQUALIFIED 54 · SUCCESSFUL_CONTACT 21 · NEW 18 · UNCONTACTED 4 · STARTED_SCHEDULE 2 · SCHEDULED_VISIT 2 · CONFIRMED_VISIT 2 · COMPLETED_VISIT 0.
 - **La caída de volumen:** leads de pauta por día: 6/10: 23 · 7/10: 22 · 8/10: 12 · 9/10: 5 · **10 al 15/10: cero** · 15-18/10: 29 (anuncios V1/V3) · **19 al 26/10: 2 (los dos sin conversación)** · 26-28/10: 10 (anuncios V7/V8).
   - El último lead de formulario entra el 9/10 a las 19:03. Según la carta del 13/10, el formulario "Curso Inglés" siguió activo hasta el 13/10: **4 días de formulario activo sin un solo lead en el panel.**
-  - La campaña V5/V6 del 19/10 (la única activa según la respuesta del 19/10): **ningún chat con código V5 o V6 en todo el archivo.** O la campaña no entregó (aprobación de Meta, presupuesto) o los chats no entraron al panel. Esto se resuelve con el dato de Meta, no con este archivo.
+  - La campaña V5/V6 del 19/10 (la única activa según la respuesta del 19/10): **ningún chat con código V5 o V6 en todo el archivo.**
+  - **ACTUALIZACIÓN 29/10 — el hueco del 19 al 27/10 está explicado y NO es de LaHaus.** Los chats de los anuncios de esa semana entraron al número de WhatsApp del CRM anterior (Funnel Up) y no al de LaHaus: 67 leads del 19 al 27/10 (19/10: 3 · 20/10: 6 · 21/10: 14 · 22/10: 8 · 23/10: 8 · 24/10: 6 · 25/10: 10 · 26/10: 10 · 27/10: 2), aunque el número de LaHaus estaba conectado. Es la configuración de Meta, que es de Heiiu; LaHaus no la toca. **Este punto se retira del reclamo** (ver §6, punto 1 y §8).
 
 **Contexto, base vieja (no cuenta para la evaluación de la pauta):** base del 6/10: 489 leads, 77 respondieron, 3 citas, 1 asistida (fila 567). Base del 27/10: 53 leads, 12 respuestas, 0 citas. Blast de Halloween (22-26/10, incluye 43 leads de pauta): 395 envíos visibles, 23 respuestas, 2 citas (filas 62 y 26). Plantilla A ("perder la oportunidad"): 208 envíos, 14 respuestas, 2 citas. Plantilla B ("que no te dé miedo"): 187 envíos, 9 respuestas, 0 citas.
 
@@ -62,7 +63,7 @@ Ejemplo de reintento que avanza el flujo (fila 504): tras el mensaje del anuncio
 
 | Fila | Fecha | Qué pasó (cita textual, sin datos personales) |
 |---|---|---|
-| **188** | 27/10 | Lead: "Jueves". Agente: *"Ya estoy procesando tu llamada para el jueves 29 de octubre a las 4:15 pm"* → *"Un asesor te va a contactar para confirmar tu agendamiento."* **Fecha de visita vacía**, etapa SUCCESSFUL_CONTACT. **Acción para mañana: la asesora llama el 29/10 a las 4:15 pm.** |
+| **188** | 27/10 | Lead: "Jueves". Agente: *"Ya estoy procesando tu llamada para el jueves 29 de octubre a las 4:15 pm"* → *"Un asesor te va a contactar para confirmar tu agendamiento."* **Fecha de visita vacía**, etapa SUCCESSFUL_CONTACT. **29/10:** el lead **no tiene teléfono en el panel** (canal EXTERNAL, sin origen ni anuncio), el panel no lo encuentra por nombre ni por correo, no está en las bandejas de Instagram ni Facebook de Heiiu y **tampoco está en Funnel Up**. El agente le ofreció *"llamada de WhatsApp a este mismo número"* y agendó una llamada que nadie podía hacer. La conversación (51 mensajes) solo existe dentro de LaHaus: **LaHaus debe decir por qué canal entró** (pregunta enviada el 29/10). Mientras tanto la asesora le escribe al correo. Ver §8. |
 | 685 | 02/10 | Agente: *"Ya le pasé tu solicitud al equipo para que te marquen hoy a las 4:00 pm"*. Sin cita registrada. Es anterior a la muestra, pero prueba que el problema se repite. |
 | 574 | 07/10 | Lead: "12". Agente: *"Para la llamada de mañana a las 12:00 ya se nos ocupó el espacio"*, dos veces. Sin cita. (Reportado el 08/10, punto 16.) |
 | 489 | 20/10 | Cita registrada para las 12:30 por llamada. Agente: *"¿lograste conversar con la asesora hoy a las 12:30?"* Lead: *"No"*. La etapa sigue SCHEDULED y el agente vuelve a perfilar en vez de reagendar. **Verificar con la asesora antes de alegarlo**: puede ser falla nuestra. |
@@ -89,7 +90,7 @@ Los TyC dicen que *"LaHaus no garantiza la exactitud de los mensajes de LaHaus A
 
 ## 6. Lo que dirá LaHaus y qué responder
 
-1. **"La caída de leads es de su pauta."** En buena parte es cierto: Au Pair se pausó el 8/10 y el formulario el 13/10, y eso es de Heiiu. Respuesta: los dos huecos que no explica la pausa, los 4 días de formulario activo sin leads (10-13/10) y la campaña V5/V6 sin un solo chat en el panel (19-26/10), más las 84 conversaciones de la campaña del 10/10 que Meta reporta contra 15 en el panel (pregunta abierta desde el 19/10). Si Meta muestra conversaciones que el panel no tiene, el problema es de LaHaus. Si no, es nuestro, y hay que decirlo.
+1. **"La caída de leads es de su pauta."** Es cierto, y con más razón desde el 29/10: Au Pair se pausó el 8/10, el formulario el 13/10, y del 19 al 27/10 los chats de los anuncios se fueron al número de Funnel Up por la configuración de Meta (67 leads que LaHaus nunca vio). Todo eso es de Heiiu y LaHaus lo va a decir con razón: ellos no tocan la configuración de Meta. **No alegar la caída de volumen ni la campaña V5/V6.** Queda una sola pregunta abierta, y es pregunta, no reclamo: los 4 días de formulario activo sin leads (10-13/10) y las 84 conversaciones de la campaña del 10/10 que Meta reporta contra 15 en el panel (abierta desde el 19/10). Antes de usarla, Brian confirma si esas conversaciones también cayeron en Funnel Up.
 2. **"Las conversaciones vacías son envíos que Meta rechazó."** Es posible. Respuesta: el código de error por fila, pedido el 13/10 y no entregado.
 3. **"Sí hacemos seguimiento."** Es cierto, y no conviene alegar que no lo hay. Respuesta: el reclamo no es la ausencia de seguimiento sino que no se cumple lo configurado (5 toques, repetir la misma pregunta, exclusión del blast, llamadas en frío).
 4. **"Los errores del agente no están cubiertos."** Es cierto según los TyC: el Bloque D se usa en la conversación comercial, no en la notificación.
@@ -105,10 +106,28 @@ Los TyC dicen que *"LaHaus no garantiza la exactitud de los mensajes de LaHaus A
 
 **Evidencia que falta del panel (capturas con hora):**
 
-- **C:** calendario del 29/10 sin la cita de la fila 188 (captura hoy); registro de las filas 685 y 574; confirmación de la asesora sobre la fila 489. Son 4 casos.
+- **C:** calendario del 29/10 sin la cita de la fila 188 (captura hoy); registro de las filas 685 y 574; confirmación de la asesora sobre la fila 489. Son 4 casos. **Fila 188 además:** captura del panel buscándolo por nombre y por correo sin resultado, bandejas de Instagram y Facebook del 27/10 sin esa conversación, y la respuesta escrita de LaHaus sobre el canal por el que entró.
 - **A:** para las 26 filas vacías y la fila 566, la hora de entrada del lead, la hora del primer envío y el código de error. Son 27 casos.
 - **B:** configuración escrita de la cadencia vigente; registro de llamadas de 3 de los 16 leads silenciosos (filas 552, 566 y 551); confirmación de lo que LaHaus respondió el 17/10 sobre las llamadas en frío y la exclusión del blast.
 
 **Recomendación para el 2/11:** notificar por escrito la Garantía de Funcionamiento **por el Bloque C**, con el B como agravante, apenas estén las 4 capturas de C. Es la única vía que habilita la terminación anticipada. En la misma carta, ofrecer la salida de mutuo acuerdo. No usar el Bloque D en la notificación.
 
 `SUPUESTO DE PLANEACIÓN — verificar con el abogado`: la ventana de 60 días se cuenta desde la firma del 26/09 y vence alrededor del 25/11. Si se notifica el 3/11, los 10 días hábiles vencen alrededor del 18/11 (el 2/11 y el 16/11 son festivos). Los pagos no son reembolsables (Orden de Servicio, "Consideraciones"), así que conviene revisar con el abogado qué cuota se evita.
+
+## 8. Actualización 29/10 — Funnel Up y los leads sin teléfono
+
+**Fuente:** export del CRM anterior, `heiiu-leads-funnelup-2026-10-19-al-27.csv` (67 leads, columnas nombre · teléfono · fecha · hora). Cruzado contra el export de LaHaus por teléfono (10 últimos dígitos) y por nombre. Sin datos personales aquí.
+
+**1. Qué pasó.** Del 19 al 27/10 los chats de los anuncios de Meta entraron al número de WhatsApp de Funnel Up, no al de LaHaus, aunque el de LaHaus estaba conectado. Leads por día en Funnel Up: 19/10: 3 · 20/10: 6 · 21/10: 14 · 22/10: 8 · 23/10: 8 · 24/10: 6 · 25/10: 10 · 26/10: 10 · 27/10: 2. Eso explica el hueco del panel de LaHaus (2 leads de pauta del 19 al 25/10, los dos sin conversación) y la campaña V5/V6 "sin un solo chat". **Es un error de configuración de Meta, es decir, de Heiiu.** LaHaus no administra Meta y lo va a decir; tiene razón. Consecuencia: la caída de volumen de esa semana se retira del reclamo (§6, punto 1) y el embudo de pauta de la tabla del §1 queda incompleto para esa semana por causa nuestra.
+
+**2. Lo que sí cruza.** De los 67 leads de Funnel Up, 55 tienen teléfono y de esos la mayoría ya existe en el export de LaHaus (entraron a la base por el blast de Halloween o por carga). **12 de 67 llegaron a Funnel Up sin número** (casi 1 de cada 5): por WhatsApp eso no ocurre, así que esos leads entraron por otro canal del anuncio (Instagram o Messenger). Pregunta para Brian, no para LaHaus.
+
+**3. La fila 188 no está en Funnel Up.** Funnel Up solo trae 2 leads el 27/10 (10:02 am y 11:39 am; el segundo es la fila 29 del export) y el lead de la fila 188 se creó a la 1:46 pm; ningún lead sin teléfono de Funnel Up coincide por nombre. En LaHaus hay 10 leads sin teléfono; 5 son conversaciones reales de anuncios (filas 188 del video V8 y 497, 499, 500, 504 del video V1, 16-18/10), todos canal EXTERNAL sin origen ni anuncio. A todos el agente les habló como si fueran de WhatsApp. **Lectura honesta:** hasta que LaHaus diga por qué canal entran esos chats, el caso 188 no se puede cargar a ninguno de los dos: si es un canal de LaHaus (su propio WhatsApp o su widget), agendaron una llamada sin número, y es bloque C; si es un canal de Meta que Heiiu conectó mal, es nuestro. La pregunta escrita se envió el 29/10; la respuesta, con hora, es la evidencia.
+
+**4. Qué cambia en el veredicto.** Nada en el bloque C (los 3 casos sin registro siguen: 685, 574 y 188 por la fecha de visita vacía). Se pierde el argumento de volumen de la semana del 19/10. Se gana un hecho que hay que tener claro antes de la carta: **el 29/10 Heiiu ya tiene un error propio documentado (Meta → Funnel Up)**, y la carta no puede apoyarse en nada que dependa de la configuración de Meta.
+
+**5. Pendientes de esta actualización.**
+- Brian: desde qué fecha y hasta cuándo los anuncios apuntaron al número de Funnel Up; en qué ubicación estaba V8 el 27/10 (WhatsApp, Instagram, Messenger); por qué Funnel Up recibe leads sin número; si las 84 conversaciones del 10/10 también cayeron allá.
+- LaHaus: por qué canal entró la fila 188 (y las filas 497, 499, 500 y 504) y cómo se contacta a un lead sin número en su panel.
+- Asesora: correo enviado a la fila 188 el 29/10 antes de la hora de la llamada; resultado.
+- Los 12 leads de Funnel Up sin número y los 55 con número se trabajan desde Funnel Up o se cargan a LaHaus; decisión de gerencia.

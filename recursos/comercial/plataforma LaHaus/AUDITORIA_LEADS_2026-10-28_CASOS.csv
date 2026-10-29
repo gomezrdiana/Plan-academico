@@ -96,7 +96,7 @@
 572;B;2026-10-07 13:08;SUCCESSFUL_CONTACT;"Lead queda callado a mitad de perfilacion; el agente manda 1 mensaje y no vuelve a escribir"
 590;B;2026-10-06 19:23;SUCCESSFUL_CONTACT;"""Gracias"" -> el agente cierra; regla del 07/10 pedia aviso a la asesora (no verificable)"
 62;C;2026-10-06 14:42;SCHEDULED_VISIT;"Contexto (base): ""Tu cita ya esta lista para el jueves 29/10 3:00 pm"" sin que el lead eligiera hora; verificar si la agendo la asesora. Cita 29/10"
-188;C;2026-10-27 13:46;SUCCESSFUL_CONTACT;"Cita acordada (jueves 29/10 4:15 pm, llamada) y ""Fecha visita agendada"" vacia; el agente dice que un asesor confirmara. LLAMAR 29/10 4:15 pm"
+188;C;2026-10-27 13:46;SUCCESSFUL_CONTACT;"Cita acordada (jueves 29/10 4:15 pm, llamada) y ""Fecha visita agendada"" vacia. 29/10: sin telefono en el panel, no aparece por nombre ni correo, no esta en IG/FB de Heiiu ni en Funnel Up; el agente ofrecio llamada de WhatsApp a este mismo numero. Pendiente: LaHaus dice por que canal entro. Asesora escribe al correo"
 489;C;2026-10-17 18:15;SCHEDULED_VISIT;"Cita registrada 20/10 12:30; el lead dice que NO hablo con la asesora; etapa sigue SCHEDULED y el agente no reagenda. Verificar con la asesora antes de alegar"
 550;C;2026-10-07 17:08;CONFIRMED_VISIT;"El lead confirma que si atendio la llamada; etapa queda CONFIRMED_VISIT, no COMPLETED"
 567;C;2026-10-06 08:29;COMPLETED_VISIT;Fecha de registro de la cita posterior a la hora de la cita (registro tardio o fecha de actualizacion: preguntar a LaHaus)
@@ -145,3 +145,7 @@
 564;D;2026-10-08 06:47;STARTED_SCHEDULE;"Beneficios de un programa de terceros como promesa (""pago semanal"", ""casa y comida cubiertas"", ""ahorros en dolares"")"
 572;D;2026-10-07 13:08;SUCCESSFUL_CONTACT;"Beneficios de un programa de terceros como promesa (""pago semanal"", ""casa y comida cubiertas"", ""ahorros en dolares"")"
 590;D;2026-10-06 19:23;SUCCESSFUL_CONTACT;"Precios inexistentes $9.560.000 y $3.150.000 (reportado 07/10; causa prometida para 21/10)"
+497;PEND;2026-10-17 19:00;UNQUALIFIED;"Lead del anuncio V1 sin telefono en el panel (canal EXTERNAL, sin origen ni anuncio); el agente le hablo como si fuera WhatsApp. Pendiente: canal de entrada (LaHaus / Brian)"
+499;PEND;2026-10-17 21:53;UNQUALIFIED;"Lead del anuncio V1 sin telefono en el panel (canal EXTERNAL, sin origen ni anuncio); el agente le hablo como si fuera WhatsApp. Pendiente: canal de entrada (LaHaus / Brian)"
+500;PEND;2026-10-18 06:28;UNQUALIFIED;"Lead del anuncio V1 sin telefono en el panel (canal EXTERNAL, sin origen ni anuncio); el agente le hablo como si fuera WhatsApp. Pendiente: canal de entrada (LaHaus / Brian)"
+504;PEND;2026-10-16 07:20;UNQUALIFIED;"Lead del anuncio V1 sin telefono en el panel (canal EXTERNAL, sin origen ni anuncio); el agente le hablo como si fuera WhatsApp. Pendiente: canal de entrada (LaHaus / Brian)"
