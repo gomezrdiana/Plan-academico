@@ -1,0 +1,44 @@
+# VACACIONES EN INGLÉS · Plan de las 10 mañanas (uso interno del profesor y la auxiliar)
+
+## Reglas que no se negocian
+
+- **Dos adultos en el salón todo el tiempo.** Si uno sale, el otro se queda. Baño: la auxiliar acompaña hasta la puerta.
+- **Todo en inglés**, con gestos, dibujos y objetos. El profesor nunca traduce: muestra, actúa, repite. La auxiliar sí puede susurrar en español a un niño que se bloquea, una vez, y volver al inglés.
+- **Cero pantallas, cero impresos.** Tablero, tarjetas hechas a mano por los niños, objetos reales, cinta en el piso.
+- **Lista de asistencia y entrega:** la auxiliar firma quién llegó y a quién se entregó cada niño, con hora. Solo a la persona autorizada en la ficha.
+- Sin nombres de niños en fotos que salgan de la academia sin autorización firmada.
+
+## Estructura fija de cada mañana (4 horas)
+
+| Hora | Bloque | Qué pasa |
+|---|---|---|
+| 8:00 a 8:30 | **Círculo y Frase del Día** | Saludo cantado, cada niño dice su nombre y cómo se siente con un gesto. Frase del Día en el tablero; se repite en coro, en susurro, gritando, en cámara lenta. |
+| 8:30 a 9:20 | **La historia** | El profesor cuenta una historia corta actuándola (una por día, abajo). Para cada 3 frases y los niños repiten y actúan. La segunda vez los niños dicen las frases que ya saben. |
+| 9:20 a 9:40 | **Refrigerio** | En inglés también: "Can I have…?", "Thank you", "It's delicious". |
+| 9:40 a 10:30 | **Juego de movimiento** | Un juego por día con las palabras de la historia: Simon says, carreras de órdenes, búsqueda del tesoro por el salón, estatuas, el semáforo. |
+| 10:30 a 11:20 | **La misión del día** | Simulación con objetos reales: tienda, restaurante, consultorio, aeropuerto. Cada niño pasa por el rol principal al menos una vez. La auxiliar es el "cliente" cuando falta pareja. |
+| 11:20 a 11:50 | **Ensayo del show** | Se monta la escena del día que va a ir al show final. Se repite tres veces. |
+| 11:50 a 12:00 | **Cierre** | Ticket de salida oral: cada niño dice una frase de hoy en la puerta antes de salir. Entrega a los papás. |
+
+## Las 10 mañanas
+
+| Día | Historia | Misión del día | Va al show |
+|---|---|---|---|
+| 1 | **This is me.** El profesor se presenta con su nombre, edad, color favorito y mascota, con dibujos. | Presentarse ante el grupo con una tarjeta hecha a mano. | Presentación de cada niño (una frase). |
+| 2 | **My family at breakfast.** Una familia desayuna y cada uno pide algo distinto. | Restaurante del desayuno: mesero y clientes. | Escena del desayuno. |
+| 3 | **The lost dog.** Un perro se pierde y los niños lo buscan por el barrio preguntando. | Preguntar y responder "Have you seen…?" con descripciones. | Coro de descripciones. |
+| 4 | **The toy store.** Comprar un juguete, preguntar precio, pagar. | Tienda con monedas de papel. | Escena de la tienda. |
+| 5 | **I'm sick!** Un niño va al doctor, dice qué le duele y recibe instrucciones. | Consultorio: doctor y paciente. | Escena del doctor. |
+| 6 | **My day.** Qué hago desde que me levanto hasta que me acuesto, con mímica. | Mímica de rutinas: el grupo adivina. | Canción de la rutina. |
+| 7 | **At the zoo.** Animales, qué comen, qué hacen, cuál es tu favorito. | Guía del zoológico: cada niño presenta un animal. | Desfile de animales. |
+| 8 | **The airport.** Pasaporte, maleta, a dónde viajas, qué llevas. | Aeropuerto: agente y viajero. | Escena del aeropuerto. |
+| 9 | **The birthday party.** Invitar, llegar, regalar, cantar. | Fiesta: invitar a un amigo y recibir el regalo. | Canción de cumpleaños y escena. |
+| 10 | **Ensayo general y show.** Por la mañana se ensaya todo seguido. A las 11:00 llegan los papás. | Show final: cada niño sale al menos dos veces. | Todo. Foto de grupo. |
+
+## Plan B
+
+Si llueve o el salón grande no está libre, los juegos de movimiento se hacen con cinta en el piso en el salón pequeño. Si falta la auxiliar, no se abre el día: se llama a coordinación antes de las 7:30.
+
+## Reporte a coordinación
+
+Cada viernes: asistencia, qué frases dice ya cada niño sin ayuda, qué niño necesita que se hable con los papás, y qué se cambió del plan y por qué.
