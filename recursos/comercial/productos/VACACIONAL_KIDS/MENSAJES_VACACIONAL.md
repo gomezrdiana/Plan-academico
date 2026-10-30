@@ -1,14 +1,14 @@
 # VACACIONES EN INGLÉS · Mensajes
 
-Regla: se vende lo que el niño hace y lo que el papá ve (el show, el video), con dos adultos siempre y grupo de 12. Se vende por semanas: el papá compra las que necesite. No se promete nivel ni que "sale hablando inglés". Precio siempre completo.
+Regla: se vende lo que el niño hace y lo que el papá ve en el video del viernes, sin tener que venir, con dos adultos siempre y grupo de 12. Se vende por semanas: el papá compra las que necesite. No se promete nivel ni que "sale hablando inglés". Precio siempre completo.
 
 ## 1. A papás y mamás de estudiantes activos y egresados (WhatsApp)
 
-Hola, ¿cómo estás? Te escribo porque abrimos vacaciones en inglés para niños de 7 a 12 años, en la sede: semanas de lunes a viernes de 8 a 12, todo en inglés con historias, juegos y una misión cada día (la tienda, el restaurante, el doctor, el aeropuerto). Grupos de 12 con profesor y auxiliar, y cada viernes hacen un show en inglés para los papás. Compras la semana que necesites: $290.000 la semana, $490.000 dos semanas, se separa con $100.000. Arranca el 24 de noviembre, apenas salen del colegio, y hay semanas hasta el 19 de diciembre y en enero. Si tienes hijos, sobrinos o vecinos de esa edad, ¿me pasas el contacto o les reenvías esto?
+Hola, ¿cómo estás? Te escribo porque abrimos vacaciones en inglés para niños de 7 a 12 años, en la sede: semanas de lunes a viernes de 8 a 12, todo en inglés con historias, juegos y una misión cada día (la tienda, el restaurante, el doctor, el aeropuerto). Grupos de 12 con profesor y auxiliar, y cada viernes hacen un show en inglés que te llega en video por WhatsApp ese mismo día (no tienes que ir). Compras la semana que necesites: $290.000 la semana, $490.000 dos semanas, se separa con $100.000. Arranca el 24 de noviembre, apenas salen del colegio, y hay semanas hasta el 19 de diciembre y en enero. Si tienes hijos, sobrinos o vecinos de esa edad, ¿me pasas el contacto o les reenvías esto?
 
 ## 2. Respuesta a "¿y sale hablando inglés?"
 
-En una o dos semanas no, y no te lo vamos a decir. Lo que sí: el viernes lo ves presentarse, pedir en un restaurante, jugar al doctor y hacer el show en inglés, y te llevas el video. Y si en febrero sigue en el programa juvenil, lo que pagaste se abona.
+En una o dos semanas no, y no te lo vamos a decir. Lo que sí: el viernes te llega el video de tu hijo presentándose, pidiendo en un restaurante, jugando al doctor y haciendo el show en inglés. Y si en febrero sigue en el programa juvenil, lo que pagaste se abona.
 
 ## 3. Respuesta a "¿quién los cuida?"
 

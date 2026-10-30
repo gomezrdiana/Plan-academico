@@ -1,10 +1,10 @@
 # VACACIONES EN INGLÉS · Niños de 7 a 12 años
 
-**Semanas de mañanas en inglés, en la sede, con juego, historias y un show cada viernes para los papás. Usted compra la semana que necesite.**
+**Semanas de mañanas en inglés, en la sede, con juego, historias y un show cada viernes que usted recibe en video. Usted compra la semana que necesite.**
 
 ## Qué hacen los niños
 
-Cada mañana es en inglés de principio a fin: una historia que el profesor cuenta y ellos actúan, un juego de movimiento, una "misión" del día (comprar en la tienda, pedir en el restaurante, presentar a su mascota, ser el doctor) y un ensayo para el show. No hay cuaderno ni tarea. Cada viernes presentan el show de la semana en inglés y los papás lo graban.
+Cada mañana es en inglés de principio a fin: una historia que el profesor cuenta y ellos actúan, un juego de movimiento, una "misión" del día (comprar en la tienda, pedir en el restaurante, presentar a su mascota, ser el doctor) y un ensayo para el show. No hay cuaderno ni tarea. Cada viernes presentan el show de la semana en inglés; nosotros lo grabamos y usted recibe el video por WhatsApp ese mismo día. No tiene que venir.
 
 ## Cómo funciona
 
@@ -16,7 +16,7 @@ Cada mañana es en inglés de principio a fin: una historia que el profesor cuen
 
 ## Qué recibe usted
 
-- Video del show del viernes y una foto del grupo.
+- Video del show de cada viernes y una foto del grupo, por WhatsApp, el mismo día.
 - Nota corta del profesor cada viernes: qué frases ya dice su hijo solo.
 - Si su hijo sigue en el programa juvenil en febrero, lo pagado se abona a la inicial.
 

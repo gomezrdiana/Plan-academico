@@ -8,7 +8,7 @@ Cada semana es un bloque cerrado de 5 mañanas con show el viernes. Semana A = d
 - **Todo en inglés**, con gestos, dibujos y objetos. El profesor nunca traduce: muestra, actúa, repite. La auxiliar sí puede susurrar en español a un niño que se bloquea, una vez, y volver al inglés.
 - **Cero pantallas, cero impresos.** Tablero, tarjetas hechas a mano por los niños, objetos reales, cinta en el piso.
 - **Lista de asistencia y entrega:** la auxiliar firma quién llegó y a quién se entregó cada niño, con hora. Solo a la persona autorizada en la ficha.
-- Sin nombres de niños en fotos que salgan de la academia sin autorización firmada.
+- Sin nombres de niños en fotos que salgan de la academia sin autorización firmada. El video del show va solo al grupo de papás de esa semana, nunca a redes sin el permiso marcado en la ficha.
 
 ## Estructura fija de cada mañana (4 horas)
 
@@ -19,7 +19,7 @@ Cada semana es un bloque cerrado de 5 mañanas con show el viernes. Semana A = d
 | 9:20 a 9:40 | **Refrigerio** | En inglés también: "Can I have…?", "Thank you", "It's delicious". |
 | 9:40 a 10:30 | **Juego de movimiento** | Un juego por día con las palabras de la historia: Simon says, carreras de órdenes, búsqueda del tesoro por el salón, estatuas, el semáforo. |
 | 10:30 a 11:20 | **La misión del día** | Simulación con objetos reales: tienda, restaurante, consultorio, aeropuerto. Cada niño pasa por el rol principal al menos una vez. La auxiliar es el "cliente" cuando falta pareja. |
-| 11:20 a 11:50 | **Ensayo del show** | Se monta la escena del día que va a ir al show del viernes. Se repite tres veces. |
+| 11:20 a 11:50 | **Ensayo del show** | Se monta la escena del día que va a ir al show del viernes. Se repite tres veces. El viernes a las 11:00 el show se hace entre ellos, la persona de apoyo lo graba con el celular de la academia y coordinación envía el video a cada papá antes de las 3 pm. Los papás no vienen; si alguno quiere, puede. |
 | 11:50 a 12:00 | **Cierre** | Ticket de salida oral: cada niño dice una frase de hoy en la puerta antes de salir. Entrega a los papás. |
 
 ## Las 20 mañanas (A = 1 a 5 · B = 6 a 10 · C = 11 a 15 · D = 16 a 20)
@@ -30,12 +30,12 @@ Cada semana es un bloque cerrado de 5 mañanas con show el viernes. Semana A = d
 | 2 | **My family at breakfast.** Una familia desayuna y cada uno pide algo distinto. | Restaurante del desayuno: mesero y clientes. | Escena del desayuno. |
 | 3 | **The lost dog.** Un perro se pierde y los niños lo buscan por el barrio preguntando. | Preguntar y responder "Have you seen…?" con descripciones. | Coro de descripciones. |
 | 4 | **The toy store.** Comprar un juguete, preguntar precio, pagar. | Tienda con monedas de papel. | Escena de la tienda. |
-| 5 | **I'm sick!** Un niño va al doctor, dice qué le duele y recibe instrucciones. Viernes: ensayo general a las 9:40 y **show de la semana A a las 11:00** con los papás. | Consultorio: doctor y paciente. | Escena del doctor + todo lo de la semana. Foto de grupo. |
+| 5 | **I'm sick!** Un niño va al doctor, dice qué le duele y recibe instrucciones. Viernes: ensayo general a las 9:40 y **show de la semana A a las 11:00**, grabado. | Consultorio: doctor y paciente. | Escena del doctor + todo lo de la semana. Foto de grupo. |
 | 6 | **My day.** Qué hago desde que me levanto hasta que me acuesto, con mímica. | Mímica de rutinas: el grupo adivina. | Canción de la rutina. |
 | 7 | **At the zoo.** Animales, qué comen, qué hacen, cuál es tu favorito. | Guía del zoológico: cada niño presenta un animal. | Desfile de animales. |
 | 8 | **The airport.** Pasaporte, maleta, a dónde viajas, qué llevas. | Aeropuerto: agente y viajero. | Escena del aeropuerto. |
 | 9 | **The birthday party.** Invitar, llegar, regalar, cantar. | Fiesta: invitar a un amigo y recibir el regalo. | Canción de cumpleaños y escena. |
-| 10 | **Ensayo general y show de la semana B.** Por la mañana se ensaya todo seguido. A las 11:00 llegan los papás. | Show: cada niño sale al menos dos veces. | Todo lo de la semana. Foto de grupo. |
+| 10 | **Ensayo general y show de la semana B.** Por la mañana se ensaya todo seguido. A las 11:00 show grabado. | Show: cada niño sale al menos dos veces. | Todo lo de la semana. Foto de grupo. |
 | 11 | **My house.** El profesor recorre su casa dibujada: cuartos, muebles, dónde está cada cosa. | Agente inmobiliario: mostrar la casa a un comprador. | Recorrido por la casa. |
 | 12 | **What's the weather like?** Un día con sol, lluvia y frío, y qué me pongo en cada uno. | Tienda de ropa: pedir talla y color, probarse. | Desfile del clima. |
 | 13 | **The big game.** Un partido: partes del cuerpo, me duele, corre, salta, gol. | Entrenador y equipo: dar y seguir órdenes. | Calentamiento en inglés. |
