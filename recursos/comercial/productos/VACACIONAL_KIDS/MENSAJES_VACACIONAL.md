@@ -4,7 +4,7 @@ Regla: se vende lo que el niño hace y lo que el papá ve en el video del vierne
 
 ## 1. A papás y mamás de estudiantes activos y egresados (WhatsApp)
 
-Hola, ¿cómo estás? Te escribo porque abrimos vacaciones en inglés para niños de 7 a 12 años, en la sede: semanas de lunes a viernes de 8 a 12, todo en inglés con historias, juegos y una misión cada día (la tienda, el restaurante, el doctor, el aeropuerto). Grupos de 12 con profesor y auxiliar, y cada viernes hacen un show en inglés que te llega en video por WhatsApp ese mismo día (no tienes que ir). Compras la semana que necesites: $290.000 la semana, $490.000 dos semanas, se separa con $100.000. Arranca el 30 de noviembre, apenas salen del colegio, hay semanas hasta el 18 de diciembre y una en enero. Si tu colegio sale antes, pregúntame por la semana del 23. Si tienes hijos, sobrinos o vecinos de esa edad, ¿me pasas el contacto o les reenvías esto?
+Hola, ¿cómo estás? Te escribo porque abrimos vacaciones en inglés para niños de 7 a 12 años, en la sede: semanas de lunes a viernes de 8 a 12, todo en inglés con historias, juegos y una misión cada día (la tienda, el restaurante, el doctor, el aeropuerto). Grupos de 12 con profesor y auxiliar, y cada viernes hacen un show en inglés que te llega en video por WhatsApp ese mismo día (no tienes que ir). Compras la semana que necesites: $290.000 la semana, $490.000 dos semanas, se separa con $100.000. Hay una semana cada lunes desde el 9 de noviembre hasta el 18 de diciembre, y una en enero: tomas las que empiecen cuando tu colegio salga. Si tienes hijos, sobrinos o vecinos de esa edad, ¿me pasas el contacto o les reenvías esto?
 
 ## 2. Respuesta a "¿y sale hablando inglés?"
 
@@ -16,7 +16,7 @@ Siempre hay dos adultos en el salón: el profesor y una auxiliar de la academia.
 
 ## 4. Llamada de cierre (4 líneas)
 
-1. ¿Cuántos años tiene y qué semanas necesitas cubrir?
+1. ¿Cuántos años tiene y qué día sale del colegio? Entonces te sirven estas semanas: …
 2. Grupo de 7 a 9 o de 10 a 12; quedan X cupos.
 3. Son $290.000 la semana o $490.000 dos; se separa con $100.000 y el saldo antes del lunes.
 4. Te mando el enlace de pago y la ficha de inscripción (autorización de entrega y datos médicos). ¿Lo separas hoy?
