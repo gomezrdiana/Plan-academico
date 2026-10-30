@@ -1,4 +1,6 @@
-# VACACIONES EN INGLÉS · Plan de las 10 mañanas (uso interno del profesor y la auxiliar)
+# VACACIONES EN INGLÉS · Plan de las semanas A y B (uso interno del profesor y la auxiliar)
+
+Cada semana es un bloque cerrado de 5 mañanas con show el viernes. La semana A son los días 1 a 5 y la semana B los días 6 a 10. Se alternan: un niño que viene dos semanas no repite; uno que viene una sola se lleva su show igual.
 
 ## Reglas que no se negocian
 
@@ -17,10 +19,10 @@
 | 9:20 a 9:40 | **Refrigerio** | En inglés también: "Can I have…?", "Thank you", "It's delicious". |
 | 9:40 a 10:30 | **Juego de movimiento** | Un juego por día con las palabras de la historia: Simon says, carreras de órdenes, búsqueda del tesoro por el salón, estatuas, el semáforo. |
 | 10:30 a 11:20 | **La misión del día** | Simulación con objetos reales: tienda, restaurante, consultorio, aeropuerto. Cada niño pasa por el rol principal al menos una vez. La auxiliar es el "cliente" cuando falta pareja. |
-| 11:20 a 11:50 | **Ensayo del show** | Se monta la escena del día que va a ir al show final. Se repite tres veces. |
+| 11:20 a 11:50 | **Ensayo del show** | Se monta la escena del día que va a ir al show del viernes. Se repite tres veces. |
 | 11:50 a 12:00 | **Cierre** | Ticket de salida oral: cada niño dice una frase de hoy en la puerta antes de salir. Entrega a los papás. |
 
-## Las 10 mañanas
+## Las 10 mañanas (semana A = días 1 a 5 · semana B = días 6 a 10)
 
 | Día | Historia | Misión del día | Va al show |
 |---|---|---|---|
@@ -28,12 +30,16 @@
 | 2 | **My family at breakfast.** Una familia desayuna y cada uno pide algo distinto. | Restaurante del desayuno: mesero y clientes. | Escena del desayuno. |
 | 3 | **The lost dog.** Un perro se pierde y los niños lo buscan por el barrio preguntando. | Preguntar y responder "Have you seen…?" con descripciones. | Coro de descripciones. |
 | 4 | **The toy store.** Comprar un juguete, preguntar precio, pagar. | Tienda con monedas de papel. | Escena de la tienda. |
-| 5 | **I'm sick!** Un niño va al doctor, dice qué le duele y recibe instrucciones. | Consultorio: doctor y paciente. | Escena del doctor. |
+| 5 | **I'm sick!** Un niño va al doctor, dice qué le duele y recibe instrucciones. Viernes: ensayo general a las 9:40 y **show de la semana A a las 11:00** con los papás. | Consultorio: doctor y paciente. | Escena del doctor + todo lo de la semana. Foto de grupo. |
 | 6 | **My day.** Qué hago desde que me levanto hasta que me acuesto, con mímica. | Mímica de rutinas: el grupo adivina. | Canción de la rutina. |
 | 7 | **At the zoo.** Animales, qué comen, qué hacen, cuál es tu favorito. | Guía del zoológico: cada niño presenta un animal. | Desfile de animales. |
 | 8 | **The airport.** Pasaporte, maleta, a dónde viajas, qué llevas. | Aeropuerto: agente y viajero. | Escena del aeropuerto. |
 | 9 | **The birthday party.** Invitar, llegar, regalar, cantar. | Fiesta: invitar a un amigo y recibir el regalo. | Canción de cumpleaños y escena. |
-| 10 | **Ensayo general y show.** Por la mañana se ensaya todo seguido. A las 11:00 llegan los papás. | Show final: cada niño sale al menos dos veces. | Todo. Foto de grupo. |
+| 10 | **Ensayo general y show de la semana B.** Por la mañana se ensaya todo seguido. A las 11:00 llegan los papás. | Show: cada niño sale al menos dos veces. | Todo lo de la semana. Foto de grupo. |
+
+## Semana de 4 días (festivo)
+
+Se salta el día 2 de la semana A (el desayuno se mete en el día 4 como parte de la tienda) y el show queda igual el viernes.
 
 ## Plan B
 
