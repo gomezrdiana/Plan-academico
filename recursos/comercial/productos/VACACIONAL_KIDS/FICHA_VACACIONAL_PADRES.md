@@ -26,11 +26,11 @@ Cada mañana es en inglés de principio a fin: una historia que el profesor cuen
 
 ## Semanas
 
-- Semana A: 24 al 28 de noviembre.
-- Semana B: 1 al 5 de diciembre.
-- Semana C: 9 al 12 de diciembre (4 mañanas por el festivo, $240.000).
-- Semana D: 15 al 19 de diciembre.
-- Enero: 12 al 16 (A), 19 al 23 (B), 26 al 30 (C).
+- Semana A: 30 de noviembre al 4 de diciembre (los colegios salen el 27 de noviembre).
+- Semana B: 7 al 11 de diciembre (4 mañanas por el festivo del 8, $240.000).
+- Semana C: 14 al 18 de diciembre.
+- Semana D: 11 al 15 de enero.
+- Si su colegio sale antes del 27 de noviembre, pregunte por la semana del 23: se abre con 8 niños.
 
 Cada semana abre con mínimo 8 niños pagados. Si la semana no abre, se devuelve completo.
 

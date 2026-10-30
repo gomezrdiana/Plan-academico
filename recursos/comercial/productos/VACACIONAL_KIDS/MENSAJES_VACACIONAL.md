@@ -4,7 +4,7 @@ Regla: se vende lo que el niño hace y lo que el papá ve en el video del vierne
 
 ## 1. A papás y mamás de estudiantes activos y egresados (WhatsApp)
 
-Hola, ¿cómo estás? Te escribo porque abrimos vacaciones en inglés para niños de 7 a 12 años, en la sede: semanas de lunes a viernes de 8 a 12, todo en inglés con historias, juegos y una misión cada día (la tienda, el restaurante, el doctor, el aeropuerto). Grupos de 12 con profesor y auxiliar, y cada viernes hacen un show en inglés que te llega en video por WhatsApp ese mismo día (no tienes que ir). Compras la semana que necesites: $290.000 la semana, $490.000 dos semanas, se separa con $100.000. Arranca el 24 de noviembre, apenas salen del colegio, y hay semanas hasta el 19 de diciembre y en enero. Si tienes hijos, sobrinos o vecinos de esa edad, ¿me pasas el contacto o les reenvías esto?
+Hola, ¿cómo estás? Te escribo porque abrimos vacaciones en inglés para niños de 7 a 12 años, en la sede: semanas de lunes a viernes de 8 a 12, todo en inglés con historias, juegos y una misión cada día (la tienda, el restaurante, el doctor, el aeropuerto). Grupos de 12 con profesor y auxiliar, y cada viernes hacen un show en inglés que te llega en video por WhatsApp ese mismo día (no tienes que ir). Compras la semana que necesites: $290.000 la semana, $490.000 dos semanas, se separa con $100.000. Arranca el 30 de noviembre, apenas salen del colegio, hay semanas hasta el 18 de diciembre y una en enero. Si tu colegio sale antes, pregúntame por la semana del 23. Si tienes hijos, sobrinos o vecinos de esa edad, ¿me pasas el contacto o les reenvías esto?
 
 ## 2. Respuesta a "¿y sale hablando inglés?"
 

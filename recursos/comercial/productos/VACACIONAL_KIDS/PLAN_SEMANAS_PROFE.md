@@ -1,6 +1,6 @@
 # VACACIONES EN INGLÉS · Plan de las semanas A, B, C y D (uso interno del profesor y la auxiliar)
 
-Cada semana es un bloque cerrado de 5 mañanas con show el viernes. Semana A = días 1 a 5, B = 6 a 10, C = 11 a 15, D = 16 a 20. Van en orden del 24 de noviembre al 19 de diciembre y en enero se vuelve a empezar por la A. Un niño que viene las cuatro semanas no repite nada; uno que viene una sola se lleva su show igual.
+Cada semana es un bloque cerrado de 5 mañanas con show el viernes. Semana A = días 1 a 5, B = 6 a 10, C = 11 a 15, D = 16 a 20. Van en orden: A del 30 de noviembre al 4 de diciembre, B del 7 al 11 de diciembre (4 mañanas), C del 14 al 18 de diciembre, D del 11 al 15 de enero. Si se abre la semana del 23 de noviembre, se dicta la A y la del 30 pasa a ser B. Un niño que viene las cuatro semanas no repite nada; uno que viene una sola se lleva su show igual.
 
 ## Reglas que no se negocian
 
@@ -49,7 +49,7 @@ Cada semana es un bloque cerrado de 5 mañanas con show el viernes. Semana A = d
 
 ## Semana de 4 días (festivo)
 
-Se salta el día 2 de la semana que toque y su misión se mete en el día 4; el show queda igual el viernes.
+La semana B del 7 al 11 de diciembre tiene 4 mañanas (festivo el 8): se salta el día 7 del plan (zoológico) y su misión se mete en el día 8; el show queda igual el viernes.
 
 ## Plan B
 

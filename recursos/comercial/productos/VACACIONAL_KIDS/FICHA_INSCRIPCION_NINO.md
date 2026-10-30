@@ -4,7 +4,7 @@
 
 - Nombre completo: ________________________________________
 - Fecha de nacimiento: ____ / ____ / ________   Edad: ______   Grupo: 7 a 9 ( )   10 a 12 ( )
-- Semanas que toma: 24-28 nov ( )  1-5 dic ( )  9-12 dic ( )  15-19 dic ( )  12-16 ene ( )  19-23 ene ( )  26-30 ene ( )
+- Semanas que toma: 30 nov-4 dic ( )  7-11 dic ( )  14-18 dic ( )  11-15 ene ( )  23-27 nov, si abre ( )
 
 ## Salud
 
@@ -30,7 +30,7 @@
 
 ## Pago
 
-- Valor: $290.000 por semana · $490.000 dos semanas · semana del 9 al 12 de diciembre $240.000.
+- Valor: $290.000 por semana · $490.000 dos semanas · semana del 7 al 11 de diciembre $240.000.
 - Separación $100.000 el día ____ / ____   Saldo pagado el día ____ / ____   Recibo No. __________
 
 Firma del acudiente: ______________________________   Fecha: ____ / ____ / ________
