@@ -4,7 +4,7 @@ Regla: se vende lo que el niño hace y lo que el papá ve (el show, el video), c
 
 ## 1. A papás y mamás de estudiantes activos y egresados (WhatsApp)
 
-Hola, ¿cómo estás? Te escribo porque abrimos vacaciones en inglés para niños de 7 a 12 años, en la sede: dos semanas de lunes a viernes de 8 a 12, todo en inglés con historias, juegos y una misión cada día (la tienda, el restaurante, el doctor, el aeropuerto). Grupos de 12 con profesor y auxiliar, y el último día hacen un show en inglés para los papás. Vale $490.000 las dos semanas, se separa con $150.000. Hay grupo del 1 al 12 de diciembre y del 12 al 23 de enero. Si tienes hijos, sobrinos o vecinos de esa edad, ¿me pasas el contacto o les reenvías esto?
+Hola, ¿cómo estás? Te escribo porque abrimos vacaciones en inglés para niños de 7 a 12 años, en la sede: dos semanas de lunes a viernes de 8 a 12, todo en inglés con historias, juegos y una misión cada día (la tienda, el restaurante, el doctor, el aeropuerto). Grupos de 12 con profesor y auxiliar, y el último día hacen un show en inglés para los papás. Vale $490.000 las dos semanas, se separa con $150.000. Hay grupo del 24 de noviembre al 5 de diciembre, apenas salen del colegio, y del 12 al 23 de enero. Si tienes hijos, sobrinos o vecinos de esa edad, ¿me pasas el contacto o les reenvías esto?
 
 ## 2. Respuesta a "¿y sale hablando inglés?"
 
@@ -16,7 +16,7 @@ Siempre hay dos adultos en el salón: el profesor y una auxiliar de la academia.
 
 ## 4. Llamada de cierre (4 líneas)
 
-1. ¿Cuántos años tiene y en qué fechas te sirve más, diciembre o enero?
+1. ¿Cuántos años tiene y en qué fechas te sirve más, noviembre o enero?
 2. Grupo de 7 a 9 o de 10 a 12; quedan X cupos.
 3. Son $490.000 las dos semanas; se separa con $150.000 y el saldo antes del primer día.
 4. Te mando el enlace de pago y la ficha de inscripción (autorización de entrega y datos médicos). ¿Lo separas hoy?

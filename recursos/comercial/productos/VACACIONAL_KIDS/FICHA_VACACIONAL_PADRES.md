@@ -26,7 +26,7 @@ Cada mañana es en inglés de principio a fin: una historia que el profesor cuen
 
 ## Fechas
 
-- Grupo de diciembre: del 1 al 12 de diciembre.
+- Grupo de noviembre: del 24 de noviembre al 5 de diciembre (apenas salen del colegio).
 - Grupo de enero: del 12 al 23 de enero.
 
 Cada grupo abre con mínimo 8 niños pagados. Si el grupo no abre, la separación se devuelve completa.
