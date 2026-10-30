@@ -1,6 +1,6 @@
-# VACACIONES EN INGLÉS · Plan de las semanas A y B (uso interno del profesor y la auxiliar)
+# VACACIONES EN INGLÉS · Plan de las semanas A, B, C y D (uso interno del profesor y la auxiliar)
 
-Cada semana es un bloque cerrado de 5 mañanas con show el viernes. La semana A son los días 1 a 5 y la semana B los días 6 a 10. Se alternan: un niño que viene dos semanas no repite; uno que viene una sola se lleva su show igual.
+Cada semana es un bloque cerrado de 5 mañanas con show el viernes. Semana A = días 1 a 5, B = 6 a 10, C = 11 a 15, D = 16 a 20. Van en orden del 24 de noviembre al 19 de diciembre y en enero se vuelve a empezar por la A. Un niño que viene las cuatro semanas no repite nada; uno que viene una sola se lleva su show igual.
 
 ## Reglas que no se negocian
 
@@ -22,7 +22,7 @@ Cada semana es un bloque cerrado de 5 mañanas con show el viernes. La semana A 
 | 11:20 a 11:50 | **Ensayo del show** | Se monta la escena del día que va a ir al show del viernes. Se repite tres veces. |
 | 11:50 a 12:00 | **Cierre** | Ticket de salida oral: cada niño dice una frase de hoy en la puerta antes de salir. Entrega a los papás. |
 
-## Las 10 mañanas (semana A = días 1 a 5 · semana B = días 6 a 10)
+## Las 20 mañanas (A = 1 a 5 · B = 6 a 10 · C = 11 a 15 · D = 16 a 20)
 
 | Día | Historia | Misión del día | Va al show |
 |---|---|---|---|
@@ -36,10 +36,20 @@ Cada semana es un bloque cerrado de 5 mañanas con show el viernes. La semana A 
 | 8 | **The airport.** Pasaporte, maleta, a dónde viajas, qué llevas. | Aeropuerto: agente y viajero. | Escena del aeropuerto. |
 | 9 | **The birthday party.** Invitar, llegar, regalar, cantar. | Fiesta: invitar a un amigo y recibir el regalo. | Canción de cumpleaños y escena. |
 | 10 | **Ensayo general y show de la semana B.** Por la mañana se ensaya todo seguido. A las 11:00 llegan los papás. | Show: cada niño sale al menos dos veces. | Todo lo de la semana. Foto de grupo. |
+| 11 | **My house.** El profesor recorre su casa dibujada: cuartos, muebles, dónde está cada cosa. | Agente inmobiliario: mostrar la casa a un comprador. | Recorrido por la casa. |
+| 12 | **What's the weather like?** Un día con sol, lluvia y frío, y qué me pongo en cada uno. | Tienda de ropa: pedir talla y color, probarse. | Desfile del clima. |
+| 13 | **The big game.** Un partido: partes del cuerpo, me duele, corre, salta, gol. | Entrenador y equipo: dar y seguir órdenes. | Calentamiento en inglés. |
+| 14 | **Let's cook!** Ir al supermercado, comprar ingredientes y preparar una receta sin fuego. | Supermercado y cocina: lista, pedir, preparar. | Programa de cocina. |
+| 15 | **When I grow up.** Oficios: qué hace cada uno, dónde trabaja, qué usa. Viernes: ensayo general a las 9:40 y **show de la semana C a las 11:00**. | Adivina mi oficio con mímica y pistas. | Desfile de oficios + todo lo de la semana. Foto de grupo. |
+| 16 | **How do I get there?** Ir del colegio al parque: derecha, izquierda, derecho, bus, taxi. | Dar y seguir indicaciones con cinta en el piso como calles. | Mapa humano. |
+| 17 | **A day on the farm.** Animales de granja, qué dan, qué comen; el granjero y el visitante. | Guía de la granja. | Coro de la granja. |
+| 18 | **How do you feel?** Emociones y amigos: estoy triste, ¿qué pasó?, ¿quieres jugar? | Consultorio de la amistad: contar un problema y recibir ayuda. | Escena de los amigos. |
+| 19 | **At the hotel.** Llegar de vacaciones: reservar, pedir la llave, preguntar por el desayuno y la piscina. | Recepción de hotel: recepcionista y huésped. | Escena del hotel. |
+| 20 | **Talent show.** Ensayo general y **show de la semana D a las 11:00**: cada niño elige su escena favorita del mes o presenta un talento en inglés. | Show: cada niño sale al menos dos veces. | Todo lo de la semana + número libre. Foto de grupo. |
 
 ## Semana de 4 días (festivo)
 
-Se salta el día 2 de la semana A (el desayuno se mete en el día 4 como parte de la tienda) y el show queda igual el viernes.
+Se salta el día 2 de la semana que toque y su misión se mete en el día 4; el show queda igual el viernes.
 
 ## Plan B
 
