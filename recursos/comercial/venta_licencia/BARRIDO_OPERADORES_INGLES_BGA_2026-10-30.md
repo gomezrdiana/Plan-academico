@@ -50,11 +50,11 @@ Tipos: A = academia pequeña/independiente · B = tutor/profe con volumen · C =
 ## Top 8 (en orden)
 
 1. **Caisa**: opera desde 2003 en BGA, Piedecuesta y San Gil, y salió de la lista oficial de 2022. Si no tiene licencia vigente, es el comprador más natural. Verificar primero.
-2. **Talking Kids**: 4–5 sedes y 19,8K seguidores sin licencia visible. La licencia formaliza la red que ya tiene.
+2. **Talking Kids**: 4–5 sedes y 19,8K seguidores sin licencia visible. La licencia formaliza la red que ya tiene. Gerencia 30/10: licencia desconocida; verificar en SIET antes de contactar.
 3. **American School Way**: la cadena más grande que se declara como tal (30 sedes) y no tiene sede encontrada en BGA. Licencia+sede = entrada inmediata.
 4. **Lingui Academy**: cadena de 5 ciudades con una sola sede en BGA y sin licencia visible.
 5. **Berlitz**: contrata instructores presenciales de tiempo completo en BGA sin sede confirmada.
-6. **Best English Institute**: 81K seguidores en una sola sede. Ya licenciada, le sirve como segunda sede lista.
+6. **Best English Institute**: 81K seguidores en una sola sede. Ya licenciada, le sirve como segunda sede lista. Confirmado por gerencia 30/10: tiene licencia y certificación Icontec; sigue como candidato a segunda sede.
 7. **Praxis English Academy**: en expansión (Barrancabermeja y sede infantil) y licenciada. Le sirve como sede en otra zona del área metro.
 8. ~~Smart~~: descartado por gerencia el 30/10: ya tiene una sede grande en Bucaramanga; el barrido no la vio porque no pudo leer Maps. Lección: toda fila de este archivo se valida con conocimiento local antes de usarla.
 
