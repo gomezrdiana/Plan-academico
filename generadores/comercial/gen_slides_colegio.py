@@ -61,6 +61,19 @@ s.notes_slide.notes_text_frame.text = (
  'No les vamos a prometer que es fácil. Les prometemos que vamos a estar ahí hasta que lo logren. Y para que lo vean, en vez de explicarles, vamos a hacerlo ya."\n'
  'Y le pasa la palabra a Juan Diego para la clase.')
 
+# ---------- 0b. VIDEO TECNICA O ACTITUD (despues de la apertura) ----------
+VIDEO = os.path.join(OUT, 'Tecnica o Actitud.MP4'); POSTER = os.path.join(OUT, 'POSTER_TECNICA_ACTITUD.jpg')
+if os.path.exists(VIDEO):
+    s = prs.slides.add_slide(BL); fondo(s, TINTA)
+    texto(s, 0.85, 0.9, 7.6, 0.5, [[('UNA PREGUNTA', 14, True, AMA, TXT)]])
+    texto(s, 0.85, 1.5, 7.6, 3.2, [[('¿Qué es más importante: la ', 44, True, BLANCO, TIT), ('técnica', 44, True, AMA, TIT), (' o la ', 44, True, BLANCO, TIT), ('actitud?', 44, True, AMA, TIT)]])
+    texto(s, 0.85, 4.75, 7.2, 1.2, [[('Escuchen lo que responde este entrenador.', 22, False, MELOCOTON, TXT)]])
+    s.shapes.add_picture(LOGO, Inches(0.55), Inches(6.35), height=Inches(0.85))
+    vh = 6.6; vw = vh * 720 / 1280
+    s.shapes.add_movie(VIDEO, Inches(12.5 - vw), Inches(0.45), Inches(vw), Inches(vh), poster_frame_image=POSTER, mime_type='video/mp4')
+    s.notes_slide.notes_text_frame.text = ('Antes de darle play, John pregunta al salon: levanten la mano, quien cree que la tecnica? quien cree que la actitud? '
+        'Luego play (40 segundos; clic sobre el video). Al terminar, una sola frase: por eso aqui entrenamos las dos, pero empezamos por la actitud. Y pasa a Juan Diego.')
+
 # ---------- 1. CORAJE ----------
 s = prs.slides.add_slide(BL); fondo(s, NAR)
 forma(s, MSO_SHAPE.RECTANGLE, 10.6, 0, 2.75, 7.5, RGBColor(0xFF, 0x6A, 0x2A))

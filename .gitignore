@@ -67,3 +67,8 @@ VERSION_2/Tareas B1 Am Cristian danna/
 # Exportes de leads de LaHaus (nombres, telefonos, correos): nunca al repo
 recursos/comercial/plataforma LaHaus/leads_*.xlsx
 recursos/comercial/plataforma LaHaus/heiiu-leads-funnelup-*.csv
+
+# Presentacion colegio con video embebido (32 MB) y video de terceros: solo local
+recursos/comercial/productos/NICHO_COLEGIOS/*.MP4
+recursos/comercial/productos/NICHO_COLEGIOS/*.mp4
+recursos/comercial/productos/NICHO_COLEGIOS/SLIDES_COLEGIO_3.pptx
