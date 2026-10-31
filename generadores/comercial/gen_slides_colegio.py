@@ -62,7 +62,7 @@ s = prs.slides.add_slide(BL); fondo(s, CREMA)
 texto(s, 0.85, 0.55, 8, 0.4, [[('TU PROYECTO EN INGLÉS', 14, True, NAR_OSC, TXT)]])
 texto(s, 0.85, 0.95, 11.8, 0.9, [[('En el A2 eliges y construyes tu ', 32, True, TINTA, TIT), ('Módulo de Graduación.', 32, True, NAR_OSC, TIT)]])
 cards = [
-    ('Ruta Emprendedor', 'Sales con tu página web publicada y tu primer mensaje de venta en inglés.', NAR),
+    ('Ruta Emprendedor', 'Sales con tu página web lista para publicar y tu primer mensaje de venta en inglés.', NAR),
     ('Ruta Pasaporte', 'Tu postulación a programas en el exterior lista, tu video de presentación y tu entrevista ensayada.', AMA),
     ('En B2 lo pules', 'Networking, entrevistas, presentar una idea, negociación, pedir un aumento, tu pitch y un simulacro de jornada de trabajo.', NAR),
 ]

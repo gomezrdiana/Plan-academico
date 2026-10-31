@@ -37,7 +37,7 @@
 ## GUION 3 — "FACTURAR EN DÓLARES" · LO HACE: **PROFE B**
 
 **GANCHO (3 seg):** "Ganar en dólares… es más fácil si hablas inglés."
-**DESARROLLO (22 seg):** "Este programa no termina en un diploma y ya. Terminas con inglés certificado Y con tu negocio apuntando al mundo: tu página web publicada con dominio propio, tu perfil para vender servicios afuera, tu cuenta para recibir pagos internacionales, y tu primer mensaje de venta en inglés — enviado de verdad."
+**DESARROLLO (22 seg):** "Este programa no termina en un diploma y ya. Terminas con inglés certificado Y con tu negocio apuntando al mundo: tu página web lista para publicar con dominio propio, tu perfil para vender servicios afuera, tu cuenta para recibir pagos internacionales, y tu primer mensaje de venta en inglés — enviado de verdad."
 **CIERRE (7 seg):** "Arranca: $2.990.000, solo 20 cupos. Tu primer cliente en dólares empieza por un mensaje — mándanos el tuyo."
 **TOMAS:** cara a cámara + pantallazos de landing y chat en inglés (cifras ilustrativas).
 
@@ -51,7 +51,7 @@
 ## GUION 5 — "EL DESCUENTO DEL 65%" · LO HACE: **PROFE A** (tono cómplice)
 
 **GANCHO (3 seg):** "Te van a ofrecer inglés con el 65% de descuento. Hazte UNA pregunta."
-**DESARROLLO (22 seg):** "Antes de decidirte por cualquier academia, haz una sola cuenta: pregunta el precio FINAL — con matrícula, con libros, con todo. Aquí es uno solo y está completo: $2.990.000 por los dos primeros niveles certificados, con garantía de aprendizaje firmada… y además sales con tu página web publicada y tu primer mensaje de venta en inglés. Pregunta por ahí quién más te da eso."
+**DESARROLLO (22 seg):** "Antes de decidirte por cualquier academia, haz una sola cuenta: pregunta el precio FINAL — con matrícula, con libros, con todo. Aquí es uno solo y está completo: $2.990.000 por los dos primeros niveles certificados, con garantía de aprendizaje firmada… y además sales con tu página web lista para publicar y tu primer mensaje de venta en inglés. Pregunta por ahí quién más te da eso."
 **CIERRE (7 seg):** "Compara todo lo que quieras — con calculadora. Y cuando termines, escríbenos. 20 cupos."
 **TOMAS:** cara a cámara + sobreimpreso "¿65% de QUÉ precio?". Sin nombrar a ninguna academia.
 
@@ -72,7 +72,7 @@
 ## GUION 8 — "EMPRENDEDOR SIN APOYO" · LO HACE: **ESTUDIANTE 2** (ideal con negocio; plan B: Profe B)
 
 **GANCHO (3 seg):** "Eres emprendedor… pero nadie te está ayudando a arrancar."
-**DESARROLLO (20 seg):** "Aquí no solo aprendemos inglés: salimos con nuestra página web publicada — pero lo mejor: un salón lleno de gente con tu misma ambición. Deja de emprender solo. Con tu inglés y tu proyecto, las convocatorias de apoyo están más cerca."
+**DESARROLLO (20 seg):** "Aquí no solo aprendemos inglés: salimos con nuestra página web lista para publicar — pero lo mejor: un salón lleno de gente con tu misma ambición. Deja de emprender solo. Con tu inglés y tu proyecto, las convocatorias de apoyo están más cerca."
 **CIERRE (7 seg):** "Arranque A1+A2: $2.990.000, 20 cupos disponibles. Escríbenos."
 **TOMAS:** cara a cámara de par + tomas de grupo trabajando.
 

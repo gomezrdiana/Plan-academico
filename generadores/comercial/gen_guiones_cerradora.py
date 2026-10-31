@@ -58,7 +58,7 @@ CTA: "20 cupos de lanzamiento, arranca el 5 de octubre. Escríbeme al WhatsApp."
 
 sec('GUION 3 — EL EMPRENDEDOR (el destino, no el inglés)')
 guion('''GANCHO: "Esto no es un curso de inglés. Escucha bien lo que te entregan al final."
-DESARROLLO: "En Heiiu, cuando terminas tus dos primeros niveles, sales con TU página web publicada con dominio propio, tu presentación en inglés, y tu primer mensaje de venta enviado a un cliente real en el exterior. Sales con un negocio montado que habla inglés."
+DESARROLLO: "En Heiiu, cuando terminas tus dos primeros niveles, sales con TU página web lista para publicar con dominio propio, tu presentación en inglés, y tu primer mensaje de venta enviado a un cliente real en el exterior. Sales con un negocio montado que habla inglés."
 PRUEBA: "Dos millones novecientos noventa los dos niveles completos, con garantía por escrito. Nadie más en la ciudad entrega eso."
 CTA: "20 cupos. 5 de octubre. Escríbeme al WhatsApp y te muestro."''')
 

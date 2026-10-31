@@ -66,7 +66,7 @@ bullet(c, 'Jornadas: ', 'mañana 8:00 a 12:00 (dos meses y medio) o noche 6:30 a
 bullet(c, 'Garantía por escrito ', 'en tu contrato.')
 bullet(c, 'Módulo de Graduación incluido, a tu elección al terminar: ', '')
 p = c.add_paragraph(); p.paragraph_format.left_indent = Cm(0.6); p.paragraph_format.space_after = Pt(1)
-run(p, 'Emprendedor: ', 9, True); run(p, 'sales con tu página web publicada, tu pitch en inglés y tu primer mensaje de venta enviado a un cliente real.', 9)
+run(p, 'Emprendedor: ', 9, True); run(p, 'sales con tu página web lista para publicar, tu pitch en inglés y tu primer mensaje de venta enviado a un cliente real.', 9)
 p = c.add_paragraph(); p.paragraph_format.left_indent = Cm(0.6); p.paragraph_format.space_after = Pt(3)
 run(p, 'Pasaporte: ', 9, True); run(p, 'sales con tu video de presentación, tu hoja de vida en inglés y la entrevista ensayada para programas como Au Pair o Work and Travel.', 9)
 bullet(c, 'Al terminar, ', 'si quieres seguir a B1 y B2, continúas con el Fondo de Becas.')

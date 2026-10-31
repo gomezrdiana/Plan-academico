@@ -25,7 +25,7 @@
 
 ## MENSAJE 4 — PUBLICACIÓN EN GRUPOS DE FACEBOOK / MARKETPLACE (miércoles y sábado)
 
-> 🎯 BUCARAMANGA: ¿llevas años diciendo "necesito el inglés"? Abrimos cohorte el **5 DE OCTUBRE** — los DOS primeros niveles COMPLETOS (200 horas presenciales, libros y certificado incluidos) por $2.990.000, con **garantía de aprendizaje POR ESCRITO** en tu contrato. Solo 20 cupos de lanzamiento y ya se están asignando. Al terminar sales con tu propia página web publicada o con tu aplicación lista para irte a trabajar afuera. Escríbeme al [número] y te cuento en 5 minutos. 🇺🇸
+> 🎯 BUCARAMANGA: ¿llevas años diciendo "necesito el inglés"? Abrimos cohorte el **5 DE OCTUBRE** — los DOS primeros niveles COMPLETOS (200 horas presenciales, libros y certificado incluidos) por $2.990.000, con **garantía de aprendizaje POR ESCRITO** en tu contrato. Solo 20 cupos de lanzamiento y ya se están asignando. Al terminar sales con tu propia página web lista para publicar o con tu aplicación lista para irte a trabajar afuera. Escríbeme al [número] y te cuento en 5 minutos. 🇺🇸
 >
 > *(Se publica CON la pieza de video o la imagen de pauta — las entrega gerencia. Nunca texto solo.)*
 

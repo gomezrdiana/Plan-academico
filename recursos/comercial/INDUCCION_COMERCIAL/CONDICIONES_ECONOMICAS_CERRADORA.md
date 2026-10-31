@@ -9,7 +9,7 @@ Y detrás, el high ticket: **el programa completo A1→B2** (575 horas) con beca
 
 **Por qué este producto CIERRA (tus armas):**
 - La única **GARANTÍA DE APRENDIZAJE POR ESCRITO** de la ciudad, en el contrato — mata la objeción #1.
-- **Módulo de Graduación a elección**, estrenándose con esta cohorte: página web publicada + primer mensaje de venta en inglés, o su POSTULACIÓN a un programa en el exterior (Au Pair, Work and Travel) diligenciada y lista, con video de presentación y entrevista ensayada. **Y si el cliente no quiere ninguno de los dos: no pasa nada** — es un bono opcional, cursa sus niveles y recibe sus certificados igual, mismo precio.
+- **Módulo de Graduación a elección**, estrenándose con esta cohorte: página web lista para publicar + primer mensaje de venta en inglés, o su POSTULACIÓN a un programa en el exterior (Au Pair, Work and Travel) diligenciada y lista, con video de presentación y entrevista ensayada. **Y si el cliente no quiere ninguno de los dos: no pasa nada** — es un bono opcional, cursa sus niveles y recibe sus certificados igual, mismo precio.
 - Institución con licencia desde 2012, programas registrados, certificación ICONTEC.
 - Precio de lanzamiento con contador REAL de cupos: la urgencia no es teatro.
 - **El crédito de una financiera o cooperativa — y el cheque de CESANTÍAS — CUENTAN COMO CONTADO** (a la academia le entra todo): abono de $300.000 hoy congela cupo y precio, y el desembolso o el cheque llegan en máximo 10 días hábiles.
@@ -97,7 +97,7 @@ Di en tus palabras: (1) hay una academia en Bucaramanga que te FIRMA en el contr
 Di en tus palabras: (1) ¿cuántas veces has empezado inglés? — el problema nunca fuiste tú, fue el método: años sentado copiando tablero con miedo a hablar; (2) aquí es al revés: de pie, hablando desde el día uno; (3) no te piden fe: la garantía va firmada [frase literal]; (4) honestidad total: esto es exigente, se entrena como un deporte — tú pones el trabajo, ellos ponen el método y el respaldo.
 
 **PIEZA 3 — EL EMPRENDEDOR** (el destino, no el inglés)
-Di en tus palabras: (1) esto no es un curso de inglés — escucha lo que te entregan al final; (2) sales con TU página web publicada, tu presentación en inglés y tu primer mensaje de venta enviado a un cliente real en el exterior; (3) $2.990.000 los dos niveles, con garantía por escrito, si haces tu parte — nadie más entrega eso.
+Di en tus palabras: (1) esto no es un curso de inglés — escucha lo que te entregan al final; (2) sales con TU página web lista para publicar, tu presentación en inglés y tu primer mensaje de venta enviado a un cliente real en el exterior; (3) $2.990.000 los dos niveles, con garantía por escrito, si haces tu parte — nadie más entrega eso.
 
 **PIEZA 4 — EL QUE SE QUIERE IR** (Au Pair / trabajar afuera)
 Di en tus palabras: (1) ¿te quieres ir a trabajar afuera y el inglés te frena? — el requisito #1 de TODOS los programas es el inglés conversacional; (2) aquí terminas con tu video de presentación, tu postulación al programa diligenciada y tu entrevista ensayada; (3) es entrenamiento en serio, con garantía por escrito para el que cumple. Cohorte 5 de octubre, 20 cupos.

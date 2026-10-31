@@ -76,7 +76,7 @@ y = bullets([
     ('Módulo de Graduación incluido, ', 'a tu elección al terminar:'),
 ], m + 10, top - 104, cw - 20)
 # sub-bullets modulos
-for b, t in [('Emprendedor: ', 'sales con tu página web publicada, tu pitch en inglés y tu primer mensaje de venta enviado a un cliente real.'),
+for b, t in [('Emprendedor: ', 'sales con tu página web lista para publicar, tu pitch en inglés y tu primer mensaje de venta enviado a un cliente real.'),
              ('Pasaporte: ', 'sales con tu video de presentación, tu hoja de vida en inglés y la entrevista ensayada para programas como Au Pair o Work and Travel.')]:
     para = P(f'<b><font color="#E54C09">{b}</font></b>{t}', 8.6, leading=11); pw, ph = para.wrap(cw - 44, 300); para.drawOn(c, m + 30, y - ph); y -= ph + 2.4
 y = bullets([('Al terminar, ', 'si quieres seguir a B1 y B2, continúas con el Fondo de Becas.')], m + 10, y - 2, cw - 20)
