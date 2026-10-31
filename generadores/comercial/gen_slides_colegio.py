@@ -87,6 +87,22 @@ texto(s, 0.85, 4.25, 9.5, 1.8, [
 texto(s, 0.85, 6.65, 9.5, 0.5, [[('Salir de la zona de confort es el primer paso de todo lo que vale la pena.', 14, False, MELOCOTON, TXT)]])
 s.notes_slide.notes_text_frame.text = 'Juan Diego cierra la clase con aplauso y pasa directo a esta. John la lee en voz alta, despacio, mirando a los estudiantes.'
 
+# ---------- 1b. VIDEO TAREA (despues de coraje) ----------
+VT = os.path.join(OUT, 'tarea_estudiante_b1_60s_h264.mp4'); PT = os.path.join(OUT, 'POSTER_tarea_estudiante_b1_60s.jpg')
+if os.path.exists(VT):
+    s = prs.slides.add_slide(BL); fondo(s, TINTA)
+    texto(s, 0.85, 0.9, 7.6, 0.5, [[('ASÍ SE VE UNA TAREA', 14, True, AMA, TXT)]])
+    texto(s, 0.85, 1.5, 7.6, 2.4, [[('Se equivoca. ', 44, True, BLANCO, TIT), ('Y lo hace igual.', 44, True, AMA, TIT)]])
+    texto(s, 0.85, 3.4, 7.3, 2.4, [
+        [('Una estudiante de B1 en su video diario de tarea.', 22, False, MELOCOTON, TXT)],
+        [('Lo que importa no es que salga perfecto: es que se deja guiar y hace el trabajo difícil todos los días.', 22, True, BLANCO, TXT)],
+    ], espacio=12)
+    s.shapes.add_picture(LOGO, Inches(0.55), Inches(6.35), height=Inches(0.85))
+    vh = 6.6; vw = vh * 478 / 850
+    s.shapes.add_movie(VT, Inches(12.5 - vw), Inches(0.45), Inches(vw), Inches(vh), poster_frame_image=PT, mime_type='video/mp4')
+    s.notes_slide.notes_text_frame.text = ('Play (60 segundos). Al terminar: esto es lo que hacen todos los días. No es perfecto, y no tiene que serlo. '
+        'Lo que diferencia a un estudiante no es el talento: es que vuelve a intentarlo con la corrección.')
+
 # ---------- 2. MODULO DE GRADUACION ----------
 s = prs.slides.add_slide(BL); fondo(s, CREMA)
 texto(s, 0.85, 0.55, 8, 0.4, [[('TU PROYECTO EN INGLÉS', 14, True, NAR_OSC, TXT)]])
@@ -112,6 +128,24 @@ texto(s, 1.2, 5.35, 11.0, 1.0, [[('¿No tienes un negocio ni un plan? No importa
 texto(s, 0.85, 6.65, 11.6, 0.5, [[('Garantía por escrito: si cumples tu parte y no avanzas en inglés, te devolvemos el 100% del nivel.', 14, True, NAR_OSC, TXT)]])
 s.notes_slide.notes_text_frame.text = ('En A2 el proyecto es una muestra; en B2 se pule. El módulo no es obligatorio: la academia lleva al estudiante a hacerlo, pero la decisión es suya. El mensaje es la exposición, no el negocio: quien no tiene idea hace la página de su perfil profesional o de un proyecto del colegio. '
     'Si preguntan qué es el Refuerzo PRO: se define con cada estudiante al llegar a B2. Nada de precios aquí: eso va en la cita con cada familia.')
+
+# ---------- 2b. TESTIMONIOS (despues del modulo) ----------
+VM = os.path.join(OUT, 'testimonio_maria_alejandra_h264.mp4'); PM = os.path.join(OUT, 'POSTER_testimonio_maria_alejandra.jpg')
+VS = os.path.join(OUT, 'testimonio_sarita_h264.mp4'); PS = os.path.join(OUT, 'POSTER_testimonio_sarita.jpg')
+if os.path.exists(VM) and os.path.exists(VS):
+    s = prs.slides.add_slide(BL); fondo(s, TINTA)
+    texto(s, 0.85, 0.9, 5.2, 0.5, [[('ELLAS YA LO HICIERON', 14, True, AMA, TXT)]])
+    texto(s, 0.85, 1.5, 5.2, 2.4, [[('Dos caminos. ', 40, True, BLANCO, TIT), ('Una misma actitud.', 40, True, AMA, TIT)]])
+    texto(s, 0.85, 3.6, 5.0, 2.4, [
+        [('María Alejandra', 20, True, AMA, TIT)], [('Se fue a Canadá.', 18, False, BLANCO, TXT)],
+        [('Sarita', 20, True, AMA, TIT)], [('Estudia en casa, quiere ser médica y está terminando B2.', 18, False, BLANCO, TXT)],
+    ], espacio=4)
+    s.shapes.add_picture(LOGO, Inches(0.55), Inches(6.35), height=Inches(0.85))
+    vh = 5.9; vw = vh * 720 / 1280
+    s.shapes.add_movie(VM, Inches(5.95), Inches(0.8), Inches(vw), Inches(vh), poster_frame_image=PM, mime_type='video/mp4')
+    s.shapes.add_movie(VS, Inches(5.95 + vw + 0.25), Inches(0.8), Inches(vw), Inches(vh), poster_frame_image=PS, mime_type='video/mp4')
+    s.notes_slide.notes_text_frame.text = ('Primero el de la izquierda (María Alejandra, 57 s), luego el de la derecha (Sarita, 23 s): clic sobre cada video. '
+        'Sin comentarios largos después: dejar que hablen ellas y pasar a la última diapositiva.')
 
 # ---------- 3. PRIMER PASO ----------
 s = prs.slides.add_slide(BL); fondo(s, TINTA)
