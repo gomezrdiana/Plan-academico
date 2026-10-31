@@ -53,7 +53,7 @@ if os.path.exists(VIDEO):
     texto(s, 0.85, 4.75, 7.2, 1.2, [[('Escuchen lo que responde este entrenador.', 22, False, MELOCOTON, TXT)]])
     s.shapes.add_picture(LOGO, Inches(0.55), Inches(6.35), height=Inches(0.85))
     vh = 6.6; vw = vh * 720 / 1280
-    s.shapes.add_movie(VIDEO, Inches(12.5 - vw), Inches(0.45), Inches(vw), Inches(vh), poster_frame_image=POSTER, mime_type='video/mp4')
+    _pic = s.shapes.add_picture(POSTER, Inches(12.5 - vw), Inches(0.45), Inches(vw), Inches(vh)); _pic.name = 'VIDEO::' + os.path.basename(VIDEO)
     s.notes_slide.notes_text_frame.text = ('ABRE LA VISITA. John saluda y, antes de darle play, pregunta al salon: levanten la mano, quien cree que la tecnica? quien cree que la actitud? '
         'Luego play (40 segundos; clic sobre el video). Al terminar, una sola frase: por eso aqui entrenamos las dos, pero empezamos por la actitud. Y pasa a la siguiente diapositiva.')
 
@@ -99,7 +99,7 @@ if os.path.exists(VT):
     ], espacio=12)
     s.shapes.add_picture(LOGO, Inches(0.55), Inches(6.35), height=Inches(0.85))
     vh = 6.6; vw = vh * 478 / 850
-    s.shapes.add_movie(VT, Inches(12.5 - vw), Inches(0.45), Inches(vw), Inches(vh), poster_frame_image=PT, mime_type='video/mp4')
+    _pic = s.shapes.add_picture(PT, Inches(12.5 - vw), Inches(0.45), Inches(vw), Inches(vh)); _pic.name = 'VIDEO::' + os.path.basename(VT)
     s.notes_slide.notes_text_frame.text = ('Play (60 segundos). Al terminar: esto es lo que hacen todos los días. No es perfecto, y no tiene que serlo. '
         'Lo que diferencia a un estudiante no es el talento: es que vuelve a intentarlo con la corrección.')
 
@@ -142,8 +142,8 @@ if os.path.exists(VM) and os.path.exists(VS):
     ], espacio=4)
     s.shapes.add_picture(LOGO, Inches(0.55), Inches(6.35), height=Inches(0.85))
     vh = 5.9; vw = vh * 720 / 1280
-    s.shapes.add_movie(VM, Inches(5.95), Inches(0.8), Inches(vw), Inches(vh), poster_frame_image=PM, mime_type='video/mp4')
-    s.shapes.add_movie(VS, Inches(5.95 + vw + 0.25), Inches(0.8), Inches(vw), Inches(vh), poster_frame_image=PS, mime_type='video/mp4')
+    _pic = s.shapes.add_picture(PM, Inches(5.95), Inches(0.8), Inches(vw), Inches(vh)); _pic.name = 'VIDEO::' + os.path.basename(VM)
+    _pic = s.shapes.add_picture(PS, Inches(5.95 + vw + 0.25), Inches(0.8), Inches(vw), Inches(vh)); _pic.name = 'VIDEO::' + os.path.basename(VS)
     s.notes_slide.notes_text_frame.text = ('Primero el de la izquierda (María Alejandra, 57 s), luego el de la derecha (Sarita, 23 s): clic sobre cada video. '
         'Sin comentarios largos después: dejar que hablen ellas y pasar a la última diapositiva.')
 
