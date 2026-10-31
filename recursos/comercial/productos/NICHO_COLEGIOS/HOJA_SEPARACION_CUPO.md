@@ -6,7 +6,7 @@
 - Programa: Completo A1 → B2 ( )   Otro: ______________________
 - Jornada que le sirve: Mañana ( )   Noche ( )
 
-**Valor de la separación: $______________ (mínimo $150.000).** Se abona a la inicial y congela la beca del Fondo que se asigne en la cita, hasta el inicio del grupo. **No es reembolsable.** Incluye el taller de bienvenida de 2 horas en diciembre (solo para quienes separan en esta visita). La cita con la familia se concreta a más tardar el miércoles 4 de noviembre.
+**Valor de la separación: $______________ (mínimo $150.000).** Se abona a la inicial y congela la beca del Fondo que se asigne en la cita, hasta el inicio del grupo. **No es reembolsable.** Incluye el taller de bienvenida de 2 horas el martes 1 de diciembre (solo para quienes separan en esta visita). La cita con la familia se concreta a más tardar el miércoles 4 de noviembre.
 
 Pago con el QR de pagos de Heiiu · Referencia: ______________   Fecha: ____ / ____ / ________
 
@@ -24,7 +24,7 @@ Recibe (Heiiu): ______________________________
 - Programa: Completo A1 → B2 ( )   Otro: ______________________
 - Jornada que le sirve: Mañana ( )   Noche ( )
 
-**Valor de la separación: $______________ (mínimo $150.000).** Se abona a la inicial y congela la beca del Fondo que se asigne en la cita, hasta el inicio del grupo. **No es reembolsable.** Incluye el taller de bienvenida de 2 horas en diciembre (solo para quienes separan en esta visita). La cita con la familia se concreta a más tardar el miércoles 4 de noviembre.
+**Valor de la separación: $______________ (mínimo $150.000).** Se abona a la inicial y congela la beca del Fondo que se asigne en la cita, hasta el inicio del grupo. **No es reembolsable.** Incluye el taller de bienvenida de 2 horas el martes 1 de diciembre (solo para quienes separan en esta visita). La cita con la familia se concreta a más tardar el miércoles 4 de noviembre.
 
 Pago con el QR de pagos de Heiiu · Referencia: ______________   Fecha: ____ / ____ / ________
 
