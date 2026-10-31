@@ -12,7 +12,7 @@ En 2014, David Yeager y sus colegas (Stanford y Columbia) hicieron un experiment
  expectations and I know that you can reach them."
 ```
 
-A la otra mitad, una nota neutra: "te doy estos comentarios para que tengas retroalimentación sobre tu trabajo". Los que recibieron la primera nota volvieron a escribir el ensayo mucho más, y con más correcciones, que los demás.
+A la otra mitad, una nota neutra: "te doy estos comentarios para que tengas retroalimentación sobre tu trabajo". Los que recibieron la primera nota decidieron volver a escribir el ensayo en una proporción mucho mayor que los demás, y en un segundo estudio hicieron más del doble de correcciones.
 
 **Por qué funciona:** a un joven no le molesta que lo corrijan; le molesta sentir que lo corrigen porque no cree en él. La nota le dice dos cosas a la vez: *te exijo* y *creo que puedes*. Exigencia alta con apoyo alto. Eso es Heiiu, y es lo que tú haces en cada clase cuando corriges.
 
@@ -44,8 +44,8 @@ A la otra mitad, una nota neutra: "te doy estos comentarios para que tengas retr
 "Ahora les comparto una frase de un estudio que cita Adam Grant.
 A unos estudiantes les devolvieron sus trabajos corregidos con una
 nota encima: te hago estos comentarios porque tengo expectativas
-muy altas y sé que puedes alcanzarlas. Esos estudiantes volvieron
-a hacer el trabajo mucho más que los demás.
+muy altas y sé que puedes alcanzarlas. Muchos más de esos
+estudiantes decidieron volver a hacer su trabajo.
 
 Eso es lo que hacemos en Heiiu. Como papás, todos queremos proteger
 a nuestros hijos, y está bien. Y a todos nos gusta lo fácil. En
@@ -88,7 +88,7 @@ Salón:  "Hi, my name is..."
 ```
 
 No traduces al español: el gesto hace el trabajo.
-3. **Modelo (2 min).** Respóndete tú la entrevista completa, mirando a los papás. Luego pregunta a todo el salón, frase por frase ("What's your name?", "What are you good at?"); responde el salón a la vez.
+3. **Modelo (2 min).** Tú haces la entrevista primero: dices las cuatro frases con tus datos reales, de frente al salón, como si fuera una entrevista de verdad. Así todos oyen cómo suena antes de intentarlo. Luego pregunta a todo el salón, frase por frase ("What's your name?", "What are you good at?"); responde el salón a la vez.
 4. **Parejas (3 min).** "Turn to your partner. You are the interviewer, you are the candidate." A los 90 segundos cambian de rol. Camina y corrige en voz baja.
 5. **Al frente (5 min).** Pide 4 voluntarios; si nadie levanta la mano, escoge a los que viste más seguros. Haz de entrevistador, serio y real: "Good morning. Please sit down. Tell me about yourself." Aplauso después de cada uno. A los que se notan fuertes, una pregunta sin diapositiva: "Why should we hire you and not another person?"
 6. **Si ya saben inglés:** los fuertes pasan a ser los entrevistadores de las parejas, y a ellos les toca la pregunta sin diapositiva. Ahí se ve que saber inglés del colegio no es lo mismo que hablarlo bajo presión.

@@ -67,7 +67,7 @@ texto(s, 0.85, 5.95, 11.0, 0.9, [[('Aquí no te lo vamos a poner fácil. Vamos a
 texto(s, 0.85, 6.75, 11.0, 0.4, [[('Frase de un estudio con estudiantes de colegio que cita Adam Grant.', 12, False, RGBColor(0xB8, 0xA8, 0x9A), TXT)]])
 s.notes_slide.notes_text_frame.text = (
  'DESPUES DEL VIDEO, 2 minutos. El profesor, de pie, despacio:\n'
- '"Y ahora les comparto una frase de un estudio que cita Adam Grant. A unos estudiantes les devolvieron sus trabajos corregidos con una nota encima: te hago estos comentarios porque tengo expectativas muy altas y sé que puedes alcanzarlas. Esos estudiantes volvieron a hacer el trabajo mucho más que los demás.\n'
+ '"Y ahora les comparto una frase de un estudio que cita Adam Grant. A unos estudiantes les devolvieron sus trabajos corregidos con una nota encima: te hago estos comentarios porque tengo expectativas muy altas y sé que puedes alcanzarlas. Muchos más de esos estudiantes decidieron volver a hacer su trabajo.\n'
  'Eso es lo que hacemos en Heiiu. Como papás, todos queremos proteger a nuestros hijos, y está bien. Y a todos nos gusta lo fácil. En nuestros años de academia lo hemos visto, y por eso nuestro programa cambió.\n'
  'Hoy trabajamos con estudiantes que quieren estar rodeados de gente como ellos: no el que está pegado al celular, no el que está porque el papá lo mandó, sino el que sabe que va a ser difícil y que lo va a lograr.\n'
  'Les vamos a sacar de la zona de confort. Se van a aburrir algunos días y van a encontrar la motivación otra vez. Les va a tocar hacer tareas todos los días, y son esos hábitos los que los van a diferenciar.\n'
