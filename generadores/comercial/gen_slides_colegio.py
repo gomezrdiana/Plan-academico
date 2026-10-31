@@ -19,7 +19,7 @@ TIT = 'Arial Rounded MT Bold'; TXT = 'Arial'
 
 TXT_WA = 'Hola, vengo de la visita de Heiiu a la UTS y quiero referir a un amigo para estudiar inglés. Código: REF-UTS'
 QR = os.path.join(OUT, 'QR_REF-UTS.png')
-qrcode.make('https://wa.me/5715521390?text=' + urllib.parse.quote(TXT_WA), box_size=14, border=1).save(QR)
+qrcode.make('https://wa.me/573167688793?text=' + urllib.parse.quote(TXT_WA), box_size=14, border=1).save(QR)
 
 prs = Presentation(); prs.slide_width = Inches(13.333); prs.slide_height = Inches(7.5)
 BL = prs.slide_layouts[6]
@@ -102,6 +102,6 @@ s.shapes.add_picture(QR, Inches(8.85), Inches(1.3), width=Inches(3.4))
 texto(s, 8.55, 4.95, 4.0, 0.5, [[('Código REF-UTS', 18, True, NAR_OSC, TIT)]], align=PP_ALIGN.CENTER)
 s.shapes.add_picture(LOGO, Inches(0.55), Inches(6.35), height=Inches(0.85))
 texto(s, 2.25, 6.6, 6, 0.4, [[('heiiu · english academy', 14, False, MELOCOTON, TXT)]])
-s.notes_slide.notes_text_frame.text = 'El QR abre el WhatsApp del agente con el mensaje de la UTS y el código REF-UTS. Dejar la diapositiva proyectada hasta que escaneen. El bono se paga cuando el amigo paga la inicial y asiste a la clase 5. Ningún dato del amigo se pide en el salón: el estudiante le avisa y el amigo escribe.'
+s.notes_slide.notes_text_frame.text = 'Decir en voz alta: escaneen y envíen el mensaje tal como sale, sin borrarlo. El QR abre el WhatsApp de John con el mensaje de la UTS y el código REF-UTS. Dejar la diapositiva proyectada hasta que escaneen. El bono se paga cuando el amigo paga la inicial y asiste a la clase 5. Ningún dato del amigo se pide en el salón: el estudiante le avisa y el amigo escribe.'
 
 path = os.path.join(OUT, os.environ.get('SLIDES_OUT', 'SLIDES_COLEGIO_3.pptx')); prs.save(path); print('OK', path, os.path.getsize(path))
