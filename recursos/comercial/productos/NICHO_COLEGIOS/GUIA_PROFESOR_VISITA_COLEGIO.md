@@ -20,6 +20,24 @@ A la otra mitad, una nota neutra: "te doy estos comentarios para que tengas retr
 
 *Fuente: Yeager et al. (2014), Journal of Experimental Psychology: General, p. 809.*
 
+## 1b. LAS 4 VIRTUDES: POR QUÉ LAS ENSEÑAMOS (léelo antes de la diapositiva 4)
+
+**Qué son.** Las cuatro virtudes cardinales: **sabiduría, coraje, templanza y justicia**. Rotan semana a semana y cada clase abre con la virtud de la semana, en un ritual corto.
+
+**Por qué son importantes para nosotros y para la vida del estudiante:**
+
+1. **El inglés se aprende en cientos de días, no en una clase.** Lo que hace que un estudiante llegue al final no es el talento: es el carácter. Las virtudes son ese carácter con nombre.
+2. **Es lo primero que nota cualquiera que lo evalúe**, antes que su nivel: una universidad, un empleador, una familia anfitriona. Que hable con seguridad, que cumpla, que controle el genio, que trabaje en equipo.
+3. **Le sirven para toda la vida.** El que aprende a hacer lo difícil cuando no tiene ganas lo hace también en la universidad, en el trabajo y en su casa, mucho después de terminar el curso.
+4. **Es lo que nos diferencia:** no vendemos inglés; formamos personas que hablan inglés.
+
+| Virtud | Cómo se ve en el aula |
+|---|---|
+| Coraje | Hablar frente a otros aunque dé miedo; equivocarse en público y volver a intentar |
+| Templanza | Hacer la tarea todos los días aunque aburra; paciencia con el propio ritmo |
+| Sabiduría | Pensar antes de responder; planear el estudio; decidir bien |
+| Justicia | Escuchar al compañero, ayudar al que va atrás, trabajar en equipo |
+
 ## 2. EL ORDEN, MINUTO A MINUTO
 
 | Diap. | Qué pasa | Quién | Min |
@@ -95,7 +113,17 @@ No traduces al español: el gesto hace el trabajo. **Siempre empiezas por la pre
 
 **Reglas de la actividad:** no corriges en público a quien está al frente (repites la frase bien, como eco, y sigues). Si alguien se bloquea, le señalas la frase en la pantalla y esperas; nunca terminas la frase por él.
 
-**Diapositiva 4.** Después del aplauso. La lees en voz alta, despacio, mirando a los estudiantes: "Lo que acaban de hacer se llama coraje…"
+**Diapositiva 4 (1 min).** Después del aplauso. La lees en voz alta, despacio, mirando a los estudiantes, y sigues:
+
+```
+"Lo que acaban de hacer se llama coraje. Es una de las cuatro
+virtudes cardinales que trabajamos en cada clase: sabiduría,
+coraje, templanza y justicia. ¿Por qué? Porque el inglés se aprende
+en cientos de días, y lo que hace que alguien llegue al final no es
+el talento: es el carácter. Y ese carácter les va a servir para la
+universidad, el trabajo y la vida, mucho después de terminar el
+curso."
+```
 
 **Diapositiva 5.** El video arranca solo (1 minuto). Al terminar: "Esto es lo que hacen todos los días. No es perfecto, y no tiene que serlo. Lo que diferencia a un estudiante no es el talento: es que vuelve a intentarlo con la corrección." (Es el estudio de la diapositiva 2, en la vida real.)
 

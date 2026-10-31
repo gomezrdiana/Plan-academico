@@ -104,7 +104,7 @@ texto(s, 0.85, 4.25, 9.5, 1.8, [
     [('Eso no se aprende en un cuaderno: ', 22, True, BLANCO, TXT), ('se entrena.', 22, True, AMA, TXT)],
 ], espacio=10)
 texto(s, 0.85, 6.65, 9.5, 0.5, [[('Salir de la zona de confort es el primer paso de todo lo que vale la pena.', 14, False, MELOCOTON, TXT)]])
-s.notes_slide.notes_text_frame.text = 'Después del aplauso de la actividad. El profesor la lee en voz alta, despacio, mirando a los estudiantes.'
+s.notes_slide.notes_text_frame.text = 'Después del aplauso de la actividad. El profesor la lee en voz alta, despacio, y sigue: Es una de las cuatro virtudes cardinales que trabajamos en cada clase: sabiduría, coraje, templanza y justicia. ¿Por qué? Porque el inglés se aprende en cientos de días, y lo que hace que alguien llegue al final no es el talento: es el carácter. Y ese carácter les va a servir para la universidad, el trabajo y la vida. (Ver el cuadro de las virtudes en la guía.)'
 
 # ---------- 1b. VIDEO TAREA (despues de coraje) ----------
 VT = os.path.join(OUT, 'tarea_estudiante_b1_60s_h264.mp4'); PT = os.path.join(OUT, 'POSTER_tarea_estudiante_b1_60s.jpg')
