@@ -17,9 +17,9 @@ CREMA = RGBColor(0xFF, 0xF8, 0xE7); BLANCO = RGBColor(0xFF, 0xFD, 0xF7); TINTA =
 GRIS = RGBColor(0x5A, 0x46, 0x36); MELOCOTON = RGBColor(0xFF, 0xE9, 0xD6)
 TIT = 'Arial Rounded MT Bold'; TXT = 'Arial'
 
-TXT_WA = 'Hola, vi la clase de Heiiu en mi colegio y quiero agendar mi cita. Código de asesor: COL-01'
-QR = os.path.join(OUT, 'QR_COL-01.png')
-qrcode.make('https://wa.me/573167688793?text=' + urllib.parse.quote(TXT_WA), box_size=14, border=1).save(QR)
+TXT_WA = 'Hola, vengo de la visita de Heiiu a la UTS y quiero referir a un amigo para estudiar inglés. Código: REF-UTS'
+QR = os.path.join(OUT, 'QR_REF-UTS.png')
+qrcode.make('https://wa.me/5715521390?text=' + urllib.parse.quote(TXT_WA), box_size=14, border=1).save(QR)
 
 prs = Presentation(); prs.slide_width = Inches(13.333); prs.slide_height = Inches(7.5)
 BL = prs.slide_layouts[6]
@@ -85,8 +85,8 @@ s.notes_slide.notes_text_frame.text = ('En A2 el proyecto es una muestra; en B2 
 
 # ---------- 3. PRIMER PASO ----------
 s = prs.slides.add_slide(BL); fondo(s, NAR)
-texto(s, 0.85, 0.7, 7.2, 1.3, [[('Da el primer paso ', 46, True, BLANCO, TIT), ('hoy.', 46, True, AMA, TIT)]])
-pasos = ['Escanea el código', 'Escríbenos por WhatsApp', 'Agenda tu cita con tu familia']
+texto(s, 0.85, 0.7, 7.4, 1.6, [[('Trae a un amigo a estudiar ', 40, True, BLANCO, TIT), ('contigo.', 40, True, AMA, TIT)]])
+pasos = ['Escanea el código', 'Cuéntanos a quién traes', 'Cuando se matricule, ganas $150.000']
 for i, t in enumerate(pasos):
     y = 2.3 + i * 0.95
     c = forma(s, MSO_SHAPE.OVAL, 0.85, y, 0.68, 0.68, AMA)
@@ -94,14 +94,14 @@ for i, t in enumerate(pasos):
     r = p.add_run(); r.text = str(i + 1); r.font.size = Pt(22); r.font.bold = True; r.font.name = TIT; r.font.color.rgb = NAR_OSC
     texto(s, 1.8, y, 6.2, 0.68, [[(t, 24, True, BLANCO, TXT)]], anchor=MSO_ANCHOR.MIDDLE)
 texto(s, 0.85, 5.3, 7.0, 0.9, [
-    [('Con el código de tu asesora puedes aplicar a una beca.', 15, True, BLANCO, TXT)],
-    [('Afiliados a Cajasan: condiciones especiales con carné o certificado vigente.', 13, False, MELOCOTON, TXT)],
+    [('Tu bono de $150.000 por cada amigo que se matricule.', 15, True, BLANCO, TXT)],
+    [('Aplican términos del programa de referidos.', 13, False, MELOCOTON, TXT)],
 ], espacio=4)
 forma(s, MSO_SHAPE.ROUNDED_RECTANGLE, 8.55, 1.0, 4.0, 4.75, BLANCO, 0.07)
 s.shapes.add_picture(QR, Inches(8.85), Inches(1.3), width=Inches(3.4))
-texto(s, 8.55, 4.95, 4.0, 0.5, [[('Código COL-01', 18, True, NAR_OSC, TIT)]], align=PP_ALIGN.CENTER)
+texto(s, 8.55, 4.95, 4.0, 0.5, [[('Código REF-UTS', 18, True, NAR_OSC, TIT)]], align=PP_ALIGN.CENTER)
 s.shapes.add_picture(LOGO, Inches(0.55), Inches(6.35), height=Inches(0.85))
-texto(s, 2.25, 6.6, 6, 0.4, [[('Gerente de Alianzas · 316 768 8793', 14, False, MELOCOTON, TXT)]])
-s.notes_slide.notes_text_frame.text = 'Dejar esta diapositiva proyectada hasta que el último estudiante haya escaneado. Esa misma noche alguien responde cada mensaje que llegue con COL-01.'
+texto(s, 2.25, 6.6, 6, 0.4, [[('heiiu · english academy', 14, False, MELOCOTON, TXT)]])
+s.notes_slide.notes_text_frame.text = 'El QR abre el WhatsApp del agente con el mensaje de la UTS y el código REF-UTS. Dejar la diapositiva proyectada hasta que escaneen. El bono se paga cuando el amigo paga la inicial y asiste a la clase 5. Ningún dato del amigo se pide en el salón: el estudiante le avisa y el amigo escribe.'
 
 path = os.path.join(OUT, os.environ.get('SLIDES_OUT', 'SLIDES_COLEGIO_3.pptx')); prs.save(path); print('OK', path, os.path.getsize(path))
