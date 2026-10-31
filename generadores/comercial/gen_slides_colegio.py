@@ -44,6 +44,23 @@ def texto(s, x, y, w, h, runs_por_parrafo, align=PP_ALIGN.LEFT, anchor=MSO_ANCHO
             r = p.add_run(); r.text = t; r.font.size = Pt(size); r.font.bold = bold; r.font.color.rgb = color; r.font.name = font
     return tb
 
+# ---------- 0. APERTURA (antes de la clase) ----------
+s = prs.slides.add_slide(BL); fondo(s, TINTA)
+s.shapes.add_picture(LOGO, Inches(0.55), Inches(0.35), height=Inches(1.1))
+texto(s, 0.85, 1.75, 11.6, 2.6, [[('“I’m giving you these comments because I have ', 34, True, BLANCO, TIT), ('very high expectations', 34, True, AMA, TIT), (' and I know that you can reach them.”', 34, True, BLANCO, TIT)]])
+texto(s, 0.85, 4.35, 11.0, 1.2, [[('“Te hago estos comentarios porque tengo expectativas muy altas y sé que puedes alcanzarlas.”', 20, False, MELOCOTON, TXT)]])
+forma(s, MSO_SHAPE.RECTANGLE, 0.85, 5.75, 1.2, 0.07, NAR)
+texto(s, 0.85, 5.95, 11.0, 0.9, [[('Aquí no te lo vamos a poner fácil. Vamos a estar contigo hasta que lo logres.', 20, True, BLANCO, TXT)]])
+texto(s, 0.85, 6.75, 11.0, 0.4, [[('Frase de un estudio con estudiantes de colegio que cita Adam Grant.', 12, False, RGBColor(0xB8, 0xA8, 0x9A), TXT)]])
+s.notes_slide.notes_text_frame.text = (
+ 'APERTURA, 2 minutos, antes de la clase. John, de pie, despacio:\n'
+ '"Buenos días. Les voy a empezar con una frase de un estudio que cita Adam Grant. A unos estudiantes les devolvieron sus trabajos corregidos con una nota encima: te hago estos comentarios porque tengo expectativas muy altas y sé que puedes alcanzarlas. Esos estudiantes volvieron a hacer el trabajo mucho más que los demás.\n'
+ 'Eso es lo que hacemos en Heiiu. Como papás, todos queremos proteger a nuestros hijos, y está bien. Y a todos nos gusta lo fácil. En nuestros años de academia lo hemos visto, y por eso nuestro programa cambió.\n'
+ 'Hoy trabajamos con estudiantes que quieren estar rodeados de gente como ellos: no el que está pegado al celular, no el que está porque el papá lo mandó, sino el que sabe que va a ser difícil y que lo va a lograr.\n'
+ 'Les vamos a sacar de la zona de confort. Se van a aburrir algunos días y van a encontrar la motivación otra vez. Les va a tocar hacer tareas todos los días, y son esos hábitos los que los van a diferenciar.\n'
+ 'No les vamos a prometer que es fácil. Les prometemos que vamos a estar ahí hasta que lo logren. Y para que lo vean, en vez de explicarles, vamos a hacerlo ya."\n'
+ 'Y le pasa la palabra a Juan Diego para la clase.')
+
 # ---------- 1. CORAJE ----------
 s = prs.slides.add_slide(BL); fondo(s, NAR)
 forma(s, MSO_SHAPE.RECTANGLE, 10.6, 0, 2.75, 7.5, RGBColor(0xFF, 0x6A, 0x2A))
