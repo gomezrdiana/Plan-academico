@@ -70,7 +70,24 @@ explicarles, vamos a hacerlo ya."
 **Diapositiva 3: la actividad (15 min).** La diapositiva reemplaza el tablero: queda proyectada todo el tiempo.
 
 1. **El gancho (1 min).** En inglés, con gestos: "Imagine. It's next year. You have a job interview by video call with a company from another country. The interviewer says: Tell me about yourself. Ready?"
-2. **Coro (3 min).** Lee cada frase despacio; el salón la repite en coro dos veces. Actúala con gestos. No traduzcas.
+2. **Coro (3 min).** Coro = tú lees una frase en voz alta y todo el salón la repite junto, al mismo tiempo, dos veces. Nadie habla solo, así nadie siente vergüenza. Mientras la lees, haces con las manos lo que significa, para que la entiendan sin traducir:
+
+| Frase | Gesto mientras la dices |
+|---|---|
+| Hi, my name is ____ | Saludas con la mano y te tocas el pecho en "my name" |
+| I'm from Bucaramanga, Colombia | Señalas hacia afuera, hacia la ciudad |
+| I'm good at ____ | Pulgar arriba y un ejemplo: "computers", "football" |
+| I can ____ | Imitas lo que dices: "I can draw" y haces que dibujas |
+| I want this job because ____ | Señalas la pantalla como si fuera la empresa |
+
+```
+Tú:     "Hi, my name is... (tu nombre)."  (saludas, te tocas el pecho)
+Salón:  "Hi, my name is..."
+Tú:     "Again!"
+Salón:  "Hi, my name is..."
+```
+
+No traduces al español: el gesto hace el trabajo.
 3. **Modelo (2 min).** Respóndete tú la entrevista completa, mirando a los papás. Luego pregunta a todo el salón, frase por frase ("What's your name?", "What are you good at?"); responde el salón a la vez.
 4. **Parejas (3 min).** "Turn to your partner. You are the interviewer, you are the candidate." A los 90 segundos cambian de rol. Camina y corrige en voz baja.
 5. **Al frente (5 min).** Pide 4 voluntarios; si nadie levanta la mano, escoge a los que viste más seguros. Haz de entrevistador, serio y real: "Good morning. Please sit down. Tell me about yourself." Aplauso después de cada uno. A los que se notan fuertes, una pregunta sin diapositiva: "Why should we hire you and not another person?"
