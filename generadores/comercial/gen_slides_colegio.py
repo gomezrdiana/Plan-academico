@@ -54,7 +54,7 @@ if os.path.exists(VIDEO):
     s.shapes.add_picture(LOGO, Inches(0.55), Inches(6.35), height=Inches(0.85))
     vh = 6.6; vw = vh * 720 / 1280
     _pic = s.shapes.add_picture(POSTER, Inches(12.5 - vw), Inches(0.45), Inches(vw), Inches(vh)); _pic.name = 'VIDEO::' + os.path.basename(VIDEO)
-    s.notes_slide.notes_text_frame.text = ('ABRE LA VISITA. John saluda y, antes de darle play, pregunta al salon: levanten la mano, quien cree que la tecnica? quien cree que la actitud? '
+    s.notes_slide.notes_text_frame.text = ('ABRE LA VISITA. El profesor saluda y, antes de pasar a esta diapositiva, pregunta al salon: levanten la mano, quien cree que la tecnica? quien cree que la actitud? '
         'Luego play (40 segundos; clic sobre el video). Al terminar, una sola frase: por eso aqui entrenamos las dos, pero empezamos por la actitud. Y pasa a la siguiente diapositiva.')
 
 # ---------- 0. APERTURA (despues del video, antes de la clase) ----------
@@ -66,13 +66,33 @@ forma(s, MSO_SHAPE.RECTANGLE, 0.85, 5.75, 1.2, 0.07, NAR)
 texto(s, 0.85, 5.95, 11.0, 0.9, [[('Aquí no te lo vamos a poner fácil. Vamos a estar contigo hasta que lo logres.', 20, True, BLANCO, TXT)]])
 texto(s, 0.85, 6.75, 11.0, 0.4, [[('Frase de un estudio con estudiantes de colegio que cita Adam Grant.', 12, False, RGBColor(0xB8, 0xA8, 0x9A), TXT)]])
 s.notes_slide.notes_text_frame.text = (
- 'DESPUES DEL VIDEO, 2 minutos, antes de la clase. John, de pie, despacio:\n'
+ 'DESPUES DEL VIDEO, 2 minutos. El profesor, de pie, despacio:\n'
  '"Y ahora les comparto una frase de un estudio que cita Adam Grant. A unos estudiantes les devolvieron sus trabajos corregidos con una nota encima: te hago estos comentarios porque tengo expectativas muy altas y sé que puedes alcanzarlas. Esos estudiantes volvieron a hacer el trabajo mucho más que los demás.\n'
  'Eso es lo que hacemos en Heiiu. Como papás, todos queremos proteger a nuestros hijos, y está bien. Y a todos nos gusta lo fácil. En nuestros años de academia lo hemos visto, y por eso nuestro programa cambió.\n'
  'Hoy trabajamos con estudiantes que quieren estar rodeados de gente como ellos: no el que está pegado al celular, no el que está porque el papá lo mandó, sino el que sabe que va a ser difícil y que lo va a lograr.\n'
  'Les vamos a sacar de la zona de confort. Se van a aburrir algunos días y van a encontrar la motivación otra vez. Les va a tocar hacer tareas todos los días, y son esos hábitos los que los van a diferenciar.\n'
  'No les vamos a prometer que es fácil. Les prometemos que vamos a estar ahí hasta que lo logren. Y para que lo vean, en vez de explicarles, vamos a hacerlo ya."\n'
- 'Y le pasa la palabra a Juan Diego para la clase.')
+ 'Y pasa a la diapositiva de la actividad.')
+
+# ---------- 0c. ACTIVIDAD (antes de coraje) ----------
+s = prs.slides.add_slide(BL); fondo(s, TINTA)
+texto(s, 0.85, 0.6, 8, 0.4, [[('AHORA USTEDES', 14, True, AMA, TXT)]])
+texto(s, 0.85, 1.0, 11.6, 1.0, [[('¡Listo! ', 44, True, AMA, TIT), ('Hagamos una actividad.', 44, True, BLANCO, TIT)]])
+texto(s, 0.85, 1.95, 11.6, 0.6, [[('Tu primera entrevista de trabajo, por videollamada, con una empresa de afuera.', 20, False, MELOCOTON, TXT)]])
+frases = [('Hi, my name is ', '______', '. I’m from Bucaramanga, Colombia.'),
+          ('I’m good at ', '______', '.'),
+          ('I can ', '______', '.'),
+          ('I want this job because ', '______', '.')]
+for i, (a, b, c) in enumerate(frases):
+    y = 2.8 + i * 0.95
+    forma(s, MSO_SHAPE.ROUNDED_RECTANGLE, 0.85, y, 11.6, 0.8, CREMA, 0.25)
+    n = forma(s, MSO_SHAPE.OVAL, 1.05, y + 0.12, 0.56, 0.56, NAR)
+    tf = n.text_frame; tf.margin_left = tf.margin_right = 0; pp = tf.paragraphs[0]; pp.alignment = PP_ALIGN.CENTER
+    r = pp.add_run(); r.text = str(i + 1); r.font.size = Pt(18); r.font.bold = True; r.font.name = TIT; r.font.color.rgb = BLANCO
+    texto(s, 1.9, y, 10.3, 0.8, [[(a, 26, True, TINTA, TIT), (b, 26, True, NAR_OSC, TIT), (c, 26, True, TINTA, TIT)]], anchor=MSO_ANCHOR.MIDDLE)
+s.shapes.add_picture(LOGO, Inches(11.3), Inches(0.35), height=Inches(0.75))
+s.notes_slide.notes_text_frame.text = ('ACTIVIDAD, 15 minutos (ver la guía del profesor). Esta diapositiva reemplaza el tablero: queda proyectada toda la actividad. '
+    'Coro, modelo, parejas y 4 voluntarios al frente. Cierra con aplauso y pasa a la siguiente.')
 
 # ---------- 1. CORAJE ----------
 s = prs.slides.add_slide(BL); fondo(s, TINTA)
@@ -85,7 +105,7 @@ texto(s, 0.85, 4.25, 9.5, 1.8, [
     [('Eso no se aprende en un cuaderno: ', 22, True, BLANCO, TXT), ('se entrena.', 22, True, AMA, TXT)],
 ], espacio=10)
 texto(s, 0.85, 6.65, 9.5, 0.5, [[('Salir de la zona de confort es el primer paso de todo lo que vale la pena.', 14, False, MELOCOTON, TXT)]])
-s.notes_slide.notes_text_frame.text = 'Juan Diego cierra la clase con aplauso y pasa directo a esta. John la lee en voz alta, despacio, mirando a los estudiantes.'
+s.notes_slide.notes_text_frame.text = 'Después del aplauso de la actividad. El profesor la lee en voz alta, despacio, mirando a los estudiantes.'
 
 # ---------- 1b. VIDEO TAREA (despues de coraje) ----------
 VT = os.path.join(OUT, 'tarea_estudiante_b1_60s_h264.mp4'); PT = os.path.join(OUT, 'POSTER_tarea_estudiante_b1_60s.jpg')
@@ -166,6 +186,6 @@ s.shapes.add_picture(QR, Inches(8.85), Inches(1.3), width=Inches(3.4))
 texto(s, 8.55, 4.95, 4.0, 0.5, [[('Código REF-UTS', 18, True, NAR_OSC, TIT)]], align=PP_ALIGN.CENTER)
 s.shapes.add_picture(LOGO, Inches(0.55), Inches(6.35), height=Inches(0.85))
 texto(s, 2.25, 6.6, 6, 0.4, [[('heiiu · english academy', 14, False, MELOCOTON, TXT)]])
-s.notes_slide.notes_text_frame.text = 'Decir en voz alta: escaneen y envíen el mensaje tal como sale, sin borrarlo. El QR abre el WhatsApp de John con el mensaje de la UTS y el código REF-UTS. Dejar la diapositiva proyectada hasta que escaneen. El bono se paga cuando el amigo paga la inicial y asiste a la clase 5. Ningún dato del amigo se pide en el salón: el estudiante le avisa y el amigo escribe.'
+s.notes_slide.notes_text_frame.text = 'REMATA EL GERENTE DE ALIANZAS. Decir en voz alta: escaneen y envíen el mensaje tal como sale, sin borrarlo. El QR abre el WhatsApp del Gerente de Alianzas con el mensaje de la UTS y el código REF-UTS. Dejar la diapositiva proyectada hasta que escaneen. El bono se paga cuando el amigo paga la inicial y asiste a la clase 5. Ningún dato del amigo se pide en el salón: el estudiante le avisa y el amigo escribe.'
 
 path = os.path.join(OUT, os.environ.get('SLIDES_OUT', 'SLIDES_COLEGIO_3.pptx')); prs.save(path); print('OK', path, os.path.getsize(path))
