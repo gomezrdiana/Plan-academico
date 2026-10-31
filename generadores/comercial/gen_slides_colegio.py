@@ -64,7 +64,7 @@ texto(s, 0.85, 0.95, 11.8, 0.9, [[('En el A2 eliges y construyes tu ', 32, True,
 cards = [
     ('Ruta Emprendedor', 'Sales con tu página web publicada y tu primer mensaje de venta en inglés.', NAR),
     ('Ruta Pasaporte', 'Tu postulación a programas en el exterior lista, tu video de presentación y tu entrevista ensayada.', AMA),
-    ('En B2 lo pules', 'Lo que hiciste en A2 se vuelve profesional, con el Refuerzo PRO al final.', NAR),
+    ('En B2 lo pules', 'Networking, entrevistas, presentar una idea, negociación, pedir un aumento, tu pitch y un simulacro de jornada de trabajo.', NAR),
 ]
 x = 0.85; w = 3.7; gap = 0.25
 for i, (t, d, c) in enumerate(cards):
