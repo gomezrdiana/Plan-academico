@@ -59,8 +59,8 @@ s.notes_slide.notes_text_frame.text = 'Juan Diego cierra la clase con aplauso y 
 
 # ---------- 2. MODULO DE GRADUACION ----------
 s = prs.slides.add_slide(BL); fondo(s, CREMA)
-texto(s, 0.85, 0.55, 8, 0.4, [[('ASÍ TERMINA TU NIVEL', 14, True, NAR_OSC, TXT)]])
-texto(s, 0.85, 0.95, 11.8, 0.9, [[('Al terminar A2 eliges tu ', 32, True, TINTA, TIT), ('Módulo de Graduación.', 32, True, NAR_OSC, TIT)]])
+texto(s, 0.85, 0.55, 8, 0.4, [[('TU PROYECTO EN INGLÉS', 14, True, NAR_OSC, TXT)]])
+texto(s, 0.85, 0.95, 11.8, 0.9, [[('En el A2 eliges y construyes tu ', 32, True, TINTA, TIT), ('Módulo de Graduación.', 32, True, NAR_OSC, TIT)]])
 cards = [
     ('Ruta Emprendedor', 'Sales con tu página web publicada y tu primer mensaje de venta en inglés.', NAR),
     ('Ruta Pasaporte', 'Tu postulación a programas en el exterior lista, tu video de presentación y tu entrevista ensayada.', AMA),
@@ -104,4 +104,4 @@ s.shapes.add_picture(LOGO, Inches(0.55), Inches(6.35), height=Inches(0.85))
 texto(s, 2.25, 6.6, 6, 0.4, [[('Gerente de Alianzas · 316 768 8793', 14, False, MELOCOTON, TXT)]])
 s.notes_slide.notes_text_frame.text = 'Dejar esta diapositiva proyectada hasta que el último estudiante haya escaneado. Esa misma noche alguien responde cada mensaje que llegue con COL-01.'
 
-path = os.path.join(OUT, 'SLIDES_COLEGIO_3.pptx'); prs.save(path); print('OK', path, os.path.getsize(path))
+path = os.path.join(OUT, os.environ.get('SLIDES_OUT', 'SLIDES_COLEGIO_3.pptx')); prs.save(path); print('OK', path, os.path.getsize(path))
