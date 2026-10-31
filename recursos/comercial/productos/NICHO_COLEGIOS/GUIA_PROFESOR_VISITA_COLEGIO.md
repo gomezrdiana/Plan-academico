@@ -132,7 +132,7 @@ curso."
 
 **Diapositiva 7.** Clic en el video de la izquierda; cuando termine, clic en el de la derecha. Sin comentario largo después: deja que hablen ellas y pasa la palabra: "Les dejo con el Gerente de Alianzas."
 
-**Diapositiva 8 (Gerente de Alianzas): lo que cuesta.** Lee los dos rangos tal como están. Cierre: "Hoy pueden separar el cupo con $50.000: congelan la beca y se abona a la inicial. Mañana la asesora los llama para la cita con la familia, donde se asigna la beca exacta." La hoja de separación y el pago (QR o transferencia) están en la mesa: se llenan ahí mismo.
+**Diapositiva 8 (Gerente de Alianzas): lo que cuesta.** Lee los dos rangos tal como están. Cierre: "Hoy pueden separar el cupo desde $150.000. Es lo que cuesta una salida a comer para dos, un día; aprender inglés es un mundo de oportunidades. Con eso congelan la beca hasta el inicio del grupo y se abona a la inicial. Si necesitan financiación, yo les ayudo a buscarla. La cita con la familia la concretamos a más tardar el miércoles, porque el lunes es festivo." La hoja de separación y el QR de pagos están en la mesa: se llenan y se pagan ahí mismo. La separación no se devuelve; se dice con claridad antes de firmar.
 
 **Diapositiva 9 (Gerente de Alianzas): referidos.** "Escaneen y envíen el mensaje tal como sale, sin borrarlo." Diapositiva proyectada hasta que escaneen. En el salón no se piden datos de amigos: el estudiante le avisa a su amigo y el amigo escribe.
 
@@ -151,8 +151,8 @@ curso."
 - [ ] Llevar parlante: el sonido del computador no alcanza para un salón.
 - [ ] Cable HDMI y adaptador. Copia del PowerPoint en una USB.
 - [ ] Escanear el QR de la diapositiva 8 con un celular: debe abrir WhatsApp con el mensaje de la UTS ya escrito.
-- [ ] Hojas de separación impresas (dos por hoja) y el QR o los datos de la cuenta para el pago de $50.000.
+- [ ] Hojas de separación impresas (dos por hoja) y el **QR de pagos de Heiiu impreso** para pagar la separación ahí mismo (mínimo $150.000).
 
 ## 6. DESPUÉS
 
-Esa misma noche, antes de las 9 pm, se responde cada mensaje que llegue con el código REF-UTS y se registra en la planilla de referidos. A las familias que separaron las llama la asesora al día siguiente para agendar la cita.
+Esa misma noche, antes de las 9 pm, se responde cada mensaje que llegue con el código REF-UTS y se registra en la planilla de referidos. A las familias que separaron las llama la asesora al día siguiente: la cita queda concretada a más tardar el miércoles 4 de noviembre (el lunes 2 es festivo).

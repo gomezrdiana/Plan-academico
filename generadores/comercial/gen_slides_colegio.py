@@ -180,12 +180,12 @@ for k, (tit, l1, l2) in enumerate([
     forma(s, MSO_SHAPE.RECTANGLE, x + 0.25, 2.45, 5.15, 0.09, NAR if k == 0 else AMA)
     texto(s, x + 0.35, 2.7, 5.0, 0.5, [[(tit, 20, True, NAR_OSC, TIT)]])
     texto(s, x + 0.35, 3.25, 5.0, 1.1, [[(l1, 26, True, TINTA, TIT)], [(l2, 20, True, TINTA, TIT)]], espacio=2)
-texto(s, 0.85, 4.6, 11.8, 0.5, [[('Con beca del Fondo según el perfil de cada familia. La beca exacta se asigna en la cita, con soportes.', 15, False, GRIS, TXT)]])
-forma(s, MSO_SHAPE.ROUNDED_RECTANGLE, 0.85, 5.25, 11.8, 1.15, TINTA, 0.18)
-texto(s, 1.2, 5.25, 11.2, 1.15, [[('Separa hoy tu cupo con $50.000: ', 24, True, AMA, TIT), ('congelas tu beca y se abona a tu inicial.', 24, True, BLANCO, TIT)]], anchor=MSO_ANCHOR.MIDDLE)
+texto(s, 0.85, 4.55, 11.8, 0.6, [[('Con beca del Fondo según el perfil de cada familia; la beca exacta se asigna en la cita. ', 14, False, GRIS, TXT), ('Si necesitan financiación, el Gerente de Alianzas les ayuda a buscarla.', 14, True, TINTA, TXT)]])
+forma(s, MSO_SHAPE.ROUNDED_RECTANGLE, 0.85, 5.15, 11.8, 1.35, TINTA, 0.18)
+texto(s, 1.2, 5.2, 11.2, 1.25, [[('Separa hoy tu cupo desde $150.000: ', 22, True, AMA, TIT), ('congelas tu beca hasta el inicio del grupo y se abona a tu inicial.', 22, True, BLANCO, TIT)], [('Es lo que cuesta una salida a comer para dos, un día. Aprender inglés es un mundo de oportunidades.', 16, False, MELOCOTON, TXT)]], anchor=MSO_ANCHOR.MIDDLE, espacio=4)
 texto(s, 0.85, 6.6, 11.8, 0.4, [[('Afiliados a Cajasan: condiciones especiales con carné o certificado vigente.', 13, False, GRIS, TXT)]])
 s.notes_slide.notes_text_frame.text = ('LA REMATA EL GERENTE DE ALIANZAS. Lee los dos rangos, sin explicar la tasa ni decir sin intereses ni descuento: se dice beca del Fondo y crédito directo de la academia. '
-    'Cierre: hoy mismo separan con $50.000 en la mesa (hoja de separación + pago por QR o transferencia). La asesora llama mañana para la cita con la familia, donde se asigna la beca exacta.')
+    'Cierre: hoy mismo separan desde $150.000 en la mesa (hoja de separación + QR de pagos). No se devuelve; se abona a la inicial y congela la beca hasta el inicio del grupo. La cita con la familia se concreta a más tardar el miércoles 4 de noviembre (el lunes es festivo). Si necesitan financiación, el Gerente de Alianzas les ayuda a buscarla.')
 
 # ---------- 3. PRIMER PASO ----------
 s = prs.slides.add_slide(BL); fondo(s, TINTA)
