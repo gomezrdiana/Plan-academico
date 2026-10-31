@@ -78,18 +78,17 @@ s.notes_slide.notes_text_frame.text = (
 s = prs.slides.add_slide(BL); fondo(s, TINTA)
 texto(s, 0.85, 0.6, 8, 0.4, [[('AHORA USTEDES', 14, True, AMA, TXT)]])
 texto(s, 0.85, 1.0, 11.6, 1.0, [[('¡Listo! ', 44, True, AMA, TIT), ('Hagamos una actividad.', 44, True, BLANCO, TIT)]])
-texto(s, 0.85, 1.95, 11.6, 0.6, [[('Tu primera entrevista de trabajo, por videollamada, con una empresa de afuera.', 20, False, MELOCOTON, TXT)]])
-frases = [('Hi, my name is ', '______', '. I’m from Bucaramanga, Colombia.'),
-          ('I’m good at ', '______', '.'),
-          ('I can ', '______', '.'),
-          ('I want this job because ', '______', '.')]
-for i, (a, b, c) in enumerate(frases):
-    y = 2.8 + i * 0.95
+texto(s, 0.85, 1.85, 11.6, 0.7, [[('Interviewer:  ', 24, False, MELOCOTON, TXT), ('“Tell me about yourself.”', 30, True, AMA, TIT)]], anchor=MSO_ANCHOR.MIDDLE)
+frases = [('What’s your name?', 'Hi, my name is ', '______', '. I’m from Bucaramanga.'),
+          ('What are you good at?', 'I’m good at ', '______', '.'),
+          ('What can you do?', 'I can ', '______', '.'),
+          ('Why do you want this job?', 'I want this job because ', '______', '.')]
+for i, (q, a, b, c) in enumerate(frases):
+    y = 2.75 + i * 0.95
     forma(s, MSO_SHAPE.ROUNDED_RECTANGLE, 0.85, y, 11.6, 0.8, CREMA, 0.25)
-    n = forma(s, MSO_SHAPE.OVAL, 1.05, y + 0.12, 0.56, 0.56, NAR)
-    tf = n.text_frame; tf.margin_left = tf.margin_right = 0; pp = tf.paragraphs[0]; pp.alignment = PP_ALIGN.CENTER
-    r = pp.add_run(); r.text = str(i + 1); r.font.size = Pt(18); r.font.bold = True; r.font.name = TIT; r.font.color.rgb = BLANCO
-    texto(s, 1.9, y, 10.3, 0.8, [[(a, 26, True, TINTA, TIT), (b, 26, True, NAR_OSC, TIT), (c, 26, True, TINTA, TIT)]], anchor=MSO_ANCHOR.MIDDLE)
+    forma(s, MSO_SHAPE.ROUNDED_RECTANGLE, 0.85, y, 4.0, 0.8, AMA, 0.25)
+    texto(s, 1.1, y, 3.6, 0.8, [[(q, 18, True, TINTA, TIT)]], anchor=MSO_ANCHOR.MIDDLE)
+    texto(s, 5.1, y, 7.2, 0.8, [[(a, 22, True, TINTA, TIT), (b, 22, True, NAR_OSC, TIT), (c, 22, True, TINTA, TIT)]], anchor=MSO_ANCHOR.MIDDLE)
 s.shapes.add_picture(LOGO, Inches(11.3), Inches(0.35), height=Inches(0.75))
 s.notes_slide.notes_text_frame.text = ('ACTIVIDAD, 15 minutos (ver la guía del profesor). Esta diapositiva reemplaza el tablero: queda proyectada toda la actividad. '
     'Coro, modelo, parejas y 4 voluntarios al frente. Cierra con aplauso y pasa a la siguiente.')

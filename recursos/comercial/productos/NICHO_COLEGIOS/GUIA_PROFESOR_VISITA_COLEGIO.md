@@ -87,7 +87,7 @@ Tú:     "Again!"
 Salón:  "Hi, my name is..."
 ```
 
-No traduces al español: el gesto hace el trabajo.
+No traduces al español: el gesto hace el trabajo. **Siempre empiezas por la pregunta** (la columna amarilla de la pantalla): "Tell me about yourself... What's your name?", y después el salón repite la respuesta.
 3. **Modelo (2 min).** Tú haces la entrevista primero: dices las cuatro frases con tus datos reales, de frente al salón, como si fuera una entrevista de verdad. Así todos oyen cómo suena antes de intentarlo. Luego pregunta a todo el salón, frase por frase ("What's your name?", "What are you good at?"); responde el salón a la vez.
 4. **Parejas (3 min).** "Turn to your partner. You are the interviewer, you are the candidate." A los 90 segundos cambian de rol. Camina y corrige en voz baja.
 5. **Al frente (5 min).** Pide 4 voluntarios; si nadie levanta la mano, escoge a los que viste más seguros. Haz de entrevistador, serio y real: "Good morning. Please sit down. Tell me about yourself." Aplauso después de cada uno. A los que se notan fuertes, una pregunta sin diapositiva: "Why should we hire you and not another person?"
