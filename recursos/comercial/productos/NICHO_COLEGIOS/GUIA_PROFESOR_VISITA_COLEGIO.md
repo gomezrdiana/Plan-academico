@@ -43,11 +43,11 @@ A la otra mitad, una nota neutra: "te doy estos comentarios para que tengas retr
 | Diap. | Qué pasa | Quién | Min |
 |---|---|---|---|
 | — | Saludo y pregunta: ¿técnica o actitud? | Profesor | 1 |
-| 1 | Video "técnica o actitud" (arranca solo) | Profesor | 1 |
+| 1 | Video "técnica o actitud" (clic en play) | Profesor | 1 |
 | 2 | La frase del estudio y el discurso | Profesor | 2 |
 | 3 | ¡Listo! Hagamos una actividad | Profesor | 15 |
 | 4 | "Lo que acaban de hacer se llama coraje" | Profesor | 1 |
-| 5 | Video de la tarea (arranca solo) | Profesor | 2 |
+| 5 | Video de la tarea (clic en play) | Profesor | 2 |
 | 6 | Módulo de Graduación | Profesor | 3 |
 | 7 | Dos testimonios (clic en cada video) | Profesor | 2 |
 | 8 | Lo que cuesta + separación de cupo | Gerente de Alianzas | 5 |
@@ -55,7 +55,7 @@ A la otra mitad, una nota neutra: "te doy estos comentarios para que tengas retr
 
 ## 3. QUÉ DICES EN CADA DIAPOSITIVA
 
-**Antes de la 1.** De pie, frente al salón: "Antes de empezar, una pregunta. Levanten la mano: ¿quién cree que es más importante la técnica? ¿Y la actitud?". Cuenta las manos en voz alta. Pasa a la diapositiva 1: el video arranca solo. Al terminar, una sola frase: "La técnica se la enseñamos nosotros. La actitud la tiene que traer cada uno. Por eso no trabajamos con cualquiera."
+**Antes de la 1.** De pie, frente al salón: "Antes de empezar, una pregunta. Levanten la mano: ¿quién cree que es más importante la técnica? ¿Y la actitud?". Cuenta las manos en voz alta. Pasa a la diapositiva 1: le das clic en play al video. Al terminar, una sola frase: "La técnica se la enseñamos nosotros. La actitud la tiene que traer cada uno. Por eso no trabajamos con cualquiera."
 
 **Diapositiva 2.** Despacio, sin leer:
 
@@ -126,7 +126,7 @@ universidad, el trabajo y la vida, mucho después de terminar el
 curso."
 ```
 
-**Diapositiva 5.** El video arranca solo (1 minuto). Al terminar: "Esto es lo que hacen todos los días. No es perfecto, y no tiene que serlo. Lo que diferencia a un estudiante no es el talento: es que vuelve a intentarlo con la corrección." (Es el estudio de la diapositiva 2, en la vida real.)
+**Diapositiva 5.** Clic en play (1 minuto). Al terminar: "Esto es lo que hacen todos los días. No es perfecto, y no tiene que serlo. Lo que diferencia a un estudiante no es el talento: es que vuelve a intentarlo con la corrección." (Es el estudio de la diapositiva 2, en la vida real.)
 
 **Diapositiva 6.** "En el A2 cada estudiante elige y construye su Módulo de Graduación: o sale con su página web lista para publicar y su primer mensaje de venta en inglés, o con su video de presentación, su hoja de vida y carta en inglés y su entrevista ensayada. En A2 es una muestra; en B2 lo pulen." Si preguntan si es obligatorio: "Los llevamos a hacerlo; la decisión es de cada uno." Si preguntan por el Refuerzo PRO: "Se define con cada estudiante al llegar a B2."
 
@@ -149,7 +149,7 @@ No les vamos a decir que mañana se acaba algo. Les decimos lo que dijimos al pr
 
 ## 5. ANTES DE SALIR (la noche anterior)
 
-- [ ] Abrir el PowerPoint en el computador que se va a llevar y correrlo completo con F5: los videos de las diapositivas 1 y 5 arrancan solos; los de la 7, con clic.
+- [ ] Abrir el PowerPoint en el computador que se va a llevar y correrlo completo con F5: cada video se reproduce con clic en play.
 - [ ] Llevar parlante: el sonido del computador no alcanza para un salón.
 - [ ] Cable HDMI y adaptador. Copia del PowerPoint en una USB.
 - [ ] Escanear el QR de la diapositiva 8 con un celular: debe abrir WhatsApp con el mensaje de la UTS ya escrito.
