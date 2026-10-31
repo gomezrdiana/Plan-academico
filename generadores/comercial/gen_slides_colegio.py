@@ -44,24 +44,7 @@ def texto(s, x, y, w, h, runs_por_parrafo, align=PP_ALIGN.LEFT, anchor=MSO_ANCHO
             r = p.add_run(); r.text = t; r.font.size = Pt(size); r.font.bold = bold; r.font.color.rgb = color; r.font.name = font
     return tb
 
-# ---------- 0. APERTURA (antes de la clase) ----------
-s = prs.slides.add_slide(BL); fondo(s, TINTA)
-s.shapes.add_picture(LOGO, Inches(0.55), Inches(0.35), height=Inches(1.1))
-texto(s, 0.85, 1.75, 11.6, 2.6, [[('“I’m giving you these comments because I have ', 34, True, BLANCO, TIT), ('very high expectations', 34, True, AMA, TIT), (' and I know that you can reach them.”', 34, True, BLANCO, TIT)]])
-texto(s, 0.85, 4.35, 11.0, 1.2, [[('“Te hago estos comentarios porque tengo expectativas muy altas y sé que puedes alcanzarlas.”', 20, False, MELOCOTON, TXT)]])
-forma(s, MSO_SHAPE.RECTANGLE, 0.85, 5.75, 1.2, 0.07, NAR)
-texto(s, 0.85, 5.95, 11.0, 0.9, [[('Aquí no te lo vamos a poner fácil. Vamos a estar contigo hasta que lo logres.', 20, True, BLANCO, TXT)]])
-texto(s, 0.85, 6.75, 11.0, 0.4, [[('Frase de un estudio con estudiantes de colegio que cita Adam Grant.', 12, False, RGBColor(0xB8, 0xA8, 0x9A), TXT)]])
-s.notes_slide.notes_text_frame.text = (
- 'APERTURA, 2 minutos, antes de la clase. John, de pie, despacio:\n'
- '"Buenos días. Les voy a empezar con una frase de un estudio que cita Adam Grant. A unos estudiantes les devolvieron sus trabajos corregidos con una nota encima: te hago estos comentarios porque tengo expectativas muy altas y sé que puedes alcanzarlas. Esos estudiantes volvieron a hacer el trabajo mucho más que los demás.\n'
- 'Eso es lo que hacemos en Heiiu. Como papás, todos queremos proteger a nuestros hijos, y está bien. Y a todos nos gusta lo fácil. En nuestros años de academia lo hemos visto, y por eso nuestro programa cambió.\n'
- 'Hoy trabajamos con estudiantes que quieren estar rodeados de gente como ellos: no el que está pegado al celular, no el que está porque el papá lo mandó, sino el que sabe que va a ser difícil y que lo va a lograr.\n'
- 'Les vamos a sacar de la zona de confort. Se van a aburrir algunos días y van a encontrar la motivación otra vez. Les va a tocar hacer tareas todos los días, y son esos hábitos los que los van a diferenciar.\n'
- 'No les vamos a prometer que es fácil. Les prometemos que vamos a estar ahí hasta que lo logren. Y para que lo vean, en vez de explicarles, vamos a hacerlo ya."\n'
- 'Y le pasa la palabra a Juan Diego para la clase.')
-
-# ---------- 0b. VIDEO TECNICA O ACTITUD (despues de la apertura) ----------
+# ---------- 0b. VIDEO TECNICA O ACTITUD (abre la visita) ----------
 VIDEO = os.path.join(OUT, 'Tecnica_o_Actitud_h264.mp4'); POSTER = os.path.join(OUT, 'POSTER_TECNICA_ACTITUD.jpg')
 if os.path.exists(VIDEO):
     s = prs.slides.add_slide(BL); fondo(s, TINTA)
@@ -71,12 +54,29 @@ if os.path.exists(VIDEO):
     s.shapes.add_picture(LOGO, Inches(0.55), Inches(6.35), height=Inches(0.85))
     vh = 6.6; vw = vh * 720 / 1280
     s.shapes.add_movie(VIDEO, Inches(12.5 - vw), Inches(0.45), Inches(vw), Inches(vh), poster_frame_image=POSTER, mime_type='video/mp4')
-    s.notes_slide.notes_text_frame.text = ('Antes de darle play, John pregunta al salon: levanten la mano, quien cree que la tecnica? quien cree que la actitud? '
-        'Luego play (40 segundos; clic sobre el video). Al terminar, una sola frase: por eso aqui entrenamos las dos, pero empezamos por la actitud. Y pasa a Juan Diego.')
+    s.notes_slide.notes_text_frame.text = ('ABRE LA VISITA. John saluda y, antes de darle play, pregunta al salon: levanten la mano, quien cree que la tecnica? quien cree que la actitud? '
+        'Luego play (40 segundos; clic sobre el video). Al terminar, una sola frase: por eso aqui entrenamos las dos, pero empezamos por la actitud. Y pasa a la siguiente diapositiva.')
+
+# ---------- 0. APERTURA (despues del video, antes de la clase) ----------
+s = prs.slides.add_slide(BL); fondo(s, TINTA)
+s.shapes.add_picture(LOGO, Inches(0.55), Inches(0.35), height=Inches(1.1))
+texto(s, 0.85, 1.75, 11.6, 2.6, [[('“I’m giving you these comments because I have ', 34, True, BLANCO, TIT), ('very high expectations', 34, True, AMA, TIT), (' and I know that you can reach them.”', 34, True, BLANCO, TIT)]])
+texto(s, 0.85, 4.35, 11.0, 1.2, [[('“Te hago estos comentarios porque tengo expectativas muy altas y sé que puedes alcanzarlas.”', 20, False, MELOCOTON, TXT)]])
+forma(s, MSO_SHAPE.RECTANGLE, 0.85, 5.75, 1.2, 0.07, NAR)
+texto(s, 0.85, 5.95, 11.0, 0.9, [[('Aquí no te lo vamos a poner fácil. Vamos a estar contigo hasta que lo logres.', 20, True, BLANCO, TXT)]])
+texto(s, 0.85, 6.75, 11.0, 0.4, [[('Frase de un estudio con estudiantes de colegio que cita Adam Grant.', 12, False, RGBColor(0xB8, 0xA8, 0x9A), TXT)]])
+s.notes_slide.notes_text_frame.text = (
+ 'DESPUES DEL VIDEO, 2 minutos, antes de la clase. John, de pie, despacio:\n'
+ '"Y ahora les comparto una frase de un estudio que cita Adam Grant. A unos estudiantes les devolvieron sus trabajos corregidos con una nota encima: te hago estos comentarios porque tengo expectativas muy altas y sé que puedes alcanzarlas. Esos estudiantes volvieron a hacer el trabajo mucho más que los demás.\n'
+ 'Eso es lo que hacemos en Heiiu. Como papás, todos queremos proteger a nuestros hijos, y está bien. Y a todos nos gusta lo fácil. En nuestros años de academia lo hemos visto, y por eso nuestro programa cambió.\n'
+ 'Hoy trabajamos con estudiantes que quieren estar rodeados de gente como ellos: no el que está pegado al celular, no el que está porque el papá lo mandó, sino el que sabe que va a ser difícil y que lo va a lograr.\n'
+ 'Les vamos a sacar de la zona de confort. Se van a aburrir algunos días y van a encontrar la motivación otra vez. Les va a tocar hacer tareas todos los días, y son esos hábitos los que los van a diferenciar.\n'
+ 'No les vamos a prometer que es fácil. Les prometemos que vamos a estar ahí hasta que lo logren. Y para que lo vean, en vez de explicarles, vamos a hacerlo ya."\n'
+ 'Y le pasa la palabra a Juan Diego para la clase.')
 
 # ---------- 1. CORAJE ----------
-s = prs.slides.add_slide(BL); fondo(s, NAR)
-forma(s, MSO_SHAPE.RECTANGLE, 10.6, 0, 2.75, 7.5, RGBColor(0xFF, 0x6A, 0x2A))
+s = prs.slides.add_slide(BL); fondo(s, TINTA)
+forma(s, MSO_SHAPE.RECTANGLE, 10.6, 0, 2.75, 7.5, RGBColor(0x3D, 0x2B, 0x20))
 forma(s, MSO_SHAPE.OVAL, 11.2, 5.4, 2.6, 2.6, AMA)
 s.shapes.add_picture(LOGO, Inches(0.55), Inches(0.35), height=Inches(1.35))
 texto(s, 0.85, 2.0, 9.2, 2.6, [[('Lo que acaban de hacer se llama ', 54, True, BLANCO, TIT), ('coraje.', 54, True, AMA, TIT)]])
@@ -107,14 +107,14 @@ for i, (t, d, c) in enumerate(cards):
     r.font.color.rgb = NAR_OSC if c == AMA else BLANCO
     texto(s, cx + 0.3, 3.4, w - 0.6, 0.5, [[(t, 22, True, TINTA, TIT)]])
     texto(s, cx + 0.3, 3.95, w - 0.6, 1.1, [[(d, 15, False, GRIS, TXT)]])
-forma(s, MSO_SHAPE.ROUNDED_RECTANGLE, 0.85, 5.35, 11.6, 1.0, NAR, 0.18)
+forma(s, MSO_SHAPE.ROUNDED_RECTANGLE, 0.85, 5.35, 11.6, 1.0, TINTA, 0.18)
 texto(s, 1.2, 5.35, 11.0, 1.0, [[('¿No tienes un negocio ni un plan? No importa. ', 20, True, BLANCO, TXT), ('Lo que se entrena es atreverte a hacerlo.', 20, True, AMA, TXT)]], anchor=MSO_ANCHOR.MIDDLE)
 texto(s, 0.85, 6.65, 11.6, 0.5, [[('Garantía por escrito: si cumples tu parte y no avanzas en inglés, te devolvemos el 100% del nivel.', 14, True, NAR_OSC, TXT)]])
 s.notes_slide.notes_text_frame.text = ('En A2 el proyecto es una muestra; en B2 se pule. El módulo no es obligatorio: la academia lleva al estudiante a hacerlo, pero la decisión es suya. El mensaje es la exposición, no el negocio: quien no tiene idea hace la página de su perfil profesional o de un proyecto del colegio. '
     'Si preguntan qué es el Refuerzo PRO: se define con cada estudiante al llegar a B2. Nada de precios aquí: eso va en la cita con cada familia.')
 
 # ---------- 3. PRIMER PASO ----------
-s = prs.slides.add_slide(BL); fondo(s, NAR)
+s = prs.slides.add_slide(BL); fondo(s, TINTA)
 texto(s, 0.85, 0.7, 7.4, 1.6, [[('Trae a un amigo a estudiar ', 40, True, BLANCO, TIT), ('contigo.', 40, True, AMA, TIT)]])
 pasos = ['Escanea el código', 'Cuéntanos a quién traes', 'Cuando se matricule, ganas $150.000']
 for i, t in enumerate(pasos):
