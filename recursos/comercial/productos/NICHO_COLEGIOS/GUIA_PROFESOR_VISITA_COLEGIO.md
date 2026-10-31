@@ -1,7 +1,7 @@
 # GUÍA DEL PROFESOR · VISITA A COLEGIO (grados 9, 10 y 11, con papás)
 
 **Uso interno. No se entrega ni se proyecta. Duración total: 35 a 40 minutos.**
-**Roles:** el profesor presenta las diapositivas 1 a 7 y dirige la actividad. El Gerente de Alianzas remata con la diapositiva 8.
+**Roles:** el profesor presenta las diapositivas 1 a 7 y dirige la actividad. El Gerente de Alianzas remata con las diapositivas 8 y 9 y cierra las separaciones.
 
 ## 1. EL ESTUDIO QUE SOSTIENE TODA LA VISITA (léelo antes)
 
@@ -50,7 +50,8 @@ A la otra mitad, una nota neutra: "te doy estos comentarios para que tengas retr
 | 5 | Video de la tarea (arranca solo) | Profesor | 2 |
 | 6 | Módulo de Graduación | Profesor | 3 |
 | 7 | Dos testimonios (clic en cada video) | Profesor | 2 |
-| 8 | Trae a un amigo + QR | Gerente de Alianzas | 3 a 5 |
+| 8 | Lo que cuesta + separación de cupo | Gerente de Alianzas | 5 |
+| 9 | Trae a un amigo + QR | Gerente de Alianzas | 3 |
 
 ## 3. QUÉ DICES EN CADA DIAPOSITIVA
 
@@ -131,12 +132,15 @@ curso."
 
 **Diapositiva 7.** Clic en el video de la izquierda; cuando termine, clic en el de la derecha. Sin comentario largo después: deja que hablen ellas y pasa la palabra: "Les dejo con el Gerente de Alianzas."
 
-**Diapositiva 8 (la remata el Gerente de Alianzas).** "Escaneen y envíen el mensaje tal como sale, sin borrarlo." Diapositiva proyectada hasta que escaneen. En el salón no se piden datos de amigos: el estudiante le avisa a su amigo y el amigo escribe.
+**Diapositiva 8 (Gerente de Alianzas): lo que cuesta.** Lee los dos rangos tal como están. Cierre: "Hoy pueden separar el cupo con $50.000: congelan la beca y se abona a la inicial. Mañana la asesora los llama para la cita con la familia, donde se asigna la beca exacta." La hoja de separación y el pago (QR o transferencia) están en la mesa: se llenan ahí mismo.
+
+**Diapositiva 9 (Gerente de Alianzas): referidos.** "Escaneen y envíen el mensaje tal como sale, sin borrarlo." Diapositiva proyectada hasta que escaneen. En el salón no se piden datos de amigos: el estudiante le avisa a su amigo y el amigo escribe.
 
 ## 4. LO QUE NO SE DICE
 
 - Rápido, fácil, "en X meses hablas", nativos, empleo, visa, cupo en programas del exterior.
-- Precios, becas en cifras o cuotas: eso va en la cita con cada familia.
+- Precios distintos a los rangos de la diapositiva 8, o una beca exacta: eso va en la cita con cada familia.
+- "Sin intereses", "descuento" o la tasa: se dice beca del Fondo y crédito directo de la academia.
 - Cuántos estudiantes hay por grupo.
 - Nombres de otras academias.
 - Notas o resultados de evaluaciones de ningún estudiante.
@@ -147,8 +151,8 @@ curso."
 - [ ] Llevar parlante: el sonido del computador no alcanza para un salón.
 - [ ] Cable HDMI y adaptador. Copia del PowerPoint en una USB.
 - [ ] Escanear el QR de la diapositiva 8 con un celular: debe abrir WhatsApp con el mensaje de la UTS ya escrito.
-- [ ] Hoja de inscripción impresa: nombre del estudiante, acudiente, teléfono y grado.
+- [ ] Hojas de separación impresas (dos por hoja) y el QR o los datos de la cuenta para el pago de $50.000.
 
 ## 6. DESPUÉS
 
-Esa misma noche, antes de las 9 pm, se responde cada mensaje que llegue con el código REF-UTS y se registra en la planilla de referidos. A las familias que firmaron la hoja las llama la asesora al día siguiente para agendar la cita.
+Esa misma noche, antes de las 9 pm, se responde cada mensaje que llegue con el código REF-UTS y se registra en la planilla de referidos. A las familias que separaron las llama la asesora al día siguiente para agendar la cita.

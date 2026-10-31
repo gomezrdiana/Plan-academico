@@ -166,6 +166,27 @@ if os.path.exists(VM) and os.path.exists(VS):
     s.notes_slide.notes_text_frame.text = ('Primero el de la izquierda (María Alejandra, 57 s), luego el de la derecha (Sarita, 23 s): clic sobre cada video. '
         'Sin comentarios largos después: dejar que hablen ellas y pasar a la última diapositiva.')
 
+# ---------- 2c. LO QUE CUESTA (remata el Gerente de Alianzas) ----------
+s = prs.slides.add_slide(BL); fondo(s, CREMA)
+texto(s, 0.85, 0.55, 8, 0.4, [[('LO QUE CUESTA', 14, True, NAR_OSC, TXT)]])
+texto(s, 0.85, 0.95, 11.8, 0.9, [[('Programa completo A1 → B2', 36, True, TINTA, TIT)]])
+texto(s, 0.85, 1.75, 11.8, 0.5, [[('575 horas presenciales · garantía por escrito · valor de lista $8.696.000', 18, False, GRIS, TXT)]])
+# dos tarjetas: contado y cuotas
+for k, (tit, l1, l2) in enumerate([
+        ('De contado', 'entre $4.782.800', 'y $5.913.280'),
+        ('Con inicial y cuotas', 'inicial desde $1.113.088', 'y 11 cuotas desde $452.348')]):
+    x = 0.85 + k * 5.95
+    forma(s, MSO_SHAPE.ROUNDED_RECTANGLE, x, 2.45, 5.65, 2.0, BLANCO, 0.08)
+    forma(s, MSO_SHAPE.RECTANGLE, x + 0.25, 2.45, 5.15, 0.09, NAR if k == 0 else AMA)
+    texto(s, x + 0.35, 2.7, 5.0, 0.5, [[(tit, 20, True, NAR_OSC, TIT)]])
+    texto(s, x + 0.35, 3.25, 5.0, 1.1, [[(l1, 26, True, TINTA, TIT)], [(l2, 20, True, TINTA, TIT)]], espacio=2)
+texto(s, 0.85, 4.6, 11.8, 0.5, [[('Con beca del Fondo según el perfil de cada familia. La beca exacta se asigna en la cita, con soportes.', 15, False, GRIS, TXT)]])
+forma(s, MSO_SHAPE.ROUNDED_RECTANGLE, 0.85, 5.25, 11.8, 1.15, TINTA, 0.18)
+texto(s, 1.2, 5.25, 11.2, 1.15, [[('Separa hoy tu cupo con $50.000: ', 24, True, AMA, TIT), ('congelas tu beca y se abona a tu inicial.', 24, True, BLANCO, TIT)]], anchor=MSO_ANCHOR.MIDDLE)
+texto(s, 0.85, 6.6, 11.8, 0.4, [[('Afiliados a Cajasan: condiciones especiales con carné o certificado vigente.', 13, False, GRIS, TXT)]])
+s.notes_slide.notes_text_frame.text = ('LA REMATA EL GERENTE DE ALIANZAS. Lee los dos rangos, sin explicar la tasa ni decir sin intereses ni descuento: se dice beca del Fondo y crédito directo de la academia. '
+    'Cierre: hoy mismo separan con $50.000 en la mesa (hoja de separación + pago por QR o transferencia). La asesora llama mañana para la cita con la familia, donde se asigna la beca exacta.')
+
 # ---------- 3. PRIMER PASO ----------
 s = prs.slides.add_slide(BL); fondo(s, TINTA)
 texto(s, 0.85, 0.7, 7.4, 1.6, [[('Trae a un amigo a estudiar ', 40, True, BLANCO, TIT), ('contigo.', 40, True, AMA, TIT)]])
