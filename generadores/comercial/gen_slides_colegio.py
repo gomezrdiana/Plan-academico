@@ -64,7 +64,7 @@ texto(s, 0.85, 0.95, 11.8, 0.9, [[('En el A2 eliges y construyes tu ', 32, True,
 cards = [
     ('Ruta Emprendedor', 'Sales con tu página web publicada y tu primer mensaje de venta en inglés.', NAR),
     ('Ruta Pasaporte', 'Tu postulación a programas en el exterior lista, tu video de presentación y tu entrevista ensayada.', AMA),
-    ('Y al terminar B2', 'El Refuerzo PRO, para cerrar tu ruta completa.', NAR),
+    ('En B2 lo pules', 'Lo que hiciste en A2 se vuelve profesional, con el Refuerzo PRO al final.', NAR),
 ]
 x = 0.85; w = 3.7; gap = 0.25
 for i, (t, d, c) in enumerate(cards):
@@ -80,7 +80,7 @@ for i, (t, d, c) in enumerate(cards):
 forma(s, MSO_SHAPE.ROUNDED_RECTANGLE, 0.85, 5.35, 11.6, 1.0, NAR, 0.18)
 texto(s, 1.2, 5.35, 11.0, 1.0, [[('¿No tienes un negocio ni un plan? No importa. ', 20, True, BLANCO, TXT), ('Lo que se entrena es atreverte a hacerlo.', 20, True, AMA, TXT)]], anchor=MSO_ANCHOR.MIDDLE)
 texto(s, 0.85, 6.65, 11.6, 0.5, [[('Garantía por escrito: si cumples tu parte y no avanzas en inglés, te devolvemos el 100% del nivel.', 14, True, NAR_OSC, TXT)]])
-s.notes_slide.notes_text_frame.text = ('El mensaje es la exposición, no el negocio: quien no tiene idea hace la página de su perfil profesional o de un proyecto del colegio. '
+s.notes_slide.notes_text_frame.text = ('En A2 el proyecto es una muestra; en B2 se pule. El módulo no es obligatorio: la academia lleva al estudiante a hacerlo, pero la decisión es suya. El mensaje es la exposición, no el negocio: quien no tiene idea hace la página de su perfil profesional o de un proyecto del colegio. '
     'Si preguntan qué es el Refuerzo PRO: se define con cada estudiante al llegar a B2. Nada de precios aquí: eso va en la cita con cada familia.')
 
 # ---------- 3. PRIMER PASO ----------
