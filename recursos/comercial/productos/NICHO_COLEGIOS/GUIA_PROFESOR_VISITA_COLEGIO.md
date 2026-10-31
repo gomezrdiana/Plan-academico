@@ -132,14 +132,14 @@ curso."
 
 **Diapositiva 7.** Clic en el video de la izquierda; cuando termine, clic en el de la derecha. Sin comentario largo después: deja que hablen ellas y pasa la palabra: "Les dejo con el Gerente de Alianzas."
 
-**Diapositiva 8 (Gerente de Alianzas): lo que cuesta.** Lee los dos rangos tal como están. Cierre: "Hoy pueden separar el cupo desde $150.000. Es lo que cuesta una salida a comer para dos, un día; aprender inglés es un mundo de oportunidades. Con eso congelan la beca hasta el inicio del grupo y se abona a la inicial. Si están afiliados a Cajasan, hay condiciones especiales con el carné o el certificado vigente. Si necesitan financiación, yo les ayudo a buscarla. La cita con la familia la concretamos a más tardar el miércoles, porque el lunes es festivo." La hoja de separación y el QR de pagos están en la mesa: se llenan y se pagan ahí mismo. La separación no se devuelve; se dice con claridad antes de firmar.
+**Diapositiva 8 (Gerente de Alianzas): lo que cuesta.** Lee el precio de contado tal como está. Si preguntan por cuotas: "eso lo vemos en la cita con cada familia". Cierre: "Hoy pueden separar el cupo desde $150.000. Es lo que cuesta una salida a comer para dos, un día; aprender inglés es un mundo de oportunidades. Con eso congelan la beca hasta el inicio del grupo y se abona a la inicial. Si están afiliados a Cajasan, hay condiciones especiales con el carné o el certificado vigente. Si necesitan financiación, yo les ayudo a buscarla. La cita con la familia la concretamos a más tardar el miércoles, porque el lunes es festivo." La hoja de separación y el QR de pagos están en la mesa: se llenan y se pagan ahí mismo. La separación no se devuelve; se dice con claridad antes de firmar.
 
 **Diapositiva 9 (Gerente de Alianzas): referidos.** "Escaneen y envíen el mensaje tal como sale, sin borrarlo." Diapositiva proyectada hasta que escaneen. En el salón no se piden datos de amigos: el estudiante le avisa a su amigo y el amigo escribe.
 
 ## 4. LO QUE NO SE DICE
 
 - Rápido, fácil, "en X meses hablas", nativos, empleo, visa, cupo en programas del exterior.
-- Precios distintos a los rangos de la diapositiva 8, o una beca exacta: eso va en la cita con cada familia.
+- Precios distintos al de la diapositiva 8, cuotas o una beca exacta: eso va en la cita con cada familia.
 - "Sin intereses", "descuento" o la tasa: se dice beca del Fondo y crédito directo de la academia.
 - Cuántos estudiantes hay por grupo.
 - Nombres de otras academias.
