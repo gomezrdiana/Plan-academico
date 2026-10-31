@@ -62,7 +62,7 @@ s.notes_slide.notes_text_frame.text = (
  'Y le pasa la palabra a Juan Diego para la clase.')
 
 # ---------- 0b. VIDEO TECNICA O ACTITUD (despues de la apertura) ----------
-VIDEO = os.path.join(OUT, 'Tecnica o Actitud.MP4'); POSTER = os.path.join(OUT, 'POSTER_TECNICA_ACTITUD.jpg')
+VIDEO = os.path.join(OUT, 'Tecnica_o_Actitud_h264.mp4'); POSTER = os.path.join(OUT, 'POSTER_TECNICA_ACTITUD.jpg')
 if os.path.exists(VIDEO):
     s = prs.slides.add_slide(BL); fondo(s, TINTA)
     texto(s, 0.85, 0.9, 7.6, 0.5, [[('UNA PREGUNTA', 14, True, AMA, TXT)]])
