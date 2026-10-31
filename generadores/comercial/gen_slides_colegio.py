@@ -55,7 +55,7 @@ if os.path.exists(VIDEO):
     vh = 6.6; vw = vh * 720 / 1280
     _pic = s.shapes.add_picture(POSTER, Inches(12.5 - vw), Inches(0.45), Inches(vw), Inches(vh)); _pic.name = 'VIDEO::' + os.path.basename(VIDEO)
     s.notes_slide.notes_text_frame.text = ('ABRE LA VISITA. El profesor saluda y, antes de pasar a esta diapositiva, pregunta al salon: levanten la mano, quien cree que la tecnica? quien cree que la actitud? '
-        'Luego play (40 segundos; clic sobre el video). Al terminar, una sola frase: por eso aqui entrenamos las dos, pero empezamos por la actitud. Y pasa a la siguiente diapositiva.')
+        'Luego play (40 segundos; clic sobre el video). Al terminar, una sola frase: la tecnica se la enseñamos nosotros; la actitud la tiene que traer cada uno. Por eso no trabajamos con cualquiera. Y pasa a la siguiente diapositiva.')
 
 # ---------- 0. APERTURA (despues del video, antes de la clase) ----------
 s = prs.slides.add_slide(BL); fondo(s, TINTA)

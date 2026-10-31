@@ -36,7 +36,7 @@ A la otra mitad, una nota neutra: "te doy estos comentarios para que tengas retr
 
 ## 3. QUÉ DICES EN CADA DIAPOSITIVA
 
-**Antes de la 1.** De pie, frente al salón: "Antes de empezar, una pregunta. Levanten la mano: ¿quién cree que es más importante la técnica? ¿Y la actitud?". Cuenta las manos en voz alta. Pasa a la diapositiva 1: el video arranca solo. Al terminar, una sola frase: "Por eso aquí entrenamos las dos, pero empezamos por la actitud."
+**Antes de la 1.** De pie, frente al salón: "Antes de empezar, una pregunta. Levanten la mano: ¿quién cree que es más importante la técnica? ¿Y la actitud?". Cuenta las manos en voz alta. Pasa a la diapositiva 1: el video arranca solo. Al terminar, una sola frase: "La técnica se la enseñamos nosotros. La actitud la tiene que traer cada uno. Por eso no trabajamos con cualquiera."
 
 **Diapositiva 2.** Despacio, sin leer:
 
