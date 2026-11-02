@@ -77,3 +77,7 @@ recursos/comercial/productos/NICHO_COLEGIOS/*.mov
 recursos/comercial/productos/NICHO_COLEGIOS/POSTER_testimonio_*.jpg
 recursos/comercial/productos/NICHO_COLEGIOS/POSTER_tarea_*.jpg
 recursos/comercial/productos/NICHO_COLEGIOS/SLIDES_COLEGIO_3.pdf
+
+# fotos de referencia de terceros (estrategia comercial): solo local
+recursos/comercial/estrategia comercial/*.jpeg
+recursos/comercial/estrategia comercial/*.jpg
