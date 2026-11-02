@@ -14,8 +14,12 @@ Septiembre y octubre cerraron con cero matrículas. La academia no se sostiene s
 
 ## 3. El nuevo mensaje (uno solo, todos lo decimos igual)
 
-> **No vendemos inglés. Entrenamos a personas para llegar a un destino: la entrevista, el viaje, el trabajo que pide inglés.**
-> Todos los días, con alguien que te corrige, con un camino claro, y con la única garantía por escrito de Bucaramanga: si cumples tu parte y no avanzas, te devolvemos el 100 % del nivel.
+> **Te entrenamos para llegar a tu destino: la entrevista, el viaje, el negocio, el cargo que pide inglés.**
+> **Aquí creemos en ti y no te soltamos la mano: todos los días, con alguien que te corrige, y con garantía por escrito: si cumples tu parte y no avanzas, te devolvemos el 100 % del nivel.**
+
+Primera línea, el destino: es lo que la persona busca. Segunda línea, la creencia: es lo que la hace quedarse. Las academias virtuales venden precio y velocidad; ninguna puede decir "creemos en ti y no te soltamos la mano". Nosotros sí, y es verdad.
+
+Ganchos para pauta y conversación, con las mismas palabras: "Hacer empresa es rewarding; hacerla en dos idiomas, más." · "Ser directivo es rewarding; ser el que responde cuando entra alguien de afuera, más." · "Creemos en ti más de lo que tú crees hoy; por eso te lo firmamos." · "No te soltamos la mano: 12 meses, todos los días, con alguien que te corrige."
 
 Se vende el destino y el camino claro: menos incertidumbre, menos miedo, menos tiempo perdido. **Lo que no se dice nunca:** rápido, fácil, nativos, empleo garantizado. **Lo que se dice en la cita, siempre:** te va a exigir, por eso te acompañamos.
 
