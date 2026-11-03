@@ -10,7 +10,7 @@ Con copia a: Jaider (implementación) y suscripciones@lahaus.com
 
 Estimado Juan Pablo:
 
-Le escribo en nombre de Global Teacher S.A.S., titular de la Orden de Servicio del Plan PRO firmada el 26 de septiembre de 2026, con inicio de operación el 28 de septiembre y pago mensual anticipado de $1.200.000. Agradezco el trabajo de Jaider en la implementación y las reuniones de cadencia. Esta carta tiene dos partes: una notificación formal y una solicitud de terminación.
+Esta carta tiene dos partes sobre la Orden de Servicio del Plan PRO firmada el 26 de septiembre de 2026, con inicio de operación el 28 de septiembre y pago mensual anticipado de $1.200.000: una notificación formal y una solicitud de terminación.
 
 **1. Notificación bajo la Garantía de Funcionamiento**
 
@@ -39,6 +39,8 @@ Con fundamento en la Garantía de Funcionamiento y en el acuerdo del 16 de septi
 3. Que las partes se declaren a paz y salvo por todo concepto.
 
 Le pido confirmación por escrito a más tardar el **viernes 7 de noviembre de 2026**. Si LaHaus considera que los incumplimientos no están acreditados, le pido que lo responda por escrito con el soporte correspondiente; en ese caso, esta carta surte efecto como notificación de la Garantía y el término de diez (10) días hábiles para subsanar corre desde hoy, al cabo del cual la terminación opera por incumplimiento sin pagos adicionales.
+
+Agradezco el trabajo de Jaider en la implementación y en las reuniones de cadencia. Esta decisión no es contra el equipo; es por la operación de la plataforma.
 
 Cordialmente,
 
