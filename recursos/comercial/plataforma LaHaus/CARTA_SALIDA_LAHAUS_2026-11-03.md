@@ -22,7 +22,7 @@ La Orden de Servicio prevé una Garantía de Funcionamiento sobre tres funciones
 - **Conversación del 2 de noviembre, 11:13 a. m.:** lead que aceptó el proceso, preguntó la dirección y quedó en estado "Agendando"; el asistente no ofreció ningún horario y en su lugar solicitó el correo electrónico en tres mensajes sucesivos, hasta que la persona dejó de responder. No se creó cita.
 - **Resultado del análisis de casos comprometido para el 21 de octubre**, no entregado en la reunión del 22, y el informe semanal por corte, que no se ha recibido de forma regular.
 
-Estos hechos configuran incumplimientos de las tres funciones cubiertas por la Garantía, sostenidos durante más de un mes y conocidos por LaHaus desde las reuniones de cadencia y las cartas del 13 y el 19 de octubre. Conforme a la Orden de Servicio, esta comunicación constituye la notificación por escrito.
+Estos hechos configuran incumplimientos de las tres funciones cubiertas por la Garantía, sostenidos durante más de un mes y conocidos por LaHaus desde las reuniones de cadencia, mis solicitudes del 13 de octubre (respondidas por ustedes en el informe del 17) y mi mensaje del 19 de octubre. Conforme a la Orden de Servicio, esta comunicación constituye la notificación por escrito.
 
 **2. Lo acordado por correo el 16 de septiembre**
 
@@ -39,8 +39,6 @@ Con fundamento en la Garantía de Funcionamiento y en el acuerdo del 16 de septi
 3. Que las partes se declaren a paz y salvo por todo concepto.
 
 Le pido confirmación por escrito a más tardar el **viernes 7 de noviembre de 2026**. Si LaHaus considera que los incumplimientos no están acreditados, le pido que lo responda por escrito con el soporte correspondiente; en ese caso, esta carta surte efecto como notificación de la Garantía y el término de diez (10) días hábiles para subsanar corre desde hoy, al cabo del cual la terminación opera por incumplimiento sin pagos adicionales.
-
-Quedo atenta.
 
 Cordialmente,
 
