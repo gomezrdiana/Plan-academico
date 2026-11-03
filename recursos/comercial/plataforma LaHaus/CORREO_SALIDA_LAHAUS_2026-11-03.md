@@ -1,0 +1,26 @@
+Hola Juan Pablo,
+
+Te escribo con la decisión tomada, y prefiero decírtela directo.
+
+Llevamos cinco semanas con la plataforma y no está funcionando para nosotros. No es un tema de volumen de leads ni de la pauta; es de operación, que es justo lo que te pregunté antes de firmar. Lo que estamos viendo:
+
+- Desde el 7 de octubre no recibimos notificaciones en la app. Eso significa que no hay forma de saber cuándo una conversación necesita a una persona, y los fines de semana se pierden leads que ya estaban listos.
+- Leads que eligieron horario y nunca tuvieron cita (fila 188), leads sin gestión registrada (fila 685), el error técnico que ustedes mismos reconocieron el 9 de octubre, y el domingo pasado un lead en estado "Agendando" al que el asistente le pidió el correo tres veces en vez de darle un horario, hasta que dejó de responder.
+- El análisis de los casos que quedó para el 21 de octubre no llegó, y el informe semanal tampoco ha sido regular.
+
+El 16 de septiembre te pregunté qué pasaba si en los primeros 60 días la plataforma incumplía su propia operación, y me respondiste que en ese caso la permanencia era de dos meses y que lo incluían. Estamos dentro de esos 60 días y los incumplimientos están notificados desde las cartas del 13 y el 19 de octubre.
+
+Por eso doy por terminado el servicio desde hoy. Lo que te pido:
+
+1. Que la terminación quede con efecto inmediato y no se facturen ni cobren los meses dos y tres.
+2. Que antes de desactivar nada nos entreguen la base completa de leads y el historial de las conversaciones, como me ofreciste en septiembre, y que la landing se mantenga los seis meses que me dijiste.
+3. Paz y salvo por todo concepto.
+
+Adjunto la carta formal con el detalle, para que quede en orden. Te pido confirmación por escrito a más tardar el viernes 7 de noviembre. Si consideran que no hay incumplimiento, respóndeme con el soporte y la carta queda como notificación de la Garantía, con sus diez días hábiles.
+
+Agradezco el trabajo de Jaider en todo este tiempo. Esto no es contra el equipo; es que no podemos seguir pagando por algo que no está operando.
+
+Quedo atenta,
+
+Diana Marcela Gómez
+Global Teacher S.A.S. · Heiiu English Academy
