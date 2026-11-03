@@ -20,7 +20,7 @@ La Orden de Servicio prevé una Garantía de Funcionamiento sobre tres funciones
 - **Sin notificaciones en la aplicación desde el 7 de octubre.** El Plan PRO incluye "notificaciones en tiempo real: alertas inmediatas ante cada nuevo lead y actividad relevante". Desde esa fecha no recibimos ninguna alerta, por lo que es imposible saber cuándo una conversación necesita intervención humana, en especial los fines de semana. Es la causa directa de varios de los casos de esta lista.
 - **Error técnico reconocido por LaHaus en el informe del 9 de octubre**, que dejó sin gestión a por lo menos un lead.
 - **Conversación del 2 de noviembre, 11:13 a. m.:** lead que aceptó el proceso, preguntó la dirección y quedó en estado "Agendando"; el asistente no ofreció ningún horario y en su lugar solicitó el correo electrónico en tres mensajes sucesivos, hasta que la persona dejó de responder. No se creó cita.
-- **Resultado del análisis de casos comprometido para el 21 de octubre**, no entregado en la reunión del 22, y el informe semanal por corte, que no se ha recibido de forma regular.
+- **Seguimiento.** La reunión del 21 de octubre, propuesta por ustedes para revisar el resultado de los casos, no se realizó. Las reuniones de cadencia solo ocurren cuando yo las agendo; el seguimiento del servicio ha dependido de mi insistencia y no de la operación de LaHaus.
 
 Estos hechos configuran incumplimientos de las tres funciones cubiertas por la Garantía, sostenidos durante más de un mes y conocidos por LaHaus desde las reuniones de cadencia, mis solicitudes del 13 de octubre (respondidas por ustedes en el informe del 17) y mi mensaje del 19 de octubre. Conforme a la Orden de Servicio, esta comunicación constituye la notificación por escrito.
 
