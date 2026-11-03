@@ -9,6 +9,7 @@ Llevamos varias semanas con la plataforma y no está funcionando para nosotros. 
 - Se subió una campaña y, por un error de Meta, los leads no llegaron a LaHaus. Pedí reporte varias veces y el error no se identificó sino hasta el 27 de octubre; ni siquiera para decirme "no están entrando leads". El de marketing veía leads entrar, y como la campaña es a WhatsApp, solo desde LaHaus se puede ver con el reporte.
 - Se pidió incluir a un asesor y retirar a otro, y el proceso fue lento. Hasta el momento el asesor nuevo no ha recibido un solo lead, porque la plataforma solo se los está enviando al asesor antiguo.
 - Quedamos en que se haría una reunión con los de marketing para mirar lo de las campañas, que también se quedó de incluir para ver qué podíamos mejorar. La pedí y hasta el momento no se ha realizado.
+- La página web (landing) que incluía el Plan PRO nunca se hizo. No la tenemos.
 
 Yo agradezco inmensamente el trabajo de Jaider y creo que su servicio ha sido espectacular, pero la plataforma no es lo que esperaba y mi situación no me permite seguir con algo que no ha cumplido con la expectativa.
 
