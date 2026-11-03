@@ -28,14 +28,14 @@ Estos hechos configuran incumplimientos de las tres funciones cubiertas por la G
 
 Antes de firmar, le pregunté textualmente si, en caso de que la plataforma incumpliera su propia operación en los primeros 60 días, podíamos terminar sin cumplir la permanencia de tres meses. Su respuesta (16 de septiembre, 6:18 p. m.) fue: *"Podemos tener un acuerdo de permanencia mínima por dos meses si no cumple con los requerimientos que mencionas, y si cumple de 3 meses como lo mencionamos."* Y a mi solicitud de dejarlo en el contrato: *"De acuerdo, lo incluimos."* Ese acuerdo es el que hoy invoco.
 
-En el mismo hilo quedaron compromisos que no se han cumplido: el acuerdo de confidencialidad que se diligenciaría "antes de salir al aire" y las auditorías ilimitadas de campañas Meta incluidas en el Plan PRO, de las cuales no se ha realizado ninguna.
+En el mismo hilo quedaron compromisos que no se han cumplido: el acuerdo de confidencialidad que se diligenciaría "antes de salir al aire", las auditorías ilimitadas de campañas Meta incluidas en el Plan PRO, de las cuales no se ha realizado ninguna, y la página web (landing) incluida en el plan, que nunca nos fue entregada ni presentada.
 
 **3. Terminación del servicio**
 
 Con fundamento en la Garantía de Funcionamiento y en el acuerdo del 16 de septiembre, Global Teacher S.A.S. da por terminado el servicio **a partir de la fecha de esta comunicación**, y solicita:
 
 1. Que la terminación se registre con efecto inmediato, sin facturación ni cobro de los meses segundo y tercero, dado que el incumplimiento se produjo dentro de los primeros 60 días y fue notificado reiteradamente.
-2. Que antes de cualquier desactivación LaHaus entregue la base completa de leads y el historial de todas las conversaciones en formato exportable, como usted mismo lo ofreció el 16 de septiembre, y que la landing permanezca activa durante los seis meses indicados en esa misma comunicación.
+2. Que antes de cualquier desactivación LaHaus entregue la base completa de leads y el historial de todas las conversaciones en formato exportable, como usted mismo lo ofreció el 16 de septiembre.
 3. Que las partes se declaren a paz y salvo por todo concepto.
 
 Le pido confirmación por escrito a más tardar el **viernes 7 de noviembre de 2026**. Si LaHaus considera que los incumplimientos no están acreditados, le pido que lo responda por escrito con el soporte correspondiente; en ese caso, esta carta surte efecto como notificación de la Garantía y el término de diez (10) días hábiles para subsanar corre desde hoy, al cabo del cual la terminación opera por incumplimiento sin pagos adicionales.
