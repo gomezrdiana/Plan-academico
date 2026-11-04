@@ -10,6 +10,7 @@ Llevamos varias semanas con la plataforma y no está funcionando para nosotros. 
 - Se pidió incluir a un asesor y retirar a otro, y el proceso fue lento. Hasta el momento el asesor nuevo no ha recibido un solo lead, porque la plataforma solo se los está enviando al asesor antiguo.
 - Quedamos en que se haría una reunión con los de marketing para mirar lo de las campañas, que también se quedó de incluir para ver qué podíamos mejorar. La pedí y hasta el momento no se ha realizado.
 - La página web (landing) que incluía el Plan PRO nunca se hizo. No la tenemos.
+- El acuerdo de confidencialidad que quedó de diligenciarse antes de salir al aire nunca lo mandaron.
 
 Yo agradezco inmensamente el trabajo de Jaider y creo que su servicio ha sido espectacular, pero la plataforma no es lo que esperaba y mi situación no me permite seguir con algo que no ha cumplido con la expectativa.
 
@@ -23,7 +24,7 @@ Por eso quiero dar por terminado el servicio desde hoy:
 
 Adjunto la carta formal con el detalle, para que quede en orden. Te pido confirmación por escrito a más tardar el viernes 7 de noviembre. Si consideran que no hay incumplimiento, respóndeme con el soporte y la carta queda como notificación de la Garantía, con sus diez días hábiles.
 
-Esto no es contra el equipo; es que no podemos seguir pagando por algo que no está operando.
+Realmente, como dije anteriormente no es contra el equipo; es que no podemos seguir pagando por algo que no está operando como pensamos.
 
 Quedo atenta,
 
