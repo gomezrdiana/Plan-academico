@@ -16,7 +16,7 @@ from reportlab.lib.utils import ImageReader
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 OUT = os.path.join(ROOT, 'recursos', 'comercial', 'campanas', 'VOLANTE_CLASE_CORTESIA')
-LOGO = os.path.join(ROOT, 'recursos', 'marca heiiu', 'logo_heiiu_sobre_naranja.png')
+LOGO = os.path.join(ROOT, 'recursos', 'marca heiiu', 'logo_heiiu_transparente.png')
 os.makedirs(OUT, exist_ok=True)
 
 CONFIG = dict(
@@ -30,7 +30,7 @@ pdfmetrics.registerFont(TTFont('Rounded', 'C:/Windows/Fonts/ARLRDBD.TTF'))
 pdfmetrics.registerFont(TTFont('Arial', 'C:/Windows/Fonts/arial.ttf'))
 pdfmetrics.registerFont(TTFont('ArialB', 'C:/Windows/Fonts/arialbd.ttf'))
 
-NARANJA = colors.HexColor('#E54C09'); AMARILLO = colors.HexColor('#FBC900')
+NARANJA = colors.HexColor('#E54C09'); NARANJA_LOGO = colors.Color(255/255, 74/255, 0/255); AMARILLO = colors.HexColor('#FBC900')
 CREMA = colors.HexColor('#FFF8E7'); TINTA = colors.HexColor('#2A1A12'); BLANCO = colors.white
 W, H = 5.5 * inch, 8.5 * inch
 
@@ -64,53 +64,40 @@ def draw_par(c, x, y, text, font, size, maxw, leading, color=TINTA, align='left'
 def volante(c, ox=0, oy=0):
     c.saveState(); c.translate(ox, oy)
     M = 0.35 * inch
-    # fondo crema
     c.setFillColor(CREMA); c.rect(0, 0, W, H, stroke=0, fill=1)
-    # banda naranja superior con logo
-    bh = 1.25 * inch
-    c.setFillColor(NARANJA); c.rect(0, H - bh, W, bh, stroke=0, fill=1)
-    c.drawImage(LOGO, M, H - bh + 0.28 * inch, width=1.55 * inch, height=0.72 * inch, preserveAspectRatio=True, mask='auto')
-    c.setFont('Rounded', 10); c.setFillColor(BLANCO)
-    c.drawRightString(W - M, H - bh + 0.72 * inch, 'INGLÉS PRESENCIAL')
-    c.drawRightString(W - M, H - bh + 0.50 * inch, 'BUCARAMANGA')
-    # etiqueta GRATIS
-    y = H - bh - 0.5 * inch
-    c.setFillColor(AMARILLO); c.roundRect(M, y - 0.08 * inch, 1.05 * inch, 0.34 * inch, 5, stroke=0, fill=1)
-    c.setFont('Rounded', 13); c.setFillColor(TINTA); c.drawString(M + 0.12 * inch, y, 'GRATIS')
+    # banda naranja con logo grande
+    bh = 1.5 * inch
+    c.setFillColor(NARANJA_LOGO); c.rect(0, H - bh, W, bh, stroke=0, fill=1)
+    c.drawImage(LOGO, (W - 2.4 * inch) / 2, H - bh + 0.25 * inch, width=2.4 * inch, height=1.0 * inch, preserveAspectRatio=True, mask='auto')
+    # GRATIS enorme en amarillo
+    y = H - bh - 0.18 * inch
+    c.setFillColor(AMARILLO); c.rect(0, y - 1.05 * inch, W, 1.1 * inch, stroke=0, fill=1)
+    c.setFont('Rounded', 64); c.setFillColor(TINTA); c.drawCentredString(W / 2, y - 0.8 * inch, 'GRATIS')
     # titular
-    y -= 0.5 * inch
-    c.setFont('Rounded', 30); c.setFillColor(NARANJA)
-    c.drawString(M, y, 'CLASE DE'); y -= 0.42 * inch
-    c.drawString(M, y, 'CORTESÍA'); y -= 0.34 * inch
-    y = draw_par(c, M, y, 'Ven a vivir una clase real en nuestra sede. Sin costo y sin compromiso.', 'Arial', 11.5, W - 2 * M, 15)
-    # mensaje destino
-    y -= 0.12 * inch
-    c.setFillColor(TINTA); c.roundRect(M, y - 0.72 * inch, W - 2 * M, 0.8 * inch, 8, stroke=0, fill=1)
-    draw_par(c, M + 0.15 * inch, y - 0.27 * inch, 'Te entrenamos para llegar a tu destino: la entrevista, el viaje, el negocio, el cargo que pide inglés.', 'Rounded', 12, W - 2 * M - 0.3 * inch, 16, color=AMARILLO)
-    y -= 1.0 * inch
-    # qué vas a vivir
-    c.setFont('Rounded', 12.5); c.setFillColor(NARANJA); c.drawString(M, y, 'En tu clase de cortesía:'); y -= 0.26 * inch
-    items = ['Hablas inglés desde el primer minuto, con un profesor que te corrige en vivo.',
-             'Conoces cómo entrenamos todos los días y qué destino puedes alcanzar.',
-             'Te explicamos la garantía de aprendizaje por escrito: si cumples tu parte y no avanzas en inglés, te devolvemos el 100% del nivel.']
-    for it in items:
-        c.setFillColor(NARANJA); c.circle(M + 0.07 * inch, y + 0.04 * inch, 0.045 * inch, stroke=0, fill=1)
-        y = draw_par(c, M + 0.25 * inch, y, it, 'Arial', 10.5, W - 2 * M - 0.25 * inch, 13.5) - 0.07 * inch
-    # bloque QR + CTA
-    y -= 0.05 * inch
-    qh = 1.5 * inch
-    c.setFillColor(BLANCO); c.roundRect(M, y - qh, W - 2 * M, qh, 8, stroke=0, fill=1)
-    c.drawImage(qr_image(), M + 0.12 * inch, y - qh + 0.12 * inch, width=qh - 0.24 * inch, height=qh - 0.24 * inch)
-    tx = M + qh + 0.05 * inch; tw = W - M - tx - 0.1 * inch
-    c.setFont('Rounded', 13); c.setFillColor(TINTA); c.drawString(tx, y - 0.38 * inch, 'Agenda tu clase')
-    c.drawString(tx, y - 0.62 * inch, 'por WhatsApp')
-    c.setFont('Rounded', 15); c.setFillColor(NARANJA); c.drawString(tx, y - 0.95 * inch, CONFIG['whatsapp_visible'])
-    draw_par(c, tx, y - 1.2 * inch, 'Escanea el código o escríbenos. Cupos por horario.', 'Arial', 9, tw, 11)
-    y -= qh + 0.2 * inch
+    y -= 1.65 * inch
+    c.setFont('Rounded', 40); c.setFillColor(NARANJA)
+    c.drawCentredString(W / 2, y, 'CLASE DE'); y -= 0.55 * inch
+    c.drawCentredString(W / 2, y, 'CORTESÍA'); y -= 0.5 * inch
+    c.setFont('Rounded', 15); c.setFillColor(TINTA)
+    c.drawCentredString(W / 2, y, 'Habla inglés desde el primer minuto.'); y -= 0.36 * inch
+    # caja oscura: una sola frase
+    c.setFillColor(TINTA); c.roundRect(M, y - 0.62 * inch, W - 2 * M, 0.72 * inch, 10, stroke=0, fill=1)
+    c.setFont('Rounded', 16); c.setFillColor(AMARILLO)
+    c.drawCentredString(W / 2, y - 0.42 * inch, 'Te entrenamos para llegar a tu destino.')
+    y -= 0.85 * inch
+    # QR grande + número
+    qs = 1.75 * inch
+    c.setFillColor(BLANCO); c.roundRect(M, y - qs - 0.3 * inch, W - 2 * M, qs + 0.3 * inch, 10, stroke=0, fill=1)
+    c.drawImage(qr_image(), M + 0.15 * inch, y - qs - 0.15 * inch, width=qs, height=qs)
+    tx = M + qs + 0.3 * inch
+    c.setFont('Rounded', 17); c.setFillColor(TINTA)
+    c.drawString(tx, y - 0.5 * inch, 'Agenda tu'); c.drawString(tx, y - 0.78 * inch, 'clase por'); c.drawString(tx, y - 1.06 * inch, 'WhatsApp')
+    c.setFont('Rounded', 19); c.setFillColor(NARANJA); c.drawString(tx, y - 1.5 * inch, CONFIG['whatsapp_visible'])
+    c.setFont('Arial', 9.5); c.setFillColor(TINTA); c.drawString(tx, y - 1.78 * inch, 'Cupos por horario')
+    y -= qs + 0.5 * inch
     # pie
-    c.setFont('ArialB', 9); c.setFillColor(TINTA); c.drawCentredString(W / 2, y, CONFIG['sede']); y -= 0.17 * inch
-    c.setFont('Arial', 8.5); c.drawCentredString(W / 2, y, 'Para jóvenes y adultos. Afiliados a Cajasan: condiciones especiales con carné o certificado vigente.')
-    # franja amarilla inferior
+    c.setFont('ArialB', 10); c.setFillColor(TINTA); c.drawCentredString(W / 2, y, CONFIG['sede']); y -= 0.18 * inch
+    c.setFont('Arial', 9.5); c.drawCentredString(W / 2, y, 'Garantía de aprendizaje por escrito.')
     c.setFillColor(AMARILLO); c.rect(0, 0, W, 0.22 * inch, stroke=0, fill=1)
     c.restoreState()
 
