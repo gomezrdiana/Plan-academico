@@ -77,9 +77,10 @@ def volante(c, ox=0, oy=0):
     y -= 1.65 * inch
     c.setFont('Rounded', 40); c.setFillColor(NARANJA)
     c.drawCentredString(W / 2, y, 'CLASE DE'); y -= 0.55 * inch
-    c.drawCentredString(W / 2, y, 'CORTESÍA'); y -= 0.5 * inch
+    c.drawCentredString(W / 2, y, 'CORTESÍA'); y -= 0.48 * inch
     c.setFont('Rounded', 15); c.setFillColor(TINTA)
-    c.drawCentredString(W / 2, y, 'Habla inglés desde el primer minuto.'); y -= 0.36 * inch
+    c.drawCentredString(W / 2, y, 'Habla inglés desde el primer día,'); y -= 0.26 * inch
+    c.drawCentredString(W / 2, y, 'sin importar tu nivel.'); y -= 0.34 * inch
     # caja oscura: una sola frase
     c.setFillColor(TINTA); c.roundRect(M, y - 0.62 * inch, W - 2 * M, 0.72 * inch, 10, stroke=0, fill=1)
     c.setFont('Rounded', 16); c.setFillColor(AMARILLO)
