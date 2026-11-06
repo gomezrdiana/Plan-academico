@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """Carta de salida a LaHaus: PDF tipo carta de oficina (Helvetica 11, interlineado amplio, espacio entre parrafos).
-Fuente: recursos/comercial/plataforma LaHaus/CARTA_SALIDA_LAHAUS_2026-11-03.md"""
+Fuente: recursos/comercial/plataforma LaHaus/CARTA_SALIDA_LAHAUS_2026-11-06.md"""
 import os, re, sys
 from reportlab.lib.pagesizes import letter
 from reportlab.lib.units import cm
@@ -10,8 +10,8 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, ListFlowabl
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 D = os.path.join(ROOT, 'recursos', 'comercial', 'plataforma LaHaus')
-MD = os.path.join(D, 'CARTA_SALIDA_LAHAUS_2026-11-03.md')
-PDF = os.path.join(D, sys.argv[1] if len(sys.argv) > 1 else 'CARTA_SALIDA_LAHAUS_2026-11-03.pdf')
+MD = os.path.join(D, 'CARTA_SALIDA_LAHAUS_2026-11-06.md')
+PDF = os.path.join(D, sys.argv[1] if len(sys.argv) > 1 else 'CARTA_SALIDA_LAHAUS_2026-11-06.pdf')
 
 body = ParagraphStyle('b', fontName='Helvetica', fontSize=11, leading=17, spaceAfter=11, alignment=TA_JUSTIFY)
 plain = ParagraphStyle('p', parent=body, alignment=0, spaceAfter=2)
