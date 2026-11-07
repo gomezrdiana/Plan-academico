@@ -4,13 +4,13 @@ Señor
 **Juan Pablo Lasso**
 LaHaus AI
 juanlasso@lahaus.com
-Con copia a: Jaider (implementación) y suscripciones@lahaus.com
+Con copia a: suscripciones@lahaus.com
 
 **Asunto: Notificación bajo la Garantía de Funcionamiento y terminación del servicio. Orden de Servicio LaHaus AI, Plan PRO, Global Teacher S.A.S. (Heiiu).**
 
 Estimado Juan Pablo:
 
-Esta carta tiene dos partes sobre la Orden de Servicio del Plan PRO firmada el 26 de septiembre de 2026, con inicio de operación el 28 de septiembre y pago mensual anticipado de $1.200.000: una notificación formal y una solicitud de terminación.
+Esta carta tiene dos partes sobre la Orden de Servicio del Plan PRO (fechada el 26 de septiembre de 2026), con pago mensual anticipado de $1.200.000: una notificación formal y una solicitud de terminación.
 
 **1. Notificación bajo la Garantía de Funcionamiento**
 
@@ -26,7 +26,7 @@ Estos hechos configuran incumplimientos de las tres funciones cubiertas por la G
 
 **2. Lo acordado por correo el 16 de septiembre**
 
-Antes de firmar, le pregunté textualmente si, en caso de que la plataforma incumpliera su propia operación en los primeros 60 días, podíamos terminar sin cumplir la permanencia de tres meses. Su respuesta (16 de septiembre, 6:18 p. m.) fue: *"Podemos tener un acuerdo de permanencia mínima por dos meses si no cumple con los requerimientos que mencionas, y si cumple de 3 meses como lo mencionamos."* Y a mi solicitud de dejarlo en el contrato: *"De acuerdo, lo incluimos."* Ese acuerdo es el que hoy invoco. La operación inició el 28 de septiembre; esta comunicación se presenta dentro de los primeros 60 días.
+Antes de firmar, le pregunté textualmente si, en caso de que la plataforma incumpliera su propia operación en los primeros 60 días, podíamos terminar sin cumplir la permanencia de tres meses. Su respuesta (16 de septiembre, 6:18 p. m.) fue: *"Podemos tener un acuerdo de permanencia mínima por dos meses si no cumple con los requerimientos que mencionas, y si cumple de 3 meses como lo mencionamos."* Y a mi solicitud de dejarlo en el contrato: *"De acuerdo, lo incluimos."* Ese acuerdo es el que hoy invoco. La operación efectiva de la plataforma inició con la activación de la cuenta, posterior a la firma; esta comunicación se presenta dentro de los primeros 60 días de operación.
 
 En el mismo hilo quedaron compromisos que no se han cumplido: el acuerdo de confidencialidad que se diligenciaría "antes de salir al aire", las auditorías ilimitadas de campañas Meta incluidas en el Plan PRO, de las cuales no se ha realizado ninguna, y la página web (landing) incluida en el plan, que nunca nos fue entregada ni presentada.
 
