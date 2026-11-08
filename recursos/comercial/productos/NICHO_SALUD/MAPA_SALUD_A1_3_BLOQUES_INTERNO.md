@@ -34,7 +34,9 @@ Cierre del bloque (Cl 30): entrega de turno completa de un paciente, en video.
 | 43 a 44 | ensayo y presentación final | Escena 12: paciente de principio a fin, en video (video de salida) |
 | 45 | examen final del nivel, evaluador externo (opcional, costo aparte, solo quien lo pidió) | Sin guía ese día para quienes lo presentan. Quienes no lo presentan cierran con la escena 12 repetida en parejas. El examen evalúa el A1 completo: coordinación avisa desde el bloque 1 que el vocabulario general se prepara por fuera. |
 
-## Semana tipo (5 por bloque)
+## Semana tipo del ritmo de tres por semana (5 semanas por bloque)
+
+En el ritmo intensivo (lunes a viernes, 3 semanas por bloque) hay clase todos los días y la tarea es la del día de clase: 15 tareas por bloque. Franjas: 12:00 a 2:00 pm o 7:00 pm; no hay franja de la mañana.
 
 | Día | Qué pasa | Qué entrega la persona |
 |---|---|---|
@@ -42,7 +44,7 @@ Cierre del bloque (Cl 30): entrega de turno completa de un paciente, en video.
 | Martes | Sin clase | Audio: lectura en voz alta del diálogo de la escena de la semana y del vocabulario del libro de esa semana (20 min) |
 | Jueves | Sin clase | Video de 1 minuto: qué entendió de un video corto en inglés del tema del bloque, que el coach envía el miércoles (20 min) |
 
-El coach responde cada tarea con una sola corrección, antes de la siguiente clase. Las 25 tareas del bloque se marcan en el registro; con menos de 20 la garantía no aplica.
+El coach responde cada tarea con una sola corrección, antes de la siguiente clase. Todas las tareas del bloque se marcan en el registro; con menos de 4 de cada 5 la garantía no aplica.
 
 ## Reglas que no cambian
 
