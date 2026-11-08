@@ -17,7 +17,7 @@ Los bloques se toman en orden. Al terminar los tres, la persona presenta el exam
 - **15 sesiones de 2 horas** (o 8 sesiones de 4 horas), en la sede de la academia o en la institución. Grupo cerrado para su institución desde 8 personas, máximo 12.
 - **Cada sesión tiene dos partes:** la clase del nivel, que sigue la secuencia de la academia, y la simulación del puesto, donde cada persona actúa la escena sin leer.
 - **Tarea diaria de 5 minutos:** escucha un audio corto de un paciente (acentos distintos) y graba su respuesta en 1 minuto. El coach contesta con una corrección.
-- **Video de entrada y video de salida por bloque,** más constancia de asistencia. La institución recibe asistencia y cumplimiento; las evaluaciones son del estudiante.
+- **Video de entrada y video de salida por bloque,** más constancia de asistencia. La institución recibe el reporte de asistencia y cumplimiento de tareas de cada persona; los resultados de las evaluaciones se entregan solo al estudiante.
 - **Garantía de aprendizaje por escrito.**
 
 ## Lo que no es
