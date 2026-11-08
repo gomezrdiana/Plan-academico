@@ -29,6 +29,4 @@ El programa cubre la gramática del nivel A1 y el vocabulario de las escenas del
 
 El examen del nivel A1 evalúa el nivel completo, no solo las escenas. Quien quiera presentarlo debe preparar el vocabulario general del nivel por su cuenta.
 
-## Contacto
-
-Gerente de Alianzas: 316 768 8793 · Línea de la academia: 317 717 3641
+**Contacto:** Gerente de Alianzas 316 768 8793 · Línea de la academia 317 717 3641
