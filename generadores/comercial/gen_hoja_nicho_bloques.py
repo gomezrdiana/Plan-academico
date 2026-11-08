@@ -16,7 +16,7 @@ NARANJA = colors.HexColor('#E54C09'); CREMA = colors.HexColor('#FFF8E7'); TINTA 
 
 st_h1 = ParagraphStyle('h1', fontName='Helvetica-Bold', fontSize=15, leading=19, textColor=NARANJA, spaceAfter=6)
 st_h2 = ParagraphStyle('h2', fontName='Helvetica-Bold', fontSize=11.5, leading=15, textColor=TINTA, spaceBefore=7, spaceAfter=3)
-st_p = ParagraphStyle('p', fontName='Helvetica', fontSize=9.6, leading=13.2, textColor=TINTA, spaceAfter=5)
+st_p = ParagraphStyle('p', fontName='Helvetica', fontSize=9.3, leading=12.4, textColor=TINTA, spaceAfter=4)
 st_cell = ParagraphStyle('c', fontName='Helvetica', fontSize=8.8, leading=11.6, textColor=TINTA)
 st_cellb = ParagraphStyle('cb', parent=st_cell, fontName='Helvetica-Bold')
 
@@ -70,7 +70,7 @@ def build(md_path, pdf_path):
             flush_bullets(); story.append(Paragraph(inline(ln), st_p))
         i += 1
     flush_bullets()
-    doc = SimpleDocTemplate(pdf_path, pagesize=letter, leftMargin=2.0 * cm, rightMargin=2.0 * cm, topMargin=1.5 * cm, bottomMargin=1.5 * cm,
+    doc = SimpleDocTemplate(pdf_path, pagesize=letter, leftMargin=2.0 * cm, rightMargin=2.0 * cm, topMargin=1.3 * cm, bottomMargin=1.2 * cm,
                             title=os.path.basename(pdf_path)[:-4].replace('_', ' '), author='Heiiu English Academy')
     doc.build(story)
     print('OK', pdf_path, os.path.getsize(pdf_path))
