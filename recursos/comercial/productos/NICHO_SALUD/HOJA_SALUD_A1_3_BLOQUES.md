@@ -10,7 +10,7 @@
 | 2. Síntomas, instrucciones y turno | 30 | Pregunta dónde y desde cuándo duele, da instrucciones físicas, explica cómo tomar un medicamento y entrega el turno a un colega con lo que pasó. | Dolor y síntomas · Signos vitales e instrucciones · Medicamentos · Entrega de turno |
 | 3. Procedimiento, alta y cierre | 30 | Explica un procedimiento sencillo, da el alta con cuidados en casa, cobra y explica el seguro, y atiende a un paciente de principio a fin. | Explicar un procedimiento · Alta y cuidados en casa · Pagos y seguros · Paciente de principio a fin (video de salida) |
 
-Los bloques se toman en orden. Al terminar los tres, la persona presenta el examen del nivel A1 con un evaluador externo y recibe su certificado.
+Los bloques se toman en orden. Al terminar los tres, la persona puede presentar el examen del nivel A1 con un evaluador externo (opcional, con costo aparte) y, si lo aprueba, recibe su certificado.
 
 ## Cómo funciona cada bloque
 
@@ -24,6 +24,10 @@ Los bloques se toman en orden. Al terminar los tres, la persona presenta el exam
 ## Lo que no es
 
 Treinta horas no dan conversación libre. Cada bloque da un guion de atención acotado, dicho de memoria y en video; el siguiente bloque lo amplía. No se promete inglés "rápido" ni resultados en un plazo distinto al de las horas contratadas.
+
+El programa cubre la gramática del nivel A1 y el vocabulario de las escenas del puesto. Para hablar de temas distintos a los de los bloques y ampliar el vocabulario, la persona necesita ver contenido en inglés, leer y hacer actividades por fuera del programa; eso no está incluido en las horas.
+
+El examen del nivel A1 evalúa el nivel completo, no solo las escenas. Quien quiera presentarlo debe preparar el vocabulario general del nivel por su cuenta.
 
 ## Contacto
 

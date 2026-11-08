@@ -32,7 +32,7 @@ Cierre del bloque (Cl 30): entrega de turno completa de un paciente, en video.
 | 36 a 39 | M27 demostrativos · M29 preposiciones de tiempo · M31 there is · M32 be en pasado | Escena 11: pagos y seguros ("The total is", "Here is your invoice", próxima cita) |
 | 40 a 42 | M33 continuo · M34 simple vs continuo · M35 going to | Escena 10: alta y cuidados en casa ("You're going to rest for two days", señales de alarma) |
 | 43 a 44 | ensayo y presentación final | Escena 12: paciente de principio a fin, en video (video de salida) |
-| 45 | examen final del nivel, evaluador externo | Sin guía ese día. Certificado A1. |
+| 45 | examen final del nivel, evaluador externo (opcional, costo aparte, solo quien lo pidió) | Sin guía ese día para quienes lo presentan. Quienes no lo presentan cierran con la escena 12 repetida en parejas. El examen evalúa el A1 completo: coordinación avisa desde el bloque 1 que el vocabulario general se prepara por fuera. |
 
 ## Reglas que no cambian
 
