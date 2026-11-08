@@ -14,11 +14,11 @@ Los bloques se toman en orden. Al terminar los tres, la persona presenta el exam
 
 ## Cómo funciona cada bloque
 
-- **Las clases son obligatorias y sin celular.** El celular se guarda al entrar y la asistencia se registra en cada sesión; es parte de la garantía.
+- **Las clases son obligatorias y sin celular.** El celular se guarda al entrar; la asistencia y el uso del celular se registran en cada sesión y van en el reporte a la institución.
 - **15 sesiones de 2 horas** (o 8 sesiones de 4 horas), en la sede de la academia o en la institución. Grupo cerrado para su institución desde 8 personas, máximo 12.
 - **Cada sesión tiene dos partes:** la clase del nivel, que sigue la secuencia de la academia, y la simulación del puesto, donde cada persona actúa la escena sin leer.
 - **Tarea diaria de 5 minutos:** escucha un audio corto de un paciente (acentos distintos) y graba su respuesta en 1 minuto. El coach contesta con una corrección.
-- **Video de entrada y video de salida por bloque,** más constancia de asistencia. La institución recibe el reporte de asistencia y cumplimiento de tareas de cada persona; los resultados de las evaluaciones se entregan solo al estudiante.
+- **Video de entrada y video de salida por bloque,** más constancia de asistencia. La institución recibe el reporte de cada persona: asistencia, cumplimiento de tareas y uso del celular en clase; los resultados de las evaluaciones se entregan solo al estudiante.
 - **Garantía por escrito del bloque:** si la persona asiste al menos a 13 de las 15 sesiones y entrega al menos 12 de los 15 audios, y al cierre no logra hacer la escena del bloque de memoria en video, repite el bloque sin costo.
 
 ## Lo que no es

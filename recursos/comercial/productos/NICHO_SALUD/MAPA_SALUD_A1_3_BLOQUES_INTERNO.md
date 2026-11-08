@@ -37,7 +37,7 @@ Cierre del bloque (Cl 30): entrega de turno completa de un paciente, en video.
 ## Reglas que no cambian
 
 - La escena usa solo la gramática que el bloque ya cubrió. Si una frase de la escena original pide una estructura posterior, se reemplaza por la forma que el bloque sí tiene (p. ej., en el bloque 1 "I'm calling to confirm" se dice "I call to confirm").
-- El profesor no comunica evaluaciones; coordinación entrega asistencia y cumplimiento a la institución.
+- El profesor registra en cada sesión asistencia, tarea entregada y uso del celular (quién lo sacó, cuántas veces). No comunica evaluaciones; coordinación entrega a la institución asistencia, cumplimiento y uso del celular, nunca notas.
 - Sin nombres de estudiantes en material reutilizable. Sin nombres de metodologías.
 - Cada bloque tiene video de entrada y de salida. La constancia es por bloque; el certificado, por nivel.
 - Las guías del A1 nocturno no se modifican: la escena va en una hoja aparte que se entrega con la guía del día.
