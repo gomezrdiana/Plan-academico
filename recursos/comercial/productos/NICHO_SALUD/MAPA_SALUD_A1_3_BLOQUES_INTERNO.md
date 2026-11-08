@@ -36,7 +36,7 @@ Cierre del bloque (Cl 30): entrega de turno completa de un paciente, en video.
 
 ## Semana tipo del ritmo de tres por semana (5 semanas por bloque)
 
-En el ritmo intensivo (lunes a viernes, 3 semanas por bloque) hay clase todos los días y la tarea es la del día de clase: 15 tareas por bloque. Franjas: 12:00 a 2:00 pm o 7:00 pm; no hay franja de la mañana.
+En el ritmo intensivo (lunes a viernes, 3 semanas por bloque) hay clase todos los días y la tarea es la del día de clase: 15 tareas por bloque. El horario se acuerda con cada institución; no se ofrece franja de la mañana.
 
 | Día | Qué pasa | Qué entrega la persona |
 |---|---|---|
