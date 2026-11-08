@@ -19,7 +19,7 @@ Los bloques se toman en orden. Al terminar los tres, la persona presenta el exam
 - **Cada sesión tiene dos partes:** la clase del nivel, que sigue la secuencia de la academia, y la simulación del puesto, donde cada persona actúa la escena sin leer.
 - **Tarea diaria de 5 minutos:** escucha un audio corto de un paciente (acentos distintos) y graba su respuesta en 1 minuto. El coach contesta con una corrección.
 - **Video de entrada y video de salida por bloque,** más constancia de asistencia. La institución recibe el reporte de cada persona: asistencia, cumplimiento de tareas y uso del celular en clase; los resultados de las evaluaciones se entregan solo al estudiante.
-- **Garantía por escrito del bloque:** si la persona asiste al menos a 13 de las 15 sesiones y entrega al menos 12 de los 15 audios, y al cierre no logra hacer la escena del bloque de memoria en video, repite el bloque sin costo.
+- **Garantía por escrito del bloque:** si la persona cumple su parte y al cierre no logra hacer la escena del bloque de memoria en video, repite el bloque sin costo. Cumplir su parte es: asistir al menos a 13 de las 15 sesiones, entregar al menos 12 de los 15 audios, no usar el celular en clase y participar en la simulación de cada sesión. Todo queda registrado sesión por sesión.
 
 ## Lo que no es
 
