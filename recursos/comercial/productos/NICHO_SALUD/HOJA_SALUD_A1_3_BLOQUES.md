@@ -15,11 +15,11 @@ Los bloques se toman en orden. Al terminar los tres, la persona puede presentar 
 ## Cómo funciona cada bloque
 
 - **Las clases son obligatorias y sin celular.** El celular se guarda al entrar; la asistencia y el uso del celular se registran en cada sesión y van en el reporte a la institución.
-- **15 sesiones de 2 horas** (o 8 sesiones de 4 horas), en la sede de la academia o en la institución. Grupo cerrado para su institución desde 8 personas, máximo 12.
+- **15 sesiones de 2 horas, tres por semana (lunes, miércoles y viernes), 5 semanas por bloque,** en la sede de la academia o en la institución. Dos franjas: 6:30 am o 7:00 pm. Grupo cerrado para su institución desde 8 personas, máximo 12.
 - **Cada sesión tiene dos partes:** la clase del nivel, que sigue la secuencia de la academia, y la simulación del puesto, donde cada persona actúa la escena sin leer.
-- **Tarea diaria de 5 minutos:** escucha un audio corto de un paciente (acentos distintos) y graba su respuesta en 1 minuto. El coach contesta con una corrección.
+- **Tarea todos los días, también los que no hay clase.** Los días de clase: escucha un audio corto de un paciente (acentos distintos) y graba su respuesta en 1 minuto. Los martes y jueves, 20 minutos: el martes lee en voz alta y graba el diálogo de la escena de la semana con el vocabulario del libro; el jueves ve un video corto en inglés del tema del bloque y graba 1 minuto con lo que entendió. El coach contesta cada tarea con una corrección. Son 25 tareas por bloque.
 - **Video de entrada y video de salida por bloque,** más constancia de asistencia. La institución recibe el reporte de cada persona: asistencia, cumplimiento de tareas y uso del celular en clase; los resultados de las evaluaciones se entregan solo al estudiante.
-- **Garantía por escrito del bloque:** si la persona cumple su parte y al cierre no logra hacer la escena del bloque de memoria en video, repite el bloque sin costo. Cumplir su parte es: asistir al menos a 13 de las 15 sesiones, entregar al menos 12 de los 15 audios, no usar el celular en clase y participar en la simulación de cada sesión. Todo queda registrado sesión por sesión.
+- **Garantía por escrito del bloque:** si la persona cumple su parte y al cierre no logra hacer la escena del bloque de memoria en video, repite el bloque sin costo. Cumplir su parte es: asistir al menos a 13 de las 15 sesiones, entregar al menos 20 de las 25 tareas, no usar el celular en clase y participar en la simulación de cada sesión. Todo queda registrado sesión por sesión.
 
 ## Lo que no es
 

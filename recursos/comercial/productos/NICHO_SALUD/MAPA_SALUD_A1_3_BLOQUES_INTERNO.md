@@ -34,6 +34,16 @@ Cierre del bloque (Cl 30): entrega de turno completa de un paciente, en video.
 | 43 a 44 | ensayo y presentación final | Escena 12: paciente de principio a fin, en video (video de salida) |
 | 45 | examen final del nivel, evaluador externo (opcional, costo aparte, solo quien lo pidió) | Sin guía ese día para quienes lo presentan. Quienes no lo presentan cierran con la escena 12 repetida en parejas. El examen evalúa el A1 completo: coordinación avisa desde el bloque 1 que el vocabulario general se prepara por fuera. |
 
+## Semana tipo (5 por bloque)
+
+| Día | Qué pasa | Qué entrega la persona |
+|---|---|---|
+| Lunes, miércoles, viernes | Clase de 2 h: guía del nivel + escena del día | Audio de 1 minuto respondiendo al paciente del audio del coach |
+| Martes | Sin clase | Audio: lectura en voz alta del diálogo de la escena de la semana y del vocabulario del libro de esa semana (20 min) |
+| Jueves | Sin clase | Video de 1 minuto: qué entendió de un video corto en inglés del tema del bloque, que el coach envía el miércoles (20 min) |
+
+El coach responde cada tarea con una sola corrección, antes de la siguiente clase. Las 25 tareas del bloque se marcan en el registro; con menos de 20 la garantía no aplica.
+
 ## Reglas que no cambian
 
 - La escena usa solo la gramática que el bloque ya cubrió. Si una frase de la escena original pide una estructura posterior, se reemplaza por la forma que el bloque sí tiene (p. ej., en el bloque 1 "I'm calling to confirm" se dice "I call to confirm").
