@@ -52,4 +52,5 @@ El coach responde cada tarea con una sola corrección, antes de la siguiente cla
 - El profesor registra en cada sesión asistencia, tarea entregada y uso del celular (quién lo sacó, cuántas veces). No comunica evaluaciones; coordinación entrega a la institución asistencia, cumplimiento y uso del celular, nunca notas.
 - Sin nombres de estudiantes en material reutilizable. Sin nombres de metodologías.
 - Cada bloque tiene video de entrada y de salida. La constancia es por bloque; el certificado, por nivel.
+- Garantía del bloque: quien cumplió su parte y no logró la escena recibe 5 sesiones de 1 h de refuerzo con el coach (sede o virtual, dentro del mes) y nueva grabación. Si falla la mitad o más del grupo, se revisa al coach y el bloque se repite para ese grupo sin costo. Coordinación decide y registra; el coach no lo negocia en clase.
 - Las guías del A1 nocturno no se modifican: la escena va en una hoja aparte que se entrega con la guía del día.
