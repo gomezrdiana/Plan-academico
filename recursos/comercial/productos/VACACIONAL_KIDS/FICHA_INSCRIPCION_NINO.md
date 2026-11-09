@@ -25,12 +25,12 @@
   2. ______________________  Cédula ______________  Parentesco ____________
 - ( ) Autorizo que el niño aparezca en el video del show y en la foto de grupo que se entregan a los papás del grupo.
 - ( ) Autorizo que esa foto o video se use en redes de la academia (opcional; si no marca, no se usa).
-- ( ) Entiendo que la semana abre con mínimo 8 niños pagados y que, si no abre, se devuelve el valor completo.
+- ( ) Entiendo que el grupo de edad abre con mínimo 6 niños pagados y que, si no abre, puedo pasar a la semana siguiente o recibir el valor completo.
 - ( ) Entiendo que el horario es de 8:00 am a 12:00 m, que el refrigerio lo trae el niño y que la recogida es puntual a las 12:00 m.
 
 ## Pago
 
-- Valor: $290.000 por semana · $490.000 dos semanas · semana del 7 al 11 de diciembre $240.000.
+- Valor: $350.000 por semana · $600.000 dos semanas · $850.000 tres · $1.080.000 las cuatro · semana del 7 al 11 de diciembre $290.000.
 - Separación $100.000 el día ____ / ____   Saldo pagado el día ____ / ____   Recibo No. __________
 
 Firma del acudiente: ______________________________   Fecha: ____ / ____ / ________

@@ -20,7 +20,7 @@ CONFIG = dict(
     promesa='Cada viernes recibes el video de tu hijo hablando inglés.',
     semanas_titulo='Semanas de lunes a viernes:',
     semanas=['23 al 27 de noviembre', '30 de noviembre al 4 de diciembre', '7 al 11 de diciembre', '14 al 18 de diciembre'],
-    precio='$290.000 la semana  o  $490.000 dos semanas',
+    precio='$350.000 la semana  o  $600.000 dos semanas',
     sede='Sede Heiiu · Barrio Sotomayor, Bucaramanga',
 )
 
