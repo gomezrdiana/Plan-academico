@@ -4,7 +4,7 @@
 
 ## Qué hacen los niños
 
-Cada mañana es en inglés de principio a fin: una historia que el profesor cuenta y ellos actúan, un juego de movimiento, una "misión" del día (comprar en la tienda, pedir en el restaurante, presentar a su mascota, ser el doctor) y un ensayo para el show. No hay cuaderno ni tarea. Cada viernes presentan el show de la semana en inglés; nosotros lo grabamos y usted recibe el video por WhatsApp ese mismo día. No tiene que venir.
+Cada mañana es en inglés de principio a fin: una historia que el profesor cuenta y ellos actúan, un juego de movimiento, una "misión" del día (comprar en la tienda, pedir en el restaurante, presentar a su mascota, ser el doctor) y un ensayo para el show. Cambian de actividad cada 40 minutos; lo único sentado es el círculo de la entrada. El objetivo es que hable: cada niño habla en inglés todas las mañanas, en la historia, en la misión y en el show. No hay cuaderno ni tarea. Cada viernes presentan el show de la semana en inglés; nosotros lo grabamos y usted recibe el video por WhatsApp ese mismo día. No tiene que venir.
 
 ## Cómo funciona
 

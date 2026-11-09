@@ -7,6 +7,8 @@ Cada semana es un bloque cerrado de 5 mañanas con show el viernes. Semana A = d
 - **Dos adultos en el salón todo el tiempo.** Si uno sale, el otro se queda. Baño: la auxiliar acompaña hasta la puerta.
 - **Todo en inglés**, con gestos, dibujos y objetos. El profesor nunca traduce: muestra, actúa, repite. La auxiliar sí puede susurrar en español a un niño que se bloquea, una vez, y volver al inglés.
 - **Cero pantallas, cero impresos.** Tablero, tarjetas hechas a mano por los niños, objetos reales, cinta en el piso.
+- **El salón lo arman ellos.** El salón es de academia, no de jardín: no se decora antes, se construye durante la semana con lo que los niños producen. Día 1: cada niño hace su tarjeta de presentación y va a la pared. Desde el día 2 queda montado el rincón de la misión (tienda, restaurante, consultorio, aeropuerto) con objetos reales que trae la auxiliar, y las calles con cinta en el piso cuando toca. Lo que se hace cada día se queda en la pared hasta el viernes; la foto de grupo del viernes se toma delante de lo que construyeron. El lunes siguiente el salón vuelve a empezar vacío con el grupo nuevo.
+- **Los niños nunca salen del salón solos.** El edificio se comparte con adultos: al baño los acompaña la auxiliar; a la entrada y a la salida los recibe y los entrega la auxiliar en la puerta del salón.
 - **Lista de asistencia y entrega:** la auxiliar firma quién llegó y a quién se entregó cada niño, con hora. Solo a la persona autorizada en la ficha.
 - Sin nombres de niños en fotos que salgan de la academia sin autorización firmada. El video del show va solo al grupo de papás de esa semana, nunca a redes sin el permiso marcado en la ficha.
 
