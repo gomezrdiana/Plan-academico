@@ -8,7 +8,7 @@ Cada mañana es en inglés de principio a fin: una historia que el profesor cuen
 
 ## Cómo funciona
 
-- **Lunes a viernes, de 8:00 am a 12:00 m**, en la sede. Cada semana es completa en sí misma: 5 mañanas, 20 horas, con su propio show el viernes. Hay cuatro semanas distintas (A, B, C y D), así un niño puede venir las que quiera, hasta las cuatro, sin repetir.
+- **Lunes a viernes, de 8:00 am a 12:00 m**, en la sede. Es jornada de la mañana: no hay transporte ni almuerzo, y el niño se recoge a las 12:00 m. Cada semana es completa en sí misma: 5 mañanas, 20 horas, con su propio show el viernes. Hay cuatro semanas distintas (A, B, C y D), así un niño puede venir las que quiera, hasta las cuatro, sin repetir.
 - **Grupos de máximo 12 niños con dos adultos siempre:** el profesor y una auxiliar de la academia.
 - Dos grupos por edad: 7 a 9 y 10 a 12.
 - Refrigerio de media mañana lo trae cada niño. No hay piscina ni salidas de la sede.
@@ -28,9 +28,8 @@ Cada mañana es en inglés de principio a fin: una historia que el profesor cuen
 
 Hay una semana cada lunes desde que su colegio salga a vacaciones:
 
-- 9 al 13 de noviembre (A) · 17 al 20 de noviembre (B, 4 mañanas por el festivo, $240.000) · 23 al 27 de noviembre (C) · 30 de noviembre al 4 de diciembre (D).
-- 9 al 11 de diciembre (A, 3 mañanas por el festivo, $180.000) · 14 al 18 de diciembre (B).
-- 11 al 15 de enero (C).
+- 23 al 27 de noviembre (A) · 30 de noviembre al 4 de diciembre (B) · 7 al 11 de diciembre (C, 4 mañanas por el festivo, $240.000) · 14 al 18 de diciembre (D).
+- Una semana más en enero, con fecha por confirmar.
 
 Usted marca las semanas que necesita según la fecha de salida de su colegio.
 
