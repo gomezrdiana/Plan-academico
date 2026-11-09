@@ -4,7 +4,10 @@ import os, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, ROOT)
 from gen_a1_a2_clases_pdfs import md_to_pdf
+sys.path.insert(0, os.path.join(ROOT, 'generadores', 'comercial'))
+from gen_hoja_nicho_bloques import build  # dibuja tablas (md_to_pdf no)
 D = os.path.join(ROOT, 'recursos', 'comercial', 'productos', 'VACACIONAL_KIDS')
 for name in ['FICHA_VACACIONAL_PADRES', 'PLAN_SEMANAS_PROFE', 'MENSAJES_VACACIONAL', 'FICHA_INSCRIPCION_NINO']:
-    md_to_pdf(os.path.join(D, name + '.md'), os.path.join(D, name + '.pdf'))
+    render = build if name == 'PLAN_SEMANAS_PROFE' else md_to_pdf
+    render(os.path.join(D, name + '.md'), os.path.join(D, name + '.pdf'))
     print(name, os.path.getsize(os.path.join(D, name + '.pdf')), 'bytes')
