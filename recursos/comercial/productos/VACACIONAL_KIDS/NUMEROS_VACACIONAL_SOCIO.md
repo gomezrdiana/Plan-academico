@@ -11,6 +11,8 @@ Producto: semanas de lunes a viernes, 8:00 am a 12:00 m, niños de 7 a 12, en la
 | Semana de 4 mañanas (7 al 11 de diciembre) | $240.000 por niño |
 | Separación de cupo | $100.000; el saldo se paga antes del lunes |
 
+Referencia de mercado (noviembre de 2026): un vacacional local de 4 horas diarias, mismas cuatro semanas, cobra $650.000 la semana, $1.200.000 dos, $1.650.000 tres y $2.000.000 las cuatro, e incluye camiseta, tula, refrigerios, puesto de trabajo con equipo y certificado por semana. Nuestro precio es el 45% de esa referencia.
+
 Todo se cobra antes de empezar: no hay cartera. Si la semana no abre, se devuelve completo y no se ha incurrido en ningún costo.
 
 ## 2. Costo por semana, por grupo
