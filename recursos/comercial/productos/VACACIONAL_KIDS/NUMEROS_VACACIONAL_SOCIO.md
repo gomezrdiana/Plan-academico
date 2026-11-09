@@ -26,9 +26,10 @@ Los valores marcados con asterisco son supuestos de planeación: gerencia los co
 | Refrigerio | $0 | lo trae cada niño |
 | Sede y servicios | $0 adicional | costo ya existente; confirmar salón libre de 8 a 12 |
 | Pauta | $0 | venta por lista de papás; si se pauta, va aparte |
+| Comisión del Gerente de Alianzas | $0 sobre la lista de papás | solo si el grupo llega por una empresa o colegio que él cierre: 10% del recaudo, como en su anexo; son $29.000 por niño por semana |
 | **Total** | **$400.000** | |
 
-Un segundo grupo (de 7 a 9 y de 10 a 12) duplica el costo: segundo profesor, segunda auxiliar, segundo salón.
+Si un grupo entero llega por una empresa o colegio, la comisión baja el margen en $29.000 por niño por semana ($232.000 con 8 niños). Un segundo grupo (de 7 a 9 y de 10 a 12) duplica el costo: segundo profesor, segunda auxiliar, segundo salón.
 
 ## 3. Resultado por semana, un grupo
 
