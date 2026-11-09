@@ -46,7 +46,7 @@ c.drawString(M, H - M - 0.85 * cm, 'Se llena en la reunión de las 8:30 (10 minu
 # Tabla 1: numeros del dia
 y = H - M - 1.6 * cm
 c.setFont('Helvetica-Bold', 10.5); c.drawString(M, y, '1. Números del día (reunión de las 8:30)'); y -= 0.3 * cm
-cols = ['Día', 'Leads\nnuevos', 'Citas\nagendadas', 'Citas\nasistidas', 'Separaciones\n(cupos pagados)', 'Matrículas\n(inicial pagada)', 'Visitas de\nalianzas', 'Reporte 5 pm\nllegó (sí/no)', 'Nota / incumplimiento']
+cols = ['Día', 'Leads\nnuevos', 'Citas\nagendadas', 'Citas\nasistidas', 'Separaciones\npagadas', 'Matrículas\n(inicial)', 'Visitas de\nalianzas', 'Reporte 5 pm\nllegó (sí/no)', 'Nota / incumplimiento']
 aw = W - 2 * M
 widths = [aw * p for p in (0.085, 0.07, 0.085, 0.085, 0.105, 0.105, 0.085, 0.1, 0.28)]
 y = tabla(c, M, y, cols, widths, ['Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'TOTAL SEMANA'], 0.72 * cm)
